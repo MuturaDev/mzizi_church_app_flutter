@@ -1,0 +1,101 @@
+PODS:
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - connectivity_macos (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_money_formatter (0.0.1):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - path_provider (0.0.1):
+    - Flutter
+  - path_provider_macos (0.0.1):
+    - Flutter
+  - Reachability (3.2)
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+  - url_launcher (0.0.1):
+    - Flutter
+  - url_launcher_macos (0.0.1):
+    - Flutter
+  - url_launcher_web (0.0.1):
+    - Flutter
+  - webview_media (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - connectivity_macos (from `.symlinks/plugins/connectivity_macos/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_money_formatter (from `.symlinks/plugins/flutter_money_formatter/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - path_provider_macos (from `.symlinks/plugins/path_provider_macos/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+  - url_launcher_macos (from `.symlinks/plugins/url_launcher_macos/ios`)
+  - url_launcher_web (from `.symlinks/plugins/url_launcher_web/ios`)
+  - webview_media (from `.symlinks/plugins/webview_media/ios`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - Reachability
+
+EXTERNAL SOURCES:
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  connectivity_macos:
+    :path: ".symlinks/plugins/connectivity_macos/ios"
+  Flutter:
+    :path: Flutter
+  flutter_money_formatter:
+    :path: ".symlinks/plugins/flutter_money_formatter/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  path_provider_macos:
+    :path: ".symlinks/plugins/path_provider_macos/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+  url_launcher_macos:
+    :path: ".symlinks/plugins/url_launcher_macos/ios"
+  url_launcher_web:
+    :path: ".symlinks/plugins/url_launcher_web/ios"
+  webview_media:
+    :path: ".symlinks/plugins/webview_media/ios"
+
+SPEC CHECKSUMS:
+  connectivity: c4130b2985d4ef6fd26f9702e886bd5260681467
+  connectivity_macos: e2e9731b6b22dda39eb1b128f6969d574460e191
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_money_formatter: d0d18ddc5be333fad8d09964d741b59fa11a91dc
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  path_provider_macos: f760a3c5b04357c380e2fddb6f9db6f3015897e0
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+  sqflite: 4001a31ff81d210346b500c55b17f4d6c7589dd0
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+  url_launcher_macos: fd7894421cd39320dce5f292fc99ea9270b2a313
+  url_launcher_web: e5527357f037c87560776e36436bf2b0288b965c
+  webview_media: 33604c2c1805f41bd0c6749c4d7de24b8cb4d81d
+
+PODFILE CHECKSUM: 9ec0b926d741f3b13993aceabf2687bc78d2468b
+
+COCOAPODS: 1.9.0.beta.2
