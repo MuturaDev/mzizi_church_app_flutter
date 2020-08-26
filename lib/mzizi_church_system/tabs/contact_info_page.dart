@@ -24,7 +24,6 @@ class PortalContactInfoPage extends KFDrawerContent {
 }
 
 class _CheckInpageState extends State<PortalContactInfoPage> {
-
   Future<dynamic> _optionToFetchOnline() async {
     PortalContactsDAO dao = new PortalContactsDAO();
 
@@ -77,11 +76,11 @@ class _CheckInpageState extends State<PortalContactInfoPage> {
               ),
             ),
           ),
-          title: Text('Church Contact Info',
+          title: Text('Contact Info',
               style: TextStyle(
-                fontSize: 15,
+                fontSize: 20,
               )),
-              centerTitle: true,
+          centerTitle: true,
           // actions: <Widget>[
           //   SpringButton(
           //     SpringButtonType.OnlyScale,
@@ -104,105 +103,115 @@ class _CheckInpageState extends State<PortalContactInfoPage> {
           // ],
         ),
         body: Container(
-      child:  EnhancedFutureBuilder(
-            future: _optionToFetchOnline(),
-            whenNotDone: Center(
-              child: CircularProgressIndicator(),
-            ),
-            rememberFutureResult: false,
-            whenDone: (dynamic data) {
-              List<PortalContacts> _contactList = data;
-              return Container(
-                color: Colors.white,
-                child: Stack(
-                  children: <Widget>[
-                    Positioned(
-                      top: 10.0,
-                      right: 5.0,
-                      left: 5.0,
-                      child: SizedBox(
-                        height: 5.0,
+          color: Color(0xFF487890),
+          child: EnhancedFutureBuilder(
+              future: _optionToFetchOnline(),
+              whenNotDone: Center(
+                  child: Container(
+                height: 250,
+                width: 250,
+                padding: EdgeInsets.all(0),
+                child: Image.asset(
+                    "assets/images/member_app_assets/Curve-Loading.gif"),
+              )),
+              rememberFutureResult: false,
+              whenDone: (dynamic data) {
+                List<PortalContacts> _contactList = data;
+                return Container(
+                  color: Color(0xFF487890),
+                  child: Stack(
+                    children: <Widget>[
+                      Positioned(
+                          top: 30,
+                          left: 5,
+                          right: 5,
+                          child: Container(
+                              padding: EdgeInsets.only(
+                                  top: 70, bottom: 15, right: 5, left: 5),
+                              child: Card(
+                                  elevation: 5,
+                                  child: Container(
+                                    padding: EdgeInsets.all(10),
+                                    width: double.infinity,
+                                    height: 500,
+                                    child: _contactList == null
+                                        ? _noContentWidget(context)
+                                        : _contactList.length <= 0
+                                            ? _noContentWidget(context)
+                                            : Container(
+                                                padding: EdgeInsets.all(5.0),
+                                                margin: EdgeInsets.only(
+                                                    top: 30.0, bottom: 5.0),
+                                                child: RefreshIndicator(
+                                                  child: ListView.builder(
+                                                    itemCount:
+                                                        _contactList.length,
+                                                    itemBuilder:
+                                                        (BuildContext context,
+                                                            int index) {
+                                                      return _buildListViewItemWidget(
+                                                          leftLabel:
+                                                              _contactList[
+                                                                      index]
+                                                                  .SettingName,
+                                                          rightLabel:
+                                                              _contactList[
+                                                                      index]
+                                                                  .SettingValue);
+                                                    },
+                                                  ),
+                                                  onRefresh: () async {
+                                                    setState(() {});
+                                                  },
+                                                ),
+                                              ),
+                                  )))),
+                      Positioned(
+                        top: 50,
+                        left: 10,
+                        right: 10,
                         child: Container(
-                          decoration: BoxDecoration(
-                            color: Colors.red,//HexColor("#00D8D8"),
-                            borderRadius:
-                                BorderRadius.all(Radius.circular(10.0)),
+                          width: 100,
+                          height: 100,
+                          decoration: new BoxDecoration(
+                            color: Colors.white,
+                            shape: BoxShape.circle,
+                          ),
+                          child: Container(
+                            child: Icon(
+                              Icons.contact_mail,
+                              color: Color(0xFF487890),
+                              size: 40,
+                            ),
                           ),
                         ),
                       ),
-                    ),
-                    _contactList == null
-                        ? _noContentWidget(context)
-                        : _contactList.length <= 0
-                            ? _noContentWidget(context)
-                            : Container(
-                                padding: EdgeInsets.all(5.0),
-                                margin: EdgeInsets.only(top: 10.0, bottom: 5.0),
-                                child: RefreshIndicator(
-                                  child: ListView.builder(
-                                    itemCount: _contactList.length,
-                                    itemBuilder:
-                                        (BuildContext context, int index) {
-                                      return _buildListViewItemWidget(
-                                          leftLabel:
-                                              _contactList[index].SettingName,
-                                          rightLabel:
-                                              _contactList[index].SettingValue);
-                                    },
-                                  ),
-                                  onRefresh: () async {
-                                    setState(() {});
-                                  },
-                                ),
-                              )
-                  ],
-                ),
-              );
-            }),
-    ),
+                    ],
+                  ),
+                );
+              }),
+        ),
       ),
     );
   }
 
-
-Widget _buildListViewItemWidget({String leftLabel, String rightLabel}) {
-  return Container(
-    margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 5.0),
-    child: Row(
-      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-      children: <Widget>[
-        Text(
-          leftLabel,
-          style: TextStyle(
-              fontWeight: FontWeight.bold,
-              fontSize: 15.0,
-              color: Colors.red
-        ),
-        ),
-        Flexible(
-                  child: HighlightAndCopyText(
-            rightLabel,
-            style: TextStyle(    
-                    
-              fontWeight: FontWeight.normal,
-              fontSize: 12.0,
-              
-              color: Colors.black54,
-            ),
-          ),
-        )
-        
-      ],
-    ),
-  );
-}
-
-Widget _noContentWidget(BuildContext context) => Center(
-      child: Text(
-        'No school contact details to show',
-        style: TextStyle(
-            color: Colors.green, fontSize: 13.0, fontWeight: FontWeight.normal),
+  Widget _buildListViewItemWidget({String leftLabel, String rightLabel}) {
+    return Container(
+      margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 5.0),
+      child: CustomTextFormField(
+        initialValue: rightLabel,
+        labelText: leftLabel.replaceAll("Institution", "Church"),
       ),
     );
+  }
 
+  Widget _noContentWidget(BuildContext context) => Center(
+        child: Text(
+          'No school contact details to show',
+          style: TextStyle(
+              color: Colors.green,
+              fontSize: 13.0,
+              fontWeight: FontWeight.normal),
+        ),
+      );
 }

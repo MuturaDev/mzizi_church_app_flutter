@@ -9,8 +9,15 @@ import 'package:mzizichurchsystem/mzizi_church_system/tabs/contributions_page.da
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/detailed_transactions_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/events_tap.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/home_page.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/more_announcements_details_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/notifications_page.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/photo_full_screen_page.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_application_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_chat_page.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_events_screens.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_member_profile.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_photo_gallery_page.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_video_gallery_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/sermon_series_tab.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/settings_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/class_builder.dart';
@@ -18,11 +25,16 @@ import 'package:mzizichurchsystem/mzizi_church_system/utils/class_builder.dart';
 enum Controller { Screen, DashboardScreen, Navigator }
 
 class RouteController {
+//NewRoute << DashboardScreen << Screen << OldRoute
+//NewerRoute << DashboardScreen << Screen << NewRoute
+
   static dynamic routeMethod(int selection,
       {Controller controller = Controller.DashboardScreen,
       VoidCallback onMenuPressed,
-      BuildContext context}) {
-    ClassBuilder.registerClasses(routePage: selection);
+      BuildContext context,
+      dynamic messagepass}) {
+    ClassBuilder.registerClasses(
+        routePage: selection, messagepass: messagepass);
 
     switch (selection) {
       case 0:
@@ -89,7 +101,7 @@ class RouteController {
         if (controller == Controller.Screen)
           returnWidgetOptions = ClassBuilder.fromString('DashboardScreen');
         else if (controller == Controller.DashboardScreen)
-          returnWidgetOptions = AnnouncementDetailsPage(
+          returnWidgetOptions = PortalMemberProfile(
             onMenuPressedHere: onMenuPressed,
           );
         else if (controller == Controller.Navigator)
@@ -133,6 +145,26 @@ class RouteController {
 
       //   return returnWidgetOptions;
       //   break;
+      case 5:
+        dynamic returnWidgetOptions;
+
+        if (controller == Controller.Screen)
+          returnWidgetOptions = ClassBuilder.fromString('DashboardScreen');
+        else if (controller == Controller.DashboardScreen)
+          returnWidgetOptions = PortalMoreAnnouncementsDetails(
+            onMenuPressedHere: onMenuPressed,
+          );
+        else if (controller == Controller.Navigator)
+          Navigator.push(
+              context,
+              MaterialPageRoute(
+                  builder: (context) => Screen(
+                        selectionIndex: selection,
+                      )));
+
+        return returnWidgetOptions;
+
+        break;
       case 6:
         dynamic returnWidgetOptions;
 
@@ -246,6 +278,25 @@ class RouteController {
                       )));
 
         return returnWidgetOptions;
+
+      case 12:
+        dynamic returnWidgetOptions;
+
+        if (controller == Controller.Screen)
+          returnWidgetOptions = ClassBuilder.fromString('DashboardScreen');
+        else if (controller == Controller.DashboardScreen)
+          returnWidgetOptions = PortalApplications(
+            onMenuPressedHere: onMenuPressed,
+          );
+        else if (controller == Controller.Navigator)
+          Navigator.push(
+              context,
+              MaterialPageRoute(
+                  builder: (context) => Screen(
+                        selectionIndex: selection,
+                      )));
+
+        return returnWidgetOptions;
       // case 12:
       //   dynamic returnWidgetOptions;
 
@@ -284,6 +335,97 @@ class RouteController {
           returnWidgetOptions = ClassBuilder.fromString('DashboardScreen');
         else if (controller == Controller.DashboardScreen)
           returnWidgetOptions = AuthPage(
+            onMenuPressedHere: onMenuPressed,
+          );
+        else if (controller == Controller.Navigator)
+          Navigator.push(
+              context,
+              MaterialPageRoute(
+                  builder: (context) => Screen(
+                        selectionIndex: selection,
+                      )));
+
+        return returnWidgetOptions;
+        break;
+
+      case 15:
+        dynamic returnWidgetOptions;
+
+        //navigator(OldRoute) >>> Screen`
+        //Screen >> DashboardScreen
+        //DashboardScreen >>> NewRoute
+        if (controller == Controller.Screen) //screen
+          returnWidgetOptions = ClassBuilder.fromString('DashboardScreen');
+        else if (controller == Controller.DashboardScreen) //dashboardscreen
+          returnWidgetOptions = PortalPhotoGalleryPage(
+            onMenuPressedHere: onMenuPressed,
+          );
+        else if (controller == Controller.Navigator) //olderRoute
+          Navigator.push(
+              context,
+              MaterialPageRoute(
+                  builder: (context) => Screen(
+                        selectionIndex: selection,
+                      )));
+
+        return returnWidgetOptions;
+        break;
+
+      case 16:
+        dynamic returnWidgetOptions;
+
+        if (controller == Controller.Screen)
+          returnWidgetOptions = ClassBuilder.fromString('DashboardScreen');
+        else if (controller == Controller.DashboardScreen)
+          returnWidgetOptions = PortalVideoGalleryPage(
+            onMenuPressedHere: onMenuPressed,
+          );
+        else if (controller == Controller.Navigator)
+          Navigator.push(
+              context,
+              MaterialPageRoute(
+                  builder: (context) => Screen(
+                        selectionIndex: selection,
+                      )));
+
+        return returnWidgetOptions;
+        break;
+
+      case 17:
+        dynamic returnWidgetOptions;
+
+        var message = messagepass;
+
+        if (controller == Controller.Screen)
+          returnWidgetOptions = ClassBuilder.fromString('DashboardScreen');
+        else if (controller == Controller.DashboardScreen)
+          //  if (message ==
+          //     null) {
+          //   ClassBuilder.fromString('DashboardScreen');
+          // } else {
+
+          returnWidgetOptions = PhotoFullScreen(
+              //onMenuPressedHere: onMenuPressed,
+              messagepass);
+        //}
+        else if (controller == Controller.Navigator)
+          Navigator.push(
+              context,
+              MaterialPageRoute(
+                  builder: (context) => Screen(
+                        selectionIndex: selection,
+                        messagepass: messagepass,
+                      )));
+
+        return returnWidgetOptions;
+        break;
+      case 18:
+        dynamic returnWidgetOptions;
+
+        if (controller == Controller.Screen)
+          returnWidgetOptions = ClassBuilder.fromString('DashboardScreen');
+        else if (controller == Controller.DashboardScreen)
+          returnWidgetOptions = PortalEventsScreen(
             onMenuPressedHere: onMenuPressed,
           );
         else if (controller == Controller.Navigator)

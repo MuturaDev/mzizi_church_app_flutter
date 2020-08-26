@@ -1,7 +1,13 @@
+import 'dart:async';
+
+import 'package:enhanced_future_builder/enhanced_future_builder.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/dao/authenticate_user_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/login_page_example.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/signup_example.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_authentication_response_model.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/screens/Screen.dart';
 
 class WelcomePage extends StatefulWidget {
   WelcomePage({Key key, this.title}) : super(key: key);
@@ -12,7 +18,26 @@ class WelcomePage extends StatefulWidget {
   _WelcomePageState createState() => _WelcomePageState();
 }
 
-class _WelcomePageState extends State<WelcomePage> {
+class _WelcomePageState extends State<WelcomePage>
+    with SingleTickerProviderStateMixin {
+  AnimationController _animationController;
+  Animation<double> _animation;
+
+  @override
+  void initState() {
+    super.initState();
+
+    _animationController = AnimationController(
+      vsync: this,
+      duration: Duration(seconds: 5),
+    )..addListener(() => setState(() {}));
+
+    _animation =
+        Tween<double>(begin: 0.0, end: 1.0).animate(_animationController);
+
+    _animationController.forward();
+  }
+
   Widget _submitButton() {
     return InkWell(
       onTap: () {
@@ -95,7 +120,7 @@ class _WelcomePageState extends State<WelcomePage> {
     return RichText(
       textAlign: TextAlign.center,
       text: TextSpan(
-          text: 'J',
+          text: 'Mzizi',
           style: GoogleFonts.portLligatSans(
             textStyle: Theme.of(context).textTheme.display1,
             fontSize: 30,
@@ -104,7 +129,7 @@ class _WelcomePageState extends State<WelcomePage> {
           ),
           children: [
             TextSpan(
-              text: 'CC',
+              text: 'CMS',
               style: TextStyle(color: Colors.black, fontSize: 30),
             ),
             TextSpan(
@@ -115,11 +140,45 @@ class _WelcomePageState extends State<WelcomePage> {
     );
   }
 
+  Future<bool> _isUserLoggedIn() async {
+    bool isUserLoggedIn = false;
+    final AuthenticateUserDAO dao = new AuthenticateUserDAO();
+    try {
+      List<AuthenticationUserResponse> authUserList = await dao.getUser();
+      if (authUserList.isNotEmpty) {
+        isUserLoggedIn = true;
+      }
+    } catch (e) {
+      throw (e);
+    }
+    return isUserLoggedIn;
+  }
+
+  void navigationPage() async {
+    if (await _isUserLoggedIn()) {
+      Navigator.pushReplacement(
+          context, MaterialPageRoute(builder: (context) => Screen(selectionIndex: 0),));
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body:SingleChildScrollView(
-        child:Container(
+    startTime() async {
+      var _duration = new Duration(seconds: 4);
+      return new Timer(_duration, navigationPage);
+    }
+
+    FocusScopeNode currentFocus = FocusScope.of(context);
+    if (!currentFocus.hasPrimaryFocus) {
+      currentFocus.unfocus();
+    }
+
+    return SafeArea(
+      top: false,
+      bottom: false,
+      child: Scaffold(
+        body: SingleChildScrollView(
+          child: Container(
             padding: EdgeInsets.symmetric(horizontal: 20),
             height: MediaQuery.of(context).size.height,
             decoration: BoxDecoration(
@@ -136,32 +195,73 @@ class _WelcomePageState extends State<WelcomePage> {
                     end: Alignment.bottomCenter,
                     colors: [
                       Color(0xFF7DACC6),
-                    Color(0xFF487890),])),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.center,
-              mainAxisAlignment: MainAxisAlignment.center,
+                      Color(0xFF487890),
+                    ])),
+            child: Stack(
               children: <Widget>[
-                Image(
-                  height: 200,
-                  width: double.infinity,
-                  image: AssetImage('assets/images/member_app_assets/jcc_logo2.png'),),
-                SizedBox(height: 10),
-                _title(),
-                SizedBox(
-                  height: 80,
+                Positioned(
+                  top: 100,
+                  right: 5,
+                  left: 5,
+                  //bottom: ,
+                  child: FadeTransition(
+                    opacity: _animation,
+                    child: Container(
+                      margin: EdgeInsets.only(left: 5.0, right: 5.0, top: 0.0),
+                      child: Image(
+                        height: 200,
+                        width: 200,
+                        image: AssetImage(
+                            'assets/images/member_app_assets/church_logo_no_bg2.png'),
+                      ),
+                    ),
+                  ),
                 ),
-                _submitButton(),
-                SizedBox(
-                  height: 20,
+                Positioned(
+                  top: 90,
+                  right: 5,
+                  left: 5,
+                  bottom: 5,
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: <Widget>[
+                      _title(),
+                      SizedBox(
+                        height: 80,
+                      ),
+                      EnhancedFutureBuilder(
+                          future: _isUserLoggedIn(),
+                          rememberFutureResult: false,
+                          whenDone: (dynamic data) {
+                            Widget returnWidget;
+
+                            if (data) {
+                              
+                              startTime();
+                              returnWidget = Container();
+                            } else {
+                              returnWidget = _submitButton();
+                            }
+
+                            return returnWidget;
+                          },
+                          whenNotDone: Container()),
+                      SizedBox(
+                        height: 20,
+                      ),
+                      // _signUpButton(),
+                      // SizedBox(
+                      //   height: 20,
+                      // ),
+                      // _label()
+                    ],
+                  ),
                 ),
-                // _signUpButton(),
-                // SizedBox(
-                //   height: 20,
-                // ),
-                // _label()
               ],
             ),
           ),
+        ),
       ),
     );
   }

@@ -21,11 +21,11 @@ class _HomeCarousellState extends State<HomeCarousell> {
 
     'https://imagizer.imageshack.com/img924/1260/o8aVXk.jpg',
 
-    'http://www.jccmombasa.org/images/2018.jpg',
-    'http://www.jccmombasa.org/images/church.jpg',
-    'http://www.jccmombasa.org/images/e.jpg',
-    'http://www.jccmombasa.org/images/f.jpg',
-    'http://www.jccmombasa.org/images/c.jpg'
+    // 'http://www.jccmombasa.org/images/2018.jpg',
+    // 'http://www.jccmombasa.org/images/church.jpg',
+    // 'http://www.jccmombasa.org/images/e.jpg',
+    // 'http://www.jccmombasa.org/images/f.jpg',
+    // 'http://www.jccmombasa.org/images/c.jpg'
   ];
 
   int _current = 0;

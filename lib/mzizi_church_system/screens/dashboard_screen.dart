@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 import 'package:line_icons/line_icons.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/google_bottom_navigation.dart';
@@ -24,8 +25,9 @@ import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart'
 class DashboardScreen extends KFDrawerContent {
   int selectedIndex = 0;
   VoidCallback passOnMenuPressed;
+  dynamic messagepass;
 
-  DashboardScreen({this.selectedIndex, this.passOnMenuPressed});
+  DashboardScreen({this.selectedIndex, this.passOnMenuPressed, this.messagepass});
 
   @override
   _DashboardScreenState createState() => _DashboardScreenState();
@@ -52,6 +54,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
           widget.selectedIndex == null ? 0 : widget.selectedIndex,
           controller: Controller.DashboardScreen,
           onMenuPressed: widget.onMenuPressed,
+          messagepass: widget.messagepass
         ),
 
         bottomNavigationBar: Container(
@@ -75,12 +78,13 @@ class _DashboardScreenState extends State<DashboardScreen> {
                       backgroundColor: Color(0xFF487890),
                     ),
                     GButton(
-                      icon: LineIcons.money,
+                      icon: LineIcons.heart,
                       text: 'Make a Pledge',
                       backgroundColor: Color(0xFF487890),
                     ),
                     GButton(
-                      icon: Icons.redeem,
+                      icon: FontAwesomeIcons.moneyBillAlt,
+                      iconSize: 20,
                       text: 'My Contributions',
                       backgroundColor: Color(0xFF487890),
                     ),

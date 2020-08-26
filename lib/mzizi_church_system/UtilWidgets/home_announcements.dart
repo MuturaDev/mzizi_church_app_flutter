@@ -2,6 +2,7 @@ import 'package:enhanced_future_builder/enhanced_future_builder.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/dao/authenticate_user_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/portal_todo_list_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_student_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_to_do_list_response.dart';
@@ -15,11 +16,11 @@ class HomeAnnouncements extends StatelessWidget {
 
     try {
       if (await UtilityFunctions.checkConnection()) {
-        //Student student = await AuthenticateUserDAO().getStudent();
-        Student student = new Student("23309", "1000");
+        Student student = await AuthenticateUserDAO().getStudent();
+       // Student student = new Student("23309", "1000");
         if (student != null) {
           final dynamic transactions =
-              await ApiController.sendRequestForPortalRecentTransaction(
+              await ApiController.sendRequestForPortalToDoList(
                   student);
 
           await dao.deletePortalToDoLists();
@@ -56,9 +57,11 @@ class HomeAnnouncements extends StatelessWidget {
             Row(
               mainAxisAlignment: MainAxisAlignment.start,
               children: <Widget>[
-                Icon(FontAwesomeIcons.clipboardList, color: Color(0xFF487890)),
-                SizedBox(height: 10),
-                Text("Annoucements, Sermons",
+                Container(
+                  height: 25.0, width: 25.0,
+                  child: Image.asset('assets/images/member_app_assets/megaphone.png')),
+                SizedBox(width: 5),
+                Text("Announcements, Sermons",
                     style: TextStyle(color: Color(0xFF487890), fontSize: 15))
               ],
             ),
@@ -80,7 +83,7 @@ class HomeAnnouncements extends StatelessWidget {
                             color: Color(0xFF487890),
                           )))),
               onTapDown: (_) {
-                RouteController.routeMethod(2,
+                RouteController.routeMethod(5,
                     controller: Controller.Navigator, context: context);
               },
             )
@@ -91,10 +94,10 @@ class HomeAnnouncements extends StatelessWidget {
         height: 150,
         child: EnhancedFutureBuilder(
             future: _optionToFetchOnline(),
-            rememberFutureResult: false,
+            rememberFutureResult: true,
             whenDone: (dynamic data) {
-              List<PortalToDoList> portalToDoList = new List();
-              return portalToDoList.length < 1
+              List<PortalToDoList> portalToDoList = data;
+              return portalToDoList.length <= 0
                   ? Center(
                       child: Text("No annoucements to show",
                           style: TextStyle(
@@ -111,12 +114,12 @@ class HomeAnnouncements extends StatelessWidget {
                         return SizedBox(
                             child: Container(color: Colors.grey),
                             width: double.infinity,
-                            height: 1.0);
+                            height: 1);
                       },
-                      itemCount: 5);
+                      itemCount: portalToDoList.length);
             },
             whenNotDone: Center(
-              child: CircularProgressIndicator(),
+              child: Image.asset("assets/images/member_app_assets/Curve-Loading.gif"),
             )),
       ),
     ]));
@@ -124,9 +127,19 @@ class HomeAnnouncements extends StatelessWidget {
 
   Widget announcementListViewItemWidget(PortalToDoList portalToDo) {
     return Container(
-      padding: EdgeInsets.all(5.0),
-      child: Text(portalToDo.DiaryEntryType,
-          style: TextStyle(fontSize: 15, color: Colors.black)),
+          margin: EdgeInsets.only(top: 10),
+          color: Colors.white,
+          padding: EdgeInsets.all(5.0),
+          child: Container(
+        decoration: BoxDecoration(
+            borderRadius: BorderRadius.all(Radius.circular(5.0)),
+            color: Color(0xFF487890),
+          ),
+            
+        padding: EdgeInsets.all(10.0),
+        child: Text(portalToDo.DiaryEntryType,
+            style: TextStyle(fontSize: 15, color: Colors.white)),
+      ),
     );
   }
 }

@@ -35,9 +35,9 @@ class _AuthPageState extends State<AuthPage> {
     List<Widget> returnList = new List();
 
     final List<YoutubePlayerController> _controllers = [
-      'Sw6BQynR36Q',
-      'Sw6BQynR36Q',
-      'Sw6BQynR36Q',
+      // 'Sw6BQynR36Q',
+      // 'Sw6BQynR36Q',
+      // 'Sw6BQynR36Q',
       'Sw6BQynR36Q',
     ]
         .map<YoutubePlayerController>(

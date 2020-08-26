@@ -84,7 +84,6 @@ Future<List<ParentChatResponse>> _optionToFetchFromApi(
         msg: "Please specify message to send.",
         toastLength: Toast.LENGTH_SHORT,
         gravity: ToastGravity.TOP,
-        timeInSecForIos: 1,
         backgroundColor: Colors.red[900],
         textColor: Colors.white,
         fontSize: 16.0);
@@ -159,7 +158,6 @@ Future<List<ParentChatResponse>> _optionToFetchFromApi(
             msg: "Ooops, check your internet connection",
             toastLength: Toast.LENGTH_SHORT,
             gravity: ToastGravity.TOP,
-            timeInSecForIos: 1,
             backgroundColor: Colors.red[900],
             textColor: Colors.white,
             fontSize: 16.0);
@@ -237,7 +235,7 @@ ParentChatResponseDBDao dao;
           ),
           title: Text('Chat',
               style: TextStyle(
-                fontSize: 15,
+                fontSize: 20,
               )),
               centerTitle: true,
           // actions: <Widget>[

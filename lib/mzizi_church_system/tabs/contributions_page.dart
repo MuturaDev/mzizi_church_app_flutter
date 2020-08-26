@@ -39,65 +39,151 @@ class _PortalContributionsPageState extends State<PortalContributionsPage> {
               ),
             ),
           ),
-          title: Text('Contributions',
+          title: Text('Make a pledge',
               style: TextStyle(
-                fontSize: 15,
+                fontSize: 20,
               )),
           centerTitle: true,
         ),
         body: Container(
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            children: <Widget>[makePredgeWidget()],
-          ),
+          color: Color(0xFF487890),
+          child: makePredgeWidget(),
         ),
       ),
     );
   }
 
-  List<String> spinnerResponse = <String>[
-    "Select type by tapping on X, to the right",
+  var churchServices = <String>[
+    'Pledge For',
     "CONSTRUCTION PROJECT",
     "TITHE",
   ];
 
-  String _dropDownText;
-  String _dropDownID;
+  var dropDownValue = "One";
+  final _formKey = GlobalKey<FormState>();
 
   Widget makePredgeWidget() {
-    return Container(
-      padding: EdgeInsets.only(top: 10, bottom: 10, right: 10, left: 10),
-      child: Card(
-          elevation: 5,
+    return Stack(
+      children: <Widget>[
+        Positioned(
+          top: 30,
+          left: 5,
+          right: 5,
           child: Container(
-            padding: EdgeInsets.all(10),
-            width: double.infinity,
-            height: 300,
-            child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: <Widget>[
-                  Container(
-                    child: Center(
-                        child: Text("Make a pledge",
-                            style:
-                                TextStyle(fontSize: 12, color: Colors.black))),
-                  ),
-                  SizedBox(height: 10),
-                  DropDownField(
-                      value: spinnerResponse[0],
-                      icon: Icon(FontAwesomeIcons.gift),
-                      required: true,
-                      hintText: 'Select type',
-                      labelText: 'Pledge For *',
-                      items: spinnerResponse,
-                      strict: true,
-                      setter: (dynamic newValue) {
-                        _dropDownText= newValue;
-                        for(String spinner in spinnerResponse){}
-                        //_dropDownText= 
-                      }),
-                ]),
-          )),
+            padding: EdgeInsets.only(top: 70, bottom: 10, right: 5, left: 5),
+            child: Card(
+                elevation: 5,
+                child: Container(
+                  padding: EdgeInsets.all(10),
+                  width: double.infinity,
+                  height: 400,
+                  child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: <Widget>[
+                        // Container(
+                        //   child: Center(
+                        //       child: Text("Make a pledge",
+                        //           style:
+                        //               TextStyle(fontSize: 20, color: Colors.black))),
+                        // ),
+                        SizedBox(height: 50),
+                        Container(
+                            decoration: BoxDecoration(
+                                border:
+                                    Border.all(width: 1, color: Colors.grey)),
+                            padding: EdgeInsets.only(left: 10, right: 10),
+                            width: double.infinity,
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                              children: <Widget>[
+                                Container(
+                                  width: 200,
+                                  child: DropdownButton<String>(
+                                    value: churchServices[0],
+                                    icon: Icon(Icons.backspace,
+                                        color: Colors.white),
+                                    iconSize: 24,
+                                    elevation: 16,
+                                    style: TextStyle(color: Colors.grey),
+                                    underline: Container(
+                                      height: 2,
+                                      color: Colors.grey,
+                                    ),
+                                    onChanged: (String newValue) {
+                                      setState(() {
+                                        dropDownValue = newValue;
+                                      });
+                                    },
+                                    items: churchServices
+                                        .map<DropdownMenuItem<String>>(
+                                            (String value) {
+                                      return DropdownMenuItem<String>(
+                                        value: value,
+                                        child: Text(value),
+                                      );
+                                    }).toList(),
+                                  ),
+                                ),
+                                SizedBox(height: 10),
+                                Container(child: Icon(Icons.arrow_drop_down)),
+                              ],
+                            )),
+                        SizedBox(height: 20),
+                        Form(
+                          key: _formKey,
+                          child: TextFormField(
+                              initialValue: '',
+                              autovalidate: false,
+                              validator: (dynamic value) {
+                                if (value.isEmpty) {
+                                  return 'Please input the amount';
+                                } else {
+                                  return null;
+                                }
+                              },
+                              decoration: InputDecoration(
+                                labelText: 'Amount',
+                                //errorText: 'Please input the amount',
+                                border: OutlineInputBorder(),
+                                // suffixIcon: Icon(
+                                //   Icons.error,
+                                // )),
+                              )),
+                        ),
+                        SizedBox(
+                          height: 30,
+                        ),
+                        RaisedButton(
+                          color: Color(0xFF487890),
+                          onPressed: () {
+                            if (_formKey.currentState.validate()) {}
+                          },
+                          textColor: Colors.white,
+                          child: Container(
+                            margin: EdgeInsets.only(left: 40, right: 40),
+                            width: double.infinity,
+                            child: Center(child: Text('Apply')),
+                          ),
+                        )
+                      ]),
+                )),
+          ),
+        ),
+        Positioned(
+          top: 50,
+          left: 10,
+          right: 10,
+          child: Container(
+            width: 100,
+            height: 100,
+            decoration: new BoxDecoration(
+              color: Colors.white,
+              shape: BoxShape.circle,
+            ),
+            child: Icon(FontAwesomeIcons.heart, color: Color(0xFF487890), size: 50,),
+          ),
+        ),
+      ],
     );
   }
 }

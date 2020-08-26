@@ -21,7 +21,6 @@ class _SermonSeriesPageState extends State<SermonSeriesPage> {
       bottom: true,
       child: Scaffold(
           body: Container(
-             
               height: MediaQuery.of(context).size.height,
               child: Stack(
                 children: <Widget>[

@@ -40,7 +40,6 @@ class HomeRecentPledgeContributions extends StatelessWidget {
     }
   }
 
-
   Widget recentPledgesAndContributionsListViewItemWidget(
       List<PortalRecentTransaction> portalRecentTransactionList) {
     List<DataRow> rows = new List();
@@ -60,13 +59,17 @@ class HomeRecentPledgeContributions extends StatelessWidget {
                 fontSize: 10,
                 color: Colors.black,
                 fontWeight: FontWeight.bold))),
-        DataCell(Text(response.TranAmount,
+        DataCell(Text(
+            UtilityFunctions.formatToCurrencyWithMoneyFormatterPUB(
+                response.TranAmount),
             style: TextStyle(
                 fontSize: 10,
                 color: Colors.black,
                 fontWeight: FontWeight.bold))),
         DataCell(Container(
-          child: Text(response.BalAmount,
+          child: Text(
+              UtilityFunctions.formatToCurrencyWithMoneyFormatterPUB(
+                  response.BalAmount),
               style: TextStyle(
                   fontSize: 10,
                   color: Colors.black,
@@ -115,7 +118,7 @@ class HomeRecentPledgeContributions extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(  
+    return Container(
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
         children: <Widget>[
@@ -166,10 +169,10 @@ class HomeRecentPledgeContributions extends StatelessWidget {
             ),
           ),
           Container(
-              // height: 150,
+              height: 150,
               child: EnhancedFutureBuilder(
                   future: _optionToFetchOnline(),
-                  rememberFutureResult: false,
+                  rememberFutureResult: true,
                   whenDone: (dynamic data) {
                     List<PortalRecentTransaction> portalRecentTransactionList =
                         data;
@@ -177,8 +180,13 @@ class HomeRecentPledgeContributions extends StatelessWidget {
                         portalRecentTransactionList);
                   },
                   whenNotDone: Center(
-                    child: CircularProgressIndicator(),
-                  ))),
+                      child: Container(
+                    // height: 250,
+                    // width: 250,
+                    padding: EdgeInsets.all(0),
+                    child: Image.asset(
+                        "assets/images/member_app_assets/Curve-Loading.gif"),
+                  )))),
         ],
       ),
     );

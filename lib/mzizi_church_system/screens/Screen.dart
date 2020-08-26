@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:line_icons/line_icons.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/dao/current_student_logout.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/example_screens/welcome_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/screens/dashboard_screen.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/auth_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/class_builder.dart';
@@ -10,7 +12,8 @@ import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart'
 
 class Screen extends StatefulWidget {
   int selectionIndex = 0;
-  Screen({this.selectionIndex});
+  dynamic messagepass;
+  Screen({this.selectionIndex, this.messagepass});
   @override
   _ScreenState createState() => _ScreenState();
 }
@@ -23,7 +26,8 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
     super.initState();
     _drawerController = KFDrawerController(
       initialPage: RouteController.routeMethod(widget.selectionIndex,
-          controller: Controller.Screen),
+          controller: Controller.Screen,
+          messagepass: widget.messagepass),
       // initialPage: ClassBuilder.fromString('DashboardScreen'),
       items: [
         KFDrawerItem.initWithPage(
@@ -39,12 +43,12 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
             style: TextStyle(color: Colors.white),
           ),
           icon: Icon(LineIcons.calendar_o, color: Colors.white),
-          page: RouteController.routeMethod(8,
+          page: RouteController.routeMethod(18,
               controller: Controller.Screen),
         ),
         KFDrawerItem.initWithPage(
           text: Text(
-            'Sms History',
+            'SMS History',
             style: TextStyle(color: Colors.white),
           ),
           icon: Icon(LineIcons.history, color: Colors.white),
@@ -57,7 +61,7 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
             style: TextStyle(color: Colors.white),
           ),
           icon: Icon(LineIcons.video_camera, color: Colors.white),
-          page: RouteController.routeMethod(6,//1,
+          page: RouteController.routeMethod(16,//1,
               controller: Controller.Screen),
         ),
         KFDrawerItem.initWithPage(
@@ -66,18 +70,27 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
             style: TextStyle(color: Colors.white),
           ),
           icon: Icon(LineIcons.photo, color: Colors.white),
-          page: RouteController.routeMethod(11,
+          page: RouteController.routeMethod(15,
               controller: Controller.Screen),
         ),
         KFDrawerItem.initWithPage(
           text: Text(
-            'Settings',
+            'Self Enroll',
             style: TextStyle(color: Colors.white),
           ),
-          icon: Icon(Icons.settings, color: Colors.white),
-          page: RouteController.routeMethod(7,
+          icon: Icon(Icons.check_circle_outline, color: Colors.white),
+          page: RouteController.routeMethod(12,
               controller: Controller.Screen),
         ),
+        // KFDrawerItem.initWithPage(
+        //   text: Text(
+        //     'Settings',
+        //     style: TextStyle(color: Colors.white),
+        //   ),
+        //   icon: Icon(Icons.settings, color: Colors.white),
+        //   page: RouteController.routeMethod(7,
+        //       controller: Controller.Screen),
+        // ),
       ],
     );
   }
@@ -89,19 +102,25 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
         //  borderRadius: 0.0,
         //  shadowBorderRadius: 0.0,
         //  menuPadding: EdgeInsets.all(0.0),
-        //scrollable: true,
+       //scrollable: true,
         controller: _drawerController,
         header: Align(
           alignment: Alignment.centerLeft,
           child: Container(
-            padding: EdgeInsets.symmetric(horizontal: 16.0, vertical: 10),
-            width: MediaQuery.of(context).size.width * 0.6,
+            //color: Colors.black,
+            height: 120,
+            width: 120,
+            margin: EdgeInsets.only(left: 20.0, top: 40),
+            padding: EdgeInsets.only(top: 0, right:0, bottom: 0, left: 0),
+            //padding: EdgeInsets.all(30),
+        //     width: MediaQuery.of(context).size.width * 0.6,
             child: Image.asset(
-              'assets/images/member_app_assets/jcc_logo2.png',
+              'assets/images/member_app_assets/church_logo_no_bg2.png',
               alignment: Alignment.centerLeft,
             ),
           ),
         ),
+    
         footer: KFDrawerItem(
           text: Text(
             'LOGOUT',
@@ -112,7 +131,14 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
             color: Colors.white,
             size: 20,
           ),
-          onPressed: () {},
+          onPressed: () async{
+             await Logout().logout(exceptAuthUser: true);
+
+            Navigator.pushReplacement(
+                context,
+                MaterialPageRoute(
+                    builder: (context) => WelcomePage()));
+          },
         ),
         decoration: BoxDecoration(
           gradient: LinearGradient(

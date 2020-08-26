@@ -12,8 +12,14 @@ import 'package:mzizichurchsystem/mzizi_church_system/example_screens/welcome_pa
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/youtube_video_example.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/screens/Screen.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/screens/dashboard_screen.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/auth_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/check_in_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/give_page.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/more_announcements_details_page.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/photo_full_screen_page.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_application_page.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_photo_gallery_page.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_video_gallery_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/sermon_series_tab.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/class_builder.dart';
 
@@ -55,7 +61,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
       showSemanticsDebugger: false,
-      title: 'Flutter Demo',
+      title: 'Mzizi CMS',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -69,12 +75,20 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       //home: ExampleScreens(),
-     home: Screen(),
-     //home: WelcomePage(),
+     //home: Screen(),
+     
      //home: ExampleForm(),
     //home: SermonSeriesPage(),
      //home: YoutubeVideoExample(),
      //home: SermonNotesPage()
+
+     home: WelcomePage(),
+     //home: PortalApplications()
+     //home: PortalMoreAnnouncementsDetails(),
+     //home: AuthPage(),
+     //home: PortalVideoGalleryPage(),
+      //home: PortalPhotoGalleryPage(),
+      //home: PhotoFullScreen(null),
     
     );
   }

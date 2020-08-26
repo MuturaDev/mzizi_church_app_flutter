@@ -1,5 +1,3 @@
-
-
 import 'package:mzizichurchsystem/mzizi_church_system/screens/dashboard_screen.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/calendar_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/dashboard.dart';
@@ -18,7 +16,6 @@ import 'package:mzizichurchsystem/mzizi_church_system/tabs/notifications_page.da
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_chat_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/sermon_series_tab.dart';
 
-
 typedef T Constructor<T>();
 
 final Map<String, Constructor<Object>> _constructors =
@@ -29,9 +26,10 @@ void register<T>(Constructor<T> constructor) {
 }
 
 class ClassBuilder {
-  static void registerClasses({int routePage = 0}) {
-   // register<MainPage>(() => MainPage());
-    register<DashboardScreen>(() => DashboardScreen(selectedIndex: routePage));
+  static void registerClasses({int routePage = 0, dynamic messagepass}) {
+    // register<MainPage>(() => MainPage());
+    register<DashboardScreen>(() =>
+        DashboardScreen(selectedIndex: routePage, messagepass: messagepass));
     // register<Dashboard>(()=> Dashboard());
     // register<CalendarPage>(() => CalendarPage());
     // register<SettingsPage>(() => SettingsPage());
@@ -49,7 +47,6 @@ class ClassBuilder {
     // register<PortalNotificationPage>(() => PortalNotificationPage());
   }
 
-  
   static dynamic fromString(String type) {
     return _constructors[type]();
   }

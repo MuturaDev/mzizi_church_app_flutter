@@ -352,4 +352,105 @@ class _RestClient implements RestClient {
         .toList();
     return Future.value(value);
   }
+
+  @override
+  apiGetPortalSMSHistory(request) async {
+    ArgumentError.checkNotNull(request, 'request');
+    const _extra = <String, dynamic>{};
+    final queryParameters = <String, dynamic>{};
+    final _data = <String, dynamic>{};
+    _data.addAll(request ?? {});
+    final _result = await _dio.request('/PortalSMSHistory',
+        queryParameters: queryParameters,
+        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        data: _data);
+    var value = (_result.data as List)
+        .map((i) => PortalNotification.fromJson(i))
+        .toList();
+    return Future.value(value);
+  }
+
+  @override
+  apiGetPortalChargeTypes(request) async {
+    ArgumentError.checkNotNull(request, 'request');
+    const _extra = <String, dynamic>{};
+    final queryParameters = <String, dynamic>{};
+    final _data = <String, dynamic>{};
+    _data.addAll(request ?? {});
+    final _result = await _dio.request('/ChargeTypes',
+        queryParameters: queryParameters,
+        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        data: _data);
+    var value = (_result.data as List)
+        .map((i) => PortalChargeTypeResponseModel.fromJson(i))
+        .toList();
+    return Future.value(value);
+  }
+
+  @override
+  apiGetPortalChurchServices(request) async {
+    ArgumentError.checkNotNull(request, 'request');
+    const _extra = <String, dynamic>{};
+    final queryParameters = <String, dynamic>{};
+    final _data = <String, dynamic>{};
+    _data.addAll(request ?? {});
+    final _result = await _dio.request('/PortalChurchServices',
+        queryParameters: queryParameters,
+        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        data: _data);
+    var value = (_result.data as List)
+        .map((i) => PortalChurchServices.fromJson(i))
+        .toList();
+    return Future.value(value);
+  }
+
+  @override
+  apiGetPortalCompanyLogo(request) async {
+    ArgumentError.checkNotNull(request, 'request');
+    const _extra = <String, dynamic>{};
+    final queryParameters = <String, dynamic>{};
+    final _data = <String, dynamic>{};
+    _data.addAll(request ?? {});
+    final _result = await _dio.request('/PortalGetCompanyImage',
+        queryParameters: queryParameters,
+        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        data: _data);
+    var value = _result.data;
+    return Future.value(value);
+  }
+
+  @override
+  apiGetPortalVideoGallery(request) async {
+    ArgumentError.checkNotNull(request, 'request');
+    const _extra = <String, dynamic>{};
+    final queryParameters = <String, dynamic>{};
+    final _data = <String, dynamic>{};
+    _data.addAll(request ?? {});
+    final _result = await _dio.request('/PortalYoutubeVideoGallery',
+        queryParameters: queryParameters,
+        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        data: _data);
+    var value = (_result.data as List)
+        .map((i) => PortalVideoGalleryResponseModel.fromJson(i))
+        .toList();
+    return Future.value(value);
+  }
+
+  @override
+  apiGetPortalPhotoGallery(request) async {
+    ArgumentError.checkNotNull(request, 'request');
+    const _extra = <String, dynamic>{};
+    final queryParameters = <String, dynamic>{};
+    final _data = <String, dynamic>{};
+    _data.addAll(request ?? {});
+    final _result = await _dio.request(
+        'https://church.mzizi.co.ke/PortalWebServices/StudentInfo.asmx/PortalAppGetPortalPhotoGallery',
+        queryParameters: queryParameters,
+        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        data: _data);
+    var value = (_result.data as List)
+        .map((i) => PortalPhotoGallery.fromJson(i))
+        .toList();
+    return Future.value(value);
+  }
 }

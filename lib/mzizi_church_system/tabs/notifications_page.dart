@@ -15,12 +15,10 @@ import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.da
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
 
 class PortalNotificationPage extends KFDrawerContent {
-
   VoidCallback onMenuPressedHere;
   PortalNotificationPage({this.onMenuPressedHere});
   @override
-  _PortalNotificationPageState createState() =>
-      _PortalNotificationPageState();
+  _PortalNotificationPageState createState() => _PortalNotificationPageState();
 }
 
 class _PortalNotificationPageState extends State<PortalNotificationPage> {
@@ -34,8 +32,8 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
       if (await UtilityFunctions.checkConnection()) {
         await new PortalNotificationDAO().deletePortalNotification(
             await new PortalNotificationDAO().getPortalNotification());
-       // Student student = await AuthenticateUserDAO().getStudent();
-       Student student = new Student("1391","1000");
+        // Student student = await AuthenticateUserDAO().getStudent();
+        Student student = new Student("1391", "1000");
         if (student != null) {
           List<PortalNotification> notificationList =
               await new PortalNotificationDAO().getLastNotification();
@@ -215,34 +213,33 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
     return SafeArea(
       top: false,
       bottom: false,
-          child: Scaffold(
-             appBar: AppBar(
-            backgroundColor: Color(0xFF487890),
-            leading: ClipRRect(
-              borderRadius: BorderRadius.all(Radius.circular(32.0)),
-              child: Material(
-                shadowColor: Colors.transparent,
-                color: Colors.transparent,
-                child: IconButton(
-                  icon: Icon(
-                    Icons.menu,
-                    color: Colors.white,
-                  ),
-                  onPressed: widget.onMenuPressedHere != null
-                      ? widget.onMenuPressedHere
-                      : widget.onMenuPressed,
+      child: Scaffold(
+        appBar: AppBar(
+          backgroundColor: Color(0xFF487890),
+          leading: ClipRRect(
+            borderRadius: BorderRadius.all(Radius.circular(32.0)),
+            child: Material(
+              shadowColor: Colors.transparent,
+              color: Colors.transparent,
+              child: IconButton(
+                icon: Icon(
+                  Icons.menu,
+                  color: Colors.white,
                 ),
+                onPressed: widget.onMenuPressedHere != null
+                    ? widget.onMenuPressedHere
+                    : widget.onMenuPressed,
               ),
             ),
-            title: Text('SMS History',
-                style: TextStyle(
-                  color: Colors.white,
-                  fontSize: 20,
-                )),
-            
           ),
-            body: Container(
-          color: Colors.white,
+          title: Text('SMS History',
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 20,
+              )),
+        ),
+        body: Container(
+          color: Color(0xFF487890),
           child: Stack(
             children: <Widget>[
               //TODO: Will change the view of this
@@ -251,11 +248,13 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
               //   child: KeySection(),
               // ),
               Container(
-                margin: EdgeInsets.only(top: 50.0, bottom: 5.0),
+                margin: EdgeInsets.only(top: 5.0, bottom: 5.0),
                 child: EnhancedFutureBuilder(
-                  future: _optionToFetchOnline(),
+                  //future: _optionToFetchOnline(),
+                  future: ApiController.sendRequestForPortalSMSHistory(),
                   whenNotDone: Center(
-                    child: CircularProgressIndicator(),
+                    child: Image.asset(
+                        'assets/images/member_app_assets/Curve-Loading.gif'),
                   ),
                   //Set rememberFutureResults to false to make the RefreshIndicator work
                   rememberFutureResult: false,
@@ -271,6 +270,7 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
                             ));
 
                     return Container(
+                      color: Color(0xFF487890),
                       child: Stack(
                         children: <Widget>[
                           _notificationList == null
@@ -319,13 +319,11 @@ Widget _buildListViewItemWidget(
   bool _readOrNotRead = notification.isRead;
 
   return Container(
-    margin: EdgeInsets.only(top: 5.0, bottom: 5.0),
-    color: Colors.white,
+    margin: EdgeInsets.only(top: 0.0, bottom: 5.0),
     child: Column(
       crossAxisAlignment: CrossAxisAlignment.center,
       children: <Widget>[
         Container(
-            color: Colors.white,
             padding: EdgeInsets.all(2.0),
             child: Stack(
               children: <Widget>[
@@ -378,11 +376,11 @@ Widget _receivedFromIconWidget() {
 Widget _bubbleWidget(
     PortalNotificationMessage notification, bool _readOrNotRead) {
   return Container(
-    margin: EdgeInsets.only(left: 30.0, top: 15.0),
+    margin: EdgeInsets.only(left: 5.0, top: 5.0),
     child: Bubble(
         margin: BubbleEdges.only(top: 10),
         nip: BubbleNip.leftTop,
-        color: Color(0xFF487890),
+        color: Colors.white,
         child: Stack(
           children: <Widget>[
             Container(
@@ -396,7 +394,7 @@ Widget _bubbleWidget(
                 style: TextStyle(
                     fontSize: 14.0,
                     fontWeight: FontWeight.normal,
-                    color: Colors.white,
+                    color: Color(0xFF487890),
                     fontStyle: FontStyle.normal),
               ),
             ),
@@ -418,9 +416,12 @@ Widget _bubbleWidget(
 
 Widget _dateWidget(String dateSent, bool readOrNotRead) {
   return Text(
-    dateSent,
+    UtilityFunctions.formatDate(dateSent),
     style: TextStyle(
-        fontWeight: FontWeight.normal, fontSize: 12.0, color: Colors.white),
+      fontWeight: FontWeight.normal,
+      fontSize: 12.0,
+      color: Color(0xFF487890),
+    ),
   );
 }
 
@@ -443,7 +444,7 @@ Widget _readOrNotReadWidget(bool _readOrNotRead) {
 
 Widget _noContentWidget(BuildContext context) => Center(
       child: Text(
-        'No school notification details to show',
+        'No sms history to show',
         style: TextStyle(
             color: Colors.green, fontSize: 13.0, fontWeight: FontWeight.normal),
       ),
