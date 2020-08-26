@@ -62,6 +62,7 @@ dependencies:
   #money2: ^1.4.3
   #https://pub.dev/packages/cached_network_image/install
   cached_network_image: ^2.2.0+1
+  get:
 
   
   
@@ -96,6 +97,8 @@ flutter:
    - assets/images/member_app_assets/photo_gallery.png
    - assets/images/member_app_assets/church.png
    - assets/images/member_app_assets/church_logo_no_bg2.png
+   - assets/images/member_app_assets/church_logo.jpeg 
+   - assets/images/member_app_assets/mzizi_church_logo.png
   
 
   # An image asset can refer to one or more resolution-specific "variants", see

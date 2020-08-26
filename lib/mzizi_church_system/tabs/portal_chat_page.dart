@@ -26,11 +26,12 @@ import 'package:line_icons/line_icons.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
 
-class WhenNotDone extends  StatefulWidget{
+ParentChatResponseDBDao daopass;
+
+class WhenNotDone extends StatefulWidget {
   VoidCallback onMenuPressedHere;
   ParentChatResponseDBDao dao;
 
-  
   WhenNotDone(this.dao);
 
   @override
@@ -38,42 +39,47 @@ class WhenNotDone extends  StatefulWidget{
 }
 
 class _WhenNotDoneState extends State<WhenNotDone> {
-
-
   @override
   Widget build(BuildContext context) {
-    return Container(
-        child: EnhancedStreamBuilder(
-      stream: widget.dao.getParentChatResponseStream(),
-      rememberStreamResult: false,
-      whenNotDone: Center(child: CircularProgressIndicator()),
-      whenDone: (dynamic data) {
-        return _chats(data, context, () async {
-          setState(
-            () {},
-          );
-        }, this);
-      },
-    ));
+    if (widget.dao == null)
+      return Container(
+          height: 250,
+          width: 250,
+          padding: EdgeInsets.all(0),
+          child:
+              Image.asset('assets/images/member_app_assets/Curve-Loading.gif'));
+    else
+      return Container(
+          child: EnhancedStreamBuilder(
+        stream: widget.dao.getParentChatResponseStream(),
+        rememberStreamResult: false,
+        whenNotDone: Center(
+          child: Container(
+              height: 200,
+              width: 200,
+              padding: EdgeInsets.all(0),
+              child: Image.asset(
+                  'assets/images/member_app_assets/Curve-Loading.gif')),
+        ),
+        whenDone: (dynamic data) {
+          return _chats(data, context, () async {
+            setState(
+              () {},
+            );
+          }, this);
+        },
+      ));
   }
- 
-
-
 }
-
-  ParentChatResponseDBDao daopass; 
 
 Future<List<ParentChatResponse>> _optionToFetchFromApi(
     {String message = "",
     String enquiryType = "1",
     bool sending = false,
     bool resend = false}) async {
+  final db = await $FloorAppDatabase.databaseBuilder("app_database.db").build();
 
-       final db = await $FloorAppDatabase
-                .databaseBuilder("app_database.db")
-                .build();
-            
-            daopass = db.getParentChatResponseDBDao;
+  daopass = db.getParentChatResponseDBDao;
 
   final PortalParentChatDAO dao = new PortalParentChatDAO();
   //This is for testing, dont undo
@@ -104,28 +110,28 @@ Future<List<ParentChatResponse>> _optionToFetchFromApi(
 
         await dao.insertPortalParentChat(chatList);
       }
-     // Student student = await AuthenticateUserDAO().getStudent();
-     Student student = new Student("23309","1000");
+      // Student student = await AuthenticateUserDAO().getStudent();
+      Student student = new Student("23309", "1000");
 
       if (student != null) {
         PortalParentChatRequest request = new PortalParentChatRequest(
-            student.StudentID,
-            message,
-            "0",
-            student.AppCode,
-           // enquiryType
-            ); //1= General Enquiry
+          student.StudentID,
+          message,
+          "0",
+          student.AppCode,
+          // enquiryType
+        ); //1= General Enquiry
 
         //TODO: Check messages that are new
         //  for(int i = 0; i < (portalChats as List<ParentChatResponse>).length; i++){
         //    if()
         //  }
 
-          //Two since one was not doing all the work
-         List<ParentChatResponse> portalChatsList =
+        //Two since one was not doing all the work
+        List<ParentChatResponse> portalChatsList =
             await ApiController.sendRequestForPortalParentChats(request);
 
-           portalChatsList =
+        portalChatsList =
             await ApiController.sendRequestForPortalParentChats(request);
 
         for (int i = 0; i < portalChatsList.length; i++) {
@@ -170,13 +176,9 @@ Future<List<ParentChatResponse>> _optionToFetchFromApi(
 }
 
 class PortalChatPage extends KFDrawerContent {
-  
   VoidCallback onMenuPressedHere;
-  
 
   PortalChatPage({this.onMenuPressedHere});
-
-  
 
   @override
   _PortalChatPageState createState() => _PortalChatPageState();
@@ -184,10 +186,9 @@ class PortalChatPage extends KFDrawerContent {
 
 class _PortalChatPageState extends State<PortalChatPage> {
   final textFormEditorController = new TextEditingController();
-ParentChatResponseDBDao dao;
+  ParentChatResponseDBDao dao;
   @override
   void initState() {
-   
     // _optionToFetchFromApi();
     // _controller.animateTo(20 * 20-1.0,
     //                                           duration: Duration(seconds: 2),
@@ -211,7 +212,7 @@ ParentChatResponseDBDao dao;
   @override
   Widget build(BuildContext context) {
     return SafeArea(
-       top: false,
+      top: false,
       bottom: false,
       child: Scaffold(
         appBar: AppBar(
@@ -237,7 +238,7 @@ ParentChatResponseDBDao dao;
               style: TextStyle(
                 fontSize: 20,
               )),
-              centerTitle: true,
+          centerTitle: true,
           // actions: <Widget>[
           //   SpringButton(
           //     SpringButtonType.OnlyScale,
@@ -259,9 +260,8 @@ ParentChatResponseDBDao dao;
           //   ),
           // ],
         ),
-
         body: Container(
-          color: Colors.white,
+          color: Color(0xFF487890),
           child: Stack(
             children: <Widget>[
               //Testing
@@ -287,22 +287,22 @@ ParentChatResponseDBDao dao;
               //     return returnWidget;
               //   },
               // ))),
-              Positioned(
-                top: 5.0,
-                right: 5.0,
-                left: 5.0,
-                child: Container(
-                  width: MediaQuery.of(context).size.width / 2,
-                  height: 40.0,
-                  child: Center(
-                    child: Image.asset("assets/images/key_bg_icon.png"),
-                  ),
-                ),
-              ),
+              // Positioned(
+              //   top: 5.0,
+              //   right: 5.0,
+              //   left: 5.0,
+              //   child: Container(
+              //     width: MediaQuery.of(context).size.width / 2,
+              //     height: 40.0,
+              //     child: Center(
+              //       child: Image.asset("assets/images/key_bg_icon.png"),
+              //     ),
+              //   ),
+              // ),
               Container(
                   margin: EdgeInsets.only(
-                      bottom: 45.0, top: 50.0, left: 5.0, right: 5.0),
-                  color: Colors.white,
+                      bottom: 45.0, top: 10.0, left: 5.0, right: 5.0),
+                  color: Color(0xFF487890),
                   child:
                       //EnhancedStreamBuilder(
                       EnhancedFutureBuilder(
@@ -312,8 +312,8 @@ ParentChatResponseDBDao dao;
                     //stream: _data,
                     //stream: widget.dao.getParentChatResponseStream(),
                     whenNotDone: Center(
-                      child: WhenNotDone(
-                          daopass), //CircularProgressIndicator(),
+                      child:
+                          WhenNotDone(daopass), //CircularProgressIndicator(),
                     ),
                     //rememberStreamResult: false,
                     rememberFutureResult: false,
@@ -332,8 +332,7 @@ ParentChatResponseDBDao dao;
                     height: 40,
                     padding: EdgeInsets.all(0.0),
                     decoration: BoxDecoration(
-                      border: Border.all(
-                          color: Color(0xFF487890), width: 1.0),
+                      border: Border.all(color: Colors.amber, width: 1.0),
                     ),
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -367,7 +366,7 @@ ParentChatResponseDBDao dao;
                               textAlign: TextAlign.start,
                               maxLines: null,
                               style: TextStyle(
-                                  color: Colors.blue,
+                                  color: Colors.white,
                                   fontWeight: FontWeight.w300),
                               controller: textFormEditorController,
                               decoration: InputDecoration(
@@ -375,9 +374,9 @@ ParentChatResponseDBDao dao;
                                 contentPadding: const EdgeInsets.only(
                                     bottom: 7.0, left: 5.0),
                                 border: InputBorder.none,
-                                fillColor: Colors.blue,
+                                fillColor: Colors.amber,
                                 hintStyle: TextStyle(
-                                    color: Colors.blue,
+                                    color: Colors.white,
                                     fontWeight: FontWeight.w300,
                                     fontSize: 14.0),
                                 hintText: "Enter message",
@@ -405,10 +404,10 @@ ParentChatResponseDBDao dao;
                             });
                           },
                           child: Container(
-                            width: 50.0,
+                            width: 70.0,
                             height: 40.0,
                             decoration: BoxDecoration(
-                              color: Color(0xFF487890),
+                              color: Colors.amber,
                             ),
                             child: Center(
                                 child: Text(
@@ -417,11 +416,11 @@ ParentChatResponseDBDao dao;
                             )),
                           ),
                         ),
-                        SizedBox(
-                          height: 40.0,
-                          width: 1.0,
-                        ),
-                        PopupDropDown()
+                        // SizedBox(
+                        //   height: 40.0,
+                        //   width: 1.0,
+                        // ),
+                        // PopupDropDown()
                       ],
                     ),
                   ),
@@ -545,7 +544,7 @@ class _PopupDropDownState extends State<PopupDropDown> {
         height: 40.0,
         width: 30.0,
         decoration: BoxDecoration(
-          color: Color(0xFF487890),
+          color: Colors.amber
         ),
         child: Center(
             child: Icon(
@@ -567,7 +566,7 @@ Widget messageSent(
       child: Bubble(
           margin: BubbleEdges.only(top: 10),
           nip: showNip ? BubbleNip.rightTop : BubbleNip.no,
-          color: Color(0xFF487890),
+          color:Colors.amber,
           child: Stack(
             children: <Widget>[
               Container(
@@ -578,11 +577,11 @@ Widget messageSent(
                   message.message,
                   // CustomStrings
                   //     .exampleText /*,overflow: TextOverflow.visible,textAlign: TextAlign.left*/,
-                  style:TextStyle(fontSize: 14.0,
-    fontWeight: FontWeight.normal,
-    color: Colors.white,
-    fontStyle: FontStyle.normal
-  ),
+                  style: TextStyle(
+                      fontSize: 14.0,
+                      fontWeight: FontWeight.normal,
+                      color: Colors.white,
+                      fontStyle: FontStyle.normal),
                 ),
               ),
               Positioned(
@@ -604,12 +603,12 @@ Widget messageSent(
 
   return Container(
     margin: EdgeInsets.only(top: 0.0, bottom: 0.0),
-    color: Colors.white,
+    
     child: Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: <Widget>[
         Container(
-            color: Colors.white,
+            color: Color(0xFF487890),
             padding: EdgeInsets.all(2.0),
             child: Stack(
               children: <Widget>[
@@ -661,11 +660,11 @@ Widget replySent(PortalChatMessage message, bool _readOrNotRead, bool showNip) {
                 message.message,
                 // CustomStrings
                 //     .exampleText /*,overflow: TextOverflow.visible,textAlign: TextAlign.left*/,
-                style: TextStyle(fontSize: 14.0,
-    fontWeight: FontWeight.normal,
-    color: Colors.white,
-    fontStyle: FontStyle.normal
-  ),
+                style: TextStyle(
+                    fontSize: 14.0,
+                    fontWeight: FontWeight.normal,
+                    color: Colors.white,
+                    fontStyle: FontStyle.normal),
               ),
             ),
             Positioned(
@@ -687,11 +686,11 @@ Widget replySent(PortalChatMessage message, bool _readOrNotRead, bool showNip) {
 Widget replySentWithIcon(
     PortalChatMessage message, bool _readOrNotRead, bool showNip) {
   Widget bubbleWidget = Container(
-    margin: EdgeInsets.only(left: 30.0, top: showNip ? 15.0 : 0.0),
+    margin: EdgeInsets.only(left: 38.0, top: showNip ? 15.0 : 0.0),
     child: Bubble(
         margin: BubbleEdges.only(top: 10),
         nip: showNip ? BubbleNip.leftTop : BubbleNip.no,
-        color: const Color(0xFF376DCB), //CustomColors.textPrimary,
+        color: const Color(0xFF9966ff), //CustomColors.textPrimary,
         child: Stack(
           children: <Widget>[
             Container(
@@ -702,11 +701,11 @@ Widget replySentWithIcon(
                 message.message,
                 // CustomStrings
                 //     .exampleText /*,overflow: TextOverflow.visible,textAlign: TextAlign.left*/,
-                style: TextStyle(fontSize: 14.0,
-    fontWeight: FontWeight.normal,
-    color: Colors.white,
-    fontStyle: FontStyle.normal
-  ),
+                style: TextStyle(
+                    fontSize: 14.0,
+                    fontWeight: FontWeight.normal,
+                    color: Colors.white,
+                    fontStyle: FontStyle.normal),
               ),
             ),
             Positioned(
@@ -726,12 +725,12 @@ Widget replySentWithIcon(
 
   return Container(
     margin: EdgeInsets.only(top: 0.0, bottom: 0.0),
-    color: Colors.white,
+    
     child: Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: <Widget>[
         Container(
-            color: Colors.white,
+            color: Color(0xFF487890),
             padding: EdgeInsets.all(2.0),
             child: Stack(
               children: <Widget>[
@@ -762,7 +761,7 @@ Widget _tapToSendWidget(bool tapOrNot) {
                 fontStyle: FontStyle.normal,
                 fontSize: 12.0,
                 fontWeight: FontWeight.bold,
-                color: Color(0xFF487890),
+                color: Colors.amber,
               )),
         ),
       ),
@@ -771,12 +770,12 @@ Widget _tapToSendWidget(bool tapOrNot) {
 }
 
 Widget _receivedFromIconWidget() {
-  return Icon(FontAwesomeIcons.facebookMessenger);
-  // return Image(
-  //   image: AssetImage(CustomDrawables.notificationReceivedFrom),
-  //   height: 40.0,
-  //   width: 40.0,
-  // );
+  //return Icon(FontAwesomeIcons.facebookMessenger);
+  return Image(
+    image: AssetImage('assets/images/member_app_assets/mzizi_church_logo.png'),
+    height: 40.0,
+    width: 40.0,
+  );
 }
 
 Widget _dateWidget(String dateSent, bool readOrNotRead) {
@@ -820,20 +819,22 @@ Widget _sending_NotSent_Sent_Widget(bool sending, bool notSent, bool sent) {
 }
 
 Widget _readOrNotReadWidget(bool _readOrNotRead) {
-  return _readOrNotRead
-      ? Container(
-          margin: EdgeInsets.only(left: 5.0),
-          decoration:
-              BoxDecoration(shape: BoxShape.circle, color: Color(0xFF669900)),
-          width: 10.0,
-          height: 10.0,
-        )
-      : Container(
-          margin: EdgeInsets.only(left: 5.0),
-          decoration: BoxDecoration(shape: BoxShape.circle, color: Colors.red),
-          width: 10.0,
-          height: 10.0,
-        );
+
+  return Container();
+  // return _readOrNotRead
+  //     ? Container(
+  //         margin: EdgeInsets.only(left: 5.0),
+  //         decoration:
+  //             BoxDecoration(shape: BoxShape.circle, color: Color(0xFF669900)),
+  //         width: 10.0,
+  //         height: 10.0,
+  //       )
+  //     : Container(
+  //         margin: EdgeInsets.only(left: 5.0),
+  //         decoration: BoxDecoration(shape: BoxShape.circle, color: Colors.red),
+  //         width: 10.0,
+  //         height: 10.0,
+  //       );
 }
 
 Widget _noContentWidget(BuildContext context) => Center(

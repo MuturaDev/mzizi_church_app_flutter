@@ -2,6 +2,7 @@ import 'dart:io';
 
 import 'package:enhanced_future_builder/enhanced_future_builder.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/progress_button.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
@@ -51,26 +52,34 @@ class _PortalApplicationsState extends State<PortalApplications> {
           centerTitle: true,
         ),
         body: Container(
-            color: Color(0xFF487890),
-            child: EnhancedFutureBuilder(
-                future: ApiController.sendRequestForPortalChurchServices(),
-                rememberFutureResult: true,
-                whenDone: (dynamic churchServicesList) {
-                  return EnhancedFutureBuilder(
-                      future: ApiController.sendRequestForPortalServiceTypes(),
-                      rememberFutureResult: true,
-                      whenDone: (dynamic serviceTypesList) {
-                        return body(churchServicesList, serviceTypesList);
-                      },
-                      whenNotDone: Center(
-                        child: Image.asset(
-                            'assets/images/member_app_assets/Curve-Loading.gif'),
-                      ));
-                },
-                whenNotDone: Center(
-                  child: Image.asset(
-                      'assets/images/member_app_assets/Curve-Loading.gif'),
-                ))),
+          color: Color(0xFF487890),
+                  child: SingleChildScrollView(
+                    physics: NeverScrollableScrollPhysics(),
+            scrollDirection: Axis.vertical,
+            child: Container(
+                color: Color(0xFF487890),
+                child: EnhancedFutureBuilder(
+                    future: ApiController.sendRequestForPortalChurchServices(),
+                    rememberFutureResult: true,
+                    whenDone: (dynamic churchServicesList) {
+                      return EnhancedFutureBuilder(
+                          future:
+                              ApiController.sendRequestForPortalServiceTypes(),
+                          rememberFutureResult: true,
+                          whenDone: (dynamic serviceTypesList) {
+                            return body(churchServicesList, serviceTypesList);
+                          },
+                          whenNotDone: Center(
+                            child: Image.asset(
+                                'assets/images/member_app_assets/Curve-Loading.gif'),
+                          ));
+                    },
+                    whenNotDone: Center(
+                      child: Image.asset(
+                          'assets/images/member_app_assets/Curve-Loading.gif'),
+                    ))),
+          ),
+        ),
       ),
     );
   }
@@ -80,7 +89,7 @@ class _PortalApplicationsState extends State<PortalApplications> {
   TextEditingController dateBookedController = new TextEditingController();
   TextEditingController ageController = new TextEditingController();
 
- static var serviceTpes = <String>[
+  static var serviceTpes = <String>[
     'Select Service Type',
     'One',
     'Two',
@@ -95,18 +104,20 @@ class _PortalApplicationsState extends State<PortalApplications> {
     'Four'
   ];
 
-  String selectedServiceType  = 'Select Service Type';
+  String selectedServiceType = 'Select Service Type';
   String selectedChurchService = 'Select Church Service';
 
   Widget body(List<PortalChurchServices> churchServiceList,
       List<ServiceTypesModel> serviceTypeList) {
     return Container(
-        color: Color(0xFF487890),
-        height: double.infinity,
-        child: Stack(
+      height: MediaQuery.of(context).size.height,
+      width: MediaQuery.of(context).size.width,
+      child: Container(
+        child: Container(
+            child: Stack(
           children: <Widget>[
             Positioned(
-                top: 30,
+                top: 0,
                 left: 5,
                 right: 5,
                 child: Container(
@@ -118,30 +129,33 @@ class _PortalApplicationsState extends State<PortalApplications> {
                         padding: EdgeInsets.only(
                             top: 30, bottom: 10, right: 10, left: 10),
                         width: double.infinity,
-                        height: 500,
-                        child:
-                            serviceBookingSection(churchServiceList, serviceTypeList),
+                        height: 450,
+                        child: serviceBookingSection(
+                            churchServiceList, serviceTypeList),
                       )),
                 )),
             Positioned(
-              top: 50,
+              top: 20,
               left: 10,
               right: 10,
               child: Container(
-                  width: 100,
-                  height: 100,
-                  decoration: new BoxDecoration(
-                    color: Colors.white,
-                    shape: BoxShape.circle,
-                  ),
-                  child: Container(
-                    padding: EdgeInsets.all(10),
-                    child: Image.asset(
-                        'assets/images/member_app_assets/church.png'),
-                  )),
+                width: 100,
+                height: 100,
+                decoration: new BoxDecoration(
+                  color: Colors.white,
+                  shape: BoxShape.circle,
+                ),
+                child: Container(
+                  padding: EdgeInsets.all(10),
+                  child:
+                      Image.asset('assets/images/member_app_assets/church.png'),
+                ),
+              ),
             ),
           ],
-        ));
+        )),
+      ),
+    );
   }
 
   Widget serviceBookingSection(List<PortalChurchServices> churchServiceList,
