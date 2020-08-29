@@ -102,7 +102,7 @@ class _RestClient implements RestClient {
         queryParameters: queryParameters,
         options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
         data: _data);
-    var value = _result.data;
+    var value = PortalGlobalSettingResponse.fromJson(_result.data);
     return Future.value(value);
   }
 
@@ -388,6 +388,38 @@ class _RestClient implements RestClient {
   }
 
   @override
+  apiGetPortalServiceTypes(request) async {
+    ArgumentError.checkNotNull(request, 'request');
+    const _extra = <String, dynamic>{};
+    final queryParameters = <String, dynamic>{};
+    final _data = <String, dynamic>{};
+    _data.addAll(request ?? {});
+    final _result = await _dio.request('/PortalServiceTypes',
+        queryParameters: queryParameters,
+        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        data: _data);
+    var value = (_result.data as List)
+        .map((i) => ServiceTypesModel.fromJson(i))
+        .toList();
+    return Future.value(value);
+  }
+
+  @override
+  apiPostMakeaPledge(request) async {
+    ArgumentError.checkNotNull(request, 'request');
+    const _extra = <String, dynamic>{};
+    final queryParameters = <String, dynamic>{};
+    final _data = <String, dynamic>{};
+    _data.addAll(request ?? {});
+    final _result = await _dio.request('/Contributions',
+        queryParameters: queryParameters,
+        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        data: _data);
+    var value = _result.data;
+    return Future.value(value);
+  }
+
+  @override
   apiGetPortalChurchServices(request) async {
     ArgumentError.checkNotNull(request, 'request');
     const _extra = <String, dynamic>{};
@@ -437,20 +469,17 @@ class _RestClient implements RestClient {
   }
 
   @override
-  apiGetPortalPhotoGallery(request) async {
+  apiGetPortalMemberProfile(request) async {
     ArgumentError.checkNotNull(request, 'request');
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
     _data.addAll(request ?? {});
-    final _result = await _dio.request(
-        'https://church.mzizi.co.ke/PortalWebServices/StudentInfo.asmx/PortalAppGetPortalPhotoGallery',
+    final _result = await _dio.request('/PortalStudentProfile',
         queryParameters: queryParameters,
         options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalPhotoGallery.fromJson(i))
-        .toList();
+    var value = PortalMemberProfileModel.fromJson(_result.data);
     return Future.value(value);
   }
 }

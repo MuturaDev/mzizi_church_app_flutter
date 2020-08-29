@@ -1,3 +1,4 @@
+import 'package:enhanced_future_builder/enhanced_future_builder.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
@@ -21,13 +22,15 @@ import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_chat_page.dart
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/sermon_series_tab.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/settings_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
 
 class DashboardScreen extends KFDrawerContent {
   int selectedIndex = 0;
   VoidCallback passOnMenuPressed;
   dynamic messagepass;
 
-  DashboardScreen({this.selectedIndex, this.passOnMenuPressed, this.messagepass});
+  DashboardScreen(
+      {this.selectedIndex, this.passOnMenuPressed, this.messagepass});
 
   @override
   _DashboardScreenState createState() => _DashboardScreenState();
@@ -50,11 +53,53 @@ class _DashboardScreenState extends State<DashboardScreen> {
         //     }, child: Icon(Icons.backspace)),
         //   title: const Text('Dashboard'),
         // ),
-        body: RouteController.routeMethod(
-          widget.selectedIndex == null ? 0 : widget.selectedIndex,
-          controller: Controller.DashboardScreen,
-          onMenuPressed: widget.onMenuPressed,
-          messagepass: widget.messagepass
+        body: Stack(
+          children: <Widget>[
+            Positioned(
+              top: 0,
+              right: 0,
+              left: 0,
+              bottom: 0,
+              child: RouteController.routeMethod(
+                  widget.selectedIndex == null ? 0 : widget.selectedIndex,
+                  controller: Controller.DashboardScreen,
+                  onMenuPressed: widget.onMenuPressed,
+                  messagepass: widget.messagepass),
+            ),
+            Positioned(
+              // top: 30,
+              right: 0,
+              left: 0,
+              bottom: 0,
+              child: EnhancedFutureBuilder(
+                future: UtilityFunctions.checkConnection(),
+                rememberFutureResult: false,
+                whenDone: (dynamic data) {
+                  return IgnorePointer(
+                    ignoring: !data,
+                    child: AnimatedOpacity(
+                      opacity: !data ? 1 : 0,
+                      duration: Duration(milliseconds: 500),
+                      child: Container(
+                        color: Colors.red,
+                          height: 35,
+                          child: Center(
+                            child: Text(
+                              'No internet connection. Some services wont work',
+                              textAlign: TextAlign.center,
+                              style: TextStyle(
+                                  color: Colors.white,
+                                  fontWeight: FontWeight.bold,
+                                  fontSize: 12.0),
+                            ),
+                          )),
+                    ),
+                  );
+                },
+                whenNotDone: Container(),
+              ),
+            )
+          ],
         ),
 
         bottomNavigationBar: Container(

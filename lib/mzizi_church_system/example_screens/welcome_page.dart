@@ -194,7 +194,8 @@ class _WelcomePageState extends State<WelcomePage>
                     begin: Alignment.topCenter,
                     end: Alignment.bottomCenter,
                     colors: [
-                      Color(0xFF7DACC6),
+                      //Color(0xFF7DACC6),
+                      Color.fromRGBO(255, 255, 255, 1.0),
                       Color(0xFF487890),
                     ])),
             child: Stack(

@@ -546,7 +546,17 @@ var profile = [
     "InstituteName": "MZIZI DEMO CHURCH",
     "GroupName": "DEMO MEMBERS",
     "StudentPhoneNo": "0720061812",
-    "Email": "simon@mzizi.co.ke"
+    "Email": "simon@mzizi.co.ke",
+    "studentFullName": "",
+    "registrationNumer": "",
+    "schoolName": "",
+    "groupName": "",
+    "studentPhoneNo": "",
+    "email": "",
+    "courseCode": "",
+    "levelName": "",
+    "nationality": "",
+    "nationalID": "",
   }
 ];
 
@@ -562,10 +572,10 @@ var churchServices = [
     "StartTime": "01:34:00 AM",
     "EndTime": "01:34:00 AM",
     "Capacity": "96",
-    "ServiceType": "",
+    "ServiceType": "1",
     "Description": "Presided by Pastor Dr ...",
     "Name": "First Service",
-    "ChurchServiceDate": "8/2/2020 12:00:00 AM"
+    "ChurchServiceDate": "8/30/2020 12:00:00 AM"
   },
   {
     "ID": "2",
@@ -573,10 +583,10 @@ var churchServices = [
     "StartTime": "07:15:00 AM",
     "EndTime": "08:30:00 AM",
     "Capacity": "99",
-    "ServiceType": "",
+    "ServiceType": "1",
     "Description": "First Service",
     "Name": "First Service",
-    "ChurchServiceDate": "7/26/2020 12:00:00 AM"
+    "ChurchServiceDate": "9/6/2020 12:00:00 AM"
   },
   {
     "ID": "3",
@@ -584,10 +594,10 @@ var churchServices = [
     "StartTime": "08:45:00 AM",
     "EndTime": "09:45:00 AM",
     "Capacity": "99",
-    "ServiceType": "",
+    "ServiceType": "2",
     "Description": "Bishop will be in",
     "Name": "Second Service",
-    "ChurchServiceDate": "7/26/2020 12:00:00 AM"
+    "ChurchServiceDate": "9/13/2020 12:00:00 AM"
   },
   {
     "ID": "4",
@@ -595,10 +605,10 @@ var churchServices = [
     "StartTime": "08:32:00 AM",
     "EndTime": "11:32:00 AM",
     "Capacity": "93",
-    "ServiceType": "",
+    "ServiceType": "2",
     "Description": "",
     "Name": "Church Demo",
-    "ChurchServiceDate": "8/8/2020 12:00:00 AM"
+    "ChurchServiceDate": "9/20/2020 12:00:00 AM"
   },
   {
     "ID": "5",
@@ -606,10 +616,10 @@ var churchServices = [
     "StartTime": "09:00:00 PM",
     "EndTime": "10:00:00 PM",
     "Capacity": "97",
-    "ServiceType": "",
+    "ServiceType": "3",
     "Description": "Night Service",
     "Name": "Night Service",
-    "ChurchServiceDate": "8/8/2020 12:00:00 AM"
+    "ChurchServiceDate": "9/27/2020 12:00:00 AM"
   }
 ];
 
@@ -635,7 +645,7 @@ var events = [
 ];
 
 var serviceTypes = [
-  {'ID': '1', 'Name': 'Adult Service'},
+  {'ID': '1', 'Name': 'Adult'},
   {'ID': '2', 'Name': 'Youth'},
   {'ID': '3', 'Name': 'Sunday School'}
 ];

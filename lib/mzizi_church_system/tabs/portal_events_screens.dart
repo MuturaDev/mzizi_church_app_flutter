@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_events_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 
 class PortalEventsScreen extends KFDrawerContent {
   final VoidCallback onMenuPressedHere;
@@ -14,41 +15,48 @@ class PortalEventsScreen extends KFDrawerContent {
 }
 
 class _PortalEventsScreenState extends State<PortalEventsScreen> {
+  Future<bool> _onBackPressed() {
+    RouteController.routeMethod(0,
+        controller: Controller.Navigator, context: context);
+  }
   @override
   Widget build(BuildContext context) {
     return SafeArea(
       top: false,
       bottom: false,
-      child: Scaffold(
-        appBar: AppBar(
-          backgroundColor: Color(0xFF487890),
-          primary: true,
-          leading: ClipRRect(
-            borderRadius: BorderRadius.all(Radius.circular(32.0)),
-            child: Material(
-              shadowColor: Colors.transparent,
-              color: Colors.transparent,
-              child: IconButton(
-                icon: Icon(
-                  Icons.menu,
-                  color: Colors.white,
+      child: WillPopScope(
+        onWillPop: _onBackPressed,
+              child: Scaffold(
+          appBar: AppBar(
+            backgroundColor: Color(0xFF487890),
+            primary: true,
+            leading: ClipRRect(
+              borderRadius: BorderRadius.all(Radius.circular(32.0)),
+              child: Material(
+                shadowColor: Colors.transparent,
+                color: Colors.transparent,
+                child: IconButton(
+                  icon: Icon(
+                    Icons.menu,
+                    color: Colors.white,
+                  ),
+                  onPressed: widget.onMenuPressedHere != null
+                      ? widget.onMenuPressedHere
+                      : widget.onMenuPressed,
                 ),
-                onPressed: widget.onMenuPressedHere != null
-                    ? widget.onMenuPressedHere
-                    : widget.onMenuPressed,
               ),
             ),
+            title: Text('Upcoming Events',
+                style: TextStyle(
+                  fontSize: 20,
+                )),
+            centerTitle: true,
           ),
-          title: Text('Upcoming Events',
-              style: TextStyle(
-                fontSize: 20,
-              )),
-          centerTitle: true,
-        ),
-        body: Container(
-          color: Color(0xFF487890),
-          height: double.infinity,
-          child: body(context),
+          body: Container(
+            color: Color(0xFF487890),
+            height: double.infinity,
+            child: body(context),
+          ),
         ),
       ),
     );
@@ -64,13 +72,18 @@ class _PortalEventsScreenState extends State<PortalEventsScreen> {
         rememberFutureResult: false,
         whenDone: (dynamic data) {
           List<PortalEvents> _eventList = data;
-          return Container(
-            margin: EdgeInsets.only(left: 5.0, right: 5.0),
-            child: _eventList == null
-                ? _noContentWidget(context)
-                : _eventList.length <= 0
-                    ? _noContentWidget(context)
-                    : RefreshIndicator(
+          Widget noContent = Center(
+            child: Text('No content to show',
+                style: TextStyle(fontSize: 15, color: Colors.amber)),
+          );
+
+          return data == null
+              ? noContent
+              : data.length <= 0
+                  ? noContent
+                  : Container(
+                      margin: EdgeInsets.only(left: 5.0, right: 5.0),
+                      child: RefreshIndicator(
                         child: ListView.builder(
                           itemCount: _eventList.length,
                           itemBuilder: (BuildContext context, int index) {
@@ -82,7 +95,7 @@ class _PortalEventsScreenState extends State<PortalEventsScreen> {
                           setState(() {});
                         },
                       ),
-          );
+                    );
         });
   }
 

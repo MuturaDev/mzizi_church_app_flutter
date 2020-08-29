@@ -7,6 +7,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/progress_butto
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/login_page_example.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_video_gallery_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
@@ -22,53 +23,70 @@ class _PortalVideoGalleryPageState extends State<PortalVideoGalleryPage> {
   static String selectedvideo = "";
 
   List<MediaInfo> mediaList = [];
-  List<String> urlList = ["https://www.youtube.com/watch?v=uv54ec8Pg1k"];
+  //List<String> urlList = ["https://www.youtube.com/watch?v=uv54ec8Pg1k"];
 
+  Future<bool> _onBackPressed() {
+    RouteController.routeMethod(0,
+        controller: Controller.Navigator, context: context);
+  }
+
+  @override
   Widget build(BuildContext context) {
-
     return SafeArea(
-      top: false,
-      bottom: false,
-      child: Scaffold(
-        appBar: AppBar(
-          backgroundColor: Color(0xFF487890),
-          primary: true,
-          leading: ClipRRect(
-            borderRadius: BorderRadius.all(Radius.circular(32.0)),
-            child: Material(
-              shadowColor: Colors.transparent,
-              color: Colors.transparent,
-              child: IconButton(
-                icon: Icon(
-                  Icons.menu,
-                  color: Colors.white,
+        top: false,
+        bottom: false,
+        child: WillPopScope(
+          onWillPop: _onBackPressed,
+          child: Scaffold(
+            appBar: AppBar(
+              backgroundColor: Color(0xFF487890),
+              primary: true,
+              leading: ClipRRect(
+                borderRadius: BorderRadius.all(Radius.circular(32.0)),
+                child: Material(
+                  shadowColor: Colors.transparent,
+                  color: Colors.transparent,
+                  child: IconButton(
+                    icon: Icon(
+                      Icons.menu,
+                      color: Colors.white,
+                    ),
+                    onPressed: widget.onMenuPressedHere != null
+                        ? widget.onMenuPressedHere
+                        : widget.onMenuPressed,
+                  ),
                 ),
-                onPressed: widget.onMenuPressedHere != null
-                    ? widget.onMenuPressedHere
-                    : widget.onMenuPressed,
               ),
+              title: Text('Video Gallery',
+                  style: TextStyle(
+                    fontSize: 20,
+                  )),
+              centerTitle: true,
+            ),
+            body: Container(
+              padding: EdgeInsets.all(5.0),
+              width: double.infinity,
+              height: double.infinity,
+              color: Color(0xFF487890),
+              child: EnhancedFutureBuilder(
+                  future: ApiController.sendReqeustForPortalVideoGallery(),
+                  rememberFutureResult: true,
+                  whenDone: (dynamic data) {
+                    Widget noContent = Center(
+                      child: Text('No content to show',
+                          style: TextStyle(fontSize: 15, color: Colors.amber)),
+                    );
+
+                    return data == null
+                        ? noContent
+                        : data.length <= 0 ? noContent : body(data);
+                  },
+                  whenNotDone: Center(
+                      child: Image.asset(
+                          "assets/images/member_app_assets/Curve-Loading.gif"))),
             ),
           ),
-          title: Text('Video Gallery',
-              style: TextStyle(
-                fontSize: 20,
-              )),
-          centerTitle: true,
-        ),
-        body: Container(
-            padding: EdgeInsets.all(5.0),
-            width: double.infinity,
-            height: double.infinity,
-            color: Color(0xFF487890),
-            child: EnhancedFutureBuilder(
-              future:  ApiController.sendReqeustForPortalVideoGallery(), 
-              rememberFutureResult: true, 
-              whenDone: (dynamic data){
-                return body(data);
-              }, 
-              whenNotDone: Center(child: Image.asset("assets/images/member_app_assets/Curve-Loading.gif"))),
-      ),)
-    );
+        ));
   }
 
   // final List<YoutubePlayerController> _controllers = [
@@ -87,19 +105,17 @@ class _PortalVideoGalleryPageState extends State<PortalVideoGalleryPage> {
   //       )
   //       .toList();
 
-  
   Widget body(final List<PortalVideoGalleryResponseModel> responseList) {
-
-    if(selectedvideo.isEmpty && responseList.isNotEmpty){
-      selectedvideo = UtilityFunctions.getVideoIDFromYoutubeUrl(responseList[0].VideoLink);
+    if (selectedvideo.isEmpty && responseList.isNotEmpty) {
+      selectedvideo =
+          UtilityFunctions.getVideoIDFromYoutubeUrl(responseList[0].VideoLink);
     }
 
-  YoutubePlayerController _youtubeController = YoutubePlayerController(
+    YoutubePlayerController _youtubeController = YoutubePlayerController(
         initialVideoId: selectedvideo,
         flags: YoutubePlayerFlags(
           autoPlay: false,
         ));
-
 
     return Container(
       child: Stack(
@@ -126,7 +142,7 @@ class _PortalVideoGalleryPageState extends State<PortalVideoGalleryPage> {
                         ProgressBar(isExpanded: true),
                         SizedBox(width: 10.0),
                         RemainingDuration(),
-                       // FullScreenButton(),
+                        // FullScreenButton(),
                       ],
                     ),
                   )),
@@ -141,7 +157,6 @@ class _PortalVideoGalleryPageState extends State<PortalVideoGalleryPage> {
               child: ListView.builder(
                   itemCount: responseList.length,
                   itemBuilder: (BuildContext context, int index) {
-                    
                     return listItemWidget(responseList[index]);
                   }),
             ),
@@ -155,7 +170,8 @@ class _PortalVideoGalleryPageState extends State<PortalVideoGalleryPage> {
     return GestureDetector(
       onTap: () {
         setState(() {
-          selectedvideo = UtilityFunctions.getVideoIDFromYoutubeUrl(response.VideoLink);
+          selectedvideo =
+              UtilityFunctions.getVideoIDFromYoutubeUrl(response.VideoLink);
         });
       },
       child: Card(
@@ -171,7 +187,7 @@ class _PortalVideoGalleryPageState extends State<PortalVideoGalleryPage> {
               children: <Widget>[
                 Container(
                   padding: EdgeInsets.only(top: 10, left: 5),
-                  width: 250,
+                  width: 200,
                   child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: <Widget>[
@@ -196,10 +212,14 @@ class _PortalVideoGalleryPageState extends State<PortalVideoGalleryPage> {
                   height: 150,
                   width: 130,
                   child: MediaListView(
-                    titleTextStyle: TextStyle(color: Colors.white),
-                    titleTextBackGroundColor: Colors.grey,
-                    overlayChild: Icon(Icons.save),
-                    urls: ["https://www.youtube.com/watch?v=" + UtilityFunctions.getVideoIDFromYoutubeUrl(response.VideoLink)],
+                    //titleTextStyle: TextStyle(color: Colors.white),
+                    // titleTextBackGroundColor: Colors.grey,
+                    overlayChild: Icon(Icons.save, color: Colors.transparent),
+                    urls: [
+                      "https://www.youtube.com/watch?v=" +
+                          UtilityFunctions.getVideoIDFromYoutubeUrl(
+                              response.VideoLink)
+                    ],
                     mediaList: mediaList,
                     onPressed: (url) {
                       //print(url);

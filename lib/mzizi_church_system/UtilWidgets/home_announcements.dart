@@ -17,11 +17,10 @@ class HomeAnnouncements extends StatelessWidget {
     try {
       if (await UtilityFunctions.checkConnection()) {
         Student student = await AuthenticateUserDAO().getStudent();
-       // Student student = new Student("23309", "1000");
+        // Student student = new Student("23309", "1000");
         if (student != null) {
           final dynamic transactions =
-              await ApiController.sendRequestForPortalToDoList(
-                  student);
+              await ApiController.sendRequestForPortalToDoList(student);
 
           await dao.deletePortalToDoLists();
 
@@ -58,8 +57,10 @@ class HomeAnnouncements extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.start,
               children: <Widget>[
                 Container(
-                  height: 25.0, width: 25.0,
-                  child: Image.asset('assets/images/member_app_assets/megaphone.png')),
+                    height: 25.0,
+                    width: 25.0,
+                    child: Image.asset(
+                        'assets/images/member_app_assets/megaphone.png')),
                 SizedBox(width: 5),
                 Text("Announcements, Sermons",
                     style: TextStyle(color: Color(0xFF487890), fontSize: 15))
@@ -97,29 +98,32 @@ class HomeAnnouncements extends StatelessWidget {
             rememberFutureResult: true,
             whenDone: (dynamic data) {
               List<PortalToDoList> portalToDoList = data;
-              return portalToDoList.length <= 0
-                  ? Center(
-                      child: Text("No annoucements to show",
-                          style: TextStyle(
-                              color: Colors.blueAccent,
-                              fontSize: 12,
-                              fontWeight: FontWeight.bold)),
-                    )
-                  : ListView.separated(
-                      itemBuilder: (BuildContext context, int index) {
-                        return announcementListViewItemWidget(
-                            portalToDoList[index]);
-                      },
-                      separatorBuilder: (BuildContext context, int index) {
-                        return SizedBox(
-                            child: Container(color: Colors.grey),
-                            width: double.infinity,
-                            height: 1);
-                      },
-                      itemCount: portalToDoList.length);
+
+              Widget noContent = Center(
+                child: Text('No content to show',
+                    style: TextStyle(fontSize: 15, color: Colors.amber)),
+              );
+
+              return data == null
+                  ? noContent
+                  : data.length <= 0
+                      ? noContent
+                      : ListView.separated(
+                          itemBuilder: (BuildContext context, int index) {
+                            return announcementListViewItemWidget(
+                                portalToDoList[index]);
+                          },
+                          separatorBuilder: (BuildContext context, int index) {
+                            return SizedBox(
+                                child: Container(color: Colors.grey),
+                                width: double.infinity,
+                                height: 1);
+                          },
+                          itemCount: portalToDoList.length);
             },
             whenNotDone: Center(
-              child: Image.asset("assets/images/member_app_assets/Curve-Loading.gif"),
+              child: Image.asset(
+                  "assets/images/member_app_assets/Curve-Loading.gif"),
             )),
       ),
     ]));
@@ -127,15 +131,14 @@ class HomeAnnouncements extends StatelessWidget {
 
   Widget announcementListViewItemWidget(PortalToDoList portalToDo) {
     return Container(
-          margin: EdgeInsets.only(top: 10),
-          color: Colors.white,
-          padding: EdgeInsets.all(5.0),
-          child: Container(
+      margin: EdgeInsets.only(top: 10),
+      color: Colors.white,
+      padding: EdgeInsets.all(5.0),
+      child: Container(
         decoration: BoxDecoration(
-            borderRadius: BorderRadius.all(Radius.circular(5.0)),
-            color: Color(0xFF487890),
-          ),
-            
+          borderRadius: BorderRadius.all(Radius.circular(5.0)),
+          color: Color(0xFF487890),
+        ),
         padding: EdgeInsets.all(10.0),
         child: Text(portalToDo.DiaryEntryType,
             style: TextStyle(fontSize: 15, color: Colors.white)),

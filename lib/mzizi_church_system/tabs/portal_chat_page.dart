@@ -17,6 +17,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/por
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_parent_chat_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/enhanced_stream_builder.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_widgets.dart';
 
@@ -110,8 +111,8 @@ Future<List<ParentChatResponse>> _optionToFetchFromApi(
 
         await dao.insertPortalParentChat(chatList);
       }
-      // Student student = await AuthenticateUserDAO().getStudent();
-      Student student = new Student("23309", "1000");
+      Student student = await AuthenticateUserDAO().getStudent();
+      //Student student = new Student("23309", "1000");
 
       if (student != null) {
         PortalParentChatRequest request = new PortalParentChatRequest(
@@ -209,224 +210,234 @@ class _PortalChatPageState extends State<PortalChatPage> {
     super.dispose();
   }
 
+  Future<bool> _onBackPressed() {
+    RouteController.routeMethod(0,
+        controller: Controller.Navigator, context: context);
+  }
+
   @override
   Widget build(BuildContext context) {
     return SafeArea(
       top: false,
       bottom: false,
-      child: Scaffold(
-        appBar: AppBar(
-          backgroundColor: Color(0xFF487890),
-          primary: true,
-          leading: ClipRRect(
-            borderRadius: BorderRadius.all(Radius.circular(32.0)),
-            child: Material(
-              shadowColor: Colors.transparent,
-              color: Colors.transparent,
-              child: IconButton(
-                icon: Icon(
-                  Icons.menu,
-                  color: Colors.white,
+      child: WillPopScope(
+        onWillPop: _onBackPressed,
+        child: Scaffold(
+          appBar: AppBar(
+            backgroundColor: Color(0xFF487890),
+            primary: true,
+            leading: ClipRRect(
+              borderRadius: BorderRadius.all(Radius.circular(32.0)),
+              child: Material(
+                shadowColor: Colors.transparent,
+                color: Colors.transparent,
+                child: IconButton(
+                  icon: Icon(
+                    Icons.menu,
+                    color: Colors.white,
+                  ),
+                  onPressed: widget.onMenuPressedHere != null
+                      ? widget.onMenuPressedHere
+                      : widget.onMenuPressed,
                 ),
-                onPressed: widget.onMenuPressedHere != null
-                    ? widget.onMenuPressedHere
-                    : widget.onMenuPressed,
               ),
             ),
+            title: Text('Chat',
+                style: TextStyle(
+                  fontSize: 20,
+                )),
+            centerTitle: true,
+            // actions: <Widget>[
+            //   SpringButton(
+            //     SpringButtonType.OnlyScale,
+            //     Container(
+            //       child: Icon(LineIcons.paper_plane),
+            //     ),
+            //     onTapDown: (_) {},
+            //   ),
+            //   SizedBox(width: 10),
+            //   Container(
+            //       child: FaIcon(FontAwesomeIcons.donate, size: 20, color: Colors.red,),
+            //     ),
+            //   SpringButton(
+            //     SpringButtonType.OnlyScale,
+            //     Container(
+            //       child: Icon(Icons.refresh),
+            //     ),
+            //     onTapDown: (_) {},
+            //   ),
+            // ],
           ),
-          title: Text('Chat',
-              style: TextStyle(
-                fontSize: 20,
-              )),
-          centerTitle: true,
-          // actions: <Widget>[
-          //   SpringButton(
-          //     SpringButtonType.OnlyScale,
-          //     Container(
-          //       child: Icon(LineIcons.paper_plane),
-          //     ),
-          //     onTapDown: (_) {},
-          //   ),
-          //   SizedBox(width: 10),
-          //   Container(
-          //       child: FaIcon(FontAwesomeIcons.donate, size: 20, color: Colors.red,),
-          //     ),
-          //   SpringButton(
-          //     SpringButtonType.OnlyScale,
-          //     Container(
-          //       child: Icon(Icons.refresh),
-          //     ),
-          //     onTapDown: (_) {},
-          //   ),
-          // ],
-        ),
-        body: Container(
-          color: Color(0xFF487890),
-          child: Stack(
-            children: <Widget>[
-              //Testing
-              // Positioned(
-              //     child: Container(
-              //         child: StreamBuilder<List<ParentChatResponse>>(
-              //   stream: widget.dao.getParentChatResponseStream(),
-              //   builder: (_, snapshot) {
-              //     Widget returnWidget = Container();
+          body: Container(
+            color: Color(0xFF487890),
+            child: Stack(
+              children: <Widget>[
+                //Testing
+                // Positioned(
+                //     child: Container(
+                //         child: StreamBuilder<List<ParentChatResponse>>(
+                //   stream: widget.dao.getParentChatResponseStream(),
+                //   builder: (_, snapshot) {
+                //     Widget returnWidget = Container();
 
-              //     if (snapshot.connectionState == ConnectionState.waiting)
-              //       returnWidget = Center(
-              //         child: CircularProgressIndicator(),
-              //       );
+                //     if (snapshot.connectionState == ConnectionState.waiting)
+                //       returnWidget = Center(
+                //         child: CircularProgressIndicator(),
+                //       );
 
-              //     if (snapshot.connectionState == ConnectionState.active) {
-              //       final chatResponse = snapshot.data;
-              //       returnWidget = SafeArea(
-              //           child: Scaffold(
-              //               body: Container(
-              //                   child: Text(chatResponse.length.toString()))));
-              //     }
-              //     return returnWidget;
-              //   },
-              // ))),
-              // Positioned(
-              //   top: 5.0,
-              //   right: 5.0,
-              //   left: 5.0,
-              //   child: Container(
-              //     width: MediaQuery.of(context).size.width / 2,
-              //     height: 40.0,
-              //     child: Center(
-              //       child: Image.asset("assets/images/key_bg_icon.png"),
-              //     ),
-              //   ),
-              // ),
-              Container(
-                  margin: EdgeInsets.only(
-                      bottom: 45.0, top: 10.0, left: 5.0, right: 5.0),
-                  color: Color(0xFF487890),
-                  child:
-                      //EnhancedStreamBuilder(
-                      EnhancedFutureBuilder(
-                    future: _optionToFetchFromApi(),
-                    //future: ChatsDummyData().chatsDummeData(),
-                    //stream: _chatDao.getParentChatResponseStream(),
-                    //stream: _data,
-                    //stream: widget.dao.getParentChatResponseStream(),
-                    whenNotDone: Center(
-                      child:
-                          WhenNotDone(daopass), //CircularProgressIndicator(),
-                    ),
-                    //rememberStreamResult: false,
-                    rememberFutureResult: false,
-                    whenDone: (dynamic data) {
-                      return _chats(data, context, () async {
-                        setState(() {});
-                      }, this);
-                    },
-                  )),
-              Positioned(
-                bottom: 0.0,
-                left: 0.0,
-                right: 0.0,
-                child: Center(
-                  child: Container(
-                    height: 40,
-                    padding: EdgeInsets.all(0.0),
-                    decoration: BoxDecoration(
-                      border: Border.all(color: Colors.amber, width: 1.0),
-                    ),
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: <Widget>[
-                        Expanded(
-                          child: Container(
-                            height: 40.0,
-                            margin: EdgeInsets.all(0.0),
-                            child: TextField(
-                              onTap: () {
-                                Timer(
-                                    Duration(milliseconds: 1000),
-                                    () => _controller.animateTo(
-                                          _controller.position.maxScrollExtent,
-                                          curve: Curves.fastOutSlowIn,
-                                          duration: const Duration(
-                                              milliseconds: 1000),
-                                        ));
-                              },
-                              onChanged: (value) {
-                                Timer(
-                                    Duration(milliseconds: 1000),
-                                    () => _controller.animateTo(
-                                          _controller.position.maxScrollExtent,
-                                          curve: Curves.fastOutSlowIn,
-                                          duration: const Duration(
-                                              milliseconds: 1000),
-                                        ));
-                              },
-                              keyboardType: TextInputType.multiline,
-                              textAlign: TextAlign.start,
-                              maxLines: null,
-                              style: TextStyle(
-                                  color: Colors.white,
-                                  fontWeight: FontWeight.w300),
-                              controller: textFormEditorController,
-                              decoration: InputDecoration(
-                                //https://stackoverflow.com/questions/50400529/how-to-update-flutter-textfields-height-and-width
-                                contentPadding: const EdgeInsets.only(
-                                    bottom: 7.0, left: 5.0),
-                                border: InputBorder.none,
-                                fillColor: Colors.amber,
-                                hintStyle: TextStyle(
+                //     if (snapshot.connectionState == ConnectionState.active) {
+                //       final chatResponse = snapshot.data;
+                //       returnWidget = SafeArea(
+                //           child: Scaffold(
+                //               body: Container(
+                //                   child: Text(chatResponse.length.toString()))));
+                //     }
+                //     return returnWidget;
+                //   },
+                // ))),
+                // Positioned(
+                //   top: 5.0,
+                //   right: 5.0,
+                //   left: 5.0,
+                //   child: Container(
+                //     width: MediaQuery.of(context).size.width / 2,
+                //     height: 40.0,
+                //     child: Center(
+                //       child: Image.asset("assets/images/key_bg_icon.png"),
+                //     ),
+                //   ),
+                // ),
+                Container(
+                    margin: EdgeInsets.only(
+                        bottom: 45.0, top: 10.0, left: 5.0, right: 5.0),
+                    color: Color(0xFF487890),
+                    child:
+                        //EnhancedStreamBuilder(
+                        EnhancedFutureBuilder(
+                      future: _optionToFetchFromApi(),
+                      //future: ChatsDummyData().chatsDummeData(),
+                      //stream: _chatDao.getParentChatResponseStream(),
+                      //stream: _data,
+                      //stream: widget.dao.getParentChatResponseStream(),
+                      whenNotDone: Center(
+                        child:
+                            WhenNotDone(daopass), //CircularProgressIndicator(),
+                      ),
+                      //rememberStreamResult: false,
+                      rememberFutureResult: false,
+                      whenDone: (dynamic data) {
+                        return _chats(data, context, () async {
+                          setState(() {});
+                        }, this);
+                      },
+                    )),
+                Positioned(
+                  bottom: 0.0,
+                  left: 0.0,
+                  right: 0.0,
+                  child: Center(
+                    child: Container(
+                      height: 40,
+                      padding: EdgeInsets.all(0.0),
+                      decoration: BoxDecoration(
+                        border: Border.all(color: Colors.amber, width: 1.0),
+                      ),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: <Widget>[
+                          Expanded(
+                            child: Container(
+                              height: 40.0,
+                              margin: EdgeInsets.all(0.0),
+                              child: TextField(
+                                onTap: () {
+                                  Timer(
+                                      Duration(milliseconds: 1000),
+                                      () => _controller.animateTo(
+                                            _controller
+                                                .position.maxScrollExtent,
+                                            curve: Curves.fastOutSlowIn,
+                                            duration: const Duration(
+                                                milliseconds: 1000),
+                                          ));
+                                },
+                                onChanged: (value) {
+                                  Timer(
+                                      Duration(milliseconds: 1000),
+                                      () => _controller.animateTo(
+                                            _controller
+                                                .position.maxScrollExtent,
+                                            curve: Curves.fastOutSlowIn,
+                                            duration: const Duration(
+                                                milliseconds: 1000),
+                                          ));
+                                },
+                                keyboardType: TextInputType.multiline,
+                                textAlign: TextAlign.start,
+                                maxLines: null,
+                                style: TextStyle(
                                     color: Colors.white,
-                                    fontWeight: FontWeight.w300,
-                                    fontSize: 14.0),
-                                hintText: "Enter message",
+                                    fontWeight: FontWeight.w300),
+                                controller: textFormEditorController,
+                                decoration: InputDecoration(
+                                  //https://stackoverflow.com/questions/50400529/how-to-update-flutter-textfields-height-and-width
+                                  contentPadding: const EdgeInsets.only(
+                                      bottom: 7.0, left: 5.0),
+                                  border: InputBorder.none,
+                                  fillColor: Colors.amber,
+                                  hintStyle: TextStyle(
+                                      color: Colors.white,
+                                      fontWeight: FontWeight.w300,
+                                      fontSize: 14.0),
+                                  hintText: "Enter message",
+                                ),
                               ),
                             ),
                           ),
-                        ),
-                        GestureDetector(
-                          onTap: () async {
-                            setState(() {
-                              Timer(
-                                  Duration(milliseconds: 1000),
-                                  () => _controller.animateTo(
-                                        _controller.position.maxScrollExtent,
-                                        curve: Curves.fastLinearToSlowEaseIn,
-                                        duration:
-                                            const Duration(milliseconds: 1000),
-                                      ));
+                          GestureDetector(
+                            onTap: () async {
+                              setState(() {
+                                Timer(
+                                    Duration(milliseconds: 1000),
+                                    () => _controller.animateTo(
+                                          _controller.position.maxScrollExtent,
+                                          curve: Curves.fastLinearToSlowEaseIn,
+                                          duration: const Duration(
+                                              milliseconds: 1000),
+                                        ));
 
-                              _optionToFetchFromApi(
-                                  enquiryType: enquityTypeID,
-                                  message: textFormEditorController.text,
-                                  sending: true);
-                              textFormEditorController.clear();
-                            });
-                          },
-                          child: Container(
-                            width: 70.0,
-                            height: 40.0,
-                            decoration: BoxDecoration(
-                              color: Colors.amber,
+                                _optionToFetchFromApi(
+                                    enquiryType: enquityTypeID,
+                                    message: textFormEditorController.text,
+                                    sending: true);
+                                textFormEditorController.clear();
+                              });
+                            },
+                            child: Container(
+                              width: 70.0,
+                              height: 40.0,
+                              decoration: BoxDecoration(
+                                color: Colors.amber,
+                              ),
+                              child: Center(
+                                  child: Text(
+                                "Send",
+                                style: TextStyle(color: Colors.white),
+                              )),
                             ),
-                            child: Center(
-                                child: Text(
-                              "Send",
-                              style: TextStyle(color: Colors.white),
-                            )),
                           ),
-                        ),
-                        // SizedBox(
-                        //   height: 40.0,
-                        //   width: 1.0,
-                        // ),
-                        // PopupDropDown()
-                      ],
+                          // SizedBox(
+                          //   height: 40.0,
+                          //   width: 1.0,
+                          // ),
+                          // PopupDropDown()
+                        ],
+                      ),
                     ),
                   ),
-                ),
-              )
-            ],
+                )
+              ],
+            ),
           ),
         ),
       ),
@@ -543,9 +554,7 @@ class _PopupDropDownState extends State<PopupDropDown> {
       child: Container(
         height: 40.0,
         width: 30.0,
-        decoration: BoxDecoration(
-          color: Colors.amber
-        ),
+        decoration: BoxDecoration(color: Colors.amber),
         child: Center(
             child: Icon(
           _clicked ? Icons.arrow_drop_up : Icons.arrow_drop_down,
@@ -566,7 +575,7 @@ Widget messageSent(
       child: Bubble(
           margin: BubbleEdges.only(top: 10),
           nip: showNip ? BubbleNip.rightTop : BubbleNip.no,
-          color:Colors.amber,
+          color: Colors.amber,
           child: Stack(
             children: <Widget>[
               Container(
@@ -603,7 +612,6 @@ Widget messageSent(
 
   return Container(
     margin: EdgeInsets.only(top: 0.0, bottom: 0.0),
-    
     child: Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: <Widget>[
@@ -725,7 +733,6 @@ Widget replySentWithIcon(
 
   return Container(
     margin: EdgeInsets.only(top: 0.0, bottom: 0.0),
-    
     child: Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: <Widget>[
@@ -819,7 +826,6 @@ Widget _sending_NotSent_Sent_Widget(bool sending, bool notSent, bool sent) {
 }
 
 Widget _readOrNotReadWidget(bool _readOrNotRead) {
-
   return Container();
   // return _readOrNotRead
   //     ? Container(
@@ -839,9 +845,9 @@ Widget _readOrNotReadWidget(bool _readOrNotRead) {
 
 Widget _noContentWidget(BuildContext context) => Center(
       child: Text(
-        'Enter new message below...',
+        'Start a new chat...',
         style: TextStyle(
-            color: Colors.green, fontSize: 13.0, fontWeight: FontWeight.normal),
+            color: Colors.amber, fontSize: 13.0, fontWeight: FontWeight.normal),
       ),
     );
 

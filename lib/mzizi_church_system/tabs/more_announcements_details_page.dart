@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_detailed_todo_list_response.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_widgets.dart';
 
 class PortalMoreAnnouncementsDetails extends KFDrawerContent {
@@ -17,39 +18,47 @@ class PortalMoreAnnouncementsDetails extends KFDrawerContent {
 
 class _PortalMoreAnnouncementsDetailsState
     extends State<PortalMoreAnnouncementsDetails> {
+  Future<bool> _onBackPressed() {
+    RouteController.routeMethod(0,
+        controller: Controller.Navigator, context: context);
+  }
+
   @override
   Widget build(BuildContext context) {
     return SafeArea(
       top: false,
       bottom: false,
-      child: Scaffold(
-        appBar: AppBar(
-          backgroundColor: Color(0xFF487890),
-          primary: true,
-          leading: ClipRRect(
-            borderRadius: BorderRadius.all(Radius.circular(32.0)),
-            child: Material(
-              shadowColor: Colors.transparent,
-              color: Colors.transparent,
-              child: IconButton(
-                icon: Icon(
-                  Icons.menu,
-                  color: Colors.white,
+      child: WillPopScope(
+        onWillPop: _onBackPressed,
+        child: Scaffold(
+          appBar: AppBar(
+            backgroundColor: Color(0xFF487890),
+            primary: true,
+            leading: ClipRRect(
+              borderRadius: BorderRadius.all(Radius.circular(32.0)),
+              child: Material(
+                shadowColor: Colors.transparent,
+                color: Colors.transparent,
+                child: IconButton(
+                  icon: Icon(
+                    Icons.menu,
+                    color: Colors.white,
+                  ),
+                  onPressed: widget.onMenuPressedHere != null
+                      ? widget.onMenuPressedHere
+                      : widget.onMenuPressed,
                 ),
-                onPressed: widget.onMenuPressedHere != null
-                    ? widget.onMenuPressedHere
-                    : widget.onMenuPressed,
               ),
             ),
+            title: Text('Announcements, Sermons',
+                style: TextStyle(
+                  fontSize: 20,
+                )),
+            centerTitle: true,
           ),
-          title: Text('Announcements, Sermons',
-              style: TextStyle(
-                fontSize: 20,
-              )),
-          centerTitle: true,
+          body: Container(
+              height: double.infinity, color: Color(0xFF487890), child: body()),
         ),
-        body: Container(
-            height: double.infinity, color: Color(0xFF487890), child: body()),
       ),
     );
   }
@@ -64,7 +73,16 @@ class _PortalMoreAnnouncementsDetailsState
               return ListView.builder(
                 itemCount: data.length,
                 itemBuilder: (BuildContext context, int index) {
-                  return listItemWidget(data[index]);
+                  Widget noContent = Center(
+                    child: Text('No content to show',
+                        style: TextStyle(fontSize: 15, color: Colors.amber)),
+                  );
+
+                  return data == null
+                      ? noContent
+                      : data.length <= 0
+                          ? noContent
+                          : listItemWidget(data[index]);
                 },
               );
             },
@@ -114,18 +132,21 @@ class _PortalMoreAnnouncementsDetailsState
                         SizedBox(
                           height: 10,
                         ),
-                        Row(
-                          mainAxisAlignment: MainAxisAlignment.end,
-                          children: <Widget>[
-                            new RichText(
-                              text: new LinkTextSpan(
-                                  url: 'https://mzizi.co.ke',
-                                  text: 'Open Attachment',
-                                  style: TextStyle(
-                                      color: Colors.blue, fontSize: 15.0)),
-                            ),
-                          ],
-                        ),
+                        response.DocPath == null
+                            ? Container()
+                            : Row(
+                                mainAxisAlignment: MainAxisAlignment.end,
+                                children: <Widget>[
+                                  new RichText(
+                                    text: new LinkTextSpan(
+                                        url: response.DocPath,
+                                        text: 'Open Attachment',
+                                        style: TextStyle(
+                                            color: Colors.blue,
+                                            fontSize: 15.0)),
+                                  ),
+                                ],
+                              ),
                       ],
                     )),
               ]),

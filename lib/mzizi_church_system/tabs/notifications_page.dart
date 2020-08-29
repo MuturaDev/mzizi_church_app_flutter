@@ -12,6 +12,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/porta
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_notification_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_notification_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
 
 class PortalNotificationPage extends KFDrawerContent {
@@ -32,8 +33,8 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
       if (await UtilityFunctions.checkConnection()) {
         await new PortalNotificationDAO().deletePortalNotification(
             await new PortalNotificationDAO().getPortalNotification());
-        // Student student = await AuthenticateUserDAO().getStudent();
-        Student student = new Student("1391", "1000");
+        Student student = await AuthenticateUserDAO().getStudent();
+       // Student student = new Student("1391", "1000");
         if (student != null) {
           List<PortalNotification> notificationList =
               await new PortalNotificationDAO().getLastNotification();
@@ -208,98 +209,109 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
 
   final _controller = ScrollController();
 
+  Future<bool> _onBackPressed() {
+    RouteController.routeMethod(0,
+        controller: Controller.Navigator, context: context);
+  }
   @override
   Widget build(BuildContext context) {
     return SafeArea(
       top: false,
       bottom: false,
-      child: Scaffold(
-        appBar: AppBar(
-          backgroundColor: Color(0xFF487890),
-          leading: ClipRRect(
-            borderRadius: BorderRadius.all(Radius.circular(32.0)),
-            child: Material(
-              shadowColor: Colors.transparent,
-              color: Colors.transparent,
-              child: IconButton(
-                icon: Icon(
-                  Icons.menu,
-                  color: Colors.white,
+      child: WillPopScope(
+        onWillPop: _onBackPressed,
+        child: Scaffold(
+          appBar: AppBar(
+            backgroundColor: Color(0xFF487890),
+            leading: ClipRRect(
+              borderRadius: BorderRadius.all(Radius.circular(32.0)),
+              child: Material(
+                shadowColor: Colors.transparent,
+                color: Colors.transparent,
+                child: IconButton(
+                  icon: Icon(
+                    Icons.menu,
+                    color: Colors.white,
+                  ),
+                  onPressed: widget.onMenuPressedHere != null
+                      ? widget.onMenuPressedHere
+                      : widget.onMenuPressed,
                 ),
-                onPressed: widget.onMenuPressedHere != null
-                    ? widget.onMenuPressedHere
-                    : widget.onMenuPressed,
               ),
             ),
+            title: Text('SMS History',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 20,
+                )),
           ),
-          title: Text('SMS History',
-              style: TextStyle(
-                color: Colors.white,
-                fontSize: 20,
-              )),
-        ),
-        body: Container(
-          color: Color(0xFF487890),
-          child: Stack(
-            children: <Widget>[
-              //TODO: Will change the view of this
-              // Align(
-              //   alignment: Alignment.topCenter,
-              //   child: KeySection(),
-              // ),
-              Container(
-                margin: EdgeInsets.only(top: 5.0, bottom: 5.0),
-                child: EnhancedFutureBuilder(
-                  //future: _optionToFetchOnline(),
-                  future: ApiController.sendRequestForPortalSMSHistory(),
-                  whenNotDone: Center(
-                    child: Image.asset(
-                        'assets/images/member_app_assets/Curve-Loading.gif'),
-                  ),
-                  //Set rememberFutureResults to false to make the RefreshIndicator work
-                  rememberFutureResult: false,
-                  whenDone: (dynamic data) {
-                    List<PortalNotificationMessage> _notificationList = data;
+          body: Container(
+            color: Color(0xFF487890),
+            child: Stack(
+              children: <Widget>[
+                //TODO: Will change the view of this
+                // Align(
+                //   alignment: Alignment.topCenter,
+                //   child: KeySection(),
+                // ),
+                Container(
+                  margin: EdgeInsets.only(top: 5.0, bottom: 5.0),
+                  child: EnhancedFutureBuilder(
+                    //future: _optionToFetchOnline(),
+                    future: ApiController.sendRequestForPortalSMSHistory(),
+                    whenNotDone: Center(
+                      child: Image.asset(
+                          'assets/images/member_app_assets/Curve-Loading.gif'),
+                    ),
+                    //Set rememberFutureResults to false to make the RefreshIndicator work
+                    rememberFutureResult: false,
+                    whenDone: (dynamic data) {
+                      Widget noContent = Center(
+                        child: Text('No content to show',
+                            style:
+                                TextStyle(fontSize: 15, color: Colors.amber)),
+                      );
 
-                    Timer(
-                        Duration(milliseconds: 1000),
-                        () => _controller.animateTo(
-                              _controller.position.maxScrollExtent,
-                              curve: Curves.fastOutSlowIn,
-                              duration: const Duration(milliseconds: 1000),
-                            ));
+                      Timer(
+                          Duration(milliseconds: 1000),
+                          () => _controller.animateTo(
+                                _controller.position.maxScrollExtent,
+                                curve: Curves.fastOutSlowIn,
+                                duration: const Duration(milliseconds: 1000),
+                              ));
 
-                    return Container(
-                      color: Color(0xFF487890),
-                      child: Stack(
-                        children: <Widget>[
-                          _notificationList == null
-                              ? _noContentWidget(context)
-                              : _notificationList.length <= 0
-                                  ? _noContentWidget(context)
-                                  : RefreshIndicator(
-                                      child: ListView.builder(
-                                        controller: _controller,
-                                        itemCount: _notificationList.length,
-                                        itemBuilder:
-                                            (BuildContext context, int index) {
-                                          return _buildListViewItemWidget(
-                                            _notificationList[index],
-                                          );
+                      return data == null
+                          ? noContent
+                          : data.length <= 0
+                              ? noContent
+                              : Container(
+                                  color: Color(0xFF487890),
+                                  child: Stack(
+                                    children: <Widget>[
+                                      RefreshIndicator(
+                                        child: ListView.builder(
+                                          controller: _controller,
+                                          itemCount: data.length,
+                                          itemBuilder: (BuildContext context,
+                                              int index) {
+                                            return _buildListViewItemWidget(
+                                              data[index],
+                                            );
+                                          },
+                                        ),
+                                        onRefresh: () async {
+                                          //Just calling this is enough
+                                          setState(() {});
                                         },
                                       ),
-                                      onRefresh: () async {
-                                        //Just calling this is enough
-                                        setState(() {});
-                                      },
-                                    ),
-                        ],
-                      ),
-                    );
-                  },
+                                    ],
+                                  ),
+                                );
+                    },
+                  ),
                 ),
-              ),
-            ],
+              ],
+            ),
           ),
         ),
       ),

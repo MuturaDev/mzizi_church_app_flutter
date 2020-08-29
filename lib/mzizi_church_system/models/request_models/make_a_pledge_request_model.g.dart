@@ -14,7 +14,6 @@ PortalMakeAPledge _$PortalMakeAPledgeFromJson(Map<String, dynamic> json) {
       json['TermID'] as String,
       json['YearFor'] as String,
       json['DrCr'] as String,
-      json['StaffID'] as String,
       json['PostQb'] as String,
       json['CustomFeeRemarks'] as String,
       json['ChurchCode'] as String);
@@ -28,7 +27,6 @@ Map<String, dynamic> _$PortalMakeAPledgeToJson(PortalMakeAPledge instance) =>
       'TermID': instance.TermID,
       'YearFor': instance.YearFor,
       'DrCr': instance.DrCr,
-      'StaffID': instance.StaffID,
       'PostQb': instance.PostQb,
       'CustomFeeRemarks': instance.CustomFeeRemarks,
       'ChurchCode': instance.ChurchCode

@@ -1,18 +1,18 @@
 class ServiceTypesModel {
-  String iD;
-  String name;
+  String ID;
+  String Name;
 
-  ServiceTypesModel({this.iD, this.name});
+  ServiceTypesModel({this.ID, this.Name});
 
   ServiceTypesModel.fromJson(Map<String, dynamic> json) {
-    iD = json['ID'];
-    name = json['Name'];
+    ID = json['ID'];
+    Name = json['Name'];
   }
 
   Map<String, dynamic> toJson() {
     final Map<String, dynamic> data = new Map<String, dynamic>();
-    data['ID'] = this.iD;
-    data['Name'] = this.name;
+    data['ID'] = this.ID;
+    data['Name'] = this.Name;
     return data;
   }
 }

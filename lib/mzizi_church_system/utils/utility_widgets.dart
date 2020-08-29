@@ -37,17 +37,34 @@ class CustomTextFormField extends StatelessWidget {
   String initialValue;
   String labelText;
   TextEditingController controller;
+  TextInputType keyboardType;
+  bool enabled;
+  VoidCallback onTap;
+  String text;
 
-  CustomTextFormField({this.initialValue, this.labelText, this.controller});
+
+  CustomTextFormField(
+      {this.initialValue= '',
+      this.labelText,
+      this.controller,
+      this.enabled = true,
+      this.text,
+      this.keyboardType = TextInputType.text, this.onTap});
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 50,
+      height: 53,
       child: TextFormField(
+         readOnly: enabled,
+  enableInteractiveSelection: true,
+        onTap: onTap,
           controller: controller,
           initialValue: initialValue,
+         enabled: true,
+          keyboardType: keyboardType,
+          style: TextStyle(fontSize: 14, color: Colors.black),
           autovalidate: false,
-          validator: (dynamic value) {  
+          validator: (dynamic value) {
             if (value.isEmpty) {
               return 'Please provide a value for ' + labelText + '';
             } else {
@@ -56,7 +73,7 @@ class CustomTextFormField extends StatelessWidget {
           },
           decoration: InputDecoration(
             labelText: labelText,
-            labelStyle: TextStyle(fontSize: 20),
+            labelStyle: TextStyle(fontSize: 15),
             //errorText: isValid ? 'Please provide your firstname' : null,
             border: OutlineInputBorder(),
             suffixIcon: Icon(

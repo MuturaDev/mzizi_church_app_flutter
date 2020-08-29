@@ -1,40 +1,35 @@
-
-
 import 'package:json_annotation/json_annotation.dart';
 
 part 'self_enroll_application_request_model.g.dart';
 
 @JsonSerializable()
 class PortalSelfEnrollApplication {
-  String Firstname;
-  String Lastname;
-  String PhoneNumber;
-  String EmailAddress;
+  String FormatedDateBooked;
+  String StartTime;
   String Age;
   String ChurchServiceID;
   String OrganizationID;
   String DateBooked;
-  String AppCode;
+  String StudentID;
+  
 
   PortalSelfEnrollApplication(
-    this.Firstname,
-    this.Lastname,
-    this.PhoneNumber,
-    this.EmailAddress,
+    this.FormatedDateBooked,
+    this.StartTime,
     this.Age,
     this.ChurchServiceID,
     this.OrganizationID,
     this.DateBooked,
-    this.AppCode,
+    this.StudentID
   );
 
+  factory PortalSelfEnrollApplication.fromJson(Map<String, dynamic> json) =>
+      _$PortalSelfEnrollApplicationFromJson(json);
 
-  factory PortalSelfEnrollApplication.fromJson(Map<String, dynamic> json) => _$PortalSelfEnrollApplicationFromJson(json);
-
-  Map<String,dynamic> toJson() => _$PortalSelfEnrollApplicationToJson(this);
+  Map<String, dynamic> toJson() => _$PortalSelfEnrollApplicationToJson(this);
 
   @override
   String toString() {
-    return 'PortalSelfEnrollApplication(Firstname: $Firstname, Lastname: $Lastname, PhoneNumber: $PhoneNumber, EmailAddress: $EmailAddress, Age: $Age, ChurchServiceID: $ChurchServiceID, OrganizationID: $OrganizationID, DateBooked: $DateBooked, AppCode: $AppCode)';
+    return 'PortalSelfEnrollApplication(FormatedDateBooked: $FormatedDateBooked, StartTime: $StartTime, Age: $Age, ChurchServiceID: $ChurchServiceID, OrganizationID: $OrganizationID, DateBooked: $DateBooked)';
   }
 }

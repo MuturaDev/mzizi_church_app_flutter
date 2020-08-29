@@ -10,13 +10,18 @@ class Logout {
   Future<void> logout({bool exceptAuthUser = false}) async {
     final db =
         await $FloorAppDatabase.databaseBuilder("app_database.db").build();
-    if (exceptAuthUser)
-      await db.getAuthenticationUserResponseDBDao
-          .deleteAllAuthenticationUserResponse();
+    //if (exceptAuthUser)
+    await db.getAuthenticationUserResponseDBDao
+        .deleteAllAuthenticationUserResponse();
     await db.getMziziAppVersionDBDao.deleteAllMziziAppVersion();
     await db.getPortalContactsDBDao.deleteAllPortalContacts();
+   // dynamic data = await db.getPortalContactsDBDao.getPortalContactsResponse();
+
     await db.getPortalDetailedTransactionDBDao
         .deleteAllPortalDetailedTransaction();
+
+    // dynamic data2 = await db.getPortalDetailedTransactionDBDao
+    //     .getPortalDetailedTransaction();
     await db.getPortalFilteredStudentInfoDBDao
         .deleteAllPortalFilteredStudentInfo();
     await db.getPortalNotificationDBDao.deleteAllPortalNotification();
@@ -32,7 +37,12 @@ class Logout {
     await db.getPortalEventsDBDao.deleteAllPortalEvents();
     await db.getAppNotificationCountDBDao.deleteAllAppNotificationCount();
     await db.getParentChatResponseDBDao.deleteParentChatResponse();
-     final pref = await SharedPreferences.getInstance();
-     pref.clear();
+    final pref = await SharedPreferences.getInstance();
+
+    await db.getPortalRecentTransactionsDBDao.deletePortalRecentTransactions();
+    await db.getPortalTodoListDBDao.deletePortalToDoLists();
+    await db.getPortalNotificationDBDao.deleteAllPortalNotification();
+
+    pref.clear();
   }
 }

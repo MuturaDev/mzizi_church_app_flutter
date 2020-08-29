@@ -1,5 +1,7 @@
 import 'package:dio/dio.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_global_settings_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/charge_type_response_model.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/global_setting_response.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/mzizi_app_version_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_app_get_portal_photo_gallery.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_authentication_response_model.dart';
@@ -9,6 +11,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/por
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_events_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_fee_transaction_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_filtered_student_info_response_model.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_member_profile_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_notification_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_parent_chat_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_progress_report_response_model.dart';
@@ -22,6 +25,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/por
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_sync_myaccount_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_to_do_list_response.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_video_gallery_response_model.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/service_types_response_model.dart';
 
 import 'package:retrofit/retrofit.dart';
 
@@ -60,7 +64,7 @@ abstract class RestClient {
       @Body() Map<String, dynamic> request);
 
   @POST("/PortalGetGlobalSettings")
-  Future<String> apiGetPortalGlobalSettings(
+  Future<PortalGlobalSettingResponse>apiGetPortalGlobalSettings(
       @Body() Map<String, dynamic> request);
 
   @POST("/MziziAppVersion")
@@ -145,12 +149,12 @@ abstract class RestClient {
   Future<List<PortalChargeTypeResponseModel>> apiGetPortalChargeTypes(
       @Body() Map<String, dynamic> request);
 
-  // @POST('/PortalStudentProfile')
-  // Future<List<Object>> apiGetPortalStudentProfile(
-  //     @Body() Map<String, dynamic> request);
+  @POST('/PortalServiceTypes')
+  Future<List<ServiceTypesModel>> apiGetPortalServiceTypes(
+      @Body() Map<String, dynamic> request);
 
-  // @POST('/MakeaPledge')
-  // Future<String> apiPostMakeaPledge(@Body() Map<String, dynamic> request);
+  @POST('/Contributions')
+  Future<String> apiPostMakeaPledge(@Body() Map<String, dynamic> request);
 
   // @POST('SelfEnroll')
   // Future<String> apiPostSelfEnroll(@Body() Map<String, dynamic> request);
@@ -159,6 +163,8 @@ abstract class RestClient {
   Future<List<PortalChurchServices>> apiGetPortalChurchServices(
       @Body() Map<String, dynamic> request);
 
+
+
   @POST('/PortalGetCompanyImage')
   Future<String> apiGetPortalCompanyLogo(@Body() Map<String, dynamic> request);
 
@@ -166,8 +172,11 @@ abstract class RestClient {
   Future<List<PortalVideoGalleryResponseModel>> apiGetPortalVideoGallery(
       @Body() Map<String, dynamic> request);
 
-  @POST(
-      'https://church.mzizi.co.ke/PortalWebServices/StudentInfo.asmx/PortalAppGetPortalPhotoGallery')
-  Future<List<PortalPhotoGallery>> apiGetPortalPhotoGallery(
-      @Body() Map<String, dynamic> request);
+  @POST('/PortalStudentProfile')
+  Future<PortalMemberProfileModel> apiGetPortalMemberProfile(@Body() Map<String,dynamic> request);
+
+  // @POST(
+  //     'https://church.mzizi.co.ke/PortalWebServices/StudentInfo.asmx/PortalAppGetPortalPhotoGallery')
+  // Future<List<PortalPhotoGallery>> apiGetPortalPhotoGallery(
+  //     @Body() Map<String, dynamic> request);
 }

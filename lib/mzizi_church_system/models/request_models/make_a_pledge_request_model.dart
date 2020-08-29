@@ -11,7 +11,7 @@ class PortalMakeAPledge {
   String TermID;
   String YearFor;
   String DrCr;
-  String StaffID;
+  //String StaffID;
   String PostQb;
   String CustomFeeRemarks;
   String ChurchCode;
@@ -23,7 +23,7 @@ class PortalMakeAPledge {
     this.TermID,
     this.YearFor,
     this.DrCr,
-    this.StaffID,
+    //this.StaffID,
     this.PostQb,
     this.CustomFeeRemarks,
     this.ChurchCode,
@@ -35,6 +35,6 @@ class PortalMakeAPledge {
 
   @override
   String toString() {
-    return 'PortalMakeAPledge(StudentID: $StudentID, FeeName: $FeeName, Amount: $Amount, TermID: $TermID, YearFor: $YearFor, DrCr: $DrCr, StaffID: $StaffID, PostQb: $PostQb, CustomFeeRemarks: $CustomFeeRemarks, ChurchCode: $ChurchCode)';
+    return 'PortalMakeAPledge(StudentID: $StudentID, FeeName: $FeeName, Amount: $Amount, TermID: $TermID, YearFor: $YearFor, DrCr: $DrCr, PostQb: $PostQb, CustomFeeRemarks: $CustomFeeRemarks, ChurchCode: $ChurchCode)';
   }
 }

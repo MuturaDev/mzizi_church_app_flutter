@@ -8,6 +8,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/porta
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_contacts_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_fee_transaction_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_widgets.dart';
 
@@ -31,22 +32,26 @@ class _PortalDetailedTransactionsPageState
   Future<dynamic> _optionToFetchOnline() async {
     PortalDetailedTransactionDAO dao = new PortalDetailedTransactionDAO();
     if (await UtilityFunctions.checkConnection()) {
-      // Student student = await AuthenticateUserDAO().getStudent();
-      Student student = new Student("23309", "1000");
+      Student student = await AuthenticateUserDAO().getStudent();
+      //Student student = new Student("23309", "1000");
       if (student != null) {
-        final dynamic transactions =
-            await ApiController.sendRequestForPortalDetailedTransactions(
-                student);
+        try {
+          final dynamic transactions =
+              await ApiController.sendRequestForPortalDetailedTransactions(
+                  student);
 
-        await dao.deletePortalDetailedTransaction(
-            await dao.getPortalDetailedTransaction());
+          await dao.deletePortalDetailedTransaction(
+              await dao.getPortalDetailedTransaction());
 
-        await dao.insertPortalDetailedTransaction(transactions);
+          await dao.insertPortalDetailedTransaction(transactions);
 
-        List<PortalDetailedTransaction> transaction =
-            await dao.getPortalDetailedTransaction();
+          List<PortalDetailedTransaction> transaction =
+              await dao.getPortalDetailedTransaction();
 
-        return transaction;
+          return transaction;
+        } catch (e) {
+          return dao.getPortalDetailedTransaction();
+        }
       } else {
         return dao.getPortalDetailedTransaction();
       }
@@ -55,135 +60,134 @@ class _PortalDetailedTransactionsPageState
     }
   }
 
+  Future<bool> _onBackPressed() {
+    RouteController.routeMethod(0,
+        controller: Controller.Navigator, context: context);
+  }
+
   @override
   Widget build(BuildContext context) {
     return SafeArea(
       top: false,
       bottom: false,
-      child: Scaffold(
-        appBar: AppBar(
-          backgroundColor: Color(0xFF487890),
-          primary: true,
-          leading: ClipRRect(
-            borderRadius: BorderRadius.all(Radius.circular(32.0)),
-            child: Material(
-              shadowColor: Colors.transparent,
-              color: Colors.transparent,
-              child: IconButton(
-                icon: Icon(
-                  Icons.menu,
-                  color: Colors.white,
+      child: WillPopScope(
+        onWillPop: _onBackPressed,
+        child: Scaffold(
+          appBar: AppBar(
+            backgroundColor: Color(0xFF487890),
+            primary: true,
+            leading: ClipRRect(
+              borderRadius: BorderRadius.all(Radius.circular(32.0)),
+              child: Material(
+                shadowColor: Colors.transparent,
+                color: Colors.transparent,
+                child: IconButton(
+                  icon: Icon(
+                    Icons.menu,
+                    color: Colors.white,
+                  ),
+                  onPressed: widget.onMenuPressedHere != null
+                      ? widget.onMenuPressedHere
+                      : widget.onMenuPressed,
                 ),
-                onPressed: widget.onMenuPressedHere != null
-                    ? widget.onMenuPressedHere
-                    : widget.onMenuPressed,
               ),
             ),
+            title: Text('Pledges & Contributions',
+                style: TextStyle(
+                  fontSize: 20,
+                )),
+            centerTitle: true,
+            // actions: <Widget>[
+            //   SpringButton(
+            //     SpringButtonType.OnlyScale,
+            //     Container(
+            //       child: Icon(LineIcons.paper_plane),
+            //     ),
+            //     onTapDown: (_) {},
+            //   ),
+            //   SizedBox(width: 10),
+            //   Container(
+            //       child: FaIcon(FontAwesomeIcons.donate, size: 20, color: Colors.red,),
+            //     ),
+            //   SpringButton(
+            //     SpringButtonType.OnlyScale,
+            //     Container(
+            //       child: Icon(Icons.refresh),
+            //     ),
+            //     onTapDown: (_) {},
+            //   ),
+            // ],
           ),
-          title: Text('Pledges & Contributions',
-              style: TextStyle(
-                fontSize: 20,
-              )),
-          centerTitle: true,
-          // actions: <Widget>[
-          //   SpringButton(
-          //     SpringButtonType.OnlyScale,
-          //     Container(
-          //       child: Icon(LineIcons.paper_plane),
-          //     ),
-          //     onTapDown: (_) {},
-          //   ),
-          //   SizedBox(width: 10),
-          //   Container(
-          //       child: FaIcon(FontAwesomeIcons.donate, size: 20, color: Colors.red,),
-          //     ),
-          //   SpringButton(
-          //     SpringButtonType.OnlyScale,
-          //     Container(
-          //       child: Icon(Icons.refresh),
-          //     ),
-          //     onTapDown: (_) {},
-          //   ),
-          // ],
-        ),
-        body: Container(
-          color: Color(0xFF487890),
-          child: EnhancedFutureBuilder(
-              future: _optionToFetchOnline(),
-              rememberFutureResult: false,
-              whenNotDone: Center(
-                  child: Container(
-                child: Image.asset(
-                    'assets/images/member_app_assets/Curve-Loading.gif'),
-              )),
-              whenDone: (dynamic data) {
-                List<PortalDetailedTransaction> transactionList1 = data;
+          body: Container(
+            color: Color(0xFF487890),
+            child: EnhancedFutureBuilder(
+                future: _optionToFetchOnline(),
+                rememberFutureResult: false,
+                whenNotDone: Center(
+                    child: Container(
+                  child: Image.asset(
+                      'assets/images/member_app_assets/Curve-Loading.gif'),
+                )),
+                whenDone: (dynamic data) {
+                  Widget noContent = Center(
+                    child: Text('No content to show',
+                        style: TextStyle(fontSize: 15, color: Colors.amber)),
+                  );
 
-                if (transactionList1 == null) {
-                  return _noContentWidget(context);
-                }
+                  return data == null
+                      ? noContent
+                      : data.length <= 0
+                          ? noContent
+                          : Stack(
+                              children: <Widget>[
+                                // Align(
+                                //   alignment: Alignment.topCenter,
+                                //   child: Container(
 
-                List<PortalDetailedTransaction> transactionList =
-                    transactionList1.reversed.toList();
+                                //     decoration: BoxDecoration(
+                                //         borderRadius: BorderRadius.circular(5.0),
+                                //         // color: Colors.blue
+                                //         ),
+                                //     padding: EdgeInsets.all(0.0),
+                                //     margin: EdgeInsets.only(top: 10.0, right: 5.0),
+                                //     child: Text(
+                                //       'Current balance is: $feeBalance',
+                                //       textAlign: TextAlign.center,
+                                //       style: TextStyle(
+                                //           color: Colors.white,
+                                //           fontWeight: FontWeight.bold,
+                                //           fontSize: 20.0),
+                                //     ),
+                                //   ),
+                                // ),
 
-                String feeBalance = transactionList == null
-                    ? UtilityFunctions.formatToCurrencyWithMoneyFormatterPUB("0.0")
-                    : UtilityFunctions.formatToCurrencyWithMoneyFormatterPUB(
-                        transactionList.length > 0
-                            ? transactionList[0].BalAmount
-                            : "0.0");
-
-                return Stack(
-                  children: <Widget>[
-                    Align(
-                      alignment: Alignment.topCenter,
-                      child: Container(
-                      
-                        decoration: BoxDecoration(
-                            borderRadius: BorderRadius.circular(5.0),
-                            // color: Colors.blue
-                            ),
-                        padding: EdgeInsets.all(0.0),
-                        margin: EdgeInsets.only(top: 10.0, right: 5.0),
-                        child: Text(
-                          'Current balance is: $feeBalance',
-                          textAlign: TextAlign.center,
-                          style: TextStyle(
-                              color: Colors.white,
-                              fontWeight: FontWeight.bold,
-                              fontSize: 20.0),
-                        ),
-                      ),
-                    ),
-                    transactionList == null
-                        ? _noContentWidget(context)
-                        : transactionList.length > 0
-                            ? Container(
-                                margin: EdgeInsets.only(top: 60.0, bottom: 5.0),
-                                child: Padding(
-                                  padding: EdgeInsets.all(5.0),
-                                  child: RefreshIndicator(
-                                    child: Scrollbar(
-                                      child: ListView.builder(
-                                        reverse: false,
-                                        itemCount: transactionList.length,
-                                        itemBuilder:
-                                            (BuildContext context, int index) {
-                                          return _transactionItemWidget(
-                                              transactionList[index]);
-                                        },
+                                Container(
+                                  margin:
+                                      EdgeInsets.only(top: 10.0, bottom: 5.0),
+                                  child: Padding(
+                                    padding: EdgeInsets.all(5.0),
+                                    child: RefreshIndicator(
+                                      child: Scrollbar(
+                                        child: ListView.builder(
+                                          reverse: false,
+                                          itemCount: data.length,
+                                          itemBuilder: (BuildContext context,
+                                              int index) {
+                                            return _transactionItemWidget(
+                                                data.reversed.toList()[index]);
+                                          },
+                                        ),
                                       ),
+                                      onRefresh: () async {
+                                        setState(() {});
+                                      },
                                     ),
-                                    onRefresh: () async {
-                                      setState(() {});
-                                    },
                                   ),
-                                ),
-                              )
-                            : _noContentWidget(context)
-                  ],
-                );
-              }),
+                                )
+                              ],
+                            );
+                }),
+          ),
         ),
       ),
     );
@@ -197,7 +201,7 @@ class _PortalDetailedTransactionsPageState
       padding: EdgeInsets.symmetric(horizontal: 0.0, vertical: 5.0),
       margin: EdgeInsets.symmetric(vertical: 5.0),
       decoration: BoxDecoration(
-         // color: Colors.white,
+          // color: Colors.white,
           borderRadius: BorderRadius.circular(10),
           border: Border.all(
               color: Color(0xFF487890), width: 1.0, style: BorderStyle.solid)),

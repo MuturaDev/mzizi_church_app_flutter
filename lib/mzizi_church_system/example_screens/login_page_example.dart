@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_phoenix/flutter_phoenix.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/login_progress_button.dart';
@@ -17,6 +18,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.da
 import 'package:mzizichurchsystem/mzizi_church_system/screens/Screen.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
+import 'package:sweetalert/sweetalert.dart';
 
 TextEditingController usernameTextEditorController;
 TextEditingController passwordTextEditorController;
@@ -425,16 +427,17 @@ class _LoginProgressButtonState extends State<LoginProgressButton> {
               // await new Future.delayed(const Duration(seconds: 5));
 
               //greater than screen size of iphone 6
-              Navigator.pushReplacement(
-                  context, MaterialPageRoute(builder: (context) => WelcomePage()));
+              //  Get.();
+              //This prevents, going back to home without user interaction after login in.
+              Phoenix.rebirth(context);
+              // Navigator.pushReplacement(context,
+              //     MaterialPageRoute(builder: (context) => WelcomePage()));
 
               // RouteController.routeMethod(0,
               //     controller: Controller.Navigator, context: context);
 
-            // RouteController.routeMethod(0,
-            //                   controller: Controller.Screen, context: context);
-
-
+              // RouteController.routeMethod(0,
+              //                   controller: Controller.Screen, context: context);
             });
             // await Future.delayed(Duration(seconds: 3)).then((value){
             //         _progressDialog.dismiss();
@@ -453,15 +456,15 @@ class _LoginProgressButtonState extends State<LoginProgressButton> {
               _buttonState = ButtonState.error;
             });
 
-            showAlertDialog(context, 'Confirmation',
-                'Please ensure your username, password and church code are correct.');
+            showAlertDialog(context, 'Unsuccessful',
+                '  Confirm the credentials entered.  ');
           }
         } catch (e) {
           setState(() {
             _buttonState = ButtonState.error;
           });
-          showAlertDialog(context, 'Confirmation',
-              'Please ensure your username, password and church code are correct.');
+          showAlertDialog(context, 'Unsuccessful',
+              '  Confirm the credentials entered.  ');
         }
       } else {
         setState(() {
@@ -664,48 +667,51 @@ Future<List<dynamic>> fetchDataFromApi() async {
   //TODO:use the data to fetch from all apis
 }
 
-Future showAlertDialog(
+void showAlertDialog(
   BuildContext context,
   String title,
   String content,
 ) {
-  return showDialog(
-      context: context,
-      builder: (BuildContext context) {
-        return AlertDialog(
-          title: Text(title),
-          titleTextStyle: TextStyle(
-              color: Colors.black,
-              fontStyle: FontStyle.normal,
-              fontWeight: FontWeight.bold,
-              fontSize: 20.0),
-          content: Text(
-            content,
-            // style: TextStyle(
-            //     color: Colors.black,
-            //     fontStyle: FontStyle.normal,
-            //     fontWeight: FontWeight.normal,
-            //     fontSize: 1.0),
-          ),
-          contentTextStyle: TextStyle(
-              color: Colors.black,
-              fontStyle: FontStyle.normal,
-              fontWeight: FontWeight.normal,
-              fontSize: 15.0),
-          actions: <Widget>[
-            FlatButton(
-              child: Text('Try Again', style: TextStyle(
-                color: Colors.black,
-                fontStyle: FontStyle.normal,
-                fontWeight: FontWeight.normal,
-                fontSize: 14.0),),
-              onPressed: () {
-                Navigator.pop(context);
-              },
-            )
-          ],
-        );
-      });
+  SweetAlert.show(context,
+      title: title, subtitle: content, style: SweetAlertStyle.error, confirmButtonColor: Color(0xFF487890));
+
+  // return showDialog(
+  //     context: context,
+  //     builder: (BuildContext context) {
+  //       return AlertDialog(
+  //         title: Text(title),
+  //         titleTextStyle: TextStyle(
+  //             color: Colors.black,
+  //             fontStyle: FontStyle.normal,
+  //             fontWeight: FontWeight.bold,
+  //             fontSize: 20.0),
+  //         content: Text(
+  //           content,
+  //           // style: TextStyle(
+  //           //     color: Colors.black,
+  //           //     fontStyle: FontStyle.normal,
+  //           //     fontWeight: FontWeight.normal,
+  //           //     fontSize: 1.0),
+  //         ),
+  //         contentTextStyle: TextStyle(
+  //             color: Colors.black,
+  //             fontStyle: FontStyle.normal,
+  //             fontWeight: FontWeight.normal,
+  //             fontSize: 15.0),
+  //         actions: <Widget>[
+  //           FlatButton(
+  //             child: Text('Try Again', style: TextStyle(
+  //               color: Colors.black,
+  //               fontStyle: FontStyle.normal,
+  //               fontWeight: FontWeight.normal,
+  //               fontSize: 14.0),),
+  //             onPressed: () {
+  //               Navigator.pop(context);
+  //             },
+  //           )
+  //         ],
+  //       );
+  //     });
 }
 
 class PasswordWidget extends StatefulWidget {

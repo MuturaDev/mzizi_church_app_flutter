@@ -7,10 +7,12 @@ part of 'portal_student_model.dart';
 // **************************************************************************
 
 Student _$StudentFromJson(Map<String, dynamic> json) {
-  return Student(json['StudentID'] as String, json['AppCode'] as String);
+  return Student(json['StudentID'] as String, json['AppCode'] as String)
+    ..OrganizationID = json['OrganizationID'] as String;
 }
 
 Map<String, dynamic> _$StudentToJson(Student instance) => <String, dynamic>{
       'StudentID': instance.StudentID,
-      'AppCode': instance.AppCode
+      'AppCode': instance.AppCode,
+      'OrganizationID': instance.OrganizationID
     };

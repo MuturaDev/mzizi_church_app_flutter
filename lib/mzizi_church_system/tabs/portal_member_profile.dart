@@ -4,6 +4,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_member_profile_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 
 class PortalMemberProfile extends KFDrawerContent {
   VoidCallback onMenuPressedHere;
@@ -15,61 +16,84 @@ class PortalMemberProfile extends KFDrawerContent {
 }
 
 class _PortalMemberProfileState extends State<PortalMemberProfile> {
+   Future<bool> _onBackPressed() {
+    RouteController.routeMethod(0,
+        controller: Controller.Navigator, context: context);
+  }
   @override
   Widget build(BuildContext context) {
     return SafeArea(
       top: false,
       bottom: false,
-      child: Scaffold(
-        appBar: AppBar(
-          backgroundColor: Color(0xFF487890),
-          primary: true,
-          leading: ClipRRect(
-            borderRadius: BorderRadius.all(Radius.circular(32.0)),
-            child: Material(
-              shadowColor: Colors.transparent,
-              color: Colors.transparent,
-              child: IconButton(
-                icon: Icon(
-                  Icons.menu,
-                  color: Colors.white,
+      child: WillPopScope(
+        onWillPop: _onBackPressed,
+              child: Scaffold(
+            appBar: AppBar(
+              backgroundColor: Color(0xFF487890),
+              primary: true,
+              leading: ClipRRect(
+                borderRadius: BorderRadius.all(Radius.circular(32.0)),
+                child: Material(
+                  shadowColor: Colors.transparent,
+                  color: Colors.transparent,
+                  child: IconButton(
+                    icon: Icon(
+                      Icons.menu,
+                      color: Colors.white,
+                    ),
+                    onPressed: widget.onMenuPressedHere != null
+                        ? widget.onMenuPressedHere
+                        : widget.onMenuPressed,
+                  ),
                 ),
-                onPressed: widget.onMenuPressedHere != null
-                    ? widget.onMenuPressedHere
-                    : widget.onMenuPressed,
               ),
+              title: Text('Member Profile',
+                  style: TextStyle(
+                    fontSize: 20,
+                  )),
+              centerTitle: true,
             ),
-          ),
-          title: Text('Member Profile',
-              style: TextStyle(
-                fontSize: 20,
-              )),
-          centerTitle: true,
-        ),
-        body: Container(
-            color: Color(0xFF487890),
-            child: EnhancedFutureBuilder(
-                future: ApiController.sendRequestForPortalMemberProfile(),
-                rememberFutureResult: false,
-                whenDone: (dynamic data){
-                  return body(data);
-                },
-                whenNotDone: Center(
-                  child: Image.asset(
-                      'assets/images/member_app_assets/Curve-Loading.gif'),
-                ))),
+            body: Container(
+              color: Color(0xFF487890),
+              height: MediaQuery.of(context).size.height,
+              width: MediaQuery.of(context).size.width,
+              child: Container(
+                  color: Color(0xFF487890),
+                  child: EnhancedFutureBuilder(
+                      future: ApiController.sendRequestForPortalMemberProfile(),
+                      rememberFutureResult: false,
+                      whenDone: (dynamic data) {
+                        Widget noContent = Center(
+                          child: Text('No content to show',
+                              style:
+                                  TextStyle(fontSize: 15, color: Colors.amber)),
+                        );
+
+                        return data == null
+                            ? noContent
+                            : data=="" ? noContent : body(data);
+                      },
+                      whenNotDone: Center(
+                        child: Image.asset(
+                            'assets/images/member_app_assets/Curve-Loading.gif'),
+                      ))),
+            )),
       ),
     );
   }
 
   Widget body(PortalMemberProfileModel response) {
     return Container(
-        color: Color(0xFF487890),
-        height: double.infinity,
+        // height: MediaQuery.of(context).size.height,
+        // width: MediaQuery.of(context).size.width,
+        child: SingleChildScrollView(
+      child: Container(
+        height: MediaQuery.of(context).size.height,
+        width: MediaQuery.of(context).size.width,
         child: Stack(
           children: <Widget>[
             Positioned(
-              top: 30,
+              top: 0,
               left: 5,
               right: 5,
               child: Container(
@@ -80,14 +104,14 @@ class _PortalMemberProfileState extends State<PortalMemberProfile> {
                     child: Container(
                       padding: EdgeInsets.all(10),
                       width: double.infinity,
-                      height: 500,
+                      height: 400,
                       child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: <Widget>[
                             SizedBox(height: 50),
                             TextFormField(
                                 enabled: false,
-                                initialValue: response.studentFullName,
+                                initialValue: response.StudentFullName,
                                 autovalidate: false,
                                 validator: (dynamic value) {
                                   if (value.isEmpty) {
@@ -107,7 +131,7 @@ class _PortalMemberProfileState extends State<PortalMemberProfile> {
                             SizedBox(height: 20),
                             TextFormField(
                                 enabled: false,
-                                initialValue: response.instituteName,
+                                initialValue: response.SchoolName,
                                 autovalidate: false,
                                 validator: (dynamic value) {
                                   if (value.isEmpty) {
@@ -127,7 +151,7 @@ class _PortalMemberProfileState extends State<PortalMemberProfile> {
                             SizedBox(height: 20),
                             TextFormField(
                                 enabled: false,
-                                initialValue: response.groupName,
+                                initialValue: response.GroupName,
                                 autovalidate: false,
                                 validator: (dynamic value) {
                                   if (value.isEmpty) {
@@ -147,7 +171,7 @@ class _PortalMemberProfileState extends State<PortalMemberProfile> {
                             SizedBox(height: 20),
                             TextFormField(
                                 enabled: false,
-                                initialValue: response.studentPhoneNo,
+                                initialValue: response.StudentPhoneNo,
                                 autovalidate: false,
                                 validator: (dynamic value) {
                                   if (value.isEmpty) {
@@ -169,7 +193,7 @@ class _PortalMemberProfileState extends State<PortalMemberProfile> {
               ),
             ),
             Positioned(
-              top: 50,
+              top: 20,
               left: 10,
               right: 10,
               child: Container(
@@ -187,6 +211,8 @@ class _PortalMemberProfileState extends State<PortalMemberProfile> {
               ),
             ),
           ],
-        ));
+        ),
+      ),
+    ));
   }
 }

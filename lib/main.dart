@@ -3,11 +3,15 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_phoenix/flutter_phoenix.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/example_screens/date_picker_example.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/example_screens/date_time_picker_example.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/drop_down_example.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/main_advance.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/main_example.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/main_gallery.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/main_lite.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/example_screens/time-picker_screen.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/welcome_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/youtube_video_example.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/screens/Screen.dart';
@@ -27,7 +31,7 @@ void main() {
   WidgetsFlutterBinding.ensureInitialized();
   ClassBuilder.registerClasses();
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
-  runApp(MyApp());
+  runApp(Phoenix(child: MyApp()));
 }
 
 class MyApp extends StatelessWidget {
@@ -57,6 +61,8 @@ class MyApp extends StatelessWidget {
           ));
     }
 
+
+
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
@@ -64,7 +70,9 @@ class MyApp extends StatelessWidget {
       title: 'Mzizi CMS',
       theme: ThemeData(
         // This is the theme of your application.
-        //
+      //https://stackoverflow.com/questions/50321182/how-to-customize-a-date-picker
+        colorScheme: ColorScheme.light(primary: const Color(0xFF487890)),
+        
         // Try running your application with "flutter run". You'll see the
         // application has a blue toolbar. Then, without quitting the app, try
         // changing the primarySwatch below to Colors.green and then invoke
@@ -72,7 +80,7 @@ class MyApp extends StatelessWidget {
         // or simply save your changes to "hot reload" in a Flutter IDE).
         // Notice that the counter didn't reset back to zero; the application
         // is not restarted.
-        primarySwatch: Colors.blue,
+       
       ),
       //home: ExampleScreens(),
      //home: Screen(),
@@ -89,6 +97,9 @@ class MyApp extends StatelessWidget {
      //home: PortalVideoGalleryPage(),
       //home: PortalPhotoGalleryPage(),
       //home: PhotoFullScreen(null),
+     //home: DatePickerBottomSheet()
+     //home:MyApp2(),
+     //home:TimePickerScreen()
     
     );
   }

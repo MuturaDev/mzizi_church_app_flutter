@@ -16,58 +16,76 @@ class PortalPhotoGalleryPage extends KFDrawerContent {
 }
 
 class _PortalPhotoGalleryPageState extends State<PortalPhotoGalleryPage> {
+  Future<bool> _onBackPressed() {
+    RouteController.routeMethod(0,
+        controller: Controller.Navigator, context: context);
+  }
+
   @override
   Widget build(BuildContext context) {
     return SafeArea(
       top: false,
       bottom: false,
-      child: Scaffold(
-        appBar: AppBar(
-          backgroundColor: Color(0xFF487890),
-          primary: true,
-          leading: ClipRRect(
-            borderRadius: BorderRadius.all(Radius.circular(32.0)),
-            child: Material(
-              shadowColor: Colors.transparent,
-              color: Colors.transparent,
-              child: IconButton(
-                icon: Icon(
-                  Icons.menu,
-                  color: Colors.white,
+      child: WillPopScope(
+        onWillPop: _onBackPressed,
+        child: Scaffold(
+          appBar: AppBar(
+            backgroundColor: Color(0xFF487890),
+            primary: true,
+            leading: ClipRRect(
+              borderRadius: BorderRadius.all(Radius.circular(32.0)),
+              child: Material(
+                shadowColor: Colors.transparent,
+                color: Colors.transparent,
+                child: IconButton(
+                  icon: Icon(
+                    Icons.menu,
+                    color: Colors.white,
+                  ),
+                  onPressed: widget.onMenuPressedHere != null
+                      ? widget.onMenuPressedHere
+                      : widget.onMenuPressed,
                 ),
-                onPressed: widget.onMenuPressedHere != null
-                    ? widget.onMenuPressedHere
-                    : widget.onMenuPressed,
               ),
             ),
+            title: Text('Photo Gallery',
+                style: TextStyle(
+                  fontSize: 20,
+                )),
+            centerTitle: true,
           ),
-          title: Text('Photo Gallery',
-              style: TextStyle(
-                fontSize: 20,
-              )),
-          centerTitle: true,
+          body: Container(
+              color: Color(0xFF487890),
+              child: EnhancedFutureBuilder(
+                  future:
+                      ApiController.sendRequestForPortalPortalPhotoGallery(),
+                  rememberFutureResult: true,
+                  whenDone: (dynamic data) {
+                    Widget noContent = Center(
+                      child: Text('No content to show',
+                          style: TextStyle(fontSize: 15, color: Colors.amber)),
+                    );
+
+                    return data == null
+                        ? noContent
+                        : data.length <= 0
+                            ? noContent
+                            : GridView.count(
+                                primary: false,
+                                padding: const EdgeInsets.all(5),
+                                crossAxisSpacing: 5,
+                                mainAxisSpacing: 5,
+                                crossAxisCount: 2,
+                                children: List.generate(data.length, (index) {
+                                  return listItemWidget(data[index]);
+                                }),
+                              );
+                  },
+                  whenNotDone: Center(
+                    child: Image.asset(
+                        'assets/images/member_app_assets/Curve-Loading.gif'),
+                  ))),
         ),
-        body: Container(
-            color: Color(0xFF487890),
-            child: EnhancedFutureBuilder(
-                future: ApiController.sendRequestForPortalPortalPhotoGallery(),
-                rememberFutureResult: true,
-                whenDone: (dynamic data) {
-                  return GridView.count(
-                    primary: false,
-                    padding: const EdgeInsets.all(5),
-                    crossAxisSpacing: 5,
-                    mainAxisSpacing: 5,
-                    crossAxisCount: 2,
-                    children: List.generate(data.length, (index) {
-                      return listItemWidget(data[index]);
-                    }),
-                  );
-                },
-                whenNotDone: Center(
-                  child: Image.asset(
-                      'assets/images/member_app_assets/Curve-Loading.gif'),
-                ))),
       ),
     );
   }
@@ -80,7 +98,8 @@ class _PortalPhotoGalleryPageState extends State<PortalPhotoGalleryPage> {
 
         RouteController.routeMethod(17,
             controller: Controller.Navigator,
-            context: context, messagepass: response); //causing a dashboardscreen
+            context: context,
+            messagepass: response); //causing a dashboardscreen
       },
       child: Container(
         child: Card(
@@ -92,7 +111,7 @@ class _PortalPhotoGalleryPageState extends State<PortalPhotoGalleryPage> {
                 top: 0,
                 right: 0,
                 left: 0,
-                bottom: 45,
+                bottom: 50,
                 child: Center(
                     child: Container(
                   width: double.infinity,
@@ -128,8 +147,9 @@ class _PortalPhotoGalleryPageState extends State<PortalPhotoGalleryPage> {
                 right: 0,
                 left: 0,
                 child: Container(
-                    height: 45,
-                    padding: EdgeInsets.only(top: 2, left: 5, right: 5, bottom: 0),
+                    height: 50,
+                    padding:
+                        EdgeInsets.only(top: 2, left: 5, right: 5, bottom: 0),
                     color: Colors.blue,
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
@@ -137,9 +157,10 @@ class _PortalPhotoGalleryPageState extends State<PortalPhotoGalleryPage> {
                         Row(
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: <Widget>[
-                            Text(
-                              response.albumName,
-                              style: TextStyle(color: Colors.white, fontSize: 14)
+                            Flexible(
+                              child: Text(response.albumName,
+                                  style: TextStyle(
+                                      color: Colors.white, fontSize: 14)),
                             ),
                             Container(
                               height: 25,
