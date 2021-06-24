@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19091001">
+		</marker>
+		<chapter num="91">
+			<heading
+				>
+				My Refuge and My Fortress
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				He who dwells in 
+				<crossref let="a" cid="c19091001.1">
+				</crossref>
+				the shelter of the Most High
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				will abide in 
+				<crossref let="b" cid="c19091001.2">
+				</crossref>
+				the shadow of the Almighty.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19091002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				I will say
+				<note nid="n19091002.1">
+				</note>
+				 to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My 
+				<crossref let="c" cid="c19091002.1">
+				</crossref>
+				refuge and my 
+				<crossref let="d" cid="c19091002.2">
+				</crossref>
+				fortress,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my God, in whom I 
+				<crossref let="e" cid="c19091002.3">
+				</crossref>
+				trust.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19091003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				For he will deliver you from 
+				<crossref let="f" cid="c19091003.1">
+				</crossref>
+				the snare of the fowler
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and from the deadly pestilence.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19091004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				He will 
+				<crossref let="g" cid="c19091004.1">
+				</crossref>
+				cover you with his pinions,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and under his 
+				<crossref let="h" cid="c19091004.2">
+				</crossref>
+				wings you will 
+				<crossref let="i" cid="c19091004.3">
+				</crossref>
+				find refuge;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his 
+				<crossref let="j" cid="c19091004.4">
+				</crossref>
+				faithfulness is 
+				<crossref let="k" cid="c19091004.5">
+				</crossref>
+				a shield and buckler.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19091005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19091005.1">
+				</crossref>
+				You will not fear 
+				<crossref let="m" cid="c19091005.2">
+				</crossref>
+				the terror of the night,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor the arrow that flies by day,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19091006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				nor the pestilence that stalks in darkness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor the destruction that wastes at noonday.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19091007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				A thousand may fall at your side,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				ten thousand at your right hand,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but it will not come near you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19091008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				You will only look with your eyes
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="n" cid="c19091008.1">
+				</crossref>
+				see the recompense of the wicked.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19091009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Because you have made the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your 
+				<crossref let="o" cid="c19091009.1">
+				</crossref>
+				dwelling placeù
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the Most High, who is my 
+				<crossref let="c" cid="c19091009.2">
+				</crossref>
+				refuge
+				<note nid="n19091009.1">
+				</note>
+				ù
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19091010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19091010.1">
+				</crossref>
+				no evil shall be allowed to befall you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c19091010.2">
+				</crossref>
+				no plague come near your tent.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19091011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19091011.1">
+				</crossref>
+				For he will command his 
+				<crossref let="s" cid="c19091011.2">
+				</crossref>
+				angels concerning you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to 
+				<crossref let="t" cid="c19091011.3">
+				</crossref>
+				guard you in all your ways.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19091012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				On their hands they will bear you up,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				lest you 
+				<crossref let="u" cid="c19091012.1">
+				</crossref>
+				strike your foot against a stone.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19091013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				You will tread on 
+				<crossref let="v" cid="c19091013.1">
+				</crossref>
+				the lion and the 
+				<crossref let="w" cid="c19091013.2">
+				</crossref>
+				adder;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the young lion and 
+				<crossref let="x" cid="c19091013.3">
+				</crossref>
+				the serpent you will 
+				<crossref let="y" cid="c19091013.4">
+				</crossref>
+				trample underfoot.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19091014">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because he 
+				<crossref let="z" cid="c19091014.1">
+				</crossref>
+				holds fast to me in love, I will deliver him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will protect him, because he 
+				<crossref let="a" cid="c19091014.2">
+				</crossref>
+				knows my name.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19091015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				When he 
+				<crossref let="b" cid="c19091015.1">
+				</crossref>
+				calls to me, I will answer him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will be with him in trouble;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will rescue him and 
+				<crossref let="c" cid="c19091015.2">
+				</crossref>
+				honor him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19091016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				With 
+				<crossref let="d" cid="c19091016.1">
+				</crossref>
+				long life I will satisfy him
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="e" cid="c19091016.2">
+				</crossref>
+				show him my salvation.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

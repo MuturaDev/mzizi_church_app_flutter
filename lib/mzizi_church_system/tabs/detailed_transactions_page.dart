@@ -125,6 +125,8 @@ class _PortalDetailedTransactionsPageState
                 rememberFutureResult: false,
                 whenNotDone: Center(
                     child: Container(
+                  height: 250,
+                  width: 250,
                   child: Image.asset(
                       'assets/images/member_app_assets/Curve-Loading.gif'),
                 )),
@@ -201,10 +203,11 @@ class _PortalDetailedTransactionsPageState
       padding: EdgeInsets.symmetric(horizontal: 0.0, vertical: 5.0),
       margin: EdgeInsets.symmetric(vertical: 5.0),
       decoration: BoxDecoration(
-          // color: Colors.white,
-          borderRadius: BorderRadius.circular(10),
-          border: Border.all(
-              color: Color(0xFF487890), width: 1.0, style: BorderStyle.solid)),
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(5),
+        // border: Border.all(
+        //     color: Color(0xFF487890), width: 1.0, style: BorderStyle.solid)
+      ),
       child: Column(
         children: <Widget>[
           _rowItem(
@@ -277,12 +280,15 @@ class _PortalDetailedTransactionsPageState
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: <Widget>[
-                    Text(
-                      leftLabel,
-                      style: TextStyle(
-                          fontSize: 13.0,
-                          color: Colors.black,
-                          fontWeight: FontWeight.bold),
+                    Container(
+                      margin: EdgeInsets.only(right: 5),
+                      child: Text(
+                        leftLabel,
+                        style: TextStyle(
+                            fontSize: 13.0,
+                            color: Colors.black,
+                            fontWeight: FontWeight.bold),
+                      ),
                     ),
                     Expanded(
                       child: Container(
@@ -298,7 +304,7 @@ class _PortalDetailedTransactionsPageState
                         padding: EdgeInsets.only(top: 3.0, bottom: 3.0),
                         decoration: BoxDecoration(
                             borderRadius:
-                                BorderRadius.all(Radius.circular(8.0)),
+                                BorderRadius.all(Radius.circular(5.0)),
                             color: isReceiptOrInvoice
                                 ? Colors.green
                                 : Colors.orange),
@@ -315,7 +321,10 @@ class _PortalDetailedTransactionsPageState
                     Text(
                       leftLabel,
                       textAlign: TextAlign.center,
-                      style: TextStyle(fontSize: 13.0, color: Colors.black87),
+                      style: TextStyle(
+                          fontSize: 15.0,
+                          color: Colors.black,
+                          fontWeight: FontWeight.w500),
                     ),
                     // Text(
                     //   centerLabel,
@@ -325,7 +334,7 @@ class _PortalDetailedTransactionsPageState
                     Text(
                       rightLabel,
                       textAlign: TextAlign.center,
-                      style: TextStyle(fontSize: 13.0, color: Colors.black87),
+                      style: TextStyle(fontSize: 13.0, color: Colors.grey),
                     )
                   ],
                 ));

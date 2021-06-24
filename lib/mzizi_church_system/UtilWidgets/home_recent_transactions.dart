@@ -168,7 +168,7 @@ class HomeRecentPledgeContributions extends StatelessWidget {
                                       color: Color(0xFF487890),
                                     )))),
                         onTapDown: (_) {
-                          RouteController.routeMethod(2,
+                          RouteController.routeMethod(3,
                               controller: Controller.Navigator,
                               context: context);
                         },

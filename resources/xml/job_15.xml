@@ -1,0 +1,699 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18015001">
+		</marker>
+		<chapter num="15">
+			<heading
+				>
+				Eliphaz Accuses: Job Does Not Fear God
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then 
+				<crossref let="q" cid="c18015001.1">
+				</crossref>
+				Eliphaz the Temanite answered and said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18015002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Should 
+				<crossref let="r" cid="c18015002.1">
+				</crossref>
+				a wise man answer with 
+				<crossref let="s" cid="c18015002.2">
+				</crossref>
+				windy knowledge,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and fill his 
+				<crossref let="t" cid="c18015002.3">
+				</crossref>
+				belly with 
+				<crossref let="u" cid="c18015002.4">
+				</crossref>
+				the east wind?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Should he argue in unprofitable talk,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or in words with which he can do no good?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				But you are doing away with the fear of God
+				<note nid="n18015004.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and hindering meditation before God.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				For your iniquity teaches your mouth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you choose the tongue of the crafty.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Your 
+				<crossref let="v" cid="c18015006.1">
+				</crossref>
+				own mouth condemns you, and not I;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c18015006.2">
+				</crossref>
+				your own lips testify against you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18015007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c18015007.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Are you the first man who was born?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Or 
+				<crossref let="y" cid="c18015007.2">
+				</crossref>
+				were you brought forth 
+				<crossref let="z" cid="c18015007.3">
+				</crossref>
+				before the hills?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Have you listened in 
+				<crossref let="a" cid="c18015008.1">
+				</crossref>
+				the council of God?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				And do you limit wisdom to yourself?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c18015009.1">
+				</crossref>
+				What do you know that we do not know?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				What do you understand that is not clear to us?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c18015010.1">
+				</crossref>
+				Both the gray-haired and the aged are among us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				older than your father.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Are the comforts of God too small for you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or the word that deals gently with you?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Why does your heart carry you away,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and why do your eyes flash,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				that you turn your 
+				<crossref let="d" cid="c18015013.1">
+				</crossref>
+				spirit against God
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and bring such words out of your mouth?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c18015014.1">
+				</crossref>
+				What is man, 
+				<crossref let="f" cid="c18015014.2">
+				</crossref>
+				that he can be pure?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Or he who is 
+				<crossref let="g" cid="c18015014.3">
+				</crossref>
+				born of a woman, that he can be righteous?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				Behold, God
+				<note nid="n18015015.1">
+				</note>
+				<crossref let="h" cid="c18015015.1">
+				</crossref>
+				puts no trust in his 
+				<crossref let="i" cid="c18015015.2">
+				</crossref>
+				holy ones,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the heavens are not pure in his sight;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c18015016.1">
+				</crossref>
+				how much less one who is abominable and 
+				<crossref let="k" cid="c18015016.2">
+				</crossref>
+				corrupt,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a man who 
+				<crossref let="l" cid="c18015016.3">
+				</crossref>
+				drinks injustice like water!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18015017">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				I will show you; hear me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and what I have seen I will declare
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				(what wise men have told,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				without hiding it 
+				<crossref let="m" cid="c18015018.1">
+				</crossref>
+				from their fathers,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				to whom alone the land was given,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and no 
+				<crossref let="n" cid="c18015019.1">
+				</crossref>
+				stranger passed among them).
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				The wicked man writhes in pain all his days,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				through all the 
+				<crossref let="o" cid="c18015020.1">
+				</crossref>
+				years that are laid up for 
+				<crossref let="p" cid="c18015020.2">
+				</crossref>
+				the ruthless.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c18015021.1">
+				</crossref>
+				Dreadful sounds are in his ears;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in 
+				<crossref let="r" cid="c18015021.2">
+				</crossref>
+				prosperity the destroyer will come upon him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				He does not believe that he will return out of darkness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he is marked for the sword.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="s" cid="c18015023.1">
+				</crossref>
+				wanders abroad for bread, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Where is it?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				He knows that a day of darkness is ready at his hand;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				distress and anguish terrify him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they 
+				<crossref let="t" cid="c18015024.1">
+				</crossref>
+				prevail against him, like a king ready for battle.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				Because he has stretched out his hand against God
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and defies the Almighty,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c18015026.1">
+				</crossref>
+				running 
+				<crossref let="v" cid="c18015026.2">
+				</crossref>
+				stubbornly against him
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with a thickly bossed shield;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				because he has 
+				<crossref let="w" cid="c18015027.1">
+				</crossref>
+				covered his face with his fat
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and gathered fat upon his waist
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				and has lived in desolate cities,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in houses that none should inhabit,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				which were ready to become heaps of ruins;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				he will not be rich, and his wealth will not endure,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor will his possessions spread over the earth;
+				<note nid="n18015029.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				he will not depart from darkness;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the flame will dry up his shoots,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and by 
+				<crossref let="x" cid="c18015030.1">
+				</crossref>
+				the breath of his mouth he will depart.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015031">
+			</marker>
+			<verse num="31">
+				<begin-line
+					>
+				</begin-line>
+				Let him not 
+				<crossref let="y" cid="c18015031.1">
+				</crossref>
+				trust in emptiness, deceiving himself,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for emptiness will be his payment.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015032">
+			</marker>
+			<verse num="32">
+				<begin-line
+					>
+				</begin-line>
+				It will be paid in full 
+				<crossref let="z" cid="c18015032.1">
+				</crossref>
+				before his time,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his branch will not be green.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015033">
+			</marker>
+			<verse num="33">
+				<begin-line
+					>
+				</begin-line>
+				He will shake off his unripe grape like the vine,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and cast off his blossom like the olive tree.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015034">
+			</marker>
+			<verse num="34">
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="a" cid="c18015034.1">
+				</crossref>
+				the company of the godless is barren,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="b" cid="c18015034.2">
+				</crossref>
+				fire consumes the tents of bribery.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18015035">
+			</marker>
+			<verse num="35">
+				<begin-line
+					>
+				</begin-line>
+				They 
+				<crossref let="c" cid="c18015035.1">
+				</crossref>
+				conceive trouble and give birth to evil,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and their 
+				<crossref let="d" cid="c18015035.2">
+				</crossref>
+				womb prepares deceit.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

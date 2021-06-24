@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23039001">
+		</marker>
+		<chapter num="39">
+			<heading
+				>
+				Envoys from Babylon
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="s" cid="c23039001.1">
+				</crossref>
+				At that time Merodach-baladan the son of Baladan, king of Babylon, 
+				<crossref let="t" cid="c23039001.2">
+				</crossref>
+				sent envoys with letters and a present to Hezekiah, for he heard that he had been sick and had recovered.
+			</verse>
+			<marker class="begin-verse" mid="v23039002">
+			</marker>
+			<verse num="2">
+				And Hezekiah welcomed them gladly. And he showed them his treasure house, 
+				<crossref let="u" cid="c23039002.1">
+				</crossref>
+				the silver, the gold, the spices, the precious oil, his whole armory, all that was found in his storehouses. 
+				<crossref let="v" cid="c23039002.2">
+				</crossref>
+				There was nothing in his house or in all his realm that Hezekiah did not show them.
+			</verse>
+			<marker class="begin-verse" mid="v23039003">
+			</marker>
+			<verse num="3">
+				Then Isaiah the prophet came to King Hezekiah, and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What did these men say? And from where did they come to you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Hezekiah said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				They have come to me from a far country, from Babylon.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v23039004">
+			</marker>
+			<verse num="4">
+				He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What have they seen in your house?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Hezekiah answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				They have seen all that is in my house. There is nothing in my storehouses that I did not show them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23039005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				Then Isaiah said to Hezekiah, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hear the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts:
+			</verse>
+			<marker class="begin-verse" mid="v23039006">
+			</marker>
+			<verse num="6">
+				<crossref let="w" cid="c23039006.1">
+				</crossref>
+				Behold, the days are coming, when all that is in your house, and that which your fathers have stored up till this day, shall be carried to Babylon. Nothing shall be left, says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v23039007">
+			</marker>
+			<verse num="7">
+				<crossref let="x" cid="c23039007.1">
+				</crossref>
+				And some of your own sons, who will come from you, whom you will father, shall be taken away, and they shall be eunuchs in the palace of the king of Babylon.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v23039008">
+			</marker>
+			<verse num="8">
+				Then said Hezekiah to Isaiah, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that you have spoken is good.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 For he thought, 
+				<crossref let="y" cid="c23039008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				There will be peace and security in my days.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19134001">
+		</marker>
+		<chapter num="134">
+			<heading
+				>
+				Come, Bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<subheading class="psalm-title">
+				A Song of 
+				<crossref let="m" cid="c19134001.1">
+				</crossref>
+				Ascents.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Come, bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, all you 
+				<crossref let="m" cid="c19134001.2">
+				</crossref>
+				servants of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="n" cid="c19134001.3">
+				</crossref>
+				stand 
+				<crossref let="o" cid="c19134001.4">
+				</crossref>
+				by night in the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19134002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19134002.1">
+				</crossref>
+				Lift up your hands to 
+				<crossref let="q" cid="c19134002.2">
+				</crossref>
+				the holy place
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19134003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				May the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="r" cid="c19134003.1">
+				</crossref>
+				bless you 
+				<crossref let="s" cid="c19134003.2">
+				</crossref>
+				from Zion,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he who 
+				<crossref let="t" cid="c19134003.3">
+				</crossref>
+				made heaven and earth!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

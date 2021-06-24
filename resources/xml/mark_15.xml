@@ -1,0 +1,647 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Mark" num="40">
+		<marker class="begin-verse" mid="v41015001">
+		</marker>
+		<chapter num="15">
+			<heading
+				>
+				Jesus Delivered to Pilate
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="c" cid="c41015001.1">
+				</crossref>
+				And as soon as it was morning, the chief priests 
+				<crossref let="d" cid="c41015001.2">
+				</crossref>
+				held a consultation with the elders and scribes and the whole Council. And 
+				<crossref let="e" cid="c41015001.3">
+				</crossref>
+				they bound Jesus and 
+				<crossref let="f" cid="c41015001.4">
+				</crossref>
+				led him away and 
+				<crossref let="g" cid="c41015001.5">
+				</crossref>
+				delivered him over to 
+				<crossref let="h" cid="c41015001.6">
+				</crossref>
+				Pilate.
+			</verse>
+			<marker class="begin-verse" mid="v41015002">
+			</marker>
+			<verse num="2">
+				<crossref let="i" cid="c41015002.1">
+				</crossref>
+				<crossref cid="t41015002.1">
+				</crossref>
+				And Pilate asked him, 
+				<crossref let="j" cid="c41015002.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Are you the King of the Jews?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he answered him, 
+				<woc
+					>
+					<crossref let="k" cid="c41015002.3">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You have said so.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41015003">
+			</marker>
+			<verse num="3">
+				And the chief priests accused him of many things.
+			</verse>
+			<marker class="begin-verse" mid="v41015004">
+			</marker>
+			<verse num="4">
+				And Pilate again asked him, 
+				<crossref let="l" cid="c41015004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Have you no answer to make? See how many charges they bring against you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41015005">
+			</marker>
+			<verse num="5">
+				But Jesus 
+				<crossref let="l" cid="c41015005.1">
+				</crossref>
+				made no further answer, so that Pilate was amazed.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41015006">
+			</marker>
+			<heading
+				>
+				Pilate Delivers Jesus to Be Crucified
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<crossref let="m" cid="c41015006.1">
+				</crossref>
+				<crossref cid="t41015006.1">
+				</crossref>
+				Now at the feast he used to release for them one prisoner for whom they asked.
+			</verse>
+			<marker class="begin-verse" mid="v41015007">
+			</marker>
+			<verse num="7">
+				And among the rebels in prison, who had 
+				<crossref let="n" cid="c41015007.1">
+				</crossref>
+				committed murder 
+				<crossref let="o" cid="c41015007.2">
+				</crossref>
+				in the insurrection, there was a man called Barabbas.
+			</verse>
+			<marker class="begin-verse" mid="v41015008">
+			</marker>
+			<verse num="8">
+				And the crowd came up and began to ask Pilate to do as he usually did for them.
+			</verse>
+			<marker class="begin-verse" mid="v41015009">
+			</marker>
+			<verse num="9">
+				And he answered them, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do you want me to release for you the King of the Jews?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41015010">
+			</marker>
+			<verse num="10">
+				For he perceived that 
+				<crossref let="p" cid="c41015010.1">
+				</crossref>
+				it was out of envy that the chief priests had delivered him up.
+			</verse>
+			<marker class="begin-verse" mid="v41015011">
+			</marker>
+			<verse num="11">
+				But the chief priests stirred up the crowd to have him release for them Barabbas instead.
+			</verse>
+			<marker class="begin-verse" mid="v41015012">
+			</marker>
+			<verse num="12">
+				And Pilate again said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Then what shall I do with 
+				<crossref let="q" cid="c41015012.1">
+				</crossref>
+				the man you call the King of the Jews?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41015013">
+			</marker>
+			<verse num="13">
+				And they cried out again, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Crucify him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41015014">
+			</marker>
+			<verse num="14">
+				And Pilate said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why, 
+				<crossref let="r" cid="c41015014.1">
+				</crossref>
+				what evil has he done?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But they shouted all the more, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Crucify him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41015015">
+			</marker>
+			<verse num="15">
+				So Pilate, wishing to satisfy the crowd, released for them Barabbas, and having 
+				<crossref let="s" cid="c41015015.1">
+				</crossref>
+				scourged
+				<note nid="n41015015.1">
+				</note>
+				 Jesus, he delivered him to be crucified.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41015016">
+			</marker>
+			<heading
+				>
+				Jesus Is Mocked
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				<crossref let="t" cid="c41015016.1">
+				</crossref>
+				<crossref cid="t41015016.1">
+				</crossref>
+				And the soldiers led him away inside 
+				<crossref let="u" cid="c41015016.2">
+				</crossref>
+				the palace (that is, 
+				<crossref let="v" cid="c41015016.3">
+				</crossref>
+				the governor's headquarters),
+				<note nid="n41015016.1">
+				</note>
+				 and they called together the whole 
+				<crossref let="w" cid="c41015016.4">
+				</crossref>
+				battalion.
+				<note nid="n41015016.2">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v41015017">
+			</marker>
+			<verse num="17">
+				And they clothed him in 
+				<crossref let="x" cid="c41015017.1">
+				</crossref>
+				a purple cloak, and twisting together a crown of thorns, they put it on him.
+			</verse>
+			<marker class="begin-verse" mid="v41015018">
+			</marker>
+			<verse num="18">
+				And they began to salute him, 
+				<crossref let="y" cid="c41015018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hail, King of the Jews!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41015019">
+			</marker>
+			<verse num="19">
+				And they were striking his head with a reed and 
+				<crossref let="z" cid="c41015019.1">
+				</crossref>
+				spitting on him and 
+				<crossref let="a" cid="c41015019.2">
+				</crossref>
+				kneeling down in homage to him.
+			</verse>
+			<marker class="begin-verse" mid="v41015020">
+			</marker>
+			<verse num="20">
+				And when they had 
+				<crossref let="b" cid="c41015020.1">
+				</crossref>
+				mocked him, they stripped him of 
+				<crossref let="x" cid="c41015020.2">
+				</crossref>
+				the purple cloak and put his own clothes on him. And they 
+				<crossref let="c" cid="c41015020.3">
+				</crossref>
+				led him out to crucify him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41015021">
+			</marker>
+			<heading
+				>
+				The Crucifixion
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<crossref let="d" cid="c41015021.1">
+				</crossref>
+				And they compelled a passerby, Simon of Cyrene, who was coming in from the country, the father of Alexander and Rufus, to carry his cross.
+			</verse>
+			<marker class="begin-verse" mid="v41015022">
+			</marker>
+			<verse num="22">
+				<crossref let="e" cid="c41015022.1">
+				</crossref>
+				<crossref cid="t41015022.1">
+				</crossref>
+				And they brought him to the place called Golgotha (which means Place of a Skull).
+			</verse>
+			<marker class="begin-verse" mid="v41015023">
+			</marker>
+			<verse num="23">
+				And they offered him wine mixed with 
+				<crossref let="f" cid="c41015023.1">
+				</crossref>
+				myrrh, but he did not take it.
+			</verse>
+			<marker class="begin-verse" mid="v41015024">
+			</marker>
+			<verse num="24">
+				And they crucified him and 
+				<crossref let="g" cid="c41015024.1">
+				</crossref>
+				divided his garments among them, casting lots for them, to decide what each should take.
+			</verse>
+			<marker class="begin-verse" mid="v41015025">
+			</marker>
+			<verse num="25">
+				And 
+				<crossref let="h" cid="c41015025.1">
+				</crossref>
+				it was the third hour
+				<note nid="n41015025.1">
+				</note>
+				 when they crucified him.
+			</verse>
+			<marker class="begin-verse" mid="v41015026">
+			</marker>
+			<verse num="26">
+				And the inscription of the charge against him read, 
+				<crossref let="i" cid="c41015026.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The King of the Jews.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41015027">
+			</marker>
+			<verse num="27">
+				And with him they crucified two 
+				<crossref let="j" cid="c41015027.1">
+				</crossref>
+				robbers, 
+				<crossref let="k" cid="c41015027.2">
+				</crossref>
+				one on his right and one on his left.
+				<note nid="n41015027.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v41015029">
+			</marker>
+			<verse num="29">
+				And 
+				<crossref let="l" cid="c41015029.1">
+				</crossref>
+				those who passed by derided him, 
+				<crossref let="m" cid="c41015029.2">
+				</crossref>
+				wagging their heads and saying, 
+				<crossref let="n" cid="c41015029.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Aha! 
+				<crossref let="o" cid="c41015029.4">
+				</crossref>
+				You who would destroy the temple and rebuild it in three days,
+			</verse>
+			<marker class="begin-verse" mid="v41015030">
+			</marker>
+			<verse num="30">
+				save yourself, and come down from the cross!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41015031">
+			</marker>
+			<verse num="31">
+				So also the chief priests with the scribes mocked him to one another, saying, 
+				<crossref let="p" cid="c41015031.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He saved others; 
+				<crossref let="q" cid="c41015031.2">
+				</crossref>
+				he cannot save himself.
+			</verse>
+			<marker class="begin-verse" mid="v41015032">
+			</marker>
+			<verse num="32">
+				Let 
+				<crossref let="r" cid="c41015032.1">
+				</crossref>
+				the Christ, 
+				<crossref let="s" cid="c41015032.2">
+				</crossref>
+				the King of Israel, come down now from the cross that we may 
+				<crossref let="t" cid="c41015032.3">
+				</crossref>
+				see and believe.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<crossref let="u" cid="c41015032.4">
+				</crossref>
+				Those who were crucified with him also reviled him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41015033">
+			</marker>
+			<heading
+				>
+				The Death of Jesus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="33">
+				And when the sixth hour
+				<note nid="n41015033.1">
+				</note>
+				 had come, there was darkness over the whole land until the ninth hour.
+				<note nid="n41015033.2">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v41015034">
+			</marker>
+			<verse num="34">
+				And at the ninth hour Jesus 
+				<crossref let="v" cid="c41015034.1">
+				</crossref>
+				cried with a loud voice, 
+				<woc
+					>
+					<crossref let="w" cid="c41015034.2">
+					</crossref>
+					<crossref cid="t41015034.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Eloi, Eloi, lema sabachthani?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 which means, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					My God, my God, why have you forsaken me?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41015035">
+			</marker>
+			<verse num="35">
+				And some of the bystanders hearing it said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, he is calling Elijah.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41015036">
+			</marker>
+			<verse num="36">
+				And someone ran and filled a sponge with 
+				<crossref let="x" cid="c41015036.1">
+				</crossref>
+				sour wine, put it on a reed 
+				<crossref let="y" cid="c41015036.2">
+				</crossref>
+				and gave it to him to drink, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Wait, let us see whether Elijah will come to take him down.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41015037">
+			</marker>
+			<verse num="37">
+				And Jesus 
+				<crossref let="z" cid="c41015037.1">
+				</crossref>
+				uttered a loud cry and 
+				<crossref let="a" cid="c41015037.2">
+				</crossref>
+				breathed his last.
+			</verse>
+			<marker class="begin-verse" mid="v41015038">
+			</marker>
+			<verse num="38">
+				And 
+				<crossref let="b" cid="c41015038.1">
+				</crossref>
+				the curtain of the temple was torn in two, from top to bottom.
+			</verse>
+			<marker class="begin-verse" mid="v41015039">
+			</marker>
+			<verse num="39">
+				<crossref let="c" cid="c41015039.1">
+				</crossref>
+				<crossref cid="t41015039.1">
+				</crossref>
+				And when the centurion, who stood facing him, saw that in this way he
+				<note nid="n41015039.1">
+				</note>
+				 breathed his last, he said, 
+				<crossref let="d" cid="c41015039.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Truly this man was the Son
+				<note nid="n41015039.2">
+				</note>
+				 of God!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41015040">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="40">
+				There were also 
+				<crossref let="e" cid="c41015040.1">
+				</crossref>
+				women looking on 
+				<crossref let="f" cid="c41015040.2">
+				</crossref>
+				from a distance, among whom were 
+				<crossref let="g" cid="c41015040.3">
+				</crossref>
+				Mary Magdalene, and Mary the mother of James the younger and of Joses, and 
+				<crossref let="i" cid="c41015040.4">
+				</crossref>
+				Salome.
+			</verse>
+			<marker class="begin-verse" mid="v41015041">
+			</marker>
+			<verse num="41">
+				When he was in Galilee, they followed him and 
+				<crossref let="g" cid="c41015041.1">
+				</crossref>
+				ministered to him, and there were also many other women who 
+				<crossref let="j" cid="c41015041.2">
+				</crossref>
+				came up with him to Jerusalem.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41015042">
+			</marker>
+			<heading
+				>
+				Jesus Is Buried
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="42">
+				<crossref let="k" cid="c41015042.1">
+				</crossref>
+				<crossref cid="t41015042.1">
+				</crossref>
+				And when evening had come, since it was 
+				<crossref let="l" cid="c41015042.2">
+				</crossref>
+				the day of Preparation, that is, the day before the Sabbath,
+			</verse>
+			<marker class="begin-verse" mid="v41015043">
+			</marker>
+			<verse num="43">
+				Joseph of Arimathea, 
+				<crossref let="m" cid="c41015043.1">
+				</crossref>
+				a respected member of the Council, who 
+				<crossref let="n" cid="c41015043.2">
+				</crossref>
+				was also himself looking for the kingdom of God, took courage and went to Pilate and asked for the body of Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v41015044">
+			</marker>
+			<verse num="44">
+				Pilate was surprised to hear that he should have already died.
+				<note nid="n41015044.1">
+				</note>
+				 And summoning 
+				<crossref let="o" cid="c41015044.1">
+				</crossref>
+				the centurion, he asked him whether he was already dead.
+			</verse>
+			<marker class="begin-verse" mid="v41015045">
+			</marker>
+			<verse num="45">
+				And when he learned from 
+				<crossref let="o" cid="c41015045.1">
+				</crossref>
+				the centurion that he was dead, he granted the corpse to Joseph.
+			</verse>
+			<marker class="begin-verse" mid="v41015046">
+			</marker>
+			<verse num="46">
+				And Joseph
+				<note nid="n41015046.1">
+				</note>
+				 bought 
+				<crossref let="p" cid="c41015046.1">
+				</crossref>
+				a linen shroud, and taking him down, wrapped him in the linen shroud and 
+				<crossref let="q" cid="c41015046.2">
+				</crossref>
+				laid him in a tomb 
+				<crossref let="r" cid="c41015046.3">
+				</crossref>
+				that had been cut out of the rock. And he rolled 
+				<crossref let="s" cid="c41015046.4">
+				</crossref>
+				a stone against the entrance of the tomb.
+			</verse>
+			<marker class="begin-verse" mid="v41015047">
+			</marker>
+			<verse num="47">
+				<crossref let="t" cid="c41015047.1">
+				</crossref>
+				Mary Magdalene and Mary the mother of Joses saw where he was laid.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01030001">
+		</marker>
+		<chapter num="30">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				When Rachel saw that 
+				<crossref let="b" cid="c01030001.1">
+				</crossref>
+				she bore Jacob no children, she envied her sister. She said to Jacob, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give me children, or I shall die!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01030002">
+			</marker>
+			<verse num="2">
+				Jacob's anger was kindled against Rachel, and he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Am I in the place of God, 
+				<crossref let="c" cid="c01030002.1">
+				</crossref>
+				who has withheld from you the fruit of the womb?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01030003">
+			</marker>
+			<verse num="3">
+				Then she said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Here is my servant 
+				<crossref let="d" cid="c01030003.1">
+				</crossref>
+				Bilhah; go in to her, so that she may give birth 
+				<crossref let="e" cid="c01030003.2">
+				</crossref>
+				on my behalf,
+				<note nid="n01030003.1">
+				</note>
+				 that even I may have children
+				<note nid="n01030003.2">
+				</note>
+				 through her.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01030004">
+			</marker>
+			<verse num="4">
+				So she gave him her servant Bilhah as a wife, and Jacob went in to her.
+			</verse>
+			<marker class="begin-verse" mid="v01030005">
+			</marker>
+			<verse num="5">
+				And Bilhah conceived and bore Jacob a son.
+			</verse>
+			<marker class="begin-verse" mid="v01030006">
+			</marker>
+			<verse num="6">
+				Then Rachel said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				God has 
+				<crossref let="f" cid="c01030006.1">
+				</crossref>
+				judged me, and has also heard my voice and given me a son.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Therefore she called his name Dan.
+				<note nid="n01030006.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01030007">
+			</marker>
+			<verse num="7">
+				Rachel's servant Bilhah conceived again and bore Jacob a second son.
+			</verse>
+			<marker class="begin-verse" mid="v01030008">
+			</marker>
+			<verse num="8">
+				Then Rachel said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				With mighty wrestlings
+				<note nid="n01030008.1">
+				</note>
+				 I have wrestled with my sister and have prevailed.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So she called his name 
+				<crossref let="g" cid="c01030008.1">
+				</crossref>
+				Naphtali.
+				<note nid="n01030008.2">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01030009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				When Leah saw that she had ceased bearing children, she took her servant Zilpah and 
+				<crossref let="h" cid="c01030009.1">
+				</crossref>
+				gave her to Jacob as a wife.
+			</verse>
+			<marker class="begin-verse" mid="v01030010">
+			</marker>
+			<verse num="10">
+				Then Leah's servant Zilpah bore Jacob a son.
+			</verse>
+			<marker class="begin-verse" mid="v01030011">
+			</marker>
+			<verse num="11">
+				And Leah said, 
+				<crossref let="i" cid="c01030011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Good fortune has come!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 so she called his name 
+				<crossref let="i" cid="c01030011.2">
+				</crossref>
+				Gad.
+				<note nid="n01030011.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01030012">
+			</marker>
+			<verse num="12">
+				Leah's servant Zilpah bore Jacob a second son.
+			</verse>
+			<marker class="begin-verse" mid="v01030013">
+			</marker>
+			<verse num="13">
+				And Leah said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Happy am I! For women 
+				<crossref let="j" cid="c01030013.1">
+				</crossref>
+				have called me happy.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So she called his name Asher.
+				<note nid="n01030013.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01030014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				In the days of wheat harvest Reuben went and found 
+				<crossref let="k" cid="c01030014.1">
+				</crossref>
+				mandrakes in the field and brought them to his mother Leah. Then Rachel said to Leah, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please give me some of your son's mandrakes.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01030015">
+			</marker>
+			<verse num="15">
+				But she said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is it a small matter that you have taken away my husband? Would you take away my son's mandrakes also?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Rachel said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Then he may lie with you tonight in exchange for your son's mandrakes.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01030016">
+			</marker>
+			<verse num="16">
+				When Jacob came from the field in the evening, Leah went out to meet him and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You must come in to me, for I have hired you with my son's mandrakes.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So he lay with her that night.
+			</verse>
+			<marker class="begin-verse" mid="v01030017">
+			</marker>
+			<verse num="17">
+				And God listened to Leah, and she conceived and bore Jacob a fifth son.
+			</verse>
+			<marker class="begin-verse" mid="v01030018">
+			</marker>
+			<verse num="18">
+				Leah said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				God has given me my wages because I gave my servant to my husband.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So she called his name Issachar.
+				<note nid="n01030018.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01030019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				And Leah conceived again, and she bore Jacob a sixth son.
+			</verse>
+			<marker class="begin-verse" mid="v01030020">
+			</marker>
+			<verse num="20">
+				Then Leah said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				God has endowed me with a good endowment; now my husband will honor me, because I have borne him six sons.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So she called his name 
+				<crossref let="l" cid="c01030020.1">
+				</crossref>
+				Zebulun.
+				<note nid="n01030020.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01030021">
+			</marker>
+			<verse num="21">
+				Afterward she bore a daughter and called her name Dinah.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01030022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				Then God 
+				<crossref let="m" cid="c01030022.1">
+				</crossref>
+				remembered Rachel, and God listened to her and 
+				<crossref let="n" cid="c01030022.2">
+				</crossref>
+				opened her womb.
+			</verse>
+			<marker class="begin-verse" mid="v01030023">
+			</marker>
+			<verse num="23">
+				She conceived and bore a son and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				God has taken away 
+				<crossref let="o" cid="c01030023.1">
+				</crossref>
+				my reproach.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01030024">
+			</marker>
+			<verse num="24">
+				And she called his name Joseph,
+				<note nid="n01030024.1">
+				</note>
+				 saying, 
+				<crossref let="p" cid="c01030024.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				May the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 add to me another son!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01030025">
+			</marker>
+			<heading
+				>
+				Jacob's Prosperity
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				As soon as Rachel had borne Joseph, Jacob said to Laban, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Send me away, that I may go to my own home and country.
+			</verse>
+			<marker class="begin-verse" mid="v01030026">
+			</marker>
+			<verse num="26">
+				Give me my wives and my children 
+				<crossref let="q" cid="c01030026.1">
+				</crossref>
+				for whom I have served you, that I may go, for you know the service that I have given you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01030027">
+			</marker>
+			<verse num="27">
+				But Laban said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If I have found favor in your sight, I have learned by divination that
+				<note nid="n01030027.1">
+				</note>
+				 the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has blessed me because of you.
+			</verse>
+			<marker class="begin-verse" mid="v01030028">
+			</marker>
+			<verse num="28">
+				<crossref let="r" cid="c01030028.1">
+				</crossref>
+				Name your wages, and I will give it.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01030029">
+			</marker>
+			<verse num="29">
+				Jacob said to him, 
+				<crossref let="s" cid="c01030029.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You yourself know how I have served you, and how your livestock has fared with me.
+			</verse>
+			<marker class="begin-verse" mid="v01030030">
+			</marker>
+			<verse num="30">
+				For you had little before I came, 
+				<crossref let="t" cid="c01030030.1">
+				</crossref>
+				and it has increased abundantly, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has blessed you wherever I turned. But now when shall I 
+				<crossref let="u" cid="c01030030.2">
+				</crossref>
+				provide for my own household also?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01030031">
+			</marker>
+			<verse num="31">
+				He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What shall I give you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Jacob said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You shall not give me anything. If you will do this for me, I will again pasture your flock and keep it:
+			</verse>
+			<marker class="begin-verse" mid="v01030032">
+			</marker>
+			<verse num="32">
+				let me pass through all your flock today, removing from it every speckled and spotted sheep and every black lamb, and the spotted and speckled among the goats, and 
+				<crossref let="v" cid="c01030032.1">
+				</crossref>
+				they shall be my wages.
+			</verse>
+			<marker class="begin-verse" mid="v01030033">
+			</marker>
+			<verse num="33">
+				So my honesty will answer for me later, when you come to look into my wages with you. Every one that is not speckled and spotted among the goats and black among the lambs, if found with me, shall be counted stolen.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01030034">
+			</marker>
+			<verse num="34">
+				Laban said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Good! Let it be as you have said.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01030035">
+			</marker>
+			<verse num="35">
+				But that day Laban removed the male goats that were striped and spotted, and all the female goats that were speckled and spotted, every one that had white on it, and every lamb that was black, and put them in the charge of his sons.
+			</verse>
+			<marker class="begin-verse" mid="v01030036">
+			</marker>
+			<verse num="36">
+				And he set a distance of three days' journey between himself and Jacob, and Jacob pastured the rest of Laban's flock.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01030037">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="37">
+				Then 
+				<crossref let="w" cid="c01030037.1">
+				</crossref>
+				Jacob took fresh sticks of poplar and almond and plane trees, and peeled white streaks in them, exposing the white of the sticks.
+			</verse>
+			<marker class="begin-verse" mid="v01030038">
+			</marker>
+			<verse num="38">
+				He set the sticks that he had peeled in front of the flocks in the troughs, that is, the 
+				<crossref let="x" cid="c01030038.1">
+				</crossref>
+				watering places, where the flocks came to drink. And since they bred when they came to drink,
+			</verse>
+			<marker class="begin-verse" mid="v01030039">
+			</marker>
+			<verse num="39">
+				the flocks bred in front of the sticks and so the flocks brought forth striped, speckled, and spotted.
+			</verse>
+			<marker class="begin-verse" mid="v01030040">
+			</marker>
+			<verse num="40">
+				And Jacob separated the lambs and set the faces of the flocks toward the striped and all the black in the flock of Laban. He put his own droves apart and did not put them with Laban's flock.
+			</verse>
+			<marker class="begin-verse" mid="v01030041">
+			</marker>
+			<verse num="41">
+				Whenever the stronger of the flock were breeding, Jacob would lay the sticks in the troughs before the eyes of the flock, that they might breed among the sticks,
+			</verse>
+			<marker class="begin-verse" mid="v01030042">
+			</marker>
+			<verse num="42">
+				but for the feebler of the flock he would not lay them there. So the feebler would be Laban's, and the stronger Jacob's.
+			</verse>
+			<marker class="begin-verse" mid="v01030043">
+			</marker>
+			<verse num="43">
+				Thus the man 
+				<crossref let="y" cid="c01030043.1">
+				</crossref>
+				increased greatly and 
+				<crossref let="z" cid="c01030043.2">
+				</crossref>
+				had large flocks, female servants and male servants, and camels and donkeys.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Deuteronomy" num="4">
+		<marker class="begin-verse" mid="v05014001">
+		</marker>
+		<chapter num="14">
+			<heading
+				>
+				Clean and Unclean Food
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You are 
+				<crossref let="p" cid="c05014001.1">
+				</crossref>
+				the sons of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God. 
+				<crossref let="q" cid="c05014001.2">
+				</crossref>
+				You shall not cut yourselves or make any 
+				<crossref let="r" cid="c05014001.3">
+				</crossref>
+				baldness on your foreheads for the dead.
+			</verse>
+			<marker class="begin-verse" mid="v05014002">
+			</marker>
+			<verse num="2">
+				For 
+				<crossref let="s" cid="c05014002.1">
+				</crossref>
+				you are a people holy to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05014003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="t" cid="c05014003.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall not eat any abomination.
+			</verse>
+			<marker class="begin-verse" mid="v05014004">
+			</marker>
+			<verse num="4">
+				<crossref let="u" cid="c05014004.1">
+				</crossref>
+				These are the animals you may eat: the ox, the sheep, the goat,
+			</verse>
+			<marker class="begin-verse" mid="v05014005">
+			</marker>
+			<verse num="5">
+				the deer, the gazelle, the roebuck, the wild goat, the ibex,
+				<note nid="n05014005.1">
+				</note>
+				 the antelope, and the mountain sheep.
+			</verse>
+			<marker class="begin-verse" mid="v05014006">
+			</marker>
+			<verse num="6">
+				Every animal that parts the hoof and has the hoof cloven in two and chews the cud, among the animals, you may eat.
+			</verse>
+			<marker class="begin-verse" mid="v05014007">
+			</marker>
+			<verse num="7">
+				Yet of those that chew the cud or have the hoof cloven you shall not eat these: the camel, the hare, and the 
+				<crossref let="v" cid="c05014007.1">
+				</crossref>
+				rock badger, because they chew the cud but do not part the hoof, are unclean for you.
+			</verse>
+			<marker class="begin-verse" mid="v05014008">
+			</marker>
+			<verse num="8">
+				And the pig, because it parts the hoof but does not chew the cud, is unclean for you. Their flesh you shall not eat, and 
+				<crossref let="w" cid="c05014008.1">
+				</crossref>
+				their carcasses you shall not touch.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05014009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Of all that are in the waters you may eat these: whatever has fins and scales you may eat.
+			</verse>
+			<marker class="begin-verse" mid="v05014010">
+			</marker>
+			<verse num="10">
+				And whatever does not have fins and scales you shall not eat; it is unclean for you.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05014011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You may eat all clean birds.
+			</verse>
+			<marker class="begin-verse" mid="v05014012">
+			</marker>
+			<verse num="12">
+				But these are the ones that you shall not eat: the eagle,
+				<note nid="n05014012.1">
+				</note>
+				 the bearded vulture, the black vulture,
+			</verse>
+			<marker class="begin-verse" mid="v05014013">
+			</marker>
+			<verse num="13">
+				the kite, the falcon of any kind;
+			</verse>
+			<marker class="begin-verse" mid="v05014014">
+			</marker>
+			<verse num="14">
+				every raven of any kind;
+			</verse>
+			<marker class="begin-verse" mid="v05014015">
+			</marker>
+			<verse num="15">
+				the ostrich, the nighthawk, the sea gull, the hawk of any kind;
+			</verse>
+			<marker class="begin-verse" mid="v05014016">
+			</marker>
+			<verse num="16">
+				the little owl and the short-eared owl, the barn owl
+			</verse>
+			<marker class="begin-verse" mid="v05014017">
+			</marker>
+			<verse num="17">
+				and the tawny owl, the carrion vulture and the cormorant,
+			</verse>
+			<marker class="begin-verse" mid="v05014018">
+			</marker>
+			<verse num="18">
+				the stork, the heron of any kind; the hoopoe and the bat.
+			</verse>
+			<marker class="begin-verse" mid="v05014019">
+			</marker>
+			<verse num="19">
+				And all winged insects are unclean for you; they shall not be eaten.
+			</verse>
+			<marker class="begin-verse" mid="v05014020">
+			</marker>
+			<verse num="20">
+				All clean winged things you may eat.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05014021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<crossref let="x" cid="c05014021.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall not eat anything that has died naturally. You may give it to the sojourner who is within your towns, that he may eat it, or you may sell it to a foreigner. For 
+				<crossref let="y" cid="c05014021.2">
+				</crossref>
+				you are a people holy to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				<crossref let="z" cid="c05014021.3">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall not boil a young goat in its mother's milk.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05014022">
+			</marker>
+			<heading
+				>
+				Tithes
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				<crossref let="a" cid="c05014022.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall tithe all the yield of your seed that comes from the field year by year.
+			</verse>
+			<marker class="begin-verse" mid="v05014023">
+			</marker>
+			<verse num="23">
+				And before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God, in the place that he will choose, to make his name dwell there, 
+				<crossref let="b" cid="c05014023.1">
+				</crossref>
+				you shall eat the tithe of your grain, of your wine, and of your oil, 
+				<crossref let="c" cid="c05014023.2">
+				</crossref>
+				and the firstborn of your herd and flock, 
+				<crossref let="d" cid="c05014023.3">
+				</crossref>
+				that you may learn to fear the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God always.
+			</verse>
+			<marker class="begin-verse" mid="v05014024">
+			</marker>
+			<verse num="24">
+				And if the way is too long for you, so that you are not able to carry the tithe, when the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God blesses you, because 
+				<crossref let="e" cid="c05014024.1">
+				</crossref>
+				the place is too far from you, which the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God chooses, to set his name there,
+			</verse>
+			<marker class="begin-verse" mid="v05014025">
+			</marker>
+			<verse num="25">
+				then you shall turn it into money and bind up the money in your hand and go to the place that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God chooses
+			</verse>
+			<marker class="begin-verse" mid="v05014026">
+			</marker>
+			<verse num="26">
+				and spend the money for whatever you desireùoxen or sheep or wine or strong drink, whatever your appetite craves. And 
+				<crossref let="b" cid="c05014026.1">
+				</crossref>
+				you shall eat there before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God and rejoice, you and your household.
+			</verse>
+			<marker class="begin-verse" mid="v05014027">
+			</marker>
+			<verse num="27">
+				And you shall not neglect 
+				<crossref let="f" cid="c05014027.1">
+				</crossref>
+				the Levite who is within your towns, for 
+				<crossref let="g" cid="c05014027.2">
+				</crossref>
+				he has no portion or inheritance with you.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05014028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				<crossref let="h" cid="c05014028.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				At the end of every three years you shall bring out all the tithe of your produce in the same year and lay it up within your towns.
+			</verse>
+			<marker class="begin-verse" mid="v05014029">
+			</marker>
+			<verse num="29">
+				And the Levite, because 
+				<crossref let="g" cid="c05014029.1">
+				</crossref>
+				he has no portion or inheritance with you, and the sojourner, the fatherless, and the widow, who are within your towns, shall come and eat and be filled, that 
+				<crossref let="i" cid="c05014029.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God may bless you in all the work of your hands that you do.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="John" num="42">
+		<marker class="begin-verse" mid="v43021001">
+		</marker>
+		<chapter num="21">
+			<heading
+				>
+				Jesus Appears to Seven Disciples
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				After this Jesus 
+				<crossref let="b" cid="c43021001.1">
+				</crossref>
+				revealed himself 
+				<crossref let="c" cid="c43021001.2">
+				</crossref>
+				again to the disciples by 
+				<crossref let="d" cid="c43021001.3">
+				</crossref>
+				the Sea of Tiberias, and he revealed himself in this way.
+			</verse>
+			<marker class="begin-verse" mid="v43021002">
+			</marker>
+			<verse num="2">
+				Simon Peter, 
+				<crossref let="e" cid="c43021002.1">
+				</crossref>
+				Thomas (called the Twin), Nathanael of 
+				<crossref let="f" cid="c43021002.2">
+				</crossref>
+				Cana in Galilee, 
+				<crossref let="g" cid="c43021002.3">
+				</crossref>
+				the sons of Zebedee, and two others of his disciples were together.
+			</verse>
+			<marker class="begin-verse" mid="v43021003">
+			</marker>
+			<verse num="3">
+				Simon Peter said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am going fishing.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 They said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We will go with you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 They went out and got into the boat, but 
+				<crossref let="h" cid="c43021003.1">
+				</crossref>
+				that night they caught nothing.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43021004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				Just as day was breaking, Jesus stood on the shore; yet the disciples 
+				<crossref let="i" cid="c43021004.1">
+				</crossref>
+				did not know that it was Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v43021005">
+			</marker>
+			<verse num="5">
+				<crossref let="j" cid="c43021005.1">
+				</crossref>
+				Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Children, do you have any fish?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 They answered him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43021006">
+			</marker>
+			<verse num="6">
+				<crossref let="k" cid="c43021006.1">
+				</crossref>
+				He said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Cast the net on the right side of the boat, and you will find some.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 So they cast it, and now they were not able to haul it in, because of the quantity of fish.
+			</verse>
+			<marker class="begin-verse" mid="v43021007">
+			</marker>
+			<verse num="7">
+				That disciple 
+				<crossref let="l" cid="c43021007.1">
+				</crossref>
+				whom Jesus loved therefore said to Peter, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is the Lord!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 When Simon Peter heard that it was the Lord, 
+				<crossref let="m" cid="c43021007.2">
+				</crossref>
+				he put on his outer garment, for he was 
+				<crossref let="n" cid="c43021007.3">
+				</crossref>
+				stripped for work, and 
+				<crossref let="o" cid="c43021007.4">
+				</crossref>
+				threw himself into the sea.
+			</verse>
+			<marker class="begin-verse" mid="v43021008">
+			</marker>
+			<verse num="8">
+				The other disciples came in the boat, dragging the net full of fish, for they were not far from the land, but about a hundred yards
+				<note nid="n43021008.1">
+				</note>
+				 off.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43021009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				When they got out on land, they saw a charcoal fire in place, with fish laid out on it, and bread.
+			</verse>
+			<marker class="begin-verse" mid="v43021010">
+			</marker>
+			<verse num="10">
+				Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Bring some of the fish that you have just caught.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43021011">
+			</marker>
+			<verse num="11">
+				So Simon Peter went aboard and hauled the net ashore, full of large fish, 153 of them. And although there were so many, the net was not torn.
+			</verse>
+			<marker class="begin-verse" mid="v43021012">
+			</marker>
+			<verse num="12">
+				Jesus said to them, 
+				<woc
+					>
+					<crossref let="p" cid="c43021012.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Come and 
+					<crossref let="q" cid="c43021012.2">
+					</crossref>
+					have breakfast.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 Now 
+				<crossref let="r" cid="c43021012.3">
+				</crossref>
+				none of the disciples dared ask him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who are you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 They knew it was the Lord.
+			</verse>
+			<marker class="begin-verse" mid="v43021013">
+			</marker>
+			<verse num="13">
+				Jesus came and 
+				<crossref let="s" cid="c43021013.1">
+				</crossref>
+				took the bread and gave it to them, and so with the fish.
+			</verse>
+			<marker class="begin-verse" mid="v43021014">
+			</marker>
+			<verse num="14">
+				<crossref let="t" cid="c43021014.1">
+				</crossref>
+				This was now the third time that Jesus was revealed to the disciples after he was raised from the dead.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43021015">
+			</marker>
+			<heading
+				>
+				Jesus and Peter
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				When they had 
+				<crossref let="u" cid="c43021015.1">
+				</crossref>
+				finished breakfast, Jesus said to Simon Peter, 
+				<woc
+					>
+					<crossref let="v" cid="c43021015.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Simon, 
+					<crossref let="w" cid="c43021015.3">
+					</crossref>
+					son of John, 
+					<crossref let="x" cid="c43021015.4">
+					</crossref>
+					do you love me more than these?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 He said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Yes, Lord; you know that I love you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Feed 
+					<crossref let="y" cid="c43021015.5">
+					</crossref>
+					my lambs.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43021016">
+			</marker>
+			<verse num="16">
+				He said to him a second time, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Simon, son of John, do you love me?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 He said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Yes, Lord; you know that I love you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He said to him, 
+				<woc
+					>
+					<crossref let="z" cid="c43021016.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Tend 
+					<crossref let="y" cid="c43021016.2">
+					</crossref>
+					my sheep.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43021017">
+			</marker>
+			<verse num="17">
+				He said to him the third time, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Simon, son of John, do you love me?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 Peter was grieved because he said to him 
+				<crossref let="a" cid="c43021017.1">
+				</crossref>
+				the third time, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Do you love me?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 and he said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, 
+				<crossref let="b" cid="c43021017.2">
+				</crossref>
+				you know everything; you know that I love you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Jesus said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Feed 
+					<crossref let="c" cid="c43021017.3">
+					</crossref>
+					my sheep.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43021018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					<crossref let="d" cid="c43021018.1">
+					</crossref>
+					Truly, truly, I say to you, when you were young, 
+					<crossref let="e" cid="c43021018.2">
+					</crossref>
+					you used to dress yourself and walk wherever you wanted, but when you are old, you will stretch out your hands, and another will dress you and carry you where you do not want to go.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43021019">
+			</marker>
+			<verse num="19">
+				(This he said to show 
+				<crossref let="f" cid="c43021019.1">
+				</crossref>
+				by what kind of death he was to glorify God.) And after saying this he said to him, 
+				<woc
+					>
+					<crossref let="g" cid="c43021019.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Follow me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43021020">
+			</marker>
+			<heading
+				>
+				Jesus and the Beloved Apostle
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				Peter turned and saw 
+				<crossref let="h" cid="c43021020.1">
+				</crossref>
+				the disciple whom Jesus loved following them, 
+				<crossref let="i" cid="c43021020.2">
+				</crossref>
+				the one who had been reclining at table close to him and had said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, who is it that is going to betray you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43021021">
+			</marker>
+			<verse num="21">
+				When Peter saw him, he said to Jesus, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, what about this man?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43021022">
+			</marker>
+			<verse num="22">
+				Jesus said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If it is my will that he remain 
+					<crossref let="j" cid="c43021022.1">
+					</crossref>
+					until 
+					<crossref let="k" cid="c43021022.2">
+					</crossref>
+					I come, what is that to you? 
+					<crossref let="l" cid="c43021022.3">
+					</crossref>
+					You follow me!
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43021023">
+			</marker>
+			<verse num="23">
+				So the saying spread abroad among 
+				<crossref let="m" cid="c43021023.1">
+				</crossref>
+				the brothers
+				<note nid="n43021023.1">
+				</note>
+				 that this disciple was not to die; yet Jesus did not say to him that he was not to die, but, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If it is my will that he remain until I come, what is that to you?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43021024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				This is the disciple 
+				<crossref let="n" cid="c43021024.1">
+				</crossref>
+				who is bearing witness about these things, and who has written these things, and 
+				<crossref let="o" cid="c43021024.2">
+				</crossref>
+				we know 
+				<crossref let="p" cid="c43021024.3">
+				</crossref>
+				that his testimony is true.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43021025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				Now 
+				<crossref let="q" cid="c43021025.1">
+				</crossref>
+				there are also many other things that Jesus did. Were every one of them to be written, I suppose that 
+				<crossref let="r" cid="c43021025.2">
+				</crossref>
+				the world itself could not contain the books that would be written.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02035001">
+		</marker>
+		<chapter num="35">
+			<heading
+				>
+				Sabbath Regulations
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Moses assembled all the congregation of the people of Israel and said to them, 
+				<crossref let="b" cid="c02035001.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				These are the things that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has commanded you to do.
+			</verse>
+			<marker class="begin-verse" mid="v02035002">
+			</marker>
+			<verse num="2">
+				<crossref let="c" cid="c02035002.1">
+				</crossref>
+				Six days work shall be done, but on the seventh day you shall have a Sabbath of solemn rest, holy to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. Whoever does any work on it shall be put to death.
+			</verse>
+			<marker class="begin-verse" mid="v02035003">
+			</marker>
+			<verse num="3">
+				<crossref let="d" cid="c02035003.1">
+				</crossref>
+				You shall kindle no fire in all your dwelling places on the Sabbath day.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02035004">
+			</marker>
+			<heading
+				>
+				Contributions for the Tabernacle
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				Moses said to all the congregation of the people of Israel, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is the thing that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has commanded.
+			</verse>
+			<marker class="begin-verse" mid="v02035005">
+			</marker>
+			<verse num="5">
+				<crossref let="e" cid="c02035005.1">
+				</crossref>
+				Take from among you a contribution to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. 
+				<crossref let="f" cid="c02035005.2">
+				</crossref>
+				Whoever is of a generous heart, let him bring the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's contribution: gold, silver, and bronze;
+			</verse>
+			<marker class="begin-verse" mid="v02035006">
+			</marker>
+			<verse num="6">
+				blue and purple and scarlet yarns and fine twined linen; goats' hair,
+			</verse>
+			<marker class="begin-verse" mid="v02035007">
+			</marker>
+			<verse num="7">
+				tanned rams' skins, and goatskins;
+				<note nid="n02035007.1">
+				</note>
+				 acacia wood,
+			</verse>
+			<marker class="begin-verse" mid="v02035008">
+			</marker>
+			<verse num="8">
+				oil for the light, spices for the anointing oil and for the fragrant incense,
+			</verse>
+			<marker class="begin-verse" mid="v02035009">
+			</marker>
+			<verse num="9">
+				and onyx stones and stones for setting, for the ephod and for the breastpiece.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02035010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Let 
+				<crossref let="g" cid="c02035010.1">
+				</crossref>
+				every skillful craftsman among you come and make all that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has commanded:
+			</verse>
+			<marker class="begin-verse" mid="v02035011">
+			</marker>
+			<verse num="11">
+				<crossref let="h" cid="c02035011.1">
+				</crossref>
+				the tabernacle, its tent and its covering, its hooks and its frames, its bars, its pillars, and its bases;
+			</verse>
+			<marker class="begin-verse" mid="v02035012">
+			</marker>
+			<verse num="12">
+				<crossref let="i" cid="c02035012.1">
+				</crossref>
+				the ark with its poles, the mercy seat, and the 
+				<crossref let="j" cid="c02035012.2">
+				</crossref>
+				veil of the screen;
+			</verse>
+			<marker class="begin-verse" mid="v02035013">
+			</marker>
+			<verse num="13">
+				<crossref let="k" cid="c02035013.1">
+				</crossref>
+				the table with its poles and all its utensils, and the 
+				<crossref let="l" cid="c02035013.2">
+				</crossref>
+				bread of the Presence;
+			</verse>
+			<marker class="begin-verse" mid="v02035014">
+			</marker>
+			<verse num="14">
+				<crossref let="m" cid="c02035014.1">
+				</crossref>
+				the lampstand also for the light, with its utensils and its lamps, and the 
+				<crossref let="n" cid="c02035014.2">
+				</crossref>
+				oil for the light;
+			</verse>
+			<marker class="begin-verse" mid="v02035015">
+			</marker>
+			<verse num="15">
+				<crossref let="o" cid="c02035015.1">
+				</crossref>
+				and the altar of incense, with its poles, 
+				<crossref let="p" cid="c02035015.2">
+				</crossref>
+				and the anointing oil and the 
+				<crossref let="q" cid="c02035015.3">
+				</crossref>
+				fragrant incense, and 
+				<crossref let="r" cid="c02035015.4">
+				</crossref>
+				the screen for the door, at the door of the tabernacle;
+			</verse>
+			<marker class="begin-verse" mid="v02035016">
+			</marker>
+			<verse num="16">
+				<crossref let="s" cid="c02035016.1">
+				</crossref>
+				the altar of burnt offering, with its grating of bronze, its poles, and all its utensils, the 
+				<crossref let="t" cid="c02035016.2">
+				</crossref>
+				basin and its stand;
+			</verse>
+			<marker class="begin-verse" mid="v02035017">
+			</marker>
+			<verse num="17">
+				<crossref let="u" cid="c02035017.1">
+				</crossref>
+				the hangings of the court, its pillars and its bases, and the screen for the gate of the court;
+			</verse>
+			<marker class="begin-verse" mid="v02035018">
+			</marker>
+			<verse num="18">
+				<crossref let="v" cid="c02035018.1">
+				</crossref>
+				the pegs of the tabernacle and the pegs of the court, and their 
+				<crossref let="w" cid="c02035018.2">
+				</crossref>
+				cords;
+			</verse>
+			<marker class="begin-verse" mid="v02035019">
+			</marker>
+			<verse num="19">
+				the 
+				<crossref let="x" cid="c02035019.1">
+				</crossref>
+				finely worked garments for ministering
+				<note nid="n02035019.1">
+				</note>
+				 in the Holy Place, the holy garments for Aaron the priest, and the garments of his sons, for their service as priests.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02035020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				Then all the congregation of the people of Israel departed from the presence of Moses.
+			</verse>
+			<marker class="begin-verse" mid="v02035021">
+			</marker>
+			<verse num="21">
+				And they came, 
+				<crossref let="y" cid="c02035021.1">
+				</crossref>
+				everyone whose heart stirred him, and everyone whose spirit moved him, 
+				<crossref let="z" cid="c02035021.2">
+				</crossref>
+				and brought the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's contribution to be used for the tent of meeting, and for all its service, and for the holy garments.
+			</verse>
+			<marker class="begin-verse" mid="v02035022">
+			</marker>
+			<verse num="22">
+				So they came, both men and women. All who were of a willing heart brought brooches and earrings and signet rings and armlets, all sorts of gold objects, every man dedicating an offering of gold to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v02035023">
+			</marker>
+			<verse num="23">
+				And 
+				<crossref let="a" cid="c02035023.1">
+				</crossref>
+				every one who possessed 
+				<crossref let="b" cid="c02035023.2">
+				</crossref>
+				blue or purple or scarlet yarns or fine linen or goats' hair or tanned rams' skins or goatskins brought them.
+			</verse>
+			<marker class="begin-verse" mid="v02035024">
+			</marker>
+			<verse num="24">
+				<crossref let="c" cid="c02035024.1">
+				</crossref>
+				Everyone who could make a contribution of silver or bronze brought it as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's contribution. And every one who possessed acacia wood of any use in the work brought it.
+			</verse>
+			<marker class="begin-verse" mid="v02035025">
+			</marker>
+			<verse num="25">
+				And every 
+				<crossref let="d" cid="c02035025.1">
+				</crossref>
+				skillful woman spun with her hands, and they all brought what they had spun in blue and purple and scarlet yarns and fine twined linen.
+			</verse>
+			<marker class="begin-verse" mid="v02035026">
+			</marker>
+			<verse num="26">
+				All the women 
+				<crossref let="y" cid="c02035026.1">
+				</crossref>
+				whose hearts stirred them to use their skill spun the goats' hair.
+			</verse>
+			<marker class="begin-verse" mid="v02035027">
+			</marker>
+			<verse num="27">
+				And the 
+				<crossref let="e" cid="c02035027.1">
+				</crossref>
+				leaders brought onyx stones and stones to be set, for the ephod and for the breastpiece,
+			</verse>
+			<marker class="begin-verse" mid="v02035028">
+			</marker>
+			<verse num="28">
+				and spices and oil for the light, and for the anointing oil, and for the fragrant incense.
+			</verse>
+			<marker class="begin-verse" mid="v02035029">
+			</marker>
+			<verse num="29">
+				<crossref let="f" cid="c02035029.1">
+				</crossref>
+				All the men and women, the people of Israel, whose heart moved them to bring anything for the work that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had commanded by Moses to be done brought it as a freewill offering to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02035030">
+			</marker>
+			<heading
+				>
+				Construction of the Tabernacle
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="30">
+				<crossref let="g" cid="c02035030.1">
+				</crossref>
+				Then Moses said to the people of Israel, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has called by name Bezalel the son of Uri, son of Hur, of the tribe of Judah;
+			</verse>
+			<marker class="begin-verse" mid="v02035031">
+			</marker>
+			<verse num="31">
+				and he has filled him with the Spirit of God, with 
+				<crossref let="h" cid="c02035031.1">
+				</crossref>
+				skill, with intelligence, with knowledge, and with all craftsmanship,
+			</verse>
+			<marker class="begin-verse" mid="v02035032">
+			</marker>
+			<verse num="32">
+				to devise artistic designs, to work in gold and silver and bronze,
+			</verse>
+			<marker class="begin-verse" mid="v02035033">
+			</marker>
+			<verse num="33">
+				in cutting stones for setting, and in carving wood, for work in every skilled craft.
+			</verse>
+			<marker class="begin-verse" mid="v02035034">
+			</marker>
+			<verse num="34">
+				And he has inspired him to teach, both him and Oholiab the son of Ahisamach of the tribe of Dan.
+			</verse>
+			<marker class="begin-verse" mid="v02035035">
+			</marker>
+			<verse num="35">
+				He has 
+				<crossref let="h" cid="c02035035.1">
+				</crossref>
+				filled them with skill to do every sort of work done by an engraver or by a designer or by an embroiderer in blue and purple and scarlet yarns and fine twined linen, or by a weaverùby any sort of workman or skilled designer.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

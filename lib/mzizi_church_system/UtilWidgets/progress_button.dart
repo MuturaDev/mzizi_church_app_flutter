@@ -11,11 +11,13 @@ class ProgressButton extends StatefulWidget {
   final Widget child;
   final Color backgroundColor;
   final Color progressColor;
+  final bool myColor;
 
   ProgressButton(
       {Key key,
       @required this.buttonState,
       @required this.onPressed,
+      this.myColor = false,
       this.child,
       this.backgroundColor,
       this.progressColor})
@@ -171,19 +173,25 @@ class _ProgressButtonState extends State<ProgressButton>
                 height: buttonHeight,
                 decoration: BoxDecoration(
                     // borderRadius: borderRadius,
-                    // color: backgroundColor
+                    //color: Colors.amber,//backgroundColor,
                     borderRadius: BorderRadius.all(Radius.circular(5)),
                     boxShadow: <BoxShadow>[
                       BoxShadow(
-                          color: Colors.grey.shade200,
+                          color: Colors.transparent,
                           offset: Offset(2, 4),
                           blurRadius: 5,
                           spreadRadius: 2)
                     ],
-                    gradient: LinearGradient(
-                        begin: Alignment.centerLeft,
-                        end: Alignment.centerRight,
-                        colors: [Color(0xFF7DACC6), Color(0xFF487890)])),
+                    gradient: widget.myColor
+                        ? LinearGradient(
+                            begin: Alignment.centerLeft,
+                            end: Alignment.centerRight,
+                            colors: [backgroundColor, backgroundColor])
+                        : LinearGradient(
+                            begin: Alignment.centerLeft,
+                            end: Alignment.centerRight,
+                            colors: [Color(0xFF7DACC6), Color(0xFF487890)])
+                    ),
                 child: Center(child: buttonContent),
               ),
             ));

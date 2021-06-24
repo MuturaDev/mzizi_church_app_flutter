@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Micah" num="32">
+		<marker class="begin-verse" mid="v33003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				Rulers and Prophets Denounced
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				And I said:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c33003001.1">
+				</crossref>
+				Hear, you heads of Jacob
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and rulers of the house of Israel!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c33003001.2">
+				</crossref>
+				Is it not for you to know justice?ù
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33003002">
+			</marker>
+			<verse num="2">
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="n" cid="c33003002.1">
+				</crossref>
+				who hate the good and love the evil,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c33003002.2">
+				</crossref>
+				who tear the skin from off my people
+				<note nid="n33003002.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and their flesh from off their bones,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33003003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c33003003.1">
+				</crossref>
+				who eat the flesh of my people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and flay their skin from off them,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and break their bones in pieces
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and chop them up like meat in a pot,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like flesh in a cauldron.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v33003004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c33003004.1">
+				</crossref>
+				Then they will cry to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but he will not answer them;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c33003004.2">
+				</crossref>
+				he will hide his face from them at that time,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because they have made their deeds evil.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v33003005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 concerning 
+				<crossref let="s" cid="c33003005.1">
+				</crossref>
+				the prophets
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who lead my people astray,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c33003005.2">
+				</crossref>
+				who cry 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Peace
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when they have something to eat,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				but declare war against him
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who puts nothing into their mouths.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33003006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Therefore 
+				<crossref let="u" cid="c33003006.1">
+				</crossref>
+				it shall be night to you, without vision,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and darkness to you, without divination.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c33003006.2">
+				</crossref>
+				The sun shall go down on the prophets,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the day shall be black over them;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33003007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c33003007.1">
+				</crossref>
+				the seers shall be disgraced,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the diviners put to shame;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c33003007.2">
+				</crossref>
+				they shall all cover their lips,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="y" cid="c33003007.3">
+				</crossref>
+				there is no answer from God.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33003008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				But as for me, 
+				<crossref let="z" cid="c33003008.1">
+				</crossref>
+				I am filled with power,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with the Spirit of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and with justice and might,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				to declare to Jacob 
+				<crossref let="a" cid="c33003008.2">
+				</crossref>
+				his transgression
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and to Israel his sin.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v33003009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c33003009.1">
+				</crossref>
+				Hear this, you heads of the house of Jacob
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and rulers of the house of Israel,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c33003009.2">
+				</crossref>
+				who detest justice
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and make crooked all that is straight,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33003010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c33003010.1">
+				</crossref>
+				who build Zion with blood
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and Jerusalem with iniquity.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33003011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c33003011.1">
+				</crossref>
+				Its heads give judgment for a bribe;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c33003011.2">
+				</crossref>
+				its priests teach for a price;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="g" cid="c33003011.3">
+				</crossref>
+				its prophets practice divination for money;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c33003011.4">
+				</crossref>
+				yet they lean on the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and 
+				<crossref let="i" cid="c33003011.5">
+				</crossref>
+				say,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is not the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 in the midst of us?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c33003011.6">
+				</crossref>
+				No disaster shall come upon us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33003012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Therefore because of you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c33003012.1">
+				</crossref>
+				Zion shall be plowed as a field;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Jerusalem 
+				<crossref let="l" cid="c33003012.2">
+				</crossref>
+				shall become a heap of ruins,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="m" cid="c33003012.3">
+				</crossref>
+				the mountain of the house 
+				<crossref let="n" cid="c33003012.4">
+				</crossref>
+				a wooded height.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19140001">
+		</marker>
+		<chapter num="140">
+			<heading
+				>
+				Deliver Me, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, from Evil Men
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c19140001.1">
+				</crossref>
+				Deliver me, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, from evil men;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				preserve me from 
+				<crossref let="z" cid="c19140001.2">
+				</crossref>
+				violent men,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19140002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				who plan evil things in their heart
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="a" cid="c19140002.1">
+				</crossref>
+				stir up wars continually.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19140003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				They make 
+				<crossref let="b" cid="c19140003.1">
+				</crossref>
+				their tongue sharp as 
+				<crossref let="c" cid="c19140003.2">
+				</crossref>
+				a serpent's,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="d" cid="c19140003.3">
+				</crossref>
+				under their lips is the 
+				<crossref let="e" cid="c19140003.4">
+				</crossref>
+				venom of asps. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19140004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Guard me, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, from the hands of the wicked;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				preserve me from 
+				<crossref let="z" cid="c19140004.1">
+				</crossref>
+				violent men,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who have planned to trip up my feet.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19140005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				The arrogant have 
+				<crossref let="f" cid="c19140005.1">
+				</crossref>
+				hidden a trap for me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and with cords they have spread 
+				<crossref let="g" cid="c19140005.2">
+				</crossref>
+				a net;
+				<note nid="n19140005.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				beside the way they have set 
+				<crossref let="h" cid="c19140005.3">
+				</crossref>
+				snares for me. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19140006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19140006.1">
+				</crossref>
+				I say to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, You are my God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				give ear to 
+				<crossref let="j" cid="c19140006.2">
+				</crossref>
+				the voice of my pleas for mercy, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19140007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, my Lord, 
+				<crossref let="k" cid="c19140007.1">
+				</crossref>
+				the strength of my salvation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have covered my head in the day of battle.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19140008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19140008.1">
+				</crossref>
+				Grant not, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the desires of the wicked;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				do not further their
+				<note nid="n19140008.1">
+				</note>
+				 evil plot, or 
+				<crossref let="m" cid="c19140008.2">
+				</crossref>
+				they will be exalted! 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19140009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				As for the head of those who surround me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let 
+				<crossref let="n" cid="c19140009.1">
+				</crossref>
+				the mischief of their lips overwhelm them!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19140010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Let 
+				<crossref let="o" cid="c19140010.1">
+				</crossref>
+				burning coals fall upon them!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Let them be cast into fire,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				into miry pits, no more to rise!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19140011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Let not the slanderer be established in the land;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let evil hunt down the violent man speedily!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19140012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				I know that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will 
+				<crossref let="p" cid="c19140012.1">
+				</crossref>
+				maintain the cause of the afflicted,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="q" cid="c19140012.2">
+				</crossref>
+				will execute justice for the needy.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19140013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				Surely 
+				<crossref let="r" cid="c19140013.1">
+				</crossref>
+				the righteous shall give thanks to your name;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c19140013.2">
+				</crossref>
+				the upright shall dwell in your presence.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

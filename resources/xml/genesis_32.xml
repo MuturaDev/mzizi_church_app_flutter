@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01032001">
+		</marker>
+		<chapter num="32">
+			<heading
+				>
+				Jacob Fears Esau
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Jacob went on his way, and the angels of God met him.
+			</verse>
+			<marker class="begin-verse" mid="v01032002">
+			</marker>
+			<verse num="2">
+				And when Jacob saw them he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is God's 
+				<crossref let="t" cid="c01032002.1">
+				</crossref>
+				camp!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So he called the name of that place 
+				<crossref let="u" cid="c01032002.2">
+				</crossref>
+				Mahanaim.
+				<note nid="n01032002.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01032003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				And Jacob sent
+				<note nid="n01032003.1">
+				</note>
+				 messengers before him to Esau his brother in the land of 
+				<crossref let="v" cid="c01032003.1">
+				</crossref>
+				Seir, the country of Edom,
+			</verse>
+			<marker class="begin-verse" mid="v01032004">
+			</marker>
+			<verse num="4">
+				instructing them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus you shall say to my lord Esau: Thus says your servant Jacob, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I have sojourned with Laban and stayed until now.
+			</verse>
+			<marker class="begin-verse" mid="v01032005">
+			</marker>
+			<verse num="5">
+				I have oxen, donkeys, flocks, male servants, and female servants. I have sent to tell my lord, in order that 
+				<crossref let="w" cid="c01032005.1">
+				</crossref>
+				I may find favor in your sight.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01032006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				And the messengers returned to Jacob, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We came to your brother Esau, and 
+				<crossref let="x" cid="c01032006.1">
+				</crossref>
+				he is coming to meet you, and there are four hundred men with him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01032007">
+			</marker>
+			<verse num="7">
+				Then Jacob was 
+				<crossref let="y" cid="c01032007.1">
+				</crossref>
+				greatly afraid and distressed. He divided the people who were with him, and the flocks and herds and camels, into two camps,
+			</verse>
+			<marker class="begin-verse" mid="v01032008">
+			</marker>
+			<verse num="8">
+				thinking, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If Esau comes to the one camp and attacks it, then the camp that is left will escape.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01032009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				And Jacob said, 
+				<crossref let="z" cid="c01032009.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O God of my father Abraham and God of my father Isaac, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				 who 
+				<crossref let="a" cid="c01032009.2">
+				</crossref>
+				said to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Return to your country and to your kindred, that I may do you good,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01032010">
+			</marker>
+			<verse num="10">
+				<crossref let="b" cid="c01032010.1">
+				</crossref>
+				I am not worthy of the least of all the deeds of steadfast love and all the faithfulness that you have shown to your servant, for with only my staff I crossed this Jordan, and now I have become two camps.
+			</verse>
+			<marker class="begin-verse" mid="v01032011">
+			</marker>
+			<verse num="11">
+				Please deliver me from the hand of my brother, from the hand of Esau, for 
+				<crossref let="c" cid="c01032011.1">
+				</crossref>
+				I fear him, that he may come and attack me, the mothers with the children.
+			</verse>
+			<marker class="begin-verse" mid="v01032012">
+			</marker>
+			<verse num="12">
+				But 
+				<crossref let="d" cid="c01032012.1">
+				</crossref>
+				you said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will surely do you good, and make your offspring as the sand of the sea, which cannot be numbered for multitude.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01032013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				So he stayed there that night, and from what he had with him he took 
+				<crossref let="e" cid="c01032013.1">
+				</crossref>
+				a present for his brother Esau,
+			</verse>
+			<marker class="begin-verse" mid="v01032014">
+			</marker>
+			<verse num="14">
+				two hundred female goats and twenty male goats, two hundred ewes and twenty rams,
+			</verse>
+			<marker class="begin-verse" mid="v01032015">
+			</marker>
+			<verse num="15">
+				thirty milking camels and their calves, forty cows and ten bulls, twenty female donkeys and ten male donkeys.
+			</verse>
+			<marker class="begin-verse" mid="v01032016">
+			</marker>
+			<verse num="16">
+				These he handed over to his servants, every drove by itself, and said to his servants, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Pass on ahead of me and put a space between drove and drove.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01032017">
+			</marker>
+			<verse num="17">
+				He instructed the first, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				When Esau my brother meets you and asks you, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				To whom do you belong? Where are you going? And whose are these ahead of you?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01032018">
+			</marker>
+			<verse num="18">
+				then you shall say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				They belong to your servant Jacob. They are a present sent to my lord Esau. And moreover, he is behind us.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01032019">
+			</marker>
+			<verse num="19">
+				He likewise instructed the second and the third and all who followed the droves, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You shall say the same thing to Esau when you find him,
+			</verse>
+			<marker class="begin-verse" mid="v01032020">
+			</marker>
+			<verse num="20">
+				and you shall say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Moreover, your servant Jacob is behind us.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 For he thought, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I may appease him
+				<note nid="n01032020.1">
+				</note>
+				 with the present that goes ahead of me, and afterward I shall see his face. Perhaps he will accept me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n01032020.2">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01032021">
+			</marker>
+			<verse num="21">
+				So the present passed on ahead of him, and he himself stayed that night in the camp.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01032022">
+			</marker>
+			<heading
+				>
+				Jacob Wrestles with God
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				The same night he arose and took his two wives, his two female servants, and his eleven children,
+				<note nid="n01032022.1">
+				</note>
+				 and crossed the ford of the 
+				<crossref let="f" cid="c01032022.1">
+				</crossref>
+				Jabbok.
+			</verse>
+			<marker class="begin-verse" mid="v01032023">
+			</marker>
+			<verse num="23">
+				He took them and sent them across the stream, and everything else that he had.
+			</verse>
+			<marker class="begin-verse" mid="v01032024">
+			</marker>
+			<verse num="24">
+				And Jacob was left alone. And 
+				<crossref let="g" cid="c01032024.1">
+				</crossref>
+				a man wrestled with him until the breaking of the day.
+			</verse>
+			<marker class="begin-verse" mid="v01032025">
+			</marker>
+			<verse num="25">
+				When the man saw that he did not prevail against Jacob, he touched his hip socket, and Jacob's hip was put out of joint as he wrestled with him.
+			</verse>
+			<marker class="begin-verse" mid="v01032026">
+			</marker>
+			<verse num="26">
+				Then he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let me go, for the day has broken.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But Jacob said, 
+				<crossref let="h" cid="c01032026.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will not let you go unless you bless me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01032027">
+			</marker>
+			<verse num="27">
+				And he said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is your name?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Jacob.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01032028">
+			</marker>
+			<verse num="28">
+				Then he said, 
+				<crossref let="i" cid="c01032028.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your name shall no longer be called Jacob, but Israel,
+				<note nid="n01032028.1">
+				</note>
+				 for 
+				<crossref let="j" cid="c01032028.2">
+				</crossref>
+				you have striven with God and 
+				<crossref let="k" cid="c01032028.3">
+				</crossref>
+				with men, and have prevailed.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01032029">
+			</marker>
+			<verse num="29">
+				Then Jacob asked him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please tell me your name.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But he said, 
+				<crossref let="l" cid="c01032029.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why is it that you ask my name?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And there he blessed him.
+			</verse>
+			<marker class="begin-verse" mid="v01032030">
+			</marker>
+			<verse num="30">
+				So Jacob called the name of the place Peniel,
+				<note nid="n01032030.1">
+				</note>
+				 saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				For 
+				<crossref let="m" cid="c01032030.1">
+				</crossref>
+				I have seen God face to face, and yet my life has been delivered.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01032031">
+			</marker>
+			<verse num="31">
+				The sun rose upon him as he passed 
+				<crossref let="n" cid="c01032031.1">
+				</crossref>
+				Penuel, limping because of his hip.
+			</verse>
+			<marker class="begin-verse" mid="v01032032">
+			</marker>
+			<verse num="32">
+				Therefore to this day the people of Israel do not eat the sinew of the thigh that is on the hip socket, because he touched the socket of Jacob's hip on the sinew of the thigh.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

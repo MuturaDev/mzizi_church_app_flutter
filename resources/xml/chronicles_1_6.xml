@@ -1,0 +1,634 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Chronicles" num="12">
+		<marker class="begin-verse" mid="v13006001">
+		</marker>
+		<chapter num="6">
+			<heading
+				>
+				Descendants of Levi
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<note nid="n13006001.1">
+				</note>
+				<crossref let="h" cid="c13006001.1">
+				</crossref>
+				The sons of Levi: Gershon, Kohath, and Merari.
+			</verse>
+			<marker class="begin-verse" mid="v13006002">
+			</marker>
+			<verse num="2">
+				<crossref let="i" cid="c13006002.1">
+				</crossref>
+				The sons of Kohath: Amram, Izhar, Hebron, and Uzziel.
+			</verse>
+			<marker class="begin-verse" mid="v13006003">
+			</marker>
+			<verse num="3">
+				<crossref let="j" cid="c13006003.1">
+				</crossref>
+				The children of Amram: Aaron, Moses, and Miriam. 
+				<crossref let="k" cid="c13006003.2">
+				</crossref>
+				The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar.
+			</verse>
+			<marker class="begin-verse" mid="v13006004">
+			</marker>
+			<verse num="4">
+				<crossrefs
+					>
+					<crossref let="l" cid="c13006004.1">
+					</crossref>
+					<crossref let="m" cid="c13006004.2">
+					</crossref>
+				</crossrefs>
+				Eleazar fathered 
+				<crossref let="n" cid="c13006004.3">
+				</crossref>
+				Phinehas, Phinehas fathered Abishua,
+			</verse>
+			<marker class="begin-verse" mid="v13006005">
+			</marker>
+			<verse num="5">
+				Abishua fathered Bukki, Bukki fathered Uzzi,
+			</verse>
+			<marker class="begin-verse" mid="v13006006">
+			</marker>
+			<verse num="6">
+				Uzzi fathered Zerahiah, Zerahiah fathered 
+				<crossref let="o" cid="c13006006.1">
+				</crossref>
+				Meraioth,
+			</verse>
+			<marker class="begin-verse" mid="v13006007">
+			</marker>
+			<verse num="7">
+				Meraioth fathered Amariah, Amariah fathered Ahitub,
+			</verse>
+			<marker class="begin-verse" mid="v13006008">
+			</marker>
+			<verse num="8">
+				<crossref let="p" cid="c13006008.1">
+				</crossref>
+				Ahitub fathered 
+				<crossref let="q" cid="c13006008.2">
+				</crossref>
+				Zadok, Zadok fathered Ahimaaz,
+			</verse>
+			<marker class="begin-verse" mid="v13006009">
+			</marker>
+			<verse num="9">
+				Ahimaaz fathered Azariah, Azariah fathered Johanan,
+			</verse>
+			<marker class="begin-verse" mid="v13006010">
+			</marker>
+			<verse num="10">
+				and Johanan fathered Azariah (
+				<crossref let="r" cid="c13006010.1">
+				</crossref>
+				it was he who served as priest 
+				<crossref let="s" cid="c13006010.2">
+				</crossref>
+				in the house that Solomon built in Jerusalem).
+			</verse>
+			<marker class="begin-verse" mid="v13006011">
+			</marker>
+			<verse num="11">
+				<crossref let="l" cid="c13006011.1">
+				</crossref>
+				Azariah fathered 
+				<crossref let="t" cid="c13006011.2">
+				</crossref>
+				Amariah, Amariah fathered Ahitub,
+			</verse>
+			<marker class="begin-verse" mid="v13006012">
+			</marker>
+			<verse num="12">
+				Ahitub fathered Zadok, Zadok fathered 
+				<crossref let="u" cid="c13006012.1">
+				</crossref>
+				Shallum,
+			</verse>
+			<marker class="begin-verse" mid="v13006013">
+			</marker>
+			<verse num="13">
+				Shallum fathered 
+				<crossref let="v" cid="c13006013.1">
+				</crossref>
+				Hilkiah, Hilkiah fathered Azariah,
+			</verse>
+			<marker class="begin-verse" mid="v13006014">
+			</marker>
+			<verse num="14">
+				Azariah fathered 
+				<crossref let="w" cid="c13006014.1">
+				</crossref>
+				Seraiah, Seraiah fathered Jehozadak;
+			</verse>
+			<marker class="begin-verse" mid="v13006015">
+			</marker>
+			<verse num="15">
+				and 
+				<crossref let="x" cid="c13006015.1">
+				</crossref>
+				Jehozadak went into exile when the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 sent Judah and Jerusalem into exile 
+				<crossref let="y" cid="c13006015.2">
+				</crossref>
+				by the hand of Nebuchadnezzar.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13006016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				<note nid="n13006016.1">
+				</note>
+				 The 
+				<crossref let="z" cid="c13006016.1">
+				</crossref>
+				sons of Levi: Gershom, Kohath, and Merari.
+			</verse>
+			<marker class="begin-verse" mid="v13006017">
+			</marker>
+			<verse num="17">
+				And these are the names of the sons of Gershom: 
+				<crossref let="a" cid="c13006017.1">
+				</crossref>
+				Libni and Shimei.
+			</verse>
+			<marker class="begin-verse" mid="v13006018">
+			</marker>
+			<verse num="18">
+				<crossref let="b" cid="c13006018.1">
+				</crossref>
+				The sons of Kohath: Amram, Izhar, Hebron and Uzziel.
+			</verse>
+			<marker class="begin-verse" mid="v13006019">
+			</marker>
+			<verse num="19">
+				<crossref let="c" cid="c13006019.1">
+				</crossref>
+				The sons of Merari: Mahli and Mushi. These are the clans of the Levites according to their fathers.
+			</verse>
+			<marker class="begin-verse" mid="v13006020">
+			</marker>
+			<verse num="20">
+				<crossref let="d" cid="c13006020.1">
+				</crossref>
+				Of Gershom: Libni his son, 
+				<crossref let="e" cid="c13006020.2">
+				</crossref>
+				Jahath his son, Zimmah his son,
+			</verse>
+			<marker class="begin-verse" mid="v13006021">
+			</marker>
+			<verse num="21">
+				Joah his son, Iddo his son, Zerah his son, Jeatherai his son.
+			</verse>
+			<marker class="begin-verse" mid="v13006022">
+			</marker>
+			<verse num="22">
+				<crossref let="f" cid="c13006022.1">
+				</crossref>
+				The sons of Kohath: Amminadab his son, Korah his son, Assir his son,
+			</verse>
+			<marker class="begin-verse" mid="v13006023">
+			</marker>
+			<verse num="23">
+				Elkanah his son, Ebiasaph his son, Assir his son,
+			</verse>
+			<marker class="begin-verse" mid="v13006024">
+			</marker>
+			<verse num="24">
+				Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.
+			</verse>
+			<marker class="begin-verse" mid="v13006025">
+			</marker>
+			<verse num="25">
+				The sons of Elkanah: Amasai and Ahimoth,
+			</verse>
+			<marker class="begin-verse" mid="v13006026">
+			</marker>
+			<verse num="26">
+				Elkanah his son, Zophai his son, Nahath his son,
+			</verse>
+			<marker class="begin-verse" mid="v13006027">
+			</marker>
+			<verse num="27">
+				Eliab his son, Jeroham his son, Elkanah his son.
+			</verse>
+			<marker class="begin-verse" mid="v13006028">
+			</marker>
+			<verse num="28">
+				The sons of Samuel: Joel
+				<note nid="n13006028.1">
+				</note>
+				 his firstborn, the second Abijah.
+				<note nid="n13006028.2">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v13006029">
+			</marker>
+			<verse num="29">
+				<crossref let="g" cid="c13006029.1">
+				</crossref>
+				The sons of Merari: Mahli, Libni his son, Shimei his son, Uzzah his son,
+			</verse>
+			<marker class="begin-verse" mid="v13006030">
+			</marker>
+			<verse num="30">
+				Shimea his son, Haggiah his son, and Asaiah his son.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13006031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				These are the men 
+				<crossref let="h" cid="c13006031.1">
+				</crossref>
+				whom David put in charge of the service of song in the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="i" cid="c13006031.2">
+				</crossref>
+				after the ark rested there.
+			</verse>
+			<marker class="begin-verse" mid="v13006032">
+			</marker>
+			<verse num="32">
+				They ministered with song before the tabernacle of the tent of meeting until Solomon built the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 in Jerusalem, and they performed their service according to their order.
+			</verse>
+			<marker class="begin-verse" mid="v13006033">
+			</marker>
+			<verse num="33">
+				These are the men who served and their sons. Of the sons of the Kohathites: Heman the singer the son of Joel, son of 
+				<crossref let="j" cid="c13006033.1">
+				</crossref>
+				Samuel,
+			</verse>
+			<marker class="begin-verse" mid="v13006034">
+			</marker>
+			<verse num="34">
+				son of Elkanah, son of Jeroham, son of Eliel, son of Toah,
+			</verse>
+			<marker class="begin-verse" mid="v13006035">
+			</marker>
+			<verse num="35">
+				son of Zuph, son of Elkanah, son of Mahath, son of Amasai,
+			</verse>
+			<marker class="begin-verse" mid="v13006036">
+			</marker>
+			<verse num="36">
+				son of Elkanah, son of Joel, son of Azariah, son of Zephaniah,
+			</verse>
+			<marker class="begin-verse" mid="v13006037">
+			</marker>
+			<verse num="37">
+				son of Tahath, son of Assir, son of Ebiasaph, son of Korah,
+			</verse>
+			<marker class="begin-verse" mid="v13006038">
+			</marker>
+			<verse num="38">
+				son of Izhar, son of Kohath, son of Levi, son of Israel;
+			</verse>
+			<marker class="begin-verse" mid="v13006039">
+			</marker>
+			<verse num="39">
+				and his brother 
+				<crossref let="k" cid="c13006039.1">
+				</crossref>
+				Asaph, who stood on his right hand, namely, Asaph the son of Berechiah, son of Shimea,
+			</verse>
+			<marker class="begin-verse" mid="v13006040">
+			</marker>
+			<verse num="40">
+				son of Michael, son of Baaseiah, son of Malchijah,
+			</verse>
+			<marker class="begin-verse" mid="v13006041">
+			</marker>
+			<verse num="41">
+				son of Ethni, son of Zerah, son of Adaiah,
+			</verse>
+			<marker class="begin-verse" mid="v13006042">
+			</marker>
+			<verse num="42">
+				son of Ethan, son of Zimmah, son of Shimei,
+			</verse>
+			<marker class="begin-verse" mid="v13006043">
+			</marker>
+			<verse num="43">
+				son of Jahath, son of Gershom, son of Levi.
+			</verse>
+			<marker class="begin-verse" mid="v13006044">
+			</marker>
+			<verse num="44">
+				On the left hand were their brothers, the sons of Merari: Ethan the son of Kishi, son of Abdi, son of Malluch,
+			</verse>
+			<marker class="begin-verse" mid="v13006045">
+			</marker>
+			<verse num="45">
+				son of Hashabiah, son of Amaziah, son of Hilkiah,
+			</verse>
+			<marker class="begin-verse" mid="v13006046">
+			</marker>
+			<verse num="46">
+				son of Amzi, son of Bani, son of Shemer,
+			</verse>
+			<marker class="begin-verse" mid="v13006047">
+			</marker>
+			<verse num="47">
+				son of Mahli, son of Mushi, son of Merari, son of Levi.
+			</verse>
+			<marker class="begin-verse" mid="v13006048">
+			</marker>
+			<verse num="48">
+				And their brothers the Levites were appointed for all the service of the tabernacle of the house of God.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13006049">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="49">
+				But Aaron and his sons made offerings 
+				<crossref let="l" cid="c13006049.1">
+				</crossref>
+				on the altar of burnt offering and on 
+				<crossref let="m" cid="c13006049.2">
+				</crossref>
+				the altar of incense for all the work of the Most Holy Place, and 
+				<crossref let="n" cid="c13006049.3">
+				</crossref>
+				to make atonement for Israel, according to all that Moses the servant of God had commanded.
+			</verse>
+			<marker class="begin-verse" mid="v13006050">
+			</marker>
+			<verse num="50">
+				<crossref let="o" cid="c13006050.1">
+				</crossref>
+				These are the sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son,
+			</verse>
+			<marker class="begin-verse" mid="v13006051">
+			</marker>
+			<verse num="51">
+				Bukki his son, Uzzi his son, Zerahiah his son,
+			</verse>
+			<marker class="begin-verse" mid="v13006052">
+			</marker>
+			<verse num="52">
+				Meraioth his son, Amariah his son, Ahitub his son,
+			</verse>
+			<marker class="begin-verse" mid="v13006053">
+			</marker>
+			<verse num="53">
+				Zadok his son, Ahimaaz his son.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13006054">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="54">
+				These are their dwelling places according to their 
+				<crossref let="p" cid="c13006054.1">
+				</crossref>
+				settlements within their borders: to the sons of Aaron of the 
+				<crossref let="q" cid="c13006054.2">
+				</crossref>
+				clans of Kohathites, for theirs was the first lot,
+			</verse>
+			<marker class="begin-verse" mid="v13006055">
+			</marker>
+			<verse num="55">
+				to them they gave Hebron in the land of Judah and its surrounding pasturelands,
+			</verse>
+			<marker class="begin-verse" mid="v13006056">
+			</marker>
+			<verse num="56">
+				<crossref let="r" cid="c13006056.1">
+				</crossref>
+				but the fields of the city and its villages they gave to Caleb the son of Jephunneh.
+			</verse>
+			<marker class="begin-verse" mid="v13006057">
+			</marker>
+			<verse num="57">
+				<crossref let="s" cid="c13006057.1">
+				</crossref>
+				To the sons of Aaron they gave the cities of refuge: Hebron, Libnah with its pasturelands, Jattir, Eshtemoa with its pasturelands,
+			</verse>
+			<marker class="begin-verse" mid="v13006058">
+			</marker>
+			<verse num="58">
+				Hilen with its pasturelands, Debir with its pasturelands,
+			</verse>
+			<marker class="begin-verse" mid="v13006059">
+			</marker>
+			<verse num="59">
+				Ashan with its pasturelands, and Beth-shemesh with its pasturelands;
+			</verse>
+			<marker class="begin-verse" mid="v13006060">
+			</marker>
+			<verse num="60">
+				and from the tribe of Benjamin, Gibeon,
+				<note nid="n13006060.1">
+				</note>
+				 Geba with its pasturelands, Alemeth with its pasturelands, and Anathoth with its pasturelands. All their cities throughout their clans were thirteen.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13006061">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="61">
+				<crossref let="t" cid="c13006061.1">
+				</crossref>
+				To the rest of the Kohathites were given by lot out of the clan of the tribe, out of the half-tribe, the half of Manasseh, ten cities.
+			</verse>
+			<marker class="begin-verse" mid="v13006062">
+			</marker>
+			<verse num="62">
+				To the Gershomites according to their clans were allotted thirteen cities out of the tribes of Issachar, Asher, Naphtali and Manasseh in Bashan.
+			</verse>
+			<marker class="begin-verse" mid="v13006063">
+			</marker>
+			<verse num="63">
+				<crossref let="u" cid="c13006063.1">
+				</crossref>
+				To the Merarites according to their clans were allotted twelve cities out of the tribes of Reuben, Gad, and Zebulun.
+			</verse>
+			<marker class="begin-verse" mid="v13006064">
+			</marker>
+			<verse num="64">
+				<crossref let="v" cid="c13006064.1">
+				</crossref>
+				So the people of Israel gave the Levites the cities with their pasturelands.
+			</verse>
+			<marker class="begin-verse" mid="v13006065">
+			</marker>
+			<verse num="65">
+				They gave by lot out of the tribes of Judah, Simeon, and Benjamin 
+				<crossref let="w" cid="c13006065.1">
+				</crossref>
+				these cities that are mentioned by name.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13006066">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="66">
+				<crossref let="x" cid="c13006066.1">
+				</crossref>
+				And some of the clans of the sons of Kohath had cities of their territory out of the tribe of Ephraim.
+			</verse>
+			<marker class="begin-verse" mid="v13006067">
+			</marker>
+			<verse num="67">
+				They were given the cities of refuge: Shechem with its pasturelands in the hill country of Ephraim, Gezer with its pasturelands,
+			</verse>
+			<marker class="begin-verse" mid="v13006068">
+			</marker>
+			<verse num="68">
+				<crossref let="y" cid="c13006068.1">
+				</crossref>
+				Jokmeam with its pasturelands, Beth-horon with its pasturelands,
+			</verse>
+			<marker class="begin-verse" mid="v13006069">
+			</marker>
+			<verse num="69">
+				Aijalon with its pasturelands, Gath-rimmon with its pasturelands,
+			</verse>
+			<marker class="begin-verse" mid="v13006070">
+			</marker>
+			<verse num="70">
+				and out of the half-tribe of Manasseh, Aner with its pasturelands, and Bileam with its pasturelands, for the rest of the clans of the Kohathites.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13006071">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="71">
+				<crossref let="z" cid="c13006071.1">
+				</crossref>
+				To the Gershomites were given out of the clan of the half-tribe of Manasseh: Golan in Bashan with its pasturelands and 
+				<crossref let="a" cid="c13006071.2">
+				</crossref>
+				Ashtaroth with its pasturelands;
+			</verse>
+			<marker class="begin-verse" mid="v13006072">
+			</marker>
+			<verse num="72">
+				and out of the tribe of Issachar: Kedesh with its pasturelands, Daberath with its pasturelands,
+			</verse>
+			<marker class="begin-verse" mid="v13006073">
+			</marker>
+			<verse num="73">
+				Ramoth with its pasturelands, and Anem with its pasturelands;
+			</verse>
+			<marker class="begin-verse" mid="v13006074">
+			</marker>
+			<verse num="74">
+				out of the tribe of Asher: Mashal with its pasturelands, Abdon with its pasturelands,
+			</verse>
+			<marker class="begin-verse" mid="v13006075">
+			</marker>
+			<verse num="75">
+				Hukok with its pasturelands, and Rehob with its pasturelands;
+			</verse>
+			<marker class="begin-verse" mid="v13006076">
+			</marker>
+			<verse num="76">
+				and out of the tribe of Naphtali: Kedesh in Galilee with its pasturelands, Hammon with its pasturelands, and Kiriathaim with its pasturelands.
+			</verse>
+			<marker class="begin-verse" mid="v13006077">
+			</marker>
+			<verse num="77">
+				<crossref let="b" cid="c13006077.1">
+				</crossref>
+				To the rest of the Merarites were allotted out of the tribe of Zebulun: 
+				<crossref let="c" cid="c13006077.2">
+				</crossref>
+				Rimmono with its pasturelands, 
+				<crossref let="c" cid="c13006077.3">
+				</crossref>
+				Tabor with its pasturelands,
+			</verse>
+			<marker class="begin-verse" mid="v13006078">
+			</marker>
+			<verse num="78">
+				and 
+				<crossref let="d" cid="c13006078.1">
+				</crossref>
+				beyond the Jordan at Jericho, on the east side of the Jordan, out of the tribe of Reuben: Bezer in the wilderness with its pasturelands, Jahzah with its pasturelands,
+			</verse>
+			<marker class="begin-verse" mid="v13006079">
+			</marker>
+			<verse num="79">
+				Kedemoth with its pasturelands, and Mephaath with its pasturelands;
+			</verse>
+			<marker class="begin-verse" mid="v13006080">
+			</marker>
+			<verse num="80">
+				and out of the tribe of Gad: 
+				<crossref let="e" cid="c13006080.1">
+				</crossref>
+				Ramoth in Gilead with its pasturelands, 
+				<crossref let="f" cid="c13006080.2">
+				</crossref>
+				Mahanaim with its pasturelands,
+			</verse>
+			<marker class="begin-verse" mid="v13006081">
+			</marker>
+			<verse num="81">
+				<crossref let="g" cid="c13006081.1">
+				</crossref>
+				Heshbon with its pasturelands, and 
+				<crossref let="h" cid="c13006081.2">
+				</crossref>
+				Jazer with its pasturelands.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

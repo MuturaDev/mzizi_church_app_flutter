@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?> xmlns:android="http://schemas.android.com/apk/res/android"
+<PreferenceScreen
+	>
+	<PreferenceCategory android:title="@7F090065">
+		<ListPreference android:entries="@7F060000" android:title="@7F09005A" android:key="fontSizePref" android:summary="@7F09005B" android:defaultValue="17.4f" android:entryValues="@7F060001">
+		</ListPreference>
+	</PreferenceCategory>
+</PreferenceScreen>
+

@@ -12,7 +12,8 @@ PortalParentChatRequest _$PortalParentChatRequestFromJson(
       json['studentID'] as String,
       json['Msg'] as String,
       json['staffID'] as String,
-      json['appCode'] as String);
+      json['appCode'] as String,
+      json['enquiryTypeID'] as String);
 }
 
 Map<String, dynamic> _$PortalParentChatRequestToJson(
@@ -21,5 +22,6 @@ Map<String, dynamic> _$PortalParentChatRequestToJson(
       'studentID': instance.studentID,
       'Msg': instance.Msg,
       'staffID': instance.staffID,
-      'appCode': instance.appCode
+      'appCode': instance.appCode,
+      'enquiryTypeID': instance.enquiryTypeID
     };

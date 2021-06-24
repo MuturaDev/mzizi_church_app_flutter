@@ -1,0 +1,888 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18038001">
+		</marker>
+		<chapter num="38">
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Answers Job
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="q" cid="c18038001.1">
+				</crossref>
+				answered Job out of the whirlwind and said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18038002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who is this that 
+				<crossref let="r" cid="c18038002.1">
+				</crossref>
+				darkens counsel by words 
+				<crossref let="s" cid="c18038002.2">
+				</crossref>
+				without knowledge?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c18038003.1">
+				</crossref>
+				Dress for action
+				<note nid="n18038003.1">
+				</note>
+				 like a man;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will question you, and you make it known to me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18038004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Where were you when I 
+				<crossref let="u" cid="c18038004.1">
+				</crossref>
+				laid the foundation of the earth?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Tell me, if you have understanding.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Who determined its measurementsùsurely you know!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Or who stretched the line upon it?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				On what were its bases sunk,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or who laid its cornerstone,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				when the morning stars 
+				<crossref let="v" cid="c18038007.1">
+				</crossref>
+				sang together
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all 
+				<crossref let="w" cid="c18038007.2">
+				</crossref>
+				the sons of God 
+				<crossref let="x" cid="c18038007.3">
+				</crossref>
+				shouted for joy?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18038008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Or who 
+				<crossref let="y" cid="c18038008.1">
+				</crossref>
+				shut in the sea with doors
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when it burst out from the womb,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				when I made clouds its garment
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="z" cid="c18038009.1">
+				</crossref>
+				thick darkness its swaddling band,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				and prescribed 
+				<crossref let="a" cid="c18038010.1">
+				</crossref>
+				limits for it
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and set bars and doors,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				and said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus far shall you come, and no farther,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and here shall your 
+				<crossref let="b" cid="c18038011.1">
+				</crossref>
+				proud waves be stayed
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18038012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Have you 
+				<crossref let="c" cid="c18038012.1">
+				</crossref>
+				commanded the morning since your days began,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and caused the dawn to know its place,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				that it might take hold of 
+				<crossref let="d" cid="c18038013.1">
+				</crossref>
+				the skirts of the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the wicked be 
+				<crossref let="e" cid="c18038013.2">
+				</crossref>
+				shaken out of it?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				It is changed like clay under the seal,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and its features stand out like a garment.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				From the wicked their 
+				<crossref let="f" cid="c18038015.1">
+				</crossref>
+				light is withheld,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="g" cid="c18038015.2">
+				</crossref>
+				their uplifted arm is broken.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18038016">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Have you 
+				<crossref let="h" cid="c18038016.1">
+				</crossref>
+				entered into the springs of the sea,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or walked in the recesses of the deep?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				Have 
+				<crossref let="i" cid="c18038017.1">
+				</crossref>
+				the gates of death been revealed to you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or have you seen the gates of 
+				<crossref let="j" cid="c18038017.2">
+				</crossref>
+				deep darkness?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				Have you comprehended the expanse of the earth?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Declare, if you know all this.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18038019">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Where is the way to the dwelling of light,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and where is the place of darkness,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				that you may take it to its territory
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and that you may discern 
+				<crossref let="k" cid="c18038020.1">
+				</crossref>
+				the paths to its home?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				You know, for 
+				<crossref let="l" cid="c18038021.1">
+				</crossref>
+				you were born then,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the number of your days is great!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18038022">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Have you entered 
+				<crossref let="m" cid="c18038022.1">
+				</crossref>
+				the storehouses of the snow,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or have you seen 
+				<crossref let="m" cid="c18038022.2">
+				</crossref>
+				the storehouses of the hail,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				which I have reserved 
+				<crossref let="n" cid="c18038023.1">
+				</crossref>
+				for the time of trouble,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c18038023.2">
+				</crossref>
+				for the day of battle and war?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				What is the way to the place where the light is distributed,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or where the east wind is scattered upon the earth?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18038025">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Who has cleft a channel for the torrents of rain
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="o" cid="c18038025.1">
+				</crossref>
+				a way for the thunderbolt,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				to bring rain on 
+				<crossref let="p" cid="c18038026.1">
+				</crossref>
+				a land where no man is,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on 
+				<crossref let="q" cid="c18038026.2">
+				</crossref>
+				the desert in which there is no man,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				to satisfy the waste and desolate land,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and to make the ground sprout with 
+				<crossref let="r" cid="c18038027.1">
+				</crossref>
+				grass?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18038028">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Has 
+				<crossref let="s" cid="c18038028.1">
+				</crossref>
+				the rain a father,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or who has begotten the drops of dew?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				From whose womb did 
+				<crossref let="t" cid="c18038029.1">
+				</crossref>
+				the ice come forth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and who has given birth to 
+				<crossref let="t" cid="c18038029.2">
+				</crossref>
+				the frost of heaven?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				The waters become hard like stone,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the face of the deep is 
+				<crossref let="u" cid="c18038030.1">
+				</crossref>
+				frozen.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18038031">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="31">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Can you bind the chains of 
+				<crossref let="v" cid="c18038031.1">
+				</crossref>
+				the Pleiades
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or loose the cords of 
+				<crossref let="v" cid="c18038031.2">
+				</crossref>
+				Orion?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038032">
+			</marker>
+			<verse num="32">
+				<begin-line
+					>
+				</begin-line>
+				Can you lead forth the Mazzaroth
+				<note nid="n18038032.1">
+				</note>
+				 in their season,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or can you guide 
+				<crossref let="v" cid="c18038032.1">
+				</crossref>
+				the Bear with its children?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038033">
+			</marker>
+			<verse num="33">
+				<begin-line
+					>
+				</begin-line>
+				Do you know 
+				<crossref let="w" cid="c18038033.1">
+				</crossref>
+				the ordinances of the heavens?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Can you establish their rule on the earth?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18038034">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="34">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Can you lift up your voice to the clouds,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that 
+				<crossref let="x" cid="c18038034.1">
+				</crossref>
+				a flood of waters may cover you?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038035">
+			</marker>
+			<verse num="35">
+				<begin-line
+					>
+				</begin-line>
+				Can you send forth lightnings, that they may go
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and say to you, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Here we are
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038036">
+			</marker>
+			<verse num="36">
+				<begin-line
+					>
+				</begin-line>
+				Who has 
+				<crossref let="y" cid="c18038036.1">
+				</crossref>
+				put wisdom in 
+				<crossref let="z" cid="c18038036.2">
+				</crossref>
+				the inward parts
+				<note nid="n18038036.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or given understanding to the mind?
+				<note nid="n18038036.2">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038037">
+			</marker>
+			<verse num="37">
+				<begin-line
+					>
+				</begin-line>
+				Who can number the clouds by wisdom?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Or who can tilt the waterskins of the heavens,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038038">
+			</marker>
+			<verse num="38">
+				<begin-line
+					>
+				</begin-line>
+				when the dust runs into a mass
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="a" cid="c18038038.1">
+				</crossref>
+				the clods stick fast together?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18038039">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="39">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Can you hunt the prey for the lion,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or 
+				<crossref let="b" cid="c18038039.1">
+				</crossref>
+				satisfy the appetite of the young lions,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038040">
+			</marker>
+			<verse num="40">
+				<begin-line
+					>
+				</begin-line>
+				when they crouch in their 
+				<crossref let="c" cid="c18038040.1">
+				</crossref>
+				dens
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or lie in wait 
+				<crossref let="d" cid="c18038040.2">
+				</crossref>
+				in their thicket?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18038041">
+			</marker>
+			<verse num="41">
+				<begin-line
+					>
+				</begin-line>
+				Who provides for 
+				<crossref let="e" cid="c18038041.1">
+				</crossref>
+				the raven its prey,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when its young ones cry to God for help,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and wander about for lack of food?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

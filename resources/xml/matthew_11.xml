@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40011001">
+		</marker>
+		<chapter num="11">
+			<heading
+				>
+				Messengers from John the Baptist
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				When Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in their cities.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40011002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				<crossref let="e" cid="c40011002.1">
+				</crossref>
+				<crossref cid="t40011002.1">
+				</crossref>
+				Now when John heard 
+				<crossref let="f" cid="c40011002.2">
+				</crossref>
+				in prison about the deeds of 
+				<crossref let="g" cid="c40011002.3">
+				</crossref>
+				the Christ, he sent word by 
+				<crossref let="h" cid="c40011002.4">
+				</crossref>
+				his disciples
+			</verse>
+			<marker class="begin-verse" mid="v40011003">
+			</marker>
+			<verse num="3">
+				and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Are you 
+				<crossref let="i" cid="c40011003.1">
+				</crossref>
+				the one who is to come, or shall we 
+				<crossref let="j" cid="c40011003.2">
+				</crossref>
+				look for another?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40011004">
+			</marker>
+			<verse num="4">
+				And Jesus answered them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go and tell John what you hear and see:
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011005">
+			</marker>
+			<verse num="5" class="woc">
+				<woc
+					>
+					<crossref let="k" cid="c40011005.1">
+					</crossref>
+					the blind receive their sight and the lame walk, lepers
+					<note nid="n40011005.1">
+					</note>
+					 are cleansed and the deaf hear, and the dead are raised up, and 
+					<crossref let="l" cid="c40011005.2">
+					</crossref>
+					the poor have good news preached to them.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011006">
+			</marker>
+			<verse num="6" class="woc">
+				<woc
+					>
+					And blessed is the one who 
+					<crossref let="m" cid="c40011006.1">
+					</crossref>
+					is not offended by me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40011007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				As they went away, Jesus began to speak to the crowds concerning John: 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What did you go out 
+					<crossref let="n" cid="c40011007.1">
+					</crossref>
+					into the wilderness to see? 
+					<crossref let="o" cid="c40011007.2">
+					</crossref>
+					A reed shaken by the wind?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011008">
+			</marker>
+			<verse num="8" class="woc">
+				<woc
+					>
+					What then did you go out to see? A man
+					<note nid="n40011008.1">
+					</note>
+					 dressed in soft clothing? Behold, those who wear soft clothing are in kings' houses.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011009">
+			</marker>
+			<verse num="9" class="woc">
+				<woc
+					>
+					What then did you go out to see? 
+					<crossref let="p" cid="c40011009.1">
+					</crossref>
+					A prophet?
+					<note nid="n40011009.1">
+					</note>
+					 Yes, I tell you, and more than a prophet.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					This is he of whom it is written,
+				</woc>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<woc
+					>
+					<crossref let="q" cid="c40011010.1">
+					</crossref>
+					<crossref cid="t40011010.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Behold, I send my messenger before your face,
+					<end-line class="br">
+					</end-line>
+					<begin-line class="indent">
+					</begin-line>
+					who will prepare your way before you.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v40011011">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="11" class="woc">
+				<woc
+					>
+					Truly, I say to you, among those born of women there has arisen no one greater than John the Baptist. Yet the one who is least in the kingdom of heaven is greater than he.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc
+					>
+					<crossref let="r" cid="c40011012.1">
+					</crossref>
+					From the days of John the Baptist until now the kingdom of heaven has suffered violence,
+					<note nid="n40011012.1">
+					</note>
+					 and the violent take it by force.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011013">
+			</marker>
+			<verse num="13" class="woc">
+				<woc
+					>
+					<crossref let="r" cid="c40011013.1">
+					</crossref>
+					For all the Prophets and the Law prophesied until John,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011014">
+			</marker>
+			<verse num="14" class="woc">
+				<woc
+					>
+					and if you are willing to accept it, he is 
+					<crossref let="s" cid="c40011014.1">
+					</crossref>
+					Elijah who is to come.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011015">
+			</marker>
+			<verse num="15" class="woc">
+				<woc
+					>
+					<crossref let="t" cid="c40011015.1">
+					</crossref>
+					He who has ears to hear,
+					<note nid="n40011015.1">
+					</note>
+					 let him hear.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40011016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					But to what shall I compare this generation? It is like children sitting in the marketplaces and calling to their playmates,
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40011017">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="17" class="woc">
+				<begin-line
+					>
+				</begin-line>
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					We played the flute for you, and you did not dance;
+					<end-line class="br">
+					</end-line>
+					<begin-line class="indent">
+					</begin-line>
+					we sang a dirge, and you did not mourn.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v40011018">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="18" class="woc">
+				<woc
+					>
+					For John came 
+					<crossref let="u" cid="c40011018.1">
+					</crossref>
+					neither eating 
+					<crossref let="v" cid="c40011018.2">
+					</crossref>
+					nor drinking, and they say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					He has a demon.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					The Son of Man came 
+					<crossref let="w" cid="c40011019.1">
+					</crossref>
+					eating and drinking, and they say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Look at him! A glutton and a drunkard, 
+					<crossref let="x" cid="c40011019.2">
+					</crossref>
+					a friend of 
+					<crossref let="y" cid="c40011019.3">
+					</crossref>
+					tax collectors and sinners!
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 Yet wisdom is justified by her deeds.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+					<note nid="n40011019.1">
+					</note>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40011020">
+			</marker>
+			<heading
+				>
+				Woe to Unrepentant Cities
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				<crossref let="z" cid="c40011020.1">
+				</crossref>
+				Then he began to denounce the cities where most of his mighty works had been done, because they did not repent.
+			</verse>
+			<marker class="begin-verse" mid="v40011021">
+			</marker>
+			<verse num="21" class="woc">
+				<woc
+					>
+					<crossref let="a" cid="c40011021.1">
+					</crossref>
+					<crossref cid="t40011021.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works done in you had been done in 
+					<crossref let="b" cid="c40011021.2">
+					</crossref>
+					Tyre and Sidon, they would have repented long ago in sackcloth and ashes.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011022">
+			</marker>
+			<verse num="22" class="woc">
+				<woc
+					>
+					<crossref let="c" cid="c40011022.1">
+					</crossref>
+					But I tell you, it will be more bearable on 
+					<crossref let="d" cid="c40011022.2">
+					</crossref>
+					the day of judgment for 
+					<crossref let="b" cid="c40011022.3">
+					</crossref>
+					Tyre and Sidon than for you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011023">
+			</marker>
+			<verse num="23" class="woc">
+				<woc
+					>
+					And you, 
+					<crossref let="e" cid="c40011023.1">
+					</crossref>
+					Capernaum, will you be exalted to heaven? You will be brought down to 
+					<crossref let="f" cid="c40011023.2">
+					</crossref>
+					Hades. For if the mighty works done in you had been done in Sodom, it would have remained until this day.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					<crossref let="c" cid="c40011024.1">
+					</crossref>
+					But I tell you that 
+					<crossref let="g" cid="c40011024.2">
+					</crossref>
+					it will be more tolerable on 
+					<crossref let="d" cid="c40011024.3">
+					</crossref>
+					the day of judgment for the land of Sodom than for you.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40011025">
+			</marker>
+			<heading
+				>
+				Come to Me, and I Will Give You Rest
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				<crossref let="h" cid="c40011025.1">
+				</crossref>
+				<crossref cid="t40011025.1">
+				</crossref>
+				At that time Jesus declared, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I thank you, Father, 
+					<crossref let="i" cid="c40011025.2">
+					</crossref>
+					Lord of heaven and earth, that 
+					<crossref let="j" cid="c40011025.3">
+					</crossref>
+					you have hidden these things from the wise and understanding and 
+					<crossref let="k" cid="c40011025.4">
+					</crossref>
+					revealed them to little children;
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					yes, Father, for such was your 
+					<crossref let="l" cid="c40011026.1">
+					</crossref>
+					gracious will.
+					<note nid="n40011026.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011027">
+			</marker>
+			<verse num="27" class="woc">
+				<woc
+					>
+					<crossref let="m" cid="c40011027.1">
+					</crossref>
+					All things have been handed over to me by my Father, and no one knows the Son 
+					<crossref let="n" cid="c40011027.2">
+					</crossref>
+					except the Father, and no one knows the Father except the Son and anyone 
+					<crossref let="o" cid="c40011027.3">
+					</crossref>
+					to whom the Son chooses to reveal him.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011028">
+			</marker>
+			<verse num="28" class="woc">
+				<woc
+					>
+					<crossref let="p" cid="c40011028.1">
+					</crossref>
+					Come to 
+					<crossref let="q" cid="c40011028.2">
+					</crossref>
+					me, all who labor and are 
+					<crossref let="r" cid="c40011028.3">
+					</crossref>
+					heavy laden, and I will give you rest.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011029">
+			</marker>
+			<verse num="29" class="woc">
+				<woc
+					>
+					Take my yoke upon you, and 
+					<crossref let="s" cid="c40011029.1">
+					</crossref>
+					learn from me, for I am 
+					<crossref let="t" cid="c40011029.2">
+					</crossref>
+					gentle and lowly in heart, and 
+					<crossref let="u" cid="c40011029.3">
+					</crossref>
+					you will find rest for your souls.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40011030">
+			</marker>
+			<verse num="30" class="woc">
+				<woc
+					>
+					For 
+					<crossref let="v" cid="c40011030.1">
+					</crossref>
+					my yoke is easy, and my burden is light.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

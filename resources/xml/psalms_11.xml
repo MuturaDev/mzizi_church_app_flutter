@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19011001">
+		</marker>
+		<chapter num="11">
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Is in His Holy Temple
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. Of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				In the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 I take refuge;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				how can you say to my soul,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c19011001.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Flee like a bird to your mountain,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19011002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				for behold, the wicked 
+				<crossref let="a" cid="c19011002.1">
+				</crossref>
+				bend the bow;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c19011002.2">
+				</crossref>
+				they have fitted their arrow to the string
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to shoot in the dark at the upright in heart;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19011003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				if 
+				<crossref let="c" cid="c19011003.1">
+				</crossref>
+				the foundations are destroyed,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				what can the righteous do?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n19011003.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19011004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c19011004.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is in his holy temple;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's 
+				<crossref let="e" cid="c19011004.2">
+				</crossref>
+				throne is in heaven;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his eyes see, his eyelids 
+				<crossref let="f" cid="c19011004.3">
+				</crossref>
+				test the children of man.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19011005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="g" cid="c19011005.1">
+				</crossref>
+				tests the righteous,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="h" cid="c19011005.2">
+				</crossref>
+				his soul hates the wicked and the one who loves violence.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19011006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Let him rain coals on the wicked;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c19011006.1">
+				</crossref>
+				fire and sulfur and a scorching wind shall be 
+				<crossref let="j" cid="c19011006.2">
+				</crossref>
+				the portion of their cup.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19011007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is righteous;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				he 
+				<crossref let="k" cid="c19011007.1">
+				</crossref>
+				loves righteous deeds;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="l" cid="c19011007.2">
+				</crossref>
+				the upright shall behold his face.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

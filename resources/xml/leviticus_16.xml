@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Leviticus" num="2">
+		<marker class="begin-verse" mid="v03016001">
+		</marker>
+		<chapter num="16">
+			<heading
+				>
+				The Day of Atonement
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses after 
+				<crossref let="c" cid="c03016001.1">
+				</crossref>
+				the death of the two sons of Aaron, when they drew near before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and died,
+			</verse>
+			<marker class="begin-verse" mid="v03016002">
+			</marker>
+			<verse num="2">
+				and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tell Aaron your brother not to 
+				<crossref let="d" cid="c03016002.1">
+				</crossref>
+				come at any time into the Holy Place inside the veil, before the mercy seat that is on the ark, so that he may not die. For 
+				<crossref let="e" cid="c03016002.2">
+				</crossref>
+				I will appear in the cloud over the mercy seat.
+			</verse>
+			<marker class="begin-verse" mid="v03016003">
+			</marker>
+			<verse num="3">
+				But in this way Aaron shall come into the Holy Place: 
+				<crossref let="f" cid="c03016003.1">
+				</crossref>
+				with a bull from the herd for a sin offering and 
+				<crossref let="g" cid="c03016003.2">
+				</crossref>
+				a ram for a burnt offering.
+			</verse>
+			<marker class="begin-verse" mid="v03016004">
+			</marker>
+			<verse num="4">
+				He shall put on 
+				<crossref let="h" cid="c03016004.1">
+				</crossref>
+				the holy linen coat and shall have the linen undergarment on his body, and he shall tie the linen sash around his waist, and wear the linen turban; these are the holy garments. 
+				<crossref let="i" cid="c03016004.2">
+				</crossref>
+				He shall bathe his body in water and then put them on.
+			</verse>
+			<marker class="begin-verse" mid="v03016005">
+			</marker>
+			<verse num="5">
+				And he shall take from 
+				<crossref let="j" cid="c03016005.1">
+				</crossref>
+				the congregation of the people of Israel two male goats for a sin offering, and one ram for a burnt offering.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03016006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Aaron shall 
+				<crossref let="k" cid="c03016006.1">
+				</crossref>
+				offer the bull as a sin offering for himself and shall 
+				<crossref let="l" cid="c03016006.2">
+				</crossref>
+				make atonement for himself and for his house.
+			</verse>
+			<marker class="begin-verse" mid="v03016007">
+			</marker>
+			<verse num="7">
+				Then he shall take the two goats and set them before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 at the entrance of the tent of meeting.
+			</verse>
+			<marker class="begin-verse" mid="v03016008">
+			</marker>
+			<verse num="8">
+				And Aaron shall cast lots over the two goats, one lot for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and the other lot for 
+				<crossref let="m" cid="c03016008.1">
+				</crossref>
+				Azazel.
+				<note nid="n03016008.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v03016009">
+			</marker>
+			<verse num="9">
+				And Aaron shall present the goat on which the lot fell for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and use it as a sin offering,
+			</verse>
+			<marker class="begin-verse" mid="v03016010">
+			</marker>
+			<verse num="10">
+				but the goat on which the lot fell for 
+				<crossref let="m" cid="c03016010.1">
+				</crossref>
+				Azazel shall be presented alive before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 to make atonement over it, that it may be sent away into the wilderness to 
+				<crossref let="m" cid="c03016010.2">
+				</crossref>
+				Azazel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03016011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Aaron shall present 
+				<crossref let="k" cid="c03016011.1">
+				</crossref>
+				the bull as a sin offering for himself, and shall make atonement for himself and for his house. He shall kill the bull as a sin offering for himself.
+			</verse>
+			<marker class="begin-verse" mid="v03016012">
+			</marker>
+			<verse num="12">
+				And he shall take 
+				<crossref let="n" cid="c03016012.1">
+				</crossref>
+				a censer full of coals of fire from the altar before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and two handfuls of sweet incense beaten small, and he shall bring it inside the veil
+			</verse>
+			<marker class="begin-verse" mid="v03016013">
+			</marker>
+			<verse num="13">
+				<crossref let="o" cid="c03016013.1">
+				</crossref>
+				and put the incense on the fire before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, that the cloud of the incense may cover 
+				<crossref let="p" cid="c03016013.2">
+				</crossref>
+				the mercy seat that is over the testimony, so that he does not die.
+			</verse>
+			<marker class="begin-verse" mid="v03016014">
+			</marker>
+			<verse num="14">
+				And 
+				<crossref let="q" cid="c03016014.1">
+				</crossref>
+				he shall take some of the blood of the bull and sprinkle it with his finger on the front of the mercy seat on the east side, and in front of the mercy seat he shall sprinkle some of the blood with his finger seven times.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03016015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				<crossref let="r" cid="c03016015.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Then he shall kill the goat of the sin offering that is for the people and bring its blood 
+				<crossref let="s" cid="c03016015.2">
+				</crossref>
+				inside the veil and do with its blood as he did with the blood of the bull, sprinkling it over the mercy seat and in front of the mercy seat.
+			</verse>
+			<marker class="begin-verse" mid="v03016016">
+			</marker>
+			<verse num="16">
+				Thus he shall 
+				<crossref let="t" cid="c03016016.1">
+				</crossref>
+				make atonement for the Holy Place, because of the uncleannesses of the people of Israel and because of their transgressions, all their sins. And so he shall do for the tent of meeting, which dwells with them in the midst of their uncleannesses.
+			</verse>
+			<marker class="begin-verse" mid="v03016017">
+			</marker>
+			<verse num="17">
+				<crossref let="u" cid="c03016017.1">
+				</crossref>
+				No one may be in the tent of meeting from the time he enters to make atonement in the Holy Place until he comes out and has made atonement for himself and for his house and for all the assembly of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v03016018">
+			</marker>
+			<verse num="18">
+				Then he shall go out to the altar that is 
+				<crossref let="v" cid="c03016018.1">
+				</crossref>
+				before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and 
+				<crossref let="w" cid="c03016018.2">
+				</crossref>
+				make atonement for it, and shall take some of the blood of the bull and some of the blood of the goat, and put it on the horns of the altar all around.
+			</verse>
+			<marker class="begin-verse" mid="v03016019">
+			</marker>
+			<verse num="19">
+				And he shall sprinkle some of the blood on it with his finger seven times, and cleanse it and consecrate it from the uncleannesses of the people of Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03016020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				And when he has made an end of 
+				<crossref let="x" cid="c03016020.1">
+				</crossref>
+				atoning for the Holy Place and the tent of meeting and the altar, he shall present the live goat.
+			</verse>
+			<marker class="begin-verse" mid="v03016021">
+			</marker>
+			<verse num="21">
+				And Aaron shall lay both his hands on the head of the live goat, and confess over it all the iniquities of the people of Israel, and all their transgressions, all their sins. And he shall 
+				<crossref let="y" cid="c03016021.1">
+				</crossref>
+				put them on the head of the goat and send it away into the wilderness by the hand of a man who is in readiness.
+			</verse>
+			<marker class="begin-verse" mid="v03016022">
+			</marker>
+			<verse num="22">
+				The goat shall 
+				<crossref let="z" cid="c03016022.1">
+				</crossref>
+				bear all their iniquities on itself to a remote area, and 
+				<crossref let="a" cid="c03016022.2">
+				</crossref>
+				he shall let the goat go free in the wilderness.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03016023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Then Aaron shall come into the tent of meeting and 
+				<crossref let="b" cid="c03016023.1">
+				</crossref>
+				shall take off the linen garments that he put on when he went into the Holy Place and shall leave them there.
+			</verse>
+			<marker class="begin-verse" mid="v03016024">
+			</marker>
+			<verse num="24">
+				And he shall bathe his body in water in a holy place and put on his garments and come out and 
+				<crossref let="c" cid="c03016024.1">
+				</crossref>
+				offer his burnt offering and the burnt offering of the people and make atonement for himself and for the people.
+			</verse>
+			<marker class="begin-verse" mid="v03016025">
+			</marker>
+			<verse num="25">
+				And 
+				<crossref let="d" cid="c03016025.1">
+				</crossref>
+				the fat of the sin offering he shall burn on the altar.
+			</verse>
+			<marker class="begin-verse" mid="v03016026">
+			</marker>
+			<verse num="26">
+				And he who lets the goat go to 
+				<crossref let="e" cid="c03016026.1">
+				</crossref>
+				Azazel shall wash his clothes and 
+				<crossref let="f" cid="c03016026.2">
+				</crossref>
+				bathe his body in water, and afterward he may come into the camp.
+			</verse>
+			<marker class="begin-verse" mid="v03016027">
+			</marker>
+			<verse num="27">
+				<crossref let="g" cid="c03016027.1">
+				</crossref>
+				And the bull for the sin offering and the goat for the sin offering, whose blood was brought in to make atonement in the Holy Place, shall be carried outside the camp. Their skin and their flesh and their dung shall be burned up with fire.
+			</verse>
+			<marker class="begin-verse" mid="v03016028">
+			</marker>
+			<verse num="28">
+				And he who burns them shall wash his clothes and bathe his body in water, and afterward he may come into the camp.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03016029">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				And it shall be a statute to you forever that 
+				<crossref let="h" cid="c03016029.1">
+				</crossref>
+				in the seventh month, on the tenth day of the month, you shall 
+				<crossref let="i" cid="c03016029.2">
+				</crossref>
+				afflict yourselves
+				<note nid="n03016029.1">
+				</note>
+				 and shall do no work, either 
+				<crossref let="j" cid="c03016029.3">
+				</crossref>
+				the native or the stranger who sojourns among you.
+			</verse>
+			<marker class="begin-verse" mid="v03016030">
+			</marker>
+			<verse num="30">
+				For on this day shall atonement be made for you 
+				<crossref let="k" cid="c03016030.1">
+				</crossref>
+				to cleanse you. You shall be clean before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 from all your sins.
+			</verse>
+			<marker class="begin-verse" mid="v03016031">
+			</marker>
+			<verse num="31">
+				<crossref let="l" cid="c03016031.1">
+				</crossref>
+				It is a Sabbath of solemn rest to you, and you shall 
+				<crossref let="i" cid="c03016031.2">
+				</crossref>
+				afflict yourselves; it is a statute forever.
+			</verse>
+			<marker class="begin-verse" mid="v03016032">
+			</marker>
+			<verse num="32">
+				<crossref let="m" cid="c03016032.1">
+				</crossref>
+				And the priest who is anointed and 
+				<crossref let="n" cid="c03016032.2">
+				</crossref>
+				consecrated as priest in his father's place 
+				<crossref let="o" cid="c03016032.3">
+				</crossref>
+				shall make atonement, wearing the holy linen garments.
+			</verse>
+			<marker class="begin-verse" mid="v03016033">
+			</marker>
+			<verse num="33">
+				He shall make atonement for 
+				<crossref let="p" cid="c03016033.1">
+				</crossref>
+				the holy sanctuary, and he shall make atonement for the tent of meeting and for 
+				<crossref let="q" cid="c03016033.2">
+				</crossref>
+				the altar, and he shall make atonement for 
+				<crossref let="r" cid="c03016033.3">
+				</crossref>
+				the priests and for 
+				<crossref let="s" cid="c03016033.4">
+				</crossref>
+				all the people of the assembly.
+			</verse>
+			<marker class="begin-verse" mid="v03016034">
+			</marker>
+			<verse num="34">
+				And this shall be a statute forever for you, that atonement may be made for the people of Israel 
+				<crossref let="t" cid="c03016034.1">
+				</crossref>
+				once in the year because of all their sins.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Moses did as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

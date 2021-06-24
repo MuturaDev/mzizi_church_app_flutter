@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19066001">
+		</marker>
+		<chapter num="66">
+			<heading
+				>
+				How Awesome Are Your Deeds
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Song. A Psalm.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c19066001.1">
+				</crossref>
+				Shout for joy to God, all the earth;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066002">
+			</marker>
+			<verse num="2">
+				<begin-line class="indent">
+				</begin-line>
+				sing the glory of his name;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c19066002.1">
+				</crossref>
+				give to him glorious praise!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Say to God, 
+				<crossref let="d" cid="c19066003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How awesome are your deeds!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				So great is your power that your enemies 
+				<crossref let="e" cid="c19066003.2">
+				</crossref>
+				come cringing to you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c19066004.1">
+				</crossref>
+				All the earth worships you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and sings praises to you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they sing praises to your name.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19066005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c19066005.1">
+				</crossref>
+				Come and see what God has done:
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c19066005.2">
+				</crossref>
+				he is awesome in his deeds toward the children of man.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="h" cid="c19066006.1">
+				</crossref>
+				turned the sea into dry land;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they 
+				<crossref let="i" cid="c19066006.2">
+				</crossref>
+				passed through the river on foot.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				There did we rejoice in him,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066007">
+			</marker>
+			<verse num="7">
+				<begin-line class="indent">
+				</begin-line>
+				who rules by his might forever,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				whose 
+				<crossref let="j" cid="c19066007.1">
+				</crossref>
+				eyes keep watch on the nationsù
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let not the rebellious exalt themselves. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19066008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Bless our God, O peoples;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let the sound of his praise be heard,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				who has kept our soul among the living
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="k" cid="c19066009.1">
+				</crossref>
+				has not let our feet slip.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				For you, O God, have 
+				<crossref let="l" cid="c19066010.1">
+				</crossref>
+				tested us;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have tried us as silver is tried.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				You brought us into 
+				<crossref let="m" cid="c19066011.1">
+				</crossref>
+				the net;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you laid a crushing burden on our backs;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				you let men 
+				<crossref let="n" cid="c19066012.1">
+				</crossref>
+				ride over our heads;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				we went through fire and through 
+				<crossref let="o" cid="c19066012.2">
+				</crossref>
+				water;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				yet you have brought us out to a place of abundance.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19066013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				I will come into your house with burnt offerings;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will 
+				<crossref let="p" cid="c19066013.1">
+				</crossref>
+				perform my vows to you,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				that which my lips uttered
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my mouth promised 
+				<crossref let="q" cid="c19066014.1">
+				</crossref>
+				when I was in trouble.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				I will offer to you burnt offerings of fattened animals,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with the smoke of the sacrifice of rams;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I will make an offering of bulls and goats. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19066016">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19066016.1">
+				</crossref>
+				Come and hear, all you who fear God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and I will tell what he has done for my soul.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				I cried to him with my mouth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and high praise was on
+				<note nid="n19066017.1">
+				</note>
+				 my tongue.
+				<note nid="n19066017.2">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				If I had 
+				<crossref let="s" cid="c19066018.1">
+				</crossref>
+				cherished iniquity in my heart,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c19066018.2">
+				</crossref>
+				the Lord would not have listened.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19066019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				But truly 
+				<crossref let="u" cid="c19066019.1">
+				</crossref>
+				God has listened;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he has attended to the voice of my prayer.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19066020">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				Blessed be God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because he has not rejected my prayer
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or removed his steadfast love from me!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

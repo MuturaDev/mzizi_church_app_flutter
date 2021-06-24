@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18010001">
+		</marker>
+		<chapter num="10">
+			<heading
+				>
+				Job Continues: A Plea to God
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				I 
+				<crossref let="u" cid="c18010001.1">
+				</crossref>
+				loathe my life;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I will give free utterance to my 
+				<crossref let="v" cid="c18010001.2">
+				</crossref>
+				complaint;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will speak in 
+				<crossref let="w" cid="c18010001.3">
+				</crossref>
+				the bitterness of my soul.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				I will say to God, Do not 
+				<crossref let="x" cid="c18010002.1">
+				</crossref>
+				condemn me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let me know why you 
+				<crossref let="y" cid="c18010002.2">
+				</crossref>
+				contend against me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c18010003.1">
+				</crossref>
+				Does it seem good to you to oppress,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to despise 
+				<crossref let="a" cid="c18010003.2">
+				</crossref>
+				the work of your hands
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c18010003.3">
+				</crossref>
+				and favor the designs of the wicked?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Have you 
+				<crossref let="c" cid="c18010004.1">
+				</crossref>
+				eyes of flesh?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c18010004.2">
+				</crossref>
+				Do you see as man sees?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Are your days as the days of man,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or your 
+				<crossref let="e" cid="c18010005.1">
+				</crossref>
+				years as a man's years,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				that you 
+				<crossref let="f" cid="c18010006.1">
+				</crossref>
+				seek out my iniquity
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and search for my sin,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				although you 
+				<crossref let="g" cid="c18010007.1">
+				</crossref>
+				know that I am not guilty,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and there is 
+				<crossref let="h" cid="c18010007.2">
+				</crossref>
+				none to deliver out of your hand?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c18010008.1">
+				</crossref>
+				Your hands fashioned and made me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and now you have destroyed me altogether.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Remember that you have made me like 
+				<crossref let="j" cid="c18010009.1">
+				</crossref>
+				clay;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and will you return me to the 
+				<crossref let="k" cid="c18010009.2">
+				</crossref>
+				dust?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Did you not pour me out like milk
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and curdle me like cheese?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				You clothed me with skin and flesh,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and knit me together with bones and sinews.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				You have granted me life and steadfast love,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your care has preserved my spirit.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				Yet these things you hid in your heart;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I know that 
+				<crossref let="l" cid="c18010013.1">
+				</crossref>
+				this was your purpose.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				If I sin, you 
+				<crossref let="m" cid="c18010014.1">
+				</crossref>
+				watch me
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and do not 
+				<crossref let="n" cid="c18010014.2">
+				</crossref>
+				acquit me of my iniquity.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c18010015.1">
+				</crossref>
+				If I am guilty, woe to me!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				If I am 
+				<crossref let="p" cid="c18010015.2">
+				</crossref>
+				in the right, I cannot lift up my head,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for I am filled with disgrace
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="q" cid="c18010015.3">
+				</crossref>
+				look on my affliction.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				And were my head lifted up,
+				<note nid="n18010016.1">
+				</note>
+				 you would hunt me like 
+				<crossref let="r" cid="c18010016.1">
+				</crossref>
+				a lion
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and again work 
+				<crossref let="s" cid="c18010016.2">
+				</crossref>
+				wonders against me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				You renew your 
+				<crossref let="t" cid="c18010017.1">
+				</crossref>
+				witnesses against me
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and increase your vexation toward me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="u" cid="c18010017.2">
+				</crossref>
+				bring fresh troops against me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18010018">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c18010018.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Why did you bring me out from the womb?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Would that I had died before any eye had seen me
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c18010019.1">
+				</crossref>
+				and were as though I had not been,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				carried from the womb to the grave.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c18010020.1">
+				</crossref>
+				Are not my days few?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="y" cid="c18010020.2">
+				</crossref>
+				Then cease, and leave me alone, 
+				<crossref let="z" cid="c18010020.3">
+				</crossref>
+				that I may find a little cheer
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				before I goùand 
+				<crossref let="a" cid="c18010021.1">
+				</crossref>
+				I shall not returnù
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the land of 
+				<crossref let="b" cid="c18010021.2">
+				</crossref>
+				darkness and 
+				<crossref let="c" cid="c18010021.3">
+				</crossref>
+				deep shadow,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18010022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				the land of gloom like thick darkness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like deep shadow without any order,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				where light is as thick darkness.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

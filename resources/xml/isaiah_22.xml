@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23022001">
+		</marker>
+		<chapter num="22">
+			<heading
+				>
+				An Oracle Concerning Jerusalem
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<crossref let="v" cid="c23022001.1">
+				</crossref>
+				oracle concerning 
+				<crossref let="w" cid="c23022001.2">
+				</crossref>
+				the valley of vision.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				What do you mean that you have gone up,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all of you, to the housetops,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23022002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				you who are full of shoutings,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				tumultuous city, 
+				<crossref let="x" cid="c23022002.1">
+				</crossref>
+				exultant town?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Your slain are 
+				<crossref let="y" cid="c23022002.2">
+				</crossref>
+				not slain with the sword
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or dead in battle.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23022003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c23022003.1">
+				</crossref>
+				All your leaders have fled together;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				without the bow they were captured.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				All of you who were found were captured,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				though they had fled far away.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23022004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Therefore I said:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Look away from me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c23022004.1">
+				</crossref>
+				let me weep bitter tears;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				do not labor to comfort me
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				concerning the destruction of the daughter of my people.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23022005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c23022005.1">
+				</crossref>
+				For the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				 of hosts has 
+				<crossref let="c" cid="c23022005.2">
+				</crossref>
+				a day
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				of tumult and 
+				<crossref let="d" cid="c23022005.3">
+				</crossref>
+				trampling and 
+				<crossref let="e" cid="c23022005.4">
+				</crossref>
+				confusion
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in 
+				<crossref let="w" cid="c23022005.5">
+				</crossref>
+				the valley of vision,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				a battering down of walls
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a shouting to the mountains.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23022006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				And 
+				<crossref let="f" cid="c23022006.1">
+				</crossref>
+				Elam bore the quiver
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with chariots and horsemen,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="g" cid="c23022006.2">
+				</crossref>
+				Kir uncovered the shield.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23022007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Your choicest valleys were full of chariots,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the horsemen took their stand at the gates.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23022008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				He has taken away 
+				<crossref let="h" cid="c23022008.1">
+				</crossref>
+				the covering of Judah.
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<end-block-indent
+					>
+				</end-block-indent>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				In that day you looked to 
+				<crossref let="i" cid="c23022008.2">
+				</crossref>
+				the weapons of the House of the Forest,
+
+			</verse>
+			<marker class="begin-verse" mid="v23022009">
+			</marker>
+			<verse num="9">
+				and you saw that 
+				<crossref let="j" cid="c23022009.1">
+				</crossref>
+				the breaches of the city of David were many. 
+				<crossref let="k" cid="c23022009.2">
+				</crossref>
+				You collected the waters of the lower pool,
+			</verse>
+			<marker class="begin-verse" mid="v23022010">
+			</marker>
+			<verse num="10">
+				and you counted the houses of Jerusalem, and you broke down the houses to fortify the wall.
+			</verse>
+			<marker class="begin-verse" mid="v23022011">
+			</marker>
+			<verse num="11">
+				<crossref let="k" cid="c23022011.1">
+				</crossref>
+				You made a reservoir between 
+				<crossref let="l" cid="c23022011.2">
+				</crossref>
+				the two walls for the water of 
+				<crossref let="m" cid="c23022011.3">
+				</crossref>
+				the old pool. But 
+				<crossref let="n" cid="c23022011.4">
+				</crossref>
+				you did not look to him who did it, or see him who planned it long ago.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23022012">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				In that day 
+				<crossref let="o" cid="c23022012.1">
+				</crossref>
+				the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				 of hosts
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				called for weeping and mourning,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="p" cid="c23022012.2">
+				</crossref>
+				baldness and 
+				<crossref let="q" cid="c23022012.3">
+				</crossref>
+				wearing sackcloth;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23022013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				and behold, joy and gladness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				killing oxen and slaughtering sheep,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				eating flesh and drinking wine.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c23022013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let us eat and drink,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for tomorrow we die.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23022014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts 
+				<crossref let="s" cid="c23022014.1">
+				</crossref>
+				has revealed himself in my ears:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Surely 
+				<crossref let="t" cid="c23022014.2">
+				</crossref>
+				this iniquity will not be atoned for you 
+				<crossref let="u" cid="c23022014.3">
+				</crossref>
+				until you die,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				 of hosts.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23022015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				Thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				 of hosts, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come, go to this steward, to 
+				<crossref let="v" cid="c23022015.1">
+				</crossref>
+				Shebna, who is over the household, and say to him:
+			</verse>
+			<marker class="begin-verse" mid="v23022016">
+			</marker>
+			<verse num="16">
+				What have you to do here, and whom have you here, 
+				<crossref let="w" cid="c23022016.1">
+				</crossref>
+				that you have cut out here a tomb for yourself, you 
+				<crossref let="x" cid="c23022016.2">
+				</crossref>
+				who cut out a tomb on the height and carve a dwelling for yourself in the rock?
+			</verse>
+			<marker class="begin-verse" mid="v23022017">
+			</marker>
+			<verse num="17">
+				Behold, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will hurl you away violently, O you strong man. 
+				<crossref let="y" cid="c23022017.1">
+				</crossref>
+				He will seize firm hold on you
+			</verse>
+			<marker class="begin-verse" mid="v23022018">
+			</marker>
+			<verse num="18">
+				and whirl you around and around, and throw you like a ball into a wide land. There you shall die, and there shall be 
+				<crossref let="z" cid="c23022018.1">
+				</crossref>
+				your glorious chariots, you shame of your master's house.
+			</verse>
+			<marker class="begin-verse" mid="v23022019">
+			</marker>
+			<verse num="19">
+				<crossref let="a" cid="c23022019.1">
+				</crossref>
+				I will thrust you from your office, and you will be pulled down from your station.
+			</verse>
+			<marker class="begin-verse" mid="v23022020">
+			</marker>
+			<verse num="20">
+				In that day I will call my servant 
+				<crossref let="b" cid="c23022020.1">
+				</crossref>
+				Eliakim the son of Hilkiah,
+			</verse>
+			<marker class="begin-verse" mid="v23022021">
+			</marker>
+			<verse num="21">
+				and 
+				<crossref let="b" cid="c23022021.1">
+				</crossref>
+				I will clothe him with your robe, and will bind your sash on him, and will commit your authority to his hand. And he shall be 
+				<crossref let="c" cid="c23022021.2">
+				</crossref>
+				a father to the inhabitants of Jerusalem and to the house of Judah.
+			</verse>
+			<marker class="begin-verse" mid="v23022022">
+			</marker>
+			<verse num="22">
+				And I will place 
+				<crossref let="d" cid="c23022022.1">
+				</crossref>
+				on his shoulder 
+				<crossref let="e" cid="c23022022.2">
+				</crossref>
+				the key of the house of David. 
+				<crossref let="f" cid="c23022022.3">
+				</crossref>
+				He shall open, and none shall shut; and he shall shut, and none shall open.
+			</verse>
+			<marker class="begin-verse" mid="v23022023">
+			</marker>
+			<verse num="23">
+				And I will fasten him 
+				<crossref let="g" cid="c23022023.1">
+				</crossref>
+				like a peg in a secure place, and he will become 
+				<crossref let="h" cid="c23022023.2">
+				</crossref>
+				a throne of honor to his father's house.
+			</verse>
+			<marker class="begin-verse" mid="v23022024">
+			</marker>
+			<verse num="24">
+				And they will hang on him the whole honor of his father's house, the offspring and issue, every small vessel, from the cups to all the flagons.
+			</verse>
+			<marker class="begin-verse" mid="v23022025">
+			</marker>
+			<verse num="25">
+				In that day, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts, 
+				<crossref let="g" cid="c23022025.1">
+				</crossref>
+				the peg that was fastened in a secure place will give way, and it will be cut down and fall, and the load that was on it will be cut off, for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has spoken.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

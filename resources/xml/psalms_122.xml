@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19122001">
+		</marker>
+		<chapter num="122">
+			<heading
+				>
+				Let Us Go to the House of the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<subheading class="psalm-title">
+				A Song of 
+				<crossref let="m" cid="c19122001.1">
+				</crossref>
+				Ascents. Of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				I was glad when they said to me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="g" cid="c19122001.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let us go to the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19122002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Our feet have been standing
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				within your gates, O Jerusalem!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19122003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Jerusalemù
+				<crossref let="h" cid="c19122003.1">
+				</crossref>
+				built as a city
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that is 
+				<crossref let="i" cid="c19122003.2">
+				</crossref>
+				bound firmly together,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19122004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				to which the tribes 
+				<crossref let="j" cid="c19122004.1">
+				</crossref>
+				go up,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the tribes of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				as was 
+				<crossref let="k" cid="c19122004.2">
+				</crossref>
+				decreed for
+				<note nid="n19122004.1">
+				</note>
+				 Israel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to give thanks to the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19122005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				There 
+				<crossref let="l" cid="c19122005.1">
+				</crossref>
+				thrones for judgment were set,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the thrones of the house of David.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19122006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c19122006.1">
+				</crossref>
+				Pray for the peace of Jerusalem!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				May they be secure who love you!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19122007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Peace be within your 
+				<crossref let="n" cid="c19122007.1">
+				</crossref>
+				walls
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and security within your 
+				<crossref let="n" cid="c19122007.2">
+				</crossref>
+				towers!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19122008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				For my brothers and companions' sake
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will say, 
+				<crossref let="o" cid="c19122008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Peace be within you!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19122009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				For the sake of the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will 
+				<crossref let="p" cid="c19122009.1">
+				</crossref>
+				seek your good.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

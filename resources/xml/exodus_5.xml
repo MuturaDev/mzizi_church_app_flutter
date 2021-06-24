@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02005001">
+		</marker>
+		<chapter num="5">
+			<heading
+				>
+				Making Bricks Without Straw
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Afterward Moses and Aaron went and said to Pharaoh, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Let my people go, that they may hold 
+				<crossref let="t" cid="c02005001.1">
+				</crossref>
+				a feast to me in the wilderness.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02005002">
+			</marker>
+			<verse num="2">
+				But Pharaoh said, 
+				<crossref let="u" cid="c02005002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, that I should obey his voice and let Israel go? I do not know the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and moreover, 
+				<crossref let="v" cid="c02005002.2">
+				</crossref>
+				I will not let Israel go.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02005003">
+			</marker>
+			<verse num="3">
+				Then they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<crossref let="w" cid="c02005003.1">
+				</crossref>
+				God of the Hebrews has met with us. Please let us go a three days' journey into the wilderness that we may sacrifice to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God, lest he fall upon us with pestilence or with the sword.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02005004">
+			</marker>
+			<verse num="4">
+				But the king of Egypt said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Moses and Aaron, why do you take the people away from their work? Get back to your 
+				<crossref let="x" cid="c02005004.1">
+				</crossref>
+				burdens.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02005005">
+			</marker>
+			<verse num="5">
+				And Pharaoh said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, 
+				<crossref let="y" cid="c02005005.1">
+				</crossref>
+				the people of the land are now many,
+				<note nid="n02005005.1">
+				</note>
+				 and you make them rest from their burdens!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02005006">
+			</marker>
+			<verse num="6">
+				The same day Pharaoh commanded the 
+				<crossref let="z" cid="c02005006.1">
+				</crossref>
+				taskmasters of the people and their 
+				<crossref let="a" cid="c02005006.2">
+				</crossref>
+				foremen,
+			</verse>
+			<marker class="begin-verse" mid="v02005007">
+			</marker>
+			<verse num="7">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You shall no longer give the people straw to make bricks, as in the past; let them go and gather straw for themselves.
+			</verse>
+			<marker class="begin-verse" mid="v02005008">
+			</marker>
+			<verse num="8">
+				But the number of bricks that they made in the past you shall impose on them, you shall by no means reduce it, for they are idle. Therefore they cry, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Let us go and offer sacrifice to our God.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02005009">
+			</marker>
+			<verse num="9">
+				Let heavier work be laid on the men that they may labor at it and pay no regard to lying words.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02005010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				So the 
+				<crossref let="b" cid="c02005010.1">
+				</crossref>
+				taskmasters and the foremen of the people went out and said to the people, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus says Pharaoh, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will not give you straw.
+			</verse>
+			<marker class="begin-verse" mid="v02005011">
+			</marker>
+			<verse num="11">
+				Go and get your straw yourselves wherever you can find it, but your work will not be reduced in the least.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02005012">
+			</marker>
+			<verse num="12">
+				So the people were scattered throughout all the land of Egypt to gather stubble for straw.
+			</verse>
+			<marker class="begin-verse" mid="v02005013">
+			</marker>
+			<verse num="13">
+				The 
+				<crossref let="c" cid="c02005013.1">
+				</crossref>
+				taskmasters were urgent, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Complete your work, your daily task each day, as when there was straw.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02005014">
+			</marker>
+			<verse num="14">
+				And the foremen of the people of Israel, whom Pharaoh's 
+				<crossref let="c" cid="c02005014.1">
+				</crossref>
+				taskmasters had set over them, were beaten and were asked, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have you not done all your task of making bricks today and yesterday, as in the past?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02005015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				Then the foremen of the people of Israel came and cried to Pharaoh, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do you treat your servants like this?
+			</verse>
+			<marker class="begin-verse" mid="v02005016">
+			</marker>
+			<verse num="16">
+				No straw is given to your servants, yet they say to us, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Make bricks!
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 And behold, your servants are beaten; but the fault is in your own people.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02005017">
+			</marker>
+			<verse num="17">
+				But he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are idle, you are idle; that is why you say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Let us go and sacrifice to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02005018">
+			</marker>
+			<verse num="18">
+				Go now and work. No straw will be given you, but you must still deliver the same number of bricks.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02005019">
+			</marker>
+			<verse num="19">
+				The foremen of the people of Israel saw that they were in trouble when they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You shall by no means reduce your number of bricks, your daily task each day.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02005020">
+			</marker>
+			<verse num="20">
+				They met Moses and Aaron, who were waiting for them, as they came out from Pharaoh;
+			</verse>
+			<marker class="begin-verse" mid="v02005021">
+			</marker>
+			<verse num="21">
+				and 
+				<crossref let="d" cid="c02005021.1">
+				</crossref>
+				they said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 look on you and judge, because you have made us stink in the sight of Pharaoh and his servants, and have put a sword in their hand to kill us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02005022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				Then Moses turned to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O Lord, why have you done evil to this people? Why did you ever send me?
+			</verse>
+			<marker class="begin-verse" mid="v02005023">
+			</marker>
+			<verse num="23">
+				For since I came to Pharaoh to speak in your name, he has done evil to this people, and you have not delivered your people at all.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19112001">
+		</marker>
+		<chapter num="112">
+			<heading
+				>
+				The Righteous Will Never Be Moved
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<note nid="n19112001.1">
+				</note>
+				<crossref let="h" cid="c19112001.1">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19112001.2">
+				</crossref>
+				Blessed is the man who fears the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="j" cid="c19112001.3">
+				</crossref>
+				greatly delights in his commandments!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19112002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				His 
+				<crossref let="k" cid="c19112002.1">
+				</crossref>
+				offspring will be mighty in the land;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="l" cid="c19112002.2">
+				</crossref>
+				the generation of the upright will be blessed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19112003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c19112003.1">
+				</crossref>
+				Wealth and riches are in his house,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his 
+				<crossref let="n" cid="c19112003.2">
+				</crossref>
+				righteousness endures forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19112004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Light dawns in the darkness 
+				<crossref let="o" cid="c19112004.1">
+				</crossref>
+				for the upright;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he is gracious, merciful, and 
+				<crossref let="p" cid="c19112004.2">
+				</crossref>
+				righteous.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19112005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				It is well with the man who 
+				<crossref let="q" cid="c19112005.1">
+				</crossref>
+				deals generously and lends;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who conducts his affairs with justice.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19112006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				For the righteous will 
+				<crossref let="r" cid="c19112006.1">
+				</crossref>
+				never be moved;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c19112006.2">
+				</crossref>
+				he will be remembered forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19112007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				He is not 
+				<crossref let="t" cid="c19112007.1">
+				</crossref>
+				afraid of bad news;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his 
+				<crossref let="u" cid="c19112007.2">
+				</crossref>
+				heart is firm, 
+				<crossref let="v" cid="c19112007.3">
+				</crossref>
+				trusting in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19112008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				His heart is steady; he will not be afraid,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				until he looks in triumph on his adversaries.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19112009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				He has 
+				<crossref let="w" cid="c19112009.1">
+				</crossref>
+				distributed freely; he has given to the poor;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his righteousness endures forever;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his 
+				<crossref let="x" cid="c19112009.2">
+				</crossref>
+				horn is exalted in honor.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19112010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				The wicked man sees it and is angry;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="y" cid="c19112010.1">
+				</crossref>
+				gnashes his teeth and 
+				<crossref let="z" cid="c19112010.2">
+				</crossref>
+				melts away;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c19112010.3">
+				</crossref>
+				the desire of the wicked will perish!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

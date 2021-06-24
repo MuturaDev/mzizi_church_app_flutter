@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ezekiel" num="25">
+		<marker class="begin-verse" mid="v26031001">
+		</marker>
+		<chapter num="31">
+			<heading
+				>
+				Pharaoh to Be Slain
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="t" cid="c26031001.1">
+				</crossref>
+				In the eleventh year, in the third month, on the first day of the month, the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me:
+			</verse>
+			<marker class="begin-verse" mid="v26031002">
+			</marker>
+			<verse num="2">
+				<crossref let="u" cid="c26031002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Son of man, say to Pharaoh king of Egypt and to 
+				<crossref let="v" cid="c26031002.2">
+				</crossref>
+				his multitude:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c26031002.3">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Whom are you like in your greatness?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26031003">
+			</marker>
+			<verse num="3">
+				<begin-line class="indent">
+				</begin-line>
+				Behold, 
+				<crossref let="x" cid="c26031003.1">
+				</crossref>
+				Assyria was a 
+				<crossref let="y" cid="c26031003.2">
+				</crossref>
+				cedar in 
+				<crossref let="z" cid="c26031003.3">
+				</crossref>
+				Lebanon,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				with beautiful branches and 
+				<crossref let="a" cid="c26031003.4">
+				</crossref>
+				forest shade,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c26031003.5">
+				</crossref>
+				and of towering height,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				its top among the clouds.
+				<note nid="n26031003.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26031004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				The waters nourished it;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the deep made it grow tall,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				making 
+				<crossref let="c" cid="c26031004.1">
+				</crossref>
+				its rivers flow
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				around the place of its planting,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				sending forth its streams
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to all the trees of the field.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26031005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				So 
+				<crossref let="d" cid="c26031005.1">
+				</crossref>
+				it towered high
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				above all the trees of the field;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				its boughs grew large
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and its branches long
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from 
+				<crossref let="e" cid="c26031005.2">
+				</crossref>
+				abundant water in its shoots.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26031006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c26031006.1">
+				</crossref>
+				All the birds of the heavens
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				made their nests in its boughs;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				under its branches all the beasts of the field
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				gave birth to their young,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and under its shadow
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				lived all great nations.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26031007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				It was 
+				<crossref let="g" cid="c26031007.1">
+				</crossref>
+				beautiful in its greatness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the length of its branches;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c26031007.2">
+				</crossref>
+				for its roots went down
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to abundant waters.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26031008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c26031008.1">
+				</crossref>
+				The cedars 
+				<crossref let="i" cid="c26031008.2">
+				</crossref>
+				in the garden of God could not rival it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor the fir trees equal its boughs;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				neither were the plane trees
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like its branches;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				no tree 
+				<crossref let="i" cid="c26031008.3">
+				</crossref>
+				in the garden of God
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				was its equal in beauty.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26031009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				I made it beautiful
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the mass of its branches,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and all the trees of 
+				<crossref let="j" cid="c26031009.1">
+				</crossref>
+				Eden envied it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that were in the garden of God.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v26031010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Therefore thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				: Because 
+				<crossref let="k" cid="c26031010.1">
+				</crossref>
+				it
+				<note nid="n26031010.1">
+				</note>
+				 towered high and set its top among the clouds, and 
+				<crossref let="l" cid="c26031010.2">
+				</crossref>
+				its heart was proud of its height,
+			</verse>
+			<marker class="begin-verse" mid="v26031011">
+			</marker>
+			<verse num="11">
+				I will give it into the hand of a mighty one of the nations. He shall surely deal with it as its wickedness deserves. I have cast it out.
+			</verse>
+			<marker class="begin-verse" mid="v26031012">
+			</marker>
+			<verse num="12">
+				<crossref let="m" cid="c26031012.1">
+				</crossref>
+				Foreigners, 
+				<crossref let="m" cid="c26031012.2">
+				</crossref>
+				the most ruthless of nations, have cut it down and left it. 
+				<crossref let="n" cid="c26031012.3">
+				</crossref>
+				On the mountains and in all the valleys its branches have fallen, and its boughs have been broken in all 
+				<crossref let="o" cid="c26031012.4">
+				</crossref>
+				the ravines of the land, and 
+				<crossref let="p" cid="c26031012.5">
+				</crossref>
+				all the peoples of the earth have gone away from its shadow and left it.
+			</verse>
+			<marker class="begin-verse" mid="v26031013">
+			</marker>
+			<verse num="13">
+				<crossref let="q" cid="c26031013.1">
+				</crossref>
+				On its fallen trunk dwell all the birds of the heavens, and on its branches are all the beasts of the field.
+			</verse>
+			<marker class="begin-verse" mid="v26031014">
+			</marker>
+			<verse num="14">
+				<crossref let="r" cid="c26031014.1">
+				</crossref>
+				All this is in order that no trees by the waters may grow to towering height or set their tops among the clouds, and that no trees that drink water may reach up to them in height. For they are all given over to death, 
+				<crossref let="s" cid="c26031014.2">
+				</crossref>
+				to the world 
+				<crossref let="t" cid="c26031014.3">
+				</crossref>
+				below, among the children of man,
+				<note nid="n26031014.1">
+				</note>
+				 with those who go down to the pit.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26031015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				: On the day 
+				<crossref let="u" cid="c26031015.1">
+				</crossref>
+				the cedar
+				<note nid="n26031015.1">
+				</note>
+				 went down to Sheol I caused mourning; I closed the deep over it, and restrained its rivers, and many waters were stopped. I clothed Lebanon in gloom for it, and all the trees of the field fainted because of it.
+			</verse>
+			<marker class="begin-verse" mid="v26031016">
+			</marker>
+			<verse num="16">
+				<crossref let="v" cid="c26031016.1">
+				</crossref>
+				I made the nations quake at the sound of its fall, 
+				<crossref let="u" cid="c26031016.2">
+				</crossref>
+				when I cast it down to Sheol with those who go down to the pit. 
+				<crossref let="w" cid="c26031016.3">
+				</crossref>
+				And all the trees of Eden, the choice and best of Lebanon, all that drink water, 
+				<crossref let="x" cid="c26031016.4">
+				</crossref>
+				were comforted in the world below.
+			</verse>
+			<marker class="begin-verse" mid="v26031017">
+			</marker>
+			<verse num="17">
+				They also went down to Sheol with it, 
+				<crossref let="y" cid="c26031017.1">
+				</crossref>
+				to those who are slain by the sword; yes, 
+				<crossref let="z" cid="c26031017.2">
+				</crossref>
+				those who were its arm, 
+				<crossref let="a" cid="c26031017.3">
+				</crossref>
+				who lived under its shadow among the nations.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26031018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				<crossref let="b" cid="c26031018.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Whom are you thus like in glory and in greatness 
+				<crossref let="w" cid="c26031018.2">
+				</crossref>
+				among the trees of Eden? 
+				<crossref let="c" cid="c26031018.3">
+				</crossref>
+				You shall be brought down with 
+				<crossref let="w" cid="c26031018.4">
+				</crossref>
+				the trees of Eden to the world below. 
+				<crossref let="d" cid="c26031018.5">
+				</crossref>
+				You shall lie among the uncircumcised, 
+				<crossref let="y" cid="c26031018.6">
+				</crossref>
+				with those who are slain by the sword.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				<crossref let="b" cid="c26031018.7">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				This is Pharaoh and all his multitude, declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

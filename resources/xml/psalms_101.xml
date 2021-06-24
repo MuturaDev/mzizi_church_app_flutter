@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19101001">
+		</marker>
+		<chapter num="101">
+			<heading
+				>
+				I Will Walk with Integrity
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				I will sing of 
+				<crossref let="c" cid="c19101001.1">
+				</crossref>
+				steadfast love and justice;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, I will make music.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19101002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				I will 
+				<crossref let="d" cid="c19101002.1">
+				</crossref>
+				ponder the way 
+				<crossref let="e" cid="c19101002.2">
+				</crossref>
+				that is blameless.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Oh when will you 
+				<crossref let="f" cid="c19101002.3">
+				</crossref>
+				come to me?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I will 
+				<crossref let="g" cid="c19101002.4">
+				</crossref>
+				walk with 
+				<crossref let="h" cid="c19101002.5">
+				</crossref>
+				integrity of heart
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				within my house;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19101003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				I will not set before my eyes
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				anything 
+				<crossref let="i" cid="c19101003.1">
+				</crossref>
+				that is worthless.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I hate the work of those who 
+				<crossref let="j" cid="c19101003.2">
+				</crossref>
+				fall away;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it shall not cling to me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19101004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c19101004.1">
+				</crossref>
+				A perverse heart shall be far from me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will 
+				<crossref let="l" cid="c19101004.2">
+				</crossref>
+				know nothing of evil.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19101005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Whoever slanders his neighbor 
+				<crossref let="m" cid="c19101005.1">
+				</crossref>
+				secretly
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will 
+				<crossref let="n" cid="c19101005.2">
+				</crossref>
+				destroy.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Whoever has a 
+				<crossref let="o" cid="c19101005.3">
+				</crossref>
+				haughty look and an 
+				<crossref let="p" cid="c19101005.4">
+				</crossref>
+				arrogant heart
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will not endure.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19101006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				I will look with favor on the faithful in the land,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that they may dwell with me;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				he who walks in 
+				<crossref let="q" cid="c19101006.1">
+				</crossref>
+				the way that is blameless
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall minister to me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19101007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				No one who 
+				<crossref let="r" cid="c19101007.1">
+				</crossref>
+				practices deceit
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall dwell in my house;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				no one who utters lies
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall 
+				<crossref let="s" cid="c19101007.2">
+				</crossref>
+				continue before my eyes.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19101008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c19101008.1">
+				</crossref>
+				Morning by morning I will destroy
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all the wicked in the land,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19101008.2">
+				</crossref>
+				cutting off all 
+				<crossref let="v" cid="c19101008.3">
+				</crossref>
+				the evildoers
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from 
+				<crossref let="w" cid="c19101008.4">
+				</crossref>
+				the city of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

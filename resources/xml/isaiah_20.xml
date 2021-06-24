@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23020001">
+		</marker>
+		<chapter num="20">
+			<heading
+				>
+				A Sign Against Egypt and Cush
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				In the year that 
+				<crossref let="l" cid="c23020001.1">
+				</crossref>
+				the commander in chief, who was sent by Sargon the king of Assyria, came to 
+				<crossref let="m" cid="c23020001.2">
+				</crossref>
+				Ashdod and fought against it and captured itù
+			</verse>
+			<marker class="begin-verse" mid="v23020002">
+			</marker>
+			<verse num="2">
+				at that time the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke by Isaiah the son of Amoz, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go, and loose the sackcloth from your waist and take off your sandals from your feet,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 and he did so, walking 
+				<crossref let="n" cid="c23020002.1">
+				</crossref>
+				naked and barefoot.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23020003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As my servant Isaiah has walked naked and barefoot for three years 
+				<crossref let="o" cid="c23020003.1">
+				</crossref>
+				as a sign and a portent against Egypt and Cush,
+				<note nid="n23020003.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v23020004">
+			</marker>
+			<verse num="4">
+				so shall the 
+				<crossref let="p" cid="c23020004.1">
+				</crossref>
+				king of Assyria lead away the Egyptian captives and the Cushite exiles, both the young and the old, naked and barefoot, with buttocks uncovered, the nakedness of Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v23020005">
+			</marker>
+			<verse num="5">
+				<crossref let="q" cid="c23020005.1">
+				</crossref>
+				Then they shall be dismayed and ashamed because of Cush their hope and of Egypt their boast.
+			</verse>
+			<marker class="begin-verse" mid="v23020006">
+			</marker>
+			<verse num="6">
+				And the inhabitants of 
+				<crossref let="r" cid="c23020006.1">
+				</crossref>
+				this coastland will say in that day, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Behold, this is what has happened to those in whom we hoped and 
+				<crossref let="s" cid="c23020006.2">
+				</crossref>
+				to whom we fled for help to be delivered from the king of Assyria! And we, how shall we escape?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

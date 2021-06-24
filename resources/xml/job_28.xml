@@ -1,0 +1,604 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18028001">
+		</marker>
+		<chapter num="28">
+			<heading
+				>
+				Job Continues: Where Is Wisdom?
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Surely there is a mine for silver,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a place for gold that they 
+				<crossref let="y" cid="c18028001.1">
+				</crossref>
+				refine.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Iron is taken out of the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and copper is smelted from the ore.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Man puts an end to darkness
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and searches out to the farthest limit
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the ore in 
+				<crossref let="z" cid="c18028003.1">
+				</crossref>
+				gloom and 
+				<crossref let="a" cid="c18028003.2">
+				</crossref>
+				deep darkness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				He opens shafts in a valley away from where anyone lives;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they are forgotten by travelers;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they hang in the air, far away from mankind; they swing to and fro.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				As for the earth, 
+				<crossref let="b" cid="c18028005.1">
+				</crossref>
+				out of it comes bread,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but underneath it is turned up as by fire.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Its stones are the place of 
+				<crossref let="c" cid="c18028006.1">
+				</crossref>
+				sapphires,
+				<note nid="n18028006.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and it has dust of gold.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18028007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				That path no bird of prey knows,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the falcon's eye has not seen it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c18028008.1">
+				</crossref>
+				The proud beasts have not trodden it;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c18028008.2">
+				</crossref>
+				the lion has not passed over it.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18028009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Man puts his hand to 
+				<crossref let="f" cid="c18028009.1">
+				</crossref>
+				the flinty rock
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and overturns mountains by the roots.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				He cuts out channels in the rocks,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his eye sees every precious thing.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				He dams up the streams so that they do not trickle,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the thing that is hidden he brings out to light.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18028012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c18028012.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				But where shall wisdom be found?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				And where is the place of understanding?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				Man does not know its worth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and it is not found in 
+				<crossref let="h" cid="c18028013.1">
+				</crossref>
+				the land of the living.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c18028014.1">
+				</crossref>
+				The deep says, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				It is not in me,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the sea says, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				It is not with me.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				It 
+				<crossref let="j" cid="c18028015.1">
+				</crossref>
+				cannot be bought for gold,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and silver cannot be weighed as its price.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				It cannot be valued in 
+				<crossref let="k" cid="c18028016.1">
+				</crossref>
+				the gold of 
+				<crossref let="l" cid="c18028016.2">
+				</crossref>
+				Ophir,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in precious 
+				<crossref let="m" cid="c18028016.3">
+				</crossref>
+				onyx or 
+				<crossref let="n" cid="c18028016.4">
+				</crossref>
+				sapphire.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				Gold and glass cannot equal it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor can it be exchanged for jewels of fine gold.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				No mention shall be made of 
+				<crossref let="o" cid="c18028018.1">
+				</crossref>
+				coral or of crystal;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the price of wisdom is above 
+				<crossrefs
+					>
+					<crossref let="o" cid="c18028018.2">
+					</crossref>
+					<crossref let="p" cid="c18028018.3">
+					</crossref>
+				</crossrefs>
+				pearls.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c18028019.1">
+				</crossref>
+				The topaz of Ethiopia cannot equal it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor can it be valued in pure gold.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18028020">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				From where, then, does wisdom come?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				And where is the place of understanding?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				It is hidden from the eyes of 
+				<crossref let="r" cid="c18028021.1">
+				</crossref>
+				all living
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and concealed from the birds of the air.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c18028022.1">
+				</crossref>
+				Abaddon and Death say,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				We have heard a rumor of it with our ears.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18028023">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c18028023.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				God understands the way to it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he knows its place.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				For he 
+				<crossref let="u" cid="c18028024.1">
+				</crossref>
+				looks to the ends of the earth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and sees everything under the heavens.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				When he 
+				<crossref let="v" cid="c18028025.1">
+				</crossref>
+				gave to the wind its weight
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and apportioned the waters by measure,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				when he made a decree for the rain
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="w" cid="c18028026.1">
+				</crossref>
+				a way for the lightning of the thunder,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				then he saw it and declared it;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he established it, and searched it out.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18028028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				And he said to man,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Behold, 
+				<crossref let="x" cid="c18028028.1">
+				</crossref>
+				the fear of the Lord, that is wisdom,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and to 
+				<crossref let="y" cid="c18028028.2">
+				</crossref>
+				turn away from evil is understanding.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

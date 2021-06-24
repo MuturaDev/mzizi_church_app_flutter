@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19019001">
+		</marker>
+		<chapter num="19">
+			<heading
+				>
+				The Law of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Is Perfect
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19019001.1">
+				</crossref>
+				The heavens declare the glory of God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the sky above
+				<note nid="n19019001.1">
+				</note>
+				 proclaims his handiwork.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19019002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Day to day pours out speech,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and night to night reveals knowledge.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19019003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				There is no speech, nor are there words,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				whose voice is not heard.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19019004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c19019004.1">
+				</crossref>
+				Their 
+				<crossref let="k" cid="c19019004.2">
+				</crossref>
+				voice
+				<note nid="n19019004.1">
+				</note>
+				 goes out through all the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and their words to the end of the world.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				In them he has set a tent for 
+				<crossref let="l" cid="c19019004.3">
+				</crossref>
+				the sun,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19019005">
+			</marker>
+			<verse num="5">
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c19019005.1">
+				</crossref>
+				which comes out like 
+				<crossref let="n" cid="c19019005.2">
+				</crossref>
+				a bridegroom leaving his chamber,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and, like a strong man, runs its course with joy.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19019006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Its rising is from the end of the heavens,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and its circuit to the end of them,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and there is nothing hidden from its heat.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19019007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c19019007.1">
+				</crossref>
+				The law of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is perfect,
+				<note nid="n19019007.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="p" cid="c19019007.2">
+				</crossref>
+				reviving the soul;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c19019007.3">
+				</crossref>
+				the testimony of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is 
+				<crossref let="r" cid="c19019007.4">
+				</crossref>
+				sure,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c19019007.5">
+				</crossref>
+				making wise 
+				<crossref let="t" cid="c19019007.6">
+				</crossref>
+				the simple;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19019008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19019008.1">
+				</crossref>
+				the precepts of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 are right,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				rejoicing the heart;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				the commandment of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is 
+				<crossref let="v" cid="c19019008.2">
+				</crossref>
+				pure,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c19019008.3">
+				</crossref>
+				enlightening the eyes;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19019009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				the fear of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is clean,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				enduring forever;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				the rules
+				<note nid="n19019009.1">
+				</note>
+				 of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 are 
+				<crossref let="x" cid="c19019009.1">
+				</crossref>
+				true,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and righteous altogether.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19019010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				More to be desired are they than 
+				<crossref let="y" cid="c19019010.1">
+				</crossref>
+				gold,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				even much 
+				<crossref let="z" cid="c19019010.2">
+				</crossref>
+				fine gold;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19019010.3">
+				</crossref>
+				sweeter also than honey
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and drippings of 
+				<crossref let="b" cid="c19019010.4">
+				</crossref>
+				the honeycomb.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19019011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Moreover, by them is your servant warned;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c19019011.1">
+				</crossref>
+				in keeping them there is great reward.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19019012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c19019012.1">
+				</crossref>
+				Who can discern his errors?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c19019012.2">
+				</crossref>
+				Declare me innocent from 
+				<crossref let="f" cid="c19019012.3">
+				</crossref>
+				hidden faults.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19019013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c19019013.1">
+				</crossref>
+				Keep back your servant also from 
+				<crossref let="h" cid="c19019013.2">
+				</crossref>
+				presumptuous sins;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let them not have 
+				<crossref let="i" cid="c19019013.3">
+				</crossref>
+				dominion over me!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Then I shall be blameless,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and innocent of great transgression.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19019014">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				Let the words of my mouth and the meditation of my heart
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				be acceptable in your sight,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, my 
+				<crossref let="j" cid="c19019014.1">
+				</crossref>
+				rock and my 
+				<crossref let="k" cid="c19019014.2">
+				</crossref>
+				redeemer.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

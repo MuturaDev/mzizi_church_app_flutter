@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01020001">
+		</marker>
+		<chapter num="20">
+			<heading
+				>
+				Abraham and Abimelech
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				From there Abraham journeyed toward the territory of the Negeb and lived between 
+				<crossref let="p" cid="c01020001.1">
+				</crossref>
+				Kadesh and Shur; and he 
+				<crossref let="q" cid="c01020001.2">
+				</crossref>
+				sojourned in 
+				<crossref let="r" cid="c01020001.3">
+				</crossref>
+				Gerar.
+			</verse>
+			<marker class="begin-verse" mid="v01020002">
+			</marker>
+			<verse num="2">
+				And Abraham said of Sarah his wife, 
+				<crossref let="s" cid="c01020002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				She is my sister.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Abimelech king of Gerar sent and took Sarah.
+			</verse>
+			<marker class="begin-verse" mid="v01020003">
+			</marker>
+			<verse num="3">
+				<crossref let="t" cid="c01020003.1">
+				</crossref>
+				But God came to Abimelech 
+				<crossref let="u" cid="c01020003.2">
+				</crossref>
+				in a dream by night and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, you are a dead man because of the woman whom you have taken, for she is a man's wife.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01020004">
+			</marker>
+			<verse num="4">
+				Now Abimelech had not approached her. So he said, 
+				<crossref let="v" cid="c01020004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, will you kill an innocent people?
+			</verse>
+			<marker class="begin-verse" mid="v01020005">
+			</marker>
+			<verse num="5">
+				Did he not himself say to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				She is my sister
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				? And she herself said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				He is my brother.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 In the integrity of my heart and the innocence of my hands I have done this.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01020006">
+			</marker>
+			<verse num="6">
+				Then God said to him in the dream, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Yes, I know that you have done this in the integrity of your heart, and it was I who kept you from sinning 
+				<crossref let="w" cid="c01020006.1">
+				</crossref>
+				against me. Therefore I did not let you touch her.
+			</verse>
+			<marker class="begin-verse" mid="v01020007">
+			</marker>
+			<verse num="7">
+				Now then, return the man's wife, 
+				<crossref let="x" cid="c01020007.1">
+				</crossref>
+				for he is a prophet, so that he will pray for you, and you shall live. But if you do not return her, know that you shall surely die, you 
+				<crossref let="y" cid="c01020007.2">
+				</crossref>
+				and all who are yours.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01020008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				So Abimelech rose early in the morning and called all his servants and told them all these things. And the men were very much afraid.
+			</verse>
+			<marker class="begin-verse" mid="v01020009">
+			</marker>
+			<verse num="9">
+				Then Abimelech called Abraham and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What have you done to us? And how have I sinned against you, that you have brought on me and my kingdom a great sin? You have done to me things that ought not to be done.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01020010">
+			</marker>
+			<verse num="10">
+				And Abimelech said to Abraham, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What did you see, that you did this thing?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01020011">
+			</marker>
+			<verse num="11">
+				Abraham said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I did it because I thought, 
+				<crossref let="z" cid="c01020011.1">
+				</crossref>
+				There is no fear of God at all in this place, and 
+				<crossref let="a" cid="c01020011.2">
+				</crossref>
+				they will kill me because of my wife.
+			</verse>
+			<marker class="begin-verse" mid="v01020012">
+			</marker>
+			<verse num="12">
+				Besides, 
+				<crossref let="b" cid="c01020012.1">
+				</crossref>
+				she is indeed my sister, the daughter of my father though not the daughter of my mother, and she became my wife.
+			</verse>
+			<marker class="begin-verse" mid="v01020013">
+			</marker>
+			<verse num="13">
+				And when 
+				<crossref let="c" cid="c01020013.1">
+				</crossref>
+				God caused me to wander from my father's house, I said to her, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				This is the kindness you must do me: at every place to which we come, 
+				<crossref let="d" cid="c01020013.2">
+				</crossref>
+				say of me, He is my brother.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01020014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				Then Abimelech 
+				<crossref let="e" cid="c01020014.1">
+				</crossref>
+				took sheep and oxen, and male servants and female servants, and gave them to Abraham, and returned Sarah his wife to him.
+			</verse>
+			<marker class="begin-verse" mid="v01020015">
+			</marker>
+			<verse num="15">
+				And Abimelech said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, 
+				<crossref let="f" cid="c01020015.1">
+				</crossref>
+				my land is before you; dwell where it pleases you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01020016">
+			</marker>
+			<verse num="16">
+				To Sarah he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I have given 
+				<crossref let="g" cid="c01020016.1">
+				</crossref>
+				your brother a thousand pieces of silver. It is 
+				<crossref let="h" cid="c01020016.2">
+				</crossref>
+				a sign of your innocence in the eyes of all
+				<note nid="n01020016.1">
+				</note>
+				 who are with you, and before everyone you are vindicated.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01020017">
+			</marker>
+			<verse num="17">
+				Then 
+				<crossref let="i" cid="c01020017.1">
+				</crossref>
+				Abraham prayed to God, and God healed Abimelech, and also healed his wife and female slaves so that they bore children.
+			</verse>
+			<marker class="begin-verse" mid="v01020018">
+			</marker>
+			<verse num="18">
+				For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="j" cid="c01020018.1">
+				</crossref>
+				had closed all the wombs of the house of Abimelech because of Sarah, Abraham's wife.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

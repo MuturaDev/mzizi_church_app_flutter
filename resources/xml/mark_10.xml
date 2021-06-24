@@ -1,0 +1,892 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Mark" num="40">
+		<marker class="begin-verse" mid="v41010001">
+		</marker>
+		<chapter num="10">
+			<heading
+				>
+				Teaching About Divorce
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="z" cid="c41010001.1">
+				</crossref>
+				<crossref cid="t41010001.1">
+				</crossref>
+				And he left there and went 
+				<crossref let="a" cid="c41010001.2">
+				</crossref>
+				to the region of Judea and beyond the Jordan, and crowds gathered to him again. And again, as was his custom, he taught them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41010002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				And Pharisees came up and in order 
+				<crossref let="b" cid="c41010002.1">
+				</crossref>
+				to test him asked, 
+				<crossref let="c" cid="c41010002.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is it lawful for a man to divorce his wife?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41010003">
+			</marker>
+			<verse num="3">
+				He answered them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What did Moses command you?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010004">
+			</marker>
+			<verse num="4">
+				They said, 
+				<crossref let="d" cid="c41010004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Moses allowed a man to write a certificate of divorce and to send her away.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41010005">
+			</marker>
+			<verse num="5">
+				And Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Because of your 
+					<crossref let="e" cid="c41010005.1">
+					</crossref>
+					hardness of heart he wrote you this commandment.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010006">
+			</marker>
+			<verse num="6" class="woc">
+				<woc
+					>
+					But 
+					<crossref let="f" cid="c41010006.1">
+					</crossref>
+					from the beginning of creation, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					God made them 
+					<crossref let="g" cid="c41010006.2">
+					</crossref>
+					<crossref cid="t41010006.1">
+					</crossref>
+					male and female.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010007">
+			</marker>
+			<verse num="7" class="woc">
+				<woc
+					>
+					<crossref let="h" cid="c41010007.1">
+					</crossref>
+					<crossref cid="t41010007.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Therefore a man shall leave his father and mother and hold fast to his wife,
+					<note nid="n41010007.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010008">
+			</marker>
+			<verse num="8" class="woc">
+				<woc
+					>
+					and 
+					<crossref let="i" cid="c41010008.1">
+					</crossref>
+					the two shall become one flesh.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 So they are no longer two but one flesh.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010009">
+			</marker>
+			<verse num="9" class="woc">
+				<woc
+					>
+					<crossref let="j" cid="c41010009.1">
+					</crossref>
+					What therefore God has joined together, let not man separate.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41010010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				And in the house the disciples asked him again about this matter.
+			</verse>
+			<marker class="begin-verse" mid="v41010011">
+			</marker>
+			<verse num="11">
+				And he said to them, 
+				<woc
+					>
+					<crossref let="k" cid="c41010011.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Whoever divorces his wife and marries another commits adultery against her,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc
+					>
+					and 
+					<crossref let="l" cid="c41010012.1">
+					</crossref>
+					if she divorces her husband and marries another, she commits adultery.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41010013">
+			</marker>
+			<heading
+				>
+				Let the Children Come to Me
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				<crossref let="m" cid="c41010013.1">
+				</crossref>
+				<crossref cid="t41010013.1">
+				</crossref>
+				And they were bringing children to him that he might touch them, and the disciples 
+				<crossref let="n" cid="c41010013.2">
+				</crossref>
+				rebuked them.
+			</verse>
+			<marker class="begin-verse" mid="v41010014">
+			</marker>
+			<verse num="14">
+				But when Jesus saw it, he was indignant and said to them, 
+				<woc
+					>
+					<crossref let="o" cid="c41010014.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Let the children come to me; 
+					<crossref let="p" cid="c41010014.2">
+					</crossref>
+					do not hinder them, for to such belongs the kingdom of God.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010015">
+			</marker>
+			<verse num="15" class="woc">
+				<woc
+					>
+					<crossref let="q" cid="c41010015.1">
+					</crossref>
+					Truly, I say to you, whoever does not 
+					<crossref let="r" cid="c41010015.2">
+					</crossref>
+					receive the kingdom of God like a child shall not enter it.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010016">
+			</marker>
+			<verse num="16">
+				And 
+				<crossref let="s" cid="c41010016.1">
+				</crossref>
+				he took them in his arms and blessed them, 
+				<crossref let="t" cid="c41010016.2">
+				</crossref>
+				laying his hands on them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41010017">
+			</marker>
+			<heading
+				>
+				The Rich Young Man
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				<crossref let="u" cid="c41010017.1">
+				</crossref>
+				<crossref cid="t41010017.1">
+				</crossref>
+				And as he was setting out on his journey, a man ran up and 
+				<crossref let="v" cid="c41010017.2">
+				</crossref>
+				knelt before him and asked him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Good Teacher, what must I do to 
+				<crossref let="w" cid="c41010017.3">
+				</crossref>
+				inherit eternal life?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41010018">
+			</marker>
+			<verse num="18">
+				And Jesus said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Why do you call me good? No one is good except God alone.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					You know the commandments: 
+					<crossref let="x" cid="c41010019.1">
+					</crossref>
+					<crossref cid="t41010019.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Do not murder, Do not commit adultery, Do not steal, Do not bear false witness, Do not defraud, Honor your father and mother.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010020">
+			</marker>
+			<verse num="20">
+				And he said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Teacher, 
+				<crossref let="y" cid="c41010020.1">
+				</crossref>
+				all these I have kept from my youth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41010021">
+			</marker>
+			<verse num="21">
+				And Jesus, 
+				<crossref let="z" cid="c41010021.1">
+				</crossref>
+				looking at him, 
+				<crossref let="a" cid="c41010021.2">
+				</crossref>
+				loved him, and said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You lack one thing: go, 
+					<crossref let="b" cid="c41010021.3">
+					</crossref>
+					sell all that you have and give to the poor, and you will have 
+					<crossref let="c" cid="c41010021.4">
+					</crossref>
+					treasure in heaven; and come, follow me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010022">
+			</marker>
+			<verse num="22">
+				<crossref let="d" cid="c41010022.1">
+				</crossref>
+				Disheartened by the saying, he went away sorrowful, for he had great possessions.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41010023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				And Jesus 
+				<crossref let="e" cid="c41010023.1">
+				</crossref>
+				looked around and said to his disciples, 
+				<woc
+					>
+					<crossref let="f" cid="c41010023.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					How difficult it will be for those who have wealth to enter 
+					<crossref let="g" cid="c41010023.3">
+					</crossref>
+					the kingdom of God!
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010024">
+			</marker>
+			<verse num="24">
+				And the disciples 
+				<crossref let="h" cid="c41010024.1">
+				</crossref>
+				were amazed at his words. But Jesus said to them again, 
+				<woc
+					>
+					<crossref let="i" cid="c41010024.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Children, 
+					<crossref let="j" cid="c41010024.3">
+					</crossref>
+					how difficult it is
+					<note nid="n41010024.1">
+					</note>
+					 to enter 
+					<crossref let="g" cid="c41010024.4">
+					</crossref>
+					the kingdom of God!
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010025">
+			</marker>
+			<verse num="25" class="woc">
+				<woc
+					>
+					It is easier for a camel to go through the eye of a needle than for a rich person to enter 
+					<crossref let="g" cid="c41010025.1">
+					</crossref>
+					the kingdom of God.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010026">
+			</marker>
+			<verse num="26">
+				And they were exceedingly astonished, and said to him,
+				<note nid="n41010026.1">
+				</note>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Then who can be saved?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41010027">
+			</marker>
+			<verse num="27">
+				Jesus 
+				<crossref let="k" cid="c41010027.1">
+				</crossref>
+				looked at them and said, 
+				<woc
+					>
+					<crossref let="l" cid="c41010027.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					With man it is impossible, but not with God. For all things are possible with God.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010028">
+			</marker>
+			<verse num="28">
+				Peter began to say to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See, 
+				<crossref let="m" cid="c41010028.1">
+				</crossref>
+				we have left everything and followed you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41010029">
+			</marker>
+			<verse num="29">
+				Jesus said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Truly, I say to you, 
+					<crossref let="n" cid="c41010029.1">
+					</crossref>
+					there is no one who has left house or brothers or sisters or mother or father or children or lands, for my sake and 
+					<crossref let="o" cid="c41010029.2">
+					</crossref>
+					for the gospel,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010030">
+			</marker>
+			<verse num="30" class="woc">
+				<woc
+					>
+					who will not receive a hundredfold 
+					<crossref let="p" cid="c41010030.1">
+					</crossref>
+					now in this time, houses and brothers and sisters and mothers and children and lands, 
+					<crossref let="q" cid="c41010030.2">
+					</crossref>
+					with persecutions, and in 
+					<crossref let="r" cid="c41010030.3">
+					</crossref>
+					the age to come eternal life.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010031">
+			</marker>
+			<verse num="31" class="woc">
+				<woc
+					>
+					But 
+					<crossref let="s" cid="c41010031.1">
+					</crossref>
+					many who are first will be last, and the last first.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41010032">
+			</marker>
+			<heading
+				>
+				Jesus Foretells His Death a Third Time
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="32">
+				<crossref let="t" cid="c41010032.1">
+				</crossref>
+				<crossref cid="t41010032.1">
+				</crossref>
+				And they were on the road, going up to Jerusalem, and 
+				<crossref let="u" cid="c41010032.2">
+				</crossref>
+				Jesus was walking ahead of them. And 
+				<crossref let="v" cid="c41010032.3">
+				</crossref>
+				they were amazed, and those who followed were afraid. And taking the twelve again, he began to tell them what was to happen to him,
+			</verse>
+			<marker class="begin-verse" mid="v41010033">
+			</marker>
+			<verse num="33">
+				saying, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					See, 
+					<crossref let="w" cid="c41010033.1">
+					</crossref>
+					we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the scribes, and they will 
+					<crossref let="x" cid="c41010033.2">
+					</crossref>
+					condemn him to death and 
+					<crossref let="y" cid="c41010033.3">
+					</crossref>
+					deliver him over to the Gentiles.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010034">
+			</marker>
+			<verse num="34" class="woc">
+				<woc
+					>
+					And they will 
+					<crossref let="z" cid="c41010034.1">
+					</crossref>
+					mock him and 
+					<crossref let="a" cid="c41010034.2">
+					</crossref>
+					spit on him, and flog him and kill him. And 
+					<crossref let="b" cid="c41010034.3">
+					</crossref>
+					after three days he will rise.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41010035">
+			</marker>
+			<heading
+				>
+				The Request of James and John
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="35">
+				<crossref let="c" cid="c41010035.1">
+				</crossref>
+				<crossref cid="t41010035.1">
+				</crossref>
+				And James and John, 
+				<crossref let="d" cid="c41010035.2">
+				</crossref>
+				the sons of Zebedee, came up to him and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Teacher, we want you to do for us 
+				<crossref let="e" cid="c41010035.3">
+				</crossref>
+				whatever we ask of you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41010036">
+			</marker>
+			<verse num="36">
+				And he said to them, 
+				<woc
+					>
+					<crossref let="f" cid="c41010036.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What do you want me to do for you?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010037">
+			</marker>
+			<verse num="37">
+				And they said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Grant us 
+				<crossref let="g" cid="c41010037.1">
+				</crossref>
+				to sit, one at your right hand and one at your left, 
+				<crossref let="h" cid="c41010037.2">
+				</crossref>
+				in your glory.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41010038">
+			</marker>
+			<verse num="38">
+				Jesus said to them, 
+				<woc
+					>
+					<crossref let="i" cid="c41010038.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You do not know what you are asking. Are you able 
+					<crossref let="j" cid="c41010038.2">
+					</crossref>
+					to drink the cup that I drink, or 
+					<crossref let="k" cid="c41010038.3">
+					</crossref>
+					to be baptized with the baptism with which I am baptized?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010039">
+			</marker>
+			<verse num="39">
+				And they said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We are able.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Jesus said to them, 
+				<woc
+					>
+					<crossref let="l" cid="c41010039.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					The cup that I drink 
+					<crossref let="m" cid="c41010039.2">
+					</crossref>
+					you will drink, and with the baptism with which I am baptized, 
+					<crossref let="n" cid="c41010039.3">
+					</crossref>
+					you will be baptized,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010040">
+			</marker>
+			<verse num="40" class="woc">
+				<woc
+					>
+					but to sit at my right hand or at my left is not mine to grant, 
+					<crossref let="o" cid="c41010040.1">
+					</crossref>
+					but it is for those for whom it has been 
+					<crossref let="p" cid="c41010040.2">
+					</crossref>
+					prepared.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010041">
+			</marker>
+			<verse num="41">
+				And when the ten heard it, they began to be indignant at James and John.
+			</verse>
+			<marker class="begin-verse" mid="v41010042">
+			</marker>
+			<verse num="42">
+				<crossref let="q" cid="c41010042.1">
+				</crossref>
+				And Jesus called them to him and said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You know that those who are considered rulers of the Gentiles 
+					<crossref let="r" cid="c41010042.2">
+					</crossref>
+					lord it over them, and their great ones exercise authority over them.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010043">
+			</marker>
+			<verse num="43" class="woc">
+				<woc
+					>
+					But 
+					<crossref let="s" cid="c41010043.1">
+					</crossref>
+					it shall not be so among you. But whoever would be great among you must be your servant,
+					<note nid="n41010043.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010044">
+			</marker>
+			<verse num="44" class="woc">
+				<woc
+					>
+					and whoever would be first among you must be 
+					<crossref let="t" cid="c41010044.1">
+					</crossref>
+					slave
+					<note nid="n41010044.1">
+					</note>
+					 of all.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41010045">
+			</marker>
+			<verse num="45" class="woc">
+				<woc
+					>
+					For even the Son of Man came not to be served but 
+					<crossref let="u" cid="c41010045.1">
+					</crossref>
+					to serve, and 
+					<crossref let="v" cid="c41010045.2">
+					</crossref>
+					to give his life as a ransom for 
+					<crossref let="w" cid="c41010045.3">
+					</crossref>
+					many.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41010046">
+			</marker>
+			<heading
+				>
+				Jesus Heals Blind Bartimaeus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="46">
+				<crossref let="x" cid="c41010046.1">
+				</crossref>
+				<crossref cid="t41010046.1">
+				</crossref>
+				And they came to Jericho. And 
+				<crossref let="y" cid="c41010046.2">
+				</crossref>
+				as he was leaving Jericho with his disciples and a great crowd, Bartimaeus, 
+				<crossref let="z" cid="c41010046.3">
+				</crossref>
+				a blind beggar, the son of Timaeus, was sitting by the roadside.
+			</verse>
+			<marker class="begin-verse" mid="v41010047">
+			</marker>
+			<verse num="47">
+				And when he heard that it was 
+				<crossref let="a" cid="c41010047.1">
+				</crossref>
+				Jesus of Nazareth, he began to cry out and say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Jesus, Son of David, have mercy on me!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41010048">
+			</marker>
+			<verse num="48">
+				And many 
+				<crossref let="b" cid="c41010048.1">
+				</crossref>
+				rebuked him, telling him to be silent. But he cried out all the more, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Son of David, have mercy on me!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41010049">
+			</marker>
+			<verse num="49">
+				And Jesus stopped and said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Call him.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And they called the blind man, saying to him, 
+				<crossref let="c" cid="c41010049.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take heart. Get up; he is calling you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41010050">
+			</marker>
+			<verse num="50">
+				And throwing off his 
+				<crossref let="d" cid="c41010050.1">
+				</crossref>
+				cloak, he sprang up and came to Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v41010051">
+			</marker>
+			<verse num="51">
+				And Jesus said to him, 
+				<woc
+					>
+					<crossref let="e" cid="c41010051.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What do you want me to do for you?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And the blind man said to him, 
+				<crossref let="f" cid="c41010051.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Rabbi, let me recover my sight.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41010052">
+			</marker>
+			<verse num="52">
+				And Jesus said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go your way; 
+					<crossref let="g" cid="c41010052.1">
+					</crossref>
+					your faith has 
+					<crossref let="h" cid="c41010052.2">
+					</crossref>
+					made you well.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And immediately he recovered his sight and followed him on the way.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

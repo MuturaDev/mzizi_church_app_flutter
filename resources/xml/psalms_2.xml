@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				The Reign of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's Anointed
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19002001.1">
+				</crossref>
+				Why do 
+				<crossref let="s" cid="c19002001.2">
+				</crossref>
+				the nations rage
+				<note nid="n19002001.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the peoples plot in vain?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19002002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				The kings of the earth set themselves,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the rulers take counsel together,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and against his 
+				<crossref let="t" cid="c19002002.1">
+				</crossref>
+				Anointed, saying,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19002003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let us 
+				<crossref let="u" cid="c19002003.1">
+				</crossref>
+				burst their bonds apart
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and cast away their cords from us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19002004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				He who 
+				<crossref let="v" cid="c19002004.1">
+				</crossref>
+				sits in the heavens 
+				<crossref let="w" cid="c19002004.2">
+				</crossref>
+				laughs;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the Lord holds them in derision.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19002005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Then he will speak to them in his 
+				<crossref let="x" cid="c19002005.1">
+				</crossref>
+				wrath,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and terrify them in his fury, saying,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19002006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As for me, I have 
+				<crossref let="y" cid="c19002006.1">
+				</crossref>
+				set my King
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on 
+				<crossref let="z" cid="c19002006.2">
+				</crossref>
+				Zion, my 
+				<crossref let="a" cid="c19002006.3">
+				</crossref>
+				holy hill.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19002007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				I will tell of the decree:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to me, 
+				<crossref let="b" cid="c19002007.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are my Son;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				today I have begotten you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19002008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Ask of me, and I will make the nations your heritage,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="c" cid="c19002008.1">
+				</crossref>
+				the ends of the earth your possession.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19002009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				You shall 
+				<crossref let="d" cid="c19002009.1">
+				</crossref>
+				break
+				<note nid="n19002009.1">
+				</note>
+				 them with 
+				<crossref let="e" cid="c19002009.2">
+				</crossref>
+				a rod of iron
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and dash them in pieces like 
+				<crossref let="f" cid="c19002009.3">
+				</crossref>
+				a potter's vessel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19002010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Now therefore, O kings, be wise;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				be warned, O rulers of the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19002011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c19002011.1">
+				</crossref>
+				Serve the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with 
+				<crossref let="h" cid="c19002011.2">
+				</crossref>
+				fear,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="i" cid="c19002011.3">
+				</crossref>
+				rejoice with 
+				<crossref let="h" cid="c19002011.4">
+				</crossref>
+				trembling.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19002012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c19002012.1">
+				</crossref>
+				Kiss 
+				<crossref let="k" cid="c19002012.2">
+				</crossref>
+				the Son,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				lest he be angry, and you perish in the way,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for his 
+				<crossref let="l" cid="c19002012.3">
+				</crossref>
+				wrath is quickly kindled.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c19002012.4">
+				</crossref>
+				Blessed are all who take refuge in him.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

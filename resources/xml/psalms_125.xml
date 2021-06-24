@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19125001">
+		</marker>
+		<chapter num="125">
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Surrounds His People
+			</heading>
+			<subheading class="psalm-title">
+				A Song of 
+				<crossref let="m" cid="c19125001.1">
+				</crossref>
+				Ascents.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Those who 
+				<crossref let="f" cid="c19125001.2">
+				</crossref>
+				trust in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 are like Mount Zion,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				which 
+				<crossref let="g" cid="c19125001.3">
+				</crossref>
+				cannot be moved, but abides forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19125002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				As the mountains surround Jerusalem,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so 
+				<crossref let="h" cid="c19125002.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 surrounds his people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from this time forth and forevermore.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19125003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="i" cid="c19125003.1">
+				</crossref>
+				the scepter of wickedness shall not 
+				<crossref let="j" cid="c19125003.2">
+				</crossref>
+				rest
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on 
+				<crossref let="k" cid="c19125003.3">
+				</crossref>
+				the land allotted to the righteous,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				lest the righteous 
+				<crossref let="l" cid="c19125003.4">
+				</crossref>
+				stretch out
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				their hands to do wrong.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19125004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c19125004.1">
+				</crossref>
+				Do good, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, to those who are good,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and to those who are 
+				<crossref let="n" cid="c19125004.2">
+				</crossref>
+				upright in their hearts!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19125005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				But those who 
+				<crossref let="o" cid="c19125005.1">
+				</crossref>
+				turn aside to their 
+				<crossref let="p" cid="c19125005.2">
+				</crossref>
+				crooked ways
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will lead away with 
+				<crossref let="q" cid="c19125005.3">
+				</crossref>
+				evildoers!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c19125005.4">
+				</crossref>
+				Peace be upon Israel!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

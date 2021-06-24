@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Jeremiah" num="24">
+		<marker class="begin-verse" mid="v24001001">
+		</marker>
+		<chapter num="1">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The words of Jeremiah, the son of Hilkiah, one 
+				<crossref let="a" cid="c24001001.1">
+				</crossref>
+				of the priests who were in 
+				<crossref let="b" cid="c24001001.2">
+				</crossref>
+				Anathoth in the land of Benjamin,
+			</verse>
+			<marker class="begin-verse" mid="v24001002">
+			</marker>
+			<verse num="2">
+				to whom the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came in the days of 
+				<crossref let="c" cid="c24001002.1">
+				</crossref>
+				Josiah the son of Amon, king of Judah, in 
+				<crossref let="d" cid="c24001002.2">
+				</crossref>
+				the thirteenth year of his reign.
+			</verse>
+			<marker class="begin-verse" mid="v24001003">
+			</marker>
+			<verse num="3">
+				It came also in the days of 
+				<crossref let="e" cid="c24001003.1">
+				</crossref>
+				Jehoiakim the son of Josiah, king of Judah, and 
+				<crossref let="f" cid="c24001003.2">
+				</crossref>
+				until the end of the eleventh year of 
+				<crossref let="g" cid="c24001003.3">
+				</crossref>
+				Zedekiah, the son of Josiah, king of Judah, 
+				<crossref let="h" cid="c24001003.4">
+				</crossref>
+				until the captivity of Jerusalem in the fifth month.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v24001004">
+			</marker>
+			<heading
+				>
+				The Call of Jeremiah
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				Now the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me, saying,
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v24001005">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c24001005.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Before I formed you in the womb I knew you,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and before you were born 
+				<crossref let="j" cid="c24001005.2">
+				</crossref>
+				I consecrated you;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I appointed you a prophet 
+				<crossref let="k" cid="c24001005.3">
+				</crossref>
+				to the nations.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v24001006">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="6">
+				Then I said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Ah, Lord 
+				<span class="divine-name">
+					God
+				</span>
+				! Behold, 
+				<crossref let="l" cid="c24001006.1">
+				</crossref>
+				I do not know how to speak, 
+				<crossref let="m" cid="c24001006.2">
+				</crossref>
+				for I am only a youth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v24001007">
+			</marker>
+			<verse num="7">
+				But the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to me,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I am only a youth
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for to all to whom I send you, you shall go,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and 
+				<crossref let="n" cid="c24001007.1">
+				</crossref>
+				whatever I command you, you shall speak.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v24001008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c24001008.1">
+				</crossref>
+				Do not be afraid of them,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c24001008.2">
+				</crossref>
+				for I am with you to deliver you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="declares">
+				</begin-line>
+				declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v24001009">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="9">
+				<crossref let="q" cid="c24001009.1">
+				</crossref>
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 put out his hand and 
+				<crossref let="r" cid="c24001009.2">
+				</crossref>
+				touched my mouth. And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to me,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I have put 
+				<crossref let="s" cid="c24001009.3">
+				</crossref>
+				my words in your mouth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v24001010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				See, I have set you this day 
+				<crossref let="k" cid="c24001010.1">
+				</crossref>
+				over nations and over kingdoms,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c24001010.2">
+				</crossref>
+				to pluck up and to break down,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				to destroy and to overthrow,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				to build and to plant.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v24001011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				And the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me, saying, 
+				<crossref let="u" cid="c24001011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Jeremiah, what do you see?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And I said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I see an almond
+				<note nid="n24001011.1">
+				</note>
+				 branch.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v24001012">
+			</marker>
+			<verse num="12">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to me, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You have seen well, for I am watching over my word to perform it.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v24001013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				The word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me a second time, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What do you see?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And I said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I see 
+				<crossref let="v" cid="c24001013.1">
+				</crossref>
+				a boiling pot, facing away 
+				<crossref let="w" cid="c24001013.2">
+				</crossref>
+				from the north.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v24001014">
+			</marker>
+			<verse num="14">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to me, 
+				<crossref let="w" cid="c24001014.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Out of the north disaster
+				<note nid="n24001014.1">
+				</note>
+				 shall be let loose upon all the inhabitants of the land.
+			</verse>
+			<marker class="begin-verse" mid="v24001015">
+			</marker>
+			<verse num="15">
+				For behold, 
+				<crossref let="x" cid="c24001015.1">
+				</crossref>
+				I am calling all the tribes of the kingdoms of the north, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="y" cid="c24001015.2">
+				</crossref>
+				and they shall come, and every one shall set his throne at the entrance of the gates of Jerusalem, against all its walls all around and against all the cities of Judah.
+			</verse>
+			<marker class="begin-verse" mid="v24001016">
+			</marker>
+			<verse num="16">
+				And 
+				<crossref let="z" cid="c24001016.1">
+				</crossref>
+				I will declare my judgments against them, for all their evil 
+				<crossref let="a" cid="c24001016.2">
+				</crossref>
+				in forsaking me. 
+				<crossref let="b" cid="c24001016.3">
+				</crossref>
+				They have made offerings to other gods and 
+				<crossref let="c" cid="c24001016.4">
+				</crossref>
+				worshiped the works of their own hands.
+			</verse>
+			<marker class="begin-verse" mid="v24001017">
+			</marker>
+			<verse num="17">
+				But you, 
+				<crossref let="d" cid="c24001017.1">
+				</crossref>
+				dress yourself for work;
+				<note nid="n24001017.1">
+				</note>
+				 arise, and 
+				<crossref let="e" cid="c24001017.2">
+				</crossref>
+				say to them everything that I command you. 
+				<crossref let="f" cid="c24001017.3">
+				</crossref>
+				Do not be dismayed by them, lest I dismay you before them.
+			</verse>
+			<marker class="begin-verse" mid="v24001018">
+			</marker>
+			<verse num="18">
+				And I, behold, I make you this day 
+				<crossref let="g" cid="c24001018.1">
+				</crossref>
+				a fortified city, 
+				<crossref let="h" cid="c24001018.2">
+				</crossref>
+				an iron pillar, and 
+				<crossref let="i" cid="c24001018.3">
+				</crossref>
+				bronze walls, against the whole land, against the kings of Judah, its officials, its priests, and the people of the land.
+			</verse>
+			<marker class="begin-verse" mid="v24001019">
+			</marker>
+			<verse num="19">
+				<crossref let="i" cid="c24001019.1">
+				</crossref>
+				They will fight against you, but they shall not prevail against you, for 
+				<crossref let="j" cid="c24001019.2">
+				</crossref>
+				I am with you, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, to deliver you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

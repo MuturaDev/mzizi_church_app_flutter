@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01016001">
+		</marker>
+		<chapter num="16">
+			<heading
+				>
+				Sarai and Hagar
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="a" cid="c01016001.1">
+				</crossref>
+				Now Sarai, Abram's wife, had borne him no children. She had a female Egyptian servant whose name was 
+				<crossref let="b" cid="c01016001.2">
+				</crossref>
+				Hagar.
+			</verse>
+			<marker class="begin-verse" mid="v01016002">
+			</marker>
+			<verse num="2">
+				And Sarai said to Abram, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold now, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has prevented me from bearing children. Go in to my servant; it may be that I shall obtain children
+				<note nid="n01016002.1">
+				</note>
+				 by her.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Abram listened to the voice of Sarai.
+			</verse>
+			<marker class="begin-verse" mid="v01016003">
+			</marker>
+			<verse num="3">
+				So, after Abram 
+				<crossref let="c" cid="c01016003.1">
+				</crossref>
+				had lived ten years in the land of Canaan, Sarai, Abram's wife, took Hagar the Egyptian, her servant, and gave her to Abram her husband as a wife.
+			</verse>
+			<marker class="begin-verse" mid="v01016004">
+			</marker>
+			<verse num="4">
+				And he went in to Hagar, and she conceived. And when she saw that she had conceived, 
+				<crossref let="d" cid="c01016004.1">
+				</crossref>
+				she looked with contempt on her mistress.
+				<note nid="n01016004.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01016005">
+			</marker>
+			<verse num="5">
+				And Sarai said to Abram, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				May the wrong done to me be on you! I gave my servant to your embrace, and when she saw that she had conceived, she looked on me with contempt. May 
+				<crossref let="e" cid="c01016005.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 judge between you and me!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01016006">
+			</marker>
+			<verse num="6">
+				But Abram said to Sarai, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, your servant is in your power; do to her as you please.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Then Sarai dealt harshly with her, and she fled from her.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01016007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				The angel of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 found her by a spring of water in the wilderness, the spring on the way to 
+				<crossref let="f" cid="c01016007.1">
+				</crossref>
+				Shur.
+			</verse>
+			<marker class="begin-verse" mid="v01016008">
+			</marker>
+			<verse num="8">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hagar, servant of Sarai, where have you come from and where are you going?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 She said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am fleeing from my mistress Sarai.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01016009">
+			</marker>
+			<verse num="9">
+				The angel of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Return to your mistress and submit to her.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01016010">
+			</marker>
+			<verse num="10">
+				The angel of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 also said to her, 
+				<crossref let="g" cid="c01016010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will surely multiply your offspring so that they cannot be numbered for multitude.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01016011">
+			</marker>
+			<verse num="11">
+				And the angel of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to her,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, you are pregnant
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and shall bear a son.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				You shall call his name Ishmael,
+				<note nid="n01016011.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c01016011.1">
+				</crossref>
+				because the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has listened to your affliction.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v01016012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				He shall be 
+				<crossref let="i" cid="c01016012.1">
+				</crossref>
+				a wild donkey of a man,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his hand against everyone
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and everyone's hand against him,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and he shall dwell 
+				<crossref let="j" cid="c01016012.2">
+				</crossref>
+				over against all his kinsmen.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v01016013">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="13">
+				So she called the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 who spoke to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are a God of seeing,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n01016013.1">
+				</note>
+				 for she said, 
+				<crossref let="k" cid="c01016013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Truly here I have seen him who looks after me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n01016013.2">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01016014">
+			</marker>
+			<verse num="14">
+				Therefore the well was called 
+				<crossref let="l" cid="c01016014.1">
+				</crossref>
+				Beer-lahai-roi;
+				<note nid="n01016014.1">
+				</note>
+				 it lies between 
+				<crossref let="m" cid="c01016014.2">
+				</crossref>
+				Kadesh and Bered.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01016015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				And Hagar bore Abram a son, and Abram called the name of his son, whom Hagar bore, Ishmael.
+			</verse>
+			<marker class="begin-verse" mid="v01016016">
+			</marker>
+			<verse num="16">
+				Abram was eighty-six years old when Hagar bore Ishmael to Abram.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

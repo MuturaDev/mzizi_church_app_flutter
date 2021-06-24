@@ -1,0 +1,576 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19074001">
+		</marker>
+		<chapter num="74">
+			<heading
+				>
+				Arise, O God, Defend Your Cause
+			</heading>
+			<subheading class="psalm-title">
+				A Maskil
+				<note nid="n19074001.1">
+				</note>
+				 of 
+				<crossref let="r" cid="c19074001.1">
+				</crossref>
+				Asaph.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				O God, why do you 
+				<crossref let="s" cid="c19074001.2">
+				</crossref>
+				cast us off forever?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Why does your anger 
+				<crossref let="t" cid="c19074001.3">
+				</crossref>
+				smoke against 
+				<crossref let="u" cid="c19074001.4">
+				</crossref>
+				the sheep of your pasture?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c19074002.1">
+				</crossref>
+				Remember your congregation, which you have 
+				<crossref let="w" cid="c19074002.2">
+				</crossref>
+				purchased of old,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				which you have 
+				<crossref let="x" cid="c19074002.3">
+				</crossref>
+				redeemed to be 
+				<crossref let="y" cid="c19074002.4">
+				</crossref>
+				the tribe of your heritage!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Remember Mount Zion, 
+				<crossref let="z" cid="c19074002.5">
+				</crossref>
+				where you have dwelt.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Direct your steps to 
+				<crossref let="a" cid="c19074003.1">
+				</crossref>
+				the perpetual ruins;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the enemy has destroyed everything in the sanctuary!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19074004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Your foes have 
+				<crossref let="b" cid="c19074004.1">
+				</crossref>
+				roared in the midst of your meeting place;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c19074004.2">
+				</crossref>
+				they set up their 
+				<crossref let="d" cid="c19074004.3">
+				</crossref>
+				own signs for 
+				<crossref let="e" cid="c19074004.4">
+				</crossref>
+				signs.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				They were like those who swing 
+				<crossref let="f" cid="c19074005.1">
+				</crossref>
+				axes
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in a forest of trees.
+				<note nid="n19074005.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				And all its 
+				<crossref let="g" cid="c19074006.1">
+				</crossref>
+				carved wood
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they broke down with hatchets and hammers.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				They 
+				<crossref let="h" cid="c19074007.1">
+				</crossref>
+				set your sanctuary on fire;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they 
+				<crossref let="i" cid="c19074007.2">
+				</crossref>
+				profaned 
+				<crossref let="j" cid="c19074007.3">
+				</crossref>
+				the dwelling place of your name,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				bringing it down to the ground.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				They 
+				<crossref let="k" cid="c19074008.1">
+				</crossref>
+				said to themselves, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We will utterly subdue them
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they burned all the meeting places of God in the land.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19074009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				We do not see our 
+				<crossref let="l" cid="c19074009.1">
+				</crossref>
+				signs;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c19074009.2">
+				</crossref>
+				there is no longer any prophet,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and there is none among us who knows how long.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				How long, O God, 
+				<crossref let="n" cid="c19074010.1">
+				</crossref>
+				is the foe to scoff?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Is the enemy to revile your name forever?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Why 
+				<crossref let="o" cid="c19074011.1">
+				</crossref>
+				do you hold back your hand, your right hand?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Take it from the fold of your garment
+				<note nid="n19074011.1">
+				</note>
+				 and destroy them!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19074012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Yet 
+				<crossref let="p" cid="c19074012.1">
+				</crossref>
+				God my King is from of old,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				working salvation in the midst of the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				You 
+				<crossref let="q" cid="c19074013.1">
+				</crossref>
+				divided the sea by your might;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="r" cid="c19074013.2">
+				</crossref>
+				broke the heads of 
+				<crossref let="s" cid="c19074013.3">
+				</crossref>
+				the sea monsters
+				<note nid="n19074013.1">
+				</note>
+				 on the waters.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				You crushed the heads of 
+				<crossref let="t" cid="c19074014.1">
+				</crossref>
+				Leviathan;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you gave him as food for the creatures of the wilderness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				You 
+				<crossref let="u" cid="c19074015.1">
+				</crossref>
+				split open springs and brooks;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="v" cid="c19074015.2">
+				</crossref>
+				dried up ever-flowing streams.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Yours is the day, yours also the night;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have established 
+				<crossref let="w" cid="c19074016.1">
+				</crossref>
+				the heavenly lights and the sun.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				You have 
+				<crossref let="x" cid="c19074017.1">
+				</crossref>
+				fixed all the boundaries of the earth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have made 
+				<crossref let="y" cid="c19074017.2">
+				</crossref>
+				summer and winter.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19074018">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c19074018.1">
+				</crossref>
+				Remember this, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, how the enemy scoffs,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="a" cid="c19074018.2">
+				</crossref>
+				a foolish people reviles your name.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				Do not deliver the soul of your 
+				<crossref let="b" cid="c19074019.1">
+				</crossref>
+				dove to the wild beasts;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c19074019.2">
+				</crossref>
+				do not forget the life of your poor forever.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19074020">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				Have regard for 
+				<crossref let="d" cid="c19074020.1">
+				</crossref>
+				the covenant,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="e" cid="c19074020.2">
+				</crossref>
+				the dark places of the land are full of the habitations of violence.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				Let not 
+				<crossref let="f" cid="c19074021.1">
+				</crossref>
+				the downtrodden 
+				<crossref let="g" cid="c19074021.2">
+				</crossref>
+				turn back in shame;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let 
+				<crossref let="h" cid="c19074021.3">
+				</crossref>
+				the poor and needy praise your name.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19074022">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				Arise, O God, 
+				<crossref let="i" cid="c19074022.1">
+				</crossref>
+				defend your cause;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c19074022.2">
+				</crossref>
+				remember how the foolish scoff at you all the day!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19074023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				Do not forget the clamor of your foes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c19074023.1">
+				</crossref>
+				the uproar of those who rise against you, which goes up continually!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19051001">
+		</marker>
+		<chapter num="51">
+			<heading
+				>
+				Create in Me a Clean Heart, O God
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Psalm of David, when 
+				<crossref let="v" cid="c19051001.1">
+				</crossref>
+				Nathan the prophet went to him, after he had gone in to Bathsheba.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c19051001.2">
+				</crossref>
+				Have mercy on me,
+				<note nid="n19051001.1">
+				</note>
+				 O God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				according to your steadfast love;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				according to your 
+				<crossref let="x" cid="c19051001.3">
+				</crossref>
+				abundant mercy
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="y" cid="c19051001.4">
+				</crossref>
+				blot out my transgressions.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c19051002.1">
+				</crossref>
+				Wash me thoroughly from my iniquity,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="a" cid="c19051002.2">
+				</crossref>
+				cleanse me from my sin!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19051003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c19051003.1">
+				</crossref>
+				For I know my transgressions,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my sin is ever before me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c19051004.1">
+				</crossref>
+				Against you, you only, have I sinned
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and done what is evil 
+				<crossref let="d" cid="c19051004.2">
+				</crossref>
+				in your sight,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c19051004.3">
+				</crossref>
+				so that you may be justified in your words
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and blameless in your judgment.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Behold, 
+				<crossref let="f" cid="c19051005.1">
+				</crossref>
+				I was brought forth in iniquity,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and in sin did my mother conceive me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Behold, you delight in truth in 
+				<crossref let="g" cid="c19051006.1">
+				</crossref>
+				the inward being,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you teach me wisdom in the secret heart.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19051007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Purge me 
+				<crossref let="h" cid="c19051007.1">
+				</crossref>
+				with hyssop, and I shall be clean;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c19051007.2">
+				</crossref>
+				wash me, and I shall be 
+				<crossref let="i" cid="c19051007.3">
+				</crossref>
+				whiter than snow.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Let me hear joy and gladness;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c19051008.1">
+				</crossref>
+				let the bones 
+				<crossref let="k" cid="c19051008.2">
+				</crossref>
+				that you have broken rejoice.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19051009.1">
+				</crossref>
+				Hide your face from my sins,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="y" cid="c19051009.2">
+				</crossref>
+				blot out all my iniquities.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c19051010.1">
+				</crossref>
+				Create in me a 
+				<crossref let="n" cid="c19051010.2">
+				</crossref>
+				clean heart, O God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="o" cid="c19051010.3">
+				</crossref>
+				renew a right
+				<note nid="n19051010.1">
+				</note>
+				 spirit within me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19051011.1">
+				</crossref>
+				Cast me not away from your presence,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and take not 
+				<crossref let="q" cid="c19051011.2">
+				</crossref>
+				your Holy Spirit from me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Restore to me the joy of your salvation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and uphold me with a willing spirit.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19051013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				Then I will teach transgressors your ways,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and sinners will 
+				<crossref let="r" cid="c19051013.1">
+				</crossref>
+				return to you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				Deliver me from 
+				<crossref let="s" cid="c19051014.1">
+				</crossref>
+				bloodguiltiness, O God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<crossref let="t" cid="c19051014.2">
+				</crossref>
+				God of my salvation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="u" cid="c19051014.3">
+				</crossref>
+				my tongue will sing aloud of your 
+				<crossref let="v" cid="c19051014.4">
+				</crossref>
+				righteousness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				O Lord, open my lips,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my mouth will declare your praise.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c19051016.1">
+				</crossref>
+				For you will not delight in sacrifice, or I would give it;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you will not be pleased with a burnt offering.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				The sacrifices of God are 
+				<crossref let="x" cid="c19051017.1">
+				</crossref>
+				a broken spirit;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a broken and contrite heart, O God, you will not despise.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19051018">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c19051018.1">
+				</crossref>
+				Do good to Zion in your good pleasure;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c19051018.2">
+				</crossref>
+				build up the walls of Jerusalem;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19051019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				then will you delight in 
+				<crossref let="a" cid="c19051019.1">
+				</crossref>
+				right sacrifices,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in burnt offerings and 
+				<crossref let="b" cid="c19051019.2">
+				</crossref>
+				whole burnt offerings;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				then bulls will be offered on your altar.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

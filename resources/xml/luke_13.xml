@@ -1,0 +1,588 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Luke" num="41">
+		<marker class="begin-verse" mid="v42013001">
+		</marker>
+		<chapter num="13">
+			<heading
+				>
+				Repent or Perish
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				There were some present at that very time who told him about the Galileans whose blood 
+				<crossref let="p" cid="c42013001.1">
+				</crossref>
+				Pilate had mingled with their sacrifices.
+			</verse>
+			<marker class="begin-verse" mid="v42013002">
+			</marker>
+			<verse num="2">
+				And he answered them, 
+				<woc
+					>
+					<crossref let="q" cid="c42013002.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered in this way?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013003">
+			</marker>
+			<verse num="3" class="woc">
+				<woc
+					>
+					No, I tell you; but unless you 
+					<crossref let="r" cid="c42013003.1">
+					</crossref>
+					repent, you will all likewise perish.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013004">
+			</marker>
+			<verse num="4" class="woc">
+				<woc
+					>
+					Or those eighteen on whom the tower in 
+					<crossref let="s" cid="c42013004.1">
+					</crossref>
+					Siloam fell and killed them: do you think that they were worse offenders than all the others who lived in Jerusalem?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013005">
+			</marker>
+			<verse num="5" class="woc">
+				<woc
+					>
+					No, I tell you; but unless you 
+					<crossref let="r" cid="c42013005.1">
+					</crossref>
+					repent, you will all likewise perish.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42013006">
+			</marker>
+			<heading
+				>
+				The Parable of the Barren Fig Tree
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				And he told this parable: 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					A man had 
+					<crossref let="t" cid="c42013006.1">
+					</crossref>
+					a fig tree planted in his vineyard, and he came seeking fruit on it and found none.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013007">
+			</marker>
+			<verse num="7" class="woc">
+				<woc
+					>
+					And he said to the vinedresser, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Look, for three years now I have come seeking fruit on this fig tree, and I find none. 
+					<crossref let="u" cid="c42013007.1">
+					</crossref>
+					Cut it down. Why should it use up the ground?
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013008">
+			</marker>
+			<verse num="8" class="woc">
+				<woc
+					>
+					And he answered him, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Sir, let it alone this year also, until I dig around it and put on manure.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013009">
+			</marker>
+			<verse num="9" class="woc">
+				<woc
+					>
+					Then if it should bear fruit next year, well and good; but if not, you can cut it down.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42013010">
+			</marker>
+			<heading
+				>
+				A Woman with a Disabling Spirit
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				Now 
+				<crossref let="v" cid="c42013010.1">
+				</crossref>
+				he was teaching in one of the synagogues on the Sabbath.
+			</verse>
+			<marker class="begin-verse" mid="v42013011">
+			</marker>
+			<verse num="11">
+				And there was a woman who had had 
+				<crossref let="w" cid="c42013011.1">
+				</crossref>
+				a disabling spirit for eighteen years. She was bent over and could not fully straighten herself.
+			</verse>
+			<marker class="begin-verse" mid="v42013012">
+			</marker>
+			<verse num="12">
+				When Jesus saw her, he called her over and said to her, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Woman, you are freed from your disability.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013013">
+			</marker>
+			<verse num="13">
+				And he 
+				<crossref let="x" cid="c42013013.1">
+				</crossref>
+				laid his hands on her, and immediately she was made straight, and she 
+				<crossref let="y" cid="c42013013.2">
+				</crossref>
+				glorified God.
+			</verse>
+			<marker class="begin-verse" mid="v42013014">
+			</marker>
+			<verse num="14">
+				But 
+				<crossref let="z" cid="c42013014.1">
+				</crossref>
+				the ruler of the synagogue, indignant because Jesus 
+				<crossref let="a" cid="c42013014.2">
+				</crossref>
+				had healed on the Sabbath, said to the people, 
+				<crossref let="b" cid="c42013014.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				There are six days in which work ought to be done. Come on those days and be healed, and not on the Sabbath day.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42013015">
+			</marker>
+			<verse num="15">
+				Then the Lord answered him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You hypocrites! 
+					<crossref let="c" cid="c42013015.1">
+					</crossref>
+					Does not each of you on the Sabbath untie his ox or his donkey from the manger and lead it away to water it?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc
+					>
+					And ought not this woman, 
+					<crossref let="d" cid="c42013016.1">
+					</crossref>
+					a daughter of Abraham whom 
+					<crossref let="e" cid="c42013016.2">
+					</crossref>
+					Satan bound for eighteen years, be loosed from this bond on the Sabbath day?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013017">
+			</marker>
+			<verse num="17">
+				As he said these things, 
+				<crossref let="f" cid="c42013017.1">
+				</crossref>
+				all his adversaries were put to shame, and 
+				<crossref let="g" cid="c42013017.2">
+				</crossref>
+				all the people rejoiced at all the glorious things that were done by him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42013018">
+			</marker>
+			<heading
+				>
+				The Mustard Seed and the Leaven
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				<crossref let="h" cid="c42013018.1">
+				</crossref>
+				<crossref cid="t42013018.1">
+				</crossref>
+				He said therefore, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What is the kingdom of God like? And to what shall I compare it?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					It is like 
+					<crossref let="i" cid="c42013019.1">
+					</crossref>
+					a grain of mustard seed that a man took and sowed in his garden, and it grew and became a tree, and the birds of the air made nests in its branches.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42013020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				And again he said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					To what shall I compare the kingdom of God?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013021">
+			</marker>
+			<verse num="21" class="woc">
+				<woc
+					>
+					<crossref let="j" cid="c42013021.1">
+					</crossref>
+					It is like leaven that a woman took and hid in 
+					<crossref let="k" cid="c42013021.2">
+					</crossref>
+					three measures of flour, until it was 
+					<crossref let="l" cid="c42013021.3">
+					</crossref>
+					all leavened.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42013022">
+			</marker>
+			<heading
+				>
+				The Narrow Door
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				<crossref let="m" cid="c42013022.1">
+				</crossref>
+				He went on his way through towns and villages, teaching and 
+				<crossref let="n" cid="c42013022.2">
+				</crossref>
+				journeying toward Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v42013023">
+			</marker>
+			<verse num="23">
+				And someone said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, 
+				<crossref let="o" cid="c42013023.1">
+				</crossref>
+				will those who are saved be few?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he said to them,
+			</verse>
+			<marker class="begin-verse" mid="v42013024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					<crossref let="p" cid="c42013024.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Strive 
+					<crossref let="q" cid="c42013024.2">
+					</crossref>
+					to enter through the narrow door. For many, I tell you, will seek to enter and will not be able.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013025">
+			</marker>
+			<verse num="25" class="woc">
+				<woc
+					>
+					<crossref let="r" cid="c42013025.1">
+					</crossref>
+					When once the master of the house has risen and shut the door, and you begin to stand outside and to knock at the door, saying, 
+					<crossref let="s" cid="c42013025.2">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Lord, open to us,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 then he will answer you, 
+					<crossref let="t" cid="c42013025.3">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					I do not know where you come from.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					Then you will begin to say, 
+					<crossref let="u" cid="c42013026.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					We ate and drank in your presence, and you taught in our streets.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013027">
+			</marker>
+			<verse num="27" class="woc">
+				<woc
+					>
+					But he will say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					I tell you, 
+					<crossref let="t" cid="c42013027.1">
+					</crossref>
+					I do not know where you come from. 
+					<crossref let="v" cid="c42013027.2">
+					</crossref>
+					Depart from me, all you workers of evil!
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013028">
+			</marker>
+			<verse num="28" class="woc">
+				<woc
+					>
+					<crossref let="w" cid="c42013028.1">
+					</crossref>
+					In that place there will be weeping and gnashing of teeth, when you see 
+					<crossref let="w" cid="c42013028.2">
+					</crossref>
+					Abraham and Isaac and Jacob and all the prophets in the kingdom of God but 
+					<crossref let="w" cid="c42013028.3">
+					</crossref>
+					you yourselves cast out.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013029">
+			</marker>
+			<verse num="29" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="w" cid="c42013029.1">
+					</crossref>
+					people will come from east and west, and from north and south, and 
+					<crossref let="x" cid="c42013029.2">
+					</crossref>
+					recline at table in the kingdom of God.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013030">
+			</marker>
+			<verse num="30" class="woc">
+				<woc
+					>
+					And behold, 
+					<crossref let="y" cid="c42013030.1">
+					</crossref>
+					some are last who will be first, and some are first who will be last.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42013031">
+			</marker>
+			<heading
+				>
+				Lament over Jerusalem
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				At that very hour some Pharisees came and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Get away from 
+				<crossref let="z" cid="c42013031.1">
+				</crossref>
+				here, for 
+				<crossref let="a" cid="c42013031.2">
+				</crossref>
+				Herod wants to kill you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42013032">
+			</marker>
+			<verse num="32">
+				And he said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go and tell that fox, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Behold, I cast out demons and perform cures today and tomorrow, and the third day 
+					<crossref let="b" cid="c42013032.1">
+					</crossref>
+					I finish my course.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013033">
+			</marker>
+			<verse num="33" class="woc">
+				<woc
+					>
+					Nevertheless, 
+					<crossref let="c" cid="c42013033.1">
+					</crossref>
+					I 
+					<crossref let="d" cid="c42013033.2">
+					</crossref>
+					must go on my way today and tomorrow and the day following, for it cannot be that 
+					<crossref let="e" cid="c42013033.3">
+					</crossref>
+					a prophet should perish away from Jerusalem.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013034">
+			</marker>
+			<verse num="34" class="woc">
+				<woc
+					>
+					<crossref let="f" cid="c42013034.1">
+					</crossref>
+					<crossref cid="t42013034.1">
+					</crossref>
+					O Jerusalem, Jerusalem, the city that 
+					<crossref let="g" cid="c42013034.2">
+					</crossref>
+					kills the prophets and stones those who are sent to it! 
+					<crossref let="h" cid="c42013034.3">
+					</crossref>
+					How often would I have 
+					<crossref let="i" cid="c42013034.4">
+					</crossref>
+					gathered 
+					<crossref let="j" cid="c42013034.5">
+					</crossref>
+					your children together 
+					<crossref let="k" cid="c42013034.6">
+					</crossref>
+					as a hen gathers her brood 
+					<crossref let="l" cid="c42013034.7">
+					</crossref>
+					under her wings, and 
+					<crossref let="m" cid="c42013034.8">
+					</crossref>
+					you would not!
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42013035">
+			</marker>
+			<verse num="35" class="woc">
+				<woc
+					>
+					Behold, 
+					<crossref let="n" cid="c42013035.1">
+					</crossref>
+					your house is forsaken. And I tell you, you will not see me until you say, 
+					<crossref let="o" cid="c42013035.2">
+					</crossref>
+					<crossref cid="t42013035.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Blessed is he who comes in the name of the Lord!
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

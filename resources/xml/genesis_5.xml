@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01005001">
+		</marker>
+		<chapter num="5">
+			<heading
+				>
+				Adam's Descendants to Noah
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				This is the book of the generations of Adam. When God created man, 
+				<crossref let="o" cid="c01005001.1">
+				</crossref>
+				he made him in the likeness of God.
+			</verse>
+			<marker class="begin-verse" mid="v01005002">
+			</marker>
+			<verse num="2">
+				Male and female he created them, and he blessed them and named them Man
+				<note nid="n01005002.1">
+				</note>
+				 when they were created.
+			</verse>
+			<marker class="begin-verse" mid="v01005003">
+			</marker>
+			<verse num="3">
+				When Adam had lived 130 years, he fathered a son in his own likeness, after his image, and 
+				<crossref let="p" cid="c01005003.1">
+				</crossref>
+				named him Seth.
+			</verse>
+			<marker class="begin-verse" mid="v01005004">
+			</marker>
+			<verse num="4">
+				<crossref let="q" cid="c01005004.1">
+				</crossref>
+				The days of Adam after he fathered Seth were 800 years; and he had other sons and daughters.
+			</verse>
+			<marker class="begin-verse" mid="v01005005">
+			</marker>
+			<verse num="5">
+				Thus all the days that Adam lived were 930 years, 
+				<crossref let="r" cid="c01005005.1">
+				</crossref>
+				and he died.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01005006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				When Seth had lived 105 years, 
+				<crossref let="s" cid="c01005006.1">
+				</crossref>
+				he fathered Enosh.
+			</verse>
+			<marker class="begin-verse" mid="v01005007">
+			</marker>
+			<verse num="7">
+				Seth lived after he fathered Enosh 807 years and had other sons and daughters.
+			</verse>
+			<marker class="begin-verse" mid="v01005008">
+			</marker>
+			<verse num="8">
+				Thus all the days of Seth were 912 years, and he died.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01005009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				When Enosh had lived 90 years, he fathered Kenan.
+			</verse>
+			<marker class="begin-verse" mid="v01005010">
+			</marker>
+			<verse num="10">
+				Enosh lived after he fathered Kenan 815 years and had other sons and daughters.
+			</verse>
+			<marker class="begin-verse" mid="v01005011">
+			</marker>
+			<verse num="11">
+				Thus all the days of Enosh were 905 years, and he died.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01005012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				When Kenan had lived 70 years, he fathered Mahalalel.
+			</verse>
+			<marker class="begin-verse" mid="v01005013">
+			</marker>
+			<verse num="13">
+				Kenan lived after he fathered Mahalalel 840 years and had other sons and daughters.
+			</verse>
+			<marker class="begin-verse" mid="v01005014">
+			</marker>
+			<verse num="14">
+				Thus all the days of Kenan were 910 years, and he died.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01005015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				When Mahalalel had lived 65 years, he fathered Jared.
+			</verse>
+			<marker class="begin-verse" mid="v01005016">
+			</marker>
+			<verse num="16">
+				Mahalalel lived after he fathered Jared 830 years and had other sons and daughters.
+			</verse>
+			<marker class="begin-verse" mid="v01005017">
+			</marker>
+			<verse num="17">
+				Thus all the days of Mahalalel were 895 years, and he died.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01005018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				When Jared had lived 162 years he fathered 
+				<crossref let="t" cid="c01005018.1">
+				</crossref>
+				Enoch.
+			</verse>
+			<marker class="begin-verse" mid="v01005019">
+			</marker>
+			<verse num="19">
+				Jared lived after he fathered Enoch 800 years and had other sons and daughters.
+			</verse>
+			<marker class="begin-verse" mid="v01005020">
+			</marker>
+			<verse num="20">
+				Thus all the days of Jared were 962 years, and he died.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01005021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				When Enoch had lived 65 years, he fathered Methuselah.
+			</verse>
+			<marker class="begin-verse" mid="v01005022">
+			</marker>
+			<verse num="22">
+				Enoch 
+				<crossref let="u" cid="c01005022.1">
+				</crossref>
+				walked with God
+				<note nid="n01005022.1">
+				</note>
+				 after he fathered Methuselah 300 years and had other sons and daughters.
+			</verse>
+			<marker class="begin-verse" mid="v01005023">
+			</marker>
+			<verse num="23">
+				Thus all the days of Enoch were 365 years.
+			</verse>
+			<marker class="begin-verse" mid="v01005024">
+			</marker>
+			<verse num="24">
+				Enoch 
+				<crossref let="u" cid="c01005024.1">
+				</crossref>
+				walked with God, and he was not,
+				<note nid="n01005024.1">
+				</note>
+				<crossref let="v" cid="c01005024.2">
+				</crossref>
+				for God took him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01005025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				When Methuselah had lived 187 years, he fathered Lamech.
+			</verse>
+			<marker class="begin-verse" mid="v01005026">
+			</marker>
+			<verse num="26">
+				Methuselah lived after he fathered Lamech 782 years and had other sons and daughters.
+			</verse>
+			<marker class="begin-verse" mid="v01005027">
+			</marker>
+			<verse num="27">
+				Thus all the days of Methuselah were 969 years, and he died.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01005028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				When Lamech had lived 182 years, he fathered a son
+			</verse>
+			<marker class="begin-verse" mid="v01005029">
+			</marker>
+			<verse num="29">
+				and called his name Noah, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Out of the ground 
+				<crossref let="w" cid="c01005029.1">
+				</crossref>
+				that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has cursed this one shall bring us relief
+				<note nid="n01005029.1">
+				</note>
+				 from our work and from the painful toil of our hands.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01005030">
+			</marker>
+			<verse num="30">
+				Lamech lived after he fathered Noah 595 years and had other sons and daughters.
+			</verse>
+			<marker class="begin-verse" mid="v01005031">
+			</marker>
+			<verse num="31">
+				Thus all the days of Lamech were 777 years, and he died.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01005032">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="32">
+				After Noah was 500 years old, Noah fathered 
+				<crossref let="x" cid="c01005032.1">
+				</crossref>
+				Shem, Ham, and 
+				<crossref let="y" cid="c01005032.2">
+				</crossref>
+				Japheth.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

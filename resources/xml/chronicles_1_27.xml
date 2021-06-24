@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Chronicles" num="12">
+		<marker class="begin-verse" mid="v13027001">
+		</marker>
+		<chapter num="27">
+			<heading
+				>
+				Military Divisions
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				This is the number of the people of Israel, the heads of fathers' houses, the commanders of thousands and hundreds, and their officers who served the king in all matters concerning the divisions that came and went, month after month throughout the year, each division numbering 24,000:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13027002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				<crossref let="e" cid="c13027002.1">
+				</crossref>
+				Jashobeam the son of Zabdiel was in charge of the first division in the first month; in his division were 24,000.
+			</verse>
+			<marker class="begin-verse" mid="v13027003">
+			</marker>
+			<verse num="3">
+				He was a 
+				<crossref let="f" cid="c13027003.1">
+				</crossref>
+				descendant of Perez and was chief of all the commanders. He served for the first month.
+			</verse>
+			<marker class="begin-verse" mid="v13027004">
+			</marker>
+			<verse num="4">
+				<crossref let="g" cid="c13027004.1">
+				</crossref>
+				Dodai the Ahohite
+				<note nid="n13027004.1">
+				</note>
+				 was in charge of the division of the second month; in his division were 24,000.
+			</verse>
+			<marker class="begin-verse" mid="v13027005">
+			</marker>
+			<verse num="5">
+				The third commander, for the third month, was 
+				<crossref let="h" cid="c13027005.1">
+				</crossref>
+				Benaiah, the son of Jehoiada the chief priest; in his division were 24,000.
+			</verse>
+			<marker class="begin-verse" mid="v13027006">
+			</marker>
+			<verse num="6">
+				This is the Benaiah 
+				<crossref let="i" cid="c13027006.1">
+				</crossref>
+				who was a mighty man of the thirty and in command of the thirty; Ammizabad his son was in charge of his division.
+				<note nid="n13027006.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v13027007">
+			</marker>
+			<verse num="7">
+				<crossref let="j" cid="c13027007.1">
+				</crossref>
+				Asahel the brother of Joab was fourth, for the fourth month, and his son Zebadiah after him; in his division were 24,000.
+			</verse>
+			<marker class="begin-verse" mid="v13027008">
+			</marker>
+			<verse num="8">
+				The fifth commander, for the fifth month, was 
+				<crossref let="k" cid="c13027008.1">
+				</crossref>
+				Shamhuth the Izrahite; in his division were 24,000.
+			</verse>
+			<marker class="begin-verse" mid="v13027009">
+			</marker>
+			<verse num="9">
+				Sixth, for the sixth month, was 
+				<crossref let="l" cid="c13027009.1">
+				</crossref>
+				Ira, the son of Ikkesh the Tekoite; in his division were 24,000.
+			</verse>
+			<marker class="begin-verse" mid="v13027010">
+			</marker>
+			<verse num="10">
+				Seventh, for the seventh month, was 
+				<crossref let="m" cid="c13027010.1">
+				</crossref>
+				Helez the Pelonite, of the sons of Ephraim; in his division were 24,000.
+			</verse>
+			<marker class="begin-verse" mid="v13027011">
+			</marker>
+			<verse num="11">
+				Eighth, for the eighth month, was 
+				<crossref let="n" cid="c13027011.1">
+				</crossref>
+				Sibbecai the Hushathite, of the Zerahites; in his division were 24,000.
+			</verse>
+			<marker class="begin-verse" mid="v13027012">
+			</marker>
+			<verse num="12">
+				Ninth, for the ninth month, was 
+				<crossref let="o" cid="c13027012.1">
+				</crossref>
+				Abiezer of Anathoth, a Benjaminite; in his division were 24,000.
+			</verse>
+			<marker class="begin-verse" mid="v13027013">
+			</marker>
+			<verse num="13">
+				Tenth, for the tenth month, was 
+				<crossref let="p" cid="c13027013.1">
+				</crossref>
+				Maharai of Netophah, of the Zerahites; in his division were 24,000.
+			</verse>
+			<marker class="begin-verse" mid="v13027014">
+			</marker>
+			<verse num="14">
+				Eleventh, for the eleventh month, was 
+				<crossref let="q" cid="c13027014.1">
+				</crossref>
+				Benaiah of Pirathon, of the sons of Ephraim; in his division were 24,000.
+			</verse>
+			<marker class="begin-verse" mid="v13027015">
+			</marker>
+			<verse num="15">
+				Twelfth, for the twelfth month, was 
+				<crossref let="r" cid="c13027015.1">
+				</crossref>
+				Heldai the Netophathite, of 
+				<crossref let="s" cid="c13027015.2">
+				</crossref>
+				Othniel; in his division were 24,000.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13027016">
+			</marker>
+			<heading
+				>
+				Leaders of Tribes
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				Over the tribes of Israel, for the Reubenites, Eliezer the son of Zichri was chief officer; for the Simeonites, Shephatiah the son of Maacah;
+			</verse>
+			<marker class="begin-verse" mid="v13027017">
+			</marker>
+			<verse num="17">
+				for Levi, 
+				<crossref let="t" cid="c13027017.1">
+				</crossref>
+				Hashabiah the son of Kemuel; for Aaron, 
+				<crossref let="u" cid="c13027017.2">
+				</crossref>
+				Zadok;
+			</verse>
+			<marker class="begin-verse" mid="v13027018">
+			</marker>
+			<verse num="18">
+				for Judah, Elihu, one of David's brothers; for Issachar, Omri the son of Michael;
+			</verse>
+			<marker class="begin-verse" mid="v13027019">
+			</marker>
+			<verse num="19">
+				for Zebulun, Ishmaiah the son of Obadiah; for Naphtali, Jeremoth the son of Azriel;
+			</verse>
+			<marker class="begin-verse" mid="v13027020">
+			</marker>
+			<verse num="20">
+				for the Ephraimites, Hoshea the son of Azaziah; for the half-tribe of Manasseh, Joel the son of Pedaiah;
+			</verse>
+			<marker class="begin-verse" mid="v13027021">
+			</marker>
+			<verse num="21">
+				for the half-tribe of Manasseh in Gilead, Iddo the son of Zechariah; for Benjamin, Jaasiel the son of Abner;
+			</verse>
+			<marker class="begin-verse" mid="v13027022">
+			</marker>
+			<verse num="22">
+				for Dan, Azarel the son of Jeroham. These were the 
+				<crossref let="v" cid="c13027022.1">
+				</crossref>
+				leaders of the tribes of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v13027023">
+			</marker>
+			<verse num="23">
+				David did not count those below twenty years of age, for the 
+				<crossref let="w" cid="c13027023.1">
+				</crossref>
+				<span class="divine-name">
+					Lord
+				</span>
+				 had promised to make Israel as many as the stars of heaven.
+			</verse>
+			<marker class="begin-verse" mid="v13027024">
+			</marker>
+			<verse num="24">
+				Joab the son of Zeruiah began to count, but 
+				<crossref let="x" cid="c13027024.1">
+				</crossref>
+				did not finish. Yet 
+				<crossref let="y" cid="c13027024.2">
+				</crossref>
+				wrath came upon Israel for this, and the number was not entered in the chronicles of King David.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13027025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				Over the king's treasuries was 
+				<crossref let="z" cid="c13027025.1">
+				</crossref>
+				Azmaveth the son of Adiel; and over the treasuries in the country, in the cities, in the villages, and in the towers, was Jonathan the son of Uzziah;
+			</verse>
+			<marker class="begin-verse" mid="v13027026">
+			</marker>
+			<verse num="26">
+				and over those who did the work of the field for tilling the soil was Ezri the son of Chelub;
+			</verse>
+			<marker class="begin-verse" mid="v13027027">
+			</marker>
+			<verse num="27">
+				and over the vineyards was Shimei the Ramathite; and over the produce of the vineyards for the wine cellars was Zabdi the Shiphmite.
+			</verse>
+			<marker class="begin-verse" mid="v13027028">
+			</marker>
+			<verse num="28">
+				Over the olive and 
+				<crossref let="a" cid="c13027028.1">
+				</crossref>
+				sycamore trees in the Shephelah was Baal-hanan the Gederite; and over the stores of oil was Joash.
+			</verse>
+			<marker class="begin-verse" mid="v13027029">
+			</marker>
+			<verse num="29">
+				Over the herds that pastured in 
+				<crossref let="b" cid="c13027029.1">
+				</crossref>
+				Sharon was Shitrai the Sharonite; over the herds in the valleys was Shaphat the son of Adlai.
+			</verse>
+			<marker class="begin-verse" mid="v13027030">
+			</marker>
+			<verse num="30">
+				Over the camels was Obil the Ishmaelite; and over the donkeys was Jehdeiah the Meronothite. Over the flocks was Jaziz the 
+				<crossref let="c" cid="c13027030.1">
+				</crossref>
+				Hagrite.
+			</verse>
+			<marker class="begin-verse" mid="v13027031">
+			</marker>
+			<verse num="31">
+				All these were stewards of King David's property.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13027032">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="32">
+				Jonathan, David's uncle, was a counselor, being a man of understanding and a scribe. He and Jehiel the son of Hachmoni attended the king's sons.
+			</verse>
+			<marker class="begin-verse" mid="v13027033">
+			</marker>
+			<verse num="33">
+				<crossref let="d" cid="c13027033.1">
+				</crossref>
+				Ahithophel was the 
+				<crossref let="e" cid="c13027033.2">
+				</crossref>
+				king's counselor, and Hushai the Archite was the king's friend.
+			</verse>
+			<marker class="begin-verse" mid="v13027034">
+			</marker>
+			<verse num="34">
+				Ahithophel was succeeded by Jehoiada the son of 
+				<crossref let="f" cid="c13027034.1">
+				</crossref>
+				Benaiah, and 
+				<crossref let="g" cid="c13027034.2">
+				</crossref>
+				Abiathar. Joab was 
+				<crossref let="h" cid="c13027034.3">
+				</crossref>
+				commander of the king's army.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

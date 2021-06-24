@@ -1,0 +1,876 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Proverbs" num="19">
+		<marker class="begin-verse" mid="v20030001">
+		</marker>
+		<chapter num="30">
+			<heading
+				>
+				The Words of Agur
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The words of Agur son of Jakeh. The oracle.
+				<note nid="n20030001.1">
+				</note>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				The man declares, I am weary, O God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I am weary, O God, and worn out.
+				<note nid="n20030001.2">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Surely I am too 
+				<crossref let="m" cid="c20030002.1">
+				</crossref>
+				stupid to be a man.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I have not the understanding of a man.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				I have not learned wisdom,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor have I knowledge of 
+				<crossref let="n" cid="c20030003.1">
+				</crossref>
+				the Holy One.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Who has 
+				<crossref let="o" cid="c20030004.1">
+				</crossref>
+				ascended to heaven and come down?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Who has 
+				<crossref let="p" cid="c20030004.2">
+				</crossref>
+				gathered the wind in his fists?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Who has 
+				<crossref let="q" cid="c20030004.3">
+				</crossref>
+				wrapped up the waters in a garment?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Who has established all 
+				<crossref let="r" cid="c20030004.4">
+				</crossref>
+				the ends of the earth?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c20030004.5">
+				</crossref>
+				What is his name, and what is his son's name?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Surely you know!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20030005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c20030005.1">
+				</crossref>
+				Every word of God proves true;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he is 
+				<crossref let="u" cid="c20030005.2">
+				</crossref>
+				a shield to those who take refuge in him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c20030006.1">
+				</crossref>
+				Do not add to his words,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				lest he rebuke you and you be found a liar.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20030007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Two things I ask of you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				deny them not to me 
+				<crossref let="w" cid="c20030007.1">
+				</crossref>
+				before I die:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Remove far from me falsehood and lying;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				give me neither poverty nor riches;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				feed me with the food that is 
+				<crossref let="x" cid="c20030008.1">
+				</crossref>
+				needful for me,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				lest I be 
+				<crossref let="y" cid="c20030009.1">
+				</crossref>
+				full and 
+				<crossref let="z" cid="c20030009.2">
+				</crossref>
+				deny you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and say, 
+				<crossref let="a" cid="c20030009.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				or lest I be poor and steal
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c20030009.4">
+				</crossref>
+				and profane the name of my God.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20030010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c20030010.1">
+				</crossref>
+				Do not slander a servant to his master,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c20030010.2">
+				</crossref>
+				lest he curse you, and you be held guilty.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20030011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				There are those
+				<note nid="n20030011.1">
+				</note>
+				 who 
+				<crossref let="e" cid="c20030011.1">
+				</crossref>
+				curse their fathers
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and do not bless their mothers.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				There are those who are 
+				<crossref let="f" cid="c20030012.1">
+				</crossref>
+				clean in their own eyes
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but are not washed of their filth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				There are thoseùhow 
+				<crossref let="g" cid="c20030013.1">
+				</crossref>
+				lofty are their eyes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				how high their eyelids lift!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				There are those whose teeth are 
+				<crossref let="h" cid="c20030014.1">
+				</crossref>
+				swords,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				whose 
+				<crossref let="i" cid="c20030014.2">
+				</crossref>
+				fangs are knives,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				to 
+				<crossref let="j" cid="c20030014.3">
+				</crossref>
+				devour the poor from off the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the needy from among mankind.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20030015">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				The leech has two daughters:
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Give and Give.
+				<note nid="n20030015.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c20030015.1">
+				</crossref>
+				Three things are never satisfied;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c20030015.2">
+				</crossref>
+				four never say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Enough
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c20030016.1">
+				</crossref>
+				Sheol, 
+				<crossref let="m" cid="c20030016.2">
+				</crossref>
+				the barren womb,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the land never satisfied with water,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the fire that never says, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Enough.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20030017">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				The eye that 
+				<crossref let="n" cid="c20030017.1">
+				</crossref>
+				mocks a father
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="o" cid="c20030017.2">
+				</crossref>
+				scorns to obey a mother
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				will 
+				<crossref let="p" cid="c20030017.3">
+				</crossref>
+				be picked out by 
+				<crossref let="q" cid="c20030017.4">
+				</crossref>
+				the ravens of the valley
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and eaten by the vultures.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20030018">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c20030018.1">
+				</crossref>
+				Three things are 
+				<crossref let="r" cid="c20030018.2">
+				</crossref>
+				too wonderful for me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c20030018.3">
+				</crossref>
+				four I do not understand:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				the way of an eagle in the sky,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the way of a serpent on a rock,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				the way of a ship on the high seas,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the way of a man with a virgin.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20030020">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				This is the way of an adulteress:
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she eats and wipes her mouth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and says, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have done no wrong.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20030021">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				Under 
+				<crossref let="k" cid="c20030021.1">
+				</crossref>
+				three things 
+				<crossref let="s" cid="c20030021.2">
+				</crossref>
+				the earth trembles;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				under 
+				<crossref let="k" cid="c20030021.3">
+				</crossref>
+				four it cannot bear up:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c20030022.1">
+				</crossref>
+				a slave when he becomes king,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a fool when he is 
+				<crossref let="u" cid="c20030022.2">
+				</crossref>
+				filled with food;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c20030023.1">
+				</crossref>
+				an unloved woman when she 
+				<crossref let="w" cid="c20030023.2">
+				</crossref>
+				gets a husband,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a maidservant when she displaces her mistress.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20030024">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c20030024.1">
+				</crossref>
+				Four things on earth are small,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but they are exceedingly wise:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c20030025.1">
+				</crossref>
+				the ants are a people not strong,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				yet they provide their food in the summer;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c20030026.1">
+				</crossref>
+				the rock badgers are a people not mighty,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				yet they make their homes in the cliffs;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				the locusts have no 
+				<crossref let="z" cid="c20030027.1">
+				</crossref>
+				king,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				yet all of them march in 
+				<crossref let="a" cid="c20030027.2">
+				</crossref>
+				rank;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				the lizard you can take in your hands,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				yet it is in kings' palaces.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20030029">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c20030029.1">
+				</crossref>
+				Three things are stately in their tread;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c20030029.2">
+				</crossref>
+				four are stately in their stride:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				the lion, which is mightiest among beasts
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="c" cid="c20030030.1">
+				</crossref>
+				does not turn back before any;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030031">
+			</marker>
+			<verse num="31">
+				<begin-line
+					>
+				</begin-line>
+				the 
+				<crossref let="d" cid="c20030031.1">
+				</crossref>
+				strutting rooster,
+				<note nid="n20030031.1">
+				</note>
+				 the he-goat,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a king whose army is with him.
+				<note nid="n20030031.2">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20030032">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="32">
+				<begin-line
+					>
+				</begin-line>
+				If you have been foolish, exalting yourself,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or if you have been devising evil,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c20030032.1">
+				</crossref>
+				put your hand on your mouth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20030033">
+			</marker>
+			<verse num="33">
+				<begin-line
+					>
+				</begin-line>
+				For pressing milk produces curds,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				pressing the nose produces blood,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and pressing anger produces strife.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

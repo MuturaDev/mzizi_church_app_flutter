@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Acts" num="43">
+		<marker class="begin-verse" mid="v44022001">
+		</marker>
+		<chapter num="22">
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="w" cid="c44022001.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Brothers and fathers, hear the defense that I now make before you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44022002">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="2">
+				And when they heard that he was addressing them in 
+				<crossref let="x" cid="c44022002.1">
+				</crossref>
+				the Hebrew language, they became even more quiet. And he said:
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44022003">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="y" cid="c44022003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am a Jew, born in Tarsus in Cilicia, but brought up in this city, educated 
+				<crossref let="z" cid="c44022003.2">
+				</crossref>
+				at the feet of 
+				<crossref let="a" cid="c44022003.3">
+				</crossref>
+				Gamaliel
+				<note nid="n44022003.1">
+				</note>
+				<crossref let="b" cid="c44022003.4">
+				</crossref>
+				according to the strict manner of the law of our fathers, 
+				<crossref let="c" cid="c44022003.5">
+				</crossref>
+				being zealous for God 
+				<crossref let="d" cid="c44022003.6">
+				</crossref>
+				as all of you are this day.
+			</verse>
+			<marker class="begin-verse" mid="v44022004">
+			</marker>
+			<verse num="4">
+				<crossref let="e" cid="c44022004.1">
+				</crossref>
+				I persecuted 
+				<crossref let="f" cid="c44022004.2">
+				</crossref>
+				this Way 
+				<crossref let="g" cid="c44022004.3">
+				</crossref>
+				to the death, binding and delivering to prison both men and women,
+			</verse>
+			<marker class="begin-verse" mid="v44022005">
+			</marker>
+			<verse num="5">
+				as 
+				<crossref let="h" cid="c44022005.1">
+				</crossref>
+				the high priest and 
+				<crossref let="i" cid="c44022005.2">
+				</crossref>
+				the whole council of elders can bear me witness. From them I received letters to 
+				<crossref let="j" cid="c44022005.3">
+				</crossref>
+				the brothers, and I journeyed toward Damascus to take those also who were there and bring them in bonds to Jerusalem to be punished.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44022006">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="6">
+				<crossref let="k" cid="c44022006.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				As I was on my way and drew near to Damascus, about noon a great light from heaven suddenly shone around me.
+			</verse>
+			<marker class="begin-verse" mid="v44022007">
+			</marker>
+			<verse num="7">
+				And I fell to the ground and heard a voice saying to me, 
+				<woc>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Saul, Saul, why are you persecuting me?
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44022008">
+			</marker>
+			<verse num="8">
+				And I answered, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Who are you, Lord?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 And he said to me, 
+				<woc>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					I am 
+					<crossref let="l" cid="c44022008.1">
+					</crossref>
+					Jesus of Nazareth, whom you are persecuting.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44022009">
+			</marker>
+			<verse num="9">
+				<crossref let="m" cid="c44022009.1">
+				</crossref>
+				Now those who were with me saw the light but did not understand
+				<note nid="n44022009.1">
+				</note>
+				 the voice of the one who was speaking to me.
+			</verse>
+			<marker class="begin-verse" mid="v44022010">
+			</marker>
+			<verse num="10">
+				And I said, 
+				<crossref let="n" cid="c44022010.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				What shall I do, Lord?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 And the Lord said to me, 
+				<woc>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Rise, and go into Damascus, and there you will be told all that is appointed for you to do.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44022011">
+			</marker>
+			<verse num="11">
+				And since I could not see because of the brightness of that light, I was led by the hand by those who were with me, and came into Damascus.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44022012">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="12">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				And 
+				<crossref let="o" cid="c44022012.1">
+				</crossref>
+				one Ananias, a devout man 
+				<crossref let="p" cid="c44022012.2">
+				</crossref>
+				according to the law, 
+				<crossref let="q" cid="c44022012.3">
+				</crossref>
+				well spoken of by all the Jews who lived there,
+			</verse>
+			<marker class="begin-verse" mid="v44022013">
+			</marker>
+			<verse num="13">
+				<crossref let="r" cid="c44022013.1">
+				</crossref>
+				came to me, and standing by me said to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Brother Saul, receive your sight.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 And 
+				<crossref let="s" cid="c44022013.2">
+				</crossref>
+				at that very hour I received my sight and saw him.
+			</verse>
+			<marker class="begin-verse" mid="v44022014">
+			</marker>
+			<verse num="14">
+				And he said, 
+				<crossref let="t" cid="c44022014.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The God of our fathers 
+				<crossref let="u" cid="c44022014.2">
+				</crossref>
+				appointed you to know his will, 
+				<crossref let="v" cid="c44022014.3">
+				</crossref>
+				to see 
+				<crossref let="w" cid="c44022014.4">
+				</crossref>
+				the Righteous One and 
+				<crossref let="x" cid="c44022014.5">
+				</crossref>
+				to hear a voice from his mouth;
+			</verse>
+			<marker class="begin-verse" mid="v44022015">
+			</marker>
+			<verse num="15">
+				for 
+				<crossref let="y" cid="c44022015.1">
+				</crossref>
+				you will be a witness for him to everyone of what 
+				<crossref let="z" cid="c44022015.2">
+				</crossref>
+				you have seen and heard.
+			</verse>
+			<marker class="begin-verse" mid="v44022016">
+			</marker>
+			<verse num="16">
+				And now why do you wait? 
+				<crossref let="a" cid="c44022016.1">
+				</crossref>
+				Rise and be baptized and 
+				<crossref let="b" cid="c44022016.2">
+				</crossref>
+				wash away your sins, 
+				<crossref let="c" cid="c44022016.3">
+				</crossref>
+				calling on his name.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44022017">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="17">
+				<crossref let="d" cid="c44022017.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				When I had returned to Jerusalem and 
+				<crossref let="e" cid="c44022017.2">
+				</crossref>
+				was praying in the temple, I fell into 
+				<crossref let="f" cid="c44022017.3">
+				</crossref>
+				a trance
+			</verse>
+			<marker class="begin-verse" mid="v44022018">
+			</marker>
+			<verse num="18">
+				and saw him saying to me, 
+				<woc>
+					<crossref let="g" cid="c44022018.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Make haste and get out of Jerusalem quickly, because they will not accept your testimony about me.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44022019">
+			</marker>
+			<verse num="19">
+				And I said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Lord, they themselves know that in one synagogue after another 
+				<crossref let="h" cid="c44022019.1">
+				</crossref>
+				I imprisoned and 
+				<crossref let="i" cid="c44022019.2">
+				</crossref>
+				beat those who believed in you.
+			</verse>
+			<marker class="begin-verse" mid="v44022020">
+			</marker>
+			<verse num="20">
+				And when the blood of Stephen 
+				<crossref let="j" cid="c44022020.1">
+				</crossref>
+				your witness was being shed, 
+				<crossref let="k" cid="c44022020.2">
+				</crossref>
+				I myself was standing by and 
+				<crossref let="l" cid="c44022020.3">
+				</crossref>
+				approving and 
+				<crossref let="k" cid="c44022020.4">
+				</crossref>
+				watching over the garments of those who killed him.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44022021">
+			</marker>
+			<verse num="21">
+				And he said to me, 
+				<woc>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Go, for I will send you 
+					<crossref let="m" cid="c44022021.1">
+					</crossref>
+					far away to the Gentiles.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44022022">
+			</marker>
+			<heading>
+				Paul and the Roman Tribune
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="22">
+				Up to this word they listened to him. Then they raised their voices and said, 
+				<crossref let="n" cid="c44022022.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Away with such a fellow from the earth! For 
+				<crossref let="o" cid="c44022022.2">
+				</crossref>
+				he should not be allowed to live.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44022023">
+			</marker>
+			<verse num="23">
+				And as they were shouting and throwing off their cloaks and flinging dust into the air,
+			</verse>
+			<marker class="begin-verse" mid="v44022024">
+			</marker>
+			<verse num="24">
+				the tribune ordered him to be brought into 
+				<crossref let="p" cid="c44022024.1">
+				</crossref>
+				the barracks, saying that he should be 
+				<crossref let="q" cid="c44022024.2">
+				</crossref>
+				examined by flogging, to find out why they were shouting against him like this.
+			</verse>
+			<marker class="begin-verse" mid="v44022025">
+			</marker>
+			<verse num="25">
+				But when they had stretched him out for the whips,
+				<note nid="n44022025.1">
+				</note>
+				 Paul said to the centurion who was standing by, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is it lawful for you to flog 
+				<crossref let="r" cid="c44022025.1">
+				</crossref>
+				a man who is a Roman citizen and uncondemned?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44022026">
+			</marker>
+			<verse num="26">
+				When the centurion heard this, he went to the tribune and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What are you about to do? For this man is a Roman citizen.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44022027">
+			</marker>
+			<verse num="27">
+				So the tribune came and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tell me, are you a Roman citizen?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Yes.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44022028">
+			</marker>
+			<verse num="28">
+				The tribune answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I bought this citizenship for a large sum.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Paul said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				But I am a citizen by birth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44022029">
+			</marker>
+			<verse num="29">
+				So those who were about 
+				<crossref let="s" cid="c44022029.1">
+				</crossref>
+				to examine him withdrew from him immediately, and the tribune also 
+				<crossref let="t" cid="c44022029.2">
+				</crossref>
+				was afraid, 
+				<crossref let="u" cid="c44022029.3">
+				</crossref>
+				for he realized that Paul was a Roman citizen and that 
+				<crossref let="v" cid="c44022029.4">
+				</crossref>
+				he had bound him.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44022030">
+			</marker>
+			<heading>
+				Paul Before the Council
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="30">
+				But on the next day, 
+				<crossref let="w" cid="c44022030.1">
+				</crossref>
+				desiring to know the real reason why he was being accused by the Jews, he unbound him and commanded the chief priests and all the council to meet, and he brought Paul down and set him before them.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

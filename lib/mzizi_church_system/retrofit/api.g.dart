@@ -9,10 +9,11 @@ part of 'api.dart';
 class _RestClient implements RestClient {
   _RestClient(this._dio) {
     ArgumentError.checkNotNull(_dio, '_dio');
-    _dio.options.baseUrl = 'https://api-church.mzizi.co.ke/api';
   }
 
   final Dio _dio;
+
+  final String baseUrl = 'https://api-church.mzizi.co.ke/api';
 
   @override
   apiGetAuthenticationUserResponse(request) async {
@@ -20,12 +21,17 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/UserCredentials',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<Map<String, dynamic>> _result = await _dio.request(
+        '/UserCredentials',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = AuthenticationUserResponse.fromJson(_result.data);
+    final value = AuthenticationUserResponse.fromJson(_result.data);
     return Future.value(value);
   }
 
@@ -35,13 +41,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalDetailedTransaction',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalDetailedTransaction',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalDetailedTransaction.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            PortalDetailedTransaction.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -52,12 +64,17 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/FilteredStudentInfo',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<Map<String, dynamic>> _result = await _dio.request(
+        '/FilteredStudentInfo',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = PortalFilteredStudentInfo.fromJson(_result.data);
+    final value = PortalFilteredStudentInfo.fromJson(_result.data);
     return Future.value(value);
   }
 
@@ -67,12 +84,17 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/SyncMyAccount',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<Map<String, dynamic>> _result = await _dio.request(
+        '/SyncMyAccount',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = PortalSyncMyAccount.fromJson(_result.data);
+    final value = PortalSyncMyAccount.fromJson(_result.data);
     return Future.value(value);
   }
 
@@ -82,12 +104,17 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalNotificationsReadTracking',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<String> _result = await _dio.request(
+        '/PortalNotificationsReadTracking',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = _result.data;
+    final value = _result.data;
     return Future.value(value);
   }
 
@@ -97,12 +124,17 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalGetGlobalSettings',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<Map<String, dynamic>> _result = await _dio.request(
+        '/PortalGetGlobalSettings',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = PortalGlobalSettingResponse.fromJson(_result.data);
+    final value = PortalGlobalSettingResponse.fromJson(_result.data);
     return Future.value(value);
   }
 
@@ -112,12 +144,17 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/MziziAppVersion',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<Map<String, dynamic>> _result = await _dio.request(
+        '/MziziAppVersion',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = MziziAppVersion.fromJson(_result.data);
+    final value = MziziAppVersion.fromJson(_result.data);
     return Future.value(value);
   }
 
@@ -127,13 +164,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalContacts',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalContacts',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value =
-        (_result.data as List).map((i) => PortalContacts.fromJson(i)).toList();
+    var value = _result.data
+        .map((dynamic i) => PortalContacts.fromJson(i as Map<String, dynamic>))
+        .toList();
     return Future.value(value);
   }
 
@@ -143,13 +186,18 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalEvents',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request('/PortalEvents',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value =
-        (_result.data as List).map((i) => PortalEvents.fromJson(i)).toList();
+    var value = _result.data
+        .map((dynamic i) => PortalEvents.fromJson(i as Map<String, dynamic>))
+        .toList();
     return Future.value(value);
   }
 
@@ -159,13 +207,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalNotifications',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalNotifications',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalNotification.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            PortalNotification.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -176,13 +230,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalSiblings',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalSiblings',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value =
-        (_result.data as List).map((i) => PortalSiblings.fromJson(i)).toList();
+    var value = _result.data
+        .map((dynamic i) => PortalSiblings.fromJson(i as Map<String, dynamic>))
+        .toList();
     return Future.value(value);
   }
 
@@ -192,13 +252,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalStudentDetailedResults',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalStudentDetailedResults',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalStudentDetailedResults.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            PortalStudentDetailedResults.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -209,12 +275,17 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalStudentInfo',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<Map<String, dynamic>> _result = await _dio.request(
+        '/PortalStudentInfo',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = PortalStudentInfo.fromJson(_result.data);
+    final value = PortalStudentInfo.fromJson(_result.data);
     return Future.value(value);
   }
 
@@ -224,13 +295,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalGetProgressReport',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalGetProgressReport',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalProgressReport.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            PortalProgressReport.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -241,13 +318,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalParentChat',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalParentChat',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => ParentChatResponse.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            ParentChatResponse.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -258,13 +341,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalToDoList',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalToDoList',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value =
-        (_result.data as List).map((i) => PortalToDoList.fromJson(i)).toList();
+    var value = _result.data
+        .map((dynamic i) => PortalToDoList.fromJson(i as Map<String, dynamic>))
+        .toList();
     return Future.value(value);
   }
 
@@ -274,13 +363,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalDetailedToDoList',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalDetailedToDoList',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalDetailedTodoList.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            PortalDetailedTodoList.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -291,13 +386,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalRecentTransactions',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalRecentTransactions',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalRecentTransaction.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            PortalRecentTransaction.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -308,13 +409,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalStudentVisualization',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalStudentVisualization',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalStudentVisualization.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            PortalStudentVisualization.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -325,13 +432,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalStudentVisualizationAverage',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalStudentVisualizationAverage',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalStudentVisualizationAverage.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) => PortalStudentVisualizationAverage.fromJson(
+            i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -342,13 +455,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalStudentResults',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalStudentResults',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalStudentResultsExtended.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            PortalStudentResultsExtended.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -359,13 +478,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalSMSHistory',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalSMSHistory',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalNotification.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            PortalNotification.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -376,13 +501,18 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/ChargeTypes',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request('/ChargeTypes',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalChargeTypeResponseModel.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            PortalChargeTypeResponseModel.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -393,13 +523,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalServiceTypes',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalServiceTypes',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => ServiceTypesModel.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            ServiceTypesModel.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -410,12 +546,16 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/Contributions',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<String> _result = await _dio.request('/Contributions',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = _result.data;
+    final value = _result.data;
     return Future.value(value);
   }
 
@@ -425,13 +565,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalChurchServices',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalChurchServices',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalChurchServices.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            PortalChurchServices.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -442,12 +588,17 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalGetCompanyImage',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<String> _result = await _dio.request(
+        '/PortalGetCompanyImage',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = _result.data;
+    final value = _result.data;
     return Future.value(value);
   }
 
@@ -457,13 +608,19 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalYoutubeVideoGallery',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalYoutubeVideoGallery',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = (_result.data as List)
-        .map((i) => PortalVideoGalleryResponseModel.fromJson(i))
+    var value = _result.data
+        .map((dynamic i) =>
+            PortalVideoGalleryResponseModel.fromJson(i as Map<String, dynamic>))
         .toList();
     return Future.value(value);
   }
@@ -474,12 +631,102 @@ class _RestClient implements RestClient {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _data = <String, dynamic>{};
-    _data.addAll(request ?? {});
-    final _result = await _dio.request('/PortalStudentProfile',
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<Map<String, dynamic>> _result = await _dio.request(
+        '/PortalStudentProfile',
         queryParameters: queryParameters,
-        options: RequestOptions(method: 'POST', headers: {}, extra: _extra),
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
         data: _data);
-    var value = PortalMemberProfileModel.fromJson(_result.data);
+    final value = PortalMemberProfileModel.fromJson(_result.data);
+    return Future.value(value);
+  }
+
+  @override
+  apiGetPortalEnquiryTypes(request) async {
+    ArgumentError.checkNotNull(request, 'request');
+    const _extra = <String, dynamic>{};
+    final queryParameters = <String, dynamic>{};
+    final _data = <String, dynamic>{};
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalEnquiryTypes',
+        queryParameters: queryParameters,
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
+        data: _data);
+    var value = _result.data
+        .map((dynamic i) =>
+            PortalEnquiryTypes.fromJson(i as Map<String, dynamic>))
+        .toList();
+    return Future.value(value);
+  }
+
+  @override
+  apiGetListOnboarding(request) async {
+    ArgumentError.checkNotNull(request, 'request');
+    const _extra = <String, dynamic>{};
+    final queryParameters = <String, dynamic>{};
+    final _data = <String, dynamic>{};
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<List<dynamic>> _result = await _dio.request(
+        '/PortalListOnboarding',
+        queryParameters: queryParameters,
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
+        data: _data);
+    var value = _result.data
+        .map((dynamic i) => PortalListOnboardingResponseModel.fromJson(
+            i as Map<String, dynamic>))
+        .toList();
+    return Future.value(value);
+  }
+
+  @override
+  apiGetPortalDeviceFCMToken(request) async {
+    ArgumentError.checkNotNull(request, 'request');
+    const _extra = <String, dynamic>{};
+    final queryParameters = <String, dynamic>{};
+    final _data = <String, dynamic>{};
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<String> _result = await _dio.request('/PortalDeviceFCMToken',
+        queryParameters: queryParameters,
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
+        data: _data);
+    final value = _result.data;
+    return Future.value(value);
+  }
+
+  @override
+  apiGetPortalMziziAppVersion(request) async {
+    ArgumentError.checkNotNull(request, 'request');
+    const _extra = <String, dynamic>{};
+    final queryParameters = <String, dynamic>{};
+    final _data = <String, dynamic>{};
+    _data.addAll(request ?? <String, dynamic>{});
+    final Response<Map<String, dynamic>> _result = await _dio.request(
+        '/MziziAppVersion',
+        queryParameters: queryParameters,
+        options: RequestOptions(
+            method: 'POST',
+            headers: <String, dynamic>{},
+            extra: _extra,
+            baseUrl: baseUrl),
+        data: _data);
+    final value = MziziAppVersion.fromJson(_result.data);
     return Future.value(value);
   }
 }

@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01023001">
+		</marker>
+		<chapter num="23">
+			<heading
+				>
+				Sarah's Death and Burial
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Sarah lived 127 years; these were the years of the life of Sarah.
+			</verse>
+			<marker class="begin-verse" mid="v01023002">
+			</marker>
+			<verse num="2">
+				And Sarah died at 
+				<crossref let="d" cid="c01023002.1">
+				</crossref>
+				Kiriath-arba (that is, 
+				<crossref let="e" cid="c01023002.2">
+				</crossref>
+				Hebron) in the land of Canaan, and Abraham went in to mourn for Sarah and to weep for her.
+			</verse>
+			<marker class="begin-verse" mid="v01023003">
+			</marker>
+			<verse num="3">
+				And Abraham rose up from before his dead and said to the Hittites,
+				<note nid="n01023003.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01023004">
+			</marker>
+			<verse num="4">
+				<crossref let="f" cid="c01023004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am a sojourner and foreigner among you; 
+				<crossref let="g" cid="c01023004.2">
+				</crossref>
+				give me property among you for a burying place, that I may bury my dead out of my sight.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01023005">
+			</marker>
+			<verse num="5">
+				The Hittites answered Abraham,
+			</verse>
+			<marker class="begin-verse" mid="v01023006">
+			</marker>
+			<verse num="6">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hear us, my lord; you are a prince of God
+				<note nid="n01023006.1">
+				</note>
+				 among us. Bury your dead in the choicest of our tombs. None of us will withhold from you his tomb to hinder you from burying your dead.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01023007">
+			</marker>
+			<verse num="7">
+				Abraham rose and bowed to the Hittites, the people of the land.
+			</verse>
+			<marker class="begin-verse" mid="v01023008">
+			</marker>
+			<verse num="8">
+				And he said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If you are willing that I should bury my dead out of my sight, hear me and entreat for me Ephron the son of Zohar,
+			</verse>
+			<marker class="begin-verse" mid="v01023009">
+			</marker>
+			<verse num="9">
+				that he may give me the cave of Machpelah, which he owns; it is at the end of his field. For the full price let him give it to me in your presence as property for a burying place.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01023010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				Now Ephron was sitting among the Hittites, and Ephron the Hittite answered Abraham in the hearing of the Hittites, of all who 
+				<crossref let="h" cid="c01023010.1">
+				</crossref>
+				went in at the gate of his city,
+			</verse>
+			<marker class="begin-verse" mid="v01023011">
+			</marker>
+			<verse num="11">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No, my lord, hear me: I give you the field, and I give you the cave that is in it. In the sight of the sons of my people I give it to you. Bury your dead.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01023012">
+			</marker>
+			<verse num="12">
+				Then Abraham bowed down before the people of the land.
+			</verse>
+			<marker class="begin-verse" mid="v01023013">
+			</marker>
+			<verse num="13">
+				And he said to Ephron in the hearing of the people of the land, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				But if you will, hear me: I give the price of the field. Accept it from me, that I may bury my dead there.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01023014">
+			</marker>
+			<verse num="14">
+				Ephron answered Abraham,
+			</verse>
+			<marker class="begin-verse" mid="v01023015">
+			</marker>
+			<verse num="15">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My lord, listen to me: a piece of land worth four hundred 
+				<crossref let="i" cid="c01023015.1">
+				</crossref>
+				shekels
+				<note nid="n01023015.1">
+				</note>
+				 of silver, what is that between you and me? Bury your dead.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01023016">
+			</marker>
+			<verse num="16">
+				Abraham listened to Ephron, and Abraham 
+				<crossref let="j" cid="c01023016.1">
+				</crossref>
+				weighed out for Ephron the silver that he had named in the hearing of the Hittites, four hundred shekels of silver, according to the weights current among the merchants.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01023017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				So 
+				<crossref let="k" cid="c01023017.1">
+				</crossref>
+				the field of Ephron in Machpelah, which was to the east of Mamre, the field with the cave that was in it and all the trees that were in the field, throughout its whole area, was made over
+			</verse>
+			<marker class="begin-verse" mid="v01023018">
+			</marker>
+			<verse num="18">
+				to Abraham as a possession in the presence of the Hittites, before all who went in at the gate of his city.
+			</verse>
+			<marker class="begin-verse" mid="v01023019">
+			</marker>
+			<verse num="19">
+				After this, Abraham buried Sarah his wife in the cave of the field of Machpelah east of Mamre (that is, Hebron) in the land of Canaan.
+			</verse>
+			<marker class="begin-verse" mid="v01023020">
+			</marker>
+			<verse num="20">
+				The field and the cave that is in it 
+				<crossref let="l" cid="c01023020.1">
+				</crossref>
+				were made over to Abraham as property for a burying place by the Hittites.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

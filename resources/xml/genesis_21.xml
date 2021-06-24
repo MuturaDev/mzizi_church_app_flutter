@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01021001">
+		</marker>
+		<chapter num="21">
+			<heading
+				>
+				The Birth of Isaac
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="k" cid="c01021001.1">
+				</crossref>
+				visited Sarah as he had said, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 did to Sarah 
+				<crossref let="l" cid="c01021001.2">
+				</crossref>
+				as he had promised.
+			</verse>
+			<marker class="begin-verse" mid="v01021002">
+			</marker>
+			<verse num="2">
+				And Sarah 
+				<crossref let="m" cid="c01021002.1">
+				</crossref>
+				conceived and bore Abraham a son in his old age 
+				<crossref let="n" cid="c01021002.2">
+				</crossref>
+				at the time of which God had spoken to him.
+			</verse>
+			<marker class="begin-verse" mid="v01021003">
+			</marker>
+			<verse num="3">
+				Abraham called the name of his son who was born to him, whom Sarah bore him, 
+				<crossref let="o" cid="c01021003.1">
+				</crossref>
+				Isaac.
+				<note nid="n01021003.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01021004">
+			</marker>
+			<verse num="4">
+				And Abraham 
+				<crossref let="p" cid="c01021004.1">
+				</crossref>
+				circumcised his son Isaac when he was eight days old, 
+				<crossref let="q" cid="c01021004.2">
+				</crossref>
+				as God had commanded him.
+			</verse>
+			<marker class="begin-verse" mid="v01021005">
+			</marker>
+			<verse num="5">
+				<crossref let="r" cid="c01021005.1">
+				</crossref>
+				Abraham was a hundred years old when his son Isaac was born to him.
+			</verse>
+			<marker class="begin-verse" mid="v01021006">
+			</marker>
+			<verse num="6">
+				And Sarah said, 
+				<crossref let="s" cid="c01021006.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				God has made laughter for me; everyone who hears will laugh over me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01021007">
+			</marker>
+			<verse num="7">
+				And she said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who would have said to Abraham that Sarah would nurse children? 
+				<crossref let="t" cid="c01021007.1">
+				</crossref>
+				Yet I have borne him a son in his old age.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01021008">
+			</marker>
+			<heading
+				>
+				God Protects Hagar and Ishmael
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				And the child grew and was weaned. And Abraham made a great feast on the day that Isaac was weaned.
+			</verse>
+			<marker class="begin-verse" mid="v01021009">
+			</marker>
+			<verse num="9">
+				But Sarah 
+				<crossref let="u" cid="c01021009.1">
+				</crossref>
+				saw the son of Hagar the Egyptian, whom she had borne to Abraham, 
+				<crossref let="v" cid="c01021009.2">
+				</crossref>
+				laughing.
+				<note nid="n01021009.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01021010">
+			</marker>
+			<verse num="10">
+				So she said to Abraham, 
+				<crossref let="w" cid="c01021010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Cast out this slave woman with her son, for the son of this slave woman shall not be heir with my son Isaac.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01021011">
+			</marker>
+			<verse num="11">
+				And the thing was very displeasing to Abraham on account of his son.
+			</verse>
+			<marker class="begin-verse" mid="v01021012">
+			</marker>
+			<verse num="12">
+				But God said to Abraham, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Be not displeased because of the boy and because of your slave woman. Whatever Sarah says to you, do as she tells you, for 
+				<crossref let="x" cid="c01021012.1">
+				</crossref>
+				through Isaac shall your offspring be named.
+			</verse>
+			<marker class="begin-verse" mid="v01021013">
+			</marker>
+			<verse num="13">
+				And I will make 
+				<crossref let="y" cid="c01021013.1">
+				</crossref>
+				a nation of the son of the slave woman also, because he is your offspring.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01021014">
+			</marker>
+			<verse num="14">
+				So Abraham rose early in the morning and took bread and a skin of water and gave it to Hagar, putting it on her shoulder, along with the child, and sent her away. And she departed and wandered in the wilderness of 
+				<crossref let="z" cid="c01021014.1">
+				</crossref>
+				Beersheba.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01021015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				When the water in the skin was gone, she put the child under one of the bushes.
+			</verse>
+			<marker class="begin-verse" mid="v01021016">
+			</marker>
+			<verse num="16">
+				Then she went and sat down opposite him a good way off, about the distance of a bowshot, for she said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let me not look on the death of the child.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And as she sat opposite him, she lifted up her voice and wept.
+			</verse>
+			<marker class="begin-verse" mid="v01021017">
+			</marker>
+			<verse num="17">
+				And God heard the voice of the boy, and the angel of God called to Hagar from heaven and said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What troubles you, Hagar? Fear not, for God has heard the voice of the boy where he is.
+			</verse>
+			<marker class="begin-verse" mid="v01021018">
+			</marker>
+			<verse num="18">
+				Up! Lift up the boy, and hold him fast with your hand, for I will make him into a great nation.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01021019">
+			</marker>
+			<verse num="19">
+				Then 
+				<crossref let="a" cid="c01021019.1">
+				</crossref>
+				God opened her eyes, and she saw a well of water. And she went and filled the skin with water and gave the boy a drink.
+			</verse>
+			<marker class="begin-verse" mid="v01021020">
+			</marker>
+			<verse num="20">
+				And God was with the boy, and he grew up. He lived in the wilderness 
+				<crossref let="b" cid="c01021020.1">
+				</crossref>
+				and became an expert with the bow.
+			</verse>
+			<marker class="begin-verse" mid="v01021021">
+			</marker>
+			<verse num="21">
+				He lived in the wilderness of Paran, and his mother took a wife for him from the land of Egypt.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01021022">
+			</marker>
+			<heading
+				>
+				A Treaty with Abimelech
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				At that time 
+				<crossref let="c" cid="c01021022.1">
+				</crossref>
+				Abimelech and Phicol the commander of his army said to Abraham, 
+				<crossref let="d" cid="c01021022.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				God is with you in all that you do.
+			</verse>
+			<marker class="begin-verse" mid="v01021023">
+			</marker>
+			<verse num="23">
+				Now therefore swear to me here by God that you will not deal falsely with me or with my descendants or with my posterity, but 
+				<crossref let="e" cid="c01021023.1">
+				</crossref>
+				as I have dealt kindly with you, so you will deal with me and with the land where you have sojourned.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01021024">
+			</marker>
+			<verse num="24">
+				And Abraham said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will swear.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01021025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				When Abraham reproved Abimelech about a well of water that Abimelech's servants 
+				<crossref let="f" cid="c01021025.1">
+				</crossref>
+				had seized,
+			</verse>
+			<marker class="begin-verse" mid="v01021026">
+			</marker>
+			<verse num="26">
+				Abimelech said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I do not know who has done this thing; you did not tell me, and I have not heard of it until today.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01021027">
+			</marker>
+			<verse num="27">
+				So Abraham took sheep and oxen and gave them to Abimelech, and the two men 
+				<crossref let="g" cid="c01021027.1">
+				</crossref>
+				made a covenant.
+			</verse>
+			<marker class="begin-verse" mid="v01021028">
+			</marker>
+			<verse num="28">
+				Abraham set seven ewe lambs of the flock apart.
+			</verse>
+			<marker class="begin-verse" mid="v01021029">
+			</marker>
+			<verse num="29">
+				And Abimelech said to Abraham, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is the meaning of these seven ewe lambs that you have set apart?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01021030">
+			</marker>
+			<verse num="30">
+				He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				These seven ewe lambs you will take from my hand, that this
+				<note nid="n01021030.1">
+				</note>
+				 may be a witness for me that I dug this well.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01021031">
+			</marker>
+			<verse num="31">
+				Therefore 
+				<crossref let="h" cid="c01021031.1">
+				</crossref>
+				that place was called Beersheba,
+				<note nid="n01021031.1">
+				</note>
+				 because there both of them swore an oath.
+			</verse>
+			<marker class="begin-verse" mid="v01021032">
+			</marker>
+			<verse num="32">
+				So they made a covenant at Beersheba. Then Abimelech and Phicol the commander of his army rose up and returned to the land of the Philistines.
+			</verse>
+			<marker class="begin-verse" mid="v01021033">
+			</marker>
+			<verse num="33">
+				Abraham planted a tamarisk tree in Beersheba and 
+				<crossref let="i" cid="c01021033.1">
+				</crossref>
+				called there on the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="j" cid="c01021033.2">
+				</crossref>
+				the Everlasting God.
+			</verse>
+			<marker class="begin-verse" mid="v01021034">
+			</marker>
+			<verse num="34">
+				And Abraham sojourned many days in the land of the Philistines.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

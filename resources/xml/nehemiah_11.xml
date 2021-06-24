@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Nehemiah" num="15">
+		<marker class="begin-verse" mid="v16011001">
+		</marker>
+		<chapter num="11">
+			<heading
+				>
+				The Leaders in Jerusalem
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now the leaders of the people 
+				<crossref let="h" cid="c16011001.1">
+				</crossref>
+				lived in Jerusalem. And the rest of the people 
+				<crossref let="i" cid="c16011001.2">
+				</crossref>
+				cast lots to bring one out of ten to live in Jerusalem 
+				<crossref let="j" cid="c16011001.3">
+				</crossref>
+				the holy city, while nine out of ten
+				<note nid="n16011001.1">
+				</note>
+				 remained in the other towns.
+			</verse>
+			<marker class="begin-verse" mid="v16011002">
+			</marker>
+			<verse num="2">
+				And the people blessed all the men 
+				<crossref let="k" cid="c16011002.1">
+				</crossref>
+				who willingly offered to live in Jerusalem.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16011003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="l" cid="c16011003.1">
+				</crossref>
+				These are the chiefs of the province who lived in Jerusalem; but in the towns of Judah 
+				<crossref let="m" cid="c16011003.2">
+				</crossref>
+				everyone lived on his property in their towns: Israel, the priests, the Levites, 
+				<crossref let="n" cid="c16011003.3">
+				</crossref>
+				the temple servants, 
+				<crossref let="o" cid="c16011003.4">
+				</crossref>
+				and the descendants of Solomon's servants.
+			</verse>
+			<marker class="begin-verse" mid="v16011004">
+			</marker>
+			<verse num="4">
+				And in Jerusalem lived certain of the sons of Judah and of the sons of Benjamin. Of the sons of Judah: Athaiah the son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalalel, of the sons of 
+				<crossref let="p" cid="c16011004.1">
+				</crossref>
+				Perez;
+			</verse>
+			<marker class="begin-verse" mid="v16011005">
+			</marker>
+			<verse num="5">
+				and Maaseiah the son of Baruch, son of Col-hozeh, son of Hazaiah, son of Adaiah, son of Joiarib, son of Zechariah, son of the Shilonite.
+			</verse>
+			<marker class="begin-verse" mid="v16011006">
+			</marker>
+			<verse num="6">
+				All the sons of Perez who lived in Jerusalem were 468 valiant men.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16011007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				And these are the sons of Benjamin: Sallu the son of Meshullam, son of Joed, son of Pedaiah, son of Kolaiah, son of Maaseiah, son of Ithiel, son of Jeshaiah,
+			</verse>
+			<marker class="begin-verse" mid="v16011008">
+			</marker>
+			<verse num="8">
+				and his brothers, men of valor, 928.
+				<note nid="n16011008.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v16011009">
+			</marker>
+			<verse num="9">
+				Joel the son of Zichri was their overseer; and Judah the son of Hassenuah was second over the city.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16011010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				Of the priests: Jedaiah the son of Joiarib, Jachin,
+			</verse>
+			<marker class="begin-verse" mid="v16011011">
+			</marker>
+			<verse num="11">
+				Seraiah the son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, ruler of the house of God,
+			</verse>
+			<marker class="begin-verse" mid="v16011012">
+			</marker>
+			<verse num="12">
+				and their brothers who did the work of the house, 822; and Adaiah the son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur, son of Malchijah,
+			</verse>
+			<marker class="begin-verse" mid="v16011013">
+			</marker>
+			<verse num="13">
+				and his brothers, heads of fathers' houses, 242; and Amashsai, the son of Azarel, son of Ahzai, son of Meshillemoth, son of Immer,
+			</verse>
+			<marker class="begin-verse" mid="v16011014">
+			</marker>
+			<verse num="14">
+				and their brothers, mighty men of valor, 128; their overseer was Zabdiel the son of Haggedolim.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16011015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				And of the Levites: Shemaiah the son of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni;
+			</verse>
+			<marker class="begin-verse" mid="v16011016">
+			</marker>
+			<verse num="16">
+				and Shabbethai and 
+				<crossref let="q" cid="c16011016.1">
+				</crossref>
+				Jozabad, of the chiefs of the Levites, who were over 
+				<crossref let="r" cid="c16011016.2">
+				</crossref>
+				the outside work of the house of God;
+			</verse>
+			<marker class="begin-verse" mid="v16011017">
+			</marker>
+			<verse num="17">
+				and 
+				<crossref let="s" cid="c16011017.1">
+				</crossref>
+				Mattaniah the son of Mica, son of Zabdi, son of Asaph, who was the leader of the praise,
+				<note nid="n16011017.1">
+				</note>
+				 who gave thanks, and Bakbukiah, the second among his brothers; and Abda the son of Shammua, son of Galal, son of Jeduthun.
+			</verse>
+			<marker class="begin-verse" mid="v16011018">
+			</marker>
+			<verse num="18">
+				All the Levites in 
+				<crossref let="t" cid="c16011018.1">
+				</crossref>
+				the holy city were 284.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16011019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				The gatekeepers, Akkub, Talmon and their brothers, who kept watch at the gates, were 172.
+			</verse>
+			<marker class="begin-verse" mid="v16011020">
+			</marker>
+			<verse num="20">
+				And the rest of Israel, and of the priests and the Levites, were in all the towns of Judah, 
+				<crossref let="u" cid="c16011020.1">
+				</crossref>
+				every one in his inheritance.
+			</verse>
+			<marker class="begin-verse" mid="v16011021">
+			</marker>
+			<verse num="21">
+				<crossref let="v" cid="c16011021.1">
+				</crossref>
+				But the temple servants lived on Ophel; and Ziha and Gishpa were over the temple servants.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16011022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				The overseer of the Levites in Jerusalem was Uzzi the son of Bani, son of Hashabiah, son of Mattaniah, son of Mica, of the sons of Asaph, the singers, over the work of the house of God.
+			</verse>
+			<marker class="begin-verse" mid="v16011023">
+			</marker>
+			<verse num="23">
+				<crossref let="w" cid="c16011023.1">
+				</crossref>
+				For there was a command from the king concerning them, and a fixed provision for the singers, 
+				<crossref let="x" cid="c16011023.2">
+				</crossref>
+				as every day required.
+			</verse>
+			<marker class="begin-verse" mid="v16011024">
+			</marker>
+			<verse num="24">
+				And Pethahiah the son of Meshezabel, of the sons of Zerah the son of Judah, was at the king's side
+				<note nid="n16011024.1">
+				</note>
+				 in all matters concerning the people.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16011025">
+			</marker>
+			<heading
+				>
+				Villages Outside Jerusalem
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				And as for the villages, with their fields, some of the people of Judah lived in 
+				<crossref let="y" cid="c16011025.1">
+				</crossref>
+				Kiriath-arba and its villages, and in Dibon and its villages, and in Jekabzeel and its villages,
+			</verse>
+			<marker class="begin-verse" mid="v16011026">
+			</marker>
+			<verse num="26">
+				and in Jeshua and in Moladah and Beth-pelet,
+			</verse>
+			<marker class="begin-verse" mid="v16011027">
+			</marker>
+			<verse num="27">
+				in Hazar-shual, in Beersheba and its villages,
+			</verse>
+			<marker class="begin-verse" mid="v16011028">
+			</marker>
+			<verse num="28">
+				in Ziklag, in Meconah and its villages,
+			</verse>
+			<marker class="begin-verse" mid="v16011029">
+			</marker>
+			<verse num="29">
+				in En-rimmon, in Zorah, in Jarmuth,
+			</verse>
+			<marker class="begin-verse" mid="v16011030">
+			</marker>
+			<verse num="30">
+				Zanoah, Adullam, and their villages, Lachish and its fields, and Azekah and its villages. So they encamped from Beersheba to 
+				<crossref let="z" cid="c16011030.1">
+				</crossref>
+				the Valley of Hinnom.
+			</verse>
+			<marker class="begin-verse" mid="v16011031">
+			</marker>
+			<verse num="31">
+				The people of Benjamin also lived from Geba onward, at Michmash, Aija, Bethel and its villages,
+			</verse>
+			<marker class="begin-verse" mid="v16011032">
+			</marker>
+			<verse num="32">
+				Anathoth, Nob, Ananiah,
+			</verse>
+			<marker class="begin-verse" mid="v16011033">
+			</marker>
+			<verse num="33">
+				Hazor, Ramah, Gittaim,
+			</verse>
+			<marker class="begin-verse" mid="v16011034">
+			</marker>
+			<verse num="34">
+				Hadid, Zeboim, Neballat,
+			</verse>
+			<marker class="begin-verse" mid="v16011035">
+			</marker>
+			<verse num="35">
+				Lod, and 
+				<crossref let="a" cid="c16011035.1">
+				</crossref>
+				Ono, the valley of craftsmen.
+			</verse>
+			<marker class="begin-verse" mid="v16011036">
+			</marker>
+			<verse num="36">
+				And certain divisions of the Levites in Judah were assigned to Benjamin.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19060001">
+		</marker>
+		<chapter num="60">
+			<heading
+				>
+				He Will Tread Down Our Foes
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: according to 
+				<crossref let="f" cid="c19060001.1">
+				</crossref>
+				Shushan Eduth. A 
+				<crossref let="g" cid="c19060001.2">
+				</crossref>
+				Miktam
+				<note nid="n19060001.1">
+				</note>
+				 of David; 
+				<crossref let="h" cid="c19060001.3">
+				</crossref>
+				for instruction; when he 
+				<crossref let="i" cid="c19060001.4">
+				</crossref>
+				strove with Aram-naharaim and with Aram-zobah, and when Joab on his return struck down twelve thousand of Edom in the Valley of Salt.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				O God, 
+				<crossref let="j" cid="c19060001.5">
+				</crossref>
+				you have rejected us, 
+				<crossref let="k" cid="c19060001.6">
+				</crossref>
+				broken our defenses;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have been angry; 
+				<crossref let="l" cid="c19060001.7">
+				</crossref>
+				oh, restore us.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19060002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				You have made the land to quake; you have torn it open;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c19060002.1">
+				</crossref>
+				repair its breaches, for it totters.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19060003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c19060003.1">
+				</crossref>
+				You have made your people see hard things;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19060003.2">
+				</crossref>
+				you have given us 
+				<crossref let="p" cid="c19060003.3">
+				</crossref>
+				wine to drink that made us stagger.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19060004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				You have set up 
+				<crossref let="q" cid="c19060004.1">
+				</crossref>
+				a banner for those who fear you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that they may flee to it 
+				<crossref let="r" cid="c19060004.2">
+				</crossref>
+				from the bow.
+				<note nid="n19060004.1">
+				</note>
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19060005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19060005.1">
+				</crossref>
+				That your 
+				<crossref let="t" cid="c19060005.2">
+				</crossref>
+				beloved ones may be delivered,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				give salvation by your right hand and answer us!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19060006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				God has spoken 
+				<crossref let="u" cid="c19060006.1">
+				</crossref>
+				in his holiness:
+				<note nid="n19060006.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				With exultation 
+				<crossref let="v" cid="c19060006.2">
+				</crossref>
+				I will divide up 
+				<crossref let="w" cid="c19060006.3">
+				</crossref>
+				Shechem
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and portion out the Vale of 
+				<crossref let="x" cid="c19060006.4">
+				</crossref>
+				Succoth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19060007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c19060007.1">
+				</crossref>
+				Gilead is mine; Manasseh is mine;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c19060007.2">
+				</crossref>
+				Ephraim is 
+				<crossref let="a" cid="c19060007.3">
+				</crossref>
+				my helmet;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Judah is my 
+				<crossref let="b" cid="c19060007.4">
+				</crossref>
+				scepter.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19060008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c19060008.1">
+				</crossref>
+				Moab is my washbasin;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				upon Edom I 
+				<crossref let="d" cid="c19060008.2">
+				</crossref>
+				cast my shoe;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				over 
+				<crossref let="e" cid="c19060008.3">
+				</crossref>
+				Philistia I shout in triumph.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n19060008.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19060009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Who will bring me to the fortified city?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c19060009.1">
+				</crossref>
+				Who will lead me to Edom?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19060010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Have you not 
+				<crossref let="g" cid="c19060010.1">
+				</crossref>
+				rejected us, O God?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				You 
+				<crossref let="h" cid="c19060010.2">
+				</crossref>
+				do not go forth, O God, with our armies.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19060011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Oh, grant us help against the foe,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="i" cid="c19060011.1">
+				</crossref>
+				vain is the salvation of man!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19060012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				With God we shall 
+				<crossref let="j" cid="c19060012.1">
+				</crossref>
+				do valiantly;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it is he who will 
+				<crossref let="k" cid="c19060012.2">
+				</crossref>
+				tread down our foes.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

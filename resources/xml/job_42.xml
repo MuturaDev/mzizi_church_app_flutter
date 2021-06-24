@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18042001">
+		</marker>
+		<chapter num="42">
+			<heading
+				>
+				Job's Confession and Repentance
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then Job answered the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18042002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I know that you can 
+				<crossref let="h" cid="c18042002.1">
+				</crossref>
+				do all things,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and that no purpose of yours can be thwarted.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18042003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c18042003.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Who is this that hides counsel without knowledge?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Therefore I have uttered what I did not understand,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				things 
+				<crossref let="j" cid="c18042003.2">
+				</crossref>
+				too wonderful for me, which I did not know.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18042004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Hear, and I will speak;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c18042004.1">
+				</crossref>
+				I will question you, and you make it known to me.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18042005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				I had heard of you by the hearing of the ear,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but now my eye sees you;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18042006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				therefore I despise myself,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and repent
+				<note nid="n18042006.1">
+				</note>
+				 in 
+				<crossref let="l" cid="c18042006.1">
+				</crossref>
+				dust and ashes.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v18042007">
+			</marker>
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Rebukes Job's Friends
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				After the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had spoken these words to Job, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Eliphaz 
+				<crossref let="m" cid="c18042007.1">
+				</crossref>
+				the Temanite: 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My anger burns against you and against your two friends, for you have not spoken of me what is right, as my servant Job has.
+			</verse>
+			<marker class="begin-verse" mid="v18042008">
+			</marker>
+			<verse num="8">
+				Now therefore take 
+				<crossref let="n" cid="c18042008.1">
+				</crossref>
+				seven bulls and seven rams and go to my servant Job and 
+				<crossref let="o" cid="c18042008.2">
+				</crossref>
+				offer up a burnt offering for yourselves. And my servant Job shall 
+				<crossref let="p" cid="c18042008.3">
+				</crossref>
+				pray for you, for I will accept his prayer not to deal with you according to your folly. For you have not spoken of me what is right, as my servant Job has.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v18042009">
+			</marker>
+			<verse num="9">
+				<crossref let="q" cid="c18042009.1">
+				</crossref>
+				So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went and did what the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had told them, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 accepted Job's prayer.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18042010">
+			</marker>
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Restores Job's Fortunes
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="r" cid="c18042010.1">
+				</crossref>
+				restored the fortunes of Job, when he had prayed for his friends. And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 gave Job 
+				<crossref let="s" cid="c18042010.2">
+				</crossref>
+				twice as much as he had before.
+			</verse>
+			<marker class="begin-verse" mid="v18042011">
+			</marker>
+			<verse num="11">
+				Then came to him all his 
+				<crossref let="t" cid="c18042011.1">
+				</crossref>
+				brothers and sisters and all who had 
+				<crossref let="t" cid="c18042011.2">
+				</crossref>
+				known him before, and ate bread with him in his house. And they 
+				<crossref let="u" cid="c18042011.3">
+				</crossref>
+				showed him sympathy and comforted him for all the evil
+				<note nid="n18042011.1">
+				</note>
+				 that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had brought upon him. And each of them gave him 
+				<crossref let="v" cid="c18042011.4">
+				</crossref>
+				a piece of money
+				<note nid="n18042011.2">
+				</note>
+				 and 
+				<crossref let="w" cid="c18042011.5">
+				</crossref>
+				a ring of gold.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18042012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 blessed 
+				<crossref let="x" cid="c18042012.1">
+				</crossref>
+				the latter days of Job more than his beginning. And he had 
+				<crossref let="y" cid="c18042012.2">
+				</crossref>
+				14,000 sheep, 6,000 camels, 1,000 yoke of oxen, and 1,000 female donkeys.
+			</verse>
+			<marker class="begin-verse" mid="v18042013">
+			</marker>
+			<verse num="13">
+				He had also 
+				<crossref let="z" cid="c18042013.1">
+				</crossref>
+				seven sons and three daughters.
+			</verse>
+			<marker class="begin-verse" mid="v18042014">
+			</marker>
+			<verse num="14">
+				And he called the name of the first daughter Jemimah, and the name of the second Keziah, and the name of the third Keren-happuch.
+			</verse>
+			<marker class="begin-verse" mid="v18042015">
+			</marker>
+			<verse num="15">
+				And in all the land there were no women so beautiful as Job's daughters. And their father gave them an inheritance 
+				<crossref let="a" cid="c18042015.1">
+				</crossref>
+				among their brothers.
+			</verse>
+			<marker class="begin-verse" mid="v18042016">
+			</marker>
+			<verse num="16">
+				And after this Job lived 140 years, and 
+				<crossref let="b" cid="c18042016.1">
+				</crossref>
+				saw his sons, and his sons' sons, four generations.
+			</verse>
+			<marker class="begin-verse" mid="v18042017">
+			</marker>
+			<verse num="17">
+				And Job died, an old man, and 
+				<crossref let="c" cid="c18042017.1">
+				</crossref>
+				full of days.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

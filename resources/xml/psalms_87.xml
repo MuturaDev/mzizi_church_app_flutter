@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19087001">
+		</marker>
+		<chapter num="87">
+			<heading
+				>
+				Glorious Things of You Are Spoken
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm of 
+				<crossref let="l" cid="c19087001.1">
+				</crossref>
+				the Sons of Korah. A Song.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				On 
+				<crossref let="m" cid="c19087001.2">
+				</crossref>
+				the holy mount 
+				<crossref let="n" cid="c19087001.3">
+				</crossref>
+				stands the city he founded;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19087002">
+			</marker>
+			<verse num="2">
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="o" cid="c19087002.1">
+				</crossref>
+				loves the gates of Zion
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				more than all the dwelling places of Jacob.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19087003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19087003.1">
+				</crossref>
+				Glorious things of you are spoken,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<crossref let="q" cid="c19087003.2">
+				</crossref>
+				city of God. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19087004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Among those who 
+				<crossref let="r" cid="c19087004.1">
+				</crossref>
+				know me I mention 
+				<crossref let="s" cid="c19087004.2">
+				</crossref>
+				Rahab and Babylon;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				behold, Philistia and Tyre, with 
+				<crossref let="t" cid="c19087004.3">
+				</crossref>
+				Cush
+				<note nid="n19087004.1">
+				</note>
+				ù
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This one was born there,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 they say.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19087005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				And of Zion it shall be said,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This one and that one were born in her
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for the Most High himself will 
+				<crossref let="u" cid="c19087005.1">
+				</crossref>
+				establish her.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19087006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 records as he 
+				<crossref let="v" cid="c19087006.1">
+				</crossref>
+				registers the peoples,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This one was born there.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19087007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c19087007.1">
+				</crossref>
+				Singers and 
+				<crossref let="x" cid="c19087007.2">
+				</crossref>
+				dancers alike say,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				All my 
+				<crossref let="y" cid="c19087007.3">
+				</crossref>
+				springs are in you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

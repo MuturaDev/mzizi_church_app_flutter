@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18018001">
+		</marker>
+		<chapter num="18">
+			<heading
+				>
+				Bildad Speaks: God Punishes the Wicked
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then 
+				<crossref let="a" cid="c18018001.1">
+				</crossref>
+				Bildad the Shuhite answered and said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18018002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How long will you 
+				<crossref let="b" cid="c18018002.1">
+				</crossref>
+				hunt for words?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Consider, and then we will speak.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Why are we counted as 
+				<crossref let="c" cid="c18018003.1">
+				</crossref>
+				cattle?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Why are we stupid in your sight?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				You who 
+				<crossref let="d" cid="c18018004.1">
+				</crossref>
+				tear yourself in your anger,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall the earth be forsaken for you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or 
+				<crossref let="e" cid="c18018004.2">
+				</crossref>
+				the rock be removed out of its place?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18018005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Indeed, 
+				<crossref let="f" cid="c18018005.1">
+				</crossref>
+				the light of the wicked is put out,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the flame of his fire does not shine.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				The light is 
+				<crossref let="g" cid="c18018006.1">
+				</crossref>
+				dark in his tent,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his lamp above him is put out.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				His strong steps are shortened,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his 
+				<crossref let="h" cid="c18018007.1">
+				</crossref>
+				own schemes throw him down.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				For he is cast into a net by his own feet,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he walks on its mesh.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c18018009.1">
+				</crossref>
+				A trap seizes him by the heel;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a snare lays hold of him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				A rope is hidden for him in the ground,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a trap for him in the path.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c18018011.1">
+				</crossref>
+				Terrors frighten him on every side,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and chase him at his heels.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				His strength is famished,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and calamity is 
+				<crossref let="k" cid="c18018012.1">
+				</crossref>
+				ready for his stumbling.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				It consumes the parts of his skin;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="l" cid="c18018013.1">
+				</crossref>
+				the firstborn of death consumes his limbs.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				He is torn from the tent in which he trusted
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and is brought to 
+				<crossref let="m" cid="c18018014.1">
+				</crossref>
+				the king of terrors.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				In his tent dwells that which is none of his;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c18018015.1">
+				</crossref>
+				sulfur is scattered over his habitation.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				His 
+				<crossref let="o" cid="c18018016.1">
+				</crossref>
+				roots dry up beneath,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his branches 
+				<crossref let="p" cid="c18018016.2">
+				</crossref>
+				wither above.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				His 
+				<crossref let="q" cid="c18018017.1">
+				</crossref>
+				memory perishes from the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he has no name in the street.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c18018018.1">
+				</crossref>
+				He is thrust from light into darkness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and driven out of the world.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				He has no 
+				<crossref let="s" cid="c18018019.1">
+				</crossref>
+				posterity or progeny among his people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and no survivor where he used to live.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				They of the west are appalled at his 
+				<crossref let="t" cid="c18018020.1">
+				</crossref>
+				day,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="u" cid="c18018020.2">
+				</crossref>
+				horror seizes them of the east.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18018021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				Surely such are the dwellings of the unrighteous,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				such is the place of him who 
+				<crossref let="v" cid="c18018021.1">
+				</crossref>
+				knows not God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

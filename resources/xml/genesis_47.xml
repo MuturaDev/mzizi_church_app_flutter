@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01047001">
+		</marker>
+		<chapter num="47">
+			<heading
+				>
+				Jacob's Family Settles in Goshen
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				So Joseph 
+				<crossref let="q" cid="c01047001.1">
+				</crossref>
+				went in and told Pharaoh, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My father and my brothers, with their flocks and herds and all that they possess, have come from the land of Canaan. They are now in 
+				<crossref let="r" cid="c01047001.2">
+				</crossref>
+				the land of Goshen.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01047002">
+			</marker>
+			<verse num="2">
+				And from among his brothers he took five men and 
+				<crossref let="s" cid="c01047002.1">
+				</crossref>
+				presented them to Pharaoh.
+			</verse>
+			<marker class="begin-verse" mid="v01047003">
+			</marker>
+			<verse num="3">
+				Pharaoh said to his brothers, 
+				<crossref let="t" cid="c01047003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is your occupation?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And they said to Pharaoh, 
+				<crossref let="u" cid="c01047003.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your servants are shepherds, as our fathers were.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01047004">
+			</marker>
+			<verse num="4">
+				They said to Pharaoh, 
+				<crossref let="v" cid="c01047004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We have come to sojourn in the land, for there is no pasture for your servants' flocks, for the famine is severe in the land of Canaan. And now, please let your servants dwell 
+				<crossref let="w" cid="c01047004.2">
+				</crossref>
+				in the land of Goshen.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01047005">
+			</marker>
+			<verse num="5">
+				Then Pharaoh said to Joseph, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your father and your brothers have come to you.
+			</verse>
+			<marker class="begin-verse" mid="v01047006">
+			</marker>
+			<verse num="6">
+				The land of Egypt is before you. Settle your father and your brothers 
+				<crossref let="x" cid="c01047006.1">
+				</crossref>
+				in the best of the land. 
+				<crossref let="y" cid="c01047006.2">
+				</crossref>
+				Let them settle in the land of Goshen, and if you know any 
+				<crossref let="z" cid="c01047006.3">
+				</crossref>
+				able men among them, put them in charge of my livestock.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01047007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				Then Joseph brought in Jacob his father and stood him before Pharaoh, 
+				<crossref let="a" cid="c01047007.1">
+				</crossref>
+				and Jacob blessed Pharaoh.
+			</verse>
+			<marker class="begin-verse" mid="v01047008">
+			</marker>
+			<verse num="8">
+				And Pharaoh said to Jacob, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How many are the days of the years of your life?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01047009">
+			</marker>
+			<verse num="9">
+				And Jacob said to Pharaoh, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The days of the years of my 
+				<crossref let="b" cid="c01047009.1">
+				</crossref>
+				sojourning are 130 years. 
+				<crossref let="c" cid="c01047009.2">
+				</crossref>
+				Few and evil have been the days of the years of my life, and 
+				<crossref let="d" cid="c01047009.3">
+				</crossref>
+				they have not attained to the days of the years of the life of my fathers in the days of their 
+				<crossref let="b" cid="c01047009.4">
+				</crossref>
+				sojourning.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01047010">
+			</marker>
+			<verse num="10">
+				And Jacob 
+				<crossref let="e" cid="c01047010.1">
+				</crossref>
+				blessed Pharaoh and went out from the presence of Pharaoh.
+			</verse>
+			<marker class="begin-verse" mid="v01047011">
+			</marker>
+			<verse num="11">
+				Then Joseph settled his father and his brothers and gave them a possession in the land of Egypt, in the best of the land, in the land of 
+				<crossref let="f" cid="c01047011.1">
+				</crossref>
+				Rameses, 
+				<crossref let="g" cid="c01047011.2">
+				</crossref>
+				as Pharaoh had commanded.
+			</verse>
+			<marker class="begin-verse" mid="v01047012">
+			</marker>
+			<verse num="12">
+				And Joseph 
+				<crossref let="h" cid="c01047012.1">
+				</crossref>
+				provided his father, his brothers, and all his father's household with food, according to the number of their dependents.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01047013">
+			</marker>
+			<heading
+				>
+				Joseph and the Famine
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				Now there was no food in all the land, for the famine was very severe, so that the land of Egypt and the land of Canaan languished by reason of the famine.
+			</verse>
+			<marker class="begin-verse" mid="v01047014">
+			</marker>
+			<verse num="14">
+				<crossref let="i" cid="c01047014.1">
+				</crossref>
+				And Joseph gathered up all the money that was found in the land of Egypt and in the land of Canaan, in exchange for the grain that they bought. And Joseph brought the money into Pharaoh's house.
+			</verse>
+			<marker class="begin-verse" mid="v01047015">
+			</marker>
+			<verse num="15">
+				And when the money was all spent in the land of Egypt and in the land of Canaan, all the Egyptians came to Joseph and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give us food. 
+				<crossref let="j" cid="c01047015.1">
+				</crossref>
+				Why should we die before your eyes? For our money is gone.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01047016">
+			</marker>
+			<verse num="16">
+				And Joseph answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give your livestock, and I will give you food in exchange for your livestock, if your money is gone.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01047017">
+			</marker>
+			<verse num="17">
+				So they brought their livestock to Joseph, and Joseph gave them food in exchange for the horses, the flocks, the herds, and the donkeys. He supplied them with food in exchange for all their livestock that year.
+			</verse>
+			<marker class="begin-verse" mid="v01047018">
+			</marker>
+			<verse num="18">
+				And when that year was ended, they came to him the following year and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We will not hide from my lord that our money is all spent. The herds of livestock are my lord's. There is nothing left in the sight of my lord but our bodies and our land.
+			</verse>
+			<marker class="begin-verse" mid="v01047019">
+			</marker>
+			<verse num="19">
+				Why should we die before your eyes, both we and our land? 
+				<crossref let="k" cid="c01047019.1">
+				</crossref>
+				Buy us and our land for food, and we with our land will be servants to Pharaoh. And give us seed that we may live and not die, and that the land may not be desolate.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01047020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				So Joseph bought all the land of Egypt for Pharaoh, for all the Egyptians sold their fields, because the famine was severe on them. The land became Pharaoh's.
+			</verse>
+			<marker class="begin-verse" mid="v01047021">
+			</marker>
+			<verse num="21">
+				As for the people, he made servants of them
+				<note nid="n01047021.1">
+				</note>
+				 from one end of Egypt to the other.
+			</verse>
+			<marker class="begin-verse" mid="v01047022">
+			</marker>
+			<verse num="22">
+				<crossref let="l" cid="c01047022.1">
+				</crossref>
+				Only the land of the priests he did not buy, for the priests had a fixed allowance from Pharaoh and lived on the allowance that Pharaoh gave them; therefore they did not sell their land.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01047023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				Then Joseph said to the people, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I have this day bought you and your land for Pharaoh. Now here is seed for you, and you shall sow the land.
+			</verse>
+			<marker class="begin-verse" mid="v01047024">
+			</marker>
+			<verse num="24">
+				And at the harvests you shall give a 
+				<crossref let="m" cid="c01047024.1">
+				</crossref>
+				fifth to Pharaoh, and four fifths shall be your own, as seed for the field and as food for yourselves and your households, and as food for your little ones.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01047025">
+			</marker>
+			<verse num="25">
+				And they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You have saved our lives; 
+				<crossref let="n" cid="c01047025.1">
+				</crossref>
+				may it please my lord, we will be servants to Pharaoh.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01047026">
+			</marker>
+			<verse num="26">
+				So Joseph made it a statute concerning the land of Egypt, and it stands to this day, that Pharaoh should have the fifth; 
+				<crossref let="o" cid="c01047026.1">
+				</crossref>
+				the land of the priests alone did not become Pharaoh's.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01047027">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				Thus Israel settled in the land of Egypt, 
+				<crossref let="p" cid="c01047027.1">
+				</crossref>
+				in the land of Goshen. 
+				<crossref let="q" cid="c01047027.2">
+				</crossref>
+				And they gained possessions in it, and were fruitful and multiplied greatly.
+			</verse>
+			<marker class="begin-verse" mid="v01047028">
+			</marker>
+			<verse num="28">
+				And Jacob lived in the land of Egypt seventeen years. 
+				<crossref let="r" cid="c01047028.1">
+				</crossref>
+				So the days of Jacob, the years of his life, were 147 years.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01047029">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				And 
+				<crossref let="s" cid="c01047029.1">
+				</crossref>
+				when the time drew near that Israel must die, he called his son Joseph and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If now 
+				<crossref let="t" cid="c01047029.2">
+				</crossref>
+				I have found favor in your sight, 
+				<crossref let="u" cid="c01047029.3">
+				</crossref>
+				put your hand under my thigh and 
+				<crossref let="v" cid="c01047029.4">
+				</crossref>
+				promise to deal kindly and truly with me. 
+				<crossref let="w" cid="c01047029.5">
+				</crossref>
+				Do not bury me in Egypt,
+			</verse>
+			<marker class="begin-verse" mid="v01047030">
+			</marker>
+			<verse num="30">
+				but let me lie with my fathers. Carry me out of Egypt and 
+				<crossref let="x" cid="c01047030.1">
+				</crossref>
+				bury me in their burying place.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will do as you have said.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01047031">
+			</marker>
+			<verse num="31">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Swear to me
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				; and he swore to him. Then 
+				<crossref let="y" cid="c01047031.1">
+				</crossref>
+				Israel bowed himself upon the head of his bed.
+				<note nid="n01047031.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

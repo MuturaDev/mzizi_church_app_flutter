@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Joshua" num="5">
+		<marker class="begin-verse" mid="v06003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				Israel Crosses the Jordan
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then Joshua rose early in the morning and they set out 
+				<crossref let="t" cid="c06003001.1">
+				</crossref>
+				from Shittim. And they came to the Jordan, he and all the people of Israel, and lodged there before they passed over.
+			</verse>
+			<marker class="begin-verse" mid="v06003002">
+			</marker>
+			<verse num="2">
+				<crossref let="u" cid="c06003002.1">
+				</crossref>
+				At the end of three days the officers went through the camp
+			</verse>
+			<marker class="begin-verse" mid="v06003003">
+			</marker>
+			<verse num="3">
+				and commanded the people, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As soon as you see the ark of the covenant of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God being carried by 
+				<crossref let="v" cid="c06003003.1">
+				</crossref>
+				the Levitical priests, then you shall set out from your place and follow it.
+			</verse>
+			<marker class="begin-verse" mid="v06003004">
+			</marker>
+			<verse num="4">
+				<crossref let="w" cid="c06003004.1">
+				</crossref>
+				Yet there shall be a distance between you and it, about 2,000 cubits
+				<note nid="n06003004.1">
+				</note>
+				 in length. Do not come near it, in order that you may know the way you shall go, for you have not passed this way before.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06003005">
+			</marker>
+			<verse num="5">
+				Then Joshua said to the people, 
+				<crossref let="x" cid="c06003005.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Consecrate yourselves, for tomorrow the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will do wonders among you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06003006">
+			</marker>
+			<verse num="6">
+				And Joshua said to the priests, 
+				<crossref let="y" cid="c06003006.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take up the ark of the covenant and pass on before the people.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So they took up the ark of the covenant and went before the people.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06003007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Joshua, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Today I will begin to 
+				<crossref let="z" cid="c06003007.1">
+				</crossref>
+				exalt you in the sight of all Israel, that they may know that, 
+				<crossref let="a" cid="c06003007.2">
+				</crossref>
+				as I was with Moses, so I will be with you.
+			</verse>
+			<marker class="begin-verse" mid="v06003008">
+			</marker>
+			<verse num="8">
+				And as for you, command 
+				<crossref let="b" cid="c06003008.1">
+				</crossref>
+				the priests who bear the ark of the covenant, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				When you come to the brink of the waters of the Jordan, 
+				<crossref let="c" cid="c06003008.2">
+				</crossref>
+				you shall stand still in the Jordan.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06003009">
+			</marker>
+			<verse num="9">
+				And Joshua said to the people of Israel, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come here and listen to the words of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06003010">
+			</marker>
+			<verse num="10">
+				And Joshua said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Here is how you shall know that 
+				<crossref let="d" cid="c06003010.1">
+				</crossref>
+				the living God is among you and that he will without fail 
+				<crossref let="e" cid="c06003010.2">
+				</crossref>
+				drive out from before you the Canaanites, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites, and the Jebusites.
+			</verse>
+			<marker class="begin-verse" mid="v06003011">
+			</marker>
+			<verse num="11">
+				Behold, the ark of the covenant of 
+				<crossref let="f" cid="c06003011.1">
+				</crossref>
+				the Lord of all the earth
+				<note nid="n06003011.1">
+				</note>
+				<crossref let="g" cid="c06003011.2">
+				</crossref>
+				is passing over before you into the Jordan.
+			</verse>
+			<marker class="begin-verse" mid="v06003012">
+			</marker>
+			<verse num="12">
+				Now therefore 
+				<crossref let="h" cid="c06003012.1">
+				</crossref>
+				take twelve men from the tribes of Israel, 
+				<crossref let="i" cid="c06003012.2">
+				</crossref>
+				from each tribe a man.
+			</verse>
+			<marker class="begin-verse" mid="v06003013">
+			</marker>
+			<verse num="13">
+				And 
+				<crossref let="j" cid="c06003013.1">
+				</crossref>
+				when the soles of the feet of the priests bearing the ark of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="f" cid="c06003013.2">
+				</crossref>
+				the Lord of all the earth, shall rest in the waters of the Jordan, the waters of the Jordan shall be cut off from flowing, and the waters coming down from above shall 
+				<crossref let="k" cid="c06003013.3">
+				</crossref>
+				stand in one heap.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06003014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				So when the people set out from their tents to pass over the Jordan with the priests bearing 
+				<crossref let="l" cid="c06003014.1">
+				</crossref>
+				the ark of the covenant before the people,
+			</verse>
+			<marker class="begin-verse" mid="v06003015">
+			</marker>
+			<verse num="15">
+				and as soon as those bearing the ark had come as far as the Jordan, and 
+				<crossref let="m" cid="c06003015.1">
+				</crossref>
+				the feet of the priests bearing the ark were dipped in the brink of the water (now 
+				<crossref let="n" cid="c06003015.2">
+				</crossref>
+				the Jordan overflows all its banks 
+				<crossref let="o" cid="c06003015.3">
+				</crossref>
+				throughout the time of harvest),
+			</verse>
+			<marker class="begin-verse" mid="v06003016">
+			</marker>
+			<verse num="16">
+				the waters coming down from above stood and rose up in a heap very far away, at Adam, the city that is beside 
+				<crossref let="p" cid="c06003016.1">
+				</crossref>
+				Zarethan, and those flowing down toward the Sea of 
+				<crossref let="q" cid="c06003016.2">
+				</crossref>
+				the Arabah, 
+				<crossref let="r" cid="c06003016.3">
+				</crossref>
+				the Salt Sea, were completely cut off. And the people passed over opposite Jericho.
+			</verse>
+			<marker class="begin-verse" mid="v06003017">
+			</marker>
+			<verse num="17">
+				Now the priests bearing the ark of the covenant of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 stood firmly on dry ground in the midst of the Jordan, 
+				<crossref let="s" cid="c06003017.1">
+				</crossref>
+				and all Israel was passing over on dry ground until all the nation finished passing over the Jordan.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

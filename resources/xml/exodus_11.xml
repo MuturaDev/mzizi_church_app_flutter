@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02011001">
+		</marker>
+		<chapter num="11">
+			<heading
+				>
+				A Final Plague Threatened
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Yet 
+				<crossref let="s" cid="c02011001.1">
+				</crossref>
+				one plague more I will bring upon Pharaoh and upon Egypt. Afterward he will let you go from here. 
+				<crossref let="t" cid="c02011001.2">
+				</crossref>
+				When he lets you go, he will drive you away completely.
+			</verse>
+			<marker class="begin-verse" mid="v02011002">
+			</marker>
+			<verse num="2">
+				Speak now in the hearing of the people, that 
+				<crossref let="u" cid="c02011002.1">
+				</crossref>
+				they ask, every man of his neighbor and every woman of her neighbor, for silver and gold jewelry.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02011003">
+			</marker>
+			<verse num="3">
+				<crossref let="v" cid="c02011003.1">
+				</crossref>
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 gave the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh's servants and in the sight of the people.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02011004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				So Moses said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				: 
+				<crossref let="w" cid="c02011004.1">
+				</crossref>
+				About midnight I will go out in the midst of Egypt,
+			</verse>
+			<marker class="begin-verse" mid="v02011005">
+			</marker>
+			<verse num="5">
+				and every firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the slave girl who is 
+				<crossref let="x" cid="c02011005.1">
+				</crossref>
+				behind the handmill, and all the firstborn of the cattle.
+			</verse>
+			<marker class="begin-verse" mid="v02011006">
+			</marker>
+			<verse num="6">
+				<crossref let="y" cid="c02011006.1">
+				</crossref>
+				There shall be a great cry throughout all the land of Egypt, such as there has never been, nor ever will be again.
+			</verse>
+			<marker class="begin-verse" mid="v02011007">
+			</marker>
+			<verse num="7">
+				But not a dog shall growl 
+				<crossref let="z" cid="c02011007.1">
+				</crossref>
+				against any of the people of Israel, either man or beast, that you may know that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="a" cid="c02011007.2">
+				</crossref>
+				makes a distinction between Egypt and Israel.
+			</verse>
+			<marker class="begin-verse" mid="v02011008">
+			</marker>
+			<verse num="8">
+				And 
+				<crossref let="b" cid="c02011008.1">
+				</crossref>
+				all these your servants shall come down to me and bow down to me, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Get out, you and all the people who follow you.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 And after that I will go out.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he went out from Pharaoh in hot anger.
+			</verse>
+			<marker class="begin-verse" mid="v02011009">
+			</marker>
+			<verse num="9">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<crossref let="c" cid="c02011009.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Pharaoh will not listen to you, that 
+				<crossref let="d" cid="c02011009.2">
+				</crossref>
+				my wonders may be multiplied in the land of Egypt.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02011010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				Moses and Aaron did all these wonders before Pharaoh, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="e" cid="c02011010.1">
+				</crossref>
+				hardened Pharaoh's heart, and he did not let the people of Israel go out of his land.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

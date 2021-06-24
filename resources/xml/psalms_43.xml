@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19043001">
+		</marker>
+		<chapter num="43">
+			<heading
+				>
+				Send Out Your Light and Your Truth
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19043001.1">
+				</crossref>
+				Vindicate me, O God, and 
+				<crossref let="s" cid="c19043001.2">
+				</crossref>
+				defend my cause
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				against an ungodly people,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				from 
+				<crossref let="t" cid="c19043001.3">
+				</crossref>
+				the deceitful and unjust man
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				deliver me!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19043002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				For you are 
+				<crossref let="u" cid="c19043002.1">
+				</crossref>
+				the God in whom I take refuge;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				why have you 
+				<crossref let="v" cid="c19043002.2">
+				</crossref>
+				rejected me?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Why do I 
+				<crossref let="w" cid="c19043002.3">
+				</crossref>
+				go about mourning
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because of the oppression of the enemy?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19043003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19043003.1">
+				</crossref>
+				Send out your light and your truth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let them lead me;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				let them bring me to your 
+				<crossref let="y" cid="c19043003.2">
+				</crossref>
+				holy hill
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and to your 
+				<crossref let="z" cid="c19043003.3">
+				</crossref>
+				dwelling!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19043004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Then I will go to the altar of God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to God my exceeding joy,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and I will praise you with the lyre,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O God, my God.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19043005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19043005.1">
+				</crossref>
+				Why are you cast down, O my soul,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and why are you in turmoil within me?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c19043005.2">
+				</crossref>
+				Hope in God; for I shall again praise him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my salvation and my God.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

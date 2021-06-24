@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Samuel" num="9">
+		<marker class="begin-verse" mid="v10006001">
+		</marker>
+		<chapter num="6">
+			<heading
+				>
+				The Ark Brought to Jerusalem
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="t" cid="c10006001.1">
+				</crossref>
+				David again gathered all the chosen men of Israel, thirty thousand.
+			</verse>
+			<marker class="begin-verse" mid="v10006002">
+			</marker>
+			<verse num="2">
+				And David arose and went with all the people who were with him from 
+				<crossref let="u" cid="c10006002.1">
+				</crossref>
+				Baale-judah 
+				<crossref let="v" cid="c10006002.2">
+				</crossref>
+				to bring up from there the ark of God, which is called by the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts 
+				<crossref let="w" cid="c10006002.3">
+				</crossref>
+				who sits enthroned on the cherubim.
+			</verse>
+			<marker class="begin-verse" mid="v10006003">
+			</marker>
+			<verse num="3">
+				And they carried the ark of God 
+				<crossref let="x" cid="c10006003.1">
+				</crossref>
+				on a new cart and brought it 
+				<crossref let="y" cid="c10006003.2">
+				</crossref>
+				out of the house of Abinadab, which was on the hill. And Uzzah and Ahio,
+				<note nid="n10006003.1">
+				</note>
+				 the sons of Abinadab, were driving the new cart,
+				<note nid="n10006003.2">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v10006004">
+			</marker>
+			<verse num="4">
+				with the ark of God, and Ahio went before the ark.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10006005">
+			</marker>
+			<heading
+				>
+				Uzzah and the Ark
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				And David and all the house of Israel were making merry before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, with 
+				<crossref let="z" cid="c10006005.1">
+				</crossref>
+				songs
+				<note nid="n10006005.1">
+				</note>
+				 and lyres and harps and tambourines and castanets and cymbals.
+			</verse>
+			<marker class="begin-verse" mid="v10006006">
+			</marker>
+			<verse num="6">
+				And when they came to the threshing floor of 
+				<crossref let="a" cid="c10006006.1">
+				</crossref>
+				Nacon, Uzzah 
+				<crossref let="b" cid="c10006006.2">
+				</crossref>
+				put out his hand to the ark of God and took hold of it, for the oxen stumbled.
+			</verse>
+			<marker class="begin-verse" mid="v10006007">
+			</marker>
+			<verse num="7">
+				And the anger of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 was kindled against Uzzah, and 
+				<crossref let="c" cid="c10006007.1">
+				</crossref>
+				God struck him down there because of his error, and he died there beside the ark of God.
+			</verse>
+			<marker class="begin-verse" mid="v10006008">
+			</marker>
+			<verse num="8">
+				And David was angry because the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had burst forth against Uzzah. And that place is called Perez-uzzah,
+				<note nid="n10006008.1">
+				</note>
+				 to this day.
+			</verse>
+			<marker class="begin-verse" mid="v10006009">
+			</marker>
+			<verse num="9">
+				And David was afraid of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that day, and he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How can the ark of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 come to me?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10006010">
+			</marker>
+			<verse num="10">
+				So David was not willing to take the ark of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 into the city of David. But David took it aside 
+				<crossref let="d" cid="c10006010.1">
+				</crossref>
+				to the house of Obed-edom the Gittite.
+			</verse>
+			<marker class="begin-verse" mid="v10006011">
+			</marker>
+			<verse num="11">
+				And the ark of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 remained in the house of Obed-edom the Gittite three months, 
+				<crossref let="e" cid="c10006011.1">
+				</crossref>
+				and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 blessed Obed-edom and all his household.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10006012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				And it was told King David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has blessed the household of Obed-edom and all that belongs to him, because of the ark of God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<crossref let="f" cid="c10006012.1">
+				</crossref>
+				So David went and brought up the ark of God from the house of Obed-edom 
+				<crossref let="g" cid="c10006012.2">
+				</crossref>
+				to the city of David with rejoicing.
+			</verse>
+			<marker class="begin-verse" mid="v10006013">
+			</marker>
+			<verse num="13">
+				And when 
+				<crossref let="h" cid="c10006013.1">
+				</crossref>
+				those who bore the ark of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had gone six steps, 
+				<crossref let="i" cid="c10006013.2">
+				</crossref>
+				he sacrificed an ox and a fattened animal.
+			</verse>
+			<marker class="begin-verse" mid="v10006014">
+			</marker>
+			<verse num="14">
+				And David 
+				<crossref let="j" cid="c10006014.1">
+				</crossref>
+				danced before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with all his might. And David was 
+				<crossref let="k" cid="c10006014.2">
+				</crossref>
+				wearing a linen ephod.
+			</verse>
+			<marker class="begin-verse" mid="v10006015">
+			</marker>
+			<verse num="15">
+				So David and all the house of Israel brought up the ark of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with shouting and with the sound of the horn.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10006016">
+			</marker>
+			<heading
+				>
+				David and Michal
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				As the ark of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came into the city of David, Michal the daughter of Saul looked out of the window and saw King David leaping and dancing before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and she despised him in her heart.
+			</verse>
+			<marker class="begin-verse" mid="v10006017">
+			</marker>
+			<verse num="17">
+				And they brought in the ark of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and set it 
+				<crossref let="l" cid="c10006017.1">
+				</crossref>
+				in its place, inside the tent that David had pitched for it. 
+				<crossref let="m" cid="c10006017.2">
+				</crossref>
+				And David offered burnt offerings and peace offerings before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v10006018">
+			</marker>
+			<verse num="18">
+				And when David had finished offering the burnt offerings and the peace offerings, 
+				<crossref let="n" cid="c10006018.1">
+				</crossref>
+				he blessed the people in the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts
+			</verse>
+			<marker class="begin-verse" mid="v10006019">
+			</marker>
+			<verse num="19">
+				and distributed among all the people, the whole multitude of Israel, both men and women, a cake of bread, a portion of meat,
+				<note nid="n10006019.1">
+				</note>
+				 and a cake of raisins to each one. 
+				<crossref let="o" cid="c10006019.1">
+				</crossref>
+				Then all the people departed, each to his house.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10006020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				And David returned to bless his household. But Michal the daughter of Saul came out to meet David and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How the king of Israel honored himself today, 
+				<crossref let="p" cid="c10006020.1">
+				</crossref>
+				uncovering himself today before the eyes of his servants' female servants, as one of the 
+				<crossref let="q" cid="c10006020.2">
+				</crossref>
+				vulgar fellows shamelessly uncovers himself!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10006021">
+			</marker>
+			<verse num="21">
+				And David said to Michal, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It was before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="r" cid="c10006021.1">
+				</crossref>
+				who chose me above your father and above all his house, to appoint me as prince over Israel, the people of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				ùand I will make merry before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v10006022">
+			</marker>
+			<verse num="22">
+				I will make myself yet more contemptible than this, and I will be abased in your
+				<note nid="n10006022.1">
+				</note>
+				 eyes. But by the female servants of whom you have spoken, by them I shall be held in honor.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10006023">
+			</marker>
+			<verse num="23">
+				And Michal the daughter of Saul had no child to the day of her death.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

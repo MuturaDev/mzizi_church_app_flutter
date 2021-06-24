@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09021001">
+		</marker>
+		<chapter num="21">
+			<heading
+				>
+				David and the Holy Bread
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<note nid="n09021001.1">
+				</note>
+				 Then David came to 
+				<crossref let="v" cid="c09021001.1">
+				</crossref>
+				Nob to 
+				<crossref let="w" cid="c09021001.2">
+				</crossref>
+				Ahimelech the priest. And Ahimelech 
+				<crossref let="x" cid="c09021001.3">
+				</crossref>
+				came to meet David trembling and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why are you alone, and no one with you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09021002">
+			</marker>
+			<verse num="2">
+				And David said to Ahimelech the priest, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The king has charged me with a matter and said to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Let no one know anything of the matter about which I send you, and with which I have charged you.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 I have made an appointment with the young men for such and such a place.
+			</verse>
+			<marker class="begin-verse" mid="v09021003">
+			</marker>
+			<verse num="3">
+				Now then, what do you have on hand? Give me five loaves of bread, or whatever is here.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09021004">
+			</marker>
+			<verse num="4">
+				And the priest answered David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have no common bread on hand, but there is 
+				<crossref let="y" cid="c09021004.1">
+				</crossref>
+				holy breadù
+				<crossref let="z" cid="c09021004.2">
+				</crossref>
+				if the young men have kept themselves from women.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09021005">
+			</marker>
+			<verse num="5">
+				And David answered the priest, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Truly women have been kept from us as always when I go on an expedition. The vessels of the young men are holy even when it is an ordinary journey. How much more today will their vessels be holy?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09021006">
+			</marker>
+			<verse num="6">
+				So the priest gave him 
+				<crossref let="y" cid="c09021006.1">
+				</crossref>
+				the holy bread, for there was no bread there but the bread of the Presence, 
+				<crossref let="a" cid="c09021006.2">
+				</crossref>
+				which is removed from before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, to be replaced by hot bread on the day it is taken away.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09021007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				Now a certain man of the servants of Saul was there that day, detained before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. His name was 
+				<crossref let="b" cid="c09021007.1">
+				</crossref>
+				Doeg the Edomite, the chief of Saul's herdsmen.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09021008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Then David said to Ahimelech, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Then have you not here a spear or a sword at hand? For I have brought neither my sword nor my weapons with me, because the king's business required haste.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09021009">
+			</marker>
+			<verse num="9">
+				And the priest said, 
+				<crossref let="c" cid="c09021009.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The sword of Goliath the Philistine, whom you struck down in 
+				<crossref let="d" cid="c09021009.2">
+				</crossref>
+				the Valley of Elah, behold, it is here wrapped in a cloth behind the ephod. If you will take that, take it, for there is none but that here.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And David said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				There is none like that; give it to me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09021010">
+			</marker>
+			<heading
+				>
+				David Flees to Gath
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				And David rose and fled that day from Saul and went to 
+				<crossref let="e" cid="c09021010.1">
+				</crossref>
+				Achish the king of Gath.
+			</verse>
+			<marker class="begin-verse" mid="v09021011">
+			</marker>
+			<verse num="11">
+				And the servants of Achish said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is not this David the king of the land? 
+				<crossref let="f" cid="c09021011.1">
+				</crossref>
+				Did they not sing to one another of him in dances,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Saul has struck down his thousands,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and David his ten thousands
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v09021012">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="12">
+				And David 
+				<crossref let="g" cid="c09021012.1">
+				</crossref>
+				took these words to heart and was much afraid of Achish the king of Gath.
+			</verse>
+			<marker class="begin-verse" mid="v09021013">
+			</marker>
+			<verse num="13">
+				So he changed his behavior before them and pretended to be insane in their hands and made marks on the doors of the gate and let his spittle run down his beard.
+			</verse>
+			<marker class="begin-verse" mid="v09021014">
+			</marker>
+			<verse num="14">
+				Then Achish said to his servants, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, you see the man is mad. Why then have you brought him to me?
+			</verse>
+			<marker class="begin-verse" mid="v09021015">
+			</marker>
+			<verse num="15">
+				Do I lack madmen, that you have brought this fellow to behave as a madman in my presence? Shall this fellow come into my house?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

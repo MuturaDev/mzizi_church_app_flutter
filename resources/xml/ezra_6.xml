@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ezra" num="14">
+		<marker class="begin-verse" mid="v15006001">
+		</marker>
+		<chapter num="6">
+			<heading
+				>
+				The Decree of Darius
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then Darius the king made a decree, and 
+				<crossref let="t" cid="c15006001.1">
+				</crossref>
+				search was made in Babylonia, in the house of the archives where the documents were stored.
+			</verse>
+			<marker class="begin-verse" mid="v15006002">
+			</marker>
+			<verse num="2">
+				And in Ecbatana, the capital that is 
+				<crossref let="u" cid="c15006002.1">
+				</crossref>
+				in the province of Media, a scroll was found on which this was written: 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				A record.
+			</verse>
+			<marker class="begin-verse" mid="v15006003">
+			</marker>
+			<verse num="3">
+				In the first year of Cyrus the king, Cyrus the king issued a decree: Concerning the house of God at Jerusalem, let the house be rebuilt, the place where sacrifices were offered, and let its foundations be retained. Its height shall be sixty cubits
+				<note nid="n15006003.1">
+				</note>
+				 and its breadth sixty cubits,
+			</verse>
+			<marker class="begin-verse" mid="v15006004">
+			</marker>
+			<verse num="4">
+				<crossref let="v" cid="c15006004.1">
+				</crossref>
+				with three layers of great stones and one layer of timber. Let the cost be paid from the royal treasury.
+			</verse>
+			<marker class="begin-verse" mid="v15006005">
+			</marker>
+			<verse num="5">
+				And also 
+				<crossref let="w" cid="c15006005.1">
+				</crossref>
+				let the gold and silver vessels of the house of God, which Nebuchadnezzar took out of the temple that is in Jerusalem and brought to Babylon, be restored and brought back to the temple that is in Jerusalem, each to its place. You shall put them in the house of God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v15006006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Now therefore, 
+				<crossref let="x" cid="c15006006.1">
+				</crossref>
+				Tattenai, governor of the province Beyond the River, Shethar-bozenai, 
+				<crossref let="y" cid="c15006006.2">
+				</crossref>
+				and your associates the governors who are in the province Beyond the River, keep away.
+			</verse>
+			<marker class="begin-verse" mid="v15006007">
+			</marker>
+			<verse num="7">
+				Let the work on this house of God alone. Let the governor of the Jews and the elders of the Jews rebuild this house of God on its site.
+			</verse>
+			<marker class="begin-verse" mid="v15006008">
+			</marker>
+			<verse num="8">
+				Moreover, 
+				<crossref let="z" cid="c15006008.1">
+				</crossref>
+				I make a decree regarding what you shall do for these elders of the Jews for the rebuilding of this house of God. The cost is to be paid to these men in full and without delay from the royal revenue, the tribute of the province from Beyond the River.
+			</verse>
+			<marker class="begin-verse" mid="v15006009">
+			</marker>
+			<verse num="9">
+				And whatever is neededùbulls, rams, or sheep for burnt offerings to the God of heaven, wheat, salt, wine, or oil, as the priests at Jerusalem requireùlet that be given to them day by day without fail,
+			</verse>
+			<marker class="begin-verse" mid="v15006010">
+			</marker>
+			<verse num="10">
+				that they may offer pleasing sacrifices to the God of heaven 
+				<crossref let="a" cid="c15006010.1">
+				</crossref>
+				and pray for the life of the king and his sons.
+			</verse>
+			<marker class="begin-verse" mid="v15006011">
+			</marker>
+			<verse num="11">
+				Also I make a decree that if anyone alters this edict, a beam shall be pulled out of his house, and he shall be impaled on it, and 
+				<crossref let="b" cid="c15006011.1">
+				</crossref>
+				his house shall be made a dunghill.
+			</verse>
+			<marker class="begin-verse" mid="v15006012">
+			</marker>
+			<verse num="12">
+				May the God 
+				<crossref let="c" cid="c15006012.1">
+				</crossref>
+				who has caused his name to dwell there overthrow any king or people who shall put out a hand to alter this, or to destroy this house of God that is in Jerusalem. I Darius make a decree; let it be done with all diligence.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v15006013">
+			</marker>
+			<heading
+				>
+				The Temple Finished and Dedicated
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				Then, according to the word sent by Darius the king, 
+				<crossref let="x" cid="c15006013.1">
+				</crossref>
+				Tattenai, the governor of the province Beyond the River, Shethar-bozenai, and their associates did with all diligence what Darius the king had ordered.
+			</verse>
+			<marker class="begin-verse" mid="v15006014">
+			</marker>
+			<verse num="14">
+				<crossref let="d" cid="c15006014.1">
+				</crossref>
+				And the elders of the Jews built and prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo. They finished their building by decree of the God of Israel and 
+				<crossref let="e" cid="c15006014.2">
+				</crossref>
+				by decree of Cyrus and 
+				<crossref let="f" cid="c15006014.3">
+				</crossref>
+				Darius and 
+				<crossref let="g" cid="c15006014.4">
+				</crossref>
+				Artaxerxes king of Persia;
+			</verse>
+			<marker class="begin-verse" mid="v15006015">
+			</marker>
+			<verse num="15">
+				and this house was finished on the third day of the 
+				<crossref let="h" cid="c15006015.1">
+				</crossref>
+				month of Adar, in the sixth year of the reign of Darius the king.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v15006016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				And the people of Israel, the priests and the Levites, and the rest of the returned exiles, celebrated the 
+				<crossref let="i" cid="c15006016.1">
+				</crossref>
+				dedication of this house of God with joy.
+			</verse>
+			<marker class="begin-verse" mid="v15006017">
+			</marker>
+			<verse num="17">
+				They offered at the dedication of this house of God 100 bulls, 200 rams, 400 lambs, and as a sin offering for all Israel 
+				<crossref let="j" cid="c15006017.1">
+				</crossref>
+				12 male goats, according to the number of the tribes of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v15006018">
+			</marker>
+			<verse num="18">
+				And they set the priests 
+				<crossref let="k" cid="c15006018.1">
+				</crossref>
+				in their divisions and the Levites 
+				<crossref let="l" cid="c15006018.2">
+				</crossref>
+				in their divisions, for the service of God at Jerusalem, 
+				<crossref let="m" cid="c15006018.3">
+				</crossref>
+				as it is written in the Book of Moses.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v15006019">
+			</marker>
+			<heading
+				>
+				Passover Celebrated
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				<crossref let="n" cid="c15006019.1">
+				</crossref>
+				On the fourteenth day of the first month, the returned exiles kept the Passover.
+			</verse>
+			<marker class="begin-verse" mid="v15006020">
+			</marker>
+			<verse num="20">
+				<crossref let="o" cid="c15006020.1">
+				</crossref>
+				For the priests and the Levites had purified themselves together; all of them were clean. 
+				<crossref let="p" cid="c15006020.2">
+				</crossref>
+				So they slaughtered the Passover lamb for all the returned exiles, for their fellow priests, and for themselves.
+			</verse>
+			<marker class="begin-verse" mid="v15006021">
+			</marker>
+			<verse num="21">
+				It was eaten by the people of Israel who had returned from exile, and 
+				<crossref let="q" cid="c15006021.1">
+				</crossref>
+				also by every one who had joined them and separated himself 
+				<crossref let="r" cid="c15006021.2">
+				</crossref>
+				from the uncleanness of the peoples of the land to worship the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v15006022">
+			</marker>
+			<verse num="22">
+				And they kept the Feast of Unleavened Bread 
+				<crossref let="s" cid="c15006022.1">
+				</crossref>
+				seven days with joy, for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had made them joyful 
+				<crossref let="t" cid="c15006022.2">
+				</crossref>
+				and had turned the heart of 
+				<crossref let="u" cid="c15006022.3">
+				</crossref>
+				the king of Assyria to them, so that he aided them in the work of the house of God, the God of Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

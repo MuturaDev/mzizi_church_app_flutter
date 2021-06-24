@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Thessalonians" num="52">
+		<marker class="begin-verse" mid="v52001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Paul, 
+				<crossref let="a" cid="c52001001.1">
+				</crossref>
+				Silvanus, and Timothy,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				To the church of the 
+				<crossref let="b" cid="c52001001.2">
+				</crossref>
+				Thessalonians in God the Father and the Lord Jesus Christ:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				<crossref let="c" cid="c52001001.3">
+				</crossref>
+				Grace to you and peace.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v52001002">
+			</marker>
+			<heading
+				>
+				The Thessalonians' Faith and Example
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				<crossref let="d" cid="c52001002.1">
+				</crossref>
+				We give thanks to God always for all of you, constantly
+				<note nid="n52001002.1">
+				</note>
+				<crossref let="e" cid="c52001002.2">
+				</crossref>
+				mentioning you in our prayers,
+			</verse>
+			<marker class="begin-verse" mid="v52001003">
+			</marker>
+			<verse num="3">
+				remembering before 
+				<crossref let="f" cid="c52001003.1">
+				</crossref>
+				our God and Father 
+				<crossref let="g" cid="c52001003.2">
+				</crossref>
+				your work of faith and labor of 
+				<crossref let="h" cid="c52001003.3">
+				</crossref>
+				love and 
+				<crossref let="i" cid="c52001003.4">
+				</crossref>
+				steadfastness of hope in our Lord Jesus Christ.
+			</verse>
+			<marker class="begin-verse" mid="v52001004">
+			</marker>
+			<verse num="4">
+				For we know, 
+				<crossref let="j" cid="c52001004.1">
+				</crossref>
+				brothers
+				<note nid="n52001004.1">
+				</note>
+				 loved by God, 
+				<crossref let="k" cid="c52001004.2">
+				</crossref>
+				that he has chosen you,
+			</verse>
+			<marker class="begin-verse" mid="v52001005">
+			</marker>
+			<verse num="5">
+				because 
+				<crossref let="l" cid="c52001005.1">
+				</crossref>
+				our gospel came to you not only in word, but also in power and 
+				<crossref let="m" cid="c52001005.2">
+				</crossref>
+				in the Holy Spirit and with full 
+				<crossref let="n" cid="c52001005.3">
+				</crossref>
+				conviction. You know 
+				<crossref let="o" cid="c52001005.4">
+				</crossref>
+				what kind of men we proved to be among you for your sake.
+			</verse>
+			<marker class="begin-verse" mid="v52001006">
+			</marker>
+			<verse num="6">
+				And 
+				<crossref let="p" cid="c52001006.1">
+				</crossref>
+				you became imitators of us 
+				<crossref let="q" cid="c52001006.2">
+				</crossref>
+				and of the Lord, for 
+				<crossref let="r" cid="c52001006.3">
+				</crossref>
+				you received the word in much affliction, 
+				<crossref let="s" cid="c52001006.4">
+				</crossref>
+				with the 
+				<crossref let="t" cid="c52001006.5">
+				</crossref>
+				joy of the Holy Spirit,
+			</verse>
+			<marker class="begin-verse" mid="v52001007">
+			</marker>
+			<verse num="7">
+				so that you became an example to all the believers in Macedonia and in Achaia.
+			</verse>
+			<marker class="begin-verse" mid="v52001008">
+			</marker>
+			<verse num="8">
+				For not only has the word of the Lord 
+				<crossref let="u" cid="c52001008.1">
+				</crossref>
+				sounded forth from you in Macedonia and Achaia, but your faith in God has gone forth 
+				<crossref let="v" cid="c52001008.2">
+				</crossref>
+				everywhere, so that we need not say anything.
+			</verse>
+			<marker class="begin-verse" mid="v52001009">
+			</marker>
+			<verse num="9">
+				For they themselves report concerning us the kind of 
+				<crossref let="w" cid="c52001009.1">
+				</crossref>
+				reception we had among you, and how 
+				<crossref let="x" cid="c52001009.2">
+				</crossref>
+				you turned to God 
+				<crossref let="y" cid="c52001009.3">
+				</crossref>
+				from idols to serve the living and 
+				<crossref let="z" cid="c52001009.4">
+				</crossref>
+				true God,
+			</verse>
+			<marker class="begin-verse" mid="v52001010">
+			</marker>
+			<verse num="10">
+				and 
+				<crossref let="a" cid="c52001010.1">
+				</crossref>
+				to wait for his Son 
+				<crossref let="b" cid="c52001010.2">
+				</crossref>
+				from heaven, 
+				<crossref let="c" cid="c52001010.3">
+				</crossref>
+				whom he raised from the dead, Jesus 
+				<crossref let="d" cid="c52001010.4">
+				</crossref>
+				who delivers us from 
+				<crossref let="e" cid="c52001010.5">
+				</crossref>
+				the wrath to come.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

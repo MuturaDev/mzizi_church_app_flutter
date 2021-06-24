@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01048001">
+		</marker>
+		<chapter num="48">
+			<heading
+				>
+				Jacob Blesses Ephraim and Manasseh
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				After this, Joseph was told, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, your father is ill.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So he took with him his two sons, Manasseh and Ephraim.
+			</verse>
+			<marker class="begin-verse" mid="v01048002">
+			</marker>
+			<verse num="2">
+				And it was told to Jacob, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your son Joseph has come to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Then Israel summoned his strength and sat up in bed.
+			</verse>
+			<marker class="begin-verse" mid="v01048003">
+			</marker>
+			<verse num="3">
+				And Jacob said to Joseph, 
+				<crossref let="z" cid="c01048003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				God Almighty
+				<note nid="n01048003.1">
+				</note>
+				 appeared to me at 
+				<crossref let="a" cid="c01048003.2">
+				</crossref>
+				Luz in the land of Canaan and blessed me,
+			</verse>
+			<marker class="begin-verse" mid="v01048004">
+			</marker>
+			<verse num="4">
+				and said to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Behold, I will make you fruitful and multiply you, and I will make of you a company of peoples and will give this land to your offspring after you 
+				<crossref let="b" cid="c01048004.1">
+				</crossref>
+				for an everlasting possession.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01048005">
+			</marker>
+			<verse num="5">
+				And now your 
+				<crossref let="c" cid="c01048005.1">
+				</crossref>
+				two sons, who were born to you in the land of Egypt before I came to you in Egypt, 
+				<crossref let="d" cid="c01048005.2">
+				</crossref>
+				are mine; Ephraim and Manasseh shall be mine, as Reuben and Simeon are.
+			</verse>
+			<marker class="begin-verse" mid="v01048006">
+			</marker>
+			<verse num="6">
+				And the children that you fathered after them shall be yours. They shall be called by the name of their brothers in their inheritance.
+			</verse>
+			<marker class="begin-verse" mid="v01048007">
+			</marker>
+			<verse num="7">
+				As for me, when I came from Paddan, to my sorrow 
+				<crossref let="e" cid="c01048007.1">
+				</crossref>
+				Rachel died in the land of Canaan on the way, when there was still some distance
+				<note nid="n01048007.1">
+				</note>
+				 to go to Ephrath, and I buried her there on the way to Ephrath (that is, Bethlehem).
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01048008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				When Israel saw Joseph's sons, he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who are these?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01048009">
+			</marker>
+			<verse num="9">
+				Joseph said to his father, 
+				<crossref let="f" cid="c01048009.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				They are my sons, whom God has given me here.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Bring them to me, please, that 
+				<crossref let="g" cid="c01048009.2">
+				</crossref>
+				I may bless them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01048010">
+			</marker>
+			<verse num="10">
+				Now 
+				<crossref let="h" cid="c01048010.1">
+				</crossref>
+				the eyes of Israel were dim with age, so that he could not see. So Joseph brought them near him, 
+				<crossref let="i" cid="c01048010.2">
+				</crossref>
+				and he kissed them and embraced them.
+			</verse>
+			<marker class="begin-verse" mid="v01048011">
+			</marker>
+			<verse num="11">
+				And Israel said to Joseph, 
+				<crossref let="j" cid="c01048011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I never expected to see your face; and behold, God has let me see your offspring also.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01048012">
+			</marker>
+			<verse num="12">
+				Then Joseph removed them from his knees, and he bowed himself with his face to the earth.
+			</verse>
+			<marker class="begin-verse" mid="v01048013">
+			</marker>
+			<verse num="13">
+				And Joseph took them both, Ephraim in his right hand toward Israel's left hand, and Manasseh in his left hand toward Israel's right hand, and brought them near him.
+			</verse>
+			<marker class="begin-verse" mid="v01048014">
+			</marker>
+			<verse num="14">
+				<crossref let="k" cid="c01048014.1">
+				</crossref>
+				And Israel stretched out his right hand and laid it on the head of Ephraim, who was the younger, and his left hand on the head of Manasseh, 
+				<crossref let="l" cid="c01048014.2">
+				</crossref>
+				crossing his hands (for Manasseh was the firstborn).
+			</verse>
+			<marker class="begin-verse" mid="v01048015">
+			</marker>
+			<verse num="15">
+				And he blessed Joseph and said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The God 
+				<crossref let="m" cid="c01048015.1">
+				</crossref>
+				before whom my fathers Abraham and Isaac walked,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the God who has been my shepherd all my life long to this day,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v01048016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c01048016.1">
+				</crossref>
+				the angel who has 
+				<crossref let="o" cid="c01048016.2">
+				</crossref>
+				redeemed me from all evil, bless the boys;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and in them let 
+				<crossref let="p" cid="c01048016.3">
+				</crossref>
+				my name be carried on, and the name of my fathers Abraham and Isaac;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and let them 
+				<crossref let="q" cid="c01048016.4">
+				</crossref>
+				grow into a multitude
+				<note nid="n01048016.1">
+				</note>
+				 in the midst of the earth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v01048017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				When Joseph saw that his father 
+				<crossref let="r" cid="c01048017.1">
+				</crossref>
+				laid his right hand on the head of Ephraim, it displeased him, and he took his father's hand to move it from Ephraim's head to Manasseh's head.
+			</verse>
+			<marker class="begin-verse" mid="v01048018">
+			</marker>
+			<verse num="18">
+				And Joseph said to his father, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Not this way, my father; since this one is the firstborn, put your right hand on his head.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01048019">
+			</marker>
+			<verse num="19">
+				But his father refused and said, 
+				<crossref let="r" cid="c01048019.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I know, my son, I know. He also shall become a people, and he also shall be great. Nevertheless, 
+				<crossref let="s" cid="c01048019.2">
+				</crossref>
+				his younger brother shall be greater than he, and his offspring shall become a multitude
+				<note nid="n01048019.1">
+				</note>
+				 of nations.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01048020">
+			</marker>
+			<verse num="20">
+				So he blessed them that day, saying,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				By you Israel will pronounce blessings, saying,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c01048020.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				God make you as Ephraim and as Manasseh.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<end-block-indent
+					>
+				</end-block-indent>
+				<begin-paragraph class="same-paragraph">
+				</begin-paragraph>
+				Thus he put Ephraim before Manasseh.
+
+			</verse>
+			<marker class="begin-verse" mid="v01048021">
+			</marker>
+			<verse num="21">
+				Then Israel said to Joseph, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I am about to die, but 
+				<crossref let="u" cid="c01048021.1">
+				</crossref>
+				God will be with you and will bring you again to the land of your fathers.
+			</verse>
+			<marker class="begin-verse" mid="v01048022">
+			</marker>
+			<verse num="22">
+				Moreover, I have given to 
+				<crossref let="v" cid="c01048022.1">
+				</crossref>
+				you rather than to your brothers one mountain slope
+				<note nid="n01048022.1">
+				</note>
+				 that I took from the hand of the Amorites with my sword and with my bow.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

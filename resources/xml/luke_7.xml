@@ -1,0 +1,827 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Luke" num="41">
+		<marker class="begin-verse" mid="v42007001">
+		</marker>
+		<chapter num="7">
+			<heading
+				>
+				Jesus Heals a Centurion's Servant
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				After he had finished all his sayings in the hearing of the people, 
+				<crossref let="b" cid="c42007001.1">
+				</crossref>
+				<crossref cid="t42007001.1">
+				</crossref>
+				he entered Capernaum.
+			</verse>
+			<marker class="begin-verse" mid="v42007002">
+			</marker>
+			<verse num="2">
+				Now a centurion had a servant
+				<note nid="n42007002.1">
+				</note>
+				 who was sick and at the point of death, who was highly valued by him.
+			</verse>
+			<marker class="begin-verse" mid="v42007003">
+			</marker>
+			<verse num="3">
+				When the centurion
+				<note nid="n42007003.1">
+				</note>
+				 heard about Jesus, 
+				<crossref let="c" cid="c42007003.1">
+				</crossref>
+				he sent to him elders of the Jews, asking him to come and heal his servant.
+			</verse>
+			<marker class="begin-verse" mid="v42007004">
+			</marker>
+			<verse num="4">
+				And when they came to Jesus, they pleaded with him earnestly, saying, 
+				<crossref let="d" cid="c42007004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He is worthy to have you do this for him,
+			</verse>
+			<marker class="begin-verse" mid="v42007005">
+			</marker>
+			<verse num="5">
+				for he loves our nation, and he is the one who built us 
+				<crossref let="e" cid="c42007005.1">
+				</crossref>
+				our synagogue.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42007006">
+			</marker>
+			<verse num="6">
+				And Jesus went with them. When he was not far from the house, the centurion sent friends, saying to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, 
+				<crossref let="f" cid="c42007006.1">
+				</crossref>
+				do not trouble yourself, for I am not worthy to have you come under my roof.
+			</verse>
+			<marker class="begin-verse" mid="v42007007">
+			</marker>
+			<verse num="7">
+				Therefore I did not presume to come to you. But 
+				<crossref let="g" cid="c42007007.1">
+				</crossref>
+				say the word, and let my servant be healed.
+			</verse>
+			<marker class="begin-verse" mid="v42007008">
+			</marker>
+			<verse num="8">
+				For I too am a man set under authority, with soldiers under me: and I say to one, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Go,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 and he goes; and to another, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Come,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 and he comes; and to my servant, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Do this,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 and he does it.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42007009">
+			</marker>
+			<verse num="9">
+				When Jesus heard these things, 
+				<crossref let="h" cid="c42007009.1">
+				</crossref>
+				he marveled at him, and turning to the crowd that followed him, said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I tell you, not even in Israel have I found such 
+					<crossref let="i" cid="c42007009.2">
+					</crossref>
+					faith.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007010">
+			</marker>
+			<verse num="10">
+				And when those who had been sent returned to the house, they found the servant well.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42007011">
+			</marker>
+			<heading
+				>
+				Jesus Raises a Widow's Son
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				Soon afterward
+				<note nid="n42007011.1">
+				</note>
+				 he went to a town called Nain, and his disciples and a great crowd went with him.
+			</verse>
+			<marker class="begin-verse" mid="v42007012">
+			</marker>
+			<verse num="12">
+				As he drew near to the gate of the town, behold, a man who had died was being carried out, 
+				<crossref let="j" cid="c42007012.1">
+				</crossref>
+				the only son of his mother, and she was a widow, and a considerable crowd from the town was with her.
+			</verse>
+			<marker class="begin-verse" mid="v42007013">
+			</marker>
+			<verse num="13">
+				And when the Lord saw her, 
+				<crossref let="k" cid="c42007013.1">
+				</crossref>
+				he had compassion on her and 
+				<crossref let="l" cid="c42007013.2">
+				</crossref>
+				said to her, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Do not weep.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007014">
+			</marker>
+			<verse num="14">
+				Then he came up and touched 
+				<crossref let="m" cid="c42007014.1">
+				</crossref>
+				the bier, and the bearers stood still. And he said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Young man, I say to you, 
+					<crossref let="n" cid="c42007014.2">
+					</crossref>
+					arise.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007015">
+			</marker>
+			<verse num="15">
+				And the dead man sat up and began to speak, and Jesus
+				<note nid="n42007015.1">
+				</note>
+				<crossref let="o" cid="c42007015.1">
+				</crossref>
+				gave him to his mother.
+			</verse>
+			<marker class="begin-verse" mid="v42007016">
+			</marker>
+			<verse num="16">
+				Fear seized them all, and 
+				<crossref let="p" cid="c42007016.1">
+				</crossref>
+				they glorified God, saying, 
+				<crossref let="q" cid="c42007016.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				A great prophet has arisen among us!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 and 
+				<crossref let="r" cid="c42007016.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				God has visited his people!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42007017">
+			</marker>
+			<verse num="17">
+				And this report about him spread through the whole of Judea and all the surrounding country.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42007018">
+			</marker>
+			<heading
+				>
+				Messengers from John the Baptist
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				<crossrefs
+					>
+					<crossref let="s" cid="c42007018.1">
+					</crossref>
+					<crossref let="t" cid="c42007018.2">
+					</crossref>
+				</crossrefs>
+				<crossref cid="t42007018.1">
+				</crossref>
+				The disciples of John reported all these things to him. And John,
+			</verse>
+			<marker class="begin-verse" mid="v42007019">
+			</marker>
+			<verse num="19">
+				calling two of his disciples to him, sent them to the Lord, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Are you the one 
+				<crossref let="u" cid="c42007019.1">
+				</crossref>
+				who is to come, or 
+				<crossref let="v" cid="c42007019.2">
+				</crossref>
+				shall we look for another?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42007020">
+			</marker>
+			<verse num="20">
+				And when the men had come to him, they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				John the Baptist has sent us to you, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Are you the one 
+				<crossref let="u" cid="c42007020.1">
+				</crossref>
+				who is to come, or 
+				<crossref let="v" cid="c42007020.2">
+				</crossref>
+				shall we look for another?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42007021">
+			</marker>
+			<verse num="21">
+				In that hour 
+				<crossref let="w" cid="c42007021.1">
+				</crossref>
+				he healed many people of diseases and plagues and evil spirits, and 
+				<crossref let="x" cid="c42007021.2">
+				</crossref>
+				on many who were blind he bestowed sight.
+			</verse>
+			<marker class="begin-verse" mid="v42007022">
+			</marker>
+			<verse num="22">
+				And he answered them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go and tell John what you have seen and heard: 
+					<crossref let="y" cid="c42007022.1">
+					</crossref>
+					the blind receive their sight, the lame walk, 
+					<crossref let="z" cid="c42007022.2">
+					</crossref>
+					lepers
+					<note nid="n42007022.1">
+					</note>
+					 are cleansed, and 
+					<crossref let="a" cid="c42007022.3">
+					</crossref>
+					the deaf hear, 
+					<crossref let="b" cid="c42007022.4">
+					</crossref>
+					the dead are raised up, 
+					<crossref let="c" cid="c42007022.5">
+					</crossref>
+					the poor have good news preached to them.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007023">
+			</marker>
+			<verse num="23" class="woc">
+				<woc
+					>
+					And blessed is the one who is 
+					<crossref let="d" cid="c42007023.1">
+					</crossref>
+					not offended by me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42007024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				When John's messengers had gone, Jesus
+				<note nid="n42007024.1">
+				</note>
+				 began to speak to the crowds concerning John: 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What did you go out 
+					<crossref let="e" cid="c42007024.1">
+					</crossref>
+					into the wilderness to see? 
+					<crossref let="f" cid="c42007024.2">
+					</crossref>
+					A reed shaken by the wind?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007025">
+			</marker>
+			<verse num="25" class="woc">
+				<woc
+					>
+					What then did you go out to see? A man dressed in soft clothing? Behold, those who are dressed in splendid clothing and live in luxury are in kings' courts.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					What then did you go out to see? 
+					<crossref let="g" cid="c42007026.1">
+					</crossref>
+					A prophet? Yes, I tell you, and more than a prophet.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007027">
+			</marker>
+			<verse num="27" class="woc">
+				<woc
+					>
+					This is he of whom it is written,
+				</woc>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<woc
+					>
+					<crossref let="h" cid="c42007027.1">
+					</crossref>
+					<crossref cid="t42007027.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Behold, I send my messenger before your face,
+					<end-line class="br">
+					</end-line>
+					<begin-line class="indent">
+					</begin-line>
+					who will prepare your way before you.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v42007028">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="28" class="woc">
+				<woc
+					>
+					I tell you, among those born of women none is greater than John. Yet the one who is least in the kingdom of God is greater than he.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007029">
+			</marker>
+			<verse num="29">
+				(
+				<crossref let="i" cid="c42007029.1">
+				</crossref>
+				When all the people heard this, and 
+				<crossref let="j" cid="c42007029.2">
+				</crossref>
+				the tax collectors too, they declared God just,
+				<note nid="n42007029.1">
+				</note>
+				<crossref let="j" cid="c42007029.3">
+				</crossref>
+				having been baptized with 
+				<crossref let="k" cid="c42007029.4">
+				</crossref>
+				the baptism of John,
+			</verse>
+			<marker class="begin-verse" mid="v42007030">
+			</marker>
+			<verse num="30">
+				<crossref let="l" cid="c42007030.1">
+				</crossref>
+				but the Pharisees and 
+				<crossref let="m" cid="c42007030.2">
+				</crossref>
+				the lawyers 
+				<crossref let="n" cid="c42007030.3">
+				</crossref>
+				rejected 
+				<crossref let="o" cid="c42007030.4">
+				</crossref>
+				the purpose of God for themselves, not having been baptized by him.)
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42007031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31" class="woc">
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					To what then shall I compare the people of this generation, and what are they like?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007032">
+			</marker>
+			<verse num="32" class="woc">
+				<woc
+					>
+					They are like children sitting in the marketplace and calling to one another,
+				</woc>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					We played the flute for you, and you did not dance;
+					<end-line class="br">
+					</end-line>
+					<begin-line class="indent">
+					</begin-line>
+					we sang a dirge, and you did not weep.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v42007033">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="33" class="woc">
+				<woc
+					>
+					For John the Baptist has come 
+					<crossref let="p" cid="c42007033.1">
+					</crossref>
+					eating no bread and 
+					<crossref let="q" cid="c42007033.2">
+					</crossref>
+					drinking no wine, and you say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					He has a demon.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007034">
+			</marker>
+			<verse num="34" class="woc">
+				<woc
+					>
+					The Son of Man has come 
+					<crossref let="r" cid="c42007034.1">
+					</crossref>
+					eating and drinking, and you say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Look at him! A glutton and a drunkard, 
+					<crossref let="s" cid="c42007034.2">
+					</crossref>
+					a friend of tax collectors and sinners!
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007035">
+			</marker>
+			<verse num="35" class="woc">
+				<woc
+					>
+					Yet 
+					<crossref let="t" cid="c42007035.1">
+					</crossref>
+					wisdom is justified by all her children.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42007036">
+			</marker>
+			<heading
+				>
+				A Sinful Woman Forgiven
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="36">
+				<crossref let="u" cid="c42007036.1">
+				</crossref>
+				One of the Pharisees asked him to eat with him, and he went into the Pharisee's house and took his place at the table.
+			</verse>
+			<marker class="begin-verse" mid="v42007037">
+			</marker>
+			<verse num="37">
+				<crossref let="v" cid="c42007037.1">
+				</crossref>
+				And behold, a woman of the city, who was a sinner, when she learned that he was reclining at table in the Pharisee's house, brought an alabaster flask of ointment,
+			</verse>
+			<marker class="begin-verse" mid="v42007038">
+			</marker>
+			<verse num="38">
+				and standing behind him at his feet, weeping, she began to wet his feet with her tears and 
+				<crossref let="w" cid="c42007038.1">
+				</crossref>
+				wiped them with the hair of her head and kissed his feet and anointed them with the ointment.
+			</verse>
+			<marker class="begin-verse" mid="v42007039">
+			</marker>
+			<verse num="39">
+				Now when the Pharisee who had invited him saw this, he said to himself, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If 
+				<crossref let="x" cid="c42007039.1">
+				</crossref>
+				this man were 
+				<crossref let="y" cid="c42007039.2">
+				</crossref>
+				a prophet, he 
+				<crossref let="z" cid="c42007039.3">
+				</crossref>
+				would have known who and what sort of woman this is who is touching him, for she is a sinner.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42007040">
+			</marker>
+			<verse num="40">
+				And Jesus answering said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Simon, I have something to say to you.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And he answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say it, Teacher.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42007041">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="41" class="woc">
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					A certain moneylender had two debtors. One owed five hundred 
+					<crossref let="a" cid="c42007041.1">
+					</crossref>
+					denarii, and the other fifty.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007042">
+			</marker>
+			<verse num="42" class="woc">
+				<woc
+					>
+					<crossref let="b" cid="c42007042.1">
+					</crossref>
+					When they could not pay, he 
+					<crossref let="c" cid="c42007042.2">
+					</crossref>
+					cancelled the debt of both. Now which of them will love him more?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007043">
+			</marker>
+			<verse num="43">
+				Simon answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The one, I suppose, for whom he cancelled the larger debt.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You have judged rightly.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007044">
+			</marker>
+			<verse num="44">
+				Then turning toward the woman he said to Simon, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Do you see this woman? I entered your house; 
+					<crossref let="d" cid="c42007044.1">
+					</crossref>
+					you gave me no water for my feet, but 
+					<crossref let="e" cid="c42007044.2">
+					</crossref>
+					she has wet my feet with her tears and wiped them with her hair.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007045">
+			</marker>
+			<verse num="45" class="woc">
+				<woc
+					>
+					<crossref let="f" cid="c42007045.1">
+					</crossref>
+					You gave me no kiss, but from the time I came in she has not ceased to 
+					<crossref let="g" cid="c42007045.2">
+					</crossref>
+					kiss my feet.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007046">
+			</marker>
+			<verse num="46" class="woc">
+				<woc
+					>
+					<crossref let="h" cid="c42007046.1">
+					</crossref>
+					You did not anoint my head with oil, but she has anointed my feet with ointment.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007047">
+			</marker>
+			<verse num="47" class="woc">
+				<woc
+					>
+					Therefore I tell you, her sins, 
+					<crossref let="i" cid="c42007047.1">
+					</crossref>
+					which are many, are forgivenùfor she loved much. But he who is forgiven little, loves little.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007048">
+			</marker>
+			<verse num="48">
+				And he said to her, 
+				<woc
+					>
+					<crossref let="j" cid="c42007048.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Your sins are forgiven.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42007049">
+			</marker>
+			<verse num="49">
+				Then those who were at table with him began to say among
+				<note nid="n42007049.1">
+				</note>
+				 themselves, 
+				<crossref let="k" cid="c42007049.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who is this, who even forgives sins?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42007050">
+			</marker>
+			<verse num="50">
+				And he said to the woman, 
+				<woc
+					>
+					<crossref let="l" cid="c42007050.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Your faith has saved you; 
+					<crossref let="m" cid="c42007050.2">
+					</crossref>
+					go in peace.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

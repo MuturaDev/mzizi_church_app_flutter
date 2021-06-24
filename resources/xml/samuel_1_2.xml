@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				Hannah's Prayer
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And Hannah prayed and said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c09002001.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My heart exults in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="g" cid="c09002001.2">
+				</crossref>
+				my strength
+				<note nid="n09002001.1">
+				</note>
+				 is exalted in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				My mouth derides my enemies,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because 
+				<crossref let="h" cid="c09002001.3">
+				</crossref>
+				I rejoice in your salvation.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09002002">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c09002002.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				There is none holy like the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				there is none besides you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				there is 
+				<crossref let="j" cid="c09002002.2">
+				</crossref>
+				no rock like our God.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v09002003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Talk no more so very proudly,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let not arrogance come from your mouth;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is a God of knowledge,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and by him actions are weighed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v09002004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c09002004.1">
+				</crossref>
+				The bows of the mighty are broken,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the feeble bind on strength.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v09002005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Those who were full have hired themselves out for bread,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but those who were hungry have ceased to hunger.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c09002005.1">
+				</crossref>
+				The barren has borne seven,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c09002005.2">
+				</crossref>
+				but she who has many children is forlorn.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v09002006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c09002006.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 kills and brings to life;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he brings down to Sheol and raises up.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v09002007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c09002007.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 makes poor and makes rich;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="p" cid="c09002007.2">
+				</crossref>
+				he brings low and he exalts.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v09002008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c09002008.1">
+				</crossref>
+				He raises up the poor from the dust;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he lifts the needy from the ash heap
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c09002008.2">
+				</crossref>
+				to make them sit with princes
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and inherit a seat of honor.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c09002008.3">
+				</crossref>
+				For the pillars of the earth are the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and on them he has set the world.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09002009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c09002009.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				He will guard the feet of his faithful ones,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the wicked shall be cut off in darkness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for not by might shall a man prevail.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v09002010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c09002010.1">
+				</crossref>
+				The adversaries of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 shall be broken to pieces;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="v" cid="c09002010.2">
+				</crossref>
+				against them he will thunder in heaven.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c09002010.3">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will judge the ends of the earth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he will give strength to his king
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c09002010.4">
+				</crossref>
+				and exalt the power
+				<note nid="n09002010.1">
+				</note>
+				 of his anointed.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v09002011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				Then Elkanah went home 
+				<crossref let="y" cid="c09002011.1">
+				</crossref>
+				to Ramah. 
+				<crossref let="z" cid="c09002011.2">
+				</crossref>
+				And the boy ministered to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 in the presence of Eli the priest.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09002012">
+			</marker>
+			<heading
+				>
+				Eli's Worthless Sons
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				Now the sons of Eli were 
+				<crossref let="a" cid="c09002012.1">
+				</crossref>
+				worthless men. 
+				<crossref let="b" cid="c09002012.2">
+				</crossref>
+				They did not know the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v09002013">
+			</marker>
+			<verse num="13">
+				The custom of the priests with the people was that when any man offered sacrifice, the priest's servant
+				<note nid="n09002013.1">
+				</note>
+				 would come, while the meat was boiling, with a three-pronged fork in his hand,
+			</verse>
+			<marker class="begin-verse" mid="v09002014">
+			</marker>
+			<verse num="14">
+				and he would thrust it into the pan or kettle or cauldron or pot. All that the fork brought up the priest would take for himself. This is what they did at Shiloh to all the Israelites who came there.
+			</verse>
+			<marker class="begin-verse" mid="v09002015">
+			</marker>
+			<verse num="15">
+				Moreover, 
+				<crossref let="c" cid="c09002015.1">
+				</crossref>
+				before the fat was burned, the priest's servant would come and say to the man who was sacrificing, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give meat for the priest to roast, for he will not accept boiled meat from you but only raw.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09002016">
+			</marker>
+			<verse num="16">
+				And if the man said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let them burn the fat first, and then take as much as you wish,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 he would say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No, you must give it now, and if not, I will take it by force.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09002017">
+			</marker>
+			<verse num="17">
+				Thus the sin of the young men was very great 
+				<crossref let="d" cid="c09002017.1">
+				</crossref>
+				in the sight of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="e" cid="c09002017.2">
+				</crossref>
+				for the men treated the offering of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with contempt.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09002018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				<crossref let="f" cid="c09002018.1">
+				</crossref>
+				Samuel was ministering before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, a boy 
+				<crossref let="g" cid="c09002018.2">
+				</crossref>
+				clothed with a linen ephod.
+			</verse>
+			<marker class="begin-verse" mid="v09002019">
+			</marker>
+			<verse num="19">
+				And his mother used to make for him a little robe and take it to him each year 
+				<crossref let="h" cid="c09002019.1">
+				</crossref>
+				when she went up with her husband to offer the yearly sacrifice.
+			</verse>
+			<marker class="begin-verse" mid="v09002020">
+			</marker>
+			<verse num="20">
+				Then Eli would bless Elkanah and his wife, and say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				May the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 give you children by this woman 
+				<crossref let="i" cid="c09002020.1">
+				</crossref>
+				for the petition she asked of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So then they would return to their home.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09002021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<crossref let="j" cid="c09002021.1">
+				</crossref>
+				Indeed the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 visited Hannah, and she conceived and bore three sons and two daughters. 
+				<crossref let="k" cid="c09002021.2">
+				</crossref>
+				And the young man Samuel grew in the presence of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09002022">
+			</marker>
+			<heading
+				>
+				Eli Rebukes His Sons
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				Now Eli was very old, and he kept hearing all that his sons were doing to all Israel, and how they lay with the women who 
+				<crossref let="l" cid="c09002022.1">
+				</crossref>
+				were serving at the entrance to the tent of meeting.
+			</verse>
+			<marker class="begin-verse" mid="v09002023">
+			</marker>
+			<verse num="23">
+				And he said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do you do such things? For I hear of your evil dealings from all the people.
+			</verse>
+			<marker class="begin-verse" mid="v09002024">
+			</marker>
+			<verse num="24">
+				No, my sons; it is no good report that I hear the people of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spreading abroad.
+			</verse>
+			<marker class="begin-verse" mid="v09002025">
+			</marker>
+			<verse num="25">
+				If someone sins against a man, God will mediate for him, but if someone sins against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, who can intercede for him?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But they would not listen to the voice of their father, 
+				<crossref let="m" cid="c09002025.1">
+				</crossref>
+				for it was the will of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 to put them to death.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09002026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				Now the young man Samuel 
+				<crossref let="n" cid="c09002026.1">
+				</crossref>
+				continued to grow both in stature and in favor with the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and also with man.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09002027">
+			</marker>
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Rejects Eli's Household
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				And there came 
+				<crossref let="o" cid="c09002027.1">
+				</crossref>
+				a man of God to Eli and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has said, 
+				<crossref let="p" cid="c09002027.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Did I indeed reveal myself to the house of your father when they were in Egypt subject to the house of Pharaoh?
+			</verse>
+			<marker class="begin-verse" mid="v09002028">
+			</marker>
+			<verse num="28">
+				<crossref let="q" cid="c09002028.1">
+				</crossref>
+				Did I choose him out of all the tribes of Israel to be my priest, to go up to my altar, to burn incense, 
+				<crossref let="r" cid="c09002028.2">
+				</crossref>
+				to wear an ephod before me? 
+				<crossref let="s" cid="c09002028.3">
+				</crossref>
+				I gave to the house of your father all my offerings by fire from the people of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v09002029">
+			</marker>
+			<verse num="29">
+				Why then do you 
+				<crossref let="t" cid="c09002029.1">
+				</crossref>
+				scorn
+				<note nid="n09002029.1">
+				</note>
+				 my sacrifices and my offerings that I commanded, and honor your sons above me by fattening yourselves on the choicest parts of every offering of my people Israel?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09002030">
+			</marker>
+			<verse num="30">
+				Therefore the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel, declares: 
+				<crossref let="v" cid="c09002030.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I promised that your house and the house of your father should go in and out before me forever,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<crossref let="w" cid="c09002030.2">
+				</crossref>
+				but now the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 declares: 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Far be it from me, for those who honor me I will honor, and those who despise me shall be lightly esteemed.
+			</verse>
+			<marker class="begin-verse" mid="v09002031">
+			</marker>
+			<verse num="31">
+				Behold, 
+				<crossref let="x" cid="c09002031.1">
+				</crossref>
+				the days are coming when I will cut off your strength and the strength of your father's house, so that there will not be an old man in your house.
+			</verse>
+			<marker class="begin-verse" mid="v09002032">
+			</marker>
+			<verse num="32">
+				Then 
+				<crossref let="y" cid="c09002032.1">
+				</crossref>
+				in distress you will look with envious eye on all the prosperity that shall be bestowed on Israel, 
+				<crossref let="z" cid="c09002032.2">
+				</crossref>
+				and there shall not be an old man in your house forever.
+			</verse>
+			<marker class="begin-verse" mid="v09002033">
+			</marker>
+			<verse num="33">
+				The only one of you whom I shall not cut off from my altar shall be spared to weep his
+				<note nid="n09002033.1">
+				</note>
+				 eyes out to grieve his heart, and all the descendants
+				<note nid="n09002033.2">
+				</note>
+				 of your house shall die by the sword of men.
+				<note nid="n09002033.3">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v09002034">
+			</marker>
+			<verse num="34">
+				<crossref let="a" cid="c09002034.1">
+				</crossref>
+				And this that shall come upon your two sons, Hophni and Phinehas, shall be the sign to you: both of them shall die 
+				<crossref let="b" cid="c09002034.2">
+				</crossref>
+				on the same day.
+			</verse>
+			<marker class="begin-verse" mid="v09002035">
+			</marker>
+			<verse num="35">
+				<crossref let="c" cid="c09002035.1">
+				</crossref>
+				And I will raise up for myself a faithful priest, who shall do according to what is in my heart and in my mind. 
+				<crossref let="d" cid="c09002035.2">
+				</crossref>
+				And I will build him a sure house, and he shall go in and out before 
+				<crossref let="e" cid="c09002035.3">
+				</crossref>
+				my anointed forever.
+			</verse>
+			<marker class="begin-verse" mid="v09002036">
+			</marker>
+			<verse num="36">
+				And everyone who is left in your house shall come to implore him for a piece of silver or a loaf of bread and shall say, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				Please put me in one of the priests' places, that I may eat a morsel of bread.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

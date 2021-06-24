@@ -1,7 +1,13 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:line_icons/line_icons.dart';
+import 'package:mzizichurchsystem/mzizi_bible/Feature/Reader/bible_bloc.dart';
+import 'package:mzizichurchsystem/mzizi_bible/Feature/Settings/settings_bloc.dart';
+import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/MultiPartXmlBibleProvider.dart';
+import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/ReferenceProvider.dart';
+import 'package:mzizichurchsystem/mzizi_bible/main_bible.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/home_announcements.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/home_carousell.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/home_recent_transactions.dart';
@@ -11,6 +17,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.
 import 'package:mzizichurchsystem/mzizi_church_system/screens/Screen.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/screens/dashboard_screen.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/webview/church_website_webview.dart';
 
 class HomePage extends KFDrawerContent {
   VoidCallback onMenuPressedHere;
@@ -35,7 +42,7 @@ class _HomePageState extends State<HomePage> {
               ),
               SizedBox(height: 16),
               new GestureDetector(
-                onTap: () => Navigator.of(context).pop(true),
+                onTap: () => SystemNavigator.pop(),
                 child: Text("YES"),
               ),
             ],
@@ -77,39 +84,65 @@ class _HomePageState extends State<HomePage> {
                   )),
               centerTitle: true,
               actions: <Widget>[
-                // SpringButton(
-                //   SpringButtonType.OnlyScale,
-                //   Padding(
-                //     padding: EdgeInsets.all(13.0),
-                //     child: Container(
-                //       height: 28.0,
-                //       width: 28.0,
-                //       decoration: BoxDecoration(
-                //           color: Colors.red,
-                //           borderRadius: BorderRadius.circular(20.0)),
-                //       child: Center(
-                //           child: Text(
-                //         "0",
-                //         style: TextStyle(fontSize: 13.0, color: Colors.white),
-                //       )),
-                //     ),
-                //   ),
-                //   onTapDown: (_) {
-                //     RouteController.routeMethod(13,
-                //         controller: Controller.Navigator, context: context);
-                //   },
-                // ),
                 SpringButton(
                   SpringButtonType.OnlyScale,
                   Padding(
-                      padding: EdgeInsets.only(right: 10),
-                      child: Icon(LineIcons.comments,
-                          color: Colors.white, size: 30)),
+                    padding: EdgeInsets.only(right: 5.0),
+                    child: Container(
+                      height: 35.0,
+                      width: 35.0,
+                      decoration: BoxDecoration(
+                          //color: Colors.red,
+                          borderRadius: BorderRadius.circular(20.0)),
+                      child: Center(
+                          child: Image.asset(
+                              'assets/images/member_app_assets/web_design.png')),
+                    ),
+                  ),
                   onTapDown: (_) {
-                    RouteController.routeMethod(10,
-                        controller: Controller.Navigator, context: context);
+                    // RouteController.routeMethod(13,
+                    //     controller: Controller.Navigator, context: context);
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => BWMCWebView()),
+                    );
                   },
                 ),
+                SpringButton(
+                  SpringButtonType.OnlyScale,
+                  Padding(
+                    padding: EdgeInsets.all(13.0),
+                    child: Container(
+                      height: 28.0,
+                      width: 28.0,
+                      decoration: BoxDecoration(
+                          //color: Colors.red,
+                          borderRadius: BorderRadius.circular(20.0)),
+                      child: Center(
+                          child: Image.asset(
+                              'assets/images/member_app_assets/bible.png')),
+                    ),
+                  ),
+                  onTapDown: (_) {
+                    // RouteController.routeMethod(13,
+                    //     controller: Controller.Navigator, context: context);
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => MainBible()),
+                    );
+                  },
+                ),
+                // SpringButton(
+                //   SpringButtonType.OnlyScale,
+                //   Padding(
+                //       padding: EdgeInsets.only(right: 10),
+                //       child: Icon(LineIcons.comments,
+                //           color: Colors.white, size: 30)),
+                //   onTapDown: (_) {
+                //     RouteController.routeMethod(10,
+                //         controller: Controller.Navigator, context: context);
+                //   },
+                // ),
               ],
             ),
             body: Container(

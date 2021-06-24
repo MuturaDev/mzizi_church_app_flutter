@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19144001">
+		</marker>
+		<chapter num="144">
+			<heading
+				>
+				My Rock and My Fortress
+			</heading>
+			<subheading class="psalm-title">
+				Of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Blessed be the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, my 
+				<crossref let="g" cid="c19144001.1">
+				</crossref>
+				rock,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c19144001.2">
+				</crossref>
+				who trains my hands for war,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my fingers for battle;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19144002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				he is my 
+				<crossref let="i" cid="c19144002.1">
+				</crossref>
+				steadfast love and my 
+				<crossref let="j" cid="c19144002.2">
+				</crossref>
+				fortress,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my 
+				<crossref let="k" cid="c19144002.3">
+				</crossref>
+				stronghold and my deliverer,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				my 
+				<crossref let="l" cid="c19144002.4">
+				</crossref>
+				shield and he in whom I take refuge,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="m" cid="c19144002.5">
+				</crossref>
+				subdues peoples
+				<note nid="n19144002.1">
+				</note>
+				 under me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19144003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="n" cid="c19144003.1">
+				</crossref>
+				what is man that you 
+				<crossref let="o" cid="c19144003.2">
+				</crossref>
+				regard him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or the son of man that you think of him?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19144004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19144004.1">
+				</crossref>
+				Man is like a breath;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his days are like 
+				<crossref let="q" cid="c19144004.2">
+				</crossref>
+				a passing 
+				<crossref let="r" cid="c19144004.3">
+				</crossref>
+				shadow.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19144005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19144005.1">
+				</crossref>
+				Bow your heavens, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and come down!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c19144005.2">
+				</crossref>
+				Touch the mountains so that they smoke!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19144006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19144006.1">
+				</crossref>
+				Flash forth the lightning and scatter them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c19144006.2">
+				</crossref>
+				send out your arrows and rout them!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19144007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c19144007.1">
+				</crossref>
+				Stretch out your hand from on high;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c19144007.2">
+				</crossref>
+				rescue me and deliver me from the many waters,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from the hand 
+				<crossref let="x" cid="c19144007.3">
+				</crossref>
+				of foreigners,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19144008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				whose mouths speak 
+				<crossref let="y" cid="c19144008.1">
+				</crossref>
+				lies
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and whose right hand is 
+				<crossref let="z" cid="c19144008.2">
+				</crossref>
+				a right hand of falsehood.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19144009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				I will sing 
+				<crossref let="a" cid="c19144009.1">
+				</crossref>
+				a new song to you, O God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				upon 
+				<crossref let="a" cid="c19144009.2">
+				</crossref>
+				a ten-stringed harp I will play to you,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19144010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				who gives victory to kings,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="b" cid="c19144010.1">
+				</crossref>
+				rescues David his servant from the cruel sword.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19144011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Rescue me and deliver me
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from the hand 
+				<crossref let="x" cid="c19144011.1">
+				</crossref>
+				of foreigners,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				whose mouths speak 
+				<crossref let="y" cid="c19144011.2">
+				</crossref>
+				lies
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and whose right hand is a right hand of falsehood.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19144012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				May our sons in their youth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				be like 
+				<crossref let="c" cid="c19144012.1">
+				</crossref>
+				plants full grown,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				our daughters like 
+				<crossref let="d" cid="c19144012.2">
+				</crossref>
+				corner pillars
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				cut for the structure of a palace;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19144013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c19144013.1">
+				</crossref>
+				may our granaries be full,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c19144013.2">
+				</crossref>
+				providing all kinds of produce;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				may our sheep bring forth thousands
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and ten thousands in our fields;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19144014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				may our cattle be heavy with young,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				suffering no mishap or failure in bearing;
+				<note nid="n19144014.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				may there be no 
+				<crossref let="g" cid="c19144014.1">
+				</crossref>
+				cry of distress in our streets!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19144015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c19144015.1">
+				</crossref>
+				Blessed are the people to whom such blessings fall!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c19144015.2">
+				</crossref>
+				Blessed are the people whose God is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

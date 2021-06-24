@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19009001">
+		</marker>
+		<chapter num="9">
+			<heading
+				>
+				I Will Recount Your Wonderful Deeds
+			</heading>
+			<subheading class="psalm-title">
+				<note nid="n19009001.1">
+				</note>
+				 To the choirmaster: according to Muth-labben.
+				<note nid="n19009001.2">
+				</note>
+				 A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				I will give thanks to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with my whole heart;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will recount all of your 
+				<crossref let="g" cid="c19009001.1">
+				</crossref>
+				wonderful deeds.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19009002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				I will be glad and 
+				<crossref let="h" cid="c19009002.1">
+				</crossref>
+				exult in you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will 
+				<crossref let="i" cid="c19009002.2">
+				</crossref>
+				sing praise to your name, 
+				<crossref let="j" cid="c19009002.3">
+				</crossref>
+				O Most High.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19009003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				When my enemies turn back,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they stumble and perish before
+				<note nid="n19009003.1">
+				</note>
+				 your presence.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19009004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				For you have 
+				<crossref let="k" cid="c19009004.1">
+				</crossref>
+				maintained my just cause;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have 
+				<crossref let="l" cid="c19009004.2">
+				</crossref>
+				sat on the throne, giving righteous judgment.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19009005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				You have 
+				<crossref let="m" cid="c19009005.1">
+				</crossref>
+				rebuked the nations; you have made the wicked perish;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have 
+				<crossref let="n" cid="c19009005.2">
+				</crossref>
+				blotted out their name forever and ever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19009006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				The enemy came to an end in everlasting ruins;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				their cities you rooted out;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the very memory of them has perished.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19009007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				But the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 sits enthroned forever;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he has established his throne for justice,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19009008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				and he 
+				<crossref let="o" cid="c19009008.1">
+				</crossref>
+				judges the world with righteousness;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="p" cid="c19009008.2">
+				</crossref>
+				judges the peoples with uprightness.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19009009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is 
+				<crossref let="q" cid="c19009009.1">
+				</crossref>
+				a stronghold for 
+				<crossref let="r" cid="c19009009.2">
+				</crossref>
+				the oppressed,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a stronghold in 
+				<crossref let="s" cid="c19009009.3">
+				</crossref>
+				times of trouble.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19009010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				And those who 
+				<crossref let="t" cid="c19009010.1">
+				</crossref>
+				know your name put their trust in you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, have not forsaken those who seek you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19009011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Sing praises to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, who 
+				<crossref let="u" cid="c19009011.1">
+				</crossref>
+				sits enthroned in Zion!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Tell among the peoples his 
+				<crossref let="v" cid="c19009011.2">
+				</crossref>
+				deeds!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19009012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				For he who 
+				<crossref let="w" cid="c19009012.1">
+				</crossref>
+				avenges blood is mindful of them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="x" cid="c19009012.2">
+				</crossref>
+				does not forget the cry of the afflicted.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19009013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c19009013.1">
+				</crossref>
+				Be gracious to me, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				See my affliction from those who hate me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O you who lift me up from 
+				<crossref let="z" cid="c19009013.2">
+				</crossref>
+				the gates of death,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19009014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				that I may recount all your praises,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that in the gates of 
+				<crossref let="a" cid="c19009014.1">
+				</crossref>
+				the daughter of Zion
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I may 
+				<crossref let="b" cid="c19009014.2">
+				</crossref>
+				rejoice in your salvation.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19009015">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				The nations have sunk in 
+				<crossref let="c" cid="c19009015.1">
+				</crossref>
+				the pit that they made;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in 
+				<crossref let="d" cid="c19009015.2">
+				</crossref>
+				the net that they hid, their own foot has been caught.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19009016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has made himself 
+				<crossref let="e" cid="c19009016.1">
+				</crossref>
+				known; he has executed judgment;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the wicked are snared in the work of their own hands. 
+				<selah
+					>
+					Higgaion.
+					<note nid="n19009016.1">
+					</note>
+					 Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19009017">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				The wicked shall 
+				<crossref let="f" cid="c19009017.1">
+				</crossref>
+				return to Sheol,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all the nations that 
+				<crossref let="g" cid="c19009017.2">
+				</crossref>
+				forget God.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19009018">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				For the needy shall not always be forgotten,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="h" cid="c19009018.1">
+				</crossref>
+				the hope of the poor shall not perish forever.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19009019">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19009019.1">
+				</crossref>
+				Arise, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				! Let not 
+				<crossref let="j" cid="c19009019.2">
+				</crossref>
+				man prevail;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let the nations be judged before you!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19009020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				Put them in fear, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Let the nations know that they are but 
+				<crossref let="j" cid="c19009020.1">
+				</crossref>
+				men! 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

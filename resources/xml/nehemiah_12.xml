@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Nehemiah" num="15">
+		<marker class="begin-verse" mid="v16012001">
+		</marker>
+		<chapter num="12">
+			<heading
+				>
+				Priests and Levites
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				These are 
+				<crossref let="b" cid="c16012001.1">
+				</crossref>
+				the priests and the Levites who came up with 
+				<crossref let="c" cid="c16012001.2">
+				</crossref>
+				Zerubbabel the son of Shealtiel, and 
+				<crossref let="d" cid="c16012001.3">
+				</crossref>
+				Jeshua: 
+				<crossref let="e" cid="c16012001.4">
+				</crossref>
+				Seraiah, Jeremiah, Ezra,
+			</verse>
+			<marker class="begin-verse" mid="v16012002">
+			</marker>
+			<verse num="2">
+				Amariah, Malluch, Hattush,
+			</verse>
+			<marker class="begin-verse" mid="v16012003">
+			</marker>
+			<verse num="3">
+				Shecaniah, Rehum, Meremoth,
+			</verse>
+			<marker class="begin-verse" mid="v16012004">
+			</marker>
+			<verse num="4">
+				Iddo, Ginnethoi, Abijah,
+			</verse>
+			<marker class="begin-verse" mid="v16012005">
+			</marker>
+			<verse num="5">
+				Mijamin, Maadiah, Bilgah,
+			</verse>
+			<marker class="begin-verse" mid="v16012006">
+			</marker>
+			<verse num="6">
+				Shemaiah, Joiarib, Jedaiah,
+			</verse>
+			<marker class="begin-verse" mid="v16012007">
+			</marker>
+			<verse num="7">
+				Sallu, Amok, Hilkiah, Jedaiah. These were the chiefs of the priests and of their brothers in the days of Jeshua.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16012008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				And the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who with his brothers was 
+				<crossref let="f" cid="c16012008.1">
+				</crossref>
+				in charge of the songs of thanksgiving.
+			</verse>
+			<marker class="begin-verse" mid="v16012009">
+			</marker>
+			<verse num="9">
+				And Bakbukiah and Unni and their brothers stood opposite them 
+				<crossref let="g" cid="c16012009.1">
+				</crossref>
+				in the service.
+			</verse>
+			<marker class="begin-verse" mid="v16012010">
+			</marker>
+			<verse num="10">
+				And Jeshua was the father of Joiakim, Joiakim the father of Eliashib, Eliashib the father of Joiada,
+			</verse>
+			<marker class="begin-verse" mid="v16012011">
+			</marker>
+			<verse num="11">
+				Joiada the father of Jonathan, and Jonathan the father of Jaddua.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16012012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				<crossref let="h" cid="c16012012.1">
+				</crossref>
+				And in the days of Joiakim were priests, heads of fathers' houses: of Seraiah, Meraiah; of Jeremiah, Hananiah;
+			</verse>
+			<marker class="begin-verse" mid="v16012013">
+			</marker>
+			<verse num="13">
+				of Ezra, Meshullam; of Amariah, Jehohanan;
+			</verse>
+			<marker class="begin-verse" mid="v16012014">
+			</marker>
+			<verse num="14">
+				of Malluchi, Jonathan; of Shebaniah, Joseph;
+			</verse>
+			<marker class="begin-verse" mid="v16012015">
+			</marker>
+			<verse num="15">
+				of Harim, Adna; of Meraioth, Helkai;
+			</verse>
+			<marker class="begin-verse" mid="v16012016">
+			</marker>
+			<verse num="16">
+				of Iddo, Zechariah; of Ginnethon, Meshullam;
+			</verse>
+			<marker class="begin-verse" mid="v16012017">
+			</marker>
+			<verse num="17">
+				of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;
+			</verse>
+			<marker class="begin-verse" mid="v16012018">
+			</marker>
+			<verse num="18">
+				of Bilgah, Shammua; of Shemaiah, Jehonathan;
+			</verse>
+			<marker class="begin-verse" mid="v16012019">
+			</marker>
+			<verse num="19">
+				of Joiarib, Mattenai; of Jedaiah, Uzzi;
+			</verse>
+			<marker class="begin-verse" mid="v16012020">
+			</marker>
+			<verse num="20">
+				of Sallai, Kallai; of Amok, Eber;
+			</verse>
+			<marker class="begin-verse" mid="v16012021">
+			</marker>
+			<verse num="21">
+				of Hilkiah, Hashabiah; of Jedaiah, Nethanel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16012022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				In the days of Eliashib, Joiada, Johanan, and Jaddua, the Levites were recorded as heads of fathers' houses; so too were the priests in the reign of Darius the Persian.
+			</verse>
+			<marker class="begin-verse" mid="v16012023">
+			</marker>
+			<verse num="23">
+				As for the sons of Levi, their heads of fathers' houses 
+				<crossref let="i" cid="c16012023.1">
+				</crossref>
+				were written in the Book of the Chronicles until the days of Johanan the son of Eliashib.
+			</verse>
+			<marker class="begin-verse" mid="v16012024">
+			</marker>
+			<verse num="24">
+				And the chiefs of the Levites: Hashabiah, Sherebiah, and 
+				<crossref let="j" cid="c16012024.1">
+				</crossref>
+				Jeshua the son of Kadmiel, with their brothers who stood opposite them, 
+				<crossref let="k" cid="c16012024.2">
+				</crossref>
+				to praise and to give thanks, 
+				<crossref let="l" cid="c16012024.3">
+				</crossref>
+				according to the commandment of David 
+				<crossref let="m" cid="c16012024.4">
+				</crossref>
+				the man of God, 
+				<crossref let="n" cid="c16012024.5">
+				</crossref>
+				watch by watch.
+			</verse>
+			<marker class="begin-verse" mid="v16012025">
+			</marker>
+			<verse num="25">
+				Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub were gatekeepers standing guard at 
+				<crossref let="o" cid="c16012025.1">
+				</crossref>
+				the storehouses of the gates.
+			</verse>
+			<marker class="begin-verse" mid="v16012026">
+			</marker>
+			<verse num="26">
+				These were in the days of Joiakim the son of Jeshua son of Jozadak, and in the days of 
+				<crossref let="p" cid="c16012026.1">
+				</crossref>
+				Nehemiah the governor and of 
+				<crossref let="p" cid="c16012026.2">
+				</crossref>
+				Ezra, the priest and scribe.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16012027">
+			</marker>
+			<heading
+				>
+				Dedication of the Wall
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				And at 
+				<crossref let="q" cid="c16012027.1">
+				</crossref>
+				the dedication of the wall of Jerusalem they sought the Levites in all their places, to bring them to Jerusalem to celebrate the dedication with gladness, with thanksgivings and with singing, 
+				<crossref let="r" cid="c16012027.2">
+				</crossref>
+				with cymbals, harps, and lyres.
+			</verse>
+			<marker class="begin-verse" mid="v16012028">
+			</marker>
+			<verse num="28">
+				And the sons of the singers gathered together from the district surrounding Jerusalem and from the villages of the Netophathites;
+			</verse>
+			<marker class="begin-verse" mid="v16012029">
+			</marker>
+			<verse num="29">
+				also from Beth-gilgal and from the region of Geba and Azmaveth, for the singers had built for themselves villages around Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v16012030">
+			</marker>
+			<verse num="30">
+				And the priests and the Levites 
+				<crossref let="s" cid="c16012030.1">
+				</crossref>
+				purified themselves, and they purified the people and the gates and the wall.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16012031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				Then I brought the leaders of Judah up onto the wall and appointed two great choirs that gave thanks. 
+				<crossref let="t" cid="c16012031.1">
+				</crossref>
+				One went to the south on the wall to 
+				<crossref let="u" cid="c16012031.2">
+				</crossref>
+				the Dung Gate.
+			</verse>
+			<marker class="begin-verse" mid="v16012032">
+			</marker>
+			<verse num="32">
+				And after them went Hoshaiah and half of the leaders of Judah,
+			</verse>
+			<marker class="begin-verse" mid="v16012033">
+			</marker>
+			<verse num="33">
+				and Azariah, Ezra, Meshullam,
+			</verse>
+			<marker class="begin-verse" mid="v16012034">
+			</marker>
+			<verse num="34">
+				Judah, Benjamin, Shemaiah, and Jeremiah,
+			</verse>
+			<marker class="begin-verse" mid="v16012035">
+			</marker>
+			<verse num="35">
+				and certain of the priests' sons 
+				<crossref let="v" cid="c16012035.1">
+				</crossref>
+				with trumpets: Zechariah the son of Jonathan, son of Shemaiah, son of Mattaniah, son of Micaiah, son of Zaccur, son of Asaph;
+			</verse>
+			<marker class="begin-verse" mid="v16012036">
+			</marker>
+			<verse num="36">
+				and his relatives, Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, and Hanani, 
+				<crossref let="w" cid="c16012036.1">
+				</crossref>
+				with the musical instruments of David 
+				<crossref let="x" cid="c16012036.2">
+				</crossref>
+				the man of God. And Ezra the scribe went before them.
+			</verse>
+			<marker class="begin-verse" mid="v16012037">
+			</marker>
+			<verse num="37">
+				At 
+				<crossref let="y" cid="c16012037.1">
+				</crossref>
+				the Fountain Gate they went up straight before them by 
+				<crossref let="z" cid="c16012037.2">
+				</crossref>
+				the stairs of the city of David, at the ascent of the wall, above the house of David, to 
+				<crossref let="a" cid="c16012037.3">
+				</crossref>
+				the Water Gate on the east.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16012038">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="38">
+				<crossref let="b" cid="c16012038.1">
+				</crossref>
+				The other choir of those who gave thanks went to the north, and I followed them with half of the people, on the wall, above 
+				<crossref let="c" cid="c16012038.2">
+				</crossref>
+				the Tower of the Ovens, to 
+				<crossref let="d" cid="c16012038.3">
+				</crossref>
+				the Broad Wall,
+			</verse>
+			<marker class="begin-verse" mid="v16012039">
+			</marker>
+			<verse num="39">
+				and above 
+				<crossref let="e" cid="c16012039.1">
+				</crossref>
+				the Gate of Ephraim, and by 
+				<crossref let="f" cid="c16012039.2">
+				</crossref>
+				the Gate of Yeshanah,
+				<note nid="n16012039.1">
+				</note>
+				 and by 
+				<crossref let="g" cid="c16012039.3">
+				</crossref>
+				the Fish Gate and 
+				<crossref let="h" cid="c16012039.4">
+				</crossref>
+				the Tower of Hananel and 
+				<crossref let="h" cid="c16012039.5">
+				</crossref>
+				the Tower of the Hundred, to 
+				<crossref let="i" cid="c16012039.6">
+				</crossref>
+				the Sheep Gate; and they came to a halt at 
+				<crossref let="j" cid="c16012039.7">
+				</crossref>
+				the Gate of the Guard.
+			</verse>
+			<marker class="begin-verse" mid="v16012040">
+			</marker>
+			<verse num="40">
+				So both choirs of those who gave thanks stood in the house of God, and I and half of the officials with me;
+			</verse>
+			<marker class="begin-verse" mid="v16012041">
+			</marker>
+			<verse num="41">
+				and the priests Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah, 
+				<crossref let="k" cid="c16012041.1">
+				</crossref>
+				with trumpets;
+			</verse>
+			<marker class="begin-verse" mid="v16012042">
+			</marker>
+			<verse num="42">
+				and Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam, and Ezer. And the singers sang with Jezrahiah as their leader.
+			</verse>
+			<marker class="begin-verse" mid="v16012043">
+			</marker>
+			<verse num="43">
+				And they offered great sacrifices that day and rejoiced, for God had made them rejoice with great joy; the women and children also rejoiced. And the joy of Jerusalem was heard far away.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16012044">
+			</marker>
+			<heading
+				>
+				Service at the Temple
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="44">
+				<crossref let="l" cid="c16012044.1">
+				</crossref>
+				On that day men were appointed over the storerooms, the contributions, the firstfruits, and the tithes, to gather into them the portions required by the Law for the priests and for the Levites according to the fields of the towns, for Judah rejoiced over the priests and the Levites who ministered.
+			</verse>
+			<marker class="begin-verse" mid="v16012045">
+			</marker>
+			<verse num="45">
+				And they performed the service of their God and the service of purification, as did the singers and the gatekeepers, 
+				<crossref let="m" cid="c16012045.1">
+				</crossref>
+				according to the command of David and his son Solomon.
+			</verse>
+			<marker class="begin-verse" mid="v16012046">
+			</marker>
+			<verse num="46">
+				For long ago in the days of David and 
+				<crossref let="n" cid="c16012046.1">
+				</crossref>
+				Asaph there were directors of the singers, and there were songs
+				<note nid="n16012046.1">
+				</note>
+				 of praise and thanksgiving to God.
+			</verse>
+			<marker class="begin-verse" mid="v16012047">
+			</marker>
+			<verse num="47">
+				And all Israel in the days of Zerubbabel and in the days of Nehemiah gave the 
+				<crossref let="o" cid="c16012047.1">
+				</crossref>
+				daily portions for the singers and the gatekeepers; 
+				<crossref let="p" cid="c16012047.2">
+				</crossref>
+				and they set apart that which was for the Levites; 
+				<crossref let="q" cid="c16012047.3">
+				</crossref>
+				and the Levites set apart that which was for the sons of Aaron.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Corinthians" num="46">
+		<marker class="begin-verse" mid="v46001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Paul, 
+				<crossref let="a" cid="c46001001.1">
+				</crossref>
+				called 
+				<crossref let="b" cid="c46001001.2">
+				</crossref>
+				by the will of God to be an apostle of Christ Jesus, and our brother Sosthenes,
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v46001002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				To the church of God that is in Corinth, to those 
+				<crossref let="c" cid="c46001002.1">
+				</crossref>
+				sanctified in Christ Jesus, 
+				<crossref let="d" cid="c46001002.2">
+				</crossref>
+				called to be saints together with all those who in every place 
+				<crossref let="e" cid="c46001002.3">
+				</crossref>
+				call upon the name of our Lord Jesus Christ, both their Lord and ours:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v46001003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="d" cid="c46001003.1">
+				</crossref>
+				Grace to you and peace from God our Father and the Lord Jesus Christ.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v46001004">
+			</marker>
+			<heading
+				>
+				Thanksgiving
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				I 
+				<crossref let="f" cid="c46001004.1">
+				</crossref>
+				give thanks to my God always for you because of the grace of God that was given you in Christ Jesus,
+			</verse>
+			<marker class="begin-verse" mid="v46001005">
+			</marker>
+			<verse num="5">
+				that in every way 
+				<crossref let="g" cid="c46001005.1">
+				</crossref>
+				you were enriched in him in all 
+				<crossref let="h" cid="c46001005.2">
+				</crossref>
+				speech and all knowledgeù
+			</verse>
+			<marker class="begin-verse" mid="v46001006">
+			</marker>
+			<verse num="6">
+				even as 
+				<crossref let="i" cid="c46001006.1">
+				</crossref>
+				the testimony about Christ was confirmed among youù
+			</verse>
+			<marker class="begin-verse" mid="v46001007">
+			</marker>
+			<verse num="7">
+				so that you are not lacking in any spiritual gift, as you 
+				<crossref let="j" cid="c46001007.1">
+				</crossref>
+				wait for the revealing of our Lord Jesus Christ,
+			</verse>
+			<marker class="begin-verse" mid="v46001008">
+			</marker>
+			<verse num="8">
+				<crossref let="k" cid="c46001008.1">
+				</crossref>
+				who will sustain you to the end, 
+				<crossref let="l" cid="c46001008.2">
+				</crossref>
+				guiltless 
+				<crossref let="m" cid="c46001008.3">
+				</crossref>
+				in the day of our Lord Jesus Christ.
+			</verse>
+			<marker class="begin-verse" mid="v46001009">
+			</marker>
+			<verse num="9">
+				<crossref let="n" cid="c46001009.1">
+				</crossref>
+				God is faithful, by whom you were called into the 
+				<crossref let="o" cid="c46001009.2">
+				</crossref>
+				fellowship of his Son, Jesus Christ our Lord.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v46001010">
+			</marker>
+			<heading
+				>
+				Divisions in the Church
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				I appeal to you, brothers,
+				<note nid="n46001010.1">
+				</note>
+				 by the name of our Lord Jesus Christ, that all of you agree, and that there be no 
+				<crossref let="p" cid="c46001010.1">
+				</crossref>
+				divisions among you, but that you be united 
+				<crossref let="q" cid="c46001010.2">
+				</crossref>
+				in the same mind and the same judgment.
+			</verse>
+			<marker class="begin-verse" mid="v46001011">
+			</marker>
+			<verse num="11">
+				For it has been reported to me by Chloe's people that there is 
+				<crossref let="r" cid="c46001011.1">
+				</crossref>
+				quarreling among you, my brothers.
+			</verse>
+			<marker class="begin-verse" mid="v46001012">
+			</marker>
+			<verse num="12">
+				What I mean is that 
+				<crossref let="s" cid="c46001012.1">
+				</crossref>
+				each one of you says, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I follow Paul,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 or 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I follow 
+				<crossref let="t" cid="c46001012.2">
+				</crossref>
+				Apollos,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 or 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I follow 
+				<crossref let="u" cid="c46001012.3">
+				</crossref>
+				Cephas,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 or 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I follow Christ.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v46001013">
+			</marker>
+			<verse num="13">
+				<crossref let="v" cid="c46001013.1">
+				</crossref>
+				Is Christ divided? Was Paul crucified for you? Or were you 
+				<crossref let="w" cid="c46001013.2">
+				</crossref>
+				baptized in the name of Paul?
+			</verse>
+			<marker class="begin-verse" mid="v46001014">
+			</marker>
+			<verse num="14">
+				I thank God that I baptized none of you except 
+				<crossref let="x" cid="c46001014.1">
+				</crossref>
+				Crispus and 
+				<crossref let="y" cid="c46001014.2">
+				</crossref>
+				Gaius,
+			</verse>
+			<marker class="begin-verse" mid="v46001015">
+			</marker>
+			<verse num="15">
+				so that no one may say that you were baptized in my name.
+			</verse>
+			<marker class="begin-verse" mid="v46001016">
+			</marker>
+			<verse num="16">
+				(I did baptize also 
+				<crossref let="z" cid="c46001016.1">
+				</crossref>
+				the household of Stephanas. Beyond that, I do not know whether I baptized anyone else.)
+			</verse>
+			<marker class="begin-verse" mid="v46001017">
+			</marker>
+			<verse num="17">
+				For Christ did not send me to baptize but to preach the gospel, and 
+				<crossref let="a" cid="c46001017.1">
+				</crossref>
+				not with words of eloquent wisdom, lest the cross of Christ be emptied of its power.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v46001018">
+			</marker>
+			<heading
+				>
+				Christ the Wisdom and Power of God
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				For the word of the cross is 
+				<crossref let="b" cid="c46001018.1">
+				</crossref>
+				folly to 
+				<crossref let="c" cid="c46001018.2">
+				</crossref>
+				those who are perishing, but to us 
+				<crossref let="d" cid="c46001018.3">
+				</crossref>
+				who are being saved it is 
+				<crossref let="e" cid="c46001018.4">
+				</crossref>
+				the power of God.
+			</verse>
+			<marker class="begin-verse" mid="v46001019">
+			</marker>
+			<verse num="19">
+				For it is written,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c46001019.1">
+				</crossref>
+				<crossref cid="t46001019.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will destroy the wisdom of the wise,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the discernment of the discerning I will thwart.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v46001020">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="20">
+				<crossref let="g" cid="c46001020.1">
+				</crossref>
+				Where is the one who is wise? Where is the scribe? Where is the debater of this age? 
+				<crossref let="h" cid="c46001020.2">
+				</crossref>
+				Has not God made foolish the wisdom of the world?
+			</verse>
+			<marker class="begin-verse" mid="v46001021">
+			</marker>
+			<verse num="21">
+				For since, in the wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach to save those who believe.
+			</verse>
+			<marker class="begin-verse" mid="v46001022">
+			</marker>
+			<verse num="22">
+				For 
+				<crossref let="i" cid="c46001022.1">
+				</crossref>
+				Jews demand signs and Greeks seek wisdom,
+			</verse>
+			<marker class="begin-verse" mid="v46001023">
+			</marker>
+			<verse num="23">
+				but we preach Christ 
+				<crossref let="j" cid="c46001023.1">
+				</crossref>
+				crucified, a stumbling block to Jews and folly to Gentiles,
+			</verse>
+			<marker class="begin-verse" mid="v46001024">
+			</marker>
+			<verse num="24">
+				but to those who are called, both Jews and Greeks, Christ 
+				<crossref let="k" cid="c46001024.1">
+				</crossref>
+				the power of God and 
+				<crossref let="l" cid="c46001024.2">
+				</crossref>
+				the wisdom of God.
+			</verse>
+			<marker class="begin-verse" mid="v46001025">
+			</marker>
+			<verse num="25">
+				For the foolishness of God is wiser than men, and the weakness of God is stronger than men.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v46001026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				For consider your calling, brothers: 
+				<crossref let="m" cid="c46001026.1">
+				</crossref>
+				not many of you were wise according to worldly standards,
+				<note nid="n46001026.1">
+				</note>
+				 not many were powerful, not many were of noble birth.
+			</verse>
+			<marker class="begin-verse" mid="v46001027">
+			</marker>
+			<verse num="27">
+				But 
+				<crossref let="n" cid="c46001027.1">
+				</crossref>
+				God chose what is foolish in the world to shame the wise; 
+				<crossref let="o" cid="c46001027.2">
+				</crossref>
+				God chose what is weak in the world to shame the strong;
+			</verse>
+			<marker class="begin-verse" mid="v46001028">
+			</marker>
+			<verse num="28">
+				God chose what is low and despised in the world, even 
+				<crossref let="p" cid="c46001028.1">
+				</crossref>
+				things that are not, to 
+				<crossref let="q" cid="c46001028.2">
+				</crossref>
+				bring to nothing things that are,
+			</verse>
+			<marker class="begin-verse" mid="v46001029">
+			</marker>
+			<verse num="29">
+				so 
+				<crossref let="r" cid="c46001029.1">
+				</crossref>
+				that no human being
+				<note nid="n46001029.1">
+				</note>
+				 might boast in the presence of God.
+			</verse>
+			<marker class="begin-verse" mid="v46001030">
+			</marker>
+			<verse num="30">
+				And because of him
+				<note nid="n46001030.1">
+				</note>
+				 you are in Christ Jesus, who became to us 
+				<crossref let="s" cid="c46001030.1">
+				</crossref>
+				wisdom from God, 
+				<crossref let="t" cid="c46001030.2">
+				</crossref>
+				righteousness and 
+				<crossref let="u" cid="c46001030.3">
+				</crossref>
+				sanctification and 
+				<crossref let="v" cid="c46001030.4">
+				</crossref>
+				redemption,
+			</verse>
+			<marker class="begin-verse" mid="v46001031">
+			</marker>
+			<verse num="31">
+				so that, as it is written, 
+				<crossref let="w" cid="c46001031.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let the one who boasts, boast in the Lord.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

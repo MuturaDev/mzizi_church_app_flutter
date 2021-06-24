@@ -11,6 +11,7 @@ class PortalSelfEnrollApplication {
   String OrganizationID;
   String DateBooked;
   String StudentID;
+  String AppCode;
   
 
   PortalSelfEnrollApplication(
@@ -20,7 +21,8 @@ class PortalSelfEnrollApplication {
     this.ChurchServiceID,
     this.OrganizationID,
     this.DateBooked,
-    this.StudentID
+    this.StudentID,
+    this.AppCode
   );
 
   factory PortalSelfEnrollApplication.fromJson(Map<String, dynamic> json) =>

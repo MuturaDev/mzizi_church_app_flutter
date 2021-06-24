@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Numbers" num="3">
+		<marker class="begin-verse" mid="v04023001">
+		</marker>
+		<chapter num="23">
+			<heading
+				>
+				Balaam's First Oracle
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And Balaam said to Balak, 
+				<crossref let="i" cid="c04023001.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Build for me here seven altars, and prepare for me here seven bulls and seven rams.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04023002">
+			</marker>
+			<verse num="2">
+				Balak did as Balaam had said. And Balak and Balaam 
+				<crossref let="j" cid="c04023002.1">
+				</crossref>
+				offered on each altar a bull and a ram.
+			</verse>
+			<marker class="begin-verse" mid="v04023003">
+			</marker>
+			<verse num="3">
+				And Balaam said to Balak, 
+				<crossref let="k" cid="c04023003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Stand beside your burnt offering, and I will go. Perhaps the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will come 
+				<crossref let="l" cid="c04023003.2">
+				</crossref>
+				to meet me, and whatever he shows me I will tell you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he went to a bare height,
+			</verse>
+			<marker class="begin-verse" mid="v04023004">
+			</marker>
+			<verse num="4">
+				<crossref let="m" cid="c04023004.1">
+				</crossref>
+				and God met Balaam. And Balaam said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have arranged the seven altars and I have offered on each altar a bull and a ram.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04023005">
+			</marker>
+			<verse num="5">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="n" cid="c04023005.1">
+				</crossref>
+				put a word in Balaam's mouth and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Return to Balak, and thus you shall speak.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04023006">
+			</marker>
+			<verse num="6">
+				And he returned to him, and behold, he and all the princes of Moab were standing beside his burnt offering.
+			</verse>
+			<marker class="begin-verse" mid="v04023007">
+			</marker>
+			<verse num="7">
+				And Balaam 
+				<crossref let="o" cid="c04023007.1">
+				</crossref>
+				took up his discourse and said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				From 
+				<crossref let="p" cid="c04023007.2">
+				</crossref>
+				Aram Balak has brought me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the king of Moab 
+				<crossref let="q" cid="c04023007.3">
+				</crossref>
+				from the eastern mountains:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Come, 
+				<crossref let="r" cid="c04023007.4">
+				</crossref>
+				curse Jacob for me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and come, denounce Israel!
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04023008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				How can I curse whom God has not cursed?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				How can I denounce whom the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has not denounced?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04023009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				For from the top of the crags 
+				<crossref let="s" cid="c04023009.1">
+				</crossref>
+				I see him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from the hills I behold him;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				behold, 
+				<crossref let="t" cid="c04023009.2">
+				</crossref>
+				a people dwelling alone,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="u" cid="c04023009.3">
+				</crossref>
+				not counting itself among the nations!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04023010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c04023010.1">
+				</crossref>
+				Who can count the dust of Jacob
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or number the fourth part
+				<note nid="n04023010.1">
+				</note>
+				 of Israel?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Let me die 
+				<crossref let="w" cid="c04023010.2">
+				</crossref>
+				the death of the upright,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and let my end be like his!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v04023011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				And Balak said to Balaam, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What have you done to me? 
+				<crossref let="x" cid="c04023011.1">
+				</crossref>
+				I took you to curse my enemies, and behold, you have done nothing but bless them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04023012">
+			</marker>
+			<verse num="12">
+				And he answered and said, 
+				<crossref let="y" cid="c04023012.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Must I not take care to speak what the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 puts in my mouth?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04023013">
+			</marker>
+			<heading
+				>
+				Balaam's Second Oracle
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				And Balak said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please come with me to another place, from which you may see them. You shall see only a fraction of them and shall not see them all. Then curse them for me from there.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04023014">
+			</marker>
+			<verse num="14">
+				And he took him to the field of Zophim, to the top of Pisgah, 
+				<crossref let="z" cid="c04023014.1">
+				</crossref>
+				and built seven altars and offered a bull and a ram on each altar.
+			</verse>
+			<marker class="begin-verse" mid="v04023015">
+			</marker>
+			<verse num="15">
+				Balaam said to Balak, 
+				<crossref let="a" cid="c04023015.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Stand here beside your burnt offering, while I meet the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 over there.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04023016">
+			</marker>
+			<verse num="16">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 met Balaam and 
+				<crossref let="b" cid="c04023016.1">
+				</crossref>
+				put a word in his mouth and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Return to Balak, and thus shall you speak.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04023017">
+			</marker>
+			<verse num="17">
+				And he came to him, and behold, he was standing beside his burnt offering, and the princes of Moab with him. And Balak said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What has the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoken?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04023018">
+			</marker>
+			<verse num="18">
+				And Balaam took up his discourse and said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Rise, Balak, and hear;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				give ear to me, O son of Zippor:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04023019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c04023019.1">
+				</crossref>
+				God is not man, that he should lie,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or a son of man, that he should change his mind.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Has he said, and will he not do it?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Or has he spoken, and will he not fulfill it?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04023020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				Behold, I received a command to bless:
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c04023020.1">
+				</crossref>
+				he has blessed, and 
+				<crossref let="e" cid="c04023020.2">
+				</crossref>
+				I cannot revoke it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04023021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c04023021.1">
+				</crossref>
+				He has not beheld misfortune in Jacob,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor has he seen trouble in Israel.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 their God is with them,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the shout of a king is among them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04023022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c04023022.1">
+				</crossref>
+				God brings them out of Egypt
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and is for them like 
+				<crossref let="h" cid="c04023022.2">
+				</crossref>
+				the horns of the wild ox.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04023023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				For there is no enchantment against Jacob,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				no 
+				<crossref let="i" cid="c04023023.1">
+				</crossref>
+				divination against Israel;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				now it shall be said of Jacob and Israel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c04023023.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				What has God wrought!
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04023024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				Behold, a people! 
+				<crossref let="k" cid="c04023024.1">
+				</crossref>
+				As a lioness it rises up
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and as a lion it lifts itself;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c04023024.2">
+				</crossref>
+				it does not lie down until it has devoured the prey
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and drunk the blood of the slain.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v04023025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				And Balak said to Balaam, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not curse them at all, and do not bless them at all.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04023026">
+			</marker>
+			<verse num="26">
+				But Balaam answered Balak, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Did I not tell you, 
+				<crossref let="m" cid="c04023026.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				All that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 says, that I must do
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04023027">
+			</marker>
+			<verse num="27">
+				And Balak said to Balaam, 
+				<crossref let="n" cid="c04023027.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come now, I will take you to another place. Perhaps it will please God that you may curse them for me from there.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04023028">
+			</marker>
+			<verse num="28">
+				So Balak took Balaam to the top of 
+				<crossref let="o" cid="c04023028.1">
+				</crossref>
+				Peor, which overlooks 
+				<crossref let="p" cid="c04023028.2">
+				</crossref>
+				the desert.
+				<note nid="n04023028.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v04023029">
+			</marker>
+			<verse num="29">
+				And Balaam said to Balak, 
+				<crossref let="q" cid="c04023029.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Build for me here seven altars and prepare for me here seven bulls and seven rams.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04023030">
+			</marker>
+			<verse num="30">
+				<crossref let="r" cid="c04023030.1">
+				</crossref>
+				And Balak did as Balaam had said, and offered a bull and a ram on each altar.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

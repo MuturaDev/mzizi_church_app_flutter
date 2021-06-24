@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19147001">
+		</marker>
+		<chapter num="147">
+			<heading
+				>
+				He Heals the Brokenhearted
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19147001.1">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="j" cid="c19147001.2">
+				</crossref>
+				it is good to sing praises to our God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="k" cid="c19147001.3">
+				</crossref>
+				it is pleasant,
+				<note nid="n19147001.1">
+				</note>
+				 and 
+				<crossref let="l" cid="c19147001.4">
+				</crossref>
+				a song of praise is fitting.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="m" cid="c19147002.1">
+				</crossref>
+				builds up Jerusalem;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="n" cid="c19147002.2">
+				</crossref>
+				gathers the outcasts of Israel.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				He heals 
+				<crossref let="o" cid="c19147003.1">
+				</crossref>
+				the brokenhearted
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="p" cid="c19147003.2">
+				</crossref>
+				binds up their wounds.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="q" cid="c19147004.1">
+				</crossref>
+				determines the number of the stars;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="r" cid="c19147004.2">
+				</crossref>
+				gives to all of them their names.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19147005.1">
+				</crossref>
+				Great is our Lord, and 
+				<crossref let="t" cid="c19147005.2">
+				</crossref>
+				abundant in power;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c19147005.3">
+				</crossref>
+				his understanding is beyond measure.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="v" cid="c19147006.1">
+				</crossref>
+				lifts up the humble;
+				<note nid="n19147006.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he casts the wicked to the ground.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19147007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c19147007.1">
+				</crossref>
+				Sing to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with thanksgiving;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				make melody to our God on 
+				<crossref let="x" cid="c19147007.2">
+				</crossref>
+				the lyre!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				He covers the heavens with clouds;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he prepares 
+				<crossref let="y" cid="c19147008.1">
+				</crossref>
+				rain for the earth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he makes 
+				<crossref let="z" cid="c19147008.2">
+				</crossref>
+				grass grow on the hills.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="a" cid="c19147009.1">
+				</crossref>
+				gives to the beasts their food,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and to 
+				<crossref let="b" cid="c19147009.2">
+				</crossref>
+				the young ravens that cry.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				His delight is not in 
+				<crossref let="c" cid="c19147010.1">
+				</crossref>
+				the strength of the horse,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor his pleasure in the legs of a man,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				but the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="d" cid="c19147011.1">
+				</crossref>
+				takes pleasure in those who fear him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in those who 
+				<crossref let="e" cid="c19147011.2">
+				</crossref>
+				hope in his steadfast love.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19147012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O Jerusalem!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Praise your God, O Zion!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				For he strengthens 
+				<crossref let="f" cid="c19147013.1">
+				</crossref>
+				the bars of your gates;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he blesses your children within you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="g" cid="c19147014.1">
+				</crossref>
+				makes peace in your borders;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="h" cid="c19147014.2">
+				</crossref>
+				fills you with the 
+				<crossref let="i" cid="c19147014.3">
+				</crossref>
+				finest of the wheat.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="j" cid="c19147015.1">
+				</crossref>
+				sends out his command to the earth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his word runs swiftly.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				He gives 
+				<crossref let="k" cid="c19147016.1">
+				</crossref>
+				snow like wool;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he scatters 
+				<crossref let="l" cid="c19147016.2">
+				</crossref>
+				hoarfrost like ashes.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				He hurls down his crystals of 
+				<crossref let="m" cid="c19147017.1">
+				</crossref>
+				ice like crumbs;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who can stand before his 
+				<crossref let="n" cid="c19147017.2">
+				</crossref>
+				cold?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="o" cid="c19147018.1">
+				</crossref>
+				sends out his word, and melts them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he makes his wind blow and the waters flow.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				He declares his word to Jacob,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his 
+				<crossref let="p" cid="c19147019.1">
+				</crossref>
+				statutes and rules
+				<note nid="n19147019.1">
+				</note>
+				 to Israel.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19147020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="q" cid="c19147020.1">
+				</crossref>
+				has not dealt thus with any other nation;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they do not know his rules.
+				<note nid="n19147020.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19147020.2">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

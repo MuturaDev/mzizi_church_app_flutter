@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01042001">
+		</marker>
+		<chapter num="42">
+			<heading
+				>
+				Joseph's Brothers Go to Egypt
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				When 
+				<crossref let="l" cid="c01042001.1">
+				</crossref>
+				Jacob learned that there was grain for sale in Egypt, he said to his sons, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do you look at one another?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01042002">
+			</marker>
+			<verse num="2">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I have heard that there is grain for sale in Egypt. Go down and buy grain for us there, that we may 
+				<crossref let="m" cid="c01042002.1">
+				</crossref>
+				live and not die.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01042003">
+			</marker>
+			<verse num="3">
+				So ten of Joseph's brothers went down to buy grain in Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v01042004">
+			</marker>
+			<verse num="4">
+				But Jacob did not send Benjamin, 
+				<crossref let="n" cid="c01042004.1">
+				</crossref>
+				Joseph's brother, with his brothers, for 
+				<crossref let="o" cid="c01042004.2">
+				</crossref>
+				he feared that harm might happen to him.
+			</verse>
+			<marker class="begin-verse" mid="v01042005">
+			</marker>
+			<verse num="5">
+				Thus the sons of Israel came to buy among the others who came, for the famine was in the land of Canaan.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01042006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				Now Joseph was governor 
+				<crossref let="p" cid="c01042006.1">
+				</crossref>
+				over the land. He was the one who sold to all the people of the land. And Joseph's brothers came and 
+				<crossref let="q" cid="c01042006.2">
+				</crossref>
+				bowed themselves before him with their faces to the ground.
+			</verse>
+			<marker class="begin-verse" mid="v01042007">
+			</marker>
+			<verse num="7">
+				Joseph saw his brothers and recognized them, but he treated them like strangers and 
+				<crossref let="r" cid="c01042007.1">
+				</crossref>
+				spoke roughly to them. 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where do you come from?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 he said. They said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				From the land of Canaan, to buy food.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01042008">
+			</marker>
+			<verse num="8">
+				And Joseph recognized his brothers, but they did not recognize him.
+			</verse>
+			<marker class="begin-verse" mid="v01042009">
+			</marker>
+			<verse num="9">
+				And Joseph 
+				<crossref let="s" cid="c01042009.1">
+				</crossref>
+				remembered the dreams that he had dreamed of them. 
+				<crossref let="t" cid="c01042009.2">
+				</crossref>
+				And he said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are spies; you have come to see the nakedness of the land.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01042010">
+			</marker>
+			<verse num="10">
+				They said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No, my lord, your servants have come to buy food.
+			</verse>
+			<marker class="begin-verse" mid="v01042011">
+			</marker>
+			<verse num="11">
+				We are all sons of one man. We are honest men. Your servants have never been spies.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01042012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				He said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No, it is the nakedness of the land that you have come to see.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01042013">
+			</marker>
+			<verse num="13">
+				And they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We, your servants, are twelve brothers, the sons of one man in the land of Canaan, and behold, the youngest is this day with our father, and one 
+				<crossref let="u" cid="c01042013.1">
+				</crossref>
+				is no more.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01042014">
+			</marker>
+			<verse num="14">
+				But Joseph said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is as I said to you. You are spies.
+			</verse>
+			<marker class="begin-verse" mid="v01042015">
+			</marker>
+			<verse num="15">
+				By this you shall be tested: by the life of Pharaoh, you shall not go from this place unless your youngest brother comes here.
+			</verse>
+			<marker class="begin-verse" mid="v01042016">
+			</marker>
+			<verse num="16">
+				Send one of you, and let him bring your brother, while you remain confined, that your words may be tested, whether there is truth in you. Or else, by the life of Pharaoh, surely you are spies.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01042017">
+			</marker>
+			<verse num="17">
+				And he put them all together in custody for three days.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01042018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				On the third day Joseph said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do this and you will live, 
+				<crossref let="v" cid="c01042018.1">
+				</crossref>
+				for I fear God:
+			</verse>
+			<marker class="begin-verse" mid="v01042019">
+			</marker>
+			<verse num="19">
+				if you are honest men, let one of your brothers remain confined where you are in custody, and let the rest go and carry 
+				<crossref let="w" cid="c01042019.1">
+				</crossref>
+				grain for the famine of your households,
+			</verse>
+			<marker class="begin-verse" mid="v01042020">
+			</marker>
+			<verse num="20">
+				and 
+				<crossref let="x" cid="c01042020.1">
+				</crossref>
+				bring your youngest brother to me. So your words will be verified, and you shall not die.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And they did so.
+			</verse>
+			<marker class="begin-verse" mid="v01042021">
+			</marker>
+			<verse num="21">
+				Then they said to one another, 
+				<crossref let="y" cid="c01042021.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				In truth we are guilty concerning our brother, in that we saw the distress of his soul, when he begged us and we did not listen. That is why this distress has come upon us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01042022">
+			</marker>
+			<verse num="22">
+				And Reuben answered them, 
+				<crossref let="z" cid="c01042022.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Did I not tell you not to sin against the boy? But you did not listen. So now 
+				<crossref let="a" cid="c01042022.2">
+				</crossref>
+				there comes a reckoning for his blood.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01042023">
+			</marker>
+			<verse num="23">
+				They did not know that Joseph understood them, for there was an interpreter between them.
+			</verse>
+			<marker class="begin-verse" mid="v01042024">
+			</marker>
+			<verse num="24">
+				Then he turned away from them and 
+				<crossref let="b" cid="c01042024.1">
+				</crossref>
+				wept. And he returned to them and spoke to them. And he took Simeon from them and bound him before their eyes.
+			</verse>
+			<marker class="begin-verse" mid="v01042025">
+			</marker>
+			<verse num="25">
+				<crossref let="c" cid="c01042025.1">
+				</crossref>
+				And Joseph gave orders to fill their bags with grain, and to replace every man's money in his sack, and to give them provisions for the journey. This was done for them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01042026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				Then they loaded their donkeys with their grain and departed.
+			</verse>
+			<marker class="begin-verse" mid="v01042027">
+			</marker>
+			<verse num="27">
+				And as 
+				<crossref let="d" cid="c01042027.1">
+				</crossref>
+				one of them opened his sack to give his donkey fodder at 
+				<crossref let="e" cid="c01042027.2">
+				</crossref>
+				the lodging place, he saw his money in the mouth of his sack.
+			</verse>
+			<marker class="begin-verse" mid="v01042028">
+			</marker>
+			<verse num="28">
+				He said to his brothers, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My money has been put back; here it is in the mouth of my sack!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 At this their hearts failed them, and they turned trembling to one another, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is this that God has done to us?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01042029">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				When they came to Jacob their father in the land of Canaan, they told him all that had happened to them, saying,
+			</verse>
+			<marker class="begin-verse" mid="v01042030">
+			</marker>
+			<verse num="30">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The man, the lord of the land, 
+				<crossref let="f" cid="c01042030.1">
+				</crossref>
+				spoke roughly to us and took us to be spies of the land.
+			</verse>
+			<marker class="begin-verse" mid="v01042031">
+			</marker>
+			<verse num="31">
+				But we said to him, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				We are honest men; we have never been spies.
+			</verse>
+			<marker class="begin-verse" mid="v01042032">
+			</marker>
+			<verse num="32">
+				We are twelve brothers, sons of our father. One 
+				<crossref let="g" cid="c01042032.1">
+				</crossref>
+				is no more, and the youngest is this day with our father in the land of Canaan.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01042033">
+			</marker>
+			<verse num="33">
+				Then the man, the lord of the land, said to us, 
+				<crossref let="h" cid="c01042033.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				By this I shall know that you are honest men: leave one of your brothers with me, and take 
+				<crossref let="i" cid="c01042033.2">
+				</crossref>
+				grain for the famine of your households, and go your way.
+			</verse>
+			<marker class="begin-verse" mid="v01042034">
+			</marker>
+			<verse num="34">
+				Bring your youngest brother to me. Then I shall know that you are not spies but honest men, and I will deliver your brother to you, and you shall 
+				<crossref let="j" cid="c01042034.1">
+				</crossref>
+				trade in the land.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01042035">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="35">
+				<crossref let="k" cid="c01042035.1">
+				</crossref>
+				As they emptied their sacks, behold, every man's bundle of money was in his sack. And when they and their father saw their bundles of money, they were afraid.
+			</verse>
+			<marker class="begin-verse" mid="v01042036">
+			</marker>
+			<verse num="36">
+				And Jacob their father said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You have 
+				<crossref let="l" cid="c01042036.1">
+				</crossref>
+				bereaved me of my children: Joseph is no more, and Simeon is no more, and now you would take Benjamin. All this has come against me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01042037">
+			</marker>
+			<verse num="37">
+				Then Reuben said to his father, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Kill 
+				<crossref let="m" cid="c01042037.1">
+				</crossref>
+				my two sons if I do not bring him back to you. Put him in my hands, and I will bring him back to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01042038">
+			</marker>
+			<verse num="38">
+				But he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My son shall not go down with you, for 
+				<crossref let="n" cid="c01042038.1">
+				</crossref>
+				his brother is dead, and he is the only one left. 
+				<crossref let="o" cid="c01042038.2">
+				</crossref>
+				If harm should happen to him on the journey that you are to make, 
+				<crossref let="p" cid="c01042038.3">
+				</crossref>
+				you would bring down my gray hairs with sorrow to Sheol.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

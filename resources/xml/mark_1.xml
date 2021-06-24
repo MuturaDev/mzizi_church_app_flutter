@@ -1,0 +1,700 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Mark" num="41">
+		<marker class="begin-verse" mid="v41001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				John the Baptist Prepares the Way
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The beginning of the gospel of Jesus Christ, 
+				<crossref let="a" cid="c41001001.1">
+				</crossref>
+				the Son of God.
+				<note nid="n41001001.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41001002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				<crossref let="b" cid="c41001002.1">
+				</crossref>
+				<crossref cid="t41001002.1">
+				</crossref>
+				As it is written in Isaiah the prophet,
+				<note nid="n41001002.1">
+				</note>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c41001002.2">
+				</crossref>
+				<crossref cid="t41001002.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I send my messenger before your face,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who will prepare your way,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v41001003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c41001003.1">
+				</crossref>
+				<crossref cid="t41001003.1">
+				</crossref>
+				the voice of one crying in the wilderness:
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c41001003.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Prepare
+				<note nid="n41001003.1">
+				</note>
+				 the way of the Lord,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				make his paths straight,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v41001004">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="4">
+				<crossref let="f" cid="c41001004.1">
+				</crossref>
+				John appeared, baptizing in 
+				<crossref let="g" cid="c41001004.2">
+				</crossref>
+				the wilderness and proclaiming 
+				<crossref let="h" cid="c41001004.3">
+				</crossref>
+				a baptism of 
+				<crossref let="i" cid="c41001004.4">
+				</crossref>
+				repentance 
+				<crossref let="j" cid="c41001004.5">
+				</crossref>
+				for the forgiveness of sins.
+			</verse>
+			<marker class="begin-verse" mid="v41001005">
+			</marker>
+			<verse num="5">
+				And all the country of Judea and all Jerusalem were going out to him and were being baptized by him in the river Jordan, 
+				<crossref let="k" cid="c41001005.1">
+				</crossref>
+				confessing their sins.
+			</verse>
+			<marker class="begin-verse" mid="v41001006">
+			</marker>
+			<verse num="6">
+				Now John was 
+				<crossref let="l" cid="c41001006.1">
+				</crossref>
+				clothed with camel's hair and 
+				<crossref let="l" cid="c41001006.2">
+				</crossref>
+				wore a leather belt around his waist and ate 
+				<crossref let="m" cid="c41001006.3">
+				</crossref>
+				locusts and 
+				<crossref let="n" cid="c41001006.4">
+				</crossref>
+				wild honey.
+			</verse>
+			<marker class="begin-verse" mid="v41001007">
+			</marker>
+			<verse num="7">
+				And he preached, saying, 
+				<crossref let="o" cid="c41001007.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				After me comes he who is mightier than I, the strap of whose sandals I am not worthy to stoop down and untie.
+			</verse>
+			<marker class="begin-verse" mid="v41001008">
+			</marker>
+			<verse num="8">
+				<crossref let="p" cid="c41001008.1">
+				</crossref>
+				I have baptized you with water, but 
+				<crossref let="q" cid="c41001008.2">
+				</crossref>
+				he will baptize you with the Holy Spirit.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41001009">
+			</marker>
+			<heading
+				>
+				The Baptism of Jesus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<crossref let="r" cid="c41001009.1">
+				</crossref>
+				<crossref cid="t41001009.1">
+				</crossref>
+				In those days Jesus 
+				<crossref let="s" cid="c41001009.2">
+				</crossref>
+				came from Nazareth of Galilee and was baptized by John in the Jordan.
+			</verse>
+			<marker class="begin-verse" mid="v41001010">
+			</marker>
+			<verse num="10">
+				And when he came up out of the water, immediately he 
+				<crossref let="t" cid="c41001010.1">
+				</crossref>
+				saw 
+				<crossref let="u" cid="c41001010.2">
+				</crossref>
+				the heavens being torn open 
+				<crossref let="v" cid="c41001010.3">
+				</crossref>
+				and the Spirit descending on him like a dove.
+			</verse>
+			<marker class="begin-verse" mid="v41001011">
+			</marker>
+			<verse num="11">
+				And 
+				<crossref let="w" cid="c41001011.1">
+				</crossref>
+				a voice came from heaven, 
+				<crossref let="x" cid="c41001011.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are my beloved Son;
+				<note nid="n41001011.1">
+				</note>
+				 with you I am well pleased.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41001012">
+			</marker>
+			<heading
+				>
+				The Temptation of Jesus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				<crossref let="y" cid="c41001012.1">
+				</crossref>
+				The Spirit immediately drove him out into the wilderness.
+			</verse>
+			<marker class="begin-verse" mid="v41001013">
+			</marker>
+			<verse num="13">
+				<crossref let="y" cid="c41001013.1">
+				</crossref>
+				And he was in the wilderness forty days, being 
+				<crossref let="z" cid="c41001013.2">
+				</crossref>
+				tempted by 
+				<crossref let="a" cid="c41001013.3">
+				</crossref>
+				Satan. And he was with the wild animals, and 
+				<crossref let="b" cid="c41001013.4">
+				</crossref>
+				the angels were ministering to him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41001014">
+			</marker>
+			<heading
+				>
+				Jesus Begins His Ministry
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				<crossref let="c" cid="c41001014.1">
+				</crossref>
+				Now after John was arrested, Jesus 
+				<crossref let="d" cid="c41001014.2">
+				</crossref>
+				came into Galilee, proclaiming the gospel of God,
+			</verse>
+			<marker class="begin-verse" mid="v41001015">
+			</marker>
+			<verse num="15">
+				and saying, 
+				<woc
+					>
+					<crossref let="e" cid="c41001015.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					The time is fulfilled, and 
+					<crossref let="f" cid="c41001015.2">
+					</crossref>
+					the kingdom of God is at hand; 
+					<crossref let="g" cid="c41001015.3">
+					</crossref>
+					repent and believe in the gospel.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41001016">
+			</marker>
+			<heading
+				>
+				Jesus Calls the First Disciples
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				<crossref let="h" cid="c41001016.1">
+				</crossref>
+				<crossref cid="t41001016.1">
+				</crossref>
+				Passing alongside the Sea of Galilee, he saw Simon and Andrew the brother of Simon casting a net into the sea, for they were fishermen.
+			</verse>
+			<marker class="begin-verse" mid="v41001017">
+			</marker>
+			<verse num="17">
+				And Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Follow me, and I will make you become 
+					<crossref let="i" cid="c41001017.1">
+					</crossref>
+					fishers of men.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41001018">
+			</marker>
+			<verse num="18">
+				And immediately they left their nets and followed him.
+			</verse>
+			<marker class="begin-verse" mid="v41001019">
+			</marker>
+			<verse num="19">
+				And going on a little farther, he saw James the son of Zebedee and John his brother, who were in their boat mending the nets.
+			</verse>
+			<marker class="begin-verse" mid="v41001020">
+			</marker>
+			<verse num="20">
+				And immediately he called them, and they left their father Zebedee in the boat with the hired servants and followed him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41001021">
+			</marker>
+			<heading
+				>
+				Jesus Heals a Man with an Unclean Spirit
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<crossref let="j" cid="c41001021.1">
+				</crossref>
+				<crossref cid="t41001021.1">
+				</crossref>
+				And they went into Capernaum, and immediately 
+				<crossref let="k" cid="c41001021.2">
+				</crossref>
+				on the Sabbath 
+				<crossref let="l" cid="c41001021.3">
+				</crossref>
+				he entered the synagogue and was teaching.
+			</verse>
+			<marker class="begin-verse" mid="v41001022">
+			</marker>
+			<verse num="22">
+				And 
+				<crossref let="m" cid="c41001022.1">
+				</crossref>
+				they were astonished at his teaching, 
+				<crossref let="m" cid="c41001022.2">
+				</crossref>
+				for he taught them as one who had authority, and not as the scribes.
+			</verse>
+			<marker class="begin-verse" mid="v41001023">
+			</marker>
+			<verse num="23">
+				And immediately there was in their synagogue a man with an unclean spirit. And he cried out,
+			</verse>
+			<marker class="begin-verse" mid="v41001024">
+			</marker>
+			<verse num="24">
+				<crossref let="n" cid="c41001024.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What have you to do with us, Jesus of Nazareth? Have you come to destroy us? 
+				<crossref let="o" cid="c41001024.2">
+				</crossref>
+				I know who you areù
+				<crossref let="p" cid="c41001024.3">
+				</crossref>
+				the Holy One of God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41001025">
+			</marker>
+			<verse num="25">
+				But Jesus 
+				<crossref let="q" cid="c41001025.1">
+				</crossref>
+				rebuked him, saying, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Be silent, and come out of him!
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41001026">
+			</marker>
+			<verse num="26">
+				And the unclean spirit, 
+				<crossref let="r" cid="c41001026.1">
+				</crossref>
+				convulsing him and 
+				<crossref let="s" cid="c41001026.2">
+				</crossref>
+				crying out with a loud voice, came out of him.
+			</verse>
+			<marker class="begin-verse" mid="v41001027">
+			</marker>
+			<verse num="27">
+				And they were all 
+				<crossref let="t" cid="c41001027.1">
+				</crossref>
+				amazed, so that they questioned among themselves, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is this? 
+				<crossref let="u" cid="c41001027.2">
+				</crossref>
+				A new teaching with authority! He commands even the unclean spirits, and they obey him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41001028">
+			</marker>
+			<verse num="28">
+				And at once his fame spread everywhere throughout all the surrounding region of Galilee.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41001029">
+			</marker>
+			<heading
+				>
+				Jesus Heals Many
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				<crossref let="v" cid="c41001029.1">
+				</crossref>
+				<crossref cid="t41001029.1">
+				</crossref>
+				And immediately he
+				<note nid="n41001029.1">
+				</note>
+				<crossref let="w" cid="c41001029.2">
+				</crossref>
+				left the synagogue and entered the house of Simon and Andrew, with James and John.
+			</verse>
+			<marker class="begin-verse" mid="v41001030">
+			</marker>
+			<verse num="30">
+				Now 
+				<crossref let="x" cid="c41001030.1">
+				</crossref>
+				Simon's mother-in-law lay ill with a fever, and immediately they told him about her.
+			</verse>
+			<marker class="begin-verse" mid="v41001031">
+			</marker>
+			<verse num="31">
+				And he came and 
+				<crossref let="y" cid="c41001031.1">
+				</crossref>
+				took her by the hand and lifted her up, and the fever left her, and she began to serve them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41001032">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="32">
+				That evening at sundown they brought to him all who were sick or 
+				<crossref let="z" cid="c41001032.1">
+				</crossref>
+				oppressed by demons.
+			</verse>
+			<marker class="begin-verse" mid="v41001033">
+			</marker>
+			<verse num="33">
+				And the whole city was gathered together at the door.
+			</verse>
+			<marker class="begin-verse" mid="v41001034">
+			</marker>
+			<verse num="34">
+				<crossref let="a" cid="c41001034.1">
+				</crossref>
+				And he healed many who were sick with various diseases, and cast out many demons. And 
+				<crossref let="b" cid="c41001034.2">
+				</crossref>
+				he would not permit the demons to speak, because they knew him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41001035">
+			</marker>
+			<heading
+				>
+				Jesus Preaches in Galilee
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="35">
+				<crossref let="c" cid="c41001035.1">
+				</crossref>
+				<crossref cid="t41001035.1">
+				</crossref>
+				And rising very early in the morning, while it was still dark, he departed and went out to a desolate place, and 
+				<crossref let="d" cid="c41001035.2">
+				</crossref>
+				there he prayed.
+			</verse>
+			<marker class="begin-verse" mid="v41001036">
+			</marker>
+			<verse num="36">
+				And Simon and those who were with him searched for him,
+			</verse>
+			<marker class="begin-verse" mid="v41001037">
+			</marker>
+			<verse num="37">
+				and they found him and said to him, 
+				<crossref let="e" cid="c41001037.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Everyone is looking for you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41001038">
+			</marker>
+			<verse num="38">
+				And he said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Let us go on to the next towns, that I may preach there also, for 
+					<crossref let="f" cid="c41001038.1">
+					</crossref>
+					that is why I came out.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41001039">
+			</marker>
+			<verse num="39">
+				<crossref let="g" cid="c41001039.1">
+				</crossref>
+				And 
+				<crossref let="h" cid="c41001039.2">
+				</crossref>
+				he went throughout all Galilee, preaching in their synagogues and casting out demons.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41001040">
+			</marker>
+			<heading
+				>
+				Jesus Cleanses a Leper
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="40">
+				<crossref let="i" cid="c41001040.1">
+				</crossref>
+				<crossref cid="t41001040.1">
+				</crossref>
+				And a leper
+				<note nid="n41001040.1">
+				</note>
+				 came to him, imploring him, and 
+				<crossref let="j" cid="c41001040.2">
+				</crossref>
+				kneeling said to him, 
+				<crossref let="k" cid="c41001040.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If you will, you can make me clean.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41001041">
+			</marker>
+			<verse num="41">
+				Moved with pity, he stretched out his hand and touched him and said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I will; be clean.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41001042">
+			</marker>
+			<verse num="42">
+				And immediately the leprosy left him, and he was made clean.
+			</verse>
+			<marker class="begin-verse" mid="v41001043">
+			</marker>
+			<verse num="43">
+				And 
+				<crossref let="l" cid="c41001043.1">
+				</crossref>
+				Jesus
+				<note nid="n41001043.1">
+				</note>
+				 sternly charged him and sent him away at once,
+			</verse>
+			<marker class="begin-verse" mid="v41001044">
+			</marker>
+			<verse num="44">
+				and said to him, 
+				<woc
+					>
+					<crossref let="m" cid="c41001044.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					See that you say nothing to anyone, but go, 
+					<crossref let="n" cid="c41001044.2">
+					</crossref>
+					show yourself to the priest and 
+					<crossref let="o" cid="c41001044.3">
+					</crossref>
+					offer for your cleansing what Moses commanded, 
+					<crossref let="p" cid="c41001044.4">
+					</crossref>
+					for a proof to them.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41001045">
+			</marker>
+			<verse num="45">
+				<crossref let="q" cid="c41001045.1">
+				</crossref>
+				But he went out and began to talk freely about it, and to spread the news, so that Jesus could no longer openly enter 
+				<crossref let="r" cid="c41001045.2">
+				</crossref>
+				a town, but was out in 
+				<crossref let="r" cid="c41001045.3">
+				</crossref>
+				desolate places, and 
+				<crossref let="s" cid="c41001045.4">
+				</crossref>
+				people were coming to him from every quarter.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

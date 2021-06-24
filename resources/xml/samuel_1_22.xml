@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09022001">
+		</marker>
+		<chapter num="22">
+			<heading
+				>
+				David at the Cave of Adullam
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				David departed from there and escaped to 
+				<crossref let="h" cid="c09022001.1">
+				</crossref>
+				the cave of 
+				<crossref let="i" cid="c09022001.2">
+				</crossref>
+				Adullam. And when his brothers and all his father's house heard it, they went down there to him.
+			</verse>
+			<marker class="begin-verse" mid="v09022002">
+			</marker>
+			<verse num="2">
+				<crossref let="j" cid="c09022002.1">
+				</crossref>
+				And everyone who was in distress, and everyone who was in debt, and everyone who was bitter in soul,
+				<note nid="n09022002.1">
+				</note>
+				 gathered to him. And he became captain over them. And there were with him 
+				<crossref let="k" cid="c09022002.2">
+				</crossref>
+				about four hundred men.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09022003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				And David went from there to Mizpeh of Moab. And he said to the king of Moab, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please let my father and my mother stay
+				<note nid="n09022003.1">
+				</note>
+				 with you, till I know what God will do for me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09022004">
+			</marker>
+			<verse num="4">
+				And he left them with the king of Moab, and they stayed with him all the time that David was in the stronghold.
+			</verse>
+			<marker class="begin-verse" mid="v09022005">
+			</marker>
+			<verse num="5">
+				Then the prophet 
+				<crossref let="l" cid="c09022005.1">
+				</crossref>
+				Gad said to David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not remain in the stronghold; depart, and go into the land of Judah.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So David departed and went into the forest of Hereth.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09022006">
+			</marker>
+			<heading
+				>
+				Saul Kills the Priests at Nob
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				Now Saul heard that David was discovered, and the men who were with him. Saul was sitting at Gibeah under 
+				<crossref let="m" cid="c09022006.1">
+				</crossref>
+				the tamarisk tree on the height with his spear in his hand, and all his servants were standing about him.
+			</verse>
+			<marker class="begin-verse" mid="v09022007">
+			</marker>
+			<verse num="7">
+				And Saul said to his servants who stood about him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hear now, people of Benjamin; will the son of Jesse 
+				<crossref let="n" cid="c09022007.1">
+				</crossref>
+				give every one of you fields and vineyards, will he make you all commanders of thousands and commanders of hundreds,
+			</verse>
+			<marker class="begin-verse" mid="v09022008">
+			</marker>
+			<verse num="8">
+				that all of you have conspired against me? No one discloses to me 
+				<crossref let="o" cid="c09022008.1">
+				</crossref>
+				when my son makes a covenant with the son of Jesse. None of you 
+				<crossref let="p" cid="c09022008.2">
+				</crossref>
+				is sorry for me or discloses to me that my son has stirred up my servant against me, 
+				<crossref let="q" cid="c09022008.3">
+				</crossref>
+				to lie in wait, as at this day.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09022009">
+			</marker>
+			<verse num="9">
+				Then answered 
+				<crossref let="r" cid="c09022009.1">
+				</crossref>
+				Doeg the Edomite, who stood by the servants of Saul, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I saw the son of Jesse 
+				<crossref let="s" cid="c09022009.2">
+				</crossref>
+				coming to Nob, to 
+				<crossref let="t" cid="c09022009.3">
+				</crossref>
+				Ahimelech the son of Ahitub,
+			</verse>
+			<marker class="begin-verse" mid="v09022010">
+			</marker>
+			<verse num="10">
+				<crossref let="u" cid="c09022010.1">
+				</crossref>
+				and he inquired of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 for him and 
+				<crossref let="v" cid="c09022010.2">
+				</crossref>
+				gave him provisions and gave him the sword of Goliath the Philistine.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09022011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				Then the king sent to summon Ahimelech the priest, the son of Ahitub, and all his father's house, the priests who were at Nob, and all of them came to the king.
+			</verse>
+			<marker class="begin-verse" mid="v09022012">
+			</marker>
+			<verse num="12">
+				And Saul said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hear now, son of Ahitub.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Here I am, my lord.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09022013">
+			</marker>
+			<verse num="13">
+				And Saul said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have you conspired against me, you and the son of Jesse, in that you have given him bread and a sword and 
+				<crossref let="u" cid="c09022013.1">
+				</crossref>
+				have inquired of God for him, so that he has risen against me, 
+				<crossref let="w" cid="c09022013.2">
+				</crossref>
+				to lie in wait, as at this day?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09022014">
+			</marker>
+			<verse num="14">
+				Then Ahimelech answered the king, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				And who among all your servants is so faithful as David, who is the king's son-in-law, and captain over
+				<note nid="n09022014.1">
+				</note>
+				 your bodyguard, and honored in your house?
+			</verse>
+			<marker class="begin-verse" mid="v09022015">
+			</marker>
+			<verse num="15">
+				Is today the first time 
+				<crossref let="u" cid="c09022015.1">
+				</crossref>
+				that I have inquired of God for him? No! Let not the king impute anything to his servant or to all the house of my father, for your servant has known nothing of all this, 
+				<crossref let="x" cid="c09022015.2">
+				</crossref>
+				much or little.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09022016">
+			</marker>
+			<verse num="16">
+				And the king said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You shall surely die, Ahimelech, you and all your father's house.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09022017">
+			</marker>
+			<verse num="17">
+				And the king said to 
+				<crossref let="y" cid="c09022017.1">
+				</crossref>
+				the guard who stood about him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Turn and kill the priests of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, because their hand also is with David, and they knew that he fled and did not disclose it to me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But the servants of the king would not put out their hand to strike the priests of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v09022018">
+			</marker>
+			<verse num="18">
+				Then the king said to Doeg, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You turn and strike the priests.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Doeg the Edomite turned and struck down the priests, 
+				<crossref let="z" cid="c09022018.1">
+				</crossref>
+				and he killed on that day eighty-five persons who wore the linen ephod.
+			</verse>
+			<marker class="begin-verse" mid="v09022019">
+			</marker>
+			<verse num="19">
+				And Nob, the city of the priests, he put to the sword; 
+				<crossref let="a" cid="c09022019.1">
+				</crossref>
+				both man and woman, child and infant, ox, donkey and sheep, he put to the sword.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09022020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				But one of the sons of Ahimelech the son of Ahitub, named 
+				<crossref let="b" cid="c09022020.1">
+				</crossref>
+				Abiathar, escaped and fled after David.
+			</verse>
+			<marker class="begin-verse" mid="v09022021">
+			</marker>
+			<verse num="21">
+				And Abiathar told David that Saul had killed the priests of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v09022022">
+			</marker>
+			<verse num="22">
+				And David said to Abiathar, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I knew on that day, 
+				<crossref let="c" cid="c09022022.1">
+				</crossref>
+				when Doeg the Edomite was there, that he would surely tell Saul. I have occasioned the death of all the persons of your father's house.
+			</verse>
+			<marker class="begin-verse" mid="v09022023">
+			</marker>
+			<verse num="23">
+				<crossref let="d" cid="c09022023.1">
+				</crossref>
+				Stay with me; do not be afraid, for he who seeks my life seeks your life. With me you shall be in safekeeping.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23038001">
+		</marker>
+		<chapter num="38">
+			<heading
+				>
+				Hezekiah's Sickness and Recovery
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="q" cid="c23038001.1">
+				</crossref>
+				In those days Hezekiah became 
+				<crossref let="r" cid="c23038001.2">
+				</crossref>
+				sick and was at the point of death. And 
+				<crossref let="s" cid="c23038001.3">
+				</crossref>
+				Isaiah the prophet the son of Amoz came to him, and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				: Set your house in order, for you shall die, you shall not recover.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n23038001.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v23038002">
+			</marker>
+			<verse num="2">
+				Then Hezekiah turned his face to the wall and prayed to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+			</verse>
+			<marker class="begin-verse" mid="v23038003">
+			</marker>
+			<verse num="3">
+				and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, remember how 
+				<crossref let="t" cid="c23038003.1">
+				</crossref>
+				I have walked before you in faithfulness and with a whole heart, and have done what is good in your sight.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Hezekiah wept bitterly.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23038004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				Then the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to Isaiah:
+			</verse>
+			<marker class="begin-verse" mid="v23038005">
+			</marker>
+			<verse num="5">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go and say to Hezekiah, Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of David your father: I have heard your prayer; I have seen your tears. Behold, I will add 
+				<crossref let="u" cid="c23038005.1">
+				</crossref>
+				fifteen years to your life.
+				<note nid="n23038005.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v23038006">
+			</marker>
+			<verse num="6">
+				<crossref let="v" cid="c23038006.1">
+				</crossref>
+				I will deliver you and this city out of the hand of the king of Assyria, and will defend this city.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23038007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				This shall be the sign to you from the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will do this thing that he has promised:
+			</verse>
+			<marker class="begin-verse" mid="v23038008">
+			</marker>
+			<verse num="8">
+				<crossref let="w" cid="c23038008.1">
+				</crossref>
+				Behold, I will make the shadow cast by the declining sun on the dial of Ahaz turn back ten steps.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So the sun turned back on the dial the ten steps by which it had declined.
+				<note nid="n23038008.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23038009">
+			</marker>
+			<begin-paragraph class="extra-space">
+			</begin-paragraph>
+			<verse num="9">
+				A writing of Hezekiah king of Judah, after he had been sick and had recovered from his sickness:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23038010">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				I said, 
+				<crossref let="x" cid="c23038010.1">
+				</crossref>
+				In the middle
+				<note nid="n23038010.1">
+				</note>
+				 of my days
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I must depart;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I am consigned to the gates of Sheol
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for the rest of my years.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23038011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				I said, I shall not see the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="y" cid="c23038011.1">
+				</crossref>
+				in the land of the living;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I shall look on man no more
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				among the inhabitants of the world.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23038012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				My dwelling is plucked up and removed from me
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c23038012.1">
+				</crossref>
+				like a shepherd's tent;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c23038012.2">
+				</crossref>
+				like a weaver 
+				<crossref let="b" cid="c23038012.3">
+				</crossref>
+				I have rolled up my life;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c23038012.4">
+				</crossref>
+				he cuts me off from the loom;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c23038012.5">
+				</crossref>
+				from day to night you bring me to an end;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23038013">
+			</marker>
+			<verse num="13">
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c23038013.1">
+				</crossref>
+				I calmed myself
+				<note nid="n23038013.1">
+				</note>
+				 until morning;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				like a lion 
+				<crossref let="f" cid="c23038013.2">
+				</crossref>
+				he breaks all my bones;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from day to night you bring me to an end.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23038014">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				Like 
+				<crossref let="g" cid="c23038014.1">
+				</crossref>
+				a swallow or a crane I chirp;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c23038014.2">
+				</crossref>
+				I moan like a dove.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c23038014.3">
+				</crossref>
+				My eyes are weary with looking upward.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O Lord, I am oppressed; 
+				<crossref let="j" cid="c23038014.4">
+				</crossref>
+				be my pledge of safety!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23038015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				What shall I say? For he has spoken to me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he himself has done it.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c23038015.1">
+				</crossref>
+				I walk slowly all my years
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because of the bitterness of my soul.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23038016">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c23038016.1">
+				</crossref>
+				O Lord, by these things men live,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and in all these is the life of my spirit.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Oh restore me to health and make me live!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23038017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c23038017.1">
+				</crossref>
+				Behold, it was for my welfare
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that I had great bitterness;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c23038017.2">
+				</crossref>
+				but in love you have delivered my life
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from the pit of destruction,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c23038017.3">
+				</crossref>
+				for you have cast all my sins
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				behind your back.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23038018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c23038018.1">
+				</crossref>
+				For Sheol does not thank you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				death does not praise you;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				those who go down to the pit do not hope
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for your faithfulness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23038019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				The living, the living, he thanks you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as I do this day;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c23038019.1">
+				</crossref>
+				the father makes known to the children
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your faithfulness.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23038020">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will save me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and we will play my music on stringed instruments
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				all the days of our lives,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c23038020.1">
+				</crossref>
+				at the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23038021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<crossref let="r" cid="c23038021.1">
+				</crossref>
+				Now Isaiah had said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let them take a cake of figs and apply it to the boil, that he may recover.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v23038022">
+			</marker>
+			<verse num="22">
+				Hezekiah also had said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is the sign that I shall go up to the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

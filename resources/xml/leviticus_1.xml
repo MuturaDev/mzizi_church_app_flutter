@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Leviticus" num="3">
+		<marker class="begin-verse" mid="v03001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Laws for Burnt Offerings
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="a" cid="c03001001.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 called Moses and spoke to him 
+				<crossref let="b" cid="c03001001.2">
+				</crossref>
+				from the tent of meeting, saying,
+			</verse>
+			<marker class="begin-verse" mid="v03001002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Speak to the people of Israel and say to them, 
+				<crossref let="c" cid="c03001002.1">
+				</crossref>
+				When any one of you brings an offering to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, you shall bring your offering of livestock from the herd or from the flock.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03001003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If his offering is a burnt offering from the herd, he shall offer 
+				<crossref let="d" cid="c03001003.1">
+				</crossref>
+				a male without blemish. He shall bring it to the entrance of the tent of meeting, that he may be accepted before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v03001004">
+			</marker>
+			<verse num="4">
+				<crossref let="e" cid="c03001004.1">
+				</crossref>
+				He shall lay his hand on the head of the burnt offering, and it shall be 
+				<crossref let="f" cid="c03001004.2">
+				</crossref>
+				accepted for him 
+				<crossref let="g" cid="c03001004.3">
+				</crossref>
+				to make atonement for him.
+			</verse>
+			<marker class="begin-verse" mid="v03001005">
+			</marker>
+			<verse num="5">
+				Then he shall kill the bull before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and Aaron's sons the priests shall bring the blood 
+				<crossref let="h" cid="c03001005.1">
+				</crossref>
+				and throw the blood against the sides of the altar that is at the entrance of the tent of meeting.
+			</verse>
+			<marker class="begin-verse" mid="v03001006">
+			</marker>
+			<verse num="6">
+				Then he shall flay the burnt offering and cut it into pieces,
+			</verse>
+			<marker class="begin-verse" mid="v03001007">
+			</marker>
+			<verse num="7">
+				and the sons of Aaron the priest shall put fire on the altar and 
+				<crossref let="i" cid="c03001007.1">
+				</crossref>
+				arrange wood on the fire.
+			</verse>
+			<marker class="begin-verse" mid="v03001008">
+			</marker>
+			<verse num="8">
+				And Aaron's sons the priests shall arrange the pieces, the head, and the fat, on the wood that is on the fire on the altar;
+			</verse>
+			<marker class="begin-verse" mid="v03001009">
+			</marker>
+			<verse num="9">
+				but its entrails and its legs he shall wash with water. And the priest shall burn all of it on the altar, as 
+				<crossref let="j" cid="c03001009.1">
+				</crossref>
+				a burnt offering, a food offering
+				<note nid="n03001009.1">
+				</note>
+				 with a 
+				<crossref let="k" cid="c03001009.2">
+				</crossref>
+				pleasing aroma to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03001010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If his gift for a burnt offering is from the flock, from the sheep or goats, he shall bring a male without blemish,
+			</verse>
+			<marker class="begin-verse" mid="v03001011">
+			</marker>
+			<verse num="11">
+				<crossref let="l" cid="c03001011.1">
+				</crossref>
+				and he shall kill it on the north side of the altar before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and Aaron's sons the priests shall throw its blood against the sides of the altar.
+			</verse>
+			<marker class="begin-verse" mid="v03001012">
+			</marker>
+			<verse num="12">
+				And he shall cut it into pieces, with its head and its fat, and the priest shall arrange them on the wood that is on the fire on the altar,
+			</verse>
+			<marker class="begin-verse" mid="v03001013">
+			</marker>
+			<verse num="13">
+				but the entrails and the legs he shall wash with water. And the priest shall offer all of it and burn it on the altar; it is 
+				<crossref let="j" cid="c03001013.1">
+				</crossref>
+				a burnt offering, a food offering with 
+				<crossref let="k" cid="c03001013.2">
+				</crossref>
+				a pleasing aroma to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03001014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If his offering to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is a burnt offering of birds, then he shall bring his offering of 
+				<crossref let="m" cid="c03001014.1">
+				</crossref>
+				turtledoves or pigeons.
+			</verse>
+			<marker class="begin-verse" mid="v03001015">
+			</marker>
+			<verse num="15">
+				And the priest shall bring it to the altar and wring off its head and burn it on the altar. Its blood shall be drained out on the side of the altar.
+			</verse>
+			<marker class="begin-verse" mid="v03001016">
+			</marker>
+			<verse num="16">
+				He shall remove its crop with its contents
+				<note nid="n03001016.1">
+				</note>
+				 and cast it 
+				<crossref let="n" cid="c03001016.1">
+				</crossref>
+				beside the altar on the east side, in the place for ashes.
+			</verse>
+			<marker class="begin-verse" mid="v03001017">
+			</marker>
+			<verse num="17">
+				He shall tear it open by its wings, but 
+				<crossref let="o" cid="c03001017.1">
+				</crossref>
+				shall not sever it completely. And the priest shall burn it on the altar, on the wood that is on the fire. It is a burnt offering, a food offering with a pleasing aroma to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

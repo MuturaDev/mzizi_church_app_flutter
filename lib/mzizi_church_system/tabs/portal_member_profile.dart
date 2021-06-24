@@ -16,10 +16,11 @@ class PortalMemberProfile extends KFDrawerContent {
 }
 
 class _PortalMemberProfileState extends State<PortalMemberProfile> {
-   Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
   }
+
   @override
   Widget build(BuildContext context) {
     return SafeArea(
@@ -27,7 +28,7 @@ class _PortalMemberProfileState extends State<PortalMemberProfile> {
       bottom: false,
       child: WillPopScope(
         onWillPop: _onBackPressed,
-              child: Scaffold(
+        child: Scaffold(
             appBar: AppBar(
               backgroundColor: Color(0xFF487890),
               primary: true,
@@ -71,11 +72,15 @@ class _PortalMemberProfileState extends State<PortalMemberProfile> {
 
                         return data == null
                             ? noContent
-                            : data=="" ? noContent : body(data);
+                            : data == "" ? noContent : body(data);
                       },
                       whenNotDone: Center(
-                        child: Image.asset(
-                            'assets/images/member_app_assets/Curve-Loading.gif'),
+                        child: Container(
+                          height: 250,
+                          width: 250,
+                          child: Image.asset(
+                              'assets/images/member_app_assets/Curve-Loading.gif'),
+                        ),
                       ))),
             )),
       ),

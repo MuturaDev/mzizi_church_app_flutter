@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23012001">
+		</marker>
+		<chapter num="12">
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Is My Strength and My Song
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				You
+				<note nid="n23012001.1">
+				</note>
+				 will say 
+				<crossref let="u" cid="c23012001.1">
+				</crossref>
+				in that day:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will give thanks to you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for though you were angry with me,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c23012001.2">
+				</crossref>
+				your anger turned away,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that you might comfort me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23012002">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Behold, God is my salvation;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will trust, and will not be afraid;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for 
+				<crossref let="w" cid="c23012002.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<span class="divine-name">
+					God
+				</span>
+				<note nid="n23012002.1">
+				</note>
+				 is my strength and my song,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he has become my salvation.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23012003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="x" cid="c23012003.1">
+				</crossref>
+				With joy you
+				<note nid="n23012003.1">
+				</note>
+				 will draw water from the wells of salvation.
+			</verse>
+			<marker class="begin-verse" mid="v23012004">
+			</marker>
+			<verse num="4">
+				<crossref let="y" cid="c23012004.1">
+				</crossref>
+				And you will say in that day:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c23012004.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give thanks to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				call upon his name,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c23012004.3">
+				</crossref>
+				make known his deeds among the peoples,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				proclaim 
+				<crossref let="b" cid="c23012004.4">
+				</crossref>
+				that his name is exalted.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23012005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c23012005.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Sing praises to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, for he has done gloriously;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let this be made known
+				<note nid="n23012005.1">
+				</note>
+				 in all the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23012006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Shout, and sing for joy, O inhabitant of Zion,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for great 
+				<crossref let="d" cid="c23012006.1">
+				</crossref>
+				in your
+				<note nid="n23012006.1">
+				</note>
+				 midst is 
+				<crossref let="e" cid="c23012006.2">
+				</crossref>
+				the Holy One of Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

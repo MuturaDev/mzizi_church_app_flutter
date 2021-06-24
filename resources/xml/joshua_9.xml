@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Joshua" num="5">
+		<marker class="begin-verse" mid="v06009001">
+		</marker>
+		<chapter num="9">
+			<heading
+				>
+				The Gibeonite Deception
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				As soon as all the kings who were beyond the Jordan 
+				<crossref let="j" cid="c06009001.1">
+				</crossref>
+				in the hill country and in the lowland all along the coast 
+				<crossref let="k" cid="c06009001.2">
+				</crossref>
+				of the Great Sea toward Lebanon, 
+				<crossref let="l" cid="c06009001.3">
+				</crossref>
+				the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites, heard of this,
+			</verse>
+			<marker class="begin-verse" mid="v06009002">
+			</marker>
+			<verse num="2">
+				they gathered together as one to fight against Joshua and Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06009003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				But when the inhabitants of 
+				<crossref let="m" cid="c06009003.1">
+				</crossref>
+				Gibeon heard what Joshua had done 
+				<crossref let="n" cid="c06009003.2">
+				</crossref>
+				to Jericho and 
+				<crossref let="o" cid="c06009003.3">
+				</crossref>
+				to Ai,
+			</verse>
+			<marker class="begin-verse" mid="v06009004">
+			</marker>
+			<verse num="4">
+				they on their part acted with cunning and went and made ready provisions and took worn-out sacks for their donkeys, and wineskins, worn-out and torn and mended,
+			</verse>
+			<marker class="begin-verse" mid="v06009005">
+			</marker>
+			<verse num="5">
+				with worn-out, patched sandals on their feet, and worn-out clothes. And all their provisions were dry and crumbly.
+			</verse>
+			<marker class="begin-verse" mid="v06009006">
+			</marker>
+			<verse num="6">
+				And they went to Joshua in 
+				<crossref let="p" cid="c06009006.1">
+				</crossref>
+				the camp at Gilgal and said to him and to the men of Israel, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We have come from a distant country, so now make a covenant with us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06009007">
+			</marker>
+			<verse num="7">
+				But the men of Israel said to 
+				<crossref let="q" cid="c06009007.1">
+				</crossref>
+				the Hivites, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Perhaps you live among us; then 
+				<crossref let="r" cid="c06009007.2">
+				</crossref>
+				how can we make a covenant with you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06009008">
+			</marker>
+			<verse num="8">
+				They said to Joshua, 
+				<crossref let="s" cid="c06009008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We are your servants.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Joshua said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who are you? And where do you come from?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06009009">
+			</marker>
+			<verse num="9">
+				They said to him, 
+				<crossref let="t" cid="c06009009.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				From a very distant country your servants have come, because of the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God. 
+				<crossref let="u" cid="c06009009.2">
+				</crossref>
+				For we have heard a report of him, and all that he did in Egypt,
+			</verse>
+			<marker class="begin-verse" mid="v06009010">
+			</marker>
+			<verse num="10">
+				<crossref let="v" cid="c06009010.1">
+				</crossref>
+				and all that he did to the two kings of the Amorites who were beyond the Jordan, to Sihon the king of Heshbon, and to Og king of Bashan, who lived in 
+				<crossref let="w" cid="c06009010.2">
+				</crossref>
+				Ashtaroth.
+			</verse>
+			<marker class="begin-verse" mid="v06009011">
+			</marker>
+			<verse num="11">
+				So our elders and all the inhabitants of our country said to us, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Take provisions in your hand for the journey and go to meet them and say to them, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				We are your servants. Come now, make a covenant with us.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06009012">
+			</marker>
+			<verse num="12">
+				Here is our bread. It was still warm when we took it from our houses as our food for the journey on the day we set out to come to you, but now, behold, it is dry and crumbly.
+			</verse>
+			<marker class="begin-verse" mid="v06009013">
+			</marker>
+			<verse num="13">
+				These wineskins were new when we filled them, and behold, they have burst. And these garments and sandals of ours are worn out from the very long journey.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06009014">
+			</marker>
+			<verse num="14">
+				So the men took some of their provisions, but 
+				<crossref let="x" cid="c06009014.1">
+				</crossref>
+				did not ask counsel from the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v06009015">
+			</marker>
+			<verse num="15">
+				And Joshua 
+				<crossref let="y" cid="c06009015.1">
+				</crossref>
+				made peace with them and made a covenant with them, to let them live, and the leaders of the congregation swore to them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06009016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				At the end of three days after they had made a covenant with them, they heard that they were their neighbors 
+				<crossref let="z" cid="c06009016.1">
+				</crossref>
+				and that they lived among them.
+			</verse>
+			<marker class="begin-verse" mid="v06009017">
+			</marker>
+			<verse num="17">
+				And the people of Israel set out and reached their cities on the third day. 
+				<crossref let="a" cid="c06009017.1">
+				</crossref>
+				Now their cities were Gibeon, Chephirah, Beeroth, and Kiriath-jearim.
+			</verse>
+			<marker class="begin-verse" mid="v06009018">
+			</marker>
+			<verse num="18">
+				But the people of Israel did not attack them, because the leaders of the congregation had sworn to them by the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel. Then all the congregation murmured against the leaders.
+			</verse>
+			<marker class="begin-verse" mid="v06009019">
+			</marker>
+			<verse num="19">
+				But all the leaders said to all the congregation, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We have sworn to them by the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel, and now we may not touch them.
+			</verse>
+			<marker class="begin-verse" mid="v06009020">
+			</marker>
+			<verse num="20">
+				This we will do to them: let them live, lest 
+				<crossref let="b" cid="c06009020.1">
+				</crossref>
+				wrath be upon us, 
+				<crossref let="c" cid="c06009020.2">
+				</crossref>
+				because of the oath that we swore to them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06009021">
+			</marker>
+			<verse num="21">
+				And the leaders said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let them live.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So they became 
+				<crossref let="d" cid="c06009021.1">
+				</crossref>
+				cutters of wood and drawers of water for all the congregation, just as the leaders 
+				<crossref let="e" cid="c06009021.2">
+				</crossref>
+				had said of them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06009022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				Joshua summoned them, and he said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why did you deceive us, saying, 
+				<crossref let="f" cid="c06009022.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				We are very far from you,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 when 
+				<crossref let="g" cid="c06009022.2">
+				</crossref>
+				you dwell among us?
+			</verse>
+			<marker class="begin-verse" mid="v06009023">
+			</marker>
+			<verse num="23">
+				Now therefore you are cursed, and some of you shall never be anything but servants, 
+				<crossref let="h" cid="c06009023.1">
+				</crossref>
+				cutters of wood and drawers of water for the house of my God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06009024">
+			</marker>
+			<verse num="24">
+				They answered Joshua, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because it was told to your servants for a certainty that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God had 
+				<crossref let="i" cid="c06009024.1">
+				</crossref>
+				commanded his servant Moses to give you all the land and to destroy all the inhabitants of the land from before youùso 
+				<crossref let="j" cid="c06009024.2">
+				</crossref>
+				we feared greatly for our lives because of you and did this thing.
+			</verse>
+			<marker class="begin-verse" mid="v06009025">
+			</marker>
+			<verse num="25">
+				And now, behold, we are in your hand. Whatever seems good and right in your sight to do to us, do it.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06009026">
+			</marker>
+			<verse num="26">
+				So he did this to them and delivered them out of the hand of the people of Israel, and they did not kill them.
+			</verse>
+			<marker class="begin-verse" mid="v06009027">
+			</marker>
+			<verse num="27">
+				But Joshua made them that day 
+				<crossref let="k" cid="c06009027.1">
+				</crossref>
+				cutters of wood and drawers of water for the congregation and for the altar of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, to this day, 
+				<crossref let="l" cid="c06009027.2">
+				</crossref>
+				in the place that he should choose.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

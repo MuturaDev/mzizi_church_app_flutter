@@ -1,0 +1,625 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40010001">
+		</marker>
+		<chapter num="10">
+			<heading
+				>
+				The Twelve Apostles
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="u" cid="c40010001.1">
+				</crossref>
+				And he called to him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every affliction.
+			</verse>
+			<marker class="begin-verse" mid="v40010002">
+			</marker>
+			<verse num="2">
+				<crossref let="v" cid="c40010002.1">
+				</crossref>
+				<crossref cid="t40010002.1">
+				</crossref>
+				The names of the twelve apostles are these: first, Simon, 
+				<crossref let="w" cid="c40010002.2">
+				</crossref>
+				who is called Peter, and 
+				<crossref let="x" cid="c40010002.3">
+				</crossref>
+				Andrew his brother; 
+				<crossref let="x" cid="c40010002.4">
+				</crossref>
+				James the son of Zebedee, and John his brother;
+			</verse>
+			<marker class="begin-verse" mid="v40010003">
+			</marker>
+			<verse num="3">
+				Philip and Bartholomew; Thomas and 
+				<crossref let="y" cid="c40010003.1">
+				</crossref>
+				Matthew the tax collector; James the son of Alphaeus, and Thaddaeus;
+				<note nid="n40010003.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v40010004">
+			</marker>
+			<verse num="4">
+				Simon the Cananaean, and Judas Iscariot, who betrayed him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40010005">
+			</marker>
+			<heading
+				>
+				Jesus Sends Out the Twelve Apostles
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				<crossref let="u" cid="c40010005.1">
+				</crossref>
+				These twelve Jesus sent out, instructing them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go nowhere among the Gentiles and enter no town of 
+					<crossref let="z" cid="c40010005.2">
+					</crossref>
+					the Samaritans,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010006">
+			</marker>
+			<verse num="6" class="woc">
+				<woc
+					>
+					<crossref let="a" cid="c40010006.1">
+					</crossref>
+					but go rather to 
+					<crossref let="b" cid="c40010006.2">
+					</crossref>
+					the lost sheep of 
+					<crossref let="c" cid="c40010006.3">
+					</crossref>
+					the house of Israel.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010007">
+			</marker>
+			<verse num="7" class="woc">
+				<woc
+					>
+					And proclaim as you go, saying, 
+					<crossref let="d" cid="c40010007.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					The kingdom of heaven is at hand.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010008">
+			</marker>
+			<verse num="8" class="woc">
+				<woc
+					>
+					<crossref let="e" cid="c40010008.1">
+					</crossref>
+					Heal the sick, raise the dead, cleanse lepers,
+					<note nid="n40010008.1">
+					</note>
+					 cast out demons. 
+					<crossref let="f" cid="c40010008.2">
+					</crossref>
+					You received without paying; give without pay.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010009">
+			</marker>
+			<verse num="9" class="woc">
+				<woc
+					>
+					<crossref let="g" cid="c40010009.1">
+					</crossref>
+					<crossref cid="t40010009.1">
+					</crossref>
+					Acquire no gold nor silver nor copper for your belts,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					no bag for your journey, nor two tunics
+					<note nid="n40010010.1">
+					</note>
+					 nor sandals nor a staff, for 
+					<crossref let="h" cid="c40010010.1">
+					</crossref>
+					the laborer deserves his food.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010011">
+			</marker>
+			<verse num="11" class="woc">
+				<woc
+					>
+					And whatever town or village you enter, find out who is worthy in it and stay there until you depart.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc
+					>
+					As you enter the house, 
+					<crossref let="i" cid="c40010012.1">
+					</crossref>
+					greet it.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010013">
+			</marker>
+			<verse num="13" class="woc">
+				<woc
+					>
+					And if the house is 
+					<crossref let="j" cid="c40010013.1">
+					</crossref>
+					worthy, let 
+					<crossref let="i" cid="c40010013.2">
+					</crossref>
+					your peace come upon it, but if it is not worthy, let 
+					<crossref let="i" cid="c40010013.3">
+					</crossref>
+					your peace return to you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010014">
+			</marker>
+			<verse num="14" class="woc">
+				<woc
+					>
+					And if anyone will not receive you or listen to your words, 
+					<crossref let="l" cid="c40010014.1">
+					</crossref>
+					shake off the dust from your feet when you leave that house or town.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010015">
+			</marker>
+			<verse num="15" class="woc">
+				<woc
+					>
+					Truly, I say to you, 
+					<crossref let="m" cid="c40010015.1">
+					</crossref>
+					it will be more bearable on the day of judgment for 
+					<crossref let="n" cid="c40010015.2">
+					</crossref>
+					the land of Sodom and Gomorrah than for that town.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40010016">
+			</marker>
+			<heading
+				>
+				Persecution Will Come
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16" class="woc">
+				<woc
+					>
+					<crossref let="o" cid="c40010016.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Behold, I am sending you out as sheep in the midst of wolves, so be 
+					<crossref let="p" cid="c40010016.2">
+					</crossref>
+					wise as serpents and 
+					<crossref let="q" cid="c40010016.3">
+					</crossref>
+					innocent as doves.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010017">
+			</marker>
+			<verse num="17" class="woc">
+				<woc
+					>
+					Beware of men, for 
+					<crossref let="r" cid="c40010017.1">
+					</crossref>
+					they will deliver you over to courts and flog you 
+					<crossref let="s" cid="c40010017.2">
+					</crossref>
+					in their synagogues,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					<crossref let="r" cid="c40010018.1">
+					</crossref>
+					and you will be dragged before governors and kings for my sake, 
+					<crossref let="t" cid="c40010018.2">
+					</crossref>
+					to bear witness before them and the Gentiles.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					<crossref let="r" cid="c40010019.1">
+					</crossref>
+					When 
+					<crossref let="u" cid="c40010019.2">
+					</crossref>
+					they deliver you over, 
+					<crossref let="v" cid="c40010019.3">
+					</crossref>
+					do not be anxious how you are to speak or what you are to say, for 
+					<crossref let="w" cid="c40010019.4">
+					</crossref>
+					what you are to say will be given to you in that hour.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010020">
+			</marker>
+			<verse num="20" class="woc">
+				<woc
+					>
+					<crossref let="x" cid="c40010020.1">
+					</crossref>
+					For it is not you who speak, but 
+					<crossref let="y" cid="c40010020.2">
+					</crossref>
+					the Spirit of your Father speaking through you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010021">
+			</marker>
+			<verse num="21" class="woc">
+				<woc
+					>
+					<crossref let="z" cid="c40010021.1">
+					</crossref>
+					Brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010022">
+			</marker>
+			<verse num="22" class="woc">
+				<woc
+					>
+					<crossref let="a" cid="c40010022.1">
+					</crossref>
+					and you will be hated by all for my name's sake. 
+					<crossref let="b" cid="c40010022.2">
+					</crossref>
+					But the one who endures to the end will be saved.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010023">
+			</marker>
+			<verse num="23" class="woc">
+				<woc
+					>
+					When they 
+					<crossref let="c" cid="c40010023.1">
+					</crossref>
+					persecute you in one town, 
+					<crossref let="d" cid="c40010023.2">
+					</crossref>
+					flee to the next, for truly, I say to you, you will not have gone through all the towns of Israel 
+					<crossref let="e" cid="c40010023.3">
+					</crossref>
+					before the Son of Man comes.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40010024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24" class="woc">
+				<woc
+					>
+					<crossref let="f" cid="c40010024.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					A disciple is not above his teacher, nor a servant
+					<note nid="n40010024.1">
+					</note>
+					 above his master.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010025">
+			</marker>
+			<verse num="25" class="woc">
+				<woc
+					>
+					It is enough for the disciple to be like his teacher, and the servant like his master. 
+					<crossref let="g" cid="c40010025.1">
+					</crossref>
+					If they have called the master of the house Beelzebul, how much more will they malign
+					<note nid="n40010025.1">
+					</note>
+					 those of his household.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40010026">
+			</marker>
+			<heading
+				>
+				Have No Fear
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					So have no fear of them, 
+					<crossref let="i" cid="c40010026.1">
+					</crossref>
+					<crossref cid="t40010026.1">
+					</crossref>
+					for nothing is covered that will not be revealed, or hidden that will not be known.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010027">
+			</marker>
+			<verse num="27" class="woc">
+				<woc
+					>
+					What I tell you in the dark, say in the light, and what you hear whispered, proclaim on 
+					<crossref let="j" cid="c40010027.1">
+					</crossref>
+					the housetops.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010028">
+			</marker>
+			<verse num="28" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="k" cid="c40010028.1">
+					</crossref>
+					do not fear those who kill the body but cannot kill the soul. Rather fear him 
+					<crossref let="l" cid="c40010028.2">
+					</crossref>
+					who can destroy both soul and body in hell.
+					<note nid="n40010028.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010029">
+			</marker>
+			<verse num="29" class="woc">
+				<woc
+					>
+					Are not two sparrows sold for a penny?
+					<note nid="n40010029.1">
+					</note>
+					 And not one of them will fall to the ground apart from your Father.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010030">
+			</marker>
+			<verse num="30" class="woc">
+				<woc
+					>
+					But 
+					<crossref let="m" cid="c40010030.1">
+					</crossref>
+					even the hairs of your head are all numbered.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010031">
+			</marker>
+			<verse num="31" class="woc">
+				<woc
+					>
+					Fear not, therefore; 
+					<crossref let="n" cid="c40010031.1">
+					</crossref>
+					you are of more value than many sparrows.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010032">
+			</marker>
+			<verse num="32" class="woc">
+				<woc
+					>
+					<crossref let="o" cid="c40010032.1">
+					</crossref>
+					So everyone who acknowledges me before men, I also will acknowledge before my Father who is in heaven,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010033">
+			</marker>
+			<verse num="33" class="woc">
+				<woc
+					>
+					but 
+					<crossref let="p" cid="c40010033.1">
+					</crossref>
+					whoever denies me before men, 
+					<crossref let="q" cid="c40010033.2">
+					</crossref>
+					I also will deny before my Father who is in heaven.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40010034">
+			</marker>
+			<heading
+				>
+				Not Peace, but a Sword
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="34" class="woc">
+				<woc
+					>
+					<crossref let="r" cid="c40010034.1">
+					</crossref>
+					<crossref cid="t40010034.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Do not think that I have come to bring peace to the earth. 
+					<crossref let="s" cid="c40010034.2">
+					</crossref>
+					I have not come to bring peace, but a sword.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010035">
+			</marker>
+			<verse num="35" class="woc">
+				<woc
+					>
+					<crossref let="r" cid="c40010035.1">
+					</crossref>
+					For I have come 
+					<crossref let="t" cid="c40010035.2">
+					</crossref>
+					to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010036">
+			</marker>
+			<verse num="36" class="woc">
+				<woc
+					>
+					<crossref let="u" cid="c40010036.1">
+					</crossref>
+					And a person's enemies will be those of his own household.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010037">
+			</marker>
+			<verse num="37" class="woc">
+				<woc
+					>
+					<crossref let="v" cid="c40010037.1">
+					</crossref>
+					Whoever loves father or mother more than me is not worthy of me, and whoever loves son or daughter more than me is not worthy of me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010038">
+			</marker>
+			<verse num="38" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="w" cid="c40010038.1">
+					</crossref>
+					whoever does not take his cross and 
+					<crossref let="x" cid="c40010038.2">
+					</crossref>
+					follow me is not worthy of me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010039">
+			</marker>
+			<verse num="39" class="woc">
+				<woc
+					>
+					<crossref let="y" cid="c40010039.1">
+					</crossref>
+					Whoever finds his life will lose it, and whoever loses his life for my sake will find it.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40010040">
+			</marker>
+			<heading
+				>
+				Rewards
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="40" class="woc">
+				<woc
+					>
+					<crossref let="z" cid="c40010040.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Whoever receives you receives me, and 
+					<crossref let="a" cid="c40010040.2">
+					</crossref>
+					whoever receives me receives him who sent me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010041">
+			</marker>
+			<verse num="41" class="woc">
+				<woc
+					>
+					<crossref let="b" cid="c40010041.1">
+					</crossref>
+					The one who receives a prophet because he is a prophet will receive a prophet's reward, and the one who receives a righteous person because he is a righteous person will receive a righteous person's reward.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40010042">
+			</marker>
+			<verse num="42" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="c" cid="c40010042.1">
+					</crossref>
+					whoever gives one of 
+					<crossref let="d" cid="c40010042.2">
+					</crossref>
+					these little ones even a cup of cold water because he is a disciple, truly, I say to you, he will by no means lose his reward.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

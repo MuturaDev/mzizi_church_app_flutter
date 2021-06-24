@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18029001">
+		</marker>
+		<chapter num="29">
+			<heading
+				>
+				Job's Summary Defense
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And Job again 
+				<crossref let="z" cid="c18029001.1">
+				</crossref>
+				took up his discourse, and said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18029002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Oh, that I were as in the months of old,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as in the days when God watched over me,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				when his 
+				<crossref let="a" cid="c18029003.1">
+				</crossref>
+				lamp shone upon my head,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and by his light I walked through darkness,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				as I was in my prime,
+				<note nid="n18029004.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when the 
+				<crossref let="b" cid="c18029004.1">
+				</crossref>
+				friendship of God was upon my tent,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				when the Almighty was yet with me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when my 
+				<crossref let="c" cid="c18029005.1">
+				</crossref>
+				children were all around me,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				when my steps were 
+				<crossref let="d" cid="c18029006.1">
+				</crossref>
+				washed with 
+				<crossref let="e" cid="c18029006.2">
+				</crossref>
+				butter,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="f" cid="c18029006.3">
+				</crossref>
+				the rock poured out for me streams of 
+				<crossref let="g" cid="c18029006.4">
+				</crossref>
+				oil!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				When I went out to 
+				<crossref let="h" cid="c18029007.1">
+				</crossref>
+				the gate of the city,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when I prepared my seat in the square,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				the young men saw me and withdrew,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the aged rose and stood;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				the princes refrained from talking
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="i" cid="c18029009.1">
+				</crossref>
+				laid their hand on their mouth;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				the voice of the nobles was hushed,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and their 
+				<crossref let="j" cid="c18029010.1">
+				</crossref>
+				tongue stuck to the roof of their mouth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				When the ear heard, it called me blessed,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and when the eye saw, it approved,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				because I 
+				<crossref let="k" cid="c18029012.1">
+				</crossref>
+				delivered the poor who cried for help,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the fatherless who had none to help him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c18029013.1">
+				</crossref>
+				The blessing of him who was 
+				<crossref let="m" cid="c18029013.2">
+				</crossref>
+				about to perish came upon me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and I caused 
+				<crossref let="n" cid="c18029013.3">
+				</crossref>
+				the widow's heart to sing for joy.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="o" cid="c18029014.1">
+				</crossref>
+				put on righteousness, and it clothed me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my justice was like a robe and 
+				<crossref let="p" cid="c18029014.2">
+				</crossref>
+				a turban.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				I was 
+				<crossref let="q" cid="c18029015.1">
+				</crossref>
+				eyes to the blind
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and feet to the lame.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				I was a father to the needy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and I searched out 
+				<crossref let="r" cid="c18029016.1">
+				</crossref>
+				the cause of him whom I did not know.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="s" cid="c18029017.1">
+				</crossref>
+				broke 
+				<crossref let="t" cid="c18029017.2">
+				</crossref>
+				the fangs of the unrighteous
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and made him drop his prey from his teeth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c18029018.1">
+				</crossref>
+				Then I thought, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I shall die in my 
+				<crossref let="v" cid="c18029018.2">
+				</crossref>
+				nest,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and I shall multiply my days as 
+				<crossref let="w" cid="c18029018.3">
+				</crossref>
+				the sand,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				my 
+				<crossref let="x" cid="c18029019.1">
+				</crossref>
+				roots spread out to 
+				<crossref let="y" cid="c18029019.2">
+				</crossref>
+				the waters,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with the dew all night on my 
+				<crossref let="z" cid="c18029019.3">
+				</crossref>
+				branches,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				my glory fresh with me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my 
+				<crossref let="a" cid="c18029020.1">
+				</crossref>
+				bow ever 
+				<crossref let="b" cid="c18029020.2">
+				</crossref>
+				new in my hand.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18029021">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Men listened to me and waited
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and kept silence for my counsel.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				After I spoke they did not speak again,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my word 
+				<crossref let="c" cid="c18029022.1">
+				</crossref>
+				dropped upon them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				They waited for me as for the rain,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and they 
+				<crossref let="d" cid="c18029023.1">
+				</crossref>
+				opened their mouths as for the 
+				<crossref let="e" cid="c18029023.2">
+				</crossref>
+				spring rain.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				I smiled on them when they had no confidence,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="f" cid="c18029024.1">
+				</crossref>
+				the light of my 
+				<crossref let="g" cid="c18029024.2">
+				</crossref>
+				face they did not cast down.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18029025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				I chose their way and sat as chief,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and I lived like 
+				<crossref let="h" cid="c18029025.1">
+				</crossref>
+				a king among his troops,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like one who comforts mourners.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19070001">
+		</marker>
+		<chapter num="70">
+			<heading
+				>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, Do Not Delay
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. Of David, 
+				<crossref let="f" cid="c19070001.1">
+				</crossref>
+				for the memorial offering.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c19070001.2">
+				</crossref>
+				Make haste, O God, to deliver me!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, make haste to help me!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19070002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Let them be put to shame and confusion
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who seek my life!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Let them be turned back and brought to dishonor
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who delight in my hurt!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19070003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Let them turn back because of their shame
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Aha, Aha!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19070004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				May all who seek you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				rejoice and be glad in you!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				May those who love your salvation
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				say evermore, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				God is great!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19070005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				But I am poor and needy;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c19070005.1">
+				</crossref>
+				hasten to me, O God!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				You are my help and my deliverer;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, do not delay!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

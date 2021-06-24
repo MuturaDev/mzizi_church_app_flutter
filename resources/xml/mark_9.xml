@@ -1,0 +1,742 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Mark" num="40">
+		<marker class="begin-verse" mid="v41009001">
+		</marker>
+		<chapter num="9">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And he said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Truly, I say to you, there are some standing here who will not 
+					<crossref let="l" cid="c41009001.1">
+					</crossref>
+					taste death 
+					<crossref let="m" cid="c41009001.2">
+					</crossref>
+					until they see the kingdom of God after it has come 
+					<crossref let="n" cid="c41009001.3">
+					</crossref>
+					with power.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41009002">
+			</marker>
+			<heading
+				>
+				The Transfiguration
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				<crossref let="o" cid="c41009002.1">
+				</crossref>
+				<crossref cid="t41009002.1">
+				</crossref>
+				And after six days Jesus took with him 
+				<crossref let="p" cid="c41009002.2">
+				</crossref>
+				Peter and James and John, and led them up a high mountain by themselves. And he was 
+				<crossref let="q" cid="c41009002.3">
+				</crossref>
+				transfigured before them,
+			</verse>
+			<marker class="begin-verse" mid="v41009003">
+			</marker>
+			<verse num="3">
+				and 
+				<crossref let="r" cid="c41009003.1">
+				</crossref>
+				his clothes became radiant, intensely white, as no one
+				<note nid="n41009003.1">
+				</note>
+				 on earth could bleach them.
+			</verse>
+			<marker class="begin-verse" mid="v41009004">
+			</marker>
+			<verse num="4">
+				And there appeared to them Elijah with Moses, and they were talking with Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v41009005">
+			</marker>
+			<verse num="5">
+				And Peter said to Jesus, 
+				<crossref let="s" cid="c41009005.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Rabbi,
+				<note nid="n41009005.1">
+				</note>
+				 it is good that we are here. Let us make three 
+				<crossref let="t" cid="c41009005.2">
+				</crossref>
+				tents, one for you and one for Moses and one for Elijah.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41009006">
+			</marker>
+			<verse num="6">
+				For 
+				<crossref let="u" cid="c41009006.1">
+				</crossref>
+				he did not know what to say, for they were terrified.
+			</verse>
+			<marker class="begin-verse" mid="v41009007">
+			</marker>
+			<verse num="7">
+				And 
+				<crossref let="v" cid="c41009007.1">
+				</crossref>
+				a cloud overshadowed them, and 
+				<crossref let="v" cid="c41009007.2">
+				</crossref>
+				a voice came out of the cloud, 
+				<crossref let="w" cid="c41009007.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is my beloved Son;
+				<note nid="n41009007.1">
+				</note>
+				<crossref let="x" cid="c41009007.4">
+				</crossref>
+				listen to him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41009008">
+			</marker>
+			<verse num="8">
+				And suddenly, looking around, they no longer saw anyone with them but Jesus only.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41009009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<crossref let="y" cid="c41009009.1">
+				</crossref>
+				<crossref cid="t41009009.1">
+				</crossref>
+				And as they were coming down the mountain, 
+				<crossref let="z" cid="c41009009.2">
+				</crossref>
+				he charged them to tell no one what they had seen, 
+				<crossref let="a" cid="c41009009.3">
+				</crossref>
+				until the Son of Man had risen from the dead.
+			</verse>
+			<marker class="begin-verse" mid="v41009010">
+			</marker>
+			<verse num="10">
+				<crossref let="b" cid="c41009010.1">
+				</crossref>
+				So they kept the matter to themselves, 
+				<crossref let="c" cid="c41009010.2">
+				</crossref>
+				questioning what this rising from the dead might mean.
+			</verse>
+			<marker class="begin-verse" mid="v41009011">
+			</marker>
+			<verse num="11">
+				And they asked him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do the scribes say 
+				<crossref let="d" cid="c41009011.1">
+				</crossref>
+				that first Elijah must come?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41009012">
+			</marker>
+			<verse num="12">
+				And he said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Elijah does come first 
+					<crossref let="e" cid="c41009012.1">
+					</crossref>
+					to restore all things. And 
+					<crossref let="f" cid="c41009012.2">
+					</crossref>
+					how is it written of the Son of Man that he should 
+					<crossref let="g" cid="c41009012.3">
+					</crossref>
+					suffer many things and 
+					<crossref let="h" cid="c41009012.4">
+					</crossref>
+					be treated with contempt?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009013">
+			</marker>
+			<verse num="13" class="woc">
+				<woc
+					>
+					But I tell you that Elijah has come, and 
+					<crossref let="i" cid="c41009013.1">
+					</crossref>
+					they did to him whatever they pleased, as it is written of him.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41009014">
+			</marker>
+			<heading
+				>
+				Jesus Heals a Boy with an Unclean Spirit
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				<crossref let="j" cid="c41009014.1">
+				</crossref>
+				<crossref cid="t41009014.1">
+				</crossref>
+				And when they came to the disciples, they saw a great crowd around them, and scribes arguing with them.
+			</verse>
+			<marker class="begin-verse" mid="v41009015">
+			</marker>
+			<verse num="15">
+				And immediately all the crowd, when they saw him, 
+				<crossref let="k" cid="c41009015.1">
+				</crossref>
+				were greatly amazed and ran up to him and greeted him.
+			</verse>
+			<marker class="begin-verse" mid="v41009016">
+			</marker>
+			<verse num="16">
+				And he asked them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What are you arguing about with them?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009017">
+			</marker>
+			<verse num="17">
+				And someone from the crowd answered him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Teacher, I brought my son to you, for he has 
+				<crossref let="l" cid="c41009017.1">
+				</crossref>
+				a spirit that makes him mute.
+			</verse>
+			<marker class="begin-verse" mid="v41009018">
+			</marker>
+			<verse num="18">
+				And whenever it seizes him, it throws him down, and he foams and grinds his teeth and becomes rigid. So I asked your disciples to cast it out, and 
+				<crossref let="m" cid="c41009018.1">
+				</crossref>
+				they were not able.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41009019">
+			</marker>
+			<verse num="19">
+				And he answered them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					O 
+					<crossref let="n" cid="c41009019.1">
+					</crossref>
+					faithless generation, 
+					<crossref let="n" cid="c41009019.2">
+					</crossref>
+					how long am I to be with you? How long am I to bear with you? Bring him to me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009020">
+			</marker>
+			<verse num="20">
+				And they brought the boy to him. And when the spirit saw him, immediately it 
+				<crossref let="o" cid="c41009020.1">
+				</crossref>
+				convulsed the boy, and he fell on the ground and rolled about, foaming at the mouth.
+			</verse>
+			<marker class="begin-verse" mid="v41009021">
+			</marker>
+			<verse num="21">
+				And Jesus asked his father, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					How long has this been happening to him?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				From childhood.
+			</verse>
+			<marker class="begin-verse" mid="v41009022">
+			</marker>
+			<verse num="22">
+				And it has often cast him into fire and into water, to destroy him. But 
+				<crossref let="p" cid="c41009022.1">
+				</crossref>
+				if you can do anything, have compassion on us and help us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41009023">
+			</marker>
+			<verse num="23">
+				And Jesus said to him, 
+				<woc
+					>
+					<crossref let="p" cid="c41009023.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					If you can
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					! 
+					<crossref let="q" cid="c41009023.2">
+					</crossref>
+					All things are possible for one who believes.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009024">
+			</marker>
+			<verse num="24">
+				Immediately the father of the child cried out
+				<note nid="n41009024.1">
+				</note>
+				 and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I believe; 
+				<crossref let="r" cid="c41009024.1">
+				</crossref>
+				help my unbelief!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41009025">
+			</marker>
+			<verse num="25">
+				And when Jesus saw that 
+				<crossref let="s" cid="c41009025.1">
+				</crossref>
+				a crowd came running together, he rebuked the unclean spirit, saying to it, 
+				<woc
+					>
+					<crossref let="t" cid="c41009025.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You mute and deaf spirit, I command you, come out of him and never enter him again.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009026">
+			</marker>
+			<verse num="26">
+				And after crying out and 
+				<crossref let="o" cid="c41009026.1">
+				</crossref>
+				convulsing him terribly, it came out, and the boy was like a corpse, so that most of them said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He is dead.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41009027">
+			</marker>
+			<verse num="27">
+				But Jesus 
+				<crossref let="u" cid="c41009027.1">
+				</crossref>
+				took him by the hand and lifted him up, and he arose.
+			</verse>
+			<marker class="begin-verse" mid="v41009028">
+			</marker>
+			<verse num="28">
+				And when he had 
+				<crossref let="v" cid="c41009028.1">
+				</crossref>
+				entered the house, his disciples asked him privately, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why could we not cast it out?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41009029">
+			</marker>
+			<verse num="29">
+				And he said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					This kind cannot be driven out by anything but prayer.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+					<note nid="n41009029.1">
+					</note>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41009030">
+			</marker>
+			<heading
+				>
+				Jesus Again Foretells Death, Resurrection
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="30">
+				<crossref let="w" cid="c41009030.1">
+				</crossref>
+				<crossref cid="t41009030.1">
+				</crossref>
+				They went on from there and passed through Galilee. And he did not want anyone to know,
+			</verse>
+			<marker class="begin-verse" mid="v41009031">
+			</marker>
+			<verse num="31">
+				for he was teaching his disciples, saying to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					The Son of Man is going to be delivered into the hands of men, and they will kill him. And when he is killed, 
+					<crossref let="x" cid="c41009031.1">
+					</crossref>
+					after three days he will rise.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009032">
+			</marker>
+			<verse num="32">
+				<crossref let="y" cid="c41009032.1">
+				</crossref>
+				But they did not understand the saying, and were afraid to ask him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41009033">
+			</marker>
+			<heading
+				>
+				Who Is the Greatest?
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="33">
+				And 
+				<crossref let="z" cid="c41009033.1">
+				</crossref>
+				they came to Capernaum. And when he was in the house 
+				<crossref let="a" cid="c41009033.2">
+				</crossref>
+				<crossref cid="t41009033.1">
+				</crossref>
+				he asked them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What were you discussing on the way?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009034">
+			</marker>
+			<verse num="34">
+				But they kept silent, for on the way 
+				<crossref let="b" cid="c41009034.1">
+				</crossref>
+				they had argued with one another about who was the greatest.
+			</verse>
+			<marker class="begin-verse" mid="v41009035">
+			</marker>
+			<verse num="35">
+				And he sat down and called the twelve. And he said to them, 
+				<woc
+					>
+					<crossref let="c" cid="c41009035.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If anyone would be first, he must be last of all and servant of all.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009036">
+			</marker>
+			<verse num="36">
+				And he took a child and put him in the midst of them, and 
+				<crossref let="d" cid="c41009036.1">
+				</crossref>
+				taking him in his arms, he said to them,
+			</verse>
+			<marker class="begin-verse" mid="v41009037">
+			</marker>
+			<verse num="37" class="woc">
+				<woc
+					>
+					<crossref let="e" cid="c41009037.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Whoever receives one such child in my name receives me, and 
+					<crossref let="e" cid="c41009037.2">
+					</crossref>
+					whoever receives me, receives not me but him who sent me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41009038">
+			</marker>
+			<heading
+				>
+				Anyone Not Against Us Is for Us
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="38">
+				<crossref let="f" cid="c41009038.1">
+				</crossref>
+				<crossref cid="t41009038.1">
+				</crossref>
+				John said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Teacher, we saw someone 
+				<crossref let="g" cid="c41009038.2">
+				</crossref>
+				casting out demons in your name,
+				<note nid="n41009038.1">
+				</note>
+				 and 
+				<crossref let="h" cid="c41009038.3">
+				</crossref>
+				we tried to stop him, because he was not following us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41009039">
+			</marker>
+			<verse num="39">
+				But Jesus said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Do not stop him, for no one who does a mighty work in my name will be able soon afterward to speak evil of me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009040">
+			</marker>
+			<verse num="40" class="woc">
+				<woc
+					>
+					<crossref let="i" cid="c41009040.1">
+					</crossref>
+					For the one who is not against us is for us.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009041">
+			</marker>
+			<verse num="41" class="woc">
+				<woc
+					>
+					For truly, I say to you, 
+					<crossref let="j" cid="c41009041.1">
+					</crossref>
+					whoever gives you a cup of water to drink because you belong to Christ will by no means lose his reward.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41009042">
+			</marker>
+			<heading
+				>
+				Temptations to Sin
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="42" class="woc">
+				<woc
+					>
+					<crossref let="k" cid="c41009042.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Whoever causes one of 
+					<crossref let="l" cid="c41009042.2">
+					</crossref>
+					these little ones who believe in me to sin,
+					<note nid="n41009042.1">
+					</note>
+					<crossref let="m" cid="c41009042.3">
+					</crossref>
+					it would be better for him if a great millstone were hung around his neck and he were thrown into the sea.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009043">
+			</marker>
+			<verse num="43" class="woc">
+				<woc
+					>
+					<crossref let="n" cid="c41009043.1">
+					</crossref>
+					And if your hand causes you to sin, cut it off. It is better for you to enter life crippled than with two hands to go to 
+					<crossref let="o" cid="c41009043.2">
+					</crossref>
+					hell,
+					<note nid="n41009043.1">
+					</note>
+					 to 
+					<crossref let="p" cid="c41009043.3">
+					</crossref>
+					the unquenchable fire.
+					<note nid="n41009043.2">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009045">
+			</marker>
+			<verse num="45" class="woc">
+				<woc
+					>
+					<crossref let="q" cid="c41009045.1">
+					</crossref>
+					And if your foot causes you to sin, cut it off. It is better for you to enter life lame than with two feet to be thrown into 
+					<crossref let="o" cid="c41009045.2">
+					</crossref>
+					hell.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009047">
+			</marker>
+			<verse num="47" class="woc">
+				<woc
+					>
+					<crossref let="r" cid="c41009047.1">
+					</crossref>
+					And if your eye causes you to sin, tear it out. It is better for you to enter the kingdom of God with one eye than with two eyes to be thrown into 
+					<crossref let="s" cid="c41009047.2">
+					</crossref>
+					hell,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009048">
+			</marker>
+			<verse num="48" class="woc">
+				<woc
+					>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					where 
+					<crossref let="t" cid="c41009048.1">
+					</crossref>
+					their worm does not die and the fire is not quenched.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009049">
+			</marker>
+			<verse num="49" class="woc">
+				<woc
+					>
+					For everyone will be salted with fire.
+					<note nid="n41009049.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41009050">
+			</marker>
+			<verse num="50" class="woc">
+				<woc
+					>
+					<crossref let="v" cid="c41009050.1">
+					</crossref>
+					Salt is good, 
+					<crossref let="w" cid="c41009050.2">
+					</crossref>
+					but if the salt has lost its saltiness, how will you make it salty again? 
+					<crossref let="x" cid="c41009050.3">
+					</crossref>
+					Have salt in yourselves, and 
+					<crossref let="y" cid="c41009050.4">
+					</crossref>
+					be at peace with one another.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

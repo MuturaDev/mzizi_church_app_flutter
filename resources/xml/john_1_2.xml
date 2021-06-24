@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 John" num="61">
+		<marker class="begin-verse" mid="v62002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				Christ Our Advocate
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				My little children, I am writing these things to you so that you may not sin. But if anyone does sin, 
+				<crossref let="y" cid="c62002001.1">
+				</crossref>
+				we have an advocate with the Father, Jesus Christ the righteous.
+			</verse>
+			<marker class="begin-verse" mid="v62002002">
+			</marker>
+			<verse num="2">
+				<crossref let="z" cid="c62002002.1">
+				</crossref>
+				He is the propitiation for our sins, and not for ours only but 
+				<crossref let="a" cid="c62002002.2">
+				</crossref>
+				also for the sins of the whole world.
+			</verse>
+			<marker class="begin-verse" mid="v62002003">
+			</marker>
+			<verse num="3">
+				And by this we know that we have come to know him, if we 
+				<crossref let="b" cid="c62002003.1">
+				</crossref>
+				keep his commandments.
+			</verse>
+			<marker class="begin-verse" mid="v62002004">
+			</marker>
+			<verse num="4">
+				Whoever says 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I know him
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 but does not keep his commandments 
+				<crossref let="c" cid="c62002004.1">
+				</crossref>
+				is a liar, and 
+				<crossref let="c" cid="c62002004.2">
+				</crossref>
+				the truth is not in him,
+			</verse>
+			<marker class="begin-verse" mid="v62002005">
+			</marker>
+			<verse num="5">
+				but whoever 
+				<crossref let="d" cid="c62002005.1">
+				</crossref>
+				keeps his word, in him truly 
+				<crossref let="e" cid="c62002005.2">
+				</crossref>
+				the love of God is perfected. 
+				<crossref let="f" cid="c62002005.3">
+				</crossref>
+				By this we may know that we are in him:
+			</verse>
+			<marker class="begin-verse" mid="v62002006">
+			</marker>
+			<verse num="6">
+				whoever says he 
+				<crossref let="g" cid="c62002006.1">
+				</crossref>
+				abides in him 
+				<crossref let="h" cid="c62002006.2">
+				</crossref>
+				ought to walk in the same way in which he walked.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v62002007">
+			</marker>
+			<heading
+				>
+				The New Commandment
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				Beloved, I am writing you 
+				<crossref let="i" cid="c62002007.1">
+				</crossref>
+				no new commandment, but 
+				<crossref let="j" cid="c62002007.2">
+				</crossref>
+				an old commandment 
+				<crossref let="k" cid="c62002007.3">
+				</crossref>
+				that you had from the beginning. The old commandment is the word that you have heard.
+			</verse>
+			<marker class="begin-verse" mid="v62002008">
+			</marker>
+			<verse num="8">
+				At the same time, it is 
+				<crossref let="l" cid="c62002008.1">
+				</crossref>
+				a new commandment that I am writing to you, which is true in him and in you, because
+				<note nid="n62002008.1">
+				</note>
+				<crossref let="m" cid="c62002008.2">
+				</crossref>
+				the darkness is passing away and 
+				<crossref let="n" cid="c62002008.3">
+				</crossref>
+				the true light is already shining.
+			</verse>
+			<marker class="begin-verse" mid="v62002009">
+			</marker>
+			<verse num="9">
+				Whoever says he is in the light and 
+				<crossref let="o" cid="c62002009.1">
+				</crossref>
+				hates his brother is still in darkness.
+			</verse>
+			<marker class="begin-verse" mid="v62002010">
+			</marker>
+			<verse num="10">
+				Whoever loves his brother abides in the light, and in him
+				<note nid="n62002010.1">
+				</note>
+				 there is no 
+				<crossref let="p" cid="c62002010.1">
+				</crossref>
+				cause for stumbling.
+			</verse>
+			<marker class="begin-verse" mid="v62002011">
+			</marker>
+			<verse num="11">
+				But whoever hates his brother is in the darkness and 
+				<crossref let="q" cid="c62002011.1">
+				</crossref>
+				walks in the darkness, and does not know where he is going, because the darkness has blinded his eyes.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v62002012">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				I am writing to you, little children,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because 
+				<crossref let="r" cid="c62002012.1">
+				</crossref>
+				your sins are forgiven for his name's sake.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v62002013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				I am writing to you, fathers,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because you know 
+				<crossref let="s" cid="c62002013.1">
+				</crossref>
+				him who is from the beginning.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I am writing to you, young men,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because 
+				<crossref let="t" cid="c62002013.2">
+				</crossref>
+				you have overcome the evil one.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I write to you, children,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because 
+				<crossref let="u" cid="c62002013.3">
+				</crossref>
+				you know the Father.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v62002014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				I write to you, fathers,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because you know 
+				<crossref let="s" cid="c62002014.1">
+				</crossref>
+				him who is from the beginning.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I write to you, young men,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because 
+				<crossref let="t" cid="c62002014.2">
+				</crossref>
+				you are strong,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the word of God abides in you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you have overcome the evil one.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v62002015">
+			</marker>
+			<heading
+				>
+				Do Not Love the World
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				<crossref let="v" cid="c62002015.1">
+				</crossref>
+				Do not love the world or the things in the world. 
+				<crossref let="w" cid="c62002015.2">
+				</crossref>
+				If anyone loves the world, the love of the Father is not in him.
+			</verse>
+			<marker class="begin-verse" mid="v62002016">
+			</marker>
+			<verse num="16">
+				For all that is in the worldù
+				<crossref let="x" cid="c62002016.1">
+				</crossref>
+				the desires of the flesh and 
+				<crossref let="y" cid="c62002016.2">
+				</crossref>
+				the desires of the eyes and pride in possessionsùis not from the Father but is from the world.
+			</verse>
+			<marker class="begin-verse" mid="v62002017">
+			</marker>
+			<verse num="17">
+				And 
+				<crossref let="z" cid="c62002017.1">
+				</crossref>
+				the world is passing away along with its desires, but whoever does the will of God abides forever.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v62002018">
+			</marker>
+			<heading
+				>
+				Warning Concerning Antichrists
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				Children, 
+				<crossref let="a" cid="c62002018.1">
+				</crossref>
+				it is the last hour, and as you have heard that 
+				<crossref let="b" cid="c62002018.2">
+				</crossref>
+				antichrist is coming, so now 
+				<crossref let="c" cid="c62002018.3">
+				</crossref>
+				many antichrists have come. 
+				<crossref let="d" cid="c62002018.4">
+				</crossref>
+				Therefore we know that it is the last hour.
+			</verse>
+			<marker class="begin-verse" mid="v62002019">
+			</marker>
+			<verse num="19">
+				<crossref let="e" cid="c62002019.1">
+				</crossref>
+				They went out from us, but they were not of us; for 
+				<crossref let="f" cid="c62002019.2">
+				</crossref>
+				if they had been of us, they would have continued with us. But they went out, 
+				<crossref let="g" cid="c62002019.3">
+				</crossref>
+				that it might become plain that they all are not of us.
+			</verse>
+			<marker class="begin-verse" mid="v62002020">
+			</marker>
+			<verse num="20">
+				But you have been 
+				<crossref let="h" cid="c62002020.1">
+				</crossref>
+				anointed by 
+				<crossref let="i" cid="c62002020.2">
+				</crossref>
+				the Holy One, and 
+				<crossref let="j" cid="c62002020.3">
+				</crossref>
+				you all have knowledge.
+				<note nid="n62002020.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v62002021">
+			</marker>
+			<verse num="21">
+				I write to you, not because you do not know the truth, but because you know it, and because no lie is of the truth.
+			</verse>
+			<marker class="begin-verse" mid="v62002022">
+			</marker>
+			<verse num="22">
+				Who is the liar but 
+				<crossref let="k" cid="c62002022.1">
+				</crossref>
+				he who denies that Jesus is the Christ? This is 
+				<crossref let="b" cid="c62002022.2">
+				</crossref>
+				the antichrist, he who denies the Father and the Son.
+			</verse>
+			<marker class="begin-verse" mid="v62002023">
+			</marker>
+			<verse num="23">
+				<crossref let="l" cid="c62002023.1">
+				</crossref>
+				No one who denies the Son has the Father. Whoever confesses the Son has the Father also.
+			</verse>
+			<marker class="begin-verse" mid="v62002024">
+			</marker>
+			<verse num="24">
+				Let 
+				<crossref let="m" cid="c62002024.1">
+				</crossref>
+				what you heard from the beginning abide in you. If what you heard from the beginning abides in you, then 
+				<crossref let="n" cid="c62002024.2">
+				</crossref>
+				you too will abide in the Son and in the Father.
+			</verse>
+			<marker class="begin-verse" mid="v62002025">
+			</marker>
+			<verse num="25">
+				And this is the promise that he made to us
+				<note nid="n62002025.1">
+				</note>
+				ù
+				<crossref let="o" cid="c62002025.1">
+				</crossref>
+				eternal life.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v62002026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				I write these things to you about 
+				<crossref let="p" cid="c62002026.1">
+				</crossref>
+				those who are trying to deceive you.
+			</verse>
+			<marker class="begin-verse" mid="v62002027">
+			</marker>
+			<verse num="27">
+				But 
+				<crossref let="q" cid="c62002027.1">
+				</crossref>
+				the anointing that you received from him abides in you, and 
+				<crossref let="r" cid="c62002027.2">
+				</crossref>
+				you have no need that anyone should teach you. But as his anointing teaches you about everything, and 
+				<crossref let="s" cid="c62002027.3">
+				</crossref>
+				is true, and is no lieùjust as it has taught you, abide in him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v62002028">
+			</marker>
+			<heading
+				>
+				Children of God
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				And now, little children, abide in him, so that 
+				<crossref let="t" cid="c62002028.1">
+				</crossref>
+				when he appears 
+				<crossref let="u" cid="c62002028.2">
+				</crossref>
+				we may have confidence and not shrink from him in shame at his 
+				<crossref let="v" cid="c62002028.3">
+				</crossref>
+				coming.
+			</verse>
+			<marker class="begin-verse" mid="v62002029">
+			</marker>
+			<verse num="29">
+				If you know that 
+				<crossref let="w" cid="c62002029.1">
+				</crossref>
+				he is righteous, you may be sure that 
+				<crossref let="x" cid="c62002029.2">
+				</crossref>
+				everyone who practices righteousness has been born of him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

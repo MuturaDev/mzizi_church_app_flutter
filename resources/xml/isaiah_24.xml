@@ -1,0 +1,691 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23024001">
+		</marker>
+		<chapter num="24">
+			<heading
+				>
+				Judgment on the Whole Earth
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Behold, 
+				<crossref let="c" cid="c23024001.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will empty the earth
+				<note nid="n23024001.1">
+				</note>
+				 and make it desolate,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he will twist its surface and scatter its inhabitants.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c23024002.1">
+				</crossref>
+				And it shall be, as with the people, so with the priest;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as with the slave, so with his master;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as with the maid, so with her mistress;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c23024002.2">
+				</crossref>
+				as with the buyer, so with the seller;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as with the lender, so with the borrower;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c23024002.3">
+				</crossref>
+				as with the creditor, so with the debtor.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c23024003.1">
+				</crossref>
+				The earth shall be utterly empty and utterly plundered;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c23024003.2">
+				</crossref>
+				for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has spoken this word.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23024004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c23024004.1">
+				</crossref>
+				The earth mourns and withers;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the world languishes and withers;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the highest people of the earth languish.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				The earth lies 
+				<crossref let="j" cid="c23024005.1">
+				</crossref>
+				defiled
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				under its inhabitants;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for 
+				<crossref let="k" cid="c23024005.2">
+				</crossref>
+				they have transgressed the laws,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				violated the statutes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				broken the everlasting covenant.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Therefore 
+				<crossref let="l" cid="c23024006.1">
+				</crossref>
+				a curse devours the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and its inhabitants 
+				<crossref let="m" cid="c23024006.2">
+				</crossref>
+				suffer for their guilt;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				therefore the inhabitants of the earth are scorched,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and few men are left.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c23024007.1">
+				</crossref>
+				The wine mourns,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the vine languishes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all the merry-hearted sigh.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c23024008.1">
+				</crossref>
+				The mirth of the tambourines is stilled,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the noise of the jubilant has ceased,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the mirth of the lyre is stilled.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				No more do they drink wine 
+				<crossref let="p" cid="c23024009.1">
+				</crossref>
+				with singing;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				strong drink is bitter to those who drink it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c23024010.1">
+				</crossref>
+				The wasted city is broken down;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c23024010.2">
+				</crossref>
+				every house is shut up so that none can enter.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c23024011.1">
+				</crossref>
+				There is an outcry in the streets for lack of wine;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c23024011.2">
+				</crossref>
+				all joy has grown dark;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the gladness of the earth is banished.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Desolation is left in the city;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the gates are battered into ruins.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				For thus it shall be in the midst of the earth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				among the nations,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c23024013.1">
+				</crossref>
+				as when an olive tree is beaten,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as at the gleaning when the grape harvest is done.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23024014">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				They lift up their voices, they sing for joy;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				over the majesty of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 they shout from the west.
+				<note nid="n23024014.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c23024015.1">
+				</crossref>
+				Therefore in the east
+				<note nid="n23024015.1">
+				</note>
+				 give glory to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the coastlands of the sea, give glory to the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c23024016.1">
+				</crossref>
+				From the ends of the earth we hear songs of praise,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				of glory to 
+				<crossref let="x" cid="c23024016.2">
+				</crossref>
+				the Righteous One.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				But I say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I waste away,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I waste away. Woe is me!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="y" cid="c23024016.3">
+				</crossref>
+				the traitors have betrayed,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with betrayal the traitors have betrayed.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23024017">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c23024017.1">
+				</crossref>
+				Terror and the pit and the snare
+				<note nid="n23024017.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				are upon you, O inhabitant of the earth!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c23024018.1">
+				</crossref>
+				He who flees at the sound of the terror
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall fall into the pit,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and he who climbs out of the pit
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall be caught in the snare.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="a" cid="c23024018.2">
+				</crossref>
+				the windows of heaven are opened,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="b" cid="c23024018.3">
+				</crossref>
+				the foundations of the earth tremble.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				The earth is utterly broken,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the earth is split apart,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the earth is violently shaken.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				The earth 
+				<crossref let="c" cid="c23024020.1">
+				</crossref>
+				staggers like a drunken man;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it sways like a hut;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c23024020.2">
+				</crossref>
+				its transgression lies heavy upon it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and it falls, and will not rise again.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23024021">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				On that day the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will punish
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the host of heaven, in heaven,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="e" cid="c23024021.1">
+				</crossref>
+				the kings of the earth, on the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c23024022.1">
+				</crossref>
+				They will be gathered together
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as prisoners in a pit;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				they will be shut up in a prison,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and after many days 
+				<crossref let="g" cid="c23024022.2">
+				</crossref>
+				they will be punished.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23024023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c23024023.1">
+				</crossref>
+				Then the moon will be confounded
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the sun ashamed,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for 
+				<crossref let="i" cid="c23024023.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts reigns
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on Mount Zion and in Jerusalem,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and his glory will be before his elders.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

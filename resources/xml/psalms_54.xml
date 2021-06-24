@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19054001">
+		</marker>
+		<chapter num="54">
+			<heading
+				>
+				The Lord Upholds My Life
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: with 
+				<crossref let="t" cid="c19054001.1">
+				</crossref>
+				stringed instruments. A Maskil
+				<note nid="n19054001.1">
+				</note>
+				 of David, 
+				<crossref let="u" cid="c19054001.2">
+				</crossref>
+				when the Ziphites went and told Saul, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is not David hiding among us?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				O God, save me by your 
+				<crossref let="v" cid="c19054001.3">
+				</crossref>
+				name,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and vindicate me by your might.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19054002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				O God, 
+				<crossref let="w" cid="c19054002.1">
+				</crossref>
+				hear my prayer;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				give ear to the words of my mouth.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19054003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19054003.1">
+				</crossref>
+				For 
+				<crossref let="y" cid="c19054003.2">
+				</crossref>
+				strangers
+				<note nid="n19054003.1">
+				</note>
+				 have risen against me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				ruthless men 
+				<crossref let="z" cid="c19054003.3">
+				</crossref>
+				seek my life;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they do not set God before themselves. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19054004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Behold, 
+				<crossref let="a" cid="c19054004.1">
+				</crossref>
+				God is my helper;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the Lord is the upholder of my life.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19054005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				He will return the evil to my enemies;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in your 
+				<crossref let="b" cid="c19054005.1">
+				</crossref>
+				faithfulness 
+				<crossref let="c" cid="c19054005.2">
+				</crossref>
+				put an end to them.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19054006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				With a freewill offering I will sacrifice to you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will give thanks to your name, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="d" cid="c19054006.1">
+				</crossref>
+				for it is good.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19054007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				For he has delivered me from every trouble,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my eye has 
+				<crossref let="e" cid="c19054007.1">
+				</crossref>
+				looked in triumph on my enemies.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

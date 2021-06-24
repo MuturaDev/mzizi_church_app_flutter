@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02007001">
+		</marker>
+		<chapter num="7">
+			<heading
+				>
+				Moses and Aaron Before Pharaoh
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See, I have made you like 
+				<crossref let="o" cid="c02007001.1">
+				</crossref>
+				God to Pharaoh, and your brother Aaron shall be your 
+				<crossref let="p" cid="c02007001.2">
+				</crossref>
+				prophet.
+			</verse>
+			<marker class="begin-verse" mid="v02007002">
+			</marker>
+			<verse num="2">
+				<crossref let="q" cid="c02007002.1">
+				</crossref>
+				You shall speak all that I command you, and your brother Aaron shall tell Pharaoh to let the people of Israel go out of his land.
+			</verse>
+			<marker class="begin-verse" mid="v02007003">
+			</marker>
+			<verse num="3">
+				But 
+				<crossref let="r" cid="c02007003.1">
+				</crossref>
+				I will harden Pharaoh's heart, and though I 
+				<crossref let="s" cid="c02007003.2">
+				</crossref>
+				multiply my signs and wonders in the land of Egypt,
+			</verse>
+			<marker class="begin-verse" mid="v02007004">
+			</marker>
+			<verse num="4">
+				Pharaoh will not listen to you. Then I will lay my hand on Egypt and bring my hosts, my people the children of Israel, out of the land of Egypt by great acts of judgment.
+			</verse>
+			<marker class="begin-verse" mid="v02007005">
+			</marker>
+			<verse num="5">
+				The Egyptians 
+				<crossref let="t" cid="c02007005.1">
+				</crossref>
+				shall know that I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, when I stretch out my hand against Egypt and bring out the people of Israel from among them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02007006">
+			</marker>
+			<verse num="6">
+				Moses and Aaron did so; they did just as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded them.
+			</verse>
+			<marker class="begin-verse" mid="v02007007">
+			</marker>
+			<verse num="7">
+				Now Moses was 
+				<crossref let="u" cid="c02007007.1">
+				</crossref>
+				eighty years old, and Aaron eighty-three years old, when they spoke to Pharaoh.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02007008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses and Aaron,
+			</verse>
+			<marker class="begin-verse" mid="v02007009">
+			</marker>
+			<verse num="9">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				When Pharaoh says to you, 
+				<crossref let="v" cid="c02007009.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Prove yourselves by working a miracle,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 then you shall say to Aaron, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Take your staff and cast it down before Pharaoh, that it may become a serpent.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02007010">
+			</marker>
+			<verse num="10">
+				So Moses and Aaron went to Pharaoh and did just as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded. Aaron cast down his staff before Pharaoh and his servants, and it became a serpent.
+			</verse>
+			<marker class="begin-verse" mid="v02007011">
+			</marker>
+			<verse num="11">
+				Then Pharaoh summoned the wise men and the sorcerers, and they, the 
+				<crossref let="w" cid="c02007011.1">
+				</crossref>
+				magicians of Egypt, also 
+				<crossref let="x" cid="c02007011.2">
+				</crossref>
+				did the same by their secret arts.
+			</verse>
+			<marker class="begin-verse" mid="v02007012">
+			</marker>
+			<verse num="12">
+				For each man cast down his staff, and they became serpents. But Aaron's staff swallowed up their staffs.
+			</verse>
+			<marker class="begin-verse" mid="v02007013">
+			</marker>
+			<verse num="13">
+				Still 
+				<crossref let="r" cid="c02007013.1">
+				</crossref>
+				Pharaoh's heart was hardened, and he would not listen to them, 
+				<crossref let="r" cid="c02007013.2">
+				</crossref>
+				as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had said.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02007014">
+			</marker>
+			<heading
+				>
+				The First Plague: Water Turned to Blood
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Pharaoh's heart is hardened; he refuses to let the people go.
+			</verse>
+			<marker class="begin-verse" mid="v02007015">
+			</marker>
+			<verse num="15">
+				<crossref let="y" cid="c02007015.1">
+				</crossref>
+				Go to Pharaoh in the morning, as he is going out to the water. Stand on the bank of the Nile to meet him, and take in your hand 
+				<crossref let="z" cid="c02007015.2">
+				</crossref>
+				the staff that turned into a 
+				<crossref let="a" cid="c02007015.3">
+				</crossref>
+				serpent.
+			</verse>
+			<marker class="begin-verse" mid="v02007016">
+			</marker>
+			<verse num="16">
+				And you shall say to him, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The 
+				<crossref let="b" cid="c02007016.1">
+				</crossref>
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of the Hebrews, sent me to you, saying, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				Let my people go, 
+				<crossref let="c" cid="c02007016.2">
+				</crossref>
+				that they may serve me in the wilderness. But so far, you have not obeyed.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02007017">
+			</marker>
+			<verse num="17">
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				By this 
+				<crossref let="d" cid="c02007017.1">
+				</crossref>
+				you shall know that I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				: behold, with the staff that is in my hand I will strike the water that is in the Nile, and 
+				<crossref let="e" cid="c02007017.2">
+				</crossref>
+				it shall turn into blood.
+			</verse>
+			<marker class="begin-verse" mid="v02007018">
+			</marker>
+			<verse num="18">
+				The fish in the Nile shall die, and the Nile will stink, and the Egyptians will 
+				<crossref let="f" cid="c02007018.1">
+				</crossref>
+				grow weary of drinking water from the Nile.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02007019">
+			</marker>
+			<verse num="19">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say to Aaron, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Take your staff and 
+				<crossref let="g" cid="c02007019.1">
+				</crossref>
+				stretch out your hand over the waters of Egypt, over their rivers, their canals, and their ponds, and all their pools of water, so that they may become blood, and there shall be blood throughout all the land of Egypt, even in vessels of wood and in vessels of stone.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02007020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				Moses and Aaron did as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded. In the sight of Pharaoh and in the sight of his servants he 
+				<crossref let="h" cid="c02007020.1">
+				</crossref>
+				lifted up the staff and struck the water in the Nile, and all the 
+				<crossref let="i" cid="c02007020.2">
+				</crossref>
+				water in the Nile turned into blood.
+			</verse>
+			<marker class="begin-verse" mid="v02007021">
+			</marker>
+			<verse num="21">
+				And the fish in the Nile died, and the Nile stank, so that the Egyptians 
+				<crossref let="j" cid="c02007021.1">
+				</crossref>
+				could not drink water from the Nile. There was blood throughout all the land of Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v02007022">
+			</marker>
+			<verse num="22">
+				But 
+				<crossref let="k" cid="c02007022.1">
+				</crossref>
+				the magicians of Egypt did the same by their secret arts. So 
+				<crossref let="l" cid="c02007022.2">
+				</crossref>
+				Pharaoh's heart remained hardened, and he would not listen to them, as 
+				<crossref let="m" cid="c02007022.3">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had said.
+			</verse>
+			<marker class="begin-verse" mid="v02007023">
+			</marker>
+			<verse num="23">
+				Pharaoh turned and went into his house, and he did not take even this to heart.
+			</verse>
+			<marker class="begin-verse" mid="v02007024">
+			</marker>
+			<verse num="24">
+				And all the Egyptians dug along the Nile for water to drink, for they could not drink the water of the Nile.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02007025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				Seven full days passed after the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had struck the Nile.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

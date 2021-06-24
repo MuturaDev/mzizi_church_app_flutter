@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19028001">
+		</marker>
+		<chapter num="28">
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Is My Strength and My Shield
+			</heading>
+			<subheading class="psalm-title">
+				Of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				To you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, I call;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c19028001.1">
+				</crossref>
+				my rock, be not deaf to me,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				lest, if you 
+				<crossref let="k" cid="c19028001.2">
+				</crossref>
+				be silent to me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I become like those who 
+				<crossref let="l" cid="c19028001.3">
+				</crossref>
+				go down to the pit.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19028002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c19028002.1">
+				</crossref>
+				Hear the voice of my pleas for mercy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when I cry to you for help,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				when I 
+				<crossref let="n" cid="c19028002.2">
+				</crossref>
+				lift up my hands
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19028002.3">
+				</crossref>
+				toward your most holy sanctuary.
+				<note nid="n19028002.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19028003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Do not 
+				<crossref let="p" cid="c19028003.1">
+				</crossref>
+				drag me off with the wicked,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with the workers of evil,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c19028003.2">
+				</crossref>
+				who speak peace with their neighbors
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				while evil is in their hearts.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19028004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19028004.1">
+				</crossref>
+				Give to them according to their work
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and according to the evil of their deeds;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				give to them according to the work of their hands;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c19028004.2">
+				</crossref>
+				render them their due reward.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19028005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Because they 
+				<crossref let="t" cid="c19028005.1">
+				</crossref>
+				do not regard the works of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or the work of his hands,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				he will tear them down and build them up no more.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19028006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Blessed be the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				For he has 
+				<crossref let="u" cid="c19028006.1">
+				</crossref>
+				heard the voice of my pleas for mercy.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19028007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is my strength and 
+				<crossref let="v" cid="c19028007.1">
+				</crossref>
+				my shield;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in him my heart 
+				<crossref let="w" cid="c19028007.2">
+				</crossref>
+				trusts, and I am helped;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				my heart exults,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and with my 
+				<crossref let="x" cid="c19028007.3">
+				</crossref>
+				song I give thanks to him.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19028008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is the strength of his people;
+				<note nid="n19028008.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he is 
+				<crossref let="y" cid="c19028008.1">
+				</crossref>
+				the saving refuge of his anointed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19028009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Oh, save your people and bless 
+				<crossref let="z" cid="c19028009.1">
+				</crossref>
+				your heritage!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c19028009.2">
+				</crossref>
+				Be their shepherd and 
+				<crossref let="b" cid="c19028009.3">
+				</crossref>
+				carry them forever.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

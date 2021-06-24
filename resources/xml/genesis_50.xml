@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01050001">
+		</marker>
+		<chapter num="50">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then Joseph 
+				<crossref let="v" cid="c01050001.1">
+				</crossref>
+				fell on his father's face and wept over him and kissed him.
+			</verse>
+			<marker class="begin-verse" mid="v01050002">
+			</marker>
+			<verse num="2">
+				And Joseph commanded his servants the physicians to 
+				<crossref let="w" cid="c01050002.1">
+				</crossref>
+				embalm his father. So the physicians embalmed Israel.
+			</verse>
+			<marker class="begin-verse" mid="v01050003">
+			</marker>
+			<verse num="3">
+				Forty days were required for it, for that is how many are required for embalming. And the Egyptians 
+				<crossref let="x" cid="c01050003.1">
+				</crossref>
+				wept for him seventy days.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01050004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				And when the days of weeping for him were past, Joseph spoke to the household of Pharaoh, saying, 
+				<crossref let="y" cid="c01050004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If now I have found favor in your eyes, please speak in the ears of Pharaoh, saying,
+			</verse>
+			<marker class="begin-verse" mid="v01050005">
+			</marker>
+			<verse num="5">
+				My father made me swear, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I am about to die: in my tomb 
+				<crossref let="z" cid="c01050005.1">
+				</crossref>
+				that I hewed out for myself in the land of Canaan, there shall you bury me.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 Now therefore, let me please go up and bury my father. Then I will return.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01050006">
+			</marker>
+			<verse num="6">
+				And Pharaoh answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go up, and bury your father, as he made you swear.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01050007">
+			</marker>
+			<verse num="7">
+				So Joseph went up to bury his father. With him went up all the servants of Pharaoh, the elders of his household, and all the elders of the land of Egypt,
+			</verse>
+			<marker class="begin-verse" mid="v01050008">
+			</marker>
+			<verse num="8">
+				as well as all the household of Joseph, his brothers, and his father's household. Only their children, their flocks, and their herds were left 
+				<crossref let="a" cid="c01050008.1">
+				</crossref>
+				in the land of Goshen.
+			</verse>
+			<marker class="begin-verse" mid="v01050009">
+			</marker>
+			<verse num="9">
+				And there went up with him both chariots and horsemen. It was a very great company.
+			</verse>
+			<marker class="begin-verse" mid="v01050010">
+			</marker>
+			<verse num="10">
+				When they came to the threshing floor of Atad, which is beyond the Jordan, 
+				<crossref let="b" cid="c01050010.1">
+				</crossref>
+				they lamented there with a very great and grievous lamentation, and he 
+				<crossref let="c" cid="c01050010.2">
+				</crossref>
+				made a mourning for his father seven days.
+			</verse>
+			<marker class="begin-verse" mid="v01050011">
+			</marker>
+			<verse num="11">
+				When the inhabitants of the land, the Canaanites, saw the mourning on the threshing floor of Atad, they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is a grievous mourning by the Egyptians.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Therefore the place was named Abel-mizraim;
+				<note nid="n01050011.1">
+				</note>
+				 it is beyond the Jordan.
+			</verse>
+			<marker class="begin-verse" mid="v01050012">
+			</marker>
+			<verse num="12">
+				Thus his sons did for him as he had commanded them,
+			</verse>
+			<marker class="begin-verse" mid="v01050013">
+			</marker>
+			<verse num="13">
+				for 
+				<crossref let="d" cid="c01050013.1">
+				</crossref>
+				his sons carried him to the land of Canaan and buried him in the cave of the field at Machpelah, to the east of Mamre, which Abraham 
+				<crossref let="e" cid="c01050013.2">
+				</crossref>
+				bought with the field from Ephron the Hittite to possess as a burying place.
+			</verse>
+			<marker class="begin-verse" mid="v01050014">
+			</marker>
+			<verse num="14">
+				After he had buried his father, Joseph returned to Egypt with his brothers and all who had gone up with him to bury his father.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01050015">
+			</marker>
+			<heading
+				>
+				God's Good Purposes
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				When Joseph's brothers saw that their father was dead, they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It may be that Joseph will hate us and pay us back for all the evil that we did to him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01050016">
+			</marker>
+			<verse num="16">
+				So they sent a message to Joseph, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your father gave this command before he died,
+			</verse>
+			<marker class="begin-verse" mid="v01050017">
+			</marker>
+			<verse num="17">
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Say to Joseph, Please forgive the transgression of your brothers and their sin, because they did evil to you.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 And now, please forgive the transgression of the servants of 
+				<crossref let="f" cid="c01050017.1">
+				</crossref>
+				the God of your father.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Joseph wept when they spoke to him.
+			</verse>
+			<marker class="begin-verse" mid="v01050018">
+			</marker>
+			<verse num="18">
+				His brothers also came and 
+				<crossref let="g" cid="c01050018.1">
+				</crossref>
+				fell down before him and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, we are your servants.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01050019">
+			</marker>
+			<verse num="19">
+				But Joseph said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not fear, for 
+				<crossref let="h" cid="c01050019.1">
+				</crossref>
+				am I in the place of God?
+			</verse>
+			<marker class="begin-verse" mid="v01050020">
+			</marker>
+			<verse num="20">
+				As for you, you meant evil against me, but 
+				<crossref let="i" cid="c01050020.1">
+				</crossref>
+				God meant it for good, to bring it about that many people
+				<note nid="n01050020.1">
+				</note>
+				 should be kept alive, as they are today.
+			</verse>
+			<marker class="begin-verse" mid="v01050021">
+			</marker>
+			<verse num="21">
+				So do not fear; 
+				<crossref let="j" cid="c01050021.1">
+				</crossref>
+				I will provide for you and your little ones.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Thus he comforted them and spoke kindly to them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01050022">
+			</marker>
+			<heading
+				>
+				The Death of Joseph
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				So Joseph remained in Egypt, he and his father's house. Joseph lived 110 years.
+			</verse>
+			<marker class="begin-verse" mid="v01050023">
+			</marker>
+			<verse num="23">
+				And Joseph saw Ephraim's children 
+				<crossref let="k" cid="c01050023.1">
+				</crossref>
+				of the third generation. The 
+				<crossref let="l" cid="c01050023.2">
+				</crossref>
+				children also of Machir the son of Manasseh were 
+				<crossref let="m" cid="c01050023.3">
+				</crossref>
+				counted as Joseph's own.
+				<note nid="n01050023.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01050024">
+			</marker>
+			<verse num="24">
+				And Joseph said to his brothers, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am about to die, but 
+				<crossref let="n" cid="c01050024.1">
+				</crossref>
+				God will visit you and bring you up out of this land to the land 
+				<crossref let="o" cid="c01050024.2">
+				</crossref>
+				that he swore to Abraham, to Isaac, and to Jacob.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01050025">
+			</marker>
+			<verse num="25">
+				Then 
+				<crossref let="p" cid="c01050025.1">
+				</crossref>
+				Joseph made the sons of Israel swear, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				God will surely visit you, and you shall carry up my bones from here.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01050026">
+			</marker>
+			<verse num="26">
+				So Joseph died, being 110 years old. They 
+				<crossref let="q" cid="c01050026.1">
+				</crossref>
+				embalmed him, and he was put in a coffin in Egypt.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

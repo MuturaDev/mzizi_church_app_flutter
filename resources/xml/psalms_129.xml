@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19129001">
+		</marker>
+		<chapter num="129">
+			<heading
+				>
+				They Have Afflicted Me from My Youth
+			</heading>
+			<subheading class="psalm-title">
+				A Song of 
+				<crossref let="m" cid="c19129001.1">
+				</crossref>
+				Ascents.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Greatly
+				<note nid="n19129001.1">
+				</note>
+				 have they 
+				<crossref let="p" cid="c19129001.2">
+				</crossref>
+				afflicted me 
+				<crossref let="q" cid="c19129001.3">
+				</crossref>
+				from my youth
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				ù
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c19129001.4">
+				</crossref>
+				let Israel now sayù
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19129002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Greatly have they 
+				<crossref let="p" cid="c19129002.1">
+				</crossref>
+				afflicted me 
+				<crossref let="q" cid="c19129002.2">
+				</crossref>
+				from my youth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c19129002.3">
+				</crossref>
+				yet they have not prevailed against me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19129003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c19129003.1">
+				</crossref>
+				The plowers plowed 
+				<crossref let="u" cid="c19129003.2">
+				</crossref>
+				upon my back;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they made long their furrows.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19129004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is righteous;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he has cut 
+				<crossref let="v" cid="c19129004.1">
+				</crossref>
+				the cords of the wicked.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19129005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				May all who hate Zion
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				be 
+				<crossref let="w" cid="c19129005.1">
+				</crossref>
+				put to shame and turned backward!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19129006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Let them be like 
+				<crossref let="x" cid="c19129006.1">
+				</crossref>
+				the grass on the housetops,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				which 
+				<crossref let="y" cid="c19129006.2">
+				</crossref>
+				withers before it grows up,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19129007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				with which the reaper does not fill his hand
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor the binder of sheaves his arms,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19129008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				nor do those who pass by say,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c19129008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The blessing of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 be upon you!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				We 
+				<crossref let="b" cid="c19129008.2">
+				</crossref>
+				bless you in the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

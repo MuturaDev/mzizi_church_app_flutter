@@ -1,0 +1,589 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Samuel" num="9">
+		<marker class="begin-verse" mid="v10023001">
+		</marker>
+		<chapter num="23">
+			<heading
+				>
+				The Last Words of David
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now these are the last words of David:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				The oracle of David, the son of Jesse,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the oracle of 
+				<crossref let="l" cid="c10023001.1">
+				</crossref>
+				the man who was raised on high,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c10023001.2">
+				</crossref>
+				the anointed of the God of Jacob,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the sweet psalmist of Israel:
+				<note nid="n10023001.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10023002">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c10023002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The Spirit of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 speaks by me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his word is on my tongue.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v10023003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				The God of Israel has spoken;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c10023003.1">
+				</crossref>
+				the Rock of Israel has said to me:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				When one rules justly over men,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				ruling 
+				<crossref let="o" cid="c10023003.2">
+				</crossref>
+				in the fear of God,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v10023004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				he 
+				<crossref let="p" cid="c10023004.1">
+				</crossref>
+				dawns on them like the morning light,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like the sun shining forth on a cloudless morning,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like rain
+				<note nid="n10023004.1">
+				</note>
+				 that makes grass to sprout from the earth.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10023005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				For does not my house stand so with God?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c10023005.1">
+				</crossref>
+				For he has made with me an everlasting covenant,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				ordered in all things and secure.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				For will he not cause to prosper
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all my help and my desire?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v10023006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				But worthless men
+				<note nid="n10023006.1">
+				</note>
+				 are all like thorns that are thrown away,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for they cannot be taken with the hand;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v10023007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				but the man who touches them
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				arms himself with iron and the shaft of a spear,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and they are utterly consumed with fire.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n10023007.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v10023008">
+			</marker>
+			<heading
+				>
+				David's Mighty Men
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				<crossref let="r" cid="c10023008.1">
+				</crossref>
+				These are the names of the mighty men whom David had: 
+				<crossref let="s" cid="c10023008.2">
+				</crossref>
+				Josheb-basshebeth a Tahchemonite; he was chief of the three.
+				<note nid="n10023008.1">
+				</note>
+				 He wielded his spear
+				<note nid="n10023008.2">
+				</note>
+				 against eight hundred whom he killed at one time.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10023009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				And next to him among the three mighty men was Eleazar the son of 
+				<crossref let="t" cid="c10023009.1">
+				</crossref>
+				Dodo, son of 
+				<crossref let="u" cid="c10023009.2">
+				</crossref>
+				Ahohi. He was with David when they defied the Philistines who were gathered there for battle, and the men of Israel withdrew.
+			</verse>
+			<marker class="begin-verse" mid="v10023010">
+			</marker>
+			<verse num="10">
+				He rose and struck down the Philistines until his hand was weary, and his hand clung to the sword. And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 brought about a great victory that day, and the men returned after him only to strip the slain.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10023011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				And next to him was Shammah, the son of Agee the 
+				<crossref let="v" cid="c10023011.1">
+				</crossref>
+				Hararite. The Philistines gathered together at Lehi, where there was a plot of ground full of lentils, and the men fled from the Philistines.
+			</verse>
+			<marker class="begin-verse" mid="v10023012">
+			</marker>
+			<verse num="12">
+				But he took his stand in the midst of the plot and defended it and struck down the Philistines, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 worked a great victory.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10023013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				And three of the thirty chief men went down and came about harvest time to David at the 
+				<crossref let="w" cid="c10023013.1">
+				</crossref>
+				cave of Adullam, when a band of Philistines was encamped 
+				<crossref let="x" cid="c10023013.2">
+				</crossref>
+				in the Valley of Rephaim.
+			</verse>
+			<marker class="begin-verse" mid="v10023014">
+			</marker>
+			<verse num="14">
+				David was then 
+				<crossref let="y" cid="c10023014.1">
+				</crossref>
+				in the stronghold, and 
+				<crossref let="z" cid="c10023014.2">
+				</crossref>
+				the garrison of the Philistines was then at Bethlehem.
+			</verse>
+			<marker class="begin-verse" mid="v10023015">
+			</marker>
+			<verse num="15">
+				And David said longingly, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Oh, that someone would give me water to drink from the well of Bethlehem that is by the gate!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10023016">
+			</marker>
+			<verse num="16">
+				Then the three mighty men broke through the camp of the Philistines and drew water out of the well of Bethlehem that was by the gate and carried and brought it to David. But he would not drink of it. He poured it out to the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</verse>
+			<marker class="begin-verse" mid="v10023017">
+			</marker>
+			<verse num="17">
+				and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Far be it from me, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, that I should do this. Shall I drink 
+				<crossref let="a" cid="c10023017.1">
+				</crossref>
+				the blood of the men who went at the risk of their lives?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Therefore he would not drink it. These things the three mighty men did.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10023018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				Now Abishai, the brother of Joab, the son of Zeruiah, was chief of the thirty.
+				<note nid="n10023018.1">
+				</note>
+				 And he wielded his spear against three hundred men
+				<note nid="n10023018.2">
+				</note>
+				 and killed them and won a name beside the three.
+			</verse>
+			<marker class="begin-verse" mid="v10023019">
+			</marker>
+			<verse num="19">
+				He was the most renowned of the thirty
+				<note nid="n10023019.1">
+				</note>
+				 and became their commander, but he did not attain to 
+				<crossref let="b" cid="c10023019.1">
+				</crossref>
+				the three.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10023020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				And 
+				<crossref let="c" cid="c10023020.1">
+				</crossref>
+				Benaiah the son of Jehoiada was a valiant man
+				<note nid="n10023020.1">
+				</note>
+				 of 
+				<crossref let="d" cid="c10023020.2">
+				</crossref>
+				Kabzeel, a doer of great deeds. He struck down two ariels
+				<note nid="n10023020.2">
+				</note>
+				 of Moab. He also went down and struck down a lion in a pit on a day when snow had fallen.
+			</verse>
+			<marker class="begin-verse" mid="v10023021">
+			</marker>
+			<verse num="21">
+				And he struck down an Egyptian, a handsome man. The Egyptian had a spear in his hand, but Benaiah went down to him with a staff and snatched the spear out of the Egyptian's hand and killed him with his own spear.
+			</verse>
+			<marker class="begin-verse" mid="v10023022">
+			</marker>
+			<verse num="22">
+				These things did Benaiah the son of Jehoiada, and won a name beside the three mighty men.
+			</verse>
+			<marker class="begin-verse" mid="v10023023">
+			</marker>
+			<verse num="23">
+				He was renowned among the thirty, but he did not attain to the three. And David set him over his bodyguard.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10023024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				<crossref let="e" cid="c10023024.1">
+				</crossref>
+				Asahel the brother of Joab was one of the thirty; Elhanan the son of Dodo of Bethlehem,
+			</verse>
+			<marker class="begin-verse" mid="v10023025">
+			</marker>
+			<verse num="25">
+				<crossref let="f" cid="c10023025.1">
+				</crossref>
+				Shammah of Harod, Elika of Harod,
+			</verse>
+			<marker class="begin-verse" mid="v10023026">
+			</marker>
+			<verse num="26">
+				Helez the Paltite, Ira the son of Ikkesh 
+				<crossref let="g" cid="c10023026.1">
+				</crossref>
+				of Tekoa,
+			</verse>
+			<marker class="begin-verse" mid="v10023027">
+			</marker>
+			<verse num="27">
+				Abiezer 
+				<crossref let="h" cid="c10023027.1">
+				</crossref>
+				of Anathoth, Mebunnai 
+				<crossref let="i" cid="c10023027.2">
+				</crossref>
+				the Hushathite,
+			</verse>
+			<marker class="begin-verse" mid="v10023028">
+			</marker>
+			<verse num="28">
+				Zalmon 
+				<crossref let="j" cid="c10023028.1">
+				</crossref>
+				the Ahohite, Maharai 
+				<crossref let="k" cid="c10023028.2">
+				</crossref>
+				of Netophah,
+			</verse>
+			<marker class="begin-verse" mid="v10023029">
+			</marker>
+			<verse num="29">
+				Heleb the son of Baanah 
+				<crossref let="k" cid="c10023029.1">
+				</crossref>
+				of Netophah, Ittai the son of Ribai of 
+				<crossref let="l" cid="c10023029.2">
+				</crossref>
+				Gibeah of the people of Benjamin,
+			</verse>
+			<marker class="begin-verse" mid="v10023030">
+			</marker>
+			<verse num="30">
+				Benaiah 
+				<crossref let="m" cid="c10023030.1">
+				</crossref>
+				of Pirathon, Hiddai of the brooks of 
+				<crossref let="n" cid="c10023030.2">
+				</crossref>
+				Gaash,
+			</verse>
+			<marker class="begin-verse" mid="v10023031">
+			</marker>
+			<verse num="31">
+				Abi-albon the Arbathite, Azmaveth of 
+				<crossref let="o" cid="c10023031.1">
+				</crossref>
+				Bahurim,
+			</verse>
+			<marker class="begin-verse" mid="v10023032">
+			</marker>
+			<verse num="32">
+				Eliahba the Shaalbonite, the sons of Jashen, Jonathan,
+			</verse>
+			<marker class="begin-verse" mid="v10023033">
+			</marker>
+			<verse num="33">
+				<crossref let="p" cid="c10023033.1">
+				</crossref>
+				Shammah the Hararite, Ahiam the son of Sharar the Hararite,
+			</verse>
+			<marker class="begin-verse" mid="v10023034">
+			</marker>
+			<verse num="34">
+				Eliphelet the son of Ahasbai 
+				<crossref let="q" cid="c10023034.1">
+				</crossref>
+				of Maacah, 
+				<crossref let="r" cid="c10023034.2">
+				</crossref>
+				Eliam the son of 
+				<crossref let="s" cid="c10023034.3">
+				</crossref>
+				Ahithophel of Gilo,
+			</verse>
+			<marker class="begin-verse" mid="v10023035">
+			</marker>
+			<verse num="35">
+				Hezro
+				<note nid="n10023035.1">
+				</note>
+				<crossref let="t" cid="c10023035.1">
+				</crossref>
+				of Carmel, Paarai the Arbite,
+			</verse>
+			<marker class="begin-verse" mid="v10023036">
+			</marker>
+			<verse num="36">
+				Igal the son of Nathan 
+				<crossref let="u" cid="c10023036.1">
+				</crossref>
+				of Zobah, Bani the Gadite,
+			</verse>
+			<marker class="begin-verse" mid="v10023037">
+			</marker>
+			<verse num="37">
+				Zelek the Ammonite, Naharai 
+				<crossref let="v" cid="c10023037.1">
+				</crossref>
+				of Beeroth, the armor-bearer of Joab the son of Zeruiah,
+			</verse>
+			<marker class="begin-verse" mid="v10023038">
+			</marker>
+			<verse num="38">
+				<crossref let="w" cid="c10023038.1">
+				</crossref>
+				Ira the 
+				<crossref let="x" cid="c10023038.2">
+				</crossref>
+				Ithrite, Gareb the Ithrite,
+			</verse>
+			<marker class="begin-verse" mid="v10023039">
+			</marker>
+			<verse num="39">
+				<crossref let="y" cid="c10023039.1">
+				</crossref>
+				Uriah the Hittite: thirty-seven in all.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

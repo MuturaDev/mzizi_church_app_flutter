@@ -1,0 +1,779 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Proverbs" num="19">
+		<marker class="begin-verse" mid="v20006001">
+		</marker>
+		<chapter num="6">
+			<heading
+				>
+				Practical Warnings
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				My son, if you have put up 
+				<crossref let="e" cid="c20006001.1">
+				</crossref>
+				security for your neighbor,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				have 
+				<crossref let="e" cid="c20006001.2">
+				</crossref>
+				given your pledge for a stranger,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				if you are 
+				<crossref let="f" cid="c20006002.1">
+				</crossref>
+				snared in the words of your mouth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				caught in the words of your mouth,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				then do this, my son, and save yourself,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for you have come into the hand of your neighbor:
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				go, hasten,
+				<note nid="n20006003.1">
+				</note>
+				 and 
+				<crossref let="g" cid="c20006003.1">
+				</crossref>
+				plead urgently with your neighbor.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c20006004.1">
+				</crossref>
+				Give your eyes no sleep
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your eyelids no slumber;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				save yourself like a gazelle from the hand of the hunter,
+				<note nid="n20006005.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c20006005.1">
+				</crossref>
+				like a bird from the hand of the fowler.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20006006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c20006006.1">
+				</crossref>
+				Go to 
+				<crossref let="k" cid="c20006006.2">
+				</crossref>
+				the ant, O 
+				<crossref let="l" cid="c20006006.3">
+				</crossref>
+				sluggard;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				consider her ways, and 
+				<crossref let="m" cid="c20006006.4">
+				</crossref>
+				be wise.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c20006007.1">
+				</crossref>
+				Without having any chief,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c20006007.2">
+				</crossref>
+				officer, or ruler,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				she prepares her bread 
+				<crossref let="p" cid="c20006008.1">
+				</crossref>
+				in summer
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="q" cid="c20006008.2">
+				</crossref>
+				gathers her food in harvest.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c20006009.1">
+				</crossref>
+				How long will you lie there, 
+				<crossref let="l" cid="c20006009.2">
+				</crossref>
+				O sluggard?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				When will you arise from your sleep?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c20006010.1">
+				</crossref>
+				A little sleep, a little slumber,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c20006010.2">
+				</crossref>
+				a little 
+				<crossref let="s" cid="c20006010.3">
+				</crossref>
+				folding of the hands to rest,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c20006011.1">
+				</crossref>
+				and poverty will come upon you like a robber,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and want like an armed man.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20006012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c20006012.1">
+				</crossref>
+				A worthless person, a wicked man,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				goes about with 
+				<crossref let="w" cid="c20006012.2">
+				</crossref>
+				crooked speech,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c20006013.1">
+				</crossref>
+				winks with his eyes, signals
+				<note nid="n20006013.1">
+				</note>
+				 with his feet,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				points with his finger,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				with 
+				<crossref let="y" cid="c20006014.1">
+				</crossref>
+				perverted heart 
+				<crossref let="z" cid="c20006014.2">
+				</crossref>
+				devises evil,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				continually 
+				<crossref let="a" cid="c20006014.3">
+				</crossref>
+				sowing discord;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				therefore calamity will come upon him suddenly;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c20006015.1">
+				</crossref>
+				in a moment he will be broken 
+				<crossref let="c" cid="c20006015.2">
+				</crossref>
+				beyond healing.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20006016">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				There are 
+				<crossref let="d" cid="c20006016.1">
+				</crossref>
+				six things that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 hates,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c20006016.2">
+				</crossref>
+				seven that are an abomination to him:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c20006017.1">
+				</crossref>
+				haughty eyes, 
+				<crossref let="f" cid="c20006017.2">
+				</crossref>
+				a lying tongue,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="g" cid="c20006017.3">
+				</crossref>
+				hands that shed innocent blood,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c20006018.1">
+				</crossref>
+				a heart that devises wicked plans,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c20006018.2">
+				</crossref>
+				feet that make haste to run to evil,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c20006019.1">
+				</crossref>
+				a false witness who 
+				<crossref let="k" cid="c20006019.2">
+				</crossref>
+				breathes out lies,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and one who 
+				<crossref let="a" cid="c20006019.3">
+				</crossref>
+				sows discord among brothers.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v20006020">
+			</marker>
+			<heading
+				>
+				Warnings Against Adultery
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c20006020.1">
+				</crossref>
+				My son, keep your father's commandment,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="l" cid="c20006020.2">
+				</crossref>
+				and forsake not your mother's teaching.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c20006021.1">
+				</crossref>
+				Bind them on your heart always;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c20006021.2">
+				</crossref>
+				tie them around your neck.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c20006022.1">
+				</crossref>
+				When you walk, they
+				<note nid="n20006022.1">
+				</note>
+				 will lead you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c20006022.2">
+				</crossref>
+				when you lie down, they will 
+				<crossref let="p" cid="c20006022.3">
+				</crossref>
+				watch over you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and when you awake, they will talk with you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				For the commandment is 
+				<crossref let="q" cid="c20006023.1">
+				</crossref>
+				a lamp and the teaching a light,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the 
+				<crossref let="r" cid="c20006023.2">
+				</crossref>
+				reproofs of discipline are the way of life,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				to preserve you from the evil woman,
+				<note nid="n20006024.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from the smooth tongue of 
+				<crossref let="s" cid="c20006024.1">
+				</crossref>
+				the adulteress.
+				<note nid="n20006024.2">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c20006025.1">
+				</crossref>
+				Do not desire her beauty in your heart,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and do not let her capture you with her 
+				<crossref let="u" cid="c20006025.2">
+				</crossref>
+				eyelashes;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				for 
+				<crossref let="v" cid="c20006026.1">
+				</crossref>
+				the price of a prostitute is only 
+				<crossref let="w" cid="c20006026.2">
+				</crossref>
+				a loaf of bread,
+				<note nid="n20006026.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but a married woman
+				<note nid="n20006026.2">
+				</note>
+				<crossref let="x" cid="c20006026.3">
+				</crossref>
+				hunts down a precious life.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				Can a man carry 
+				<crossref let="y" cid="c20006027.1">
+				</crossref>
+				fire next to his 
+				<crossref let="z" cid="c20006027.2">
+				</crossref>
+				chest
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his clothes not be burned?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				Or can one 
+				<crossref let="a" cid="c20006028.1">
+				</crossref>
+				walk on hot coals
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his feet not be scorched?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				So is he who goes in to his neighbor's wife;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				none who touches her 
+				<crossref let="b" cid="c20006029.1">
+				</crossref>
+				will go unpunished.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				People do not despise a thief if he steals
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to 
+				<crossref let="c" cid="c20006030.1">
+				</crossref>
+				satisfy his appetite when he is hungry,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006031">
+			</marker>
+			<verse num="31">
+				<begin-line
+					>
+				</begin-line>
+				but 
+				<crossref let="d" cid="c20006031.1">
+				</crossref>
+				if he is caught, he will pay 
+				<crossref let="e" cid="c20006031.2">
+				</crossref>
+				sevenfold;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he will give all the goods of his house.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006032">
+			</marker>
+			<verse num="32">
+				<begin-line
+					>
+				</begin-line>
+				He who commits adultery lacks sense;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he who does it destroys himself.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006033">
+			</marker>
+			<verse num="33">
+				<begin-line
+					>
+				</begin-line>
+				He will get wounds and dishonor,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his disgrace will not be wiped away.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006034">
+			</marker>
+			<verse num="34">
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="f" cid="c20006034.1">
+				</crossref>
+				jealousy makes a man furious,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he will not spare when 
+				<crossref let="g" cid="c20006034.2">
+				</crossref>
+				he takes revenge.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20006035">
+			</marker>
+			<verse num="35">
+				<begin-line
+					>
+				</begin-line>
+				He will accept no compensation;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he will refuse though you multiply gifts.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

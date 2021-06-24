@@ -3,11 +3,17 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:line_icons/line_icons.dart';
+import 'package:mzizichurchsystem/mzizi_bible/Feature/Reader/bible_bloc.dart';
+import 'package:mzizichurchsystem/mzizi_bible/Feature/Settings/settings_bloc.dart';
+import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/MultiPartXmlBibleProvider.dart';
+import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/ReferenceProvider.dart';
+import 'package:mzizichurchsystem/mzizi_bible/main_bible.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/authenticate_user_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/current_student_logout.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/portal_contacts_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/welcome_page.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system/flavour_config.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_student_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_contacts_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
@@ -41,6 +47,10 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
           icon: Icon(Icons.home, color: Colors.white),
           //page: ClassBuilder.fromString('DashboardScreen'),
           page: RouteController.routeMethod(0, controller: Controller.Screen),
+          // onPressed: () {
+          //   RouteController.routeMethod(0,
+          //       controller: Controller.Navigator, context: context);
+          // },
         ),
         KFDrawerItem.initWithPage(
           text: Text(
@@ -80,8 +90,17 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
             'Church Service Booking',
             style: TextStyle(color: Colors.white),
           ),
-          icon: Icon(Icons.check_circle_outline, color: Colors.white),
+          icon: Icon(FontAwesomeIcons.church, color: Colors.white, size: 20),
           page: RouteController.routeMethod(12, controller: Controller.Screen),
+        ),
+        KFDrawerItem.initWithPage(
+          page: RouteController.routeMethod(10, controller: Controller.Screen),
+          text: Text(
+            'Self Enroll',
+            style: TextStyle(color: Colors.white),
+          ),
+          icon:
+              Icon(FontAwesomeIcons.registered, color: Colors.white, size: 18),
         ),
         // KFDrawerItem.initWithPage(
         //   text: Text(
@@ -130,86 +149,101 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: KFDrawer(
-        //  borderRadius: 0.0,
-        //  shadowBorderRadius: 0.0,
-        //  menuPadding: EdgeInsets.all(0.0),
-        //scrollable: true,
-        controller: _drawerController,
-        header: Align(
-          alignment: Alignment.centerLeft,
-          child: Column(
-            children: <Widget>[
-              Container(
-                //color: Colors.black,
-                height: 120,
-                width: 120,
-                margin: EdgeInsets.only(left: 20.0, top: 40),
-                padding: EdgeInsets.only(top: 0, right: 0, bottom: 0, left: 0),
-                //padding: EdgeInsets.all(30),
-                //     width: MediaQuery.of(context).size.width * 0.6,
-                child: Image.asset(
-                  'assets/images/member_app_assets/church_logo_no_bg2.png',
+    return SafeArea(
+      top: false,
+      bottom: false,
+      child: Scaffold(
+        body: KFDrawer(
+          //  borderRadius: 0.0,
+          //  shadowBorderRadius: 0.0,
+          //  menuPadding: EdgeInsets.all(0.0),
+          //scrollable: true,
+          controller: _drawerController,
+          header: Align(
+            alignment: Alignment.centerLeft,
+            child: Column(
+              children: <Widget>[
+                Container(
+                  //color: Colors.black,
+                  height: 150,
+                  width: 150,
+                  margin: EdgeInsets.only(left: 10.0, top: 20),
+                  padding:
+                      EdgeInsets.only(top: 0, right: 0, bottom: 0, left: 0),
+                  //padding: EdgeInsets.all(30),
+                  //width: MediaQuery.of(context).size.width * 0.6,
+                  child: Image.asset(
+                    FlavourConfig.isBwmc()
+                        ? 'assets/images/member_app_assets/bwmc.png'
+                        : FlavourConfig.isDcik()
+                            ? 'assets/images/member_app_assets/dcik.png'
+                            : FlavourConfig.isJcc()
+                                ? 'assets/images/member_app_assets/jcc.png'
+                                : FlavourConfig.isMzizicms()
+                                    ? 'assets/images/member_app_assets/church_logo_no_bg2.png'
+                                    : 'assets/images/member_app_assets/church_logo_no_bg2.png',
+                    fit: BoxFit.fill,
+                  ),
                   alignment: Alignment.centerLeft,
                 ),
-              ),
-              SizedBox(height: 5),
-              EnhancedFutureBuilder(
-                future: _optionToFetchOnline(),
-                rememberFutureResult: true,
-                whenDone: (dynamic data) {
-                  List<PortalContacts> contactList = data;
-                  return contactList == null
-                      ? Text('',
-                          style: TextStyle(
-                              fontSize: 14, fontWeight: FontWeight.bold))
-                      : contactList.length <= 0
-                          ? Text('',
-                              style: TextStyle(
-                                  fontSize: 14, fontWeight: FontWeight.bold))
-                          : Container(
-                            width: 200,
-                              //padding: EdgeInsets.only(left: 20, right: 20),
-                              child: Text(contactList[0].SettingValue,
-                              textAlign: TextAlign.center,
-                                  style: TextStyle(
-                                      fontSize: 12,
-                                      fontWeight: FontWeight.bold, color: Colors.white)),
-                            );
-                },
-                whenNotDone: Text('',
-                    style:
-                        TextStyle(fontSize: 14, fontWeight: FontWeight.bold)),
-              )
-            ],
+                SizedBox(height: 3),
+                EnhancedFutureBuilder(
+                  future: _optionToFetchOnline(),
+                  rememberFutureResult: true,
+                  whenDone: (dynamic data) {
+                    List<PortalContacts> contactList = data;
+                    return contactList == null
+                        ? Text('',
+                            style: TextStyle(
+                                fontSize: 14, fontWeight: FontWeight.bold))
+                        : contactList.length <= 0
+                            ? Text('',
+                                style: TextStyle(
+                                    fontSize: 14, fontWeight: FontWeight.bold))
+                            : Container(
+                                width: 200,
+                                //padding: EdgeInsets.only(left: 20, right: 20),
+                                child: Text(contactList[0].SettingValue,
+                                    textAlign: TextAlign.center,
+                                    style: TextStyle(
+                                        fontSize: 12,
+                                        fontWeight: FontWeight.bold,
+                                        color: Colors.white)),
+                              );
+                  },
+                  whenNotDone: Text('',
+                      style:
+                          TextStyle(fontSize: 14, fontWeight: FontWeight.bold)),
+                )
+              ],
+            ),
           ),
-        ),
 
-        footer: KFDrawerItem(
-          text: Text(
-            'LOGOUT',
-            style: TextStyle(color: Colors.white),
-          ),
-          icon: Icon(
-            FontAwesomeIcons.powerOff,
-            color: Colors.white,
-            size: 20,
-          ),
-          onPressed: () async {
-            await Logout().logout(exceptAuthUser: true);
+          footer: KFDrawerItem(
+            text: Text(
+              'LOGOUT',
+              style: TextStyle(color: Colors.white),
+            ),
+            icon: Icon(
+              FontAwesomeIcons.powerOff,
+              color: Colors.white,
+              size: 20,
+            ),
+            onPressed: () async {
+              await Logout().logout(exceptAuthUser: true);
 
-            Navigator.pushReplacement(context,
-                MaterialPageRoute(builder: (context) => WelcomePage()));
-          },
-        ),
-        decoration: BoxDecoration(
-          gradient: LinearGradient(
-            begin: Alignment.topLeft,
-            end: Alignment.bottomRight,
-            //colors: [Color.fromRGBO(255, 255, 255, 1.0), Color.fromRGBO(44, 72, 171, 1.0)],
-            colors: [Color.fromRGBO(255, 255, 255, 1.0), Color(0xFF487890)],
-            tileMode: TileMode.repeated,
+              Navigator.pushReplacement(context,
+                  MaterialPageRoute(builder: (context) => WelcomePage()));
+            },
+          ),
+          decoration: BoxDecoration(
+            gradient: LinearGradient(
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
+              //colors: [Color.fromRGBO(255, 255, 255, 1.0), Color.fromRGBO(44, 72, 171, 1.0)],
+              colors: [Color.fromRGBO(255, 255, 255, 1.0), Color(0xFF487890)],
+              tileMode: TileMode.repeated,
+            ),
           ),
         ),
       ),

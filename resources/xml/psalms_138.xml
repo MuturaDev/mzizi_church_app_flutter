@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19138001">
+		</marker>
+		<chapter num="138">
+			<heading
+				>
+				Give Thanks to the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<subheading class="psalm-title">
+				Of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c19138001.1">
+				</crossref>
+				I give you thanks, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, with my whole heart;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				before 
+				<crossref let="c" cid="c19138001.2">
+				</crossref>
+				the gods I sing your praise;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19138002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				I bow down 
+				<crossref let="d" cid="c19138002.1">
+				</crossref>
+				toward your 
+				<crossref let="e" cid="c19138002.2">
+				</crossref>
+				holy temple
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and give thanks to your name for your steadfast love and your faithfulness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for you have exalted above all things
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your name and your word.
+				<note nid="n19138002.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19138003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				On the day I called, you answered me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my strength of soul you increased.
+				<note nid="n19138003.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19138004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c19138004.1">
+				</crossref>
+				All the kings of the earth shall give you thanks, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for they have heard the words of your mouth,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19138005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				and they shall sing of 
+				<crossref let="g" cid="c19138005.1">
+				</crossref>
+				the ways of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for great is the glory of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19138006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c19138006.1">
+				</crossref>
+				For though the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is high, he regards the lowly,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the haughty he knows from afar.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19138007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19138007.1">
+				</crossref>
+				Though I walk in the midst of trouble,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="j" cid="c19138007.2">
+				</crossref>
+				preserve my life;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				you 
+				<crossref let="k" cid="c19138007.3">
+				</crossref>
+				stretch out your hand against the wrath of my enemies,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your 
+				<crossref let="l" cid="c19138007.4">
+				</crossref>
+				right hand delivers me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19138008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will 
+				<crossref let="m" cid="c19138008.1">
+				</crossref>
+				fulfill his purpose for me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c19138008.2">
+				</crossref>
+				your steadfast love, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, endures forever.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Do not forsake 
+				<crossref let="o" cid="c19138008.3">
+				</crossref>
+				the work of your hands.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

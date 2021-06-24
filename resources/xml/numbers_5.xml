@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Numbers" num="3">
+		<marker class="begin-verse" mid="v04005001">
+		</marker>
+		<chapter num="5">
+			<heading
+				>
+				Unclean People
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04005002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Command the people of Israel that they 
+				<crossref let="i" cid="c04005002.1">
+				</crossref>
+				put out of the camp everyone who is leprous
+				<note nid="n04005002.1">
+				</note>
+				 or has 
+				<crossref let="j" cid="c04005002.2">
+				</crossref>
+				a discharge and everyone who is 
+				<crossref let="k" cid="c04005002.3">
+				</crossref>
+				unclean through contact with the dead.
+			</verse>
+			<marker class="begin-verse" mid="v04005003">
+			</marker>
+			<verse num="3">
+				You shall put out both male and female, putting them outside the camp, that they may not defile their camp, 
+				<crossref let="l" cid="c04005003.1">
+				</crossref>
+				in the midst of which I dwell.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04005004">
+			</marker>
+			<verse num="4">
+				And the people of Israel did so, and put them outside the camp; as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, so the people of Israel did.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04005005">
+			</marker>
+			<heading
+				>
+				Confession and Restitution
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04005006">
+			</marker>
+			<verse num="6">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Speak to the people of Israel, 
+				<crossref let="m" cid="c04005006.1">
+				</crossref>
+				When a man or woman commits any of the sins that people commit by breaking faith with the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and that person realizes his guilt,
+			</verse>
+			<marker class="begin-verse" mid="v04005007">
+			</marker>
+			<verse num="7">
+				<crossref let="n" cid="c04005007.1">
+				</crossref>
+				he shall confess his sin that he has committed.
+				<note nid="n04005007.1">
+				</note>
+				<crossref let="o" cid="c04005007.2">
+				</crossref>
+				And he shall make full restitution for his wrong, adding a fifth to it and giving it to him to whom he did the wrong.
+			</verse>
+			<marker class="begin-verse" mid="v04005008">
+			</marker>
+			<verse num="8">
+				But if the man has no next of kin to whom restitution may be made for the wrong, the restitution for wrong shall go to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 for the priest, in addition to 
+				<crossref let="p" cid="c04005008.1">
+				</crossref>
+				the ram of atonement with which atonement is made for him.
+			</verse>
+			<marker class="begin-verse" mid="v04005009">
+			</marker>
+			<verse num="9">
+				And 
+				<crossref let="q" cid="c04005009.1">
+				</crossref>
+				every contribution, all the holy donations of the people of Israel, which they bring to the priest, shall be his.
+			</verse>
+			<marker class="begin-verse" mid="v04005010">
+			</marker>
+			<verse num="10">
+				Each one shall keep his holy donations: whatever anyone gives to the priest shall be his.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04005011">
+			</marker>
+			<heading
+				>
+				A Test for Adultery
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04005012">
+			</marker>
+			<verse num="12">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Speak to the people of Israel, If any man's wife goes astray and breaks faith with him,
+			</verse>
+			<marker class="begin-verse" mid="v04005013">
+			</marker>
+			<verse num="13">
+				if a man 
+				<crossref let="r" cid="c04005013.1">
+				</crossref>
+				lies with her sexually, and it is hidden from the eyes of her husband, and she is undetected though she has defiled herself, and there is no witness against her, 
+				<crossref let="s" cid="c04005013.2">
+				</crossref>
+				since she was not taken in the act,
+			</verse>
+			<marker class="begin-verse" mid="v04005014">
+			</marker>
+			<verse num="14">
+				and if the spirit of jealousy comes over him and he is jealous of his wife who has defiled herself, or if the spirit of jealousy comes over him and he is jealous of his wife, though she has not defiled herself,
+			</verse>
+			<marker class="begin-verse" mid="v04005015">
+			</marker>
+			<verse num="15">
+				then the man shall bring his wife to the priest and bring the offering required of her, a tenth of an ephah
+				<note nid="n04005015.1">
+				</note>
+				 of barley flour. 
+				<crossref let="t" cid="c04005015.1">
+				</crossref>
+				He shall pour no oil on it and put no frankincense on it, for it is a grain offering of jealousy, a grain offering of remembrance, 
+				<crossref let="u" cid="c04005015.2">
+				</crossref>
+				bringing iniquity to remembrance.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04005016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				And the priest shall bring her near and set her before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v04005017">
+			</marker>
+			<verse num="17">
+				And the priest shall take holy water in an earthenware vessel and take some of the dust that is on the floor of the tabernacle and put it into the water.
+			</verse>
+			<marker class="begin-verse" mid="v04005018">
+			</marker>
+			<verse num="18">
+				And the priest shall set the woman before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and 
+				<crossref let="v" cid="c04005018.1">
+				</crossref>
+				unbind the hair of the woman's head and place in her hands the grain offering of remembrance, which is the grain offering of jealousy. And in his hand the priest shall have the water of bitterness that brings the curse.
+			</verse>
+			<marker class="begin-verse" mid="v04005019">
+			</marker>
+			<verse num="19">
+				Then the priest shall make her take an oath, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				If no man has lain with you, and if you have not turned aside to uncleanness while you were under your husband's authority, be free from this water of bitterness that brings the curse.
+			</verse>
+			<marker class="begin-verse" mid="v04005020">
+			</marker>
+			<verse num="20">
+				But if you have gone astray, though you are under your husband's authority, and if you have defiled yourself, and some man other than your husband has lain with you,
+			</verse>
+			<marker class="begin-verse" mid="v04005021">
+			</marker>
+			<verse num="21">
+				then
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 (let the priest make the woman take the oath of the curse, and say to the woman) 
+				<crossref let="w" cid="c04005021.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 make you a curse and an oath among your people, when the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 makes your thigh fall away and your body swell.
+			</verse>
+			<marker class="begin-verse" mid="v04005022">
+			</marker>
+			<verse num="22">
+				May this water that brings the curse 
+				<crossref let="x" cid="c04005022.1">
+				</crossref>
+				pass into your bowels and make your womb swell and your thigh fall away.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 And the woman shall say, 
+				<crossref let="y" cid="c04005022.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Amen, Amen.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04005023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Then the priest shall write these curses in a book and wash them off into the water of bitterness.
+			</verse>
+			<marker class="begin-verse" mid="v04005024">
+			</marker>
+			<verse num="24">
+				And he shall make the woman drink the water of bitterness that brings the curse, and the water that brings the curse shall enter into her and cause bitter pain.
+			</verse>
+			<marker class="begin-verse" mid="v04005025">
+			</marker>
+			<verse num="25">
+				And the priest shall take the grain offering of jealousy out of the woman's hand 
+				<crossref let="z" cid="c04005025.1">
+				</crossref>
+				and shall wave the grain offering before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and bring it to the altar.
+			</verse>
+			<marker class="begin-verse" mid="v04005026">
+			</marker>
+			<verse num="26">
+				And the priest 
+				<crossref let="a" cid="c04005026.1">
+				</crossref>
+				shall take a handful of the grain offering, as its memorial portion, and burn it on the altar, and afterward shall make the woman drink the water.
+			</verse>
+			<marker class="begin-verse" mid="v04005027">
+			</marker>
+			<verse num="27">
+				And when he has made her drink the water, then, if she has defiled herself and has broken faith with her husband, the water that brings the curse shall enter into her and cause bitter pain, and her womb shall swell, and her thigh shall fall away, and the woman 
+				<crossref let="b" cid="c04005027.1">
+				</crossref>
+				shall become a curse among her people.
+			</verse>
+			<marker class="begin-verse" mid="v04005028">
+			</marker>
+			<verse num="28">
+				But if the woman has not defiled herself and is clean, then she shall be free and shall conceive children.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04005029">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				This is the law in cases of jealousy, when a wife, 
+				<crossref let="c" cid="c04005029.1">
+				</crossref>
+				though under her husband's authority, goes astray and defiles herself,
+			</verse>
+			<marker class="begin-verse" mid="v04005030">
+			</marker>
+			<verse num="30">
+				or when the spirit of jealousy comes over a man and he is jealous of his wife. Then he shall set the woman before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and the priest shall carry out for her all this law.
+			</verse>
+			<marker class="begin-verse" mid="v04005031">
+			</marker>
+			<verse num="31">
+				The man shall be free from iniquity, but the woman 
+				<crossref let="d" cid="c04005031.1">
+				</crossref>
+				shall bear her iniquity.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

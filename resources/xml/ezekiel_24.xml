@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ezekiel" num="25">
+		<marker class="begin-verse" mid="v26024001">
+		</marker>
+		<chapter num="24">
+			<heading
+				>
+				The Siege of Jerusalem
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="l" cid="c26024001.1">
+				</crossref>
+				In the ninth year, in the tenth month, on the tenth day of the month, the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me:
+			</verse>
+			<marker class="begin-verse" mid="v26024002">
+			</marker>
+			<verse num="2">
+				<crossref let="m" cid="c26024002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Son of man, write down the name of this day, this very day. The king of Babylon has laid siege to Jerusalem this very day.
+			</verse>
+			<marker class="begin-verse" mid="v26024003">
+			</marker>
+			<verse num="3">
+				And 
+				<crossref let="n" cid="c26024003.1">
+				</crossref>
+				utter a parable to 
+				<crossref let="o" cid="c26024003.2">
+				</crossref>
+				the rebellious house and say to them, Thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Set on 
+				<crossref let="p" cid="c26024003.3">
+				</crossref>
+				the pot, set it on;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				pour in water also;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26024004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				put in it the pieces of meat,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all the good pieces, 
+				<crossref let="q" cid="c26024004.1">
+				</crossref>
+				the thigh and the shoulder;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				fill it with choice bones.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26024005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Take the choicest one of the flock;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				pile the logs
+				<note nid="n26024005.1">
+				</note>
+				 under it;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				boil it well;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				seethe also its bones in it.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v26024006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Therefore thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				: 
+				<crossref let="r" cid="c26024006.1">
+				</crossref>
+				Woe to the bloody city, to 
+				<crossref let="p" cid="c26024006.2">
+				</crossref>
+				the pot whose corrosion is in it, and whose corrosion has not gone out of it! Take out of it piece after piece, without making any choice.
+				<note nid="n26024006.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v26024007">
+			</marker>
+			<verse num="7">
+				For the blood she has shed is in her midst; she put it on 
+				<crossref let="s" cid="c26024007.1">
+				</crossref>
+				the bare rock; 
+				<crossref let="t" cid="c26024007.2">
+				</crossref>
+				she did not pour it out on the ground to cover it with dust.
+			</verse>
+			<marker class="begin-verse" mid="v26024008">
+			</marker>
+			<verse num="8">
+				To rouse my wrath, to take vengeance, I have set on the bare rock the blood she has shed, that it may not be covered.
+			</verse>
+			<marker class="begin-verse" mid="v26024009">
+			</marker>
+			<verse num="9">
+				Therefore thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				: Woe to the bloody city! 
+				<crossref let="u" cid="c26024009.1">
+				</crossref>
+				I also will make the pile great.
+			</verse>
+			<marker class="begin-verse" mid="v26024010">
+			</marker>
+			<verse num="10">
+				Heap on the logs, kindle the fire, boil the meat well, mix in the spices,
+				<note nid="n26024010.1">
+				</note>
+				 and let the bones be burned up.
+			</verse>
+			<marker class="begin-verse" mid="v26024011">
+			</marker>
+			<verse num="11">
+				Then set it empty upon the coals, that it may become hot, and its copper may burn, 
+				<crossref let="v" cid="c26024011.1">
+				</crossref>
+				that its uncleanness may be melted in it, its corrosion consumed.
+			</verse>
+			<marker class="begin-verse" mid="v26024012">
+			</marker>
+			<verse num="12">
+				<crossref let="w" cid="c26024012.1">
+				</crossref>
+				She has wearied herself with toil;
+				<note nid="n26024012.1">
+				</note>
+				 its abundant corrosion does not go out of it. Into the fire with its corrosion!
+			</verse>
+			<marker class="begin-verse" mid="v26024013">
+			</marker>
+			<verse num="13">
+				On account of your unclean lewdness, because I would have cleansed you and you were not cleansed from your uncleanness, 
+				<crossref let="x" cid="c26024013.1">
+				</crossref>
+				you shall not be cleansed anymore till 
+				<crossref let="y" cid="c26024013.2">
+				</crossref>
+				I have satisfied my fury upon you.
+			</verse>
+			<marker class="begin-verse" mid="v26024014">
+			</marker>
+			<verse num="14">
+				<crossref let="z" cid="c26024014.1">
+				</crossref>
+				I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. I have spoken; it shall come to pass; I will do it. I will not go back; 
+				<crossref let="a" cid="c26024014.2">
+				</crossref>
+				I will not spare; 
+				<crossref let="b" cid="c26024014.3">
+				</crossref>
+				I will not relent; 
+				<crossref let="c" cid="c26024014.4">
+				</crossref>
+				according to your ways and your deeds you will be judged, declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26024015">
+			</marker>
+			<heading
+				>
+				Ezekiel's Wife Dies
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				The word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me:
+			</verse>
+			<marker class="begin-verse" mid="v26024016">
+			</marker>
+			<verse num="16">
+				<crossref let="d" cid="c26024016.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Son of man, behold, I am about to take the delight of your eyes away from you at a stroke; yet you shall not mourn or weep, nor shall your tears run down.
+			</verse>
+			<marker class="begin-verse" mid="v26024017">
+			</marker>
+			<verse num="17">
+				Sigh, but not aloud; make no mourning for the dead. 
+				<crossref let="e" cid="c26024017.1">
+				</crossref>
+				Bind on your turban, and 
+				<crossref let="f" cid="c26024017.2">
+				</crossref>
+				put your shoes on your feet; do not cover your lips, 
+				<crossref let="g" cid="c26024017.3">
+				</crossref>
+				nor eat the bread of men.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v26024018">
+			</marker>
+			<verse num="18">
+				So I spoke to the people in the morning, and 
+				<crossref let="h" cid="c26024018.1">
+				</crossref>
+				at evening my wife died. And on the next morning I did 
+				<crossref let="i" cid="c26024018.2">
+				</crossref>
+				as I was commanded.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26024019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				And 
+				<crossref let="j" cid="c26024019.1">
+				</crossref>
+				the people said to me, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Will you not tell us what these things mean for us, that you are acting thus?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v26024020">
+			</marker>
+			<verse num="20">
+				Then I said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me:
+			</verse>
+			<marker class="begin-verse" mid="v26024021">
+			</marker>
+			<verse num="21">
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Say to the house of Israel, Thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				: 
+				<crossref let="k" cid="c26024021.1">
+				</crossref>
+				Behold, I will profane my sanctuary, the pride of your power, the delight of your eyes, and the yearning of your soul, and 
+				<crossref let="l" cid="c26024021.2">
+				</crossref>
+				your sons and your daughters whom you left behind shall fall by the sword.
+			</verse>
+			<marker class="begin-verse" mid="v26024022">
+			</marker>
+			<verse num="22">
+				And 
+				<crossref let="m" cid="c26024022.1">
+				</crossref>
+				you shall do as I have done; 
+				<crossref let="m" cid="c26024022.2">
+				</crossref>
+				you shall not cover your lips, 
+				<crossref let="g" cid="c26024022.3">
+				</crossref>
+				nor eat the bread of men.
+			</verse>
+			<marker class="begin-verse" mid="v26024023">
+			</marker>
+			<verse num="23">
+				<crossref let="m" cid="c26024023.1">
+				</crossref>
+				Your turbans shall be on your heads and your shoes on your feet; you shall not mourn or weep, but 
+				<crossref let="n" cid="c26024023.2">
+				</crossref>
+				you shall rot away in your iniquities and groan to one another.
+			</verse>
+			<marker class="begin-verse" mid="v26024024">
+			</marker>
+			<verse num="24">
+				Thus shall Ezekiel be to you 
+				<crossref let="o" cid="c26024024.1">
+				</crossref>
+				a sign; 
+				<crossref let="m" cid="c26024024.2">
+				</crossref>
+				according to all that he has done you shall do. When this comes, then 
+				<crossref let="p" cid="c26024024.3">
+				</crossref>
+				you will know that I am the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26024025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				As for you, 
+				<crossref let="q" cid="c26024025.1">
+				</crossref>
+				son of man, surely on the day when I take from them 
+				<crossref let="r" cid="c26024025.2">
+				</crossref>
+				their stronghold, their joy and glory, the delight of their eyes and their soul's desire, and also their sons and daughters,
+			</verse>
+			<marker class="begin-verse" mid="v26024026">
+			</marker>
+			<verse num="26">
+				<crossref let="s" cid="c26024026.1">
+				</crossref>
+				on that day a fugitive will come to you to report to you the news.
+			</verse>
+			<marker class="begin-verse" mid="v26024027">
+			</marker>
+			<verse num="27">
+				On that day your mouth 
+				<crossref let="t" cid="c26024027.1">
+				</crossref>
+				will be opened to the fugitive, and you shall speak and be no longer mute. 
+				<crossref let="u" cid="c26024027.2">
+				</crossref>
+				So you will be a sign to them, and 
+				<crossref let="v" cid="c26024027.3">
+				</crossref>
+				they will know that I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

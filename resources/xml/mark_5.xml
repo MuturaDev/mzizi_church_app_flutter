@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Mark" num="40">
+		<marker class="begin-verse" mid="v41005001">
+		</marker>
+		<chapter num="5">
+			<heading
+				>
+				Jesus Heals a Man with a Demon
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="u" cid="c41005001.1">
+				</crossref>
+				<crossref cid="t41005001.1">
+				</crossref>
+				They came to the other side of the sea, to the country of the Gerasenes.
+				<note nid="n41005001.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v41005002">
+			</marker>
+			<verse num="2">
+				And when Jesus
+				<note nid="n41005002.1">
+				</note>
+				 had stepped out of the boat, immediately there met him out of the tombs a man with an unclean spirit.
+			</verse>
+			<marker class="begin-verse" mid="v41005003">
+			</marker>
+			<verse num="3">
+				<crossref let="v" cid="c41005003.1">
+				</crossref>
+				He lived among the tombs. And no one could bind him anymore, not even with a chain,
+			</verse>
+			<marker class="begin-verse" mid="v41005004">
+			</marker>
+			<verse num="4">
+				for he had often been bound with shackles and chains, but he wrenched the chains apart, and he broke the shackles in pieces. No one had the strength to subdue him.
+			</verse>
+			<marker class="begin-verse" mid="v41005005">
+			</marker>
+			<verse num="5">
+				Night and day among the tombs and on the mountains he was always crying out and cutting himself with stones.
+			</verse>
+			<marker class="begin-verse" mid="v41005006">
+			</marker>
+			<verse num="6">
+				And when he saw Jesus from afar, he ran and 
+				<crossref let="w" cid="c41005006.1">
+				</crossref>
+				fell down before him.
+			</verse>
+			<marker class="begin-verse" mid="v41005007">
+			</marker>
+			<verse num="7">
+				And 
+				<crossref let="x" cid="c41005007.1">
+				</crossref>
+				crying out with a loud voice, he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What have you to do with me, Jesus, 
+				<crossref let="y" cid="c41005007.2">
+				</crossref>
+				Son of 
+				<crossref let="z" cid="c41005007.3">
+				</crossref>
+				the Most High God? 
+				<crossref let="a" cid="c41005007.4">
+				</crossref>
+				I adjure you by God, do not torment me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41005008">
+			</marker>
+			<verse num="8">
+				For he was saying to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Come out of the man, you unclean spirit!
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41005009">
+			</marker>
+			<verse num="9">
+				And Jesus asked him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What is your name?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 He replied, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My name is 
+				<crossref let="b" cid="c41005009.1">
+				</crossref>
+				Legion, for we are many.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41005010">
+			</marker>
+			<verse num="10">
+				And he begged him earnestly not to send them out of the country.
+			</verse>
+			<marker class="begin-verse" mid="v41005011">
+			</marker>
+			<verse num="11">
+				Now a great herd of pigs was feeding there on the hillside,
+			</verse>
+			<marker class="begin-verse" mid="v41005012">
+			</marker>
+			<verse num="12">
+				and they begged him, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Send us to the pigs; let us enter them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41005013">
+			</marker>
+			<verse num="13">
+				So he gave them permission. And the unclean spirits came out, and entered the pigs, and the herd, numbering about two thousand, rushed down the steep bank into the sea and were drowned in the sea.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41005014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				The herdsmen fled and told it in the city and in the country. And people came to see what it was that had happened.
+			</verse>
+			<marker class="begin-verse" mid="v41005015">
+			</marker>
+			<verse num="15">
+				And they came to Jesus and saw the demon-possessed
+				<note nid="n41005015.1">
+				</note>
+				 man, the one who had had 
+				<crossref let="c" cid="c41005015.1">
+				</crossref>
+				the legion, sitting there, 
+				<crossref let="d" cid="c41005015.2">
+				</crossref>
+				clothed and in his right mind, and they were afraid.
+			</verse>
+			<marker class="begin-verse" mid="v41005016">
+			</marker>
+			<verse num="16">
+				And those who had seen it described to them what had happened to the demon-possessed man and to the pigs.
+			</verse>
+			<marker class="begin-verse" mid="v41005017">
+			</marker>
+			<verse num="17">
+				And 
+				<crossref let="e" cid="c41005017.1">
+				</crossref>
+				they began to beg Jesus
+				<note nid="n41005017.1">
+				</note>
+				 to depart from their region.
+			</verse>
+			<marker class="begin-verse" mid="v41005018">
+			</marker>
+			<verse num="18">
+				As he was getting into the boat, the man who had been possessed with demons begged him that he might be with him.
+			</verse>
+			<marker class="begin-verse" mid="v41005019">
+			</marker>
+			<verse num="19">
+				And he did not permit him but said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go home to your friends and 
+					<crossref let="f" cid="c41005019.1">
+					</crossref>
+					tell them how much the Lord has done for you, and how he has had mercy on you.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41005020">
+			</marker>
+			<verse num="20">
+				And he went away and began to proclaim in 
+				<crossref let="g" cid="c41005020.1">
+				</crossref>
+				the Decapolis how much Jesus had done for him, and everyone marveled.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41005021">
+			</marker>
+			<heading
+				>
+				Jesus Heals a Woman and Jairus's Daughter
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				And when Jesus had crossed again in the boat to the other side, a great crowd gathered about him, and he was beside the sea.
+			</verse>
+			<marker class="begin-verse" mid="v41005022">
+			</marker>
+			<verse num="22">
+				<crossref let="h" cid="c41005022.1">
+				</crossref>
+				<crossref cid="t41005022.1">
+				</crossref>
+				Then came one of 
+				<crossref let="i" cid="c41005022.2">
+				</crossref>
+				the rulers of the synagogue, Jairus by name, and seeing him, he fell at his feet
+			</verse>
+			<marker class="begin-verse" mid="v41005023">
+			</marker>
+			<verse num="23">
+				and implored him earnestly, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My little daughter is at the point of death. Come and 
+				<crossref let="j" cid="c41005023.1">
+				</crossref>
+				lay your hands on her, so that she may be made well and live.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41005024">
+			</marker>
+			<verse num="24">
+				And he went with him.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				And a great crowd followed him and 
+				<crossref let="k" cid="c41005024.1">
+				</crossref>
+				thronged about him.
+
+			</verse>
+			<marker class="begin-verse" mid="v41005025">
+			</marker>
+			<verse num="25">
+				And there was a woman 
+				<crossref let="l" cid="c41005025.1">
+				</crossref>
+				who had had a discharge of blood for twelve years,
+			</verse>
+			<marker class="begin-verse" mid="v41005026">
+			</marker>
+			<verse num="26">
+				and who had suffered much under many physicians, and had spent all that she had, and was no better but rather grew worse.
+			</verse>
+			<marker class="begin-verse" mid="v41005027">
+			</marker>
+			<verse num="27">
+				She had heard the reports about Jesus and came up behind him in the crowd and touched his garment.
+			</verse>
+			<marker class="begin-verse" mid="v41005028">
+			</marker>
+			<verse num="28">
+				For she said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If I touch even his garments, I will be made well.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41005029">
+			</marker>
+			<verse num="29">
+				<crossref let="m" cid="c41005029.1">
+				</crossref>
+				And immediately the flow of blood dried up, and she felt in her body that she was healed of her 
+				<crossref let="n" cid="c41005029.2">
+				</crossref>
+				disease.
+			</verse>
+			<marker class="begin-verse" mid="v41005030">
+			</marker>
+			<verse num="30">
+				And Jesus, perceiving in himself that 
+				<crossref let="o" cid="c41005030.1">
+				</crossref>
+				power had gone out from him, immediately turned about in the crowd and said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Who touched my garments?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41005031">
+			</marker>
+			<verse num="31">
+				And his disciples said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You see the crowd pressing around you, and yet you say, 
+				<woc
+					>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Who touched me?
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41005032">
+			</marker>
+			<verse num="32">
+				And he looked around to see who had done it.
+			</verse>
+			<marker class="begin-verse" mid="v41005033">
+			</marker>
+			<verse num="33">
+				But the woman, knowing what had happened to her, came in fear and trembling and fell down before him and told him the whole truth.
+			</verse>
+			<marker class="begin-verse" mid="v41005034">
+			</marker>
+			<verse num="34">
+				And he said to her, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Daughter, 
+					<crossref let="p" cid="c41005034.1">
+					</crossref>
+					your faith has made you well; 
+					<crossref let="p" cid="c41005034.2">
+					</crossref>
+					go in peace, and be healed of your 
+					<crossref let="n" cid="c41005034.3">
+					</crossref>
+					disease.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41005035">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="35">
+				While he was still speaking, there came from 
+				<crossref let="q" cid="c41005035.1">
+				</crossref>
+				the ruler's house some who said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your daughter is dead. Why 
+				<crossref let="r" cid="c41005035.2">
+				</crossref>
+				trouble 
+				<crossref let="s" cid="c41005035.3">
+				</crossref>
+				the Teacher any further?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41005036">
+			</marker>
+			<verse num="36">
+				But overhearing
+				<note nid="n41005036.1">
+				</note>
+				 what they said, Jesus said to 
+				<crossref let="q" cid="c41005036.1">
+				</crossref>
+				the ruler of the synagogue, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Do not fear, only believe.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41005037">
+			</marker>
+			<verse num="37">
+				And he allowed no one to follow him except 
+				<crossref let="t" cid="c41005037.1">
+				</crossref>
+				Peter and James and 
+				<crossref let="u" cid="c41005037.2">
+				</crossref>
+				John the brother of James.
+			</verse>
+			<marker class="begin-verse" mid="v41005038">
+			</marker>
+			<verse num="38">
+				They came to the house of the ruler of the synagogue, and Jesus
+				<note nid="n41005038.1">
+				</note>
+				 saw a commotion, people weeping and wailing loudly.
+			</verse>
+			<marker class="begin-verse" mid="v41005039">
+			</marker>
+			<verse num="39">
+				And when he had entered, he said to them, 
+				<woc
+					>
+					<crossref let="v" cid="c41005039.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Why are you making a commotion and weeping? The child is not dead but 
+					<crossref let="w" cid="c41005039.2">
+					</crossref>
+					sleeping.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41005040">
+			</marker>
+			<verse num="40">
+				And they laughed at him. But he 
+				<crossref let="x" cid="c41005040.1">
+				</crossref>
+				put them all outside and took the child's father and mother and those who were with him and went in where the child was.
+			</verse>
+			<marker class="begin-verse" mid="v41005041">
+			</marker>
+			<verse num="41">
+				<crossref let="y" cid="c41005041.1">
+				</crossref>
+				Taking her by the hand he said to her, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Talitha cumi,
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 which means, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Little girl, I say to you, 
+					<crossref let="z" cid="c41005041.2">
+					</crossref>
+					arise.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41005042">
+			</marker>
+			<verse num="42">
+				And immediately the girl got up and began walking (for she was twelve years of age), and they were immediately overcome with amazement.
+			</verse>
+			<marker class="begin-verse" mid="v41005043">
+			</marker>
+			<verse num="43">
+				And 
+				<crossref let="a" cid="c41005043.1">
+				</crossref>
+				he strictly charged them that no one should know this, and told them to give her something to eat.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

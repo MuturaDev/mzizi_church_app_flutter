@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01015001">
+		</marker>
+		<chapter num="15">
+			<heading
+				>
+				God's Covenant with Abram
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				After these things the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to Abram in a vision: 
+				<crossref let="c" cid="c01015001.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Fear not, Abram, I am 
+				<crossref let="d" cid="c01015001.2">
+				</crossref>
+				your shield; your reward shall be very great.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01015002">
+			</marker>
+			<verse num="2">
+				But Abram said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O Lord 
+				<span class="divine-name">
+					God
+				</span>
+				, what will you give me, for I continue
+				<note nid="n01015002.1">
+				</note>
+				 childless, and the heir of my house is Eliezer of Damascus?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01015003">
+			</marker>
+			<verse num="3">
+				And Abram said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, you have given me no offspring, and 
+				<crossref let="e" cid="c01015003.1">
+				</crossref>
+				a member of my household will be my heir.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01015004">
+			</marker>
+			<verse num="4">
+				And behold, the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to him: 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This man shall not be your heir; 
+				<crossref let="f" cid="c01015004.1">
+				</crossref>
+				your very own son
+				<note nid="n01015004.1">
+				</note>
+				 shall be your heir.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01015005">
+			</marker>
+			<verse num="5">
+				And he brought him outside and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Look toward heaven, and 
+				<crossref let="g" cid="c01015005.1">
+				</crossref>
+				number the stars, if you are able to number them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Then he said to him, 
+				<crossref let="h" cid="c01015005.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				So shall your offspring be.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01015006">
+			</marker>
+			<verse num="6">
+				And 
+				<crossref let="i" cid="c01015006.1">
+				</crossref>
+				he believed the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and 
+				<crossref let="j" cid="c01015006.2">
+				</crossref>
+				he counted it to him as righteousness.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01015007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				And he said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 who 
+				<crossref let="k" cid="c01015007.1">
+				</crossref>
+				brought you out from Ur of the Chaldeans 
+				<crossref let="l" cid="c01015007.2">
+				</crossref>
+				to give you this land to possess.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01015008">
+			</marker>
+			<verse num="8">
+				But he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O Lord 
+				<span class="divine-name">
+					God
+				</span>
+				, 
+				<crossref let="m" cid="c01015008.1">
+				</crossref>
+				how am I to know that I shall possess it?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01015009">
+			</marker>
+			<verse num="9">
+				He said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01015010">
+			</marker>
+			<verse num="10">
+				And he brought him all these, 
+				<crossref let="n" cid="c01015010.1">
+				</crossref>
+				cut them in half, and laid each half over against the other. But 
+				<crossref let="o" cid="c01015010.2">
+				</crossref>
+				he did not cut the birds in half.
+			</verse>
+			<marker class="begin-verse" mid="v01015011">
+			</marker>
+			<verse num="11">
+				And when birds of prey came down on the carcasses, Abram drove them away.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01015012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				As the sun was going down, a 
+				<crossref let="p" cid="c01015012.1">
+				</crossref>
+				deep sleep fell on Abram. And behold, dreadful and great darkness fell upon him.
+			</verse>
+			<marker class="begin-verse" mid="v01015013">
+			</marker>
+			<verse num="13">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Abram, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Know for certain 
+				<crossref let="q" cid="c01015013.1">
+				</crossref>
+				that your offspring will be sojourners in a land that is not theirs and will be servants there, and 
+				<crossref let="r" cid="c01015013.2">
+				</crossref>
+				they will be afflicted for 
+				<crossref let="s" cid="c01015013.3">
+				</crossref>
+				four hundred years.
+			</verse>
+			<marker class="begin-verse" mid="v01015014">
+			</marker>
+			<verse num="14">
+				But 
+				<crossref let="t" cid="c01015014.1">
+				</crossref>
+				I will bring judgment on the nation that they serve, and afterward 
+				<crossref let="u" cid="c01015014.2">
+				</crossref>
+				they shall come out with great possessions.
+			</verse>
+			<marker class="begin-verse" mid="v01015015">
+			</marker>
+			<verse num="15">
+				As for yourself, you shall go to your fathers in peace; 
+				<crossref let="v" cid="c01015015.1">
+				</crossref>
+				you shall be buried in a good old age.
+			</verse>
+			<marker class="begin-verse" mid="v01015016">
+			</marker>
+			<verse num="16">
+				And they shall come back here in the fourth generation, for 
+				<crossref let="w" cid="c01015016.1">
+				</crossref>
+				the iniquity of the Amorites 
+				<crossref let="x" cid="c01015016.2">
+				</crossref>
+				is not yet complete.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01015017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				When the sun had gone down and it was dark, behold, a smoking fire pot and a flaming torch passed between these pieces.
+			</verse>
+			<marker class="begin-verse" mid="v01015018">
+			</marker>
+			<verse num="18">
+				On that day the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 made a covenant with Abram, saying, 
+				<crossref let="y" cid="c01015018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				To your offspring I give
+				<note nid="n01015018.1">
+				</note>
+				 this land, from 
+				<crossref let="z" cid="c01015018.2">
+				</crossref>
+				the river of Egypt to the great river, the river Euphrates,
+			</verse>
+			<marker class="begin-verse" mid="v01015019">
+			</marker>
+			<verse num="19">
+				the land of the Kenites, the Kenizzites, the Kadmonites,
+			</verse>
+			<marker class="begin-verse" mid="v01015020">
+			</marker>
+			<verse num="20">
+				the Hittites, the Perizzites, the Rephaim,
+			</verse>
+			<marker class="begin-verse" mid="v01015021">
+			</marker>
+			<verse num="21">
+				the Amorites, the Canaanites, the Girgashites and the Jebusites.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

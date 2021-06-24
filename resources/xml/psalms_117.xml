@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19117001">
+		</marker>
+		<chapter num="117">
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				's Faithfulness Endures Forever
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c19117001.1">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, all nations!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Extol him, all peoples!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19117002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="d" cid="c19117002.1">
+				</crossref>
+				great is his steadfast love toward us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="e" cid="c19117002.2">
+				</crossref>
+				the faithfulness of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 endures forever.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c19117002.3">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

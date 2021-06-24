@@ -12,6 +12,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/auth
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/make_a_pledge_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/mzizi_app_version_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_global_settings_request_model.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_list_onboarding_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_notification_read_tracking_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_notification_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_parent_chat_request_model.dart';
@@ -25,9 +26,11 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/por
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_church_services_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_contacts_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_detailed_todo_list_response.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_enquiry_types_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_events_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_fee_transaction_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_filtered_student_info_response_model.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_list_onboarding_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_member_profile_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_notification_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_parent_chat_response_model.dart';
@@ -188,10 +191,10 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<MziziAppVersion> authUserList = new List();
+     MziziAppVersion authUserList;
 
     await _client.apiGetMziziAppVersion(version.toJson()).then((response) {
-      authUserList.add(response);
+      authUserList = response;
     }).catchError((Object obj) {
       return authUserList;
     });
@@ -244,15 +247,15 @@ class ApiController {
     // return data;
   }
 
-  static dynamic _getDummyEvents() {
-    final List<PortalEvents> responseList = new List();
-    for (Map<String, dynamic> outerMap in events) {
-      var eventObj = PortalEvents.fromJson(outerMap);
-      responseList.add(eventObj);
-    }
+  // static dynamic _getDummyEvents() {
+  //   final List<PortalEvents> responseList = new List();
+  //   for (Map<String, dynamic> outerMap in events) {
+  //     var eventObj = PortalEvents.fromJson(outerMap);
+  //     responseList.add(eventObj);
+  //   }
 
-    return responseList;
-  }
+  //   return responseList;
+  // }
 
   static Future<dynamic> sendRequestForPortalNotifications(
       PortalNotificationRequest notification) async {
@@ -567,15 +570,15 @@ class ApiController {
     return notificationMessageList;
   }
 
-  static dynamic _getDummySMSHistory() {
-    final List<PortalNotification> responseList = new List();
-    for (Map<String, dynamic> outerMap in smsHistory) {
-      var smss = PortalNotification.fromJson(outerMap);
-      responseList.add(smss);
-    }
+  // static dynamic _getDummySMSHistory() {
+  //   final List<PortalNotification> responseList = new List();
+  //   for (Map<String, dynamic> outerMap in smsHistory) {
+  //     var smss = PortalNotification.fromJson(outerMap);
+  //     responseList.add(smss);
+  //   }
 
-    return responseList;
-  }
+  //   return responseList;
+  // }
 
   static Future<dynamic> sendRequestForPortalChargeTypes() async {
     List<AuthenticationUserResponse> list =
@@ -607,117 +610,55 @@ class ApiController {
     // return data;
   }
 
-  static dynamic _getDummyChargeTypes() {
-    final List<PortalChargeTypeResponseModel> responseList = new List();
-    for (Map<String, dynamic> outerMap in chargeType) {
-      var charge = PortalChargeTypeResponseModel.fromJson(outerMap);
-      responseList.add(charge);
-    }
+  // static dynamic _getDummyChargeTypes() {
+  //   final List<PortalChargeTypeResponseModel> responseList = new List();
+  //   for (Map<String, dynamic> outerMap in chargeType) {
+  //     var charge = PortalChargeTypeResponseModel.fromJson(outerMap);
+  //     responseList.add(charge);
+  //   }
 
-    return responseList;
-  }
+  //   return responseList;
+  // }
 
-  static Future<dynamic> sendRequestForPortalChurchServices(
-      DateTime _dateTime, String selectedServiceType) async {
-    // Student request = await AuthenticateUserDAO().getStudent();
-    // final Dio dio = Dio();
-    // dio.options.headers["Content-Type"] = "application/json";
-    // final _client = RestClient(dio);
+  static Future<dynamic> sendRequestForPortalChurchServices() async {
+    Student request = await AuthenticateUserDAO().getStudent();
+    final Dio dio = Dio();
+    dio.options.headers["Content-Type"] = "application/json";
+    final _client = RestClient(dio);
 
-    // final List<PortalChurchServices> responseList = new List();
-
-    // try {
-    //   await _client
-    //       .apiGetPortalChurchServices(request.toJson())
-    //       .then((response) {
-    //     responseList.addAll(response);
-    //   }).catchError((Object obj) {
-    //     return responseList;
-    //   });
-    // } catch (e) {
-    //   return responseList;
-    // }
-
-    // return responseList;
-
-    //TODO: SHOULD REMOVE THIS IN PRODUCTION
-    dynamic responseList = await _getDummyChurchServices();
-
-    //Filter with date
-    List<PortalChurchServices> filterListWithDate = new List();
-    //https://stackoverflow.com/questions/16126579/how-do-i-format-a-date-with-dart
-    final DateFormat formatter = DateFormat('yyyy-MM-dd');
-    final String selectedChurchDate = formatter.format(_dateTime);
-
-    for (var service in responseList) {
-      final String churchDate =
-          _getFormatedChurchDate(service.ChurchServiceDate);
-      if (churchDate == selectedChurchDate) {
-        filterListWithDate.add(service);
-      }
-    }
-
-    //Filter with service type
-
-    List<PortalChurchServices> filterListWithServiceType = new List();
-   // if (selectedServiceType == "-1") {
-      for (var service in filterListWithDate) {
-        if (service.ServiceType == selectedServiceType) {
-          filterListWithServiceType.add(service);
-        }
-      }
-    //}
-
-    if (selectedServiceType == "-1" || selectedServiceType.isEmpty) {
-      PortalChurchServices service = new PortalChurchServices(
-          "-1", "Select Church Service", "", "", "", "", "", "", "");
-      filterListWithDate.add(service);
-    } else {
-      PortalChurchServices service = new PortalChurchServices(
-          "-1", "Select Church Service", "", "", "", "", "", "", "");
-      filterListWithServiceType.add(service);
-    }
-
-    return selectedServiceType == "-1" || selectedServiceType.isEmpty
-        ? filterListWithDate.reversed.toList()
-        : filterListWithServiceType.reversed.toList();
-  }
-
-  static String _getFormatedChurchDate(String dateToSplite) {
-    final DateFormat formatter = DateFormat('yyyy-MM-dd');
-    //String dateToSplite = "8/30/2020 12:00:00 AM";
-    var spliteDate = dateToSplite.split(" ");
-    var dateParts = spliteDate[0].split("/"); //0=month, 1=day, 2=year
-
-    DateTime date; //2020-09-6
-    try {
-      //2020-08-30
-      var month =
-          dateParts[0].split("").length > 1 ? dateParts[0] : "0" + dateParts[0];
-      var day =
-          dateParts[1].split("").length > 1 ? dateParts[1] : "0" + dateParts[1];
-      date = DateTime.parse(dateParts[2] + "-" + month + "-" + day);
-    } catch (e) {
-      // return responseList;
-    }
-    return formatter.format(date);
-  }
-
-  static dynamic _getDummyChurchServices() {
     final List<PortalChurchServices> responseList = new List();
 
-    for (Map<String, dynamic> outerMap in churchServices) {
-      var services = PortalChurchServices.fromJson(outerMap);
-      responseList.add(services);
+    try {
+      await _client
+          .apiGetPortalChurchServices(request.toJson())
+          .then((response) {
+        responseList.addAll(response);
+      }).catchError((Object obj) {
+        return responseList;
+      });
+    } catch (e) {
+      return responseList;
     }
 
+    //  dynamic responseList = await _getDummyChurchServices();
     return responseList;
   }
+
+  // static dynamic _getDummyChurchServices() {
+  //   final List<PortalChurchServices> responseList = new List();
+
+  //   for (Map<String, dynamic> outerMap in churchServices) {
+  //     var services = PortalChurchServices.fromJson(outerMap);
+  //     responseList.add(services);
+  //   }
+
+  //   return responseList;
+  // }
 
   static Future<dynamic> sendRequestForPortalServiceTypes() async {
     Student request = await AuthenticateUserDAO().getStudent();
     //TODO: SHOULD BE REMOVED
-    request.AppCode = "1003";
+    // request.AppCode = "1003";
 
     final Dio dio = Dio();
     dio.options.headers["Content-Type"] = "application/json";
@@ -744,18 +685,18 @@ class ApiController {
     // return data;
   }
 
-  static dynamic _getDummyServiceType() {
-    final List<ServiceTypesModel> responseList = new List();
-    ServiceTypesModel serviceType =
-        new ServiceTypesModel(ID: "-1", Name: "Select Service Type");
-    responseList.add(serviceType);
-    for (Map<String, dynamic> outerMap in serviceTypes) {
-      var serviceType = ServiceTypesModel.fromJson(outerMap);
-      responseList.add(serviceType);
-    }
+  // static dynamic _getDummyServiceType() {
+  //   final List<ServiceTypesModel> responseList = new List();
+  //   ServiceTypesModel serviceType =
+  //       new ServiceTypesModel(ID: "-1", Name: "Select Service Type");
+  //   responseList.add(serviceType);
+  //   for (Map<String, dynamic> outerMap in serviceTypes) {
+  //     var serviceType = ServiceTypesModel.fromJson(outerMap);
+  //     responseList.add(serviceType);
+  //   }
 
-    return responseList;
-  }
+  //   return responseList;
+  // }
 
   static Future<dynamic> sendReqeustForPortalVideoGallery() async {
     Student request = await AuthenticateUserDAO().getStudent();
@@ -805,16 +746,16 @@ class ApiController {
     // return data;
   }
 
-  static dynamic _getDummyProfileMemberProfile() {
-    //final List<PortalMemberProfile> responseList = new List();
-    var album;
-    for (Map<String, dynamic> outerMap in profile) {
-      album = PortalMemberProfileModel.fromJson(outerMap);
-      //responseList.add(album);
-    }
+  // static dynamic _getDummyProfileMemberProfile() {
+  //   //final List<PortalMemberProfile> responseList = new List();
+  //   var album;
+  //   for (Map<String, dynamic> outerMap in profile) {
+  //     album = PortalMemberProfileModel.fromJson(outerMap);
+  //     //responseList.add(album);
+  //   }
 
-    return album;
-  }
+  //   return album;
+  // }
 
   static Future<dynamic> sendRequestForPortalApplications(
       PortalSelfEnrollApplication payload) async {
@@ -831,8 +772,8 @@ class ApiController {
       "AppCode": request[0].AppCode,
       "OrganizationID": request[0].OrganizationID
     };
-    final List<PortalPhotoGallery> responseList = new List();
 
+    var responseBody;
     try {
       await _client.apiGetPortalGlobalSettings(requestPayload).then((response) {
         responseSetting = response;
@@ -849,21 +790,32 @@ class ApiController {
         var uriResponse = await client.post(
             responseSetting.GlobalSettingValue + url,
             body: payload.toJson());
-        body = json.decode(uriResponse.body);
+
+        if (uriResponse.statusCode == 200) {
+          body = json.decode(uriResponse.body);
+          if (body.containsKey("200")) {
+            responseBody = {"StatusCode": "200", "Message": body["200"]};
+          } else if (body.containsKey("500")) {
+            responseBody = {"StatusCode": "500", "Message": body["500"]};
+          } else {
+            responseBody = {"StatusCode": "500", "Message": uriResponse.body};
+          }
+        } else if (uriResponse.statusCode == 500) {
+          responseBody = {"StatusCode": "500", "Message": uriResponse.body};
+        }
+
         //print(await client.get(uriResponse.bodyFields['uri']));
       } finally {
         client.close();
       }
-
-      for (Map<String, dynamic> outerMap in body) {
-        var album = PortalPhotoGallery.fromJson(outerMap);
-        responseList.add(album);
-      }
-    } catch (e) {
-      return responseList;
+    } catch (obj) {
+      var statusCode = obj.response.statusCode.toString();
+      var message = obj.message.toString();
+      return {"StatusCode": statusCode, "Message": message};
+      //return responseBody;
     }
 
-    return responseList;
+    return responseBody;
   }
 
   static Future<dynamic> sendRequestForPortalPortalPhotoGallery() async {
@@ -916,13 +868,120 @@ class ApiController {
     return responseList;
   }
 
-  static dynamic _getDummyPhotoGallery() {
-    final List<PortalPhotoGallery> responseList = new List();
-    for (Map<String, dynamic> outerMap in photosAlbums) {
-      var album = PortalPhotoGallery.fromJson(outerMap);
-      responseList.add(album);
+  // static dynamic _getDummyPhotoGallery() {
+  //   final List<PortalPhotoGallery> responseList = new List();
+  //   for (Map<String, dynamic> outerMap in photosAlbums) {
+  //     var album = PortalPhotoGallery.fromJson(outerMap);
+  //     responseList.add(album);
+  //   }
+
+  //   return responseList;
+  // }
+
+//TODO: REMOVE THIS IN PRODUCTION
+  static Future<dynamic> sendRequestForPortalEnquiryTypes() async {
+    Student request = await AuthenticateUserDAO().getStudent();
+
+    final Dio dio = Dio();
+    dio.options.headers["Content-Type"] = "application/json";
+    final _client = RestClient(dio);
+
+    dynamic responseObj;
+
+    try {
+      await _client.apiGetPortalEnquiryTypes(request.toJson()).then((response) {
+        responseObj = response;
+      }).catchError((Object obj) {
+        return responseObj;
+      });
+    } catch (e) {
+      return responseObj;
+    }
+    //return await _getDummyEnquiryTypes(responseObj.toJson());
+    return responseObj;
+  }
+
+  static dynamic _getDummyEnquiryTypes(var responseObj) {
+    final List<PortalEnquiryTypes> responseList = new List();
+    var response;
+    for (Map<String, dynamic> outerMap in responseObj) {
+      response = PortalEnquiryTypes.fromJson(outerMap);
+      responseList.add(response);
     }
 
     return responseList;
   }
+
+  static Future<dynamic> sendRequestForPortalListOnboarding(
+      {String listOnBoardingID,
+      String isChecked,
+      String method = "GET",
+      String membershipCharge}) async {
+    Student student = await AuthenticateUserDAO().getStudent();
+
+    ListOnboardingRequest request = new ListOnboardingRequest(student.StudentID,
+        listOnBoardingID, isChecked, student.AppCode, method, membershipCharge);
+
+    final Dio dio = Dio();
+    dio.options.headers["Content-Type"] = "application/json";
+    final _client = RestClient(dio);
+
+    dynamic responseObj;
+
+    try {
+      await _client.apiGetListOnboarding(request.toJson()).then((response) {
+        responseObj = response;
+      }).catchError((Object obj) {
+        return responseObj;
+      });
+    } catch (ex) {
+      return responseObj;
+    }
+
+    //responseObj = _getDummyListOnboardingList();
+
+    return responseObj;
+  }
+
+  static dynamic _getDummyListOnboardingList() {
+    final List<PortalListOnboardingResponseModel> responseList = new List();
+    var response;
+    for (Map<String, dynamic> outerMap in listOnboardingList) {
+      response = PortalListOnboardingResponseModel.fromJson(outerMap);
+      responseList.add(response);
+    }
+
+    return responseList;
+  }
+
+  static Future<dynamic> sendRequestForDeviceFCMToken(String token) async {
+    List<AuthenticationUserResponse> request =
+        await AuthenticateUserDAO().getUser();
+
+    final Map<String, dynamic> requestmap = {
+      "StudentID": request[0].UserID,
+      "SchoolID": request[0].SchoolID,
+      "OrganizationID": request[0].OrganizationID,
+      "DeviceFCMToken": token,
+      "AppCode": request[0].AppCode
+    };
+
+    final Dio dio = Dio();
+    dio.options.headers["Content-Type"] = "application/json";
+    final _client = RestClient(dio);
+
+    dynamic responseObj;
+
+    try {
+      await _client.apiGetPortalDeviceFCMToken(requestmap).then((response) {
+        responseObj = response;
+      }).catchError((Object obj) {
+        return responseObj;
+      });
+    } catch (ex) {
+      return responseObj;
+    }
+  }
+
+ 
 }

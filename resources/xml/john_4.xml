@@ -1,0 +1,763 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="John" num="42">
+		<marker class="begin-verse" mid="v43004001">
+		</marker>
+		<chapter num="4">
+			<heading
+				>
+				Jesus and the Woman of Samaria
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now when Jesus learned that the Pharisees had heard that Jesus was making and 
+				<crossref let="b" cid="c43004001.1">
+				</crossref>
+				baptizing more disciples than John
+			</verse>
+			<marker class="begin-verse" mid="v43004002">
+			</marker>
+			<verse num="2">
+				(although Jesus himself did not baptize, but only his disciples),
+			</verse>
+			<marker class="begin-verse" mid="v43004003">
+			</marker>
+			<verse num="3">
+				he left Judea and departed 
+				<crossref let="c" cid="c43004003.1">
+				</crossref>
+				again for Galilee.
+			</verse>
+			<marker class="begin-verse" mid="v43004004">
+			</marker>
+			<verse num="4">
+				<crossref let="d" cid="c43004004.1">
+				</crossref>
+				And he had to pass through Samaria.
+			</verse>
+			<marker class="begin-verse" mid="v43004005">
+			</marker>
+			<verse num="5">
+				So he came to a town of Samaria called Sychar, near the field 
+				<crossref let="e" cid="c43004005.1">
+				</crossref>
+				that Jacob had given to his son Joseph.
+			</verse>
+			<marker class="begin-verse" mid="v43004006">
+			</marker>
+			<verse num="6">
+				Jacob's well was there; so Jesus, 
+				<crossref let="f" cid="c43004006.1">
+				</crossref>
+				wearied as he was from his journey, was sitting beside the well. It was about the sixth hour.
+				<note nid="n43004006.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43004007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				A woman from Samaria came to draw water. Jesus said to her, 
+				<woc
+					>
+					<crossref let="f" cid="c43004007.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Give me a drink.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004008">
+			</marker>
+			<verse num="8">
+				(For his disciples had gone away into the city to buy food.)
+			</verse>
+			<marker class="begin-verse" mid="v43004009">
+			</marker>
+			<verse num="9">
+				The Samaritan woman said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How is it that you, a Jew, ask for a drink from me, a woman of Samaria?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 (
+				<crossref let="g" cid="c43004009.1">
+				</crossref>
+				For Jews have no dealings with Samaritans.)
+			</verse>
+			<marker class="begin-verse" mid="v43004010">
+			</marker>
+			<verse num="10">
+				Jesus answered her, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If you knew the gift of God, and who it is that is saying to you, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Give me a drink,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 you would have asked him, and he would have given you 
+					<crossref let="h" cid="c43004010.1">
+					</crossref>
+					living water.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004011">
+			</marker>
+			<verse num="11">
+				The woman said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Sir, you have nothing to draw water with, and the well is deep. Where do you get that living water?
+			</verse>
+			<marker class="begin-verse" mid="v43004012">
+			</marker>
+			<verse num="12">
+				<crossref let="i" cid="c43004012.1">
+				</crossref>
+				Are you greater than our father Jacob? 
+				<crossref let="j" cid="c43004012.2">
+				</crossref>
+				He gave us the well and drank from it himself, as did his sons and his livestock.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43004013">
+			</marker>
+			<verse num="13">
+				Jesus said to her, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Everyone who drinks of this water will be thirsty again,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004014">
+			</marker>
+			<verse num="14" class="woc">
+				<woc
+					>
+					but 
+					<crossref let="k" cid="c43004014.1">
+					</crossref>
+					whoever drinks of the water that I will give him 
+					<crossref let="l" cid="c43004014.2">
+					</crossref>
+					will never be thirsty again.
+					<note nid="n43004014.1">
+					</note>
+					 The water that I will give him will become 
+					<crossref let="m" cid="c43004014.3">
+					</crossref>
+					in him a spring of water welling up to eternal life.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004015">
+			</marker>
+			<verse num="15">
+				The woman said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Sir, 
+				<crossref let="n" cid="c43004015.1">
+				</crossref>
+				give me this water, so that I will not be thirsty or have to come here to draw water.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43004016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				Jesus said to her, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go, 
+					<crossref let="o" cid="c43004016.1">
+					</crossref>
+					call your husband, and come here.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004017">
+			</marker>
+			<verse num="17">
+				The woman answered him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have no husband.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Jesus said to her, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You are right in saying, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					I have no husband
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					;
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					for you have had five husbands, and the one you now have is not your husband. What you have said is true.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004019">
+			</marker>
+			<verse num="19">
+				The woman said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Sir, I perceive that 
+				<crossref let="p" cid="c43004019.1">
+				</crossref>
+				you are 
+				<crossref let="q" cid="c43004019.2">
+				</crossref>
+				a prophet.
+			</verse>
+			<marker class="begin-verse" mid="v43004020">
+			</marker>
+			<verse num="20">
+				<crossref let="r" cid="c43004020.1">
+				</crossref>
+				Our fathers worshiped on 
+				<crossref let="s" cid="c43004020.2">
+				</crossref>
+				this mountain, but you say that 
+				<crossref let="t" cid="c43004020.3">
+				</crossref>
+				in Jerusalem is 
+				<crossref let="u" cid="c43004020.4">
+				</crossref>
+				the place where people ought to worship.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43004021">
+			</marker>
+			<verse num="21">
+				Jesus said to her, 
+				<woc
+					>
+					<crossref let="v" cid="c43004021.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Woman, believe me, 
+					<crossref let="w" cid="c43004021.2">
+					</crossref>
+					the hour is coming when 
+					<crossref let="x" cid="c43004021.3">
+					</crossref>
+					neither on this mountain nor in Jerusalem will you worship the Father.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004022">
+			</marker>
+			<verse num="22" class="woc">
+				<woc
+					>
+					<crossref let="y" cid="c43004022.1">
+					</crossref>
+					You worship what you do not know; 
+					<crossref let="z" cid="c43004022.2">
+					</crossref>
+					we worship what we know, for 
+					<crossref let="z" cid="c43004022.3">
+					</crossref>
+					salvation is 
+					<crossref let="a" cid="c43004022.4">
+					</crossref>
+					from the Jews.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004023">
+			</marker>
+			<verse num="23" class="woc">
+				<woc
+					>
+					But 
+					<crossref let="b" cid="c43004023.1">
+					</crossref>
+					the hour is coming, and is now here, when the true worshipers will worship the Father 
+					<crossref let="c" cid="c43004023.2">
+					</crossref>
+					in spirit and 
+					<crossref let="d" cid="c43004023.3">
+					</crossref>
+					truth, for the Father 
+					<crossref let="e" cid="c43004023.4">
+					</crossref>
+					is seeking such people to worship him.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					God is spirit, and those who worship him must worship in spirit and truth.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004025">
+			</marker>
+			<verse num="25">
+				The woman said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I know that 
+				<crossref let="f" cid="c43004025.1">
+				</crossref>
+				Messiah is coming (he who is called Christ). When he comes, 
+				<crossref let="g" cid="c43004025.2">
+				</crossref>
+				he will tell us all things.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43004026">
+			</marker>
+			<verse num="26">
+				Jesus said to her, 
+				<woc
+					>
+					<crossref let="h" cid="c43004026.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I who speak to you am he.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43004027">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				Just then 
+				<crossref let="i" cid="c43004027.1">
+				</crossref>
+				his disciples came back. They marveled that he was talking with a woman, but no one said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What do you seek?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 or, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why are you talking with her?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43004028">
+			</marker>
+			<verse num="28">
+				So the woman left her water jar and went away into town and said to the people,
+			</verse>
+			<marker class="begin-verse" mid="v43004029">
+			</marker>
+			<verse num="29">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come, see a man 
+				<crossref let="j" cid="c43004029.1">
+				</crossref>
+				who told me all that I ever did. Can this be the Christ?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43004030">
+			</marker>
+			<verse num="30">
+				They went out of the town and were coming to him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43004031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				Meanwhile the disciples were urging him, saying, 
+				<crossref let="k" cid="c43004031.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Rabbi, eat.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43004032">
+			</marker>
+			<verse num="32">
+				But he said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I have food to eat that you do not know about.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004033">
+			</marker>
+			<verse num="33">
+				So the disciples said to one another, 
+				<crossref let="l" cid="c43004033.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Has anyone brought him something to eat?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43004034">
+			</marker>
+			<verse num="34">
+				Jesus said to them, 
+				<woc
+					>
+					<crossref let="m" cid="c43004034.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					My food is 
+					<crossref let="n" cid="c43004034.2">
+					</crossref>
+					to do the will of him who sent me and 
+					<crossref let="o" cid="c43004034.3">
+					</crossref>
+					to accomplish his work.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004035">
+			</marker>
+			<verse num="35" class="woc">
+				<woc
+					>
+					Do you not say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					There are yet four months, then comes the harvest
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					? Look, I tell you, lift up your eyes, and see that 
+					<crossref let="p" cid="c43004035.1">
+					</crossref>
+					the fields are white for harvest.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004036">
+			</marker>
+			<verse num="36" class="woc">
+				<woc
+					>
+					Already
+				</woc>
+				<woc
+					>
+					the one who reaps is receiving wages and gathering fruit for eternal life, so that 
+					<crossref let="q" cid="c43004036.1">
+					</crossref>
+					sower and 
+					<crossref let="r" cid="c43004036.2">
+					</crossref>
+					reaper 
+					<crossref let="s" cid="c43004036.3">
+					</crossref>
+					may rejoice together.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004037">
+			</marker>
+			<verse num="37" class="woc">
+				<woc
+					>
+					For here the saying holds true, 
+					<crossref let="t" cid="c43004037.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					One sows and another reaps.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004038">
+			</marker>
+			<verse num="38" class="woc">
+				<woc
+					>
+					I sent you to reap 
+					<crossref let="u" cid="c43004038.1">
+					</crossref>
+					that for which you did not labor. Others have labored, 
+					<crossref let="v" cid="c43004038.2">
+					</crossref>
+					and you have entered into their labor.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43004039">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="39">
+				Many Samaritans 
+				<crossref let="w" cid="c43004039.1">
+				</crossref>
+				from that town believed in him 
+				<crossref let="x" cid="c43004039.2">
+				</crossref>
+				because of 
+				<crossref let="y" cid="c43004039.3">
+				</crossref>
+				the woman's testimony, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He told me all that I ever did.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43004040">
+			</marker>
+			<verse num="40">
+				So when the Samaritans came to him, they asked him to stay with them, and he stayed there two days.
+			</verse>
+			<marker class="begin-verse" mid="v43004041">
+			</marker>
+			<verse num="41">
+				And many more believed 
+				<crossref let="z" cid="c43004041.1">
+				</crossref>
+				because of his word.
+			</verse>
+			<marker class="begin-verse" mid="v43004042">
+			</marker>
+			<verse num="42">
+				They said to the woman, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is no longer because of what you said that we believe, for we have heard for ourselves, 
+				<crossref let="a" cid="c43004042.1">
+				</crossref>
+				and we know that this is indeed 
+				<crossref let="b" cid="c43004042.2">
+				</crossref>
+				the Savior 
+				<crossref let="c" cid="c43004042.3">
+				</crossref>
+				of the world.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43004043">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="43">
+				After 
+				<crossref let="d" cid="c43004043.1">
+				</crossref>
+				the two days he departed for Galilee.
+			</verse>
+			<marker class="begin-verse" mid="v43004044">
+			</marker>
+			<verse num="44">
+				(For Jesus himself had testified 
+				<crossref let="e" cid="c43004044.1">
+				</crossref>
+				that a prophet has no honor in his own hometown.)
+			</verse>
+			<marker class="begin-verse" mid="v43004045">
+			</marker>
+			<verse num="45">
+				So when he came to Galilee, the Galileans welcomed him, 
+				<crossref let="f" cid="c43004045.1">
+				</crossref>
+				having seen all that he had done in Jerusalem at the feast. For 
+				<crossref let="g" cid="c43004045.2">
+				</crossref>
+				they too had gone to the feast.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43004046">
+			</marker>
+			<heading
+				>
+				Jesus Heals an Official's Son
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="46">
+				So he came again to 
+				<crossref let="h" cid="c43004046.1">
+				</crossref>
+				Cana in Galilee, 
+				<crossref let="i" cid="c43004046.2">
+				</crossref>
+				where he had made the water wine. And at Capernaum there was an official whose son was ill.
+			</verse>
+			<marker class="begin-verse" mid="v43004047">
+			</marker>
+			<verse num="47">
+				When this man heard that Jesus 
+				<crossref let="j" cid="c43004047.1">
+				</crossref>
+				had come from Judea to Galilee, he went to him and asked him to come down and heal his son, for he was at the point of death.
+			</verse>
+			<marker class="begin-verse" mid="v43004048">
+			</marker>
+			<verse num="48">
+				So Jesus said to him, 
+				<woc
+					>
+					<crossref let="k" cid="c43004048.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Unless you see signs and wonders you will not believe.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43004049">
+			</marker>
+			<verse num="49">
+				The official said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Sir, come down 
+				<crossref let="l" cid="c43004049.1">
+				</crossref>
+				before my child dies.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43004050">
+			</marker>
+			<verse num="50">
+				Jesus said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go; your son will live.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 The man believed the word that Jesus spoke to him and went on his way.
+			</verse>
+			<marker class="begin-verse" mid="v43004051">
+			</marker>
+			<verse num="51">
+				As he was going down, his servants
+				<note nid="n43004051.1">
+				</note>
+				 met him and told him that his son was recovering.
+			</verse>
+			<marker class="begin-verse" mid="v43004052">
+			</marker>
+			<verse num="52">
+				So he asked them the hour when he began to get better, and they said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Yesterday at the seventh hour
+				<note nid="n43004052.1">
+				</note>
+				 the fever left him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43004053">
+			</marker>
+			<verse num="53">
+				The father knew that was the hour when Jesus had said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Your son will live.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And he himself believed, 
+				<crossref let="m" cid="c43004053.1">
+				</crossref>
+				and all his household.
+			</verse>
+			<marker class="begin-verse" mid="v43004054">
+			</marker>
+			<verse num="54">
+				<crossref let="n" cid="c43004054.1">
+				</crossref>
+				This was now the second sign that Jesus did when he had come from Judea to Galilee.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

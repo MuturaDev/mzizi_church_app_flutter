@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Samuel" num="9">
+		<marker class="begin-verse" mid="v10014001">
+		</marker>
+		<chapter num="14">
+			<heading
+				>
+				Absalom Returns to Jerusalem
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now Joab the son of Zeruiah knew 
+				<crossref let="u" cid="c10014001.1">
+				</crossref>
+				that the king's heart went out to Absalom.
+			</verse>
+			<marker class="begin-verse" mid="v10014002">
+			</marker>
+			<verse num="2">
+				And Joab sent to 
+				<crossref let="v" cid="c10014002.1">
+				</crossref>
+				Tekoa and brought from there a wise woman and said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Pretend to be a mourner and put on mourning garments. 
+				<crossref let="w" cid="c10014002.2">
+				</crossref>
+				Do not anoint yourself with oil, but behave like a woman who has been mourning many days for the dead.
+			</verse>
+			<marker class="begin-verse" mid="v10014003">
+			</marker>
+			<verse num="3">
+				Go to the king and speak thus to him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So Joab 
+				<crossref let="x" cid="c10014003.1">
+				</crossref>
+				put the words in her mouth.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10014004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				When the woman of Tekoa came to the king, 
+				<crossref let="y" cid="c10014004.1">
+				</crossref>
+				she fell on her face to the ground and paid homage and said, 
+				<crossref let="z" cid="c10014004.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Save me, O king.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10014005">
+			</marker>
+			<verse num="5">
+				And the king said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is your trouble?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 She answered, 
+				<crossref let="a" cid="c10014005.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Alas, I am a widow; my husband is dead.
+			</verse>
+			<marker class="begin-verse" mid="v10014006">
+			</marker>
+			<verse num="6">
+				And your servant had two sons, and they quarreled with one another in the field. There was no one to separate them, and one struck the other and killed him.
+			</verse>
+			<marker class="begin-verse" mid="v10014007">
+			</marker>
+			<verse num="7">
+				And now the whole clan has risen against your servant, and they say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Give up the man who struck his brother, that we may put him to death for the life of his brother whom he killed.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 And so they would 
+				<crossref let="b" cid="c10014007.1">
+				</crossref>
+				destroy the heir also. Thus they would quench my coal that is left and leave to my husband neither name nor 
+				<crossref let="c" cid="c10014007.2">
+				</crossref>
+				remnant on the face of the earth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10014008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Then the king said to the woman, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go to your house, and I will give orders concerning you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10014009">
+			</marker>
+			<verse num="9">
+				And the woman of Tekoa said to the king, 
+				<crossref let="d" cid="c10014009.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				On me be the guilt, my lord the king, and on my father's house; let the king and his throne be guiltless.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10014010">
+			</marker>
+			<verse num="10">
+				The king said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If anyone says anything to you, bring him to me, and he shall never touch you again.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10014011">
+			</marker>
+			<verse num="11">
+				Then she said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please let the king invoke the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God, that 
+				<crossref let="e" cid="c10014011.1">
+				</crossref>
+				the avenger of blood kill no more, and my son be not destroyed.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He said, 
+				<crossref let="f" cid="c10014011.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 lives, 
+				<crossref let="g" cid="c10014011.3">
+				</crossref>
+				not one hair of your son shall fall to the ground.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10014012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				Then the woman said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please let your servant speak a word to my lord the king.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Speak.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10014013">
+			</marker>
+			<verse num="13">
+				And the woman said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why then have you planned such a thing against 
+				<crossref let="h" cid="c10014013.1">
+				</crossref>
+				the people of God? For in giving this decision the king convicts himself, inasmuch as the king does not bring 
+				<crossref let="i" cid="c10014013.2">
+				</crossref>
+				his banished one home again.
+			</verse>
+			<marker class="begin-verse" mid="v10014014">
+			</marker>
+			<verse num="14">
+				We must all die; we are 
+				<crossref let="j" cid="c10014014.1">
+				</crossref>
+				like water spilled on the ground, which cannot be gathered up again. But God will not take away life, and he devises means 
+				<crossref let="k" cid="c10014014.2">
+				</crossref>
+				so that the banished one will not remain an outcast.
+			</verse>
+			<marker class="begin-verse" mid="v10014015">
+			</marker>
+			<verse num="15">
+				Now I have come to say this to my lord the king because the people have made me afraid, and your servant thought, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will speak to the king; it may be that the king will perform the request of his servant.
+			</verse>
+			<marker class="begin-verse" mid="v10014016">
+			</marker>
+			<verse num="16">
+				For the king will hear and deliver his servant from the hand of the man who would destroy me and my son together from 
+				<crossref let="l" cid="c10014016.1">
+				</crossref>
+				the heritage of God.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10014017">
+			</marker>
+			<verse num="17">
+				And your servant thought, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The word of my lord the king will set me at rest,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 for my lord the king is 
+				<crossref let="m" cid="c10014017.1">
+				</crossref>
+				like the angel of God to discern good and evil. The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God be with you!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10014018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				Then the king answered the woman, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not hide from me anything I ask you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And the woman said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let my lord the king speak.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10014019">
+			</marker>
+			<verse num="19">
+				The king said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is the hand of Joab with you in all this?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 The woman answered and said, 
+				<crossref let="n" cid="c10014019.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As surely as you live, my lord the king, one cannot turn to the right hand or to the left from anything that my lord the king has said. It was your servant Joab who commanded me; 
+				<crossref let="o" cid="c10014019.2">
+				</crossref>
+				it was he who put all these words in the mouth of your servant.
+			</verse>
+			<marker class="begin-verse" mid="v10014020">
+			</marker>
+			<verse num="20">
+				In order to change the course of things your servant Joab did this. But my lord has wisdom like the wisdom of 
+				<crossref let="m" cid="c10014020.1">
+				</crossref>
+				the angel of God to know all things that are on the earth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10014021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				Then the king said to Joab, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold now, I grant this; go, bring back the young man Absalom.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10014022">
+			</marker>
+			<verse num="22">
+				And Joab fell on his face to the ground and paid homage 
+				<crossref let="p" cid="c10014022.1">
+				</crossref>
+				and blessed the king. And Joab said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Today your servant knows that I have found favor in your sight, my lord the king, in that the king has granted the request of his servant.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10014023">
+			</marker>
+			<verse num="23">
+				So Joab arose and went to 
+				<crossref let="q" cid="c10014023.1">
+				</crossref>
+				Geshur and brought Absalom to Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v10014024">
+			</marker>
+			<verse num="24">
+				And the king said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let him dwell apart in his own house; he is not to come into my presence.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So Absalom lived apart in his own house and did not come into the king's presence.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10014025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				Now in all Israel there was no one so much to be praised for his handsome appearance as Absalom. 
+				<crossref let="r" cid="c10014025.1">
+				</crossref>
+				From the sole of his foot to the crown of his head there was no blemish in him.
+			</verse>
+			<marker class="begin-verse" mid="v10014026">
+			</marker>
+			<verse num="26">
+				And when he cut the hair of his head (for at the end of every year he used to cut it; when it was heavy on him, he 
+				<crossref let="s" cid="c10014026.1">
+				</crossref>
+				cut it), he weighed the hair of his head, two hundred shekels
+				<note nid="n10014026.1">
+				</note>
+				 by the king's weight.
+			</verse>
+			<marker class="begin-verse" mid="v10014027">
+			</marker>
+			<verse num="27">
+				There were born 
+				<crossref let="t" cid="c10014027.1">
+				</crossref>
+				to Absalom three sons, and one daughter whose name was Tamar. She was a beautiful woman.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10014028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				So Absalom lived two full years in Jerusalem, without coming into the king's presence.
+			</verse>
+			<marker class="begin-verse" mid="v10014029">
+			</marker>
+			<verse num="29">
+				Then Absalom sent for Joab, to send him to the king, but Joab would not come to him. And he sent a second time, but Joab would not come.
+			</verse>
+			<marker class="begin-verse" mid="v10014030">
+			</marker>
+			<verse num="30">
+				Then he said to his servants, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See, Joab's field is next to mine, and he has barley there; go and set it on fire.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So Absalom's servants set the field on fire.
+				<note nid="n10014030.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v10014031">
+			</marker>
+			<verse num="31">
+				Then Joab arose and went to Absalom at his house and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have your servants set my field on fire?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10014032">
+			</marker>
+			<verse num="32">
+				Absalom answered Joab, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I sent word to you, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Come here, that I may send you to the king, to ask, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				Why have I come from 
+				<crossref let="q" cid="c10014032.1">
+				</crossref>
+				Geshur? It would be better for me to be there still.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				 Now therefore let me go into the presence of the king, 
+				<crossref let="u" cid="c10014032.2">
+				</crossref>
+				and if there is guilt in me, let him put me to death.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10014033">
+			</marker>
+			<verse num="33">
+				Then Joab went to the king and told him, and he summoned Absalom. So he came to the king and bowed himself on his face to the ground before the king, and the king kissed Absalom.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01035001">
+		</marker>
+		<chapter num="35">
+			<heading
+				>
+				God Blesses and Renames Jacob
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				God said to Jacob, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Arise, go up to 
+				<crossref let="b" cid="c01035001.1">
+				</crossref>
+				Bethel and dwell there. Make an altar there to the God who appeared to you 
+				<crossref let="c" cid="c01035001.2">
+				</crossref>
+				when you fled from your brother Esau.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01035002">
+			</marker>
+			<verse num="2">
+				So Jacob said to his 
+				<crossref let="d" cid="c01035002.1">
+				</crossref>
+				household and to all who were with him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Put away 
+				<crossref let="e" cid="c01035002.2">
+				</crossref>
+				the foreign gods that are among you and 
+				<crossref let="f" cid="c01035002.3">
+				</crossref>
+				purify yourselves and change your garments.
+			</verse>
+			<marker class="begin-verse" mid="v01035003">
+			</marker>
+			<verse num="3">
+				Then let us arise and go up to Bethel, so that I may make there an altar to the God 
+				<crossref let="g" cid="c01035003.1">
+				</crossref>
+				who answers me in the day of my distress and 
+				<crossref let="h" cid="c01035003.2">
+				</crossref>
+				has been with me wherever I have gone.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01035004">
+			</marker>
+			<verse num="4">
+				So they gave to Jacob all the foreign gods that they had, and the rings that were in their ears. Jacob hid them under 
+				<crossref let="i" cid="c01035004.1">
+				</crossref>
+				the terebinth tree that was near Shechem.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01035005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				And as they journeyed, a terror from God fell upon the cities that were around them, so that they did not pursue the sons of Jacob.
+			</verse>
+			<marker class="begin-verse" mid="v01035006">
+			</marker>
+			<verse num="6">
+				And Jacob came to 
+				<crossref let="j" cid="c01035006.1">
+				</crossref>
+				Luz (that is, Bethel), which is in the land of Canaan, he and all the people who were with him,
+			</verse>
+			<marker class="begin-verse" mid="v01035007">
+			</marker>
+			<verse num="7">
+				and there he built an altar and called the place El-bethel,
+				<note nid="n01035007.1">
+				</note>
+				 because 
+				<crossref let="k" cid="c01035007.1">
+				</crossref>
+				there God had revealed himself to him when he fled from his brother.
+			</verse>
+			<marker class="begin-verse" mid="v01035008">
+			</marker>
+			<verse num="8">
+				And 
+				<crossref let="l" cid="c01035008.1">
+				</crossref>
+				Deborah, Rebekah's nurse, died, and she was buried under an oak below Bethel. So he called its name Allon-bacuth.
+				<note nid="n01035008.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01035009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				God appeared
+				<note nid="n01035009.1">
+				</note>
+				 to Jacob again, when he came from Paddan-aram, and blessed him.
+			</verse>
+			<marker class="begin-verse" mid="v01035010">
+			</marker>
+			<verse num="10">
+				And God said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your name is Jacob; 
+				<crossref let="m" cid="c01035010.1">
+				</crossref>
+				no longer shall your name be called Jacob, but 
+				<crossref let="n" cid="c01035010.2">
+				</crossref>
+				Israel shall be your name.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So he called his name Israel.
+			</verse>
+			<marker class="begin-verse" mid="v01035011">
+			</marker>
+			<verse num="11">
+				And God said to him, 
+				<crossref let="o" cid="c01035011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am God Almighty:
+				<note nid="n01035011.1">
+				</note>
+				 be 
+				<crossref let="p" cid="c01035011.2">
+				</crossref>
+				fruitful and multiply. 
+				<crossref let="q" cid="c01035011.3">
+				</crossref>
+				A nation and a company of nations shall come from you, and kings shall come from your own body.
+				<note nid="n01035011.2">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01035012">
+			</marker>
+			<verse num="12">
+				<crossref let="r" cid="c01035012.1">
+				</crossref>
+				The land that I gave to Abraham and Isaac I will give to you, and I will give the land to your offspring after you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01035013">
+			</marker>
+			<verse num="13">
+				Then God 
+				<crossref let="s" cid="c01035013.1">
+				</crossref>
+				went up from him in the place where he had spoken with him.
+			</verse>
+			<marker class="begin-verse" mid="v01035014">
+			</marker>
+			<verse num="14">
+				And Jacob 
+				<crossref let="t" cid="c01035014.1">
+				</crossref>
+				set up a pillar in the place where he had spoken with him, a pillar of stone. He poured out a drink offering on it and poured oil on it.
+			</verse>
+			<marker class="begin-verse" mid="v01035015">
+			</marker>
+			<verse num="15">
+				So Jacob called the name of the place where God had spoken with him 
+				<crossref let="u" cid="c01035015.1">
+				</crossref>
+				Bethel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01035016">
+			</marker>
+			<heading
+				>
+				The Deaths of Rachel and Isaac
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				Then they journeyed from Bethel. When they were still some distance
+				<note nid="n01035016.1">
+				</note>
+				 from Ephrath, Rachel went into labor, and she had hard labor.
+			</verse>
+			<marker class="begin-verse" mid="v01035017">
+			</marker>
+			<verse num="17">
+				And when her labor was at its hardest, the midwife said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not fear, for 
+				<crossref let="v" cid="c01035017.1">
+				</crossref>
+				you have another son.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01035018">
+			</marker>
+			<verse num="18">
+				And as her soul was departing (for she was dying), she called his name Ben-oni;
+				<note nid="n01035018.1">
+				</note>
+				<crossref let="w" cid="c01035018.1">
+				</crossref>
+				but his father called him Benjamin.
+				<note nid="n01035018.2">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01035019">
+			</marker>
+			<verse num="19">
+				So 
+				<crossref let="x" cid="c01035019.1">
+				</crossref>
+				Rachel died, and she was buried on the way to 
+				<crossref let="y" cid="c01035019.2">
+				</crossref>
+				Ephrath (that is, Bethlehem),
+			</verse>
+			<marker class="begin-verse" mid="v01035020">
+			</marker>
+			<verse num="20">
+				and Jacob set up a pillar over her tomb. It is 
+				<crossref let="z" cid="c01035020.1">
+				</crossref>
+				the pillar of Rachel's tomb, which is there to this day.
+			</verse>
+			<marker class="begin-verse" mid="v01035021">
+			</marker>
+			<verse num="21">
+				Israel journeyed on and pitched his tent beyond the tower of Eder.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01035022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				While Israel lived in that land, Reuben went and 
+				<crossref let="a" cid="c01035022.1">
+				</crossref>
+				lay with Bilhah his father's concubine. And Israel heard of it.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				Now the sons of Jacob were twelve.
+
+			</verse>
+			<marker class="begin-verse" mid="v01035023">
+			</marker>
+			<verse num="23">
+				The sons of Leah: 
+				<crossref let="b" cid="c01035023.1">
+				</crossref>
+				Reuben (Jacob's firstborn), Simeon, Levi, Judah, Issachar, and Zebulun.
+			</verse>
+			<marker class="begin-verse" mid="v01035024">
+			</marker>
+			<verse num="24">
+				The sons of Rachel: Joseph and Benjamin.
+			</verse>
+			<marker class="begin-verse" mid="v01035025">
+			</marker>
+			<verse num="25">
+				The sons of Bilhah, Rachel's servant: Dan and Naphtali.
+			</verse>
+			<marker class="begin-verse" mid="v01035026">
+			</marker>
+			<verse num="26">
+				The sons of Zilpah, Leah's servant: Gad and Asher. These were the sons of Jacob who were born to him in Paddan-aram.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01035027">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				And Jacob came to his father Isaac at 
+				<crossref let="c" cid="c01035027.1">
+				</crossref>
+				Mamre, or 
+				<crossref let="d" cid="c01035027.2">
+				</crossref>
+				Kiriath-arba (that is, Hebron), where Abraham and Isaac had sojourned.
+			</verse>
+			<marker class="begin-verse" mid="v01035028">
+			</marker>
+			<verse num="28">
+				Now the days of Isaac were 180 years.
+			</verse>
+			<marker class="begin-verse" mid="v01035029">
+			</marker>
+			<verse num="29">
+				And Isaac breathed his last, and he died 
+				<crossref let="e" cid="c01035029.1">
+				</crossref>
+				and was gathered to his people, old and full of days. And 
+				<crossref let="f" cid="c01035029.2">
+				</crossref>
+				his sons Esau and Jacob buried him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

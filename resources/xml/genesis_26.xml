@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01026001">
+		</marker>
+		<chapter num="26">
+			<heading
+				>
+				God's Promise to Isaac
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now there was a famine in the land, besides 
+				<crossref let="u" cid="c01026001.1">
+				</crossref>
+				the former famine that was in the days of Abraham. And Isaac went to Gerar to 
+				<crossref let="v" cid="c01026001.2">
+				</crossref>
+				Abimelech king of the 
+				<crossref let="w" cid="c01026001.3">
+				</crossref>
+				Philistines.
+			</verse>
+			<marker class="begin-verse" mid="v01026002">
+			</marker>
+			<verse num="2">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 appeared to him and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not go down to Egypt; dwell 
+				<crossref let="x" cid="c01026002.1">
+				</crossref>
+				in the land of which I shall tell you.
+			</verse>
+			<marker class="begin-verse" mid="v01026003">
+			</marker>
+			<verse num="3">
+				<crossref let="y" cid="c01026003.1">
+				</crossref>
+				Sojourn in this land, and 
+				<crossref let="z" cid="c01026003.2">
+				</crossref>
+				I will be with you and will bless you, for 
+				<crossref let="a" cid="c01026003.3">
+				</crossref>
+				to you and to your offspring I will give all these lands, and I will establish 
+				<crossref let="b" cid="c01026003.4">
+				</crossref>
+				the oath that I swore to Abraham your father.
+			</verse>
+			<marker class="begin-verse" mid="v01026004">
+			</marker>
+			<verse num="4">
+				<crossref let="c" cid="c01026004.1">
+				</crossref>
+				I will multiply your offspring as the stars of heaven and will give to your offspring all these lands. And 
+				<crossref let="d" cid="c01026004.2">
+				</crossref>
+				in your offspring all the nations of the earth shall be blessed,
+			</verse>
+			<marker class="begin-verse" mid="v01026005">
+			</marker>
+			<verse num="5">
+				because 
+				<crossref let="e" cid="c01026005.1">
+				</crossref>
+				Abraham obeyed my voice and kept my charge, my commandments, my statutes, and my laws.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01026006">
+			</marker>
+			<heading
+				>
+				Isaac and Abimelech
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				So Isaac settled in Gerar.
+			</verse>
+			<marker class="begin-verse" mid="v01026007">
+			</marker>
+			<verse num="7">
+				When the men of the place asked him about his wife, 
+				<crossref let="f" cid="c01026007.1">
+				</crossref>
+				he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				She is my sister,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 for 
+				<crossref let="g" cid="c01026007.2">
+				</crossref>
+				he feared to say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My wife,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 thinking, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				lest the men of the place should kill me because of Rebekah,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 because 
+				<crossref let="h" cid="c01026007.3">
+				</crossref>
+				she was attractive in appearance.
+			</verse>
+			<marker class="begin-verse" mid="v01026008">
+			</marker>
+			<verse num="8">
+				When he had been there a long time, Abimelech king of the Philistines looked out of a window and saw Isaac laughing with
+				<note nid="n01026008.1">
+				</note>
+				 Rebekah his wife.
+			</verse>
+			<marker class="begin-verse" mid="v01026009">
+			</marker>
+			<verse num="9">
+				So Abimelech called Isaac and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, she is your wife. How then could you say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				She is my sister
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Isaac said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because I thought, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Lest I die because of her.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01026010">
+			</marker>
+			<verse num="10">
+				Abimelech said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is this you have done to us? One of the people might easily have lain with your wife, and 
+				<crossref let="i" cid="c01026010.1">
+				</crossref>
+				you would have brought guilt upon us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01026011">
+			</marker>
+			<verse num="11">
+				So Abimelech warned all the people, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whoever touches this man or his wife shall surely be put to death.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01026012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				And Isaac sowed in that land and reaped in the same year a hundredfold. The 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="j" cid="c01026012.1">
+				</crossref>
+				blessed him,
+			</verse>
+			<marker class="begin-verse" mid="v01026013">
+			</marker>
+			<verse num="13">
+				and the man became rich, and gained more and more until he became very wealthy.
+			</verse>
+			<marker class="begin-verse" mid="v01026014">
+			</marker>
+			<verse num="14">
+				He had possessions of flocks and herds and many servants, so that the Philistines 
+				<crossref let="k" cid="c01026014.1">
+				</crossref>
+				envied him.
+			</verse>
+			<marker class="begin-verse" mid="v01026015">
+			</marker>
+			<verse num="15">
+				(Now the Philistines had stopped and filled with earth all the wells 
+				<crossref let="l" cid="c01026015.1">
+				</crossref>
+				that his father's servants had dug in the days of Abraham his father.)
+			</verse>
+			<marker class="begin-verse" mid="v01026016">
+			</marker>
+			<verse num="16">
+				And Abimelech said to Isaac, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go away from us, for you are much mightier than we.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01026017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				So Isaac departed from there and encamped in the Valley of Gerar and settled there.
+			</verse>
+			<marker class="begin-verse" mid="v01026018">
+			</marker>
+			<verse num="18">
+				And Isaac dug again the wells of water that had been dug in the days of Abraham his father, which the Philistines had stopped after the death of Abraham. And 
+				<crossref let="m" cid="c01026018.1">
+				</crossref>
+				he gave them the names that his father had given them.
+			</verse>
+			<marker class="begin-verse" mid="v01026019">
+			</marker>
+			<verse num="19">
+				But when Isaac's servants dug in the valley and found there a well of spring water,
+			</verse>
+			<marker class="begin-verse" mid="v01026020">
+			</marker>
+			<verse num="20">
+				the herdsmen of Gerar 
+				<crossref let="n" cid="c01026020.1">
+				</crossref>
+				quarreled with Isaac's herdsmen, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The water is ours.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So he called the name of the well Esek,
+				<note nid="n01026020.1">
+				</note>
+				 because they contended with him.
+			</verse>
+			<marker class="begin-verse" mid="v01026021">
+			</marker>
+			<verse num="21">
+				Then they dug another well, and they quarreled over that also, so he called its name Sitnah.
+				<note nid="n01026021.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01026022">
+			</marker>
+			<verse num="22">
+				And he moved from there and dug another well, and they did not quarrel over it. So he called its name Rehoboth,
+				<note nid="n01026022.1">
+				</note>
+				 saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				For now the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has made room for us, and we shall be fruitful in the land.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01026023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				From there he went up to Beersheba.
+			</verse>
+			<marker class="begin-verse" mid="v01026024">
+			</marker>
+			<verse num="24">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 appeared to him the same night and said, 
+				<crossref let="o" cid="c01026024.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am the God of Abraham your father. 
+				<crossref let="p" cid="c01026024.2">
+				</crossref>
+				Fear not, for 
+				<crossref let="q" cid="c01026024.3">
+				</crossref>
+				I am with you and will bless you and multiply your offspring for my servant Abraham's sake.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01026025">
+			</marker>
+			<verse num="25">
+				So he 
+				<crossref let="r" cid="c01026025.1">
+				</crossref>
+				built an altar there and called upon the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and pitched his tent there. And there Isaac's servants dug a well.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01026026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				When Abimelech went to him from Gerar with Ahuzzath his adviser and 
+				<crossref let="s" cid="c01026026.1">
+				</crossref>
+				Phicol the commander of his army,
+			</verse>
+			<marker class="begin-verse" mid="v01026027">
+			</marker>
+			<verse num="27">
+				Isaac said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have you come to me, seeing that you hate me and 
+				<crossref let="t" cid="c01026027.1">
+				</crossref>
+				have sent me away from you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01026028">
+			</marker>
+			<verse num="28">
+				They said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We see plainly that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has been with you. So we said, let there be a sworn pact between us, between you and us, and let us make a covenant with you,
+			</verse>
+			<marker class="begin-verse" mid="v01026029">
+			</marker>
+			<verse num="29">
+				that you will do us no harm, just as we have not touched you and have done to you nothing but good and have sent you away in peace. 
+				<crossref let="u" cid="c01026029.1">
+				</crossref>
+				You are now the blessed of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01026030">
+			</marker>
+			<verse num="30">
+				So he made them a feast, and they ate and drank.
+			</verse>
+			<marker class="begin-verse" mid="v01026031">
+			</marker>
+			<verse num="31">
+				In the morning they rose early and 
+				<crossref let="v" cid="c01026031.1">
+				</crossref>
+				exchanged oaths. And Isaac sent them on their way, and they departed from him in peace.
+			</verse>
+			<marker class="begin-verse" mid="v01026032">
+			</marker>
+			<verse num="32">
+				That same day Isaac's servants came and told him about the well that they had dug and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We have found water.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01026033">
+			</marker>
+			<verse num="33">
+				He called it Shibah;
+				<note nid="n01026033.1">
+				</note>
+				 therefore the name of the city is 
+				<crossref let="w" cid="c01026033.1">
+				</crossref>
+				Beersheba to this day.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01026034">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="34">
+				When Esau was forty years old, he took 
+				<crossref let="x" cid="c01026034.1">
+				</crossref>
+				Judith the daughter of Beeri the Hittite to be his wife, and Basemath the daughter of Elon the Hittite,
+			</verse>
+			<marker class="begin-verse" mid="v01026035">
+			</marker>
+			<verse num="35">
+				and 
+				<crossref let="y" cid="c01026035.1">
+				</crossref>
+				they made life bitter
+				<note nid="n01026035.1">
+				</note>
+				 for Isaac and Rebekah.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

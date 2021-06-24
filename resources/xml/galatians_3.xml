@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Galatians" num="47">
+		<marker class="begin-verse" mid="v48003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				By Faith, or by Works of the Law?
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				O foolish Galatians! Who has bewitched you? 
+				<crossref let="z" cid="c48003001.1">
+				</crossref>
+				It was before your eyes that Jesus Christ was publicly 
+				<crossref let="a" cid="c48003001.2">
+				</crossref>
+				portrayed as crucified.
+			</verse>
+			<marker class="begin-verse" mid="v48003002">
+			</marker>
+			<verse num="2">
+				Let me ask you only this: 
+				<crossref let="b" cid="c48003002.1">
+				</crossref>
+				Did you receive the Spirit by works of the law or by 
+				<crossref let="c" cid="c48003002.2">
+				</crossref>
+				hearing with faith?
+			</verse>
+			<marker class="begin-verse" mid="v48003003">
+			</marker>
+			<verse num="3">
+				Are you so foolish? 
+				<crossref let="d" cid="c48003003.1">
+				</crossref>
+				Having begun by the Spirit, are you now being perfected by
+				<note nid="n48003003.1">
+				</note>
+				 the flesh?
+			</verse>
+			<marker class="begin-verse" mid="v48003004">
+			</marker>
+			<verse num="4">
+				<crossref let="e" cid="c48003004.1">
+				</crossref>
+				Did you suffer
+				<note nid="n48003004.1">
+				</note>
+				 so many things in vainùif indeed it was in vain?
+			</verse>
+			<marker class="begin-verse" mid="v48003005">
+			</marker>
+			<verse num="5">
+				Does he who supplies the Spirit to you and 
+				<crossref let="f" cid="c48003005.1">
+				</crossref>
+				works miracles among you do so 
+				<crossref let="g" cid="c48003005.2">
+				</crossref>
+				by works of the law, or by hearing with faithù
+			</verse>
+			<marker class="begin-verse" mid="v48003006">
+			</marker>
+			<verse num="6">
+				just as 
+				<crossref let="h" cid="c48003006.1">
+				</crossref>
+				<crossref cid="t48003006.1">
+				</crossref>
+				Abraham 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				believed God, and it was counted to him as righteousness
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				?
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v48003007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				Know then that it is 
+				<crossref let="i" cid="c48003007.1">
+				</crossref>
+				those of faith who are 
+				<crossref let="j" cid="c48003007.2">
+				</crossref>
+				the sons of Abraham.
+			</verse>
+			<marker class="begin-verse" mid="v48003008">
+			</marker>
+			<verse num="8">
+				And the Scripture, foreseeing that 
+				<crossref let="k" cid="c48003008.1">
+				</crossref>
+				God would justify
+				<note nid="n48003008.1">
+				</note>
+				 the Gentiles by faith, preached the gospel beforehand to Abraham, saying, 
+				<crossref let="l" cid="c48003008.2">
+				</crossref>
+				<crossref cid="t48003008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				In you shall all the nations be blessed.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v48003009">
+			</marker>
+			<verse num="9">
+				So then, those who are of faith are blessed along with Abraham, the man of faith.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v48003010">
+			</marker>
+			<heading
+				>
+				The Righteous Shall Live by Faith
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				For all who rely on works of the law are 
+				<crossref let="m" cid="c48003010.1">
+				</crossref>
+				under a curse; for it is written, 
+				<crossref let="n" cid="c48003010.2">
+				</crossref>
+				<crossref cid="t48003010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Cursed be everyone who does not 
+				<crossref let="o" cid="c48003010.3">
+				</crossref>
+				abide by all things written in the Book of the Law, and do them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v48003011">
+			</marker>
+			<verse num="11">
+				Now it is evident that 
+				<crossref let="p" cid="c48003011.1">
+				</crossref>
+				no one is justified before God by the law, for 
+				<crossref let="q" cid="c48003011.2">
+				</crossref>
+				<crossref cid="t48003011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The righteous shall live by faith.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n48003011.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v48003012">
+			</marker>
+			<verse num="12">
+				But the law is not of faith, rather 
+				<crossref let="r" cid="c48003012.1">
+				</crossref>
+				<crossref cid="t48003012.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The one who does them shall live by them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v48003013">
+			</marker>
+			<verse num="13">
+				Christ 
+				<crossref let="s" cid="c48003013.1">
+				</crossref>
+				redeemed us from the curse of the law by becoming a curse for usùfor it is written, 
+				<crossref let="t" cid="c48003013.2">
+				</crossref>
+				<crossref cid="t48003013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Cursed is everyone who is hanged 
+				<crossref let="u" cid="c48003013.3">
+				</crossref>
+				on a tree
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				ù
+			</verse>
+			<marker class="begin-verse" mid="v48003014">
+			</marker>
+			<verse num="14">
+				so that in Christ Jesus the blessing of Abraham might 
+				<crossref let="v" cid="c48003014.1">
+				</crossref>
+				come to the Gentiles, so that 
+				<crossref let="w" cid="c48003014.2">
+				</crossref>
+				we might receive 
+				<crossref let="x" cid="c48003014.3">
+				</crossref>
+				the promised Spirit
+				<note nid="n48003014.1">
+				</note>
+				 through faith.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v48003015">
+			</marker>
+			<heading
+				>
+				The Law and the Promise
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				<crossref let="y" cid="c48003015.1">
+				</crossref>
+				To give a human example, brothers:
+				<note nid="n48003015.1">
+				</note>
+				<crossref let="z" cid="c48003015.2">
+				</crossref>
+				even with a man-made covenant, no one annuls it or adds to it once it has been ratified.
+			</verse>
+			<marker class="begin-verse" mid="v48003016">
+			</marker>
+			<verse num="16">
+				Now 
+				<crossref let="a" cid="c48003016.1">
+				</crossref>
+				the promises were made 
+				<crossref let="b" cid="c48003016.2">
+				</crossref>
+				to Abraham and to his offspring. It does not say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				And to offsprings,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 referring to many, but referring to one, 
+				<crossref let="c" cid="c48003016.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				And to your offspring,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 who is Christ.
+			</verse>
+			<marker class="begin-verse" mid="v48003017">
+			</marker>
+			<verse num="17">
+				This is what I mean: the law, which came 
+				<crossref let="d" cid="c48003017.1">
+				</crossref>
+				430 years afterward, does not annul a covenant previously ratified by God, so as 
+				<crossref let="e" cid="c48003017.2">
+				</crossref>
+				to make the promise void.
+			</verse>
+			<marker class="begin-verse" mid="v48003018">
+			</marker>
+			<verse num="18">
+				For if the inheritance comes by the law, it no longer comes by promise; but 
+				<crossref let="f" cid="c48003018.1">
+				</crossref>
+				God gave it to Abraham by a promise.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v48003019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				Why then the law? 
+				<crossref let="g" cid="c48003019.1">
+				</crossref>
+				It was added because of transgressions, 
+				<crossref let="h" cid="c48003019.2">
+				</crossref>
+				until the offspring should come to whom the promise had been made, and it was 
+				<crossref let="i" cid="c48003019.3">
+				</crossref>
+				put in place through angels 
+				<crossref let="j" cid="c48003019.4">
+				</crossref>
+				by an intermediary.
+			</verse>
+			<marker class="begin-verse" mid="v48003020">
+			</marker>
+			<verse num="20">
+				Now 
+				<crossref let="k" cid="c48003020.1">
+				</crossref>
+				an intermediary implies more than one, but 
+				<crossref let="l" cid="c48003020.2">
+				</crossref>
+				God is one.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v48003021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				Is the law then contrary to the promises of God? Certainly not! For 
+				<crossref let="m" cid="c48003021.1">
+				</crossref>
+				if a law had been given that could give life, then righteousness would indeed be by the law.
+			</verse>
+			<marker class="begin-verse" mid="v48003022">
+			</marker>
+			<verse num="22">
+				But the Scripture 
+				<crossref let="n" cid="c48003022.1">
+				</crossref>
+				imprisoned everything under sin, so that 
+				<crossref let="o" cid="c48003022.2">
+				</crossref>
+				the promise by faith in Jesus Christ might be given 
+				<crossref let="p" cid="c48003022.3">
+				</crossref>
+				to those who believe.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v48003023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				Now before faith came, we were held captive under the law, 
+				<crossref let="q" cid="c48003023.1">
+				</crossref>
+				imprisoned until the coming faith would be revealed.
+			</verse>
+			<marker class="begin-verse" mid="v48003024">
+			</marker>
+			<verse num="24">
+				So then, 
+				<crossref let="r" cid="c48003024.1">
+				</crossref>
+				the law was our 
+				<crossref let="s" cid="c48003024.2">
+				</crossref>
+				guardian until Christ came, 
+				<crossref let="t" cid="c48003024.3">
+				</crossref>
+				in order that we might be justified by faith.
+			</verse>
+			<marker class="begin-verse" mid="v48003025">
+			</marker>
+			<verse num="25">
+				But now that faith has come, we are no longer under a guardian,
+			</verse>
+			<marker class="begin-verse" mid="v48003026">
+			</marker>
+			<verse num="26">
+				for in Christ Jesus 
+				<crossref let="u" cid="c48003026.1">
+				</crossref>
+				you are all sons of God, through faith.
+			</verse>
+			<marker class="begin-verse" mid="v48003027">
+			</marker>
+			<verse num="27">
+				For as many of you as 
+				<crossref let="v" cid="c48003027.1">
+				</crossref>
+				were baptized 
+				<crossref let="w" cid="c48003027.2">
+				</crossref>
+				into Christ have 
+				<crossref let="x" cid="c48003027.3">
+				</crossref>
+				put on Christ.
+			</verse>
+			<marker class="begin-verse" mid="v48003028">
+			</marker>
+			<verse num="28">
+				<crossref let="y" cid="c48003028.1">
+				</crossref>
+				There is neither Jew nor Greek, there is neither slave
+				<note nid="n48003028.1">
+				</note>
+				 nor free, 
+				<crossref let="z" cid="c48003028.2">
+				</crossref>
+				there is no male and female, for you are all one in Christ Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v48003029">
+			</marker>
+			<verse num="29">
+				And 
+				<crossref let="a" cid="c48003029.1">
+				</crossref>
+				if you are Christ's, then you are Abraham's offspring, 
+				<crossref let="b" cid="c48003029.2">
+				</crossref>
+				heirs according to promise.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Acts" num="43">
+		<marker class="begin-verse" mid="v44011001">
+		</marker>
+		<chapter num="11">
+			<heading>
+				Peter Reports to the Church
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="1">
+				Now the apostles and 
+				<crossref let="r" cid="c44011001.1">
+				</crossref>
+				the brothers
+				<note nid="n44011001.1">
+				</note>
+				 who were throughout Judea heard that the Gentiles also had received the word of God.
+			</verse>
+			<marker class="begin-verse" mid="v44011002">
+			</marker>
+			<verse num="2">
+				So when Peter went up to Jerusalem, 
+				<crossref let="s" cid="c44011002.1">
+				</crossref>
+				the circumcision party criticized him, saying,
+			</verse>
+			<marker class="begin-verse" mid="v44011003">
+			</marker>
+			<verse num="3">
+				<crossref let="t" cid="c44011003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You went to uncircumcised men and 
+				<crossref let="u" cid="c44011003.2">
+				</crossref>
+				ate with them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44011004">
+			</marker>
+			<verse num="4">
+				But Peter began and explained it to them in order:
+			</verse>
+			<marker class="begin-verse" mid="v44011005">
+			</marker>
+			<verse num="5">
+				<crossref let="v" cid="c44011005.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I was in the city of Joppa praying, and in a trance I saw a vision, something like a great sheet descending, being let down from heaven by its four corners, and it came down to me.
+			</verse>
+			<marker class="begin-verse" mid="v44011006">
+			</marker>
+			<verse num="6">
+				Looking at it closely, I observed animals and beasts of prey and reptiles and birds of the air.
+			</verse>
+			<marker class="begin-verse" mid="v44011007">
+			</marker>
+			<verse num="7">
+				And I heard a voice saying to me, 
+				<woc>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Rise, Peter; kill and eat.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44011008">
+			</marker>
+			<verse num="8">
+				But I said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				By no means, Lord; for nothing common or unclean has ever entered my mouth.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44011009">
+			</marker>
+			<verse num="9">
+				But the voice answered a second time from heaven, 
+				<woc>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					What God has made clean, do not call common.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44011010">
+			</marker>
+			<verse num="10">
+				This happened three times, and all was drawn up again into heaven.
+			</verse>
+			<marker class="begin-verse" mid="v44011011">
+			</marker>
+			<verse num="11">
+				And behold, at that very moment three men arrived at the house in which we were, sent to me from Caesarea.
+			</verse>
+			<marker class="begin-verse" mid="v44011012">
+			</marker>
+			<verse num="12">
+				And the Spirit told me to go with them, 
+				<crossref let="w" cid="c44011012.1">
+				</crossref>
+				making no distinction. 
+				<crossref let="x" cid="c44011012.2">
+				</crossref>
+				These six brothers also accompanied me, and we entered the man's house.
+			</verse>
+			<marker class="begin-verse" mid="v44011013">
+			</marker>
+			<verse num="13">
+				And he told us how he had seen the angel stand in his house and say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Send to Joppa and bring Simon who is called Peter;
+			</verse>
+			<marker class="begin-verse" mid="v44011014">
+			</marker>
+			<verse num="14">
+				<crossref let="y" cid="c44011014.1">
+				</crossref>
+				he will declare to you a message by which 
+				<crossref let="z" cid="c44011014.2">
+				</crossref>
+				you will be saved, you and all your household.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44011015">
+			</marker>
+			<verse num="15">
+				As I began to speak, 
+				<crossref let="a" cid="c44011015.1">
+				</crossref>
+				the Holy Spirit fell on them 
+				<crossref let="b" cid="c44011015.2">
+				</crossref>
+				just as on us at the beginning.
+			</verse>
+			<marker class="begin-verse" mid="v44011016">
+			</marker>
+			<verse num="16">
+				And I remembered the word of the Lord, how he said, 
+				<woc>
+					<crossref let="c" cid="c44011016.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					John baptized with water, but you will be baptized with the Holy Spirit.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44011017">
+			</marker>
+			<verse num="17">
+				If then 
+				<crossref let="d" cid="c44011017.1">
+				</crossref>
+				God gave 
+				<crossref let="e" cid="c44011017.2">
+				</crossref>
+				the same gift to them as he gave to us 
+				<crossref let="f" cid="c44011017.3">
+				</crossref>
+				when we believed in the Lord Jesus Christ, 
+				<crossref let="g" cid="c44011017.4">
+				</crossref>
+				who was I 
+				<crossref let="h" cid="c44011017.5">
+				</crossref>
+				that I could stand in God's way?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44011018">
+			</marker>
+			<verse num="18">
+				When they heard these things they fell silent. And they 
+				<crossref let="i" cid="c44011018.1">
+				</crossref>
+				glorified God, saying, 
+				<crossref let="j" cid="c44011018.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Then to the Gentiles also God has 
+				<crossref let="k" cid="c44011018.3">
+				</crossref>
+				granted 
+				<crossref let="l" cid="c44011018.4">
+				</crossref>
+				repentance that leads to life.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44011019">
+			</marker>
+			<heading>
+				The Church in Antioch
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="19">
+				<crossref let="m" cid="c44011019.1">
+				</crossref>
+				Now those who were scattered because of the persecution that arose over Stephen traveled as far as Phoenicia and Cyprus and Antioch, speaking the word to no one except Jews.
+			</verse>
+			<marker class="begin-verse" mid="v44011020">
+			</marker>
+			<verse num="20">
+				But there were some of them, men of Cyprus and Cyrene, who on coming to Antioch spoke to the Hellenists
+				<note nid="n44011020.1">
+				</note>
+				 also, 
+				<crossref let="n" cid="c44011020.1">
+				</crossref>
+				preaching the Lord Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v44011021">
+			</marker>
+			<verse num="21">
+				And 
+				<crossref let="o" cid="c44011021.1">
+				</crossref>
+				the hand of the Lord was with them, and a great number who believed 
+				<crossref let="p" cid="c44011021.2">
+				</crossref>
+				turned to the Lord.
+			</verse>
+			<marker class="begin-verse" mid="v44011022">
+			</marker>
+			<verse num="22">
+				The report of this came to the ears of the church in Jerusalem, and they sent Barnabas to Antioch.
+			</verse>
+			<marker class="begin-verse" mid="v44011023">
+			</marker>
+			<verse num="23">
+				When he came and saw 
+				<crossref let="q" cid="c44011023.1">
+				</crossref>
+				the grace of God, he was glad, and he exhorted them all to remain faithful to the Lord 
+				<crossref let="r" cid="c44011023.2">
+				</crossref>
+				with steadfast purpose,
+			</verse>
+			<marker class="begin-verse" mid="v44011024">
+			</marker>
+			<verse num="24">
+				for he was a good man, 
+				<crossref let="s" cid="c44011024.1">
+				</crossref>
+				full of the Holy Spirit and of faith. And a great many people 
+				<crossref let="t" cid="c44011024.2">
+				</crossref>
+				were added to the Lord.
+			</verse>
+			<marker class="begin-verse" mid="v44011025">
+			</marker>
+			<verse num="25">
+				So Barnabas went to 
+				<crossref let="u" cid="c44011025.1">
+				</crossref>
+				Tarsus to look for Saul,
+			</verse>
+			<marker class="begin-verse" mid="v44011026">
+			</marker>
+			<verse num="26">
+				and when he had found him, he brought him to Antioch. For a whole year they met with the church and taught a great many people. And in Antioch the disciples were first called 
+				<crossref let="v" cid="c44011026.1">
+				</crossref>
+				Christians.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44011027">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="27">
+				Now in these days 
+				<crossref let="w" cid="c44011027.1">
+				</crossref>
+				prophets came down from Jerusalem to Antioch.
+			</verse>
+			<marker class="begin-verse" mid="v44011028">
+			</marker>
+			<verse num="28">
+				And one of them named 
+				<crossref let="x" cid="c44011028.1">
+				</crossref>
+				Agabus stood up and foretold 
+				<crossref let="y" cid="c44011028.2">
+				</crossref>
+				by the Spirit that there would be a great 
+				<crossref let="z" cid="c44011028.3">
+				</crossref>
+				famine over all the world (this took place in the days of 
+				<crossref let="a" cid="c44011028.4">
+				</crossref>
+				Claudius).
+			</verse>
+			<marker class="begin-verse" mid="v44011029">
+			</marker>
+			<verse num="29">
+				So the disciples determined, everyone according to his ability, 
+				<crossref let="b" cid="c44011029.1">
+				</crossref>
+				to send relief to 
+				<crossref let="c" cid="c44011029.2">
+				</crossref>
+				the brothers
+				<note nid="n44011029.1">
+				</note>
+				 living in Judea.
+			</verse>
+			<marker class="begin-verse" mid="v44011030">
+			</marker>
+			<verse num="30">
+				<crossref let="d" cid="c44011030.1">
+				</crossref>
+				And they did so, sending it to 
+				<crossref let="e" cid="c44011030.2">
+				</crossref>
+				the elders by the hand of Barnabas and Saul.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

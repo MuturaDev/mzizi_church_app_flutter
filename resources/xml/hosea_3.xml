@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Hosea" num="27">
+		<marker class="begin-verse" mid="v28003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				Hosea Redeems His Wife
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to me, 
+				<crossref let="x" cid="c28003001.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go again, love a woman who is loved by another man and is an adulteress, even as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 loves the children of Israel, though they turn to other gods and love cakes of raisins.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v28003002">
+			</marker>
+			<verse num="2">
+				So I bought her for fifteen shekels of silver and a 
+				<crossref let="y" cid="c28003002.1">
+				</crossref>
+				homer and a lethech
+				<note nid="n28003002.1">
+				</note>
+				 of barley.
+			</verse>
+			<marker class="begin-verse" mid="v28003003">
+			</marker>
+			<verse num="3">
+				And I said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You must 
+				<crossref let="z" cid="c28003003.1">
+				</crossref>
+				dwell as mine for many days. You shall not play the whore, or belong to another man; so will I also be to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v28003004">
+			</marker>
+			<verse num="4">
+				For the children of Israel 
+				<crossref let="z" cid="c28003004.1">
+				</crossref>
+				shall dwell many days 
+				<crossref let="a" cid="c28003004.2">
+				</crossref>
+				without king or prince, 
+				<crossref let="b" cid="c28003004.3">
+				</crossref>
+				without sacrifice or 
+				<crossref let="c" cid="c28003004.4">
+				</crossref>
+				pillar, without 
+				<crossref let="d" cid="c28003004.5">
+				</crossref>
+				ephod or 
+				<crossref let="e" cid="c28003004.6">
+				</crossref>
+				household gods.
+			</verse>
+			<marker class="begin-verse" mid="v28003005">
+			</marker>
+			<verse num="5">
+				Afterward 
+				<crossref let="f" cid="c28003005.1">
+				</crossref>
+				the children of Israel shall return and 
+				<crossref let="g" cid="c28003005.2">
+				</crossref>
+				seek the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 their God, and 
+				<crossref let="h" cid="c28003005.3">
+				</crossref>
+				David their king, 
+				<crossref let="i" cid="c28003005.4">
+				</crossref>
+				and they shall come in fear to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and to his goodness in the 
+				<crossref let="j" cid="c28003005.5">
+				</crossref>
+				latter days.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,586 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Samuel" num="10">
+		<marker class="begin-verse" mid="v10001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				David Hears of Saul's Death
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				After the death of Saul, when David had returned 
+				<crossref let="a" cid="c10001001.1">
+				</crossref>
+				from striking down the Amalekites, David remained two days in Ziklag.
+			</verse>
+			<marker class="begin-verse" mid="v10001002">
+			</marker>
+			<verse num="2">
+				And on the third day, behold, 
+				<crossref let="b" cid="c10001002.1">
+				</crossref>
+				a man came from Saul's camp, 
+				<crossref let="c" cid="c10001002.2">
+				</crossref>
+				with his clothes torn and dirt on his head. And when he came to David, 
+				<crossref let="d" cid="c10001002.3">
+				</crossref>
+				he fell to the ground and paid homage.
+			</verse>
+			<marker class="begin-verse" mid="v10001003">
+			</marker>
+			<verse num="3">
+				David said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where do you come from?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have escaped from the camp of Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10001004">
+			</marker>
+			<verse num="4">
+				And David said to him, 
+				<crossref let="e" cid="c10001004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How did it go? Tell me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The people fled from the battle, and also many of the people have fallen and are dead, and Saul and his son Jonathan are also dead.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10001005">
+			</marker>
+			<verse num="5">
+				Then David said to the young man who told him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How do you know that Saul and his son Jonathan are dead?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10001006">
+			</marker>
+			<verse num="6">
+				And the young man who told him said, 
+				<crossref let="f" cid="c10001006.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				By chance I happened to be on Mount Gilboa, and there was Saul leaning on his spear, and behold, the chariots and the horsemen were close upon him.
+			</verse>
+			<marker class="begin-verse" mid="v10001007">
+			</marker>
+			<verse num="7">
+				And when he looked behind him, he saw me, and called to me. And I answered, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Here I am.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10001008">
+			</marker>
+			<verse num="8">
+				And he said to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Who are you?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 I answered him, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I am an Amalekite.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10001009">
+			</marker>
+			<verse num="9">
+				And he said to me 
+				<crossref let="g" cid="c10001009.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Stand beside me and kill me, for anguish has seized me, and yet my life still lingers.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10001010">
+			</marker>
+			<verse num="10">
+				So I stood beside him and killed him, because I was sure that he could not live after he had fallen. 
+				<crossref let="h" cid="c10001010.1">
+				</crossref>
+				And I took the crown that was on his head and the armlet that was on his arm, and I have brought them here to my lord.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10001011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				Then David took hold of his clothes and 
+				<crossref let="i" cid="c10001011.1">
+				</crossref>
+				tore them, and so did all the men who were with him.
+			</verse>
+			<marker class="begin-verse" mid="v10001012">
+			</marker>
+			<verse num="12">
+				And they mourned and wept 
+				<crossref let="j" cid="c10001012.1">
+				</crossref>
+				and fasted until evening for Saul and for Jonathan his son and for the people of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and for the house of Israel, because they had fallen by the sword.
+			</verse>
+			<marker class="begin-verse" mid="v10001013">
+			</marker>
+			<verse num="13">
+				And David said to the young man who told him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where do you come from?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am the son of a sojourner, an Amalekite.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10001014">
+			</marker>
+			<verse num="14">
+				David said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How is it you were not 
+				<crossref let="k" cid="c10001014.1">
+				</crossref>
+				afraid to put out your hand to destroy 
+				<crossref let="l" cid="c10001014.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's anointed?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10001015">
+			</marker>
+			<verse num="15">
+				Then 
+				<crossref let="m" cid="c10001015.1">
+				</crossref>
+				David called one of the young men and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go, execute him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he struck him down so that he died.
+			</verse>
+			<marker class="begin-verse" mid="v10001016">
+			</marker>
+			<verse num="16">
+				And David said to him, 
+				<crossref let="n" cid="c10001016.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your blood be on your head, for your own mouth has testified against you, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I have killed 
+				<crossref let="o" cid="c10001016.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's anointed.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10001017">
+			</marker>
+			<heading
+				>
+				David's Lament for Saul and Jonathan
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				And David 
+				<crossref let="p" cid="c10001017.1">
+				</crossref>
+				lamented with this lamentation over Saul and Jonathan his son,
+			</verse>
+			<marker class="begin-verse" mid="v10001018">
+			</marker>
+			<verse num="18">
+				and he said it
+				<note nid="n10001018.1">
+				</note>
+				 should be taught to the people of Judah; behold, it is written in 
+				<crossref let="q" cid="c10001018.1">
+				</crossref>
+				the Book of Jashar.
+				<note nid="n10001018.2">
+				</note>
+				 He said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10001019">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your glory, O Israel, is slain on your high places!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c10001019.1">
+				</crossref>
+				How the mighty have fallen!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v10001020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c10001020.1">
+				</crossref>
+				Tell it not in Gath,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c10001020.2">
+				</crossref>
+				publish it not in the streets of Ashkelon,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c10001020.3">
+				</crossref>
+				lest the daughters of the Philistines rejoice,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				lest the daughters of 
+				<crossref let="v" cid="c10001020.4">
+				</crossref>
+				the uncircumcised exult.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10001021">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c10001021.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You mountains of Gilboa,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let there be no dew or rain upon you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor fields of offerings!
+				<note nid="n10001021.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				For there the shield of the mighty was defiled,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the shield of Saul, not 
+				<crossref let="x" cid="c10001021.2">
+				</crossref>
+				anointed with oil.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10001022">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				From the blood of the slain,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from the fat of the mighty,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c10001022.1">
+				</crossref>
+				the bow of Jonathan turned not back,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the sword of Saul returned not empty.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10001023">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Saul and Jonathan, beloved and lovely!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				In life and in death they were not divided;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				they were 
+				<crossref let="z" cid="c10001023.1">
+				</crossref>
+				swifter than eagles;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they were 
+				<crossref let="a" cid="c10001023.2">
+				</crossref>
+				stronger than lions.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10001024">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You daughters of Israel, weep over Saul,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who clothed you luxuriously in scarlet,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c10001024.1">
+				</crossref>
+				who put ornaments of gold on your apparel.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10001025">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c10001025.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				How the mighty have fallen
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the midst of the battle!
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Jonathan lies slain on your high places.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v10001026">
+			</marker>
+			<verse num="26">
+				<begin-line class="indent">
+				</begin-line>
+				I am distressed for you, my brother Jonathan;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				very pleasant have you been to me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c10001026.1">
+				</crossref>
+				your love to me was extraordinary,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				surpassing the love of women.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10001027">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c10001027.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				How the mighty have fallen,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the weapons of war perished!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

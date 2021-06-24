@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Romans" num="45">
+		<marker class="begin-verse" mid="v45001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Paul, 
+				<crossref let="a" cid="c45001001.1">
+				</crossref>
+				a servant
+				<note nid="n45001001.1">
+				</note>
+				 of Christ Jesus, 
+				<crossref let="b" cid="c45001001.2">
+				</crossref>
+				called to be an apostle, 
+				<crossref let="c" cid="c45001001.3">
+				</crossref>
+				set apart for the gospel of God,
+			</verse>
+			<marker class="begin-verse" mid="v45001002">
+			</marker>
+			<verse num="2">
+				which 
+				<crossref let="d" cid="c45001002.1">
+				</crossref>
+				he promised beforehand 
+				<crossref let="e" cid="c45001002.2">
+				</crossref>
+				through his prophets in the holy Scriptures,
+			</verse>
+			<marker class="begin-verse" mid="v45001003">
+			</marker>
+			<verse num="3">
+				concerning his Son, 
+				<crossref let="f" cid="c45001003.1">
+				</crossref>
+				who was descended from David
+				<note nid="n45001003.1">
+				</note>
+				<crossref let="g" cid="c45001003.2">
+				</crossref>
+				according to the flesh
+			</verse>
+			<marker class="begin-verse" mid="v45001004">
+			</marker>
+			<verse num="4">
+				and 
+				<crossref let="h" cid="c45001004.1">
+				</crossref>
+				was declared to be the Son of God 
+				<crossref let="i" cid="c45001004.2">
+				</crossref>
+				in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord,
+			</verse>
+			<marker class="begin-verse" mid="v45001005">
+			</marker>
+			<verse num="5">
+				through whom 
+				<crossref let="j" cid="c45001005.1">
+				</crossref>
+				we have received grace and 
+				<crossref let="k" cid="c45001005.2">
+				</crossref>
+				apostleship 
+				<crossref let="l" cid="c45001005.3">
+				</crossref>
+				to bring about the obedience of faith for the sake of his name 
+				<crossref let="m" cid="c45001005.4">
+				</crossref>
+				among all the nations,
+			</verse>
+			<marker class="begin-verse" mid="v45001006">
+			</marker>
+			<verse num="6">
+				including you who are 
+				<crossref let="n" cid="c45001006.1">
+				</crossref>
+				called to belong to Jesus Christ,
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45001007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				To all those in Rome who are loved by God and called to be saints:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				<crossref let="o" cid="c45001007.1">
+				</crossref>
+				Grace to you and peace from God our Father and the Lord Jesus Christ.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45001008">
+			</marker>
+			<heading
+				>
+				Longing to Go to Rome
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				First, 
+				<crossref let="p" cid="c45001008.1">
+				</crossref>
+				I thank my God through Jesus Christ for all of you, 
+				<crossref let="q" cid="c45001008.2">
+				</crossref>
+				because your faith is proclaimed in all the world.
+			</verse>
+			<marker class="begin-verse" mid="v45001009">
+			</marker>
+			<verse num="9">
+				<crossref let="r" cid="c45001009.1">
+				</crossref>
+				For God is my witness, 
+				<crossref let="s" cid="c45001009.2">
+				</crossref>
+				whom I serve with my spirit in the gospel of his Son, 
+				<crossref let="t" cid="c45001009.3">
+				</crossref>
+				that without ceasing I mention you
+			</verse>
+			<marker class="begin-verse" mid="v45001010">
+			</marker>
+			<verse num="10">
+				always in my prayers, asking that somehow 
+				<crossref let="u" cid="c45001010.1">
+				</crossref>
+				by God's will I may now at last succeed in coming to you.
+			</verse>
+			<marker class="begin-verse" mid="v45001011">
+			</marker>
+			<verse num="11">
+				For 
+				<crossref let="v" cid="c45001011.1">
+				</crossref>
+				I long to see you, that I may impart to you some spiritual gift to strengthen youù
+			</verse>
+			<marker class="begin-verse" mid="v45001012">
+			</marker>
+			<verse num="12">
+				that is, that we may be mutually encouraged 
+				<crossref let="w" cid="c45001012.1">
+				</crossref>
+				by each other's faith, both yours and mine.
+			</verse>
+			<marker class="begin-verse" mid="v45001013">
+			</marker>
+			<verse num="13">
+				I want you to know, brothers,
+				<note nid="n45001013.1">
+				</note>
+				 that 
+				<crossref let="x" cid="c45001013.1">
+				</crossref>
+				I have often intended to come to you (but 
+				<crossref let="y" cid="c45001013.2">
+				</crossref>
+				thus far have been prevented), in order that I may reap some 
+				<crossref let="z" cid="c45001013.3">
+				</crossref>
+				harvest among you as well as among the rest of the Gentiles.
+			</verse>
+			<marker class="begin-verse" mid="v45001014">
+			</marker>
+			<verse num="14">
+				<crossref let="a" cid="c45001014.1">
+				</crossref>
+				I am under obligation both to Greeks and to 
+				<crossref let="b" cid="c45001014.2">
+				</crossref>
+				barbarians,
+				<note nid="n45001014.1">
+				</note>
+				 both to the wise and to the foolish.
+			</verse>
+			<marker class="begin-verse" mid="v45001015">
+			</marker>
+			<verse num="15">
+				So I am eager to preach the gospel to you also who are in Rome.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45001016">
+			</marker>
+			<heading
+				>
+				The Righteous Shall Live by Faith
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				For 
+				<crossref let="d" cid="c45001016.1">
+				</crossref>
+				I am not ashamed of the gospel, for it is 
+				<crossref let="e" cid="c45001016.2">
+				</crossref>
+				the power of God for salvation to everyone who believes, to the Jew 
+				<crossref let="f" cid="c45001016.3">
+				</crossref>
+				first and also to 
+				<crossref let="g" cid="c45001016.4">
+				</crossref>
+				the Greek.
+			</verse>
+			<marker class="begin-verse" mid="v45001017">
+			</marker>
+			<verse num="17">
+				For in it 
+				<crossref let="h" cid="c45001017.1">
+				</crossref>
+				the righteousness of God is revealed 
+				<crossref let="i" cid="c45001017.2">
+				</crossref>
+				from faith for faith,
+				<note nid="n45001017.1">
+				</note>
+				<crossref let="j" cid="c45001017.3">
+				</crossref>
+				<crossref cid="t45001017.1">
+				</crossref>
+				as it is written, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The righteous shall live by faith.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n45001017.2">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45001018">
+			</marker>
+			<heading
+				>
+				God's Wrath on Unrighteousness
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				For 
+				<crossref let="k" cid="c45001018.1">
+				</crossref>
+				the wrath of God 
+				<crossref let="l" cid="c45001018.2">
+				</crossref>
+				is revealed from heaven against all ungodliness and unrighteousness of men, who by their unrighteousness suppress the truth.
+			</verse>
+			<marker class="begin-verse" mid="v45001019">
+			</marker>
+			<verse num="19">
+				For what can be 
+				<crossref let="m" cid="c45001019.1">
+				</crossref>
+				known about God is plain to them, because God has shown it to them.
+			</verse>
+			<marker class="begin-verse" mid="v45001020">
+			</marker>
+			<verse num="20">
+				For his invisible attributes, namely, his eternal power and divine nature, 
+				<crossref let="n" cid="c45001020.1">
+				</crossref>
+				have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse.
+			</verse>
+			<marker class="begin-verse" mid="v45001021">
+			</marker>
+			<verse num="21">
+				For although they knew God, they did not honor him as God or give thanks to him, but they 
+				<crossref let="o" cid="c45001021.1">
+				</crossref>
+				became futile in their thinking, and their foolish hearts were darkened.
+			</verse>
+			<marker class="begin-verse" mid="v45001022">
+			</marker>
+			<verse num="22">
+				<crossref let="p" cid="c45001022.1">
+				</crossref>
+				Claiming to be wise, they became fools,
+			</verse>
+			<marker class="begin-verse" mid="v45001023">
+			</marker>
+			<verse num="23">
+				and 
+				<crossref let="q" cid="c45001023.1">
+				</crossref>
+				exchanged the glory of 
+				<crossref let="r" cid="c45001023.2">
+				</crossref>
+				the immortal God for images resembling mortal man and birds and animals and creeping things.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45001024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				Therefore 
+				<crossref let="s" cid="c45001024.1">
+				</crossref>
+				God gave them up in the lusts of their hearts to impurity, to 
+				<crossref let="t" cid="c45001024.2">
+				</crossref>
+				the dishonoring of their bodies among themselves,
+			</verse>
+			<marker class="begin-verse" mid="v45001025">
+			</marker>
+			<verse num="25">
+				because they exchanged the truth about God for 
+				<crossref let="u" cid="c45001025.1">
+				</crossref>
+				a lie and worshiped and served the creature rather than the Creator, 
+				<crossref let="v" cid="c45001025.2">
+				</crossref>
+				who is blessed forever! Amen.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45001026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				For this reason 
+				<crossref let="w" cid="c45001026.1">
+				</crossref>
+				God gave them up to 
+				<crossref let="x" cid="c45001026.2">
+				</crossref>
+				dishonorable passions. For their women exchanged natural relations for those that are contrary to nature;
+			</verse>
+			<marker class="begin-verse" mid="v45001027">
+			</marker>
+			<verse num="27">
+				and the men likewise gave up natural relations with women and were consumed with passion for one another, 
+				<crossref let="y" cid="c45001027.1">
+				</crossref>
+				men committing shameless acts with men and receiving in themselves the due penalty for their error.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45001028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				And since they did not see fit to acknowledge God, 
+				<crossref let="z" cid="c45001028.1">
+				</crossref>
+				God gave them up to 
+				<crossref let="a" cid="c45001028.2">
+				</crossref>
+				a debased mind to do 
+				<crossref let="b" cid="c45001028.3">
+				</crossref>
+				what ought not to be done.
+			</verse>
+			<marker class="begin-verse" mid="v45001029">
+			</marker>
+			<verse num="29">
+				They were filled with all manner of unrighteousness, evil, covetousness, malice. They are full of envy, murder, strife, deceit, maliciousness. They are gossips,
+			</verse>
+			<marker class="begin-verse" mid="v45001030">
+			</marker>
+			<verse num="30">
+				slanderers, haters of God, insolent, haughty, boastful, inventors of evil, disobedient to parents,
+			</verse>
+			<marker class="begin-verse" mid="v45001031">
+			</marker>
+			<verse num="31">
+				foolish, faithless, heartless, ruthless.
+			</verse>
+			<marker class="begin-verse" mid="v45001032">
+			</marker>
+			<verse num="32">
+				Though they know 
+				<crossref let="c" cid="c45001032.1">
+				</crossref>
+				God's decree that those who practice such things 
+				<crossref let="d" cid="c45001032.2">
+				</crossref>
+				deserve to die, they not only do them but 
+				<crossref let="e" cid="c45001032.3">
+				</crossref>
+				give approval to those who practice them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

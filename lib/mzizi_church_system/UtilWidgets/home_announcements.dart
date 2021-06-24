@@ -84,7 +84,7 @@ class HomeAnnouncements extends StatelessWidget {
                             color: Color(0xFF487890),
                           )))),
               onTapDown: (_) {
-                RouteController.routeMethod(5,
+                RouteController.routeMethod(6,
                     controller: Controller.Navigator, context: context);
               },
             )

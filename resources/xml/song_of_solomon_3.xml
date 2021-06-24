@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Song of Solomon" num="21">
+		<marker class="begin-verse" mid="v22003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				The Bride's Dream
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				On my bed 
+				<crossref let="r" cid="c22003001.1">
+				</crossref>
+				by night
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I sought 
+				<crossref let="s" cid="c22003001.2">
+				</crossref>
+				him whom my soul loves;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c22003001.3">
+				</crossref>
+				I sought him, but found him not.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22003002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				I will rise now and go about the city,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in 
+				<crossref let="u" cid="c22003002.1">
+				</crossref>
+				the streets and in the squares;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I will seek 
+				<crossref let="s" cid="c22003002.2">
+				</crossref>
+				him whom my soul loves.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I sought him, but found him not.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22003003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c22003003.1">
+				</crossref>
+				The watchmen found me
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as they went about in the city.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Have you seen him whom my soul loves?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22003004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Scarcely had I passed them
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when I found 
+				<crossref let="s" cid="c22003004.1">
+				</crossref>
+				him whom my soul loves.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="w" cid="c22003004.2">
+				</crossref>
+				held him, and would not let him go
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				until I had 
+				<crossref let="x" cid="c22003004.3">
+				</crossref>
+				brought him into my mother's house,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and into the chamber of 
+				<crossref let="y" cid="c22003004.4">
+				</crossref>
+				her who conceived me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22003005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c22003005.1">
+				</crossref>
+				I adjure you, 
+				<crossref let="a" cid="c22003005.2">
+				</crossref>
+				O daughters of Jerusalem,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c22003005.3">
+				</crossref>
+				by the gazelles or the does of the field,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				that you not stir up or awaken love
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				until it pleases.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v22003006">
+			</marker>
+			<heading
+				>
+				Solomon Arrives for the Wedding
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c22003006.1">
+				</crossref>
+				What is that coming up from the wilderness
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like 
+				<crossref let="d" cid="c22003006.2">
+				</crossref>
+				columns of smoke,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				perfumed with 
+				<crossref let="e" cid="c22003006.3">
+				</crossref>
+				myrrh and frankincense,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with all the fragrant powders of a merchant?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22003007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Behold, it is the litter
+				<note nid="n22003007.1">
+				</note>
+				 of Solomon!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Around it are 
+				<crossref let="f" cid="c22003007.1">
+				</crossref>
+				sixty 
+				<crossref let="g" cid="c22003007.2">
+				</crossref>
+				mighty men,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				some of the mighty men of Israel,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22003008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				all of them wearing swords
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and expert in war,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				each with his 
+				<crossref let="h" cid="c22003008.1">
+				</crossref>
+				sword at his thigh,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				against 
+				<crossref let="i" cid="c22003008.2">
+				</crossref>
+				terror by night.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22003009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				King Solomon made himself a carriage
+				<note nid="n22003009.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from the wood of Lebanon.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22003010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				He made its posts of silver,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				its back of gold, its seat of purple;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				its interior was inlaid with love
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				by 
+				<crossref let="j" cid="c22003010.1">
+				</crossref>
+				the daughters of Jerusalem.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22003011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Go out, O 
+				<crossref let="k" cid="c22003011.1">
+				</crossref>
+				daughters of Zion,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and look upon King Solomon,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				with the crown with which his mother crowned him
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on 
+				<crossref let="l" cid="c22003011.2">
+				</crossref>
+				the day of his wedding,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on the day of the gladness of his heart.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

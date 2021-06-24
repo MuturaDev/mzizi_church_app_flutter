@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01007001">
+		</marker>
+		<chapter num="7">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Noah, 
+				<crossref let="p" cid="c01007001.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go into the ark, you and all your household, for I have seen that 
+				<crossref let="q" cid="c01007001.2">
+				</crossref>
+				you are righteous before me in this generation.
+			</verse>
+			<marker class="begin-verse" mid="v01007002">
+			</marker>
+			<verse num="2">
+				Take with you seven pairs of all 
+				<crossref let="r" cid="c01007002.1">
+				</crossref>
+				clean animals,
+				<note nid="n01007002.1">
+				</note>
+				 the male and his mate, and a pair of the animals that are not clean, the male and his mate,
+			</verse>
+			<marker class="begin-verse" mid="v01007003">
+			</marker>
+			<verse num="3">
+				and seven pairs
+				<note nid="n01007003.1">
+				</note>
+				 of the birds of the heavens also, male and female, to keep their offspring alive on the face of all the earth.
+			</verse>
+			<marker class="begin-verse" mid="v01007004">
+			</marker>
+			<verse num="4">
+				For in seven days 
+				<crossref let="s" cid="c01007004.1">
+				</crossref>
+				I will send rain on the earth forty days and forty nights, 
+				<crossref let="t" cid="c01007004.2">
+				</crossref>
+				and every living thing
+				<note nid="n01007004.1">
+				</note>
+				 that I have made I will blot out from the face of the ground.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01007005">
+			</marker>
+			<verse num="5">
+				<crossref let="u" cid="c01007005.1">
+				</crossref>
+				And Noah did all that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had commanded him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01007006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				Noah was six hundred years old when the flood of waters came upon the earth.
+			</verse>
+			<marker class="begin-verse" mid="v01007007">
+			</marker>
+			<verse num="7">
+				And Noah and his sons and his wife and his sons' wives with him went into the ark to escape the waters of the flood.
+			</verse>
+			<marker class="begin-verse" mid="v01007008">
+			</marker>
+			<verse num="8">
+				Of clean animals, and of animals that are not clean, and of birds, and of everything that creeps on the ground,
+			</verse>
+			<marker class="begin-verse" mid="v01007009">
+			</marker>
+			<verse num="9">
+				two and two, male and female, went into the ark with Noah, as God had commanded Noah.
+			</verse>
+			<marker class="begin-verse" mid="v01007010">
+			</marker>
+			<verse num="10">
+				And after seven days the waters of the flood came upon the earth.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01007011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on that day all the 
+				<crossref let="v" cid="c01007011.1">
+				</crossref>
+				fountains of the great deep burst forth, and 
+				<crossref let="w" cid="c01007011.2">
+				</crossref>
+				the windows of the heavens were opened.
+			</verse>
+			<marker class="begin-verse" mid="v01007012">
+			</marker>
+			<verse num="12">
+				And rain fell upon the earth forty days and forty nights.
+			</verse>
+			<marker class="begin-verse" mid="v01007013">
+			</marker>
+			<verse num="13">
+				On the very same day Noah and his sons, Shem and Ham and Japheth, and Noah's wife and the three wives of his sons with them entered the ark,
+			</verse>
+			<marker class="begin-verse" mid="v01007014">
+			</marker>
+			<verse num="14">
+				they and every beast, according to its kind, and all the livestock according to their kinds, and every creeping thing that creeps on the earth, according to its kind, and every bird, according to its kind, every winged creature.
+			</verse>
+			<marker class="begin-verse" mid="v01007015">
+			</marker>
+			<verse num="15">
+				They 
+				<crossref let="x" cid="c01007015.1">
+				</crossref>
+				went into the ark with Noah, two and two of all flesh in which there was the breath of life.
+			</verse>
+			<marker class="begin-verse" mid="v01007016">
+			</marker>
+			<verse num="16">
+				And those that entered, male and female of all flesh, went in 
+				<crossref let="y" cid="c01007016.1">
+				</crossref>
+				as God had commanded him. And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 shut him in.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01007017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				The flood 
+				<crossref let="z" cid="c01007017.1">
+				</crossref>
+				continued forty days on the earth. The waters increased and bore up the ark, and it rose high above the earth.
+			</verse>
+			<marker class="begin-verse" mid="v01007018">
+			</marker>
+			<verse num="18">
+				The waters prevailed and increased greatly on the earth, and the ark floated on the face of the waters.
+			</verse>
+			<marker class="begin-verse" mid="v01007019">
+			</marker>
+			<verse num="19">
+				And the waters prevailed so mightily on the earth that all the high mountains under the whole heaven were covered.
+			</verse>
+			<marker class="begin-verse" mid="v01007020">
+			</marker>
+			<verse num="20">
+				The waters prevailed above the mountains, covering them fifteen cubits
+				<note nid="n01007020.1">
+				</note>
+				 deep.
+			</verse>
+			<marker class="begin-verse" mid="v01007021">
+			</marker>
+			<verse num="21">
+				And 
+				<crossref let="a" cid="c01007021.1">
+				</crossref>
+				all flesh died that moved on the earth, birds, livestock, beasts, all swarming creatures that swarm on the earth, and all mankind.
+			</verse>
+			<marker class="begin-verse" mid="v01007022">
+			</marker>
+			<verse num="22">
+				Everything on the dry land 
+				<crossref let="b" cid="c01007022.1">
+				</crossref>
+				in whose nostrils was the breath of life died.
+			</verse>
+			<marker class="begin-verse" mid="v01007023">
+			</marker>
+			<verse num="23">
+				He blotted out every living thing that was on the face of the ground, man and animals and creeping things and birds of the heavens. They were blotted out from the earth. Only 
+				<crossref let="c" cid="c01007023.1">
+				</crossref>
+				Noah was left, and those who were with him in the ark.
+			</verse>
+			<marker class="begin-verse" mid="v01007024">
+			</marker>
+			<verse num="24">
+				And the waters prevailed on the earth 150 days.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

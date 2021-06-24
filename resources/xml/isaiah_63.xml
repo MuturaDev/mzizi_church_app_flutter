@@ -1,0 +1,691 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23063001">
+		</marker>
+		<chapter num="63">
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				's Day of Vengeance
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Who is this who comes from 
+				<crossref let="l" cid="c23063001.1">
+				</crossref>
+				Edom,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in crimsoned garments from 
+				<crossref let="l" cid="c23063001.2">
+				</crossref>
+				Bozrah,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				he who is splendid in his apparel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c23063001.3">
+				</crossref>
+				marching in the greatness of his strength?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is I, speaking in righteousness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				mighty to save.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23063002">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Why is your 
+				<crossref let="n" cid="c23063002.1">
+				</crossref>
+				apparel red,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your garments like his 
+				<crossref let="o" cid="c23063002.2">
+				</crossref>
+				who treads in the winepress?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23063003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c23063003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have trodden the winepress alone,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c23063003.2">
+				</crossref>
+				and from the peoples no one was with me;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I trod them in my anger
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and trampled them in my wrath;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				their lifeblood
+				<note nid="n23063003.1">
+				</note>
+				 spattered on my garments,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and stained all my apparel.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23063004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c23063004.1">
+				</crossref>
+				For the day of vengeance was in my heart,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my year of redemption
+				<note nid="n23063004.1">
+				</note>
+				 had come.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23063005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				I looked, but 
+				<crossref let="s" cid="c23063005.1">
+				</crossref>
+				there was no one to help;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I was appalled, but there was no one to uphold;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				so my own arm brought me salvation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my wrath upheld me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23063006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				I trampled down the peoples in my anger;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c23063006.1">
+				</crossref>
+				I made them drunk in my wrath,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and I poured out their lifeblood on the earth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23063007">
+			</marker>
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				's Mercy Remembered
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				I will recount the steadfast love of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the praises of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				according to all that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has granted us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c23063007.1">
+				</crossref>
+				and the great goodness to the house of Israel
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				that he has granted them according to his compassion,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				according to the abundance of his steadfast love.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23063008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				For he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Surely they are my people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				children who will not deal falsely.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				And he became their Savior.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23063009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c23063009.1">
+				</crossref>
+				In all their affliction he was afflicted,
+				<note nid="n23063009.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the angel of his presence saved them;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c23063009.2">
+				</crossref>
+				in his love and in his pity he redeemed them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c23063009.3">
+				</crossref>
+				he lifted them up and carried them all the days of old.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23063010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c23063010.1">
+				</crossref>
+				But they rebelled
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c23063010.2">
+				</crossref>
+				and grieved his Holy Spirit;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				therefore he turned to be their enemy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and himself fought against them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23063011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Then he remembered 
+				<crossref let="a" cid="c23063011.1">
+				</crossref>
+				the days of old,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				of Moses and his people.
+				<note nid="n23063011.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c23063011.2">
+				</crossref>
+				Where is he who brought them up out of the sea
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with the shepherds of his flock?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Where is he who put in the midst of them
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his Holy Spirit,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23063012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				who caused his glorious arm
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to go at the right hand of Moses,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c23063012.1">
+				</crossref>
+				who divided the waters before them
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c23063012.2">
+				</crossref>
+				to make for himself an everlasting name,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23063013">
+			</marker>
+			<verse num="13">
+				<begin-line class="indent">
+				</begin-line>
+				who led them through the depths?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Like a horse in the desert,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they did not stumble.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23063014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				Like livestock that go down into the valley,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c23063014.1">
+				</crossref>
+				the Spirit of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 gave them rest.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				So you led your people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c23063014.2">
+				</crossref>
+				to make for yourself a glorious name.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23063015">
+			</marker>
+			<heading
+				>
+				Prayer for Mercy
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c23063015.1">
+				</crossref>
+				Look down from heaven and see,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="g" cid="c23063015.2">
+				</crossref>
+				from your holy and beautiful
+				<note nid="n23063015.1">
+				</note>
+				 habitation.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Where are 
+				<crossref let="h" cid="c23063015.3">
+				</crossref>
+				your zeal and your might?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				The stirring of your inner parts and your compassion
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				are held back from me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23063016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="i" cid="c23063016.1">
+				</crossref>
+				you are our Father,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				though Abraham does not know us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and Israel does not acknowledge us;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, are our Father,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c23063016.2">
+				</crossref>
+				our Redeemer from of old is your name.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23063017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, why do you make us wander from your ways
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="k" cid="c23063017.1">
+				</crossref>
+				harden our heart, so that we fear you not?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c23063017.2">
+				</crossref>
+				Return for the sake of your servants,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the tribes of your heritage.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23063018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c23063018.1">
+				</crossref>
+				Your holy people held possession for a little while;
+				<note nid="n23063018.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c23063018.2">
+				</crossref>
+				our adversaries have trampled down your sanctuary.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23063019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c23063019.1">
+				</crossref>
+				We have become like those over whom you have never ruled,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like those who are not called by your name.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

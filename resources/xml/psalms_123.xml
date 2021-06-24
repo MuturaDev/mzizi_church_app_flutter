@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19123001">
+		</marker>
+		<chapter num="123">
+			<heading
+				>
+				Our Eyes Look to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Our God
+			</heading>
+			<subheading class="psalm-title">
+				A Song of 
+				<crossref let="m" cid="c19123001.1">
+				</crossref>
+				Ascents.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				To you I 
+				<crossref let="q" cid="c19123001.2">
+				</crossref>
+				lift up my eyes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O you who are 
+				<crossref let="r" cid="c19123001.3">
+				</crossref>
+				enthroned in the heavens!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19123002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Behold, as the eyes of servants
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				look to the hand of their master,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				as the eyes of a maidservant
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the hand of her mistress,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				so our eyes look to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				till he has mercy upon us.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19123003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19123003.1">
+				</crossref>
+				Have mercy upon us, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, have mercy upon us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for we have had more than enough of 
+				<crossref let="t" cid="c19123003.2">
+				</crossref>
+				contempt.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19123004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Our soul has had more than enough
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				of 
+				<crossref let="u" cid="c19123004.1">
+				</crossref>
+				the scorn of 
+				<crossref let="v" cid="c19123004.2">
+				</crossref>
+				those who are at ease,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				of the contempt of 
+				<crossref let="w" cid="c19123004.3">
+				</crossref>
+				the proud.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

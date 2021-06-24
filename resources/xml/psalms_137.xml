@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19137001">
+		</marker>
+		<chapter num="137">
+			<heading
+				>
+				How Shall We Sing the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's Song?
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				By the waters of Babylon,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				there we sat down and wept,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when we remembered Zion.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19137002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				On the willows
+				<note nid="n19137002.1">
+				</note>
+				 there
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				we hung up our lyres.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19137003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				For there our captors
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				required of us songs,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and our tormentors, mirth, saying,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Sing us one of the songs of Zion!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19137004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19137004.1">
+				</crossref>
+				How shall we sing the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's song
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in a foreign land?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19137005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				If I forget you, O Jerusalem,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c19137005.1">
+				</crossref>
+				let my right hand forget its skill!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19137006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Let my 
+				<crossref let="u" cid="c19137006.1">
+				</crossref>
+				tongue stick to the roof of my mouth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				if I do not remember you,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				if I do not set Jerusalem
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				above my highest joy!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19137007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Remember, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, against the 
+				<crossref let="v" cid="c19137007.1">
+				</crossref>
+				Edomites
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c19137007.2">
+				</crossref>
+				the day of Jerusalem,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				how they said, 
+				<crossref let="x" cid="c19137007.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lay it bare, lay it bare,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				down to its foundations!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19137008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				O daughter of Babylon, 
+				<crossref let="y" cid="c19137008.1">
+				</crossref>
+				doomed to be destroyed,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				blessed shall he be who 
+				<crossref let="z" cid="c19137008.2">
+				</crossref>
+				repays you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with what you have done to us!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19137009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Blessed shall he be who takes your little ones
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="a" cid="c19137009.1">
+				</crossref>
+				dashes them against the rock!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

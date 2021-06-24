@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01033001">
+		</marker>
+		<chapter num="33">
+			<heading
+				>
+				Jacob Meets Esau
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And Jacob lifted up his eyes and looked, and behold, 
+				<crossref let="o" cid="c01033001.1">
+				</crossref>
+				Esau was coming, and four hundred men with him. So he divided the children among Leah and Rachel and the two female servants.
+			</verse>
+			<marker class="begin-verse" mid="v01033002">
+			</marker>
+			<verse num="2">
+				And he put the servants with their children in front, then Leah with her children, and Rachel and Joseph last of all.
+			</verse>
+			<marker class="begin-verse" mid="v01033003">
+			</marker>
+			<verse num="3">
+				He himself went on before them, 
+				<crossref let="p" cid="c01033003.1">
+				</crossref>
+				bowing himself to the ground seven times, until he came near to his brother.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01033004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				<crossref let="q" cid="c01033004.1">
+				</crossref>
+				But Esau ran to meet him and embraced him 
+				<crossref let="r" cid="c01033004.2">
+				</crossref>
+				and fell on his neck and kissed him, and they wept.
+			</verse>
+			<marker class="begin-verse" mid="v01033005">
+			</marker>
+			<verse num="5">
+				And when Esau lifted up his eyes and saw the women and children, he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who are these with you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Jacob said, 
+				<crossref let="s" cid="c01033005.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The children whom God has graciously given your servant.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01033006">
+			</marker>
+			<verse num="6">
+				Then the servants drew near, they and their children, and bowed down.
+			</verse>
+			<marker class="begin-verse" mid="v01033007">
+			</marker>
+			<verse num="7">
+				Leah likewise and her children drew near and bowed down. And last Joseph and Rachel drew near, and they bowed down.
+			</verse>
+			<marker class="begin-verse" mid="v01033008">
+			</marker>
+			<verse num="8">
+				Esau said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What do you mean by 
+				<crossref let="t" cid="c01033008.1">
+				</crossref>
+				all this company
+				<note nid="n01033008.1">
+				</note>
+				 that I met?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Jacob answered, 
+				<crossref let="u" cid="c01033008.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				To find favor in the sight of my lord.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01033009">
+			</marker>
+			<verse num="9">
+				But Esau said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have enough, my brother; keep what you have for yourself.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01033010">
+			</marker>
+			<verse num="10">
+				Jacob said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No, please, if I have found favor in your sight, then accept my present from my hand. 
+				<crossref let="v" cid="c01033010.1">
+				</crossref>
+				For I have seen your face, which is like seeing the face of God, and you have accepted me.
+			</verse>
+			<marker class="begin-verse" mid="v01033011">
+			</marker>
+			<verse num="11">
+				Please accept my 
+				<crossref let="w" cid="c01033011.1">
+				</crossref>
+				blessing that is brought to you, because God has dealt graciously with me, and because I have enough.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Thus he 
+				<crossref let="x" cid="c01033011.2">
+				</crossref>
+				urged him, and he took it.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01033012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				Then Esau said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let us journey on our way, and I will go ahead of
+				<note nid="n01033012.1">
+				</note>
+				 you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01033013">
+			</marker>
+			<verse num="13">
+				But Jacob said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My lord knows that the children are frail, and that the nursing flocks and herds are a care to me. If they are driven hard for one day, all the flocks will die.
+			</verse>
+			<marker class="begin-verse" mid="v01033014">
+			</marker>
+			<verse num="14">
+				Let my lord pass on ahead of his servant, and I will lead on slowly, at the pace of the livestock that are ahead of me and at the pace of the children, until I come to my lord 
+				<crossref let="y" cid="c01033014.1">
+				</crossref>
+				in Seir.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01033015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				So Esau said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let me leave with you some of the people who are with me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What need is there? 
+				<crossref let="z" cid="c01033015.1">
+				</crossref>
+				Let me find favor in the sight of my lord.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01033016">
+			</marker>
+			<verse num="16">
+				So Esau returned that day on his way to 
+				<crossref let="a" cid="c01033016.1">
+				</crossref>
+				Seir.
+			</verse>
+			<marker class="begin-verse" mid="v01033017">
+			</marker>
+			<verse num="17">
+				But Jacob journeyed to 
+				<crossref let="b" cid="c01033017.1">
+				</crossref>
+				Succoth, and built himself a house and made booths for his livestock. Therefore the name of the place is called Succoth.
+				<note nid="n01033017.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01033018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				And Jacob came safely
+				<note nid="n01033018.1">
+				</note>
+				 to the city of 
+				<crossref let="c" cid="c01033018.1">
+				</crossref>
+				Shechem, which is in the land of Canaan, on his way from Paddan-aram, and he camped before the city.
+			</verse>
+			<marker class="begin-verse" mid="v01033019">
+			</marker>
+			<verse num="19">
+				And from the sons of 
+				<crossref let="d" cid="c01033019.1">
+				</crossref>
+				Hamor, Shechem's father, 
+				<crossref let="e" cid="c01033019.2">
+				</crossref>
+				he bought for a hundred pieces of money
+				<note nid="n01033019.1">
+				</note>
+				 the piece of land on which he had pitched his tent.
+			</verse>
+			<marker class="begin-verse" mid="v01033020">
+			</marker>
+			<verse num="20">
+				There he erected an altar and called it El-Elohe-Israel.
+				<note nid="n01033020.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

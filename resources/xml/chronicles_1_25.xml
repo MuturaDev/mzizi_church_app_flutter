@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Chronicles" num="12">
+		<marker class="begin-verse" mid="v13025001">
+		</marker>
+		<chapter num="25">
+			<heading
+				>
+				David Organizes the Musicians
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				David and the chiefs of the service also set apart for the service the sons of 
+				<crossref let="y" cid="c13025001.1">
+				</crossref>
+				Asaph, and of 
+				<crossref let="z" cid="c13025001.2">
+				</crossref>
+				Heman, and of 
+				<crossref let="a" cid="c13025001.3">
+				</crossref>
+				Jeduthun, who 
+				<crossref let="b" cid="c13025001.4">
+				</crossref>
+				prophesied with lyres, with 
+				<crossref let="c" cid="c13025001.5">
+				</crossref>
+				harps, and with cymbals. The list of those who did the work and of their duties was:
+			</verse>
+			<marker class="begin-verse" mid="v13025002">
+			</marker>
+			<verse num="2">
+				Of the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asharelah, sons of Asaph, under the direction of Asaph, who 
+				<crossref let="b" cid="c13025002.1">
+				</crossref>
+				prophesied under the direction of the king.
+			</verse>
+			<marker class="begin-verse" mid="v13025003">
+			</marker>
+			<verse num="3">
+				Of Jeduthun, the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei,
+				<note nid="n13025003.1">
+				</note>
+				 Hashabiah, and Mattithiah, six, under the direction of their father Jeduthun, 
+				<crossref let="b" cid="c13025003.1">
+				</crossref>
+				who prophesied with the lyre in thanksgiving and praise to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v13025004">
+			</marker>
+			<verse num="4">
+				Of Heman, the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamti-ezer, Joshbekashah, Mallothi, Hothir, Mahazioth.
+			</verse>
+			<marker class="begin-verse" mid="v13025005">
+			</marker>
+			<verse num="5">
+				All these were the sons of Heman 
+				<crossref let="d" cid="c13025005.1">
+				</crossref>
+				the king's seer, according to the promise of God to exalt him, for God had given Heman fourteen sons and three daughters.
+			</verse>
+			<marker class="begin-verse" mid="v13025006">
+			</marker>
+			<verse num="6">
+				They were all under the direction of their father in the music in the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with cymbals, 
+				<crossref let="c" cid="c13025006.1">
+				</crossref>
+				harps, and lyres for the service of the house of God. Asaph, Jeduthun, and Heman were under the order of the king.
+			</verse>
+			<marker class="begin-verse" mid="v13025007">
+			</marker>
+			<verse num="7">
+				The number of them along with their brothers, who were trained in singing to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, all who were skillful, was 
+				<crossref let="e" cid="c13025007.1">
+				</crossref>
+				288.
+			</verse>
+			<marker class="begin-verse" mid="v13025008">
+			</marker>
+			<verse num="8">
+				And they cast lots for their duties, 
+				<crossref let="f" cid="c13025008.1">
+				</crossref>
+				small and great, teacher and pupil alike.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13025009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				The first lot fell for Asaph to Joseph; the second to Gedaliah, to him and his brothers and his sons, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025010">
+			</marker>
+			<verse num="10">
+				the third to Zaccur, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025011">
+			</marker>
+			<verse num="11">
+				the fourth to Izri, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025012">
+			</marker>
+			<verse num="12">
+				the fifth to Nethaniah, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025013">
+			</marker>
+			<verse num="13">
+				the sixth to Bukkiah, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025014">
+			</marker>
+			<verse num="14">
+				the seventh to Jesharelah, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025015">
+			</marker>
+			<verse num="15">
+				the eighth to Jeshaiah, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025016">
+			</marker>
+			<verse num="16">
+				the ninth to Mattaniah, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025017">
+			</marker>
+			<verse num="17">
+				the tenth to Shimei, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025018">
+			</marker>
+			<verse num="18">
+				the eleventh to Azarel, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025019">
+			</marker>
+			<verse num="19">
+				the twelfth to Hashabiah, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025020">
+			</marker>
+			<verse num="20">
+				to the thirteenth, Shubael, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025021">
+			</marker>
+			<verse num="21">
+				to the fourteenth, Mattithiah, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025022">
+			</marker>
+			<verse num="22">
+				to the fifteenth, to Jeremoth, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025023">
+			</marker>
+			<verse num="23">
+				to the sixteenth, to Hananiah, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025024">
+			</marker>
+			<verse num="24">
+				to the seventeenth, to Joshbekashah, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025025">
+			</marker>
+			<verse num="25">
+				to the eighteenth, to Hanani, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025026">
+			</marker>
+			<verse num="26">
+				to the nineteenth, to Mallothi, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025027">
+			</marker>
+			<verse num="27">
+				to the twentieth, to Eliathah, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025028">
+			</marker>
+			<verse num="28">
+				to the twenty-first, to Hothir, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025029">
+			</marker>
+			<verse num="29">
+				to the twenty-second, to Giddalti, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025030">
+			</marker>
+			<verse num="30">
+				to the twenty-third, to Mahazioth, his sons and his brothers, twelve;
+			</verse>
+			<marker class="begin-verse" mid="v13025031">
+			</marker>
+			<verse num="31">
+				to the twenty-fourth, to Romamti-ezer, his sons and his brothers, twelve.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

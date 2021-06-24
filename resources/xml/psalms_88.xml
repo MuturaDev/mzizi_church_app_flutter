@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19088001">
+		</marker>
+		<chapter num="88">
+			<heading
+				>
+				I Cry Out Day and Night Before You
+			</heading>
+			<subheading class="psalm-title">
+				A Song. A Psalm of 
+				<crossref let="z" cid="c19088001.1">
+				</crossref>
+				the Sons of Korah. To the choirmaster: according to 
+				<crossref let="a" cid="c19088001.2">
+				</crossref>
+				Mahalath Leannoth. A Maskil
+				<note nid="n19088001.1">
+				</note>
+				 of 
+				<crossref let="b" cid="c19088001.3">
+				</crossref>
+				Heman the Ezrahite.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="c" cid="c19088001.4">
+				</crossref>
+				God of my salvation;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I 
+				<crossref let="d" cid="c19088001.5">
+				</crossref>
+				cry out day and night before you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Let my prayer come before you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c19088002.1">
+				</crossref>
+				incline your ear to my cry!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19088003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				For my soul is full of troubles,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="f" cid="c19088003.1">
+				</crossref>
+				my life draws near to 
+				<crossref let="g" cid="c19088003.2">
+				</crossref>
+				Sheol.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				I am counted among those who 
+				<crossref let="h" cid="c19088004.1">
+				</crossref>
+				go down to the pit;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I am a man who has no strength,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				like one set loose among the dead,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like the slain that lie in the grave,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				like those whom 
+				<crossref let="i" cid="c19088005.1">
+				</crossref>
+				you remember no more,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for they are 
+				<crossref let="j" cid="c19088005.2">
+				</crossref>
+				cut off from your hand.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				You have put me in 
+				<crossref let="k" cid="c19088006.1">
+				</crossref>
+				the depths of the pit,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the 
+				<crossref let="l" cid="c19088006.2">
+				</crossref>
+				regions dark and 
+				<crossref let="m" cid="c19088006.3">
+				</crossref>
+				deep.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Your wrath 
+				<crossref let="n" cid="c19088007.1">
+				</crossref>
+				lies heavy upon me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you overwhelm me with 
+				<crossref let="o" cid="c19088007.2">
+				</crossref>
+				all your waves. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19088008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				You have caused 
+				<crossref let="p" cid="c19088008.1">
+				</crossref>
+				my companions to shun me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have made me 
+				<crossref let="q" cid="c19088008.2">
+				</crossref>
+				a horror
+				<note nid="n19088008.1">
+				</note>
+				 to them.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I am 
+				<crossref let="r" cid="c19088008.3">
+				</crossref>
+				shut in so that I cannot escape;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088009">
+			</marker>
+			<verse num="9">
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c19088009.1">
+				</crossref>
+				my eye grows dim through sorrow.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Every day I call upon you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I 
+				<crossref let="t" cid="c19088009.2">
+				</crossref>
+				spread out my hands to you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Do you work wonders for the dead?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c19088010.1">
+				</crossref>
+				Do the departed rise up to praise you? 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Is your steadfast love declared in the grave,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or your faithfulness in Abaddon?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Are your 
+				<crossref let="v" cid="c19088012.1">
+				</crossref>
+				wonders known in 
+				<crossref let="w" cid="c19088012.2">
+				</crossref>
+				the darkness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or your righteousness in the land of 
+				<crossref let="x" cid="c19088012.3">
+				</crossref>
+				forgetfulness?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19088013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				But I, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, cry 
+				<crossref let="y" cid="c19088013.1">
+				</crossref>
+				to you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c19088013.2">
+				</crossref>
+				in the morning my prayer comes before you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, why 
+				<crossref let="a" cid="c19088014.1">
+				</crossref>
+				do you cast my soul away?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Why 
+				<crossref let="b" cid="c19088014.2">
+				</crossref>
+				do you hide your face from me?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				Afflicted and close to death from my youth up,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I suffer your terrors; I am helpless.
+				<note nid="n19088015.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Your wrath has swept over me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your 
+				<crossref let="c" cid="c19088016.1">
+				</crossref>
+				dreadful assaults destroy me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				They 
+				<crossref let="d" cid="c19088017.1">
+				</crossref>
+				surround me like a flood 
+				<crossref let="e" cid="c19088017.2">
+				</crossref>
+				all day long;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they 
+				<crossref let="f" cid="c19088017.3">
+				</crossref>
+				close in on me together.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19088018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				You have caused 
+				<crossref let="g" cid="c19088018.1">
+				</crossref>
+				my beloved and my friend to shun me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my companions have become darkness.
+				<note nid="n19088018.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

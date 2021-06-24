@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 John" num="63">
+		<marker class="begin-verse" mid="v63001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="a" cid="c63001001.1">
+				</crossref>
+				The elder to the elect lady and her children, 
+				<crossref let="b" cid="c63001001.2">
+				</crossref>
+				whom I love in truth, and not only I, but also all who 
+				<crossref let="c" cid="c63001001.3">
+				</crossref>
+				know 
+				<crossref let="d" cid="c63001001.4">
+				</crossref>
+				the truth,
+			</verse>
+			<marker class="begin-verse" mid="v63001002">
+			</marker>
+			<verse num="2">
+				<crossref let="e" cid="c63001002.1">
+				</crossref>
+				because of the truth that abides in us and will be with us forever:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v63001003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="f" cid="c63001003.1">
+				</crossref>
+				Grace, mercy, and peace will be with us, from God the Father and from Jesus Christ the Father's Son, in truth and love.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v63001004">
+			</marker>
+			<heading
+				>
+				Walking in Truth and Love
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				<crossref let="g" cid="c63001004.1">
+				</crossref>
+				I rejoiced greatly to find some of your children walking in the truth, just as we were commanded by the Father.
+			</verse>
+			<marker class="begin-verse" mid="v63001005">
+			</marker>
+			<verse num="5">
+				And now I ask you, dear ladyù
+				<crossref let="h" cid="c63001005.1">
+				</crossref>
+				not as though I were writing you a new commandment, but the one we have had from the beginningù
+				<crossref let="i" cid="c63001005.2">
+				</crossref>
+				that we love one another.
+			</verse>
+			<marker class="begin-verse" mid="v63001006">
+			</marker>
+			<verse num="6">
+				And 
+				<crossref let="j" cid="c63001006.1">
+				</crossref>
+				this is love, that we walk according to his commandments; this is the commandment, just 
+				<crossref let="k" cid="c63001006.2">
+				</crossref>
+				as you have heard from the beginning, so that you should walk in it.
+			</verse>
+			<marker class="begin-verse" mid="v63001007">
+			</marker>
+			<verse num="7">
+				For 
+				<crossref let="l" cid="c63001007.1">
+				</crossref>
+				many deceivers 
+				<crossref let="m" cid="c63001007.2">
+				</crossref>
+				have gone out into the world, 
+				<crossref let="n" cid="c63001007.3">
+				</crossref>
+				those who do not confess the coming of Jesus Christ in the flesh. Such a one is the deceiver and the antichrist.
+			</verse>
+			<marker class="begin-verse" mid="v63001008">
+			</marker>
+			<verse num="8">
+				Watch yourselves, 
+				<crossref let="o" cid="c63001008.1">
+				</crossref>
+				so that you may not lose what we
+				<note nid="n63001008.1">
+				</note>
+				 have worked for, but 
+				<crossref let="p" cid="c63001008.2">
+				</crossref>
+				may win a full reward.
+			</verse>
+			<marker class="begin-verse" mid="v63001009">
+			</marker>
+			<verse num="9">
+				Everyone who goes on ahead and does not abide in the teaching of Christ, 
+				<crossref let="q" cid="c63001009.1">
+				</crossref>
+				does not have God. Whoever abides in the teaching 
+				<crossref let="q" cid="c63001009.2">
+				</crossref>
+				has both the Father and the Son.
+			</verse>
+			<marker class="begin-verse" mid="v63001010">
+			</marker>
+			<verse num="10">
+				If anyone comes to you and does not bring this teaching, 
+				<crossref let="r" cid="c63001010.1">
+				</crossref>
+				do not receive him into your house or give him any greeting,
+			</verse>
+			<marker class="begin-verse" mid="v63001011">
+			</marker>
+			<verse num="11">
+				for whoever greets him 
+				<crossref let="s" cid="c63001011.1">
+				</crossref>
+				takes part in his wicked works.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v63001012">
+			</marker>
+			<heading
+				>
+				Final Greetings
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				<crossref let="t" cid="c63001012.1">
+				</crossref>
+				Though I have much to write to you, I would rather not use paper and ink. 
+				<crossref let="u" cid="c63001012.2">
+				</crossref>
+				Instead I hope to come to you and talk face to face, 
+				<crossref let="v" cid="c63001012.3">
+				</crossref>
+				so that our joy may be complete.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v63001013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				The children of your elect sister greet you.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

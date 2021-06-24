@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19016001">
+		</marker>
+		<chapter num="16">
+			<heading
+				>
+				You Will Not Abandon My Soul
+			</heading>
+			<subheading class="psalm-title">
+				A 
+				<crossref let="h" cid="c19016001.1">
+				</crossref>
+				Miktam
+				<note nid="n19016001.1">
+				</note>
+				 of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Preserve me, O God, for in you I 
+				<crossref let="i" cid="c19016001.2">
+				</crossref>
+				take refuge.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19016002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				I say to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are my Lord;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c19016002.1">
+				</crossref>
+				I have no good apart from you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19016003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				As for 
+				<crossref let="k" cid="c19016003.1">
+				</crossref>
+				the saints in the land, they are the excellent ones,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in whom is all my delight.
+				<note nid="n19016003.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19016004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				The sorrows of those who run after
+				<note nid="n19016004.1">
+				</note>
+				 another god shall multiply;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				their drink offerings of blood I will not pour out
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or 
+				<crossref let="l" cid="c19016004.1">
+				</crossref>
+				take their names on my lips.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19016005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is 
+				<crossref let="m" cid="c19016005.1">
+				</crossref>
+				my chosen portion and my 
+				<crossref let="n" cid="c19016005.2">
+				</crossref>
+				cup;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you hold my 
+				<crossref let="o" cid="c19016005.3">
+				</crossref>
+				lot.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19016006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19016006.1">
+				</crossref>
+				The lines have fallen for me in pleasant places;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				indeed, I have a beautiful inheritance.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19016007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				I bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 who 
+				<crossref let="q" cid="c19016007.1">
+				</crossref>
+				gives me counsel;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in 
+				<crossref let="r" cid="c19016007.2">
+				</crossref>
+				the night also my 
+				<crossref let="s" cid="c19016007.3">
+				</crossref>
+				heart instructs me.
+				<note nid="n19016007.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19016008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c19016008.1">
+				</crossref>
+				I have 
+				<crossref let="u" cid="c19016008.2">
+				</crossref>
+				set the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 always before me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because he is at my 
+				<crossref let="v" cid="c19016008.3">
+				</crossref>
+				right hand, I shall not be 
+				<crossref let="w" cid="c19016008.4">
+				</crossref>
+				shaken.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19016009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Therefore my heart is glad, and my 
+				<crossref let="x" cid="c19016009.1">
+				</crossref>
+				whole being
+				<note nid="n19016009.1">
+				</note>
+				 rejoices;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my flesh also dwells secure.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19016010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				For you will not abandon my soul to 
+				<crossref let="y" cid="c19016010.1">
+				</crossref>
+				Sheol,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c19016010.2">
+				</crossref>
+				or let your 
+				<crossref let="a" cid="c19016010.3">
+				</crossref>
+				holy one see 
+				<crossref let="b" cid="c19016010.4">
+				</crossref>
+				corruption.
+				<note nid="n19016010.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19016011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				You make known to me 
+				<crossref let="c" cid="c19016011.1">
+				</crossref>
+				the path of life;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in your presence there is 
+				<crossref let="d" cid="c19016011.2">
+				</crossref>
+				fullness of joy;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				at your right hand are 
+				<crossref let="e" cid="c19016011.3">
+				</crossref>
+				pleasures forevermore.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

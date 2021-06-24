@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01013001">
+		</marker>
+		<chapter num="13">
+			<heading
+				>
+				Abram and Lot Separate
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				So Abram went up from Egypt, he and his wife and all that he had, and Lot with him, 
+				<crossref let="a" cid="c01013001.1">
+				</crossref>
+				into the Negeb.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01013002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				<crossref let="b" cid="c01013002.1">
+				</crossref>
+				Now Abram was very rich in livestock, in silver, and in gold.
+			</verse>
+			<marker class="begin-verse" mid="v01013003">
+			</marker>
+			<verse num="3">
+				And he journeyed on from the Negeb as far as Bethel to the place where his tent had been at the beginning, between Bethel and Ai,
+			</verse>
+			<marker class="begin-verse" mid="v01013004">
+			</marker>
+			<verse num="4">
+				to 
+				<crossref let="c" cid="c01013004.1">
+				</crossref>
+				the place where he had made an altar at the first. And there Abram called upon the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v01013005">
+			</marker>
+			<verse num="5">
+				And Lot, who went with Abram, also had flocks and herds and tents,
+			</verse>
+			<marker class="begin-verse" mid="v01013006">
+			</marker>
+			<verse num="6">
+				so that 
+				<crossref let="d" cid="c01013006.1">
+				</crossref>
+				the land could not support both of them dwelling together; for their possessions were so great that they could not dwell together,
+			</verse>
+			<marker class="begin-verse" mid="v01013007">
+			</marker>
+			<verse num="7">
+				<crossref let="e" cid="c01013007.1">
+				</crossref>
+				and there was strife between the herdsmen of Abram's livestock and the herdsmen of Lot's livestock. At that time 
+				<crossref let="f" cid="c01013007.2">
+				</crossref>
+				the Canaanites and the Perizzites were dwelling in the land.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01013008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Then Abram said to Lot, 
+				<crossref let="g" cid="c01013008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let there be no strife between you and me, and between your herdsmen and my herdsmen, 
+				<crossref let="h" cid="c01013008.2">
+				</crossref>
+				for we are kinsmen.
+				<note nid="n01013008.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01013009">
+			</marker>
+			<verse num="9">
+				<crossref let="i" cid="c01013009.1">
+				</crossref>
+				Is not the whole land before you? Separate yourself from me. If you take the left hand, then I will go to the right, or if you take the right hand, then I will go to the left.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01013010">
+			</marker>
+			<verse num="10">
+				And Lot lifted up his eyes and saw that the 
+				<crossref let="j" cid="c01013010.1">
+				</crossref>
+				Jordan Valley was well watered everywhere like 
+				<crossref let="k" cid="c01013010.2">
+				</crossref>
+				the garden of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, like the land of Egypt, in the direction of 
+				<crossref let="l" cid="c01013010.3">
+				</crossref>
+				Zoar. (This was before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="m" cid="c01013010.4">
+				</crossref>
+				destroyed Sodom and Gomorrah.)
+			</verse>
+			<marker class="begin-verse" mid="v01013011">
+			</marker>
+			<verse num="11">
+				So Lot chose for himself all the Jordan Valley, and Lot journeyed east. Thus they separated from each other.
+			</verse>
+			<marker class="begin-verse" mid="v01013012">
+			</marker>
+			<verse num="12">
+				Abram settled in the land of Canaan, while Lot settled among the cities of the valley and moved his tent as far as Sodom.
+			</verse>
+			<marker class="begin-verse" mid="v01013013">
+			</marker>
+			<verse num="13">
+				Now the men of Sodom 
+				<crossref let="n" cid="c01013013.1">
+				</crossref>
+				were wicked, great sinners against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01013014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Abram, after Lot had separated from him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lift up your eyes and look from the place where you are, 
+				<crossref let="o" cid="c01013014.1">
+				</crossref>
+				northward and southward and eastward and westward,
+			</verse>
+			<marker class="begin-verse" mid="v01013015">
+			</marker>
+			<verse num="15">
+				for all the land that you see I will give 
+				<crossref let="p" cid="c01013015.1">
+				</crossref>
+				to you and 
+				<crossref let="q" cid="c01013015.2">
+				</crossref>
+				to your offspring forever.
+			</verse>
+			<marker class="begin-verse" mid="v01013016">
+			</marker>
+			<verse num="16">
+				<crossref let="r" cid="c01013016.1">
+				</crossref>
+				I will make your offspring as the dust of the earth, so that if one can count the dust of the earth, your offspring also can be counted.
+			</verse>
+			<marker class="begin-verse" mid="v01013017">
+			</marker>
+			<verse num="17">
+				Arise, walk through the length and the breadth of the land, for I will give it to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01013018">
+			</marker>
+			<verse num="18">
+				So Abram moved his tent and came and 
+				<crossref let="s" cid="c01013018.1">
+				</crossref>
+				settled by the 
+				<crossref let="t" cid="c01013018.2">
+				</crossref>
+				oaks
+				<note nid="n01013018.1">
+				</note>
+				 of Mamre, which 
+				<crossref let="u" cid="c01013018.3">
+				</crossref>
+				are at Hebron, and there he built an altar to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

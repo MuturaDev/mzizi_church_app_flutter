@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Esther" num="16">
+		<marker class="begin-verse" mid="v17005001">
+		</marker>
+		<chapter num="5">
+			<heading
+				>
+				Esther Prepares a Banquet
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="y" cid="c17005001.1">
+				</crossref>
+				On the third day Esther put on her royal robes and stood in 
+				<crossref let="z" cid="c17005001.2">
+				</crossref>
+				the inner court of the king's palace, in front of the king's quarters, while the king was sitting on his royal throne inside the throne room opposite the entrance to the palace.
+			</verse>
+			<marker class="begin-verse" mid="v17005002">
+			</marker>
+			<verse num="2">
+				And when the king saw Queen Esther standing in the court, 
+				<crossref let="a" cid="c17005002.1">
+				</crossref>
+				she won favor in his sight, 
+				<crossref let="b" cid="c17005002.2">
+				</crossref>
+				and he held out to Esther the golden scepter that was in his hand. Then Esther approached and touched the tip of the scepter.
+			</verse>
+			<marker class="begin-verse" mid="v17005003">
+			</marker>
+			<verse num="3">
+				And the king said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is it, Queen Esther? What is your request? It shall be given you, even 
+				<crossref let="c" cid="c17005003.1">
+				</crossref>
+				to the half of my kingdom.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17005004">
+			</marker>
+			<verse num="4">
+				And Esther said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If it please the king, let the king and Haman come today to a feast that I have prepared for the king.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17005005">
+			</marker>
+			<verse num="5">
+				Then the king said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Bring Haman quickly, so that we may do as Esther has asked.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So the king and Haman came to the feast that Esther had prepared.
+			</verse>
+			<marker class="begin-verse" mid="v17005006">
+			</marker>
+			<verse num="6">
+				<crossref let="d" cid="c17005006.1">
+				</crossref>
+				And as they were drinking wine after the feast, the king said to Esther, 
+				<crossref let="e" cid="c17005006.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is your wish? It shall be granted you. And what is your request? 
+				<crossref let="c" cid="c17005006.3">
+				</crossref>
+				Even to the half of my kingdom, it shall be fulfilled.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17005007">
+			</marker>
+			<verse num="7">
+				Then Esther answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My wish and my request is:
+			</verse>
+			<marker class="begin-verse" mid="v17005008">
+			</marker>
+			<verse num="8">
+				<crossref let="f" cid="c17005008.1">
+				</crossref>
+				If I have found favor in the sight of the king, and if it please the king to grant my wish and fulfill my request, let the king and Haman come to 
+				<crossref let="g" cid="c17005008.2">
+				</crossref>
+				the feast that I will prepare for them, and tomorrow I will do as the king has said.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v17005009">
+			</marker>
+			<heading
+				>
+				Haman Plans to Hang Mordecai
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				And Haman went out that day 
+				<crossref let="h" cid="c17005009.1">
+				</crossref>
+				joyful and glad of heart. But when Haman saw Mordecai 
+				<crossref let="i" cid="c17005009.2">
+				</crossref>
+				in the king's gate, 
+				<crossref let="j" cid="c17005009.3">
+				</crossref>
+				that he neither rose nor trembled before him, he was filled with wrath against Mordecai.
+			</verse>
+			<marker class="begin-verse" mid="v17005010">
+			</marker>
+			<verse num="10">
+				Nevertheless, Haman restrained himself and went home, and he sent and brought his friends and 
+				<crossref let="k" cid="c17005010.1">
+				</crossref>
+				his wife Zeresh.
+			</verse>
+			<marker class="begin-verse" mid="v17005011">
+			</marker>
+			<verse num="11">
+				And Haman recounted to them the splendor of his riches, 
+				<crossref let="l" cid="c17005011.1">
+				</crossref>
+				the number of his sons, all the promotions with which 
+				<crossref let="m" cid="c17005011.2">
+				</crossref>
+				the king had honored him, and how he had advanced him above the officials and the servants of the king.
+			</verse>
+			<marker class="begin-verse" mid="v17005012">
+			</marker>
+			<verse num="12">
+				Then Haman said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Even Queen Esther let no one but me come with the king to the feast she prepared. And tomorrow also I am invited by her together with the king.
+			</verse>
+			<marker class="begin-verse" mid="v17005013">
+			</marker>
+			<verse num="13">
+				Yet all this is worth nothing to me, so long as I see Mordecai the Jew sitting 
+				<crossref let="i" cid="c17005013.1">
+				</crossref>
+				at the king's gate.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17005014">
+			</marker>
+			<verse num="14">
+				Then 
+				<crossref let="k" cid="c17005014.1">
+				</crossref>
+				his wife Zeresh and all his friends said to him, 
+				<crossref let="n" cid="c17005014.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let a gallows
+				<note nid="n17005014.1">
+				</note>
+				 fifty cubits
+				<note nid="n17005014.2">
+				</note>
+				 high be made, and in the morning tell the king to have Mordecai hanged upon it. Then go joyfully with the king to the feast.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 This idea pleased Haman, and he had the gallows made.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

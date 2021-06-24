@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19012001">
+		</marker>
+		<chapter num="12">
+			<heading
+				>
+				The Faithful Have Vanished
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: according to The Sheminith.
+				<note nid="n19012001.1">
+				</note>
+				 A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Save, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, for 
+				<crossref let="m" cid="c19012001.1">
+				</crossref>
+				the godly one is gone;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for the faithful have vanished from among the children of man.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19012002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Everyone 
+				<crossref let="n" cid="c19012002.1">
+				</crossref>
+				utters lies to his neighbor;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with 
+				<crossref let="o" cid="c19012002.2">
+				</crossref>
+				flattering lips and 
+				<crossref let="p" cid="c19012002.3">
+				</crossref>
+				a double heart they speak.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19012003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				May the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 cut off all 
+				<crossref let="o" cid="c19012003.1">
+				</crossref>
+				flattering lips,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the tongue that makes 
+				<crossref let="q" cid="c19012003.2">
+				</crossref>
+				great boasts,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19012004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				those who say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				With our tongue we will prevail,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				our lips are with us; who is master over us?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19012005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because 
+				<crossref let="r" cid="c19012005.1">
+				</crossref>
+				the poor are plundered, because the needy groan,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c19012005.2">
+				</crossref>
+				I will now arise,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will place him in the 
+				<crossref let="t" cid="c19012005.3">
+				</crossref>
+				safety for which he longs.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19012006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19012006.1">
+				</crossref>
+				The words of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 are pure words,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like silver refined in a furnace on the ground,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				purified seven times.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19012007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				You, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, will keep them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you will guard us
+				<note nid="n19012007.1">
+				</note>
+				 from this generation forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19012008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				On every side the wicked prowl,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as vileness is exalted among the children of man.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

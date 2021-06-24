@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09009001">
+		</marker>
+		<chapter num="9">
+			<heading
+				>
+				Saul Chosen to Be King
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				There was a man of Benjamin whose name was 
+				<crossref let="f" cid="c09009001.1">
+				</crossref>
+				Kish, the son of Abiel, son of Zeror, son of Becorath, son of Aphiah, a Benjaminite, a man of wealth.
+			</verse>
+			<marker class="begin-verse" mid="v09009002">
+			</marker>
+			<verse num="2">
+				And he had a son whose name was Saul, 
+				<crossref let="g" cid="c09009002.1">
+				</crossref>
+				a handsome young man. There was not a man among the people of Israel more handsome than he. 
+				<crossref let="h" cid="c09009002.2">
+				</crossref>
+				From his shoulders upward he was taller than any of the people.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09009003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				Now the donkeys of Kish, Saul's father, were lost. So Kish said to Saul his son, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take one of the young men with you, and arise, go and look for the donkeys.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09009004">
+			</marker>
+			<verse num="4">
+				And he passed through 
+				<crossref let="i" cid="c09009004.1">
+				</crossref>
+				the hill country of Ephraim and passed through the land of 
+				<crossref let="j" cid="c09009004.2">
+				</crossref>
+				Shalishah, but they did not find them. And they passed through the land of Shaalim, but they were not there. Then they passed through the land of Benjamin, but did not find them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09009005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				When they came to the land of Zuph, Saul said to his servant
+				<note nid="n09009005.1">
+				</note>
+				 who was with him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come, let us go back, 
+				<crossref let="k" cid="c09009005.1">
+				</crossref>
+				lest my father cease to care about the donkeys and become anxious about us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09009006">
+			</marker>
+			<verse num="6">
+				But he said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, there is 
+				<crossref let="l" cid="c09009006.1">
+				</crossref>
+				a man of God in this city, and he is a man who is held in honor; 
+				<crossref let="m" cid="c09009006.2">
+				</crossref>
+				all that he says comes true. So now let us go there. Perhaps he can tell us the way we should go.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09009007">
+			</marker>
+			<verse num="7">
+				Then Saul said to his servant, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				But if we go, 
+				<crossref let="n" cid="c09009007.1">
+				</crossref>
+				what can we bring the man? For the bread in our sacks is gone, and there is no present to bring to the man of God. What do we have?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09009008">
+			</marker>
+			<verse num="8">
+				The servant answered Saul again, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Here, I have with me a quarter of a shekel
+				<note nid="n09009008.1">
+				</note>
+				 of silver, and I will give it to the man of God to tell us our way.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09009009">
+			</marker>
+			<verse num="9">
+				(Formerly in Israel, when a man 
+				<crossref let="o" cid="c09009009.1">
+				</crossref>
+				went to inquire of God, he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come, let us go to the seer,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 for today's 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				prophet
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 was formerly called a seer.)
+			</verse>
+			<marker class="begin-verse" mid="v09009010">
+			</marker>
+			<verse num="10">
+				And Saul said to his servant, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Well said; come, let us go.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So they went to the city where the man of God was.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09009011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				As they went up the hill to the city, 
+				<crossref let="p" cid="c09009011.1">
+				</crossref>
+				they met young women coming out to draw water and said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is the seer here?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09009012">
+			</marker>
+			<verse num="12">
+				They answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He is; behold, he is just ahead of you. Hurry. He has come just now to the city, because the people 
+				<crossref let="q" cid="c09009012.1">
+				</crossref>
+				have a sacrifice today on 
+				<crossref let="r" cid="c09009012.2">
+				</crossref>
+				the high place.
+			</verse>
+			<marker class="begin-verse" mid="v09009013">
+			</marker>
+			<verse num="13">
+				As soon as you enter the city you will find him, before he goes up to the high place to eat. For the people will not eat till he comes, since he must bless the sacrifice; afterward those who are invited will eat. Now go up, for you will meet him immediately.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09009014">
+			</marker>
+			<verse num="14">
+				So they went up to the city. As they were entering the city, they saw Samuel coming out toward them on his way up to the high place.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09009015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				Now the day before Saul came, 
+				<crossref let="s" cid="c09009015.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had 
+				<crossref let="t" cid="c09009015.2">
+				</crossref>
+				revealed to Samuel:
+			</verse>
+			<marker class="begin-verse" mid="v09009016">
+			</marker>
+			<verse num="16">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tomorrow about this time I will send to you a man from the land of Benjamin, 
+				<crossref let="u" cid="c09009016.1">
+				</crossref>
+				and you shall anoint him to be prince over my people Israel. He shall save my people from the hand of the Philistines. 
+				<crossref let="v" cid="c09009016.2">
+				</crossref>
+				For I have seen
+				<note nid="n09009016.1">
+				</note>
+				 my people, because their cry has come to me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09009017">
+			</marker>
+			<verse num="17">
+				When Samuel saw Saul, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 told him, 
+				<crossref let="w" cid="c09009017.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Here is the man of whom I spoke to you! He it is who shall restrain my people.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09009018">
+			</marker>
+			<verse num="18">
+				Then Saul approached Samuel in the gate and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tell me where is the house of the seer?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09009019">
+			</marker>
+			<verse num="19">
+				Samuel answered Saul, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am the seer. Go up before me to the high place, for today you shall eat with me, and in the morning I will let you go and will tell you all that is on your mind.
+			</verse>
+			<marker class="begin-verse" mid="v09009020">
+			</marker>
+			<verse num="20">
+				<crossref let="x" cid="c09009020.1">
+				</crossref>
+				As for your donkeys that were lost three days ago, do not set your mind on them, for they have been found. And for whom is all that is desirable in Israel? Is it not for you and for all your father's house?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09009021">
+			</marker>
+			<verse num="21">
+				Saul answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Am I not a Benjaminite, 
+				<crossref let="y" cid="c09009021.1">
+				</crossref>
+				from the least of the tribes of Israel? 
+				<crossref let="z" cid="c09009021.2">
+				</crossref>
+				And is not my clan the humblest of all the clans of the tribe of Benjamin? Why then have you spoken to me in this way?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09009022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				Then Samuel took Saul and his young man and brought them into the hall and gave them a place at the head of those who had been invited, who were about thirty persons.
+			</verse>
+			<marker class="begin-verse" mid="v09009023">
+			</marker>
+			<verse num="23">
+				And Samuel said to the cook, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Bring the portion I gave you, of which I said to you, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Put it aside.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09009024">
+			</marker>
+			<verse num="24">
+				So the cook took up 
+				<crossref let="a" cid="c09009024.1">
+				</crossref>
+				the leg and what was on it and set them before Saul. And Samuel said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See, what was kept is set before you. Eat, because it was kept for you until the hour appointed, that you might eat with the guests.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n09009024.1">
+				</note>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				So Saul ate with Samuel that day.
+
+			</verse>
+			<marker class="begin-verse" mid="v09009025">
+			</marker>
+			<verse num="25">
+				And when they came down from the high place into the city, a bed was spread for Saul
+				<note nid="n09009025.1">
+				</note>
+				<crossref let="b" cid="c09009025.1">
+				</crossref>
+				on the roof, and he lay down to sleep.
+			</verse>
+			<marker class="begin-verse" mid="v09009026">
+			</marker>
+			<verse num="26">
+				Then at the break of dawn
+				<note nid="n09009026.1">
+				</note>
+				 Samuel called to Saul on the roof, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Up, that I may send you on your way.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So Saul arose, and both he and Samuel went out into the street.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09009027">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				As they were going down to the outskirts of the city, Samuel said to Saul, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tell the servant to pass on before us, and when he has passed on, stop here yourself for a while, that I may make known to you the word of God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

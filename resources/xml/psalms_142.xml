@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19142001">
+		</marker>
+		<chapter num="142">
+			<heading
+				>
+				You Are My Refuge
+			</heading>
+			<subheading class="psalm-title">
+				A Maskil
+				<note nid="n19142001.1">
+				</note>
+				 of David, when he was in 
+				<crossref let="k" cid="c19142001.1">
+				</crossref>
+				the cave. A Prayer.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				With my voice I 
+				<crossref let="l" cid="c19142001.2">
+				</crossref>
+				cry out to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with my voice I 
+				<crossref let="m" cid="c19142001.3">
+				</crossref>
+				plead for mercy to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19142002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="n" cid="c19142002.1">
+				</crossref>
+				pour out my complaint before him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I tell my trouble before him.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19142003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				When my spirit 
+				<crossref let="o" cid="c19142003.1">
+				</crossref>
+				faints within me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you know my way!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				In the path where I walk
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they have 
+				<crossref let="p" cid="c19142003.2">
+				</crossref>
+				hidden a trap for me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19142004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c19142004.1">
+				</crossref>
+				Look to the 
+				<crossref let="r" cid="c19142004.2">
+				</crossref>
+				right and see:
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c19142004.3">
+				</crossref>
+				there is none who takes notice of me;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c19142004.4">
+				</crossref>
+				no refuge remains to me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				no one cares for my soul.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19142005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				I cry to you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are my 
+				<crossref let="u" cid="c19142005.1">
+				</crossref>
+				refuge,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my 
+				<crossref let="v" cid="c19142005.2">
+				</crossref>
+				portion in 
+				<crossref let="w" cid="c19142005.3">
+				</crossref>
+				the land of the living.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19142006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19142006.1">
+				</crossref>
+				Attend to my cry,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="y" cid="c19142006.2">
+				</crossref>
+				I am brought very low!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Deliver me from my persecutors,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c19142006.3">
+				</crossref>
+				for they are too strong for me!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19142007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19142007.1">
+				</crossref>
+				Bring me out of prison,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that I may give thanks to your name!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				The righteous will surround me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for you will 
+				<crossref let="b" cid="c19142007.2">
+				</crossref>
+				deal bountifully with me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

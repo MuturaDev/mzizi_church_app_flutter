@@ -1,0 +1,642 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Daniel" num="26">
+		<marker class="begin-verse" mid="v27004001">
+		</marker>
+		<chapter num="4">
+			<heading
+				>
+				Nebuchadnezzar Praises God
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<note nid="n27004001.1">
+				</note>
+				 King Nebuchadnezzar to all 
+				<crossref let="m" cid="c27004001.1">
+				</crossref>
+				peoples, nations, and languages, 
+				<crossref let="n" cid="c27004001.2">
+				</crossref>
+				that dwell in all the earth: 
+				<crossref let="o" cid="c27004001.3">
+				</crossref>
+				Peace be multiplied to you!
+			</verse>
+			<marker class="begin-verse" mid="v27004002">
+			</marker>
+			<verse num="2">
+				It has seemed good to me to show the 
+				<crossref let="p" cid="c27004002.1">
+				</crossref>
+				signs and wonders that the 
+				<crossref let="q" cid="c27004002.2">
+				</crossref>
+				Most High God has done for me.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v27004003">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				How great are 
+				<crossref let="p" cid="c27004003.1">
+				</crossref>
+				his signs,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				how mighty his 
+				<crossref let="p" cid="c27004003.2">
+				</crossref>
+				wonders!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c27004003.3">
+				</crossref>
+				His kingdom is an everlasting kingdom,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c27004003.4">
+				</crossref>
+				and his dominion endures from generation to generation.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v27004004">
+			</marker>
+			<heading
+				>
+				Nebuchadnezzar's Second Dream
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				<note nid="n27004004.1">
+				</note>
+				 I, Nebuchadnezzar, was at ease in my house and prospering in my palace.
+			</verse>
+			<marker class="begin-verse" mid="v27004005">
+			</marker>
+			<verse num="5">
+				I saw a dream that made me afraid. As I lay in bed the fancies and 
+				<crossref let="s" cid="c27004005.1">
+				</crossref>
+				the visions of my head alarmed me.
+			</verse>
+			<marker class="begin-verse" mid="v27004006">
+			</marker>
+			<verse num="6">
+				So 
+				<crossref let="t" cid="c27004006.1">
+				</crossref>
+				I made a decree that 
+				<crossref let="u" cid="c27004006.2">
+				</crossref>
+				all the wise men of Babylon should be brought before me, that they might make known to me the interpretation of the dream.
+			</verse>
+			<marker class="begin-verse" mid="v27004007">
+			</marker>
+			<verse num="7">
+				Then 
+				<crossref let="v" cid="c27004007.1">
+				</crossref>
+				the magicians, the enchanters, the Chaldeans, and the astrologers came in, and I told them the dream, but 
+				<crossref let="w" cid="c27004007.2">
+				</crossref>
+				they could not make known to me its interpretation.
+			</verse>
+			<marker class="begin-verse" mid="v27004008">
+			</marker>
+			<verse num="8">
+				At last Daniel came in before meùhe who was named 
+				<crossref let="x" cid="c27004008.1">
+				</crossref>
+				Belteshazzar after the name of my god, and in whom is 
+				<crossref let="y" cid="c27004008.2">
+				</crossref>
+				the spirit of the holy gods
+				<note nid="n27004008.1">
+				</note>
+				ùand I told him the dream, saying,
+			</verse>
+			<marker class="begin-verse" mid="v27004009">
+			</marker>
+			<verse num="9">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O Belteshazzar, 
+				<crossref let="z" cid="c27004009.1">
+				</crossref>
+				chief of the magicians, because I know that 
+				<crossref let="y" cid="c27004009.2">
+				</crossref>
+				the spirit of the holy gods is in you and that no 
+				<crossref let="a" cid="c27004009.3">
+				</crossref>
+				mystery is too difficult for you, tell me 
+				<crossref let="s" cid="c27004009.4">
+				</crossref>
+				the visions of my dream that I saw and their interpretation.
+			</verse>
+			<marker class="begin-verse" mid="v27004010">
+			</marker>
+			<verse num="10">
+				<crossref let="s" cid="c27004010.1">
+				</crossref>
+				The visions of my head as I lay in bed were these: I saw, and 
+				<crossref let="b" cid="c27004010.2">
+				</crossref>
+				behold, a tree in the midst of the earth, and its height was great.
+			</verse>
+			<marker class="begin-verse" mid="v27004011">
+			</marker>
+			<verse num="11">
+				<crossref let="c" cid="c27004011.1">
+				</crossref>
+				The tree grew and became strong, and its top reached to heaven, and it was visible to the end of the whole earth.
+			</verse>
+			<marker class="begin-verse" mid="v27004012">
+			</marker>
+			<verse num="12">
+				<crossref let="d" cid="c27004012.1">
+				</crossref>
+				Its leaves were beautiful and its fruit abundant, and in it was food for all. 
+				<crossref let="e" cid="c27004012.2">
+				</crossref>
+				The beasts of the field found shade under it, and 
+				<crossref let="e" cid="c27004012.3">
+				</crossref>
+				the birds of the heavens lived in its branches, and all flesh was fed from it.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v27004013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				I saw in 
+				<crossref let="s" cid="c27004013.1">
+				</crossref>
+				the visions of my head as I lay in bed, and behold, 
+				<crossref let="f" cid="c27004013.2">
+				</crossref>
+				a watcher, 
+				<crossref let="g" cid="c27004013.3">
+				</crossref>
+				a holy one, came down from heaven.
+			</verse>
+			<marker class="begin-verse" mid="v27004014">
+			</marker>
+			<verse num="14">
+				He 
+				<crossref let="h" cid="c27004014.1">
+				</crossref>
+				proclaimed aloud and said thus: 
+				<crossref let="i" cid="c27004014.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Chop down the tree and 
+				<crossref let="j" cid="c27004014.3">
+				</crossref>
+				lop off its branches, 
+				<crossref let="j" cid="c27004014.4">
+				</crossref>
+				strip off its leaves and scatter its fruit. 
+				<crossref let="j" cid="c27004014.5">
+				</crossref>
+				Let the beasts flee from under it and the birds from its branches.
+			</verse>
+			<marker class="begin-verse" mid="v27004015">
+			</marker>
+			<verse num="15">
+				But leave the stump of its roots in the earth, bound with a band of iron and bronze, amid the tender grass of the field. Let him be wet with the dew of heaven. Let his portion be with the beasts in the grass of the earth.
+			</verse>
+			<marker class="begin-verse" mid="v27004016">
+			</marker>
+			<verse num="16">
+				Let his mind be changed from a man's, and let a beast's mind be given to him; 
+				<crossref let="k" cid="c27004016.1">
+				</crossref>
+				and let seven periods of time 
+				<crossref let="l" cid="c27004016.2">
+				</crossref>
+				pass over him.
+			</verse>
+			<marker class="begin-verse" mid="v27004017">
+			</marker>
+			<verse num="17">
+				The sentence is by the decree of 
+				<crossref let="f" cid="c27004017.1">
+				</crossref>
+				the watchers, the decision by the word of 
+				<crossref let="g" cid="c27004017.2">
+				</crossref>
+				the holy ones, to the end that the living may know that the Most High 
+				<crossref let="m" cid="c27004017.3">
+				</crossref>
+				rules the kingdom of men 
+				<crossref let="n" cid="c27004017.4">
+				</crossref>
+				and gives it to whom he will and 
+				<crossref let="o" cid="c27004017.5">
+				</crossref>
+				sets over it the lowliest of men.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v27004018">
+			</marker>
+			<verse num="18">
+				This dream I, King Nebuchadnezzar, saw. And you, O 
+				<crossref let="p" cid="c27004018.1">
+				</crossref>
+				Belteshazzar, tell me the interpretation, because 
+				<crossref let="q" cid="c27004018.2">
+				</crossref>
+				all the wise men of my kingdom are not able to make known to me the interpretation, but you are able, for 
+				<crossref let="r" cid="c27004018.3">
+				</crossref>
+				the spirit of the holy gods is in you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v27004019">
+			</marker>
+			<heading
+				>
+				Daniel Interprets the Second Dream
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				Then Daniel, whose name was 
+				<crossref let="p" cid="c27004019.1">
+				</crossref>
+				Belteshazzar, was 
+				<crossref let="s" cid="c27004019.2">
+				</crossref>
+				dismayed for a while, and 
+				<crossref let="t" cid="c27004019.3">
+				</crossref>
+				his thoughts alarmed him. The king answered and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Belteshazzar, let not the dream or the interpretation alarm you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Belteshazzar answered and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My lord, 
+				<crossref let="u" cid="c27004019.4">
+				</crossref>
+				may the dream be for those who hate you 
+				<crossref let="u" cid="c27004019.5">
+				</crossref>
+				and its interpretation for your enemies!
+			</verse>
+			<marker class="begin-verse" mid="v27004020">
+			</marker>
+			<verse num="20">
+				<crossref let="v" cid="c27004020.1">
+				</crossref>
+				The tree you saw, which grew and became strong, so that its top reached to heaven, and it was visible to the end of the whole earth,
+			</verse>
+			<marker class="begin-verse" mid="v27004021">
+			</marker>
+			<verse num="21">
+				<crossref let="w" cid="c27004021.1">
+				</crossref>
+				whose leaves were beautiful and its fruit abundant, and in which was food for all, under which beasts of the field found shade, and in whose branches the birds of the heavens livedù
+			</verse>
+			<marker class="begin-verse" mid="v27004022">
+			</marker>
+			<verse num="22">
+				<crossref let="x" cid="c27004022.1">
+				</crossref>
+				it is you, O king, who have grown and become strong. 
+				<crossref let="y" cid="c27004022.2">
+				</crossref>
+				Your greatness has grown and reaches to heaven, 
+				<crossref let="y" cid="c27004022.3">
+				</crossref>
+				and your dominion to the ends of the earth.
+			</verse>
+			<marker class="begin-verse" mid="v27004023">
+			</marker>
+			<verse num="23">
+				And because the king saw 
+				<crossref let="z" cid="c27004023.1">
+				</crossref>
+				a watcher, a holy one, coming down from heaven and saying, 
+				<crossref let="a" cid="c27004023.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Chop down the tree and destroy it, but leave the stump of its roots in the earth, bound with a band of iron and bronze, in the tender grass of the field, and let him be wet with the dew of heaven, and let his portion be with the beasts of the field, till 
+				<crossref let="b" cid="c27004023.3">
+				</crossref>
+				seven periods of time pass over him,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v27004024">
+			</marker>
+			<verse num="24">
+				this is the interpretation, O king: It is a decree of the Most High, which has come upon my lord the king,
+			</verse>
+			<marker class="begin-verse" mid="v27004025">
+			</marker>
+			<verse num="25">
+				<crossref let="c" cid="c27004025.1">
+				</crossref>
+				that you shall be driven from among men, and your dwelling shall be with the beasts of the field. You shall be made 
+				<crossref let="d" cid="c27004025.2">
+				</crossref>
+				to eat grass like an ox, and you shall be wet with the dew of heaven, and 
+				<crossref let="b" cid="c27004025.3">
+				</crossref>
+				seven periods of time shall pass over you, till 
+				<crossref let="e" cid="c27004025.4">
+				</crossref>
+				you know that the Most High rules the kingdom of men and gives it to whom he will.
+			</verse>
+			<marker class="begin-verse" mid="v27004026">
+			</marker>
+			<verse num="26">
+				And as it was commanded 
+				<crossref let="f" cid="c27004026.1">
+				</crossref>
+				to leave the stump of the roots of the tree, your kingdom shall be confirmed for you from the time that you know that Heaven rules.
+			</verse>
+			<marker class="begin-verse" mid="v27004027">
+			</marker>
+			<verse num="27">
+				Therefore, O king, let my counsel be acceptable to you: break off your sins by 
+				<crossref let="g" cid="c27004027.1">
+				</crossref>
+				practicing righteousness, 
+				<crossref let="h" cid="c27004027.2">
+				</crossref>
+				and your iniquities by showing mercy to the oppressed, 
+				<crossref let="i" cid="c27004027.3">
+				</crossref>
+				that there may perhaps be a lengthening of your prosperity.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v27004028">
+			</marker>
+			<heading
+				>
+				Nebuchadnezzar's Humiliation
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				All this came upon King Nebuchadnezzar.
+			</verse>
+			<marker class="begin-verse" mid="v27004029">
+			</marker>
+			<verse num="29">
+				At the end of twelve months he was walking on the roof of the royal palace of Babylon,
+			</verse>
+			<marker class="begin-verse" mid="v27004030">
+			</marker>
+			<verse num="30">
+				and the king answered and said, 
+				<crossref let="j" cid="c27004030.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is not this great Babylon, which I have built by 
+				<crossref let="k" cid="c27004030.2">
+				</crossref>
+				my mighty power as a royal residence and for 
+				<crossref let="k" cid="c27004030.3">
+				</crossref>
+				the glory of my majesty?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v27004031">
+			</marker>
+			<verse num="31">
+				<crossref let="l" cid="c27004031.1">
+				</crossref>
+				While the words were still in the king's mouth, there fell a voice from heaven, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O King Nebuchadnezzar, to you it is spoken: The kingdom has departed from you,
+			</verse>
+			<marker class="begin-verse" mid="v27004032">
+			</marker>
+			<verse num="32">
+				<crossref let="m" cid="c27004032.1">
+				</crossref>
+				and you shall be driven from among men, and your dwelling shall be with the beasts of the field. And you shall be made to eat grass like an ox, and seven periods of time shall pass over you, 
+				<crossref let="m" cid="c27004032.2">
+				</crossref>
+				until you know that the Most High rules the kingdom of men and gives it to whom he will.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v27004033">
+			</marker>
+			<verse num="33">
+				Immediately the word was fulfilled against Nebuchadnezzar. 
+				<crossref let="m" cid="c27004033.1">
+				</crossref>
+				He was driven from among men and ate grass like an ox, and his body was wet with the dew of heaven till his hair grew as long as eagles' feathers, and his nails were like birds' claws.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v27004034">
+			</marker>
+			<heading
+				>
+				Nebuchadnezzar Restored
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="34">
+				<crossref let="n" cid="c27004034.1">
+				</crossref>
+				At the end of the days I, Nebuchadnezzar, lifted my eyes to heaven, and 
+				<crossref let="o" cid="c27004034.2">
+				</crossref>
+				my reason returned to me, and I blessed the Most High, and praised and honored 
+				<crossref let="p" cid="c27004034.3">
+				</crossref>
+				him who lives forever,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c27004034.4">
+				</crossref>
+				for his dominion is an everlasting dominion,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="q" cid="c27004034.5">
+				</crossref>
+				his kingdom endures from generation to generation;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v27004035">
+			</marker>
+			<verse num="35">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c27004035.1">
+				</crossref>
+				all the inhabitants of the earth are accounted as nothing,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="s" cid="c27004035.2">
+				</crossref>
+				he does according to his will among the host of heaven
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and among the inhabitants of the earth;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c27004035.3">
+				</crossref>
+				and none can stay his hand
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or 
+				<crossref let="u" cid="c27004035.4">
+				</crossref>
+				say to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What have you done?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v27004036">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="36">
+				At the same time 
+				<crossref let="v" cid="c27004036.1">
+				</crossref>
+				my reason returned to me, and for 
+				<crossref let="w" cid="c27004036.2">
+				</crossref>
+				the glory of my kingdom, 
+				<crossref let="w" cid="c27004036.3">
+				</crossref>
+				my majesty and splendor returned to me. 
+				<crossref let="x" cid="c27004036.4">
+				</crossref>
+				My counselors and 
+				<crossref let="y" cid="c27004036.5">
+				</crossref>
+				my lords sought me, and I was established in my kingdom, and still more greatness was 
+				<crossref let="z" cid="c27004036.6">
+				</crossref>
+				added to me.
+			</verse>
+			<marker class="begin-verse" mid="v27004037">
+			</marker>
+			<verse num="37">
+				Now I, Nebuchadnezzar, 
+				<crossref let="a" cid="c27004037.1">
+				</crossref>
+				praise and extol and honor the 
+				<crossref let="b" cid="c27004037.2">
+				</crossref>
+				King of heaven, 
+				<crossref let="c" cid="c27004037.3">
+				</crossref>
+				for all his works are right and his ways are just; and 
+				<crossref let="d" cid="c27004037.4">
+				</crossref>
+				those who walk in pride he is able to humble.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

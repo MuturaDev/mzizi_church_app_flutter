@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19005001">
+		</marker>
+		<chapter num="5">
+			<heading
+				>
+				Lead Me in Your Righteousness
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: for the flutes. A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Give ear to my words, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				consider my 
+				<crossref let="u" cid="c19005001.1">
+				</crossref>
+				groaning.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19005002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Give attention to the sound of my cry,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my 
+				<crossref let="v" cid="c19005002.1">
+				</crossref>
+				King and my God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="w" cid="c19005002.2">
+				</crossref>
+				to you do I pray.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19005003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, in 
+				<crossref let="x" cid="c19005003.1">
+				</crossref>
+				the morning you hear my voice;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the morning I prepare a sacrifice for you
+				<note nid="n19005003.1">
+				</note>
+				 and 
+				<crossref let="y" cid="c19005003.2">
+				</crossref>
+				watch.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19005004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				For you are not a God who delights in wickedness;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				evil may not dwell with you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19005005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<crossref let="z" cid="c19005005.1">
+				</crossref>
+				boastful shall not 
+				<crossref let="a" cid="c19005005.2">
+				</crossref>
+				stand before your eyes;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="b" cid="c19005005.3">
+				</crossref>
+				hate all evildoers.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19005006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				You destroy those who speak 
+				<crossref let="c" cid="c19005006.1">
+				</crossref>
+				lies;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 abhors 
+				<crossref let="d" cid="c19005006.2">
+				</crossref>
+				the bloodthirsty and deceitful man.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19005007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				But I, through the abundance of your steadfast love,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				will enter your house.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I will 
+				<crossref let="e" cid="c19005007.1">
+				</crossref>
+				bow down 
+				<crossref let="f" cid="c19005007.2">
+				</crossref>
+				toward your 
+				<crossref let="g" cid="c19005007.3">
+				</crossref>
+				holy temple
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the fear of you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19005008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c19005008.1">
+				</crossref>
+				Lead me, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, in your righteousness
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because of my enemies;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c19005008.2">
+				</crossref>
+				make your way straight before me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19005009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				For there is no truth in their mouth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				their inmost self is 
+				<crossref let="j" cid="c19005009.1">
+				</crossref>
+				destruction;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c19005009.2">
+				</crossref>
+				their throat is 
+				<crossref let="l" cid="c19005009.3">
+				</crossref>
+				an open grave;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they 
+				<crossref let="m" cid="c19005009.4">
+				</crossref>
+				flatter with their tongue.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19005010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c19005010.1">
+				</crossref>
+				Make them bear their guilt, O God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let them 
+				<crossref let="o" cid="c19005010.2">
+				</crossref>
+				fall by their own counsels;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				because of the abundance of their transgressions cast them out,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for they have rebelled against you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19005011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				But let all who 
+				<crossref let="p" cid="c19005011.1">
+				</crossref>
+				take refuge in you 
+				<crossref let="q" cid="c19005011.2">
+				</crossref>
+				rejoice;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let them ever sing for joy,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and spread your protection over them,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that those who love your name may 
+				<crossref let="r" cid="c19005011.3">
+				</crossref>
+				exult in you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19005012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				For you 
+				<crossref let="s" cid="c19005012.1">
+				</crossref>
+				bless the righteous, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="t" cid="c19005012.2">
+				</crossref>
+				cover him with favor as with 
+				<crossref let="u" cid="c19005012.3">
+				</crossref>
+				a shield.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

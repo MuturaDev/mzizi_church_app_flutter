@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Mark" num="40">
+		<marker class="begin-verse" mid="v41003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				A Man with a Withered Hand
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="c" cid="c41003001.1">
+				</crossref>
+				<crossref cid="t41003001.1">
+				</crossref>
+				Again 
+				<crossref let="d" cid="c41003001.2">
+				</crossref>
+				he entered the synagogue, and a man was there with a withered hand.
+			</verse>
+			<marker class="begin-verse" mid="v41003002">
+			</marker>
+			<verse num="2">
+				And 
+				<crossref let="e" cid="c41003002.1">
+				</crossref>
+				they watched Jesus,
+				<note nid="n41003002.1">
+				</note>
+				 to see whether he would heal him on the Sabbath, so that they might accuse him.
+			</verse>
+			<marker class="begin-verse" mid="v41003003">
+			</marker>
+			<verse num="3">
+				And he said to the man with the withered hand, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Come here.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41003004">
+			</marker>
+			<verse num="4">
+				And he said to them, 
+				<woc
+					>
+					<crossref let="f" cid="c41003004.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Is it lawful on the Sabbath to do good or to do harm, to save life or to kill?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 But they were silent.
+			</verse>
+			<marker class="begin-verse" mid="v41003005">
+			</marker>
+			<verse num="5">
+				And he 
+				<crossref let="g" cid="c41003005.1">
+				</crossref>
+				looked around at them with anger, grieved at 
+				<crossref let="h" cid="c41003005.2">
+				</crossref>
+				their hardness of heart, and said to the man, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Stretch out your hand.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				<crossref let="i" cid="c41003005.3">
+				</crossref>
+				He stretched it out, and his hand was restored.
+			</verse>
+			<marker class="begin-verse" mid="v41003006">
+			</marker>
+			<verse num="6">
+				<crossref let="j" cid="c41003006.1">
+				</crossref>
+				The Pharisees went out and immediately 
+				<crossref let="j" cid="c41003006.2">
+				</crossref>
+				held counsel with 
+				<crossref let="k" cid="c41003006.3">
+				</crossref>
+				the Herodians against him, how to destroy him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41003007">
+			</marker>
+			<heading
+				>
+				A Great Crowd Follows Jesus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				<crossref let="l" cid="c41003007.1">
+				</crossref>
+				Jesus withdrew with his disciples to the sea, and 
+				<crossref let="m" cid="c41003007.2">
+				</crossref>
+				a great crowd followed, from Galilee and Judea
+			</verse>
+			<marker class="begin-verse" mid="v41003008">
+			</marker>
+			<verse num="8">
+				and Jerusalem and 
+				<crossref let="n" cid="c41003008.1">
+				</crossref>
+				Idumea and from beyond the Jordan and from around 
+				<crossref let="o" cid="c41003008.2">
+				</crossref>
+				Tyre and Sidon. When the great crowd heard all that he was doing, they came to him.
+			</verse>
+			<marker class="begin-verse" mid="v41003009">
+			</marker>
+			<verse num="9">
+				And he told his disciples to 
+				<crossref let="p" cid="c41003009.1">
+				</crossref>
+				have a boat ready for him because of the crowd, lest they 
+				<crossref let="q" cid="c41003009.2">
+				</crossref>
+				crush him,
+			</verse>
+			<marker class="begin-verse" mid="v41003010">
+			</marker>
+			<verse num="10">
+				for 
+				<crossref let="r" cid="c41003010.1">
+				</crossref>
+				he had healed many, so that all who had 
+				<crossref let="s" cid="c41003010.2">
+				</crossref>
+				diseases pressed around him 
+				<crossref let="t" cid="c41003010.3">
+				</crossref>
+				to touch him.
+			</verse>
+			<marker class="begin-verse" mid="v41003011">
+			</marker>
+			<verse num="11">
+				<crossref let="u" cid="c41003011.1">
+				</crossref>
+				And whenever the unclean spirits saw him, they 
+				<crossref let="v" cid="c41003011.2">
+				</crossref>
+				fell down before him and cried out, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are 
+				<crossref let="w" cid="c41003011.3">
+				</crossref>
+				the Son of God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41003012">
+			</marker>
+			<verse num="12">
+				And 
+				<crossref let="x" cid="c41003012.1">
+				</crossref>
+				he strictly ordered them not to make him known.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41003013">
+			</marker>
+			<heading
+				>
+				The Twelve Apostles
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				<crossref let="y" cid="c41003013.1">
+				</crossref>
+				And he went up on the mountain and called to him those 
+				<crossref let="z" cid="c41003013.2">
+				</crossref>
+				whom he desired, and they came to him.
+			</verse>
+			<marker class="begin-verse" mid="v41003014">
+			</marker>
+			<verse num="14">
+				<crossref let="y" cid="c41003014.1">
+				</crossref>
+				And he appointed twelve (whom he also named apostles) so that they might be with him and he might send them out to preach
+			</verse>
+			<marker class="begin-verse" mid="v41003015">
+			</marker>
+			<verse num="15">
+				<crossref let="y" cid="c41003015.1">
+				</crossref>
+				and have authority to cast out demons.
+			</verse>
+			<marker class="begin-verse" mid="v41003016">
+			</marker>
+			<verse num="16">
+				He appointed the twelve: 
+				<crossref let="a" cid="c41003016.1">
+				</crossref>
+				<crossref cid="t41003016.1">
+				</crossref>
+				Simon (to whom 
+				<crossref let="b" cid="c41003016.2">
+				</crossref>
+				he gave the name Peter);
+			</verse>
+			<marker class="begin-verse" mid="v41003017">
+			</marker>
+			<verse num="17">
+				<crossref let="c" cid="c41003017.1">
+				</crossref>
+				James the son of Zebedee and John the brother of James (to whom he gave the name Boanerges, that is, Sons of Thunder);
+			</verse>
+			<marker class="begin-verse" mid="v41003018">
+			</marker>
+			<verse num="18">
+				Andrew, and Philip, and Bartholomew, and 
+				<crossref let="d" cid="c41003018.1">
+				</crossref>
+				Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Cananaean,
+			</verse>
+			<marker class="begin-verse" mid="v41003019">
+			</marker>
+			<verse num="19">
+				and Judas Iscariot, who betrayed him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41003020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				Then he went 
+				<crossref let="e" cid="c41003020.1">
+				</crossref>
+				home, and the crowd gathered again, 
+				<crossref let="f" cid="c41003020.2">
+				</crossref>
+				so that they could not even eat.
+			</verse>
+			<marker class="begin-verse" mid="v41003021">
+			</marker>
+			<verse num="21">
+				<crossref let="g" cid="c41003021.1">
+				</crossref>
+				And when 
+				<crossref let="h" cid="c41003021.2">
+				</crossref>
+				his family heard it, they went out to seize him, for they were saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He 
+				<crossref let="i" cid="c41003021.3">
+				</crossref>
+				is out of his mind.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41003022">
+			</marker>
+			<heading
+				>
+				Blasphemy Against the Holy Spirit
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				And 
+				<crossref let="j" cid="c41003022.1">
+				</crossref>
+				the scribes who came down from Jerusalem were saying, 
+				<crossref let="k" cid="c41003022.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He is possessed by Beelzebul,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 and 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				by the prince of demons he casts out the demons.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41003023">
+			</marker>
+			<verse num="23">
+				<crossref let="l" cid="c41003023.1">
+				</crossref>
+				<crossref cid="t41003023.1">
+				</crossref>
+				And he called them to him and said to them in parables, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					How can Satan cast out Satan?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41003024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					If a kingdom is divided against itself, that kingdom cannot stand.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41003025">
+			</marker>
+			<verse num="25" class="woc">
+				<woc
+					>
+					And if a house is divided against itself, that house will not be able to stand.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41003026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					And if Satan has risen up against himself and is divided, he cannot stand, but is coming to an end.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41003027">
+			</marker>
+			<verse num="27" class="woc">
+				<woc
+					>
+					But 
+					<crossref let="m" cid="c41003027.1">
+					</crossref>
+					no one can enter a strong man's house and plunder his goods, unless he first binds the strong man. 
+					<crossref let="n" cid="c41003027.2">
+					</crossref>
+					Then indeed he may plunder his house.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41003028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28" class="woc">
+				<woc
+					>
+					<crossref let="o" cid="c41003028.1">
+					</crossref>
+					<crossref cid="t41003028.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41003029">
+			</marker>
+			<verse num="29" class="woc">
+				<woc
+					>
+					but whoever 
+					<crossref let="p" cid="c41003029.1">
+					</crossref>
+					blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				ù
+			</verse>
+			<marker class="begin-verse" mid="v41003030">
+			</marker>
+			<verse num="30">
+				for they were saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He has an unclean spirit.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41003031">
+			</marker>
+			<heading
+				>
+				Jesus' Mother and Brothers
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				<crossref let="q" cid="c41003031.1">
+				</crossref>
+				<crossref cid="t41003031.1">
+				</crossref>
+				And his mother and his 
+				<crossref let="r" cid="c41003031.2">
+				</crossref>
+				brothers came, and standing outside they sent to him and called him.
+			</verse>
+			<marker class="begin-verse" mid="v41003032">
+			</marker>
+			<verse num="32">
+				And a crowd was sitting around him, and they said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your mother and your brothers
+				<note nid="n41003032.1">
+				</note>
+				 are outside, seeking you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41003033">
+			</marker>
+			<verse num="33">
+				And he answered them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Who are my mother and my brothers?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41003034">
+			</marker>
+			<verse num="34">
+				And 
+				<crossref let="s" cid="c41003034.1">
+				</crossref>
+				looking about at those who sat around him, he said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Here are my mother and my brothers!
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41003035">
+			</marker>
+			<verse num="35" class="woc">
+				<woc
+					>
+					<crossref let="t" cid="c41003035.1">
+					</crossref>
+					For whoever 
+					<crossref let="u" cid="c41003035.2">
+					</crossref>
+					does the will of God, he is my brother and sister and mother.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

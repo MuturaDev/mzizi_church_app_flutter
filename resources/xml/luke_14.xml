@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Luke" num="41">
+		<marker class="begin-verse" mid="v42014001">
+		</marker>
+		<chapter num="14">
+			<heading
+				>
+				Healing of a Man on the Sabbath
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				One Sabbath, 
+				<crossref let="p" cid="c42014001.1">
+				</crossref>
+				when he went to dine at the house of a ruler of the Pharisees, they were 
+				<crossref let="q" cid="c42014001.2">
+				</crossref>
+				watching him carefully.
+			</verse>
+			<marker class="begin-verse" mid="v42014002">
+			</marker>
+			<verse num="2">
+				And behold, there was a man before him who had dropsy.
+			</verse>
+			<marker class="begin-verse" mid="v42014003">
+			</marker>
+			<verse num="3">
+				And Jesus responded to 
+				<crossref let="r" cid="c42014003.1">
+				</crossref>
+				the lawyers and Pharisees, saying, 
+				<woc
+					>
+					<crossref let="s" cid="c42014003.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Is it lawful to heal on the Sabbath, or not?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014004">
+			</marker>
+			<verse num="4">
+				But they remained silent. Then he took him and healed him and sent him away.
+			</verse>
+			<marker class="begin-verse" mid="v42014005">
+			</marker>
+			<verse num="5">
+				And he said to them, 
+				<woc
+					>
+					<crossref let="t" cid="c42014005.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Which of you, having a son
+					<note nid="n42014005.1">
+					</note>
+					 or an ox that has fallen into a well on a Sabbath day, will not immediately pull him out?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014006">
+			</marker>
+			<verse num="6">
+				<crossref let="u" cid="c42014006.1">
+				</crossref>
+				And they could not reply to these things.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42014007">
+			</marker>
+			<heading
+				>
+				The Parable of the Wedding Feast
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				Now he told a parable to those who were invited, when he noticed 
+				<crossref let="v" cid="c42014007.1">
+				</crossref>
+				how they chose the places of honor, saying to them,
+			</verse>
+			<marker class="begin-verse" mid="v42014008">
+			</marker>
+			<verse num="8" class="woc">
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					When you are invited by someone to a wedding feast, do not sit down in a place of honor, lest someone more distinguished than you be invited by him,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014009">
+			</marker>
+			<verse num="9" class="woc">
+				<woc
+					>
+					and he who invited you both will come and say to you, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Give your place to this person,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 and then you will begin with shame to take the lowest place.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					But when you are invited, go and sit in the lowest place, 
+					<crossref let="w" cid="c42014010.1">
+					</crossref>
+					so that when your host comes he may say to you, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Friend, move up higher.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 Then you will be honored in the presence of all who sit at table with you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014011">
+			</marker>
+			<verse num="11" class="woc">
+				<woc
+					>
+					For 
+					<crossref let="x" cid="c42014011.1">
+					</crossref>
+					everyone who exalts himself will be humbled, and he who humbles himself will be exalted.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42014012">
+			</marker>
+			<heading
+				>
+				The Parable of the Great Banquet
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				He said also to the man who had invited him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					When you give 
+					<crossref let="y" cid="c42014012.1">
+					</crossref>
+					a dinner or a banquet, do not invite your friends or your brothers
+					<note nid="n42014012.1">
+					</note>
+					 or your relatives or rich neighbors, 
+					<crossref let="z" cid="c42014012.2">
+					</crossref>
+					lest they also invite you in return and you be repaid.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014013">
+			</marker>
+			<verse num="13" class="woc">
+				<woc
+					>
+					But when you give a feast, 
+					<crossref let="a" cid="c42014013.1">
+					</crossref>
+					invite 
+					<crossref let="b" cid="c42014013.2">
+					</crossref>
+					the poor, the crippled, the lame, the blind,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014014">
+			</marker>
+			<verse num="14" class="woc">
+				<woc
+					>
+					and you will be blessed, because they cannot repay you. For you will be repaid 
+					<crossref let="c" cid="c42014014.1">
+					</crossref>
+					at 
+					<crossref let="d" cid="c42014014.2">
+					</crossref>
+					the resurrection of the just.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42014015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				When one of those who reclined at table with him heard these things, he said to him, 
+				<crossref let="e" cid="c42014015.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Blessed is everyone who will 
+				<crossref let="f" cid="c42014015.2">
+				</crossref>
+				eat bread in the kingdom of God!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42014016">
+			</marker>
+			<verse num="16">
+				But he said to him, 
+				<woc
+					>
+					<crossref let="g" cid="c42014016.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					A man once 
+					<crossref let="h" cid="c42014016.2">
+					</crossref>
+					gave a great banquet and invited many.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014017">
+			</marker>
+			<verse num="17" class="woc">
+				<woc
+					>
+					And at the time for the banquet he 
+					<crossref let="i" cid="c42014017.1">
+					</crossref>
+					sent his servant
+					<note nid="n42014017.1">
+					</note>
+					 to say to those who had been invited, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Come, for everything is now ready.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					But they all alike began to make excuses. The first said to him, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					I have bought a field, and I must go out and see it. Please have me excused.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					And another said, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					I have bought five yoke of oxen, and I go to examine them. Please have me excused.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014020">
+			</marker>
+			<verse num="20" class="woc">
+				<woc
+					>
+					And another said, 
+					<crossref let="j" cid="c42014020.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					I have married a wife, and therefore I cannot come.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014021">
+			</marker>
+			<verse num="21" class="woc">
+				<woc
+					>
+					So the servant came and reported these things to his master. Then the master of the house became angry and said to his servant, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Go out quickly to the streets and lanes of the city, and bring in 
+					<crossref let="k" cid="c42014021.1">
+					</crossref>
+					the poor and crippled and blind and lame.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014022">
+			</marker>
+			<verse num="22" class="woc">
+				<woc
+					>
+					And the servant said, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Sir, what you commanded has been done, and still there is room.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014023">
+			</marker>
+			<verse num="23" class="woc">
+				<woc
+					>
+					And the master said to the servant, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Go out to the highways and hedges and compel people to come in, that my house may be filled.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					For I tell you,
+					<note nid="n42014024.1">
+					</note>
+					<crossref let="m" cid="c42014024.1">
+					</crossref>
+					none of those men who were invited shall taste my banquet.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42014025">
+			</marker>
+			<heading
+				>
+				The Cost of Discipleship
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				Now great crowds accompanied him, and he turned and said to them,
+			</verse>
+			<marker class="begin-verse" mid="v42014026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					<crossref let="n" cid="c42014026.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If anyone comes to me and 
+					<crossref let="o" cid="c42014026.2">
+					</crossref>
+					does not hate his own father and mother and wife and children and brothers and sisters, 
+					<crossref let="p" cid="c42014026.3">
+					</crossref>
+					yes, and even his own life, he cannot be my disciple.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014027">
+			</marker>
+			<verse num="27" class="woc">
+				<woc
+					>
+					<crossref let="q" cid="c42014027.1">
+					</crossref>
+					Whoever does not 
+					<crossref let="r" cid="c42014027.2">
+					</crossref>
+					bear his own cross and come after me cannot be my disciple.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014028">
+			</marker>
+			<verse num="28" class="woc">
+				<woc
+					>
+					For which of you, desiring to build a tower, does not 
+					<crossref let="s" cid="c42014028.1">
+					</crossref>
+					first sit down and count the cost, whether he has enough to complete it?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014029">
+			</marker>
+			<verse num="29" class="woc">
+				<woc
+					>
+					Otherwise, when he has laid a foundation and is not able to finish, all who see it begin to mock him,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014030">
+			</marker>
+			<verse num="30" class="woc">
+				<woc
+					>
+					saying, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					This man began to build and was not able to finish.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014031">
+			</marker>
+			<verse num="31" class="woc">
+				<woc
+					>
+					Or what king, going out to encounter another king in war, will not 
+					<crossref let="t" cid="c42014031.1">
+					</crossref>
+					sit down first and deliberate whether he is able with ten thousand to meet him who comes against him with twenty thousand?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014032">
+			</marker>
+			<verse num="32" class="woc">
+				<woc
+					>
+					And if not, while the other is yet a great way off, he sends a delegation and asks for terms of peace.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014033">
+			</marker>
+			<verse num="33" class="woc">
+				<woc
+					>
+					<crossref let="u" cid="c42014033.1">
+					</crossref>
+					So therefore, any one of you who 
+					<crossref let="v" cid="c42014033.2">
+					</crossref>
+					does not renounce all that he has cannot be my disciple.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42014034">
+			</marker>
+			<heading
+				>
+				Salt Without Taste Is Worthless
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="34" class="woc">
+				<woc
+					>
+					<crossref let="w" cid="c42014034.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Salt is good, 
+					<crossref let="x" cid="c42014034.2">
+					</crossref>
+					but if salt has lost its taste, how shall its saltiness be restored?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42014035">
+			</marker>
+			<verse num="35" class="woc">
+				<woc
+					>
+					It is of no use either for the soil or for the manure pile. It is thrown away. 
+					<crossref let="y" cid="c42014035.1">
+					</crossref>
+					He who has ears to hear, let him hear.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19065001">
+		</marker>
+		<chapter num="65">
+			<heading
+				>
+				O God of Our Salvation
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Psalm of David. A Song.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Praise 
+				<crossref let="e" cid="c19065001.1">
+				</crossref>
+				is due to you,
+				<note nid="n19065001.1">
+				</note>
+				 O God, in Zion,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and to you shall 
+				<crossref let="f" cid="c19065001.2">
+				</crossref>
+				vows be performed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19065002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				O you who 
+				<crossref let="g" cid="c19065002.1">
+				</crossref>
+				hear prayer,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to you 
+				<crossref let="h" cid="c19065002.2">
+				</crossref>
+				shall all flesh come.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19065003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				When 
+				<crossref let="i" cid="c19065003.1">
+				</crossref>
+				iniquities prevail against me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="j" cid="c19065003.2">
+				</crossref>
+				atone for our transgressions.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19065004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c19065004.1">
+				</crossref>
+				Blessed is the one you choose and bring near,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to 
+				<crossref let="l" cid="c19065004.2">
+				</crossref>
+				dwell in your courts!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				We shall be 
+				<crossref let="m" cid="c19065004.3">
+				</crossref>
+				satisfied with the goodness of your house,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the holiness of your temple!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19065005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				By 
+				<crossref let="n" cid="c19065005.1">
+				</crossref>
+				awesome deeds you answer us with righteousness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O God of our salvation,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				the hope of all 
+				<crossref let="o" cid="c19065005.2">
+				</crossref>
+				the ends of the earth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and of the farthest seas;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19065006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				the one who by his strength established the mountains,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				being 
+				<crossref let="p" cid="c19065006.1">
+				</crossref>
+				girded with might;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19065007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				who 
+				<crossref let="q" cid="c19065007.1">
+				</crossref>
+				stills the roaring of the seas,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the roaring of their waves,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c19065007.2">
+				</crossref>
+				the tumult of the peoples,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19065008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				so that those who dwell at the ends of the earth are in awe at your signs.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				You make the going out of the morning and the evening to shout for joy.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19065009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				You visit the earth and 
+				<crossref let="s" cid="c19065009.1">
+				</crossref>
+				water it;
+				<note nid="n19065009.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you greatly enrich it;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c19065009.2">
+				</crossref>
+				the river of God is full of water;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c19065009.3">
+				</crossref>
+				you provide their grain,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for so you have prepared it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19065010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				You water its furrows abundantly,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				settling its ridges,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				softening it with 
+				<crossref let="v" cid="c19065010.1">
+				</crossref>
+				showers,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and blessing its growth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19065011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				You crown the year with your bounty;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your wagon tracks 
+				<crossref let="w" cid="c19065011.1">
+				</crossref>
+				overflow with abundance.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19065012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19065012.1">
+				</crossref>
+				The pastures of the wilderness overflow,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the hills 
+				<crossref let="y" cid="c19065012.2">
+				</crossref>
+				gird themselves with joy,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19065013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c19065013.1">
+				</crossref>
+				the meadows clothe themselves with flocks,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the valleys deck themselves with grain,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they 
+				<crossref let="a" cid="c19065013.2">
+				</crossref>
+				shout and sing together for joy.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Corinthians" num="45">
+		<marker class="begin-verse" mid="v46013001">
+		</marker>
+		<chapter num="13">
+			<heading
+				>
+				The Way of Love
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				If I speak in the tongues of men and of angels, but have not love, I am a noisy gong or a clanging cymbal.
+			</verse>
+			<marker class="begin-verse" mid="v46013002">
+			</marker>
+			<verse num="2">
+				And if I have 
+				<crossref let="a" cid="c46013002.1">
+				</crossref>
+				prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, 
+				<crossref let="b" cid="c46013002.2">
+				</crossref>
+				so as to remove mountains, but have not love, I am nothing.
+			</verse>
+			<marker class="begin-verse" mid="v46013003">
+			</marker>
+			<verse num="3">
+				<crossref let="c" cid="c46013003.1">
+				</crossref>
+				If I give away all I have, and 
+				<crossref let="d" cid="c46013003.2">
+				</crossref>
+				if I deliver up my body to be burned,
+				<note nid="n46013003.1">
+				</note>
+				 but have not love, I gain nothing.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v46013004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				<crossref let="e" cid="c46013004.1">
+				</crossref>
+				Love is patient and 
+				<crossref let="f" cid="c46013004.2">
+				</crossref>
+				kind; love 
+				<crossref let="g" cid="c46013004.3">
+				</crossref>
+				does not envy or boast; it 
+				<crossref let="h" cid="c46013004.4">
+				</crossref>
+				is not arrogant
+			</verse>
+			<marker class="begin-verse" mid="v46013005">
+			</marker>
+			<verse num="5">
+				or rude. It 
+				<crossref let="i" cid="c46013005.1">
+				</crossref>
+				does not insist on its own way; it 
+				<crossref let="j" cid="c46013005.2">
+				</crossref>
+				is not irritable or resentful;
+				<note nid="n46013005.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v46013006">
+			</marker>
+			<verse num="6">
+				it 
+				<crossref let="k" cid="c46013006.1">
+				</crossref>
+				does not rejoice at wrongdoing, but 
+				<crossref let="l" cid="c46013006.2">
+				</crossref>
+				rejoices with the truth.
+			</verse>
+			<marker class="begin-verse" mid="v46013007">
+			</marker>
+			<verse num="7">
+				<crossref let="m" cid="c46013007.1">
+				</crossref>
+				Love bears all things, believes all things, hopes all things, 
+				<crossref let="e" cid="c46013007.2">
+				</crossref>
+				endures all things.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v46013008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Love never ends. As for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away.
+			</verse>
+			<marker class="begin-verse" mid="v46013009">
+			</marker>
+			<verse num="9">
+				For 
+				<crossref let="n" cid="c46013009.1">
+				</crossref>
+				we know in part and we prophesy in part,
+			</verse>
+			<marker class="begin-verse" mid="v46013010">
+			</marker>
+			<verse num="10">
+				but 
+				<crossref let="o" cid="c46013010.1">
+				</crossref>
+				when the perfect comes, the partial will pass away.
+			</verse>
+			<marker class="begin-verse" mid="v46013011">
+			</marker>
+			<verse num="11">
+				When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became a man, I gave up childish ways.
+			</verse>
+			<marker class="begin-verse" mid="v46013012">
+			</marker>
+			<verse num="12">
+				For 
+				<crossref let="p" cid="c46013012.1">
+				</crossref>
+				now we see in a mirror dimly, but 
+				<crossref let="q" cid="c46013012.2">
+				</crossref>
+				then face to face. Now I know in part; then I shall know fully, even as 
+				<crossref let="r" cid="c46013012.3">
+				</crossref>
+				I have been fully known.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v46013013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				So now faith, hope, and love abide, these three; but the greatest of these is love.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

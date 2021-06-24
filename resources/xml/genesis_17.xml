@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01017001">
+		</marker>
+		<chapter num="17">
+			<heading
+				>
+				Abraham and the Covenant of Circumcision
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				When Abram was ninety-nine years old the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 appeared to Abram and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am God Almighty;
+				<note nid="n01017001.1">
+				</note>
+				 walk before me, and be 
+				<crossref let="n" cid="c01017001.1">
+				</crossref>
+				blameless,
+			</verse>
+			<marker class="begin-verse" mid="v01017002">
+			</marker>
+			<verse num="2">
+				that I may make my covenant between me and you, and 
+				<crossref let="o" cid="c01017002.1">
+				</crossref>
+				may multiply you greatly.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01017003">
+			</marker>
+			<verse num="3">
+				Then Abram 
+				<crossref let="p" cid="c01017003.1">
+				</crossref>
+				fell on his face. And God said to him,
+			</verse>
+			<marker class="begin-verse" mid="v01017004">
+			</marker>
+			<verse num="4">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, my covenant is with you, and you shall be 
+				<crossref let="q" cid="c01017004.1">
+				</crossref>
+				the father of a multitude of nations.
+			</verse>
+			<marker class="begin-verse" mid="v01017005">
+			</marker>
+			<verse num="5">
+				No longer shall your name be called Abram,
+				<note nid="n01017005.1">
+				</note>
+				 but 
+				<crossref let="r" cid="c01017005.1">
+				</crossref>
+				your name shall be Abraham,
+				<note nid="n01017005.2">
+				</note>
+				<crossref let="s" cid="c01017005.2">
+				</crossref>
+				for I have made you the father of a multitude of nations.
+			</verse>
+			<marker class="begin-verse" mid="v01017006">
+			</marker>
+			<verse num="6">
+				I will make you exceedingly fruitful, and I will make 
+				<crossref let="t" cid="c01017006.1">
+				</crossref>
+				you into nations, and 
+				<crossref let="u" cid="c01017006.2">
+				</crossref>
+				kings shall come from you.
+			</verse>
+			<marker class="begin-verse" mid="v01017007">
+			</marker>
+			<verse num="7">
+				And I will 
+				<crossref let="v" cid="c01017007.1">
+				</crossref>
+				establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, 
+				<crossref let="w" cid="c01017007.2">
+				</crossref>
+				to be God to you and to your offspring after you.
+			</verse>
+			<marker class="begin-verse" mid="v01017008">
+			</marker>
+			<verse num="8">
+				And 
+				<crossref let="x" cid="c01017008.1">
+				</crossref>
+				I will give to you and to your offspring after you the land of your sojournings, all the land of Canaan, for an everlasting possession, and 
+				<crossref let="y" cid="c01017008.2">
+				</crossref>
+				I will be their God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01017009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				And God said to Abraham, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As for you, you shall keep my covenant, you and your offspring after you throughout their generations.
+			</verse>
+			<marker class="begin-verse" mid="v01017010">
+			</marker>
+			<verse num="10">
+				This is my covenant, which you shall keep, between me and you and your offspring after you: Every male among you shall be circumcised.
+			</verse>
+			<marker class="begin-verse" mid="v01017011">
+			</marker>
+			<verse num="11">
+				You shall be circumcised in the flesh of your foreskins, and it shall be a 
+				<crossref let="z" cid="c01017011.1">
+				</crossref>
+				sign of the covenant between me and you.
+			</verse>
+			<marker class="begin-verse" mid="v01017012">
+			</marker>
+			<verse num="12">
+				He who is 
+				<crossref let="a" cid="c01017012.1">
+				</crossref>
+				eight days old among you shall be circumcised. Every male throughout your generations, whether born in your house or 
+				<crossref let="b" cid="c01017012.2">
+				</crossref>
+				bought with your money from any foreigner who is not of your offspring,
+			</verse>
+			<marker class="begin-verse" mid="v01017013">
+			</marker>
+			<verse num="13">
+				both he who is born in your house and he who is bought with your money, shall surely be circumcised. So shall my covenant be in your flesh an everlasting covenant.
+			</verse>
+			<marker class="begin-verse" mid="v01017014">
+			</marker>
+			<verse num="14">
+				Any uncircumcised male who is not circumcised in the flesh of his foreskin shall be cut off from his people; he has broken my covenant.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01017015">
+			</marker>
+			<heading
+				>
+				Isaac's Birth Promised
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				And God said to Abraham, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As for Sarai your wife, you shall not call her name Sarai, but Sarah
+				<note nid="n01017015.1">
+				</note>
+				 shall be her name.
+			</verse>
+			<marker class="begin-verse" mid="v01017016">
+			</marker>
+			<verse num="16">
+				I will bless her, and moreover, I will 
+				<crossref let="c" cid="c01017016.1">
+				</crossref>
+				give
+				<note nid="n01017016.1">
+				</note>
+				 you a son by her. I will bless her, and 
+				<crossref let="d" cid="c01017016.2">
+				</crossref>
+				she shall become nations; kings of peoples shall come from her.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01017017">
+			</marker>
+			<verse num="17">
+				Then Abraham 
+				<crossref let="e" cid="c01017017.1">
+				</crossref>
+				fell on his face 
+				<crossref let="f" cid="c01017017.2">
+				</crossref>
+				and laughed and said to himself, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Shall a child be born to a man who is a hundred years old? Shall Sarah, who is ninety years old, bear a child?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01017018">
+			</marker>
+			<verse num="18">
+				And Abraham said to God, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Oh that Ishmael might live before you!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01017019">
+			</marker>
+			<verse num="19">
+				God said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No, but 
+				<crossref let="g" cid="c01017019.1">
+				</crossref>
+				Sarah your wife shall bear you a son, and you shall call his name 
+				<crossref let="h" cid="c01017019.2">
+				</crossref>
+				Isaac.
+				<note nid="n01017019.1">
+				</note>
+				 I will establish my covenant with him as an everlasting covenant for his offspring after him.
+			</verse>
+			<marker class="begin-verse" mid="v01017020">
+			</marker>
+			<verse num="20">
+				As for Ishmael, I have heard you; behold, I have blessed him and will make him fruitful and 
+				<crossref let="i" cid="c01017020.1">
+				</crossref>
+				multiply him greatly. He 
+				<crossref let="j" cid="c01017020.2">
+				</crossref>
+				shall father twelve princes, and 
+				<crossref let="k" cid="c01017020.3">
+				</crossref>
+				I will make him into a great nation.
+			</verse>
+			<marker class="begin-verse" mid="v01017021">
+			</marker>
+			<verse num="21">
+				But 
+				<crossref let="l" cid="c01017021.1">
+				</crossref>
+				I will establish my covenant with Isaac, 
+				<crossref let="m" cid="c01017021.2">
+				</crossref>
+				whom Sarah shall bear to you at this time next year.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01017022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				When he had finished talking with him, 
+				<crossref let="n" cid="c01017022.1">
+				</crossref>
+				God went up from Abraham.
+			</verse>
+			<marker class="begin-verse" mid="v01017023">
+			</marker>
+			<verse num="23">
+				Then Abraham took Ishmael his son and all those born in his house or bought with his money, every male among the men of Abraham's house, and he circumcised the flesh of their foreskins that very day, as God had said to him.
+			</verse>
+			<marker class="begin-verse" mid="v01017024">
+			</marker>
+			<verse num="24">
+				Abraham was ninety-nine years old when he was circumcised in the flesh of his foreskin.
+			</verse>
+			<marker class="begin-verse" mid="v01017025">
+			</marker>
+			<verse num="25">
+				And Ishmael his son was thirteen years old when he was circumcised in the flesh of his foreskin.
+			</verse>
+			<marker class="begin-verse" mid="v01017026">
+			</marker>
+			<verse num="26">
+				That very day Abraham and his son Ishmael were circumcised.
+			</verse>
+			<marker class="begin-verse" mid="v01017027">
+			</marker>
+			<verse num="27">
+				And all the men of his house, those born in the house and those bought with money from a foreigner, were circumcised with him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

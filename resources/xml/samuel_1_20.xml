@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09020001">
+		</marker>
+		<chapter num="20">
+			<heading
+				>
+				Jonathan Warns David
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then David fled from Naioth 
+				<crossref let="m" cid="c09020001.1">
+				</crossref>
+				in Ramah and came and said before Jonathan, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What have I done? What is my guilt? And what is my sin before your father, that he seeks my life?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020002">
+			</marker>
+			<verse num="2">
+				And he said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Far from it! You shall not die. Behold, my father does nothing either great or small without disclosing it to me. And why should my father hide this from me? It is not so.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020003">
+			</marker>
+			<verse num="3">
+				But David vowed again, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your father knows well that 
+				<crossref let="n" cid="c09020003.1">
+				</crossref>
+				I have found favor in your eyes, and he thinks, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Do not let Jonathan know this, lest he be grieved.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 But truly, 
+				<crossref let="o" cid="c09020003.2">
+				</crossref>
+				as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 lives and 
+				<crossref let="p" cid="c09020003.3">
+				</crossref>
+				as your soul lives, there is but a step between me and death.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020004">
+			</marker>
+			<verse num="4">
+				Then Jonathan said to David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whatever you say, I will do for you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020005">
+			</marker>
+			<verse num="5">
+				David said to Jonathan, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, tomorrow is 
+				<crossref let="q" cid="c09020005.1">
+				</crossref>
+				the new moon, and I should not fail to sit at table with the king. But let me go, 
+				<crossref let="r" cid="c09020005.2">
+				</crossref>
+				that I may hide myself in the field till the third day at evening.
+			</verse>
+			<marker class="begin-verse" mid="v09020006">
+			</marker>
+			<verse num="6">
+				<crossref let="s" cid="c09020006.1">
+				</crossref>
+				If your father misses me at all, then say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				David earnestly asked leave of me to run 
+				<crossref let="t" cid="c09020006.2">
+				</crossref>
+				to Bethlehem his city, for there is a yearly 
+				<crossref let="u" cid="c09020006.3">
+				</crossref>
+				sacrifice there for all the clan.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020007">
+			</marker>
+			<verse num="7">
+				If he says, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Good!
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 it will be well with your servant, but if he is angry, then know that 
+				<crossref let="v" cid="c09020007.1">
+				</crossref>
+				harm is determined by him.
+			</verse>
+			<marker class="begin-verse" mid="v09020008">
+			</marker>
+			<verse num="8">
+				Therefore deal kindly with your servant, 
+				<crossref let="w" cid="c09020008.1">
+				</crossref>
+				for you have brought your servant into a covenant of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with you. 
+				<crossref let="x" cid="c09020008.2">
+				</crossref>
+				But if there is guilt in me, kill me yourself, for why should you bring me to your father?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020009">
+			</marker>
+			<verse num="9">
+				And Jonathan said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Far be it from you! If I knew that 
+				<crossref let="v" cid="c09020009.1">
+				</crossref>
+				it was determined by my father that harm should come to you, would I not tell you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020010">
+			</marker>
+			<verse num="10">
+				Then David said to Jonathan, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who will tell me if your father answers you roughly?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020011">
+			</marker>
+			<verse num="11">
+				And Jonathan said to David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come, let us go out into the field.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So they both went out into the field.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09020012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				And Jonathan said to David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel, be witness!
+				<note nid="n09020012.1">
+				</note>
+				 When I have sounded out my father, about this time tomorrow, or the third day, behold, if he is well disposed toward David, shall I not then send and disclose it to you?
+			</verse>
+			<marker class="begin-verse" mid="v09020013">
+			</marker>
+			<verse num="13">
+				But should it please my father to do you harm, 
+				<crossref let="y" cid="c09020013.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 do so to Jonathan and more also if I do not disclose it to you and send you away, that you may go in safety. 
+				<crossref let="z" cid="c09020013.2">
+				</crossref>
+				May the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 be with you, as he has been with my father.
+			</verse>
+			<marker class="begin-verse" mid="v09020014">
+			</marker>
+			<verse num="14">
+				If I am still alive, show me the steadfast love of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, that I may not die;
+			</verse>
+			<marker class="begin-verse" mid="v09020015">
+			</marker>
+			<verse num="15">
+				<crossref let="a" cid="c09020015.1">
+				</crossref>
+				and do not cut off
+				<note nid="n09020015.1">
+				</note>
+				 your steadfast love from my house forever, when the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 cuts off every one of the enemies of David from the face of the earth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020016">
+			</marker>
+			<verse num="16">
+				And Jonathan made a covenant with the house of David, saying, 
+				<crossref let="b" cid="c09020016.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				May
+				<note nid="n09020016.1">
+				</note>
+				 the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 take vengeance on David's enemies.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020017">
+			</marker>
+			<verse num="17">
+				And Jonathan made David swear again by his love for him, 
+				<crossref let="c" cid="c09020017.1">
+				</crossref>
+				for he loved him as he loved his own soul.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09020018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				Then Jonathan said to him, 
+				<crossref let="d" cid="c09020018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tomorrow is the new moon, and 
+				<crossref let="e" cid="c09020018.2">
+				</crossref>
+				you will be missed, because 
+				<crossref let="f" cid="c09020018.3">
+				</crossref>
+				your seat will be empty.
+			</verse>
+			<marker class="begin-verse" mid="v09020019">
+			</marker>
+			<verse num="19">
+				On the third day go down quickly to the place where you hid yourself when the matter was in hand, and remain beside the stone heap.
+				<note nid="n09020019.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v09020020">
+			</marker>
+			<verse num="20">
+				And I will shoot three arrows to the side of it, as though I shot at a mark.
+			</verse>
+			<marker class="begin-verse" mid="v09020021">
+			</marker>
+			<verse num="21">
+				And behold, I will send the young man, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Go, find the arrows.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 If I say to the young man, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Look, the arrows are on this side of you, take them,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 then you are to come, for, 
+				<crossref let="g" cid="c09020021.1">
+				</crossref>
+				as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 lives, it is safe for you and there is no danger.
+			</verse>
+			<marker class="begin-verse" mid="v09020022">
+			</marker>
+			<verse num="22">
+				But if I say to the youth, 
+				<crossref let="h" cid="c09020022.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Look, the arrows are beyond you,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 then go, for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has sent you away.
+			</verse>
+			<marker class="begin-verse" mid="v09020023">
+			</marker>
+			<verse num="23">
+				<crossref let="i" cid="c09020023.1">
+				</crossref>
+				And as for the matter of which you and I have spoken, behold, 
+				<crossref let="j" cid="c09020023.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is between you and me forever.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09020024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				So David hid himself in the field. And when the new moon came, the king sat down to eat food.
+			</verse>
+			<marker class="begin-verse" mid="v09020025">
+			</marker>
+			<verse num="25">
+				The king sat on his seat, as at other times, on the seat by the wall. Jonathan sat opposite,
+				<note nid="n09020025.1">
+				</note>
+				 and Abner sat by Saul's side, 
+				<crossref let="k" cid="c09020025.1">
+				</crossref>
+				but David's place was empty.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09020026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				Yet Saul did not say anything that day, for he thought, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Something has happened to him. 
+				<crossref let="l" cid="c09020026.1">
+				</crossref>
+				He is not clean; surely he is not clean.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020027">
+			</marker>
+			<verse num="27">
+				But on 
+				<crossref let="m" cid="c09020027.1">
+				</crossref>
+				the second day, the day after the new moon, 
+				<crossref let="k" cid="c09020027.2">
+				</crossref>
+				David's place was empty. And Saul said to Jonathan his son, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why has not the son of Jesse come to the meal, either yesterday or today?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020028">
+			</marker>
+			<verse num="28">
+				Jonathan answered Saul, 
+				<crossref let="n" cid="c09020028.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				David earnestly asked leave of me to go to Bethlehem.
+			</verse>
+			<marker class="begin-verse" mid="v09020029">
+			</marker>
+			<verse num="29">
+				He said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Let me go, for our clan holds a sacrifice in the city, and my brother has commanded me to be there. So now, if I have found favor in your eyes, let me get away and see my brothers.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 For this reason he has not come to the king's table.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09020030">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="30">
+				Then Saul's anger was kindled against Jonathan, and he said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You son of a perverse, rebellious woman, do I not know that you have chosen the son of Jesse to your own shame, and to the shame of your mother's nakedness?
+			</verse>
+			<marker class="begin-verse" mid="v09020031">
+			</marker>
+			<verse num="31">
+				For as long as the son of Jesse lives on the earth, neither you nor your kingdom shall be established. Therefore send and bring him to me, for he shall surely die.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020032">
+			</marker>
+			<verse num="32">
+				Then Jonathan answered Saul his father, 
+				<crossref let="o" cid="c09020032.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why should he be put to death? What has he done?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020033">
+			</marker>
+			<verse num="33">
+				<crossref let="p" cid="c09020033.1">
+				</crossref>
+				But Saul hurled his spear at him to strike him. So Jonathan knew 
+				<crossref let="q" cid="c09020033.2">
+				</crossref>
+				that his father was determined to put David to death.
+			</verse>
+			<marker class="begin-verse" mid="v09020034">
+			</marker>
+			<verse num="34">
+				And Jonathan rose from the table in fierce anger and ate no food the second day of the month, for he was grieved for David, because his father had disgraced him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09020035">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="35">
+				In the morning Jonathan went out into the field to the appointment with David, and with him a little boy.
+			</verse>
+			<marker class="begin-verse" mid="v09020036">
+			</marker>
+			<verse num="36">
+				And he said to his boy, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Run and find the arrows that I shoot.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 As the boy ran, he shot an arrow beyond him.
+			</verse>
+			<marker class="begin-verse" mid="v09020037">
+			</marker>
+			<verse num="37">
+				And when the boy came to the place of the arrow that Jonathan had shot, Jonathan called after the boy and said, 
+				<crossref let="r" cid="c09020037.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is not the arrow beyond you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020038">
+			</marker>
+			<verse num="38">
+				And Jonathan called after the boy, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hurry! Be quick! Do not stay!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So Jonathan's boy gathered up the arrows and came to his master.
+			</verse>
+			<marker class="begin-verse" mid="v09020039">
+			</marker>
+			<verse num="39">
+				But the boy knew nothing. Only Jonathan and David knew the matter.
+			</verse>
+			<marker class="begin-verse" mid="v09020040">
+			</marker>
+			<verse num="40">
+				And Jonathan gave his weapons to his boy and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go and carry them to the city.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09020041">
+			</marker>
+			<verse num="41">
+				And as soon as the boy had gone, David rose from beside the stone heap
+				<note nid="n09020041.1">
+				</note>
+				 and fell on his face to the ground and bowed three times. And they kissed one another and wept with one another, David weeping the most.
+			</verse>
+			<marker class="begin-verse" mid="v09020042">
+			</marker>
+			<verse num="42">
+				Then Jonathan said to David, 
+				<crossref let="s" cid="c09020042.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go in peace, because we have sworn both of us in the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, saying, 
+				<crossref let="t" cid="c09020042.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 shall be between me and you, 
+				<crossref let="u" cid="c09020042.3">
+				</crossref>
+				and between my offspring and your offspring, forever.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he rose and departed, and Jonathan went into the city.
+				<note nid="n09020042.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

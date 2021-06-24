@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Samuel" num="9">
+		<marker class="begin-verse" mid="v10016001">
+		</marker>
+		<chapter num="16">
+			<heading
+				>
+				David and Ziba
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				When David had passed a little beyond 
+				<crossref let="p" cid="c10016001.1">
+				</crossref>
+				the summit, 
+				<crossref let="q" cid="c10016001.2">
+				</crossref>
+				Ziba the servant of Mephibosheth met him, with a couple of donkeys saddled, bearing two hundred loaves of bread, 
+				<crossref let="r" cid="c10016001.3">
+				</crossref>
+				a hundred bunches of raisins, a hundred of summer fruits, and a skin of wine.
+			</verse>
+			<marker class="begin-verse" mid="v10016002">
+			</marker>
+			<verse num="2">
+				And the king said to Ziba, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have you brought these?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Ziba answered, 
+				<crossref let="s" cid="c10016002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The donkeys are for the king's household to ride on, the bread and summer fruit for the young men to eat, and the wine for those who 
+				<crossref let="t" cid="c10016002.2">
+				</crossref>
+				faint in the wilderness to drink.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10016003">
+			</marker>
+			<verse num="3">
+				And the king said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				And where is your master's son?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<crossref let="u" cid="c10016003.1">
+				</crossref>
+				Ziba said to the king, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, he remains in Jerusalem, for he said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Today the house of Israel will give me back the kingdom of my father.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10016004">
+			</marker>
+			<verse num="4">
+				Then the king said to Ziba, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, all that belonged to Mephibosheth is now yours.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Ziba said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I pay homage; let me ever find favor in your sight, my lord the king.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10016005">
+			</marker>
+			<heading
+				>
+				Shimei Curses David
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				When King David came to 
+				<crossref let="v" cid="c10016005.1">
+				</crossref>
+				Bahurim, there came out a man of the family of the house of Saul, whose name was 
+				<crossref let="w" cid="c10016005.2">
+				</crossref>
+				Shimei, the son of Gera, and as he came 
+				<crossref let="x" cid="c10016005.3">
+				</crossref>
+				he cursed continually.
+			</verse>
+			<marker class="begin-verse" mid="v10016006">
+			</marker>
+			<verse num="6">
+				And he threw stones at David and at all the servants of King David, and all the people and all the mighty men were on his right hand and on his left.
+			</verse>
+			<marker class="begin-verse" mid="v10016007">
+			</marker>
+			<verse num="7">
+				And Shimei said as he 
+				<crossref let="x" cid="c10016007.1">
+				</crossref>
+				cursed, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Get out, get out, you man of blood, you worthless man!
+			</verse>
+			<marker class="begin-verse" mid="v10016008">
+			</marker>
+			<verse num="8">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="y" cid="c10016008.1">
+				</crossref>
+				has avenged on you all 
+				<crossref let="z" cid="c10016008.2">
+				</crossref>
+				the blood of the house of Saul, in whose place you have reigned, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has given the kingdom into the hand of your son Absalom. See, your evil is on you, for you are a man of blood.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10016009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				Then Abishai the son of Zeruiah said to the king, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why should this 
+				<crossref let="a" cid="c10016009.1">
+				</crossref>
+				dead dog 
+				<crossref let="b" cid="c10016009.2">
+				</crossref>
+				curse my lord the king? Let me go over and take off his head.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10016010">
+			</marker>
+			<verse num="10">
+				But the king said, 
+				<crossref let="c" cid="c10016010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What have I to do with you, 
+				<crossref let="d" cid="c10016010.2">
+				</crossref>
+				you sons of Zeruiah? If he is cursing because the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has said to him, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Curse David,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 who then shall say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Why have you done so?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10016011">
+			</marker>
+			<verse num="11">
+				And David said to Abishai and to all his servants, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, 
+				<crossref let="e" cid="c10016011.1">
+				</crossref>
+				my own son seeks my life; how much more now may this Benjaminite! Leave him alone, and let him curse, for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has told him to.
+			</verse>
+			<marker class="begin-verse" mid="v10016012">
+			</marker>
+			<verse num="12">
+				It may be that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will look on the wrong done to me,
+				<note nid="n10016012.1">
+				</note>
+				 and that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will repay me with good for his cursing today.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10016013">
+			</marker>
+			<verse num="13">
+				So David and his men went on the road, while Shimei went along on the hillside opposite him and 
+				<crossref let="f" cid="c10016013.1">
+				</crossref>
+				cursed as he went and threw stones at him and flung dust.
+			</verse>
+			<marker class="begin-verse" mid="v10016014">
+			</marker>
+			<verse num="14">
+				And the king, and all the people who were with him, 
+				<crossref let="g" cid="c10016014.1">
+				</crossref>
+				arrived weary at the Jordan.
+				<note nid="n10016014.1">
+				</note>
+				 And there he refreshed himself.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10016015">
+			</marker>
+			<heading
+				>
+				Absalom Enters Jerusalem
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				<crossref let="h" cid="c10016015.1">
+				</crossref>
+				Now Absalom and all the people, the men of Israel, came to Jerusalem, and Ahithophel with him.
+			</verse>
+			<marker class="begin-verse" mid="v10016016">
+			</marker>
+			<verse num="16">
+				And when Hushai the Archite, 
+				<crossref let="h" cid="c10016016.1">
+				</crossref>
+				David's friend, came to Absalom, Hushai said to Absalom, 
+				<crossref let="i" cid="c10016016.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Long live the king! Long live the king!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10016017">
+			</marker>
+			<verse num="17">
+				And Absalom said to Hushai, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is this your loyalty to your friend? 
+				<crossref let="j" cid="c10016017.1">
+				</crossref>
+				Why did you not go with your friend?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10016018">
+			</marker>
+			<verse num="18">
+				And Hushai said to Absalom, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No, for whom the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and this people and all the men of Israel have chosen, his I will be, and with him I will remain.
+			</verse>
+			<marker class="begin-verse" mid="v10016019">
+			</marker>
+			<verse num="19">
+				And again, 
+				<crossref let="k" cid="c10016019.1">
+				</crossref>
+				whom should I serve? Should it not be his son? As I have served your father, so I will serve you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10016020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				Then Absalom said to Ahithophel, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give your counsel. What shall we do?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10016021">
+			</marker>
+			<verse num="21">
+				Ahithophel said to Absalom, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go in to 
+				<crossref let="l" cid="c10016021.1">
+				</crossref>
+				your father's concubines, whom he has left to keep the house, and all Israel will hear that you have made yourself a stench to your father, and 
+				<crossref let="m" cid="c10016021.2">
+				</crossref>
+				the hands of all who are with you will be strengthened.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10016022">
+			</marker>
+			<verse num="22">
+				So they pitched a tent for Absalom 
+				<crossref let="n" cid="c10016022.1">
+				</crossref>
+				on the roof. And Absalom went in to his father's concubines 
+				<crossref let="o" cid="c10016022.2">
+				</crossref>
+				in the sight of all Israel.
+			</verse>
+			<marker class="begin-verse" mid="v10016023">
+			</marker>
+			<verse num="23">
+				Now in those days the counsel that Ahithophel gave was as if one consulted the word of God; so was all the counsel of Ahithophel esteemed, 
+				<crossref let="p" cid="c10016023.1">
+				</crossref>
+				both by David and by Absalom.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

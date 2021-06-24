@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19108001">
+		</marker>
+		<chapter num="108">
+			<heading
+				>
+				With God We Shall Do Valiantly
+			</heading>
+			<subheading class="psalm-title">
+				A Song. A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19108001.1">
+				</crossref>
+				My heart is steadfast, O God!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will sing and make melody with all my being!
+				<note nid="n19108001.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19108002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Awake, O harp and lyre!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will awake the dawn!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19108003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				I will give thanks to you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, among the peoples;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will sing praises to you among the nations.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19108004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				For your steadfast love is great 
+				<crossref let="q" cid="c19108004.1">
+				</crossref>
+				above the heavens;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your faithfulness reaches to the clouds.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19108005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Be exalted, O God, above the heavens!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Let your glory be over all the earth!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19108006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19108006.1">
+				</crossref>
+				That your beloved ones may be delivered,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				give salvation by your right hand and answer me!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19108007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				God has promised in his holiness:
+				<note nid="n19108007.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				With exultation I will divide up Shechem
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and portion out the Valley of Succoth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19108008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Gilead is mine; Manasseh is mine;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Ephraim is my helmet,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Judah my scepter.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19108009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Moab is my washbasin;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				upon Edom I cast my shoe;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c19108009.1">
+				</crossref>
+				over Philistia I shout in triumph.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19108010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Who will bring me to the fortified city?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Who will lead me to Edom?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19108011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Have you not rejected us, O God?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				You do not go out, O God, with our armies.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19108012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Oh grant us help against the foe,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for vain is the salvation of man!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19108013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				With God we shall do valiantly;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it is he who will tread down our foes.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

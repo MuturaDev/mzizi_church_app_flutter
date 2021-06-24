@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Kings" num="11">
+		<marker class="begin-verse" mid="v12005001">
+		</marker>
+		<chapter num="5">
+			<heading
+				>
+				Naaman Healed of Leprosy
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="l" cid="c12005001.1">
+				</crossref>
+				Naaman, 
+				<crossref let="m" cid="c12005001.2">
+				</crossref>
+				commander of the army of the king of Syria, was a great man with his master and in high favor, because by him the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had given victory to Syria. He was a mighty man of valor, but he was a leper.
+				<note nid="n12005001.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v12005002">
+			</marker>
+			<verse num="2">
+				Now the Syrians on 
+				<crossref let="n" cid="c12005002.1">
+				</crossref>
+				one of their raids had carried off a little girl from the land of Israel, and she worked in the service of Naaman's wife.
+			</verse>
+			<marker class="begin-verse" mid="v12005003">
+			</marker>
+			<verse num="3">
+				She said to her mistress, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Would that my lord were with the prophet who is in Samaria! He would cure him of his leprosy.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12005004">
+			</marker>
+			<verse num="4">
+				So Naaman went in and told his lord, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus and so spoke the girl from the land of Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12005005">
+			</marker>
+			<verse num="5">
+				And the king of Syria said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go now, and I will send a letter to the king of Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				So he went, 
+				<crossref let="o" cid="c12005005.1">
+				</crossref>
+				taking with him ten talents of silver, six thousand shekels
+				<note nid="n12005005.1">
+				</note>
+				 of gold, and ten 
+				<crossref let="p" cid="c12005005.2">
+				</crossref>
+				changes of clothing.
+
+			</verse>
+			<marker class="begin-verse" mid="v12005006">
+			</marker>
+			<verse num="6">
+				And he brought the letter to the king of Israel, which read, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				When this letter reaches you, know that I have sent to you Naaman my servant, that you may cure him of his leprosy.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12005007">
+			</marker>
+			<verse num="7">
+				And when the king of Israel read the letter, 
+				<crossref let="q" cid="c12005007.1">
+				</crossref>
+				he tore his clothes and said, 
+				<crossref let="r" cid="c12005007.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Am I God, to kill and to make alive, that this man sends word to me to cure a man of his leprosy? Only 
+				<crossref let="s" cid="c12005007.3">
+				</crossref>
+				consider, and see how he is seeking a quarrel with me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v12005008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				But when Elisha the 
+				<crossref let="t" cid="c12005008.1">
+				</crossref>
+				man of God heard that the king of Israel had torn his clothes, he sent to the king, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have you torn your clothes? Let him come now to me, that he may know that there is a prophet in Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12005009">
+			</marker>
+			<verse num="9">
+				So Naaman came with his horses and chariots and stood at the door of Elisha's house.
+			</verse>
+			<marker class="begin-verse" mid="v12005010">
+			</marker>
+			<verse num="10">
+				And Elisha sent a messenger to him, saying, 
+				<crossref let="u" cid="c12005010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go and wash in the Jordan seven times, and your flesh shall be restored, and you shall be clean.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12005011">
+			</marker>
+			<verse num="11">
+				But Naaman was angry and went away, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I thought that he would surely come out to me and stand and call upon the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 his God, and wave his hand over the place and cure the leper.
+			</verse>
+			<marker class="begin-verse" mid="v12005012">
+			</marker>
+			<verse num="12">
+				Are not Abana
+				<note nid="n12005012.1">
+				</note>
+				 and Pharpar, the rivers of 
+				<crossref let="v" cid="c12005012.1">
+				</crossref>
+				Damascus, better than all the waters of Israel? Could I not wash in them and be clean?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So he turned and went away in a rage.
+			</verse>
+			<marker class="begin-verse" mid="v12005013">
+			</marker>
+			<verse num="13">
+				But his servants came near and said to him, 
+				<crossref let="w" cid="c12005013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My father, it is a great word the prophet has spoken to you; will you not do it? Has he actually said to you, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Wash, and be clean
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12005014">
+			</marker>
+			<verse num="14">
+				So he went down and dipped himself seven times in the Jordan, according to the word of the man of God, 
+				<crossref let="x" cid="c12005014.1">
+				</crossref>
+				and his flesh was restored like the flesh of a little child, 
+				<crossref let="y" cid="c12005014.2">
+				</crossref>
+				and he was clean.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v12005015">
+			</marker>
+			<heading
+				>
+				Gehazi's Greed and Punishment
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				Then he returned to the man of God, he and all his company, and he came and stood before him. And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I know that 
+				<crossref let="z" cid="c12005015.1">
+				</crossref>
+				there is no God in all the earth but in Israel; so 
+				<crossref let="a" cid="c12005015.2">
+				</crossref>
+				accept now a present from your servant.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12005016">
+			</marker>
+			<verse num="16">
+				But he said, 
+				<crossref let="b" cid="c12005016.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 lives, before whom I stand, 
+				<crossref let="c" cid="c12005016.2">
+				</crossref>
+				I will receive none.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he urged him to take it, but he refused.
+			</verse>
+			<marker class="begin-verse" mid="v12005017">
+			</marker>
+			<verse num="17">
+				Then Naaman said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If not, please let there be given to your servant two mules' load of earth, for from now on your servant will not offer burnt offering or sacrifice to any god but the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v12005018">
+			</marker>
+			<verse num="18">
+				In this matter may the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 pardon your servant: when my master goes into the house of 
+				<crossref let="d" cid="c12005018.1">
+				</crossref>
+				Rimmon to worship there, 
+				<crossref let="e" cid="c12005018.2">
+				</crossref>
+				leaning on my arm, and I bow myself in the house of Rimmon, when I bow myself in the house of Rimmon, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 pardon your servant in this matter.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12005019">
+			</marker>
+			<verse num="19">
+				He said to him, 
+				<crossref let="f" cid="c12005019.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go in peace.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				But when Naaman had gone from him a short distance,
+
+			</verse>
+			<marker class="begin-verse" mid="v12005020">
+			</marker>
+			<verse num="20">
+				<crossref let="g" cid="c12005020.1">
+				</crossref>
+				Gehazi, the servant of Elisha the man of God, said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See, my master has spared this Naaman the Syrian, in not accepting from his hand what he brought. 
+				<crossref let="h" cid="c12005020.2">
+				</crossref>
+				As the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 lives, I will run after him and get something from him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12005021">
+			</marker>
+			<verse num="21">
+				So Gehazi followed Naaman. And when Naaman saw someone running after him, he got down from the chariot to meet him and said, 
+				<crossref let="i" cid="c12005021.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is all well?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12005022">
+			</marker>
+			<verse num="22">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				All is well. My master has sent me to say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				There have just now come to me from 
+				<crossref let="j" cid="c12005022.1">
+				</crossref>
+				the hill country of Ephraim two young men of the sons of the prophets. Please give them a talent of silver and 
+				<crossref let="k" cid="c12005022.2">
+				</crossref>
+				two changes of clothing.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12005023">
+			</marker>
+			<verse num="23">
+				And Naaman said, 
+				<crossref let="l" cid="c12005023.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Be pleased to accept two talents.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he urged him and tied up two talents of silver in two bags, with two changes of clothing, and laid them on two of his servants. And they carried them before Gehazi.
+			</verse>
+			<marker class="begin-verse" mid="v12005024">
+			</marker>
+			<verse num="24">
+				And when he came to the hill, he took them from their hand and put them in the house, and he sent the men away, and they departed.
+			</verse>
+			<marker class="begin-verse" mid="v12005025">
+			</marker>
+			<verse num="25">
+				He went in and stood before his master, and Elisha said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where have you been, Gehazi?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your servant went nowhere.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12005026">
+			</marker>
+			<verse num="26">
+				But he said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Did not my heart go when the man turned from his chariot to meet you? Was it a time to accept money and garments, olive orchards and vineyards, sheep and oxen, male servants and female servants?
+			</verse>
+			<marker class="begin-verse" mid="v12005027">
+			</marker>
+			<verse num="27">
+				Therefore the leprosy of Naaman shall cling to you and to your descendants forever.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So he went out from his presence 
+				<crossref let="m" cid="c12005027.1">
+				</crossref>
+				a leper, like snow.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

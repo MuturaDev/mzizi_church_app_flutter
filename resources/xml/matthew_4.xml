@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40004001">
+		</marker>
+		<chapter num="4">
+			<heading
+				>
+				The Temptation of Jesus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="s" cid="c40004001.1">
+				</crossref>
+				<crossref cid="t40004001.1">
+				</crossref>
+				Then Jesus was led up by the Spirit into the wilderness 
+				<crossref let="t" cid="c40004001.2">
+				</crossref>
+				to be tempted by the devil.
+			</verse>
+			<marker class="begin-verse" mid="v40004002">
+			</marker>
+			<verse num="2">
+				And after fasting 
+				<crossref let="u" cid="c40004002.1">
+				</crossref>
+				forty days and forty nights, he 
+				<crossref let="v" cid="c40004002.2">
+				</crossref>
+				was hungry.
+			</verse>
+			<marker class="begin-verse" mid="v40004003">
+			</marker>
+			<verse num="3">
+				And 
+				<crossref let="w" cid="c40004003.1">
+				</crossref>
+				the tempter came and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If you are 
+				<crossref let="x" cid="c40004003.2">
+				</crossref>
+				the Son of God, command 
+				<crossref let="y" cid="c40004003.3">
+				</crossref>
+				these stones to become loaves of bread.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40004004">
+			</marker>
+			<verse num="4">
+				But he answered, 
+				<woc
+					>
+					<crossref let="z" cid="c40004004.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					It is written,
+				</woc>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<woc
+					>
+					<crossref let="a" cid="c40004004.2">
+					</crossref>
+					<crossref cid="t40004004.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Man shall not live by bread alone,
+					<end-line class="br">
+					</end-line>
+					<begin-line class="indent">
+					</begin-line>
+					but by every word that comes from the mouth of God.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v40004005">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="5">
+				<crossref let="b" cid="c40004005.1">
+				</crossref>
+				Then the devil took him to 
+				<crossref let="c" cid="c40004005.2">
+				</crossref>
+				the holy city and set him on the pinnacle of the temple
+			</verse>
+			<marker class="begin-verse" mid="v40004006">
+			</marker>
+			<verse num="6">
+				and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If you are the Son of God, throw yourself down, for it is written,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c40004006.1">
+				</crossref>
+				<crossref cid="t40004006.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				He will command his angels concerning you,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<end-block-indent
+					>
+				</end-block-indent>
+				<begin-paragraph class="same-paragraph">
+				</begin-paragraph>
+				and
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				On their hands they will bear you up,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				lest you strike your foot against a stone.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v40004007">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="7">
+				Jesus said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Again 
+					<crossref let="e" cid="c40004007.1">
+					</crossref>
+					it is written, 
+					<crossref let="f" cid="c40004007.2">
+					</crossref>
+					<crossref cid="t40004007.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					You shall not 
+					<crossref let="g" cid="c40004007.3">
+					</crossref>
+					put the Lord your God to the test.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40004008">
+			</marker>
+			<verse num="8">
+				<crossref let="h" cid="c40004008.1">
+				</crossref>
+				Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory.
+			</verse>
+			<marker class="begin-verse" mid="v40004009">
+			</marker>
+			<verse num="9">
+				And he said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				All these I will give you, if you will fall down and worship me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40004010">
+			</marker>
+			<verse num="10">
+				Then Jesus said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Be gone, 
+					<crossref let="i" cid="c40004010.1">
+					</crossref>
+					Satan! For 
+					<crossref let="j" cid="c40004010.2">
+					</crossref>
+					it is written,
+				</woc>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<woc
+					>
+					<crossref let="k" cid="c40004010.3">
+					</crossref>
+					<crossref cid="t40004010.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					You shall worship the Lord your God
+					<end-line class="br">
+					</end-line>
+					<begin-line class="indent">
+					</begin-line>
+					and 
+					<crossref let="l" cid="c40004010.4">
+					</crossref>
+					him only shall you serve.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v40004011">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="11">
+				Then the devil left him, and behold, 
+				<crossref let="m" cid="c40004011.1">
+				</crossref>
+				angels came and were ministering to him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40004012">
+			</marker>
+			<heading
+				>
+				Jesus Begins His Ministry
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				Now when he heard that 
+				<crossref let="n" cid="c40004012.1">
+				</crossref>
+				John had been arrested, 
+				<crossref let="o" cid="c40004012.2">
+				</crossref>
+				he withdrew into Galilee.
+			</verse>
+			<marker class="begin-verse" mid="v40004013">
+			</marker>
+			<verse num="13">
+				And leaving 
+				<crossref let="p" cid="c40004013.1">
+				</crossref>
+				Nazareth he went and lived in 
+				<crossref let="q" cid="c40004013.2">
+				</crossref>
+				Capernaum by 
+				<crossref let="r" cid="c40004013.3">
+				</crossref>
+				the sea, in the territory of 
+				<crossref let="s" cid="c40004013.4">
+				</crossref>
+				Zebulun and Naphtali,
+			</verse>
+			<marker class="begin-verse" mid="v40004014">
+			</marker>
+			<verse num="14">
+				<crossref let="t" cid="c40004014.1">
+				</crossref>
+				so that what was spoken by the prophet Isaiah might be fulfilled:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40004015">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c40004015.1">
+				</crossref>
+				<crossref cid="t40004015.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The land of Zebulun and the land of Naphtali,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the way of the sea, beyond the Jordan, Galilee of the Gentilesù
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v40004016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c40004016.1">
+				</crossref>
+				the people dwelling in darkness
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				have seen a great light,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and for those dwelling in the region and 
+				<crossref let="w" cid="c40004016.2">
+				</crossref>
+				shadow of death,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on them a light has dawned.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v40004017">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="17">
+				<crossref let="x" cid="c40004017.1">
+				</crossref>
+				From that time Jesus began to preach, saying, 
+				<woc
+					>
+					<crossref let="z" cid="c40004017.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Repent, for the kingdom of heaven is at hand.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40004018">
+			</marker>
+			<heading
+				>
+				Jesus Calls the First Disciples
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				<crossref let="a" cid="c40004018.1">
+				</crossref>
+				<crossref cid="t40004018.1">
+				</crossref>
+				While walking by 
+				<crossref let="b" cid="c40004018.2">
+				</crossref>
+				the Sea of Galilee, he saw two brothers, Simon (who is called Peter) and Andrew his brother, casting a net into the sea, for they were fishermen.
+			</verse>
+			<marker class="begin-verse" mid="v40004019">
+			</marker>
+			<verse num="19">
+				And he said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Follow me, and I will make you 
+					<crossref let="c" cid="c40004019.1">
+					</crossref>
+					fishers of men.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40004020">
+			</marker>
+			<verse num="20">
+				Immediately they left their nets and followed him.
+			</verse>
+			<marker class="begin-verse" mid="v40004021">
+			</marker>
+			<verse num="21">
+				And going on from there he saw two other brothers, James the son of Zebedee and John his brother, in the boat with Zebedee their father, mending their nets, and he called them.
+			</verse>
+			<marker class="begin-verse" mid="v40004022">
+			</marker>
+			<verse num="22">
+				Immediately they left the boat and their father and followed him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40004023">
+			</marker>
+			<heading
+				>
+				Jesus Ministers to Great Crowds
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				<crossref let="d" cid="c40004023.1">
+				</crossref>
+				And he went throughout all Galilee, 
+				<crossref let="e" cid="c40004023.2">
+				</crossref>
+				teaching in their synagogues and 
+				<crossref let="f" cid="c40004023.3">
+				</crossref>
+				proclaiming the gospel of the kingdom and 
+				<crossref let="g" cid="c40004023.4">
+				</crossref>
+				healing every disease and every affliction among the people.
+			</verse>
+			<marker class="begin-verse" mid="v40004024">
+			</marker>
+			<verse num="24">
+				So his fame spread throughout all 
+				<crossref let="h" cid="c40004024.1">
+				</crossref>
+				Syria, and 
+				<crossref let="g" cid="c40004024.2">
+				</crossref>
+				they brought him all the sick, those afflicted with various diseases and 
+				<crossref let="i" cid="c40004024.3">
+				</crossref>
+				pains, 
+				<crossref let="j" cid="c40004024.4">
+				</crossref>
+				those oppressed by demons, 
+				<crossref let="k" cid="c40004024.5">
+				</crossref>
+				epileptics, and 
+				<crossref let="l" cid="c40004024.6">
+				</crossref>
+				paralytics, and he healed them.
+			</verse>
+			<marker class="begin-verse" mid="v40004025">
+			</marker>
+			<verse num="25">
+				<crossref let="m" cid="c40004025.1">
+				</crossref>
+				And great crowds followed him from Galilee and the 
+				<crossref let="n" cid="c40004025.2">
+				</crossref>
+				Decapolis, and from Jerusalem and Judea, and from beyond the Jordan.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

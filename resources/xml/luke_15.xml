@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Luke" num="41">
+		<marker class="begin-verse" mid="v42015001">
+		</marker>
+		<chapter num="15">
+			<heading
+				>
+				The Parable of the Lost Sheep
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now 
+				<crossref let="z" cid="c42015001.1">
+				</crossref>
+				the tax collectors and sinners were all drawing near to hear him.
+			</verse>
+			<marker class="begin-verse" mid="v42015002">
+			</marker>
+			<verse num="2">
+				And the Pharisees and the scribes 
+				<crossref let="a" cid="c42015002.1">
+				</crossref>
+				grumbled, saying, 
+				<crossref let="b" cid="c42015002.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This man receives sinners and 
+				<crossref let="c" cid="c42015002.3">
+				</crossref>
+				eats with them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42015003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				So he told them this parable:
+			</verse>
+			<marker class="begin-verse" mid="v42015004">
+			</marker>
+			<verse num="4" class="woc">
+				<woc
+					>
+					<crossref let="d" cid="c42015004.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What man of you, having a hundred sheep, 
+					<crossref let="e" cid="c42015004.2">
+					</crossref>
+					if he has lost one of them, does not leave the ninety-nine 
+					<crossref let="f" cid="c42015004.3">
+					</crossref>
+					in the open country, and 
+					<crossref let="g" cid="c42015004.4">
+					</crossref>
+					go after the one that is lost, until he finds it?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015005">
+			</marker>
+			<verse num="5" class="woc">
+				<woc
+					>
+					And when he has found it, 
+					<crossref let="h" cid="c42015005.1">
+					</crossref>
+					he lays it on his shoulders, rejoicing.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015006">
+			</marker>
+			<verse num="6" class="woc">
+				<woc
+					>
+					And when he comes home, he calls together his friends and his neighbors, saying to them, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Rejoice with me, for 
+					<crossref let="i" cid="c42015006.1">
+					</crossref>
+					I have found my sheep that was lost.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015007">
+			</marker>
+			<verse num="7" class="woc">
+				<woc
+					>
+					Just so, I tell you, there will be more joy in heaven over one sinner who 
+					<crossref let="j" cid="c42015007.1">
+					</crossref>
+					repents than over ninety-nine 
+					<crossref let="k" cid="c42015007.2">
+					</crossref>
+					righteous persons who need no repentance.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42015008">
+			</marker>
+			<heading
+				>
+				The Parable of the Lost Coin
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Or what woman, having ten silver coins,
+					<note nid="n42015008.1">
+					</note>
+					 if she loses one coin, does not light a lamp and sweep the house and seek diligently until she finds it?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015009">
+			</marker>
+			<verse num="9" class="woc">
+				<woc
+					>
+					And when she has found it, she calls together her friends and neighbors, saying, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Rejoice with me, for I have found the coin that I had lost.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					Just so, I tell you, there is joy before 
+					<crossref let="l" cid="c42015010.1">
+					</crossref>
+					the angels of God over one sinner who repents.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42015011">
+			</marker>
+			<heading
+				>
+				The Parable of the Prodigal Son
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				And he said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					There was a man who had two sons.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc
+					>
+					And the younger of them said to his father, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Father, give me 
+					<crossref let="m" cid="c42015012.1">
+					</crossref>
+					the share of property that is coming to me.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 And he divided 
+					<crossref let="n" cid="c42015012.2">
+					</crossref>
+					his property between them.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015013">
+			</marker>
+			<verse num="13" class="woc">
+				<woc
+					>
+					Not many days later, the younger son gathered all he had and took a journey into a far country, and there he squandered his property in 
+					<crossref let="o" cid="c42015013.1">
+					</crossref>
+					reckless living.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015014">
+			</marker>
+			<verse num="14" class="woc">
+				<woc
+					>
+					And when he had spent everything, a severe famine arose in that country, and he began to be in need.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015015">
+			</marker>
+			<verse num="15" class="woc">
+				<woc
+					>
+					So he went and hired himself out to
+					<note nid="n42015015.1">
+					</note>
+					 one of the citizens of that country, who sent him into his fields to feed pigs.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc
+					>
+					And he 
+					<crossref let="p" cid="c42015016.1">
+					</crossref>
+					was longing to be fed with the pods that the pigs ate, and no one gave him anything.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42015017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					But 
+					<crossref let="q" cid="c42015017.1">
+					</crossref>
+					when he 
+					<crossref let="r" cid="c42015017.2">
+					</crossref>
+					came to himself, he said, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					How many of my father's hired servants have more than enough bread, but I perish here with hunger!
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					I will arise and go to my father, and I will say to him, 
+					<q class="begin-inner-double" qid="" from="" to="">
+					</q>
+					Father, 
+					<crossref let="s" cid="c42015018.1">
+					</crossref>
+					I have sinned against 
+					<crossref let="t" cid="c42015018.2">
+					</crossref>
+					heaven and before you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					<crossref let="u" cid="c42015019.1">
+					</crossref>
+					I am no longer worthy to be called your son. Treat me as one of your hired servants.
+					<q class="end-inner-double" qid="" from="" to="">
+					</q>
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015020">
+			</marker>
+			<verse num="20" class="woc">
+				<woc
+					>
+					And he arose and came to his father. But while he was still a long way off, his father saw him and felt compassion, and 
+					<crossref let="v" cid="c42015020.1">
+					</crossref>
+					ran and 
+					<crossref let="w" cid="c42015020.2">
+					</crossref>
+					embraced him and 
+					<crossref let="x" cid="c42015020.3">
+					</crossref>
+					kissed him.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015021">
+			</marker>
+			<verse num="21" class="woc">
+				<woc
+					>
+					And the son said to him, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Father, I have sinned against heaven and before you. 
+					<crossref let="u" cid="c42015021.1">
+					</crossref>
+					I am no longer worthy to be called your son.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<note nid="n42015021.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015022">
+			</marker>
+			<verse num="22" class="woc">
+				<woc
+					>
+					But the father said to his servants,
+					<note nid="n42015022.1">
+					</note>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Bring quickly 
+					<crossref let="y" cid="c42015022.1">
+					</crossref>
+					the best robe, and put it on him, and put 
+					<crossref let="z" cid="c42015022.2">
+					</crossref>
+					a ring on his hand, and 
+					<crossref let="a" cid="c42015022.3">
+					</crossref>
+					shoes on his feet.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015023">
+			</marker>
+			<verse num="23" class="woc">
+				<woc
+					>
+					And bring 
+					<crossref let="b" cid="c42015023.1">
+					</crossref>
+					the fattened calf and kill it, and 
+					<crossref let="c" cid="c42015023.2">
+					</crossref>
+					let us eat and celebrate.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					For this my son 
+					<crossref let="d" cid="c42015024.1">
+					</crossref>
+					was dead, and is alive again; he was lost, and is found.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 And they began to celebrate.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42015025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Now his older son was in the field, and as he came and drew near to the house, he heard music and dancing.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					And he called one of the servants and asked what these things meant.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015027">
+			</marker>
+			<verse num="27" class="woc">
+				<woc
+					>
+					And he said to him, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Your brother has come, and your father has killed the fattened calf, because he has received him back safe and sound.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015028">
+			</marker>
+			<verse num="28" class="woc">
+				<woc
+					>
+					But he was angry and refused to go in. His father came out and entreated him,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015029">
+			</marker>
+			<verse num="29" class="woc">
+				<woc
+					>
+					but he answered his father, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Look, these many years I have served you, and I never disobeyed your command, yet you never gave me a young goat, that I might 
+					<crossref let="e" cid="c42015029.1">
+					</crossref>
+					celebrate with my friends.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015030">
+			</marker>
+			<verse num="30" class="woc">
+				<woc
+					>
+					But when this son of yours came, 
+					<crossref let="f" cid="c42015030.1">
+					</crossref>
+					who has devoured 
+					<crossref let="g" cid="c42015030.2">
+					</crossref>
+					your property with prostitutes, you killed the fattened calf for him!
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015031">
+			</marker>
+			<verse num="31" class="woc">
+				<woc
+					>
+					And he said to him, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Son, 
+					<crossref let="h" cid="c42015031.1">
+					</crossref>
+					you are always with me, and all that is mine is yours.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42015032">
+			</marker>
+			<verse num="32" class="woc">
+				<woc
+					>
+					It was fitting 
+					<crossref let="e" cid="c42015032.1">
+					</crossref>
+					to celebrate and be glad, for this your brother 
+					<crossref let="i" cid="c42015032.2">
+					</crossref>
+					was dead, and is alive; he was lost, and is found.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

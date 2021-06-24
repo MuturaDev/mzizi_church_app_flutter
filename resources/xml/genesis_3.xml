@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				The Fall
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now 
+				<crossref let="u" cid="c01003001.1">
+				</crossref>
+				the serpent was more crafty than any other beast of the field that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God had made.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				He said to the woman, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Did God actually say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You
+				<note nid="n01003001.1">
+				</note>
+				 shall not eat of any tree in the garden
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01003002">
+			</marker>
+			<verse num="2">
+				And the woman said to the serpent, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We may eat of the fruit of the trees in the garden,
+			</verse>
+			<marker class="begin-verse" mid="v01003003">
+			</marker>
+			<verse num="3">
+				but God said, 
+				<crossref let="v" cid="c01003003.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You shall not eat of the fruit of the tree that is in the midst of the garden, neither shall you touch it, lest you die.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01003004">
+			</marker>
+			<verse num="4">
+				<crossref let="w" cid="c01003004.1">
+				</crossref>
+				But the serpent said to the woman, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You will not surely die.
+			</verse>
+			<marker class="begin-verse" mid="v01003005">
+			</marker>
+			<verse num="5">
+				For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01003006">
+			</marker>
+			<verse num="6">
+				So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise,
+				<note nid="n01003006.1">
+				</note>
+				 she took of its fruit 
+				<crossref let="x" cid="c01003006.1">
+				</crossref>
+				and ate, and she also gave some to her husband who was with her, 
+				<crossref let="y" cid="c01003006.2">
+				</crossref>
+				and he ate.
+			</verse>
+			<marker class="begin-verse" mid="v01003007">
+			</marker>
+			<verse num="7">
+				<crossref let="z" cid="c01003007.1">
+				</crossref>
+				Then the eyes of both were opened, 
+				<crossref let="a" cid="c01003007.2">
+				</crossref>
+				and they knew that they were naked. And they sewed fig leaves together and made themselves loincloths.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01003008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				And they heard the sound of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God walking in the garden in the cool
+				<note nid="n01003008.1">
+				</note>
+				 of the day, and the man and his wife 
+				<crossref let="b" cid="c01003008.1">
+				</crossref>
+				hid themselves from the presence of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God among the trees of the garden.
+			</verse>
+			<marker class="begin-verse" mid="v01003009">
+			</marker>
+			<verse num="9">
+				But the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God called to the man and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where are you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n01003009.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01003010">
+			</marker>
+			<verse num="10">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I heard the sound of you in the garden, and I was afraid, 
+				<crossref let="c" cid="c01003010.1">
+				</crossref>
+				because I was naked, and I hid myself.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01003011">
+			</marker>
+			<verse num="11">
+				He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01003012">
+			</marker>
+			<verse num="12">
+				The man said, 
+				<crossref let="d" cid="c01003012.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The woman whom you gave to be with me, she gave me fruit of the tree, and I ate.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01003013">
+			</marker>
+			<verse num="13">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God said to the woman, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is this that you have done?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 The woman said, 
+				<crossref let="e" cid="c01003013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The serpent deceived me, and I ate.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01003014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God said to the serpent,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because you have done this,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				cursed are you above all livestock
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and above all beasts of the field;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				on your belly you shall go,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="f" cid="c01003014.1">
+				</crossref>
+				dust you shall eat
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all the days of your life.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v01003015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				I will put enmity between you and the woman,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and between your offspring
+				<note nid="n01003015.1">
+				</note>
+				 and 
+				<crossref let="g" cid="c01003015.1">
+				</crossref>
+				her offspring;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c01003015.2">
+				</crossref>
+				he shall bruise your head,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you shall bruise his heel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v01003016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				To the woman he said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will surely multiply your pain in childbearing;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c01003016.1">
+				</crossref>
+				in pain you shall bring forth children.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c01003016.2">
+				</crossref>
+				Your desire shall be for
+				<note nid="n01003016.1">
+				</note>
+				 your husband,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he shall 
+				<crossref let="k" cid="c01003016.3">
+				</crossref>
+				rule over you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v01003017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				And to Adam he said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because you have listened to the voice of your wife
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and have eaten of the tree
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c01003017.1">
+				</crossref>
+				of which I commanded you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You shall not eat of it,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c01003017.2">
+				</crossref>
+				cursed is the ground because of you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c01003017.3">
+				</crossref>
+				in pain you shall eat of it all the days of your life;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v01003018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				thorns and thistles it shall bring forth for you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you shall eat the plants of the field.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v01003019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				By the sweat of your face
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you shall eat bread,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				till you return to the ground,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for out of it you were taken;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c01003019.1">
+				</crossref>
+				for you are dust,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="p" cid="c01003019.2">
+				</crossref>
+				to dust you shall return.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v01003020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				The man called his wife's name Eve, because she was the mother of all living.
+				<note nid="n01003020.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01003021">
+			</marker>
+			<verse num="21">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God made for Adam and for his wife garments of skins and clothed them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01003022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God said, 
+				<crossref let="q" cid="c01003022.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand 
+				<crossref let="r" cid="c01003022.2">
+				</crossref>
+				and take also of the tree of life and eat, and live foreverù
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01003023">
+			</marker>
+			<verse num="23">
+				therefore the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God sent him out from the garden of Eden 
+				<crossref let="s" cid="c01003023.1">
+				</crossref>
+				to work the ground from which he was taken.
+			</verse>
+			<marker class="begin-verse" mid="v01003024">
+			</marker>
+			<verse num="24">
+				He drove out the man, and at the east of the garden of Eden he placed the 
+				<crossref let="t" cid="c01003024.1">
+				</crossref>
+				cherubim and a flaming sword that turned every way to guard the way to the tree of life.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19023001">
+		</marker>
+		<chapter num="23">
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Is My Shepherd
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is my 
+				<crossref let="d" cid="c19023001.1">
+				</crossref>
+				shepherd; I shall not 
+				<crossref let="e" cid="c19023001.2">
+				</crossref>
+				want.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19023002">
+			</marker>
+			<verse num="2">
+				<begin-line class="indent">
+				</begin-line>
+				He makes me lie down in green 
+				<crossref let="f" cid="c19023002.1">
+				</crossref>
+				pastures.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				He leads me beside still waters.
+				<note nid="n19023002.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19023003">
+			</marker>
+			<verse num="3">
+				<begin-line class="indent">
+				</begin-line>
+				He 
+				<crossref let="g" cid="c19023003.1">
+				</crossref>
+				restores my soul.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="h" cid="c19023003.2">
+				</crossref>
+				leads me in 
+				<crossref let="i" cid="c19023003.3">
+				</crossref>
+				paths of righteousness
+				<note nid="n19023003.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for his 
+				<crossref let="j" cid="c19023003.4">
+				</crossref>
+				name's sake.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19023004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Even though I 
+				<crossref let="k" cid="c19023004.1">
+				</crossref>
+				walk through the valley of 
+				<crossref let="l" cid="c19023004.2">
+				</crossref>
+				the shadow of death,
+				<note nid="n19023004.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will 
+				<crossref let="m" cid="c19023004.3">
+				</crossref>
+				fear no evil,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for 
+				<crossref let="n" cid="c19023004.4">
+				</crossref>
+				you are with me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your 
+				<crossref let="o" cid="c19023004.5">
+				</crossref>
+				rod and your staff,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they comfort me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19023005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				You 
+				<crossref let="p" cid="c19023005.1">
+				</crossref>
+				prepare a table before me
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in 
+				<crossref let="q" cid="c19023005.2">
+				</crossref>
+				the presence of my enemies;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				you 
+				<crossref let="r" cid="c19023005.3">
+				</crossref>
+				anoint my head with oil;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my 
+				<crossref let="s" cid="c19023005.4">
+				</crossref>
+				cup overflows.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19023006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Surely
+				<note nid="n19023006.1">
+				</note>
+				 goodness and mercy
+				<note nid="n19023006.2">
+				</note>
+				 shall follow me
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all the days of my life,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and I shall 
+				<crossref let="t" cid="c19023006.1">
+				</crossref>
+				dwell
+				<note nid="n19023006.3">
+				</note>
+				 in the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c19023006.2">
+				</crossref>
+				forever.
+				<note nid="n19023006.4">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

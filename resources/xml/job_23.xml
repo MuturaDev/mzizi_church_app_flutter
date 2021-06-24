@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18023001">
+		</marker>
+		<chapter num="23">
+			<heading
+				>
+				Job Replies: Where Is God?
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then Job answered and said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18023002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Today also my 
+				<crossref let="r" cid="c18023002.1">
+				</crossref>
+				complaint is bitter;
+				<note nid="n18023002.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my 
+				<crossref let="s" cid="c18023002.2">
+				</crossref>
+				hand is heavy on account of my groaning.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Oh, 
+				<crossref let="t" cid="c18023003.1">
+				</crossref>
+				that I knew where I might find him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that I might come even to his 
+				<crossref let="u" cid="c18023003.2">
+				</crossref>
+				seat!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				I would 
+				<crossref let="v" cid="c18023004.1">
+				</crossref>
+				lay my case before him
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and fill my mouth with arguments.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				I would know what he would answer me
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and understand what he would say to me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Would he 
+				<crossref let="w" cid="c18023006.1">
+				</crossref>
+				contend with me in the greatness of his power?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				No; he would pay attention to me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				There an upright man could argue with him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and I would be acquitted forever by my judge.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18023008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Behold, 
+				<crossref let="x" cid="c18023008.1">
+				</crossref>
+				I go forward, but he is not there,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and backward, but I do not perceive him;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				on the left hand when he is working, I do not behold him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he turns to the right hand, but I do not see him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				But he 
+				<crossref let="y" cid="c18023010.1">
+				</crossref>
+				knows 
+				<crossref let="z" cid="c18023010.2">
+				</crossref>
+				the way that I 
+				<crossref let="a" cid="c18023010.3">
+				</crossref>
+				take;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when he has 
+				<crossref let="b" cid="c18023010.4">
+				</crossref>
+				tried me, I shall come out as gold.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				My foot 
+				<crossref let="c" cid="c18023011.1">
+				</crossref>
+				has held fast to his steps;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I have kept his way and have 
+				<crossref let="d" cid="c18023011.2">
+				</crossref>
+				not turned aside.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				I have not departed from the commandment of his lips;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I have 
+				<crossref let="e" cid="c18023012.1">
+				</crossref>
+				treasured the words of his mouth more than my 
+				<crossref let="f" cid="c18023012.2">
+				</crossref>
+				portion of food.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				But he is unchangeable,
+				<note nid="n18023013.1">
+				</note>
+				 and 
+				<crossref let="g" cid="c18023013.1">
+				</crossref>
+				who can turn him back?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				What he 
+				<crossref let="h" cid="c18023013.2">
+				</crossref>
+				desires, that he does.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				For he will complete what he 
+				<crossref let="i" cid="c18023014.1">
+				</crossref>
+				appoints for me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and many such things are 
+				<crossref let="j" cid="c18023014.2">
+				</crossref>
+				in his mind.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				Therefore I am terrified at his presence;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when I consider, I am in dread of him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				God has made my 
+				<crossref let="k" cid="c18023016.1">
+				</crossref>
+				heart faint;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the Almighty has terrified me;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18023017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				yet I am not silenced because of the darkness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor because thick darkness covers my face.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

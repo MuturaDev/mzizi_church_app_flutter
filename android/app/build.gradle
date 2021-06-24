@@ -32,7 +32,7 @@ def keystoreProperties = new Properties()
    }
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 29
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
@@ -46,9 +46,9 @@ android {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId "mobile.ultratude.com.mzizichurchsystem"
         minSdkVersion 16
-        targetSdkVersion 28
-        versionCode 3//flutterVersionCode.toInteger()
-        versionName "3.0.1"//flutterVersionName
+        targetSdkVersion 29
+        versionCode 11//flutterVersionCode.toInteger()
+        versionName "3.1.0"//flutterVersionName
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -68,6 +68,49 @@ android {
             //signingConfig signingConfigs.debug
             signingConfig signingConfigs.release
         }
+    }
+
+    flavorDimensions "app"
+
+    productFlavors{
+
+        mzizicms {//MziziCMS
+            dimension "app"
+            resValue "string","app_name", "MziziCMS"
+            applicationId "mobile.ultratude.com.mzizichurchsystem"
+            //applicationIdSuffix ".mzizicms"
+            versionCode 11
+            versionName "3.1.0"
+
+        }
+
+        bwmc {//The Bible Way Ministries
+            dimension "app"
+            resValue "string","app_name", "BWMC"
+            applicationId "mobile.ultratude.com.mzizichurchsystem"
+            applicationIdSuffix ".bwmc"
+            versionCode 12
+            versionName "3.1.0"
+        }
+
+        dcik {//Deliverance Church International Kasarani
+            dimension "app"
+            resValue "string","app_name", "DCIK"
+            applicationId "mobile.ultratude.com.mzizichurchsystem"
+            applicationIdSuffix ".dcik"
+            versionCode 13
+            versionName "3.1.0"
+        }
+
+        jcc {//Jubilee Christian Church
+            dimension "app"
+            resValue "string","app_name", "JCC"
+            applicationId "mobile.ultratude.com.mzizichurchsystem"
+            applicationIdSuffix ".jcc"
+            versionCode 14
+            versionName "3.1.0"
+        }
+
     }
 }
 

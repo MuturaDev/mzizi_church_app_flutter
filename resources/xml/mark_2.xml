@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Mark" num="40">
+		<marker class="begin-verse" mid="v41002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				Jesus Heals a Paralytic
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And when he returned to 
+				<crossref let="t" cid="c41002001.1">
+				</crossref>
+				Capernaum after some days, it was reported that he was at home.
+			</verse>
+			<marker class="begin-verse" mid="v41002002">
+			</marker>
+			<verse num="2">
+				And many were gathered together, so that there was no more room, not even at the door. And he was preaching the word to them.
+			</verse>
+			<marker class="begin-verse" mid="v41002003">
+			</marker>
+			<verse num="3">
+				<crossref let="u" cid="c41002003.1">
+				</crossref>
+				<crossref cid="t41002003.1">
+				</crossref>
+				And they came, bringing to him a paralytic carried by four men.
+			</verse>
+			<marker class="begin-verse" mid="v41002004">
+			</marker>
+			<verse num="4">
+				And when they could not get near him because of the crowd, 
+				<crossref let="v" cid="c41002004.1">
+				</crossref>
+				they removed the roof above him, and when they had made an opening, they let down the bed on which the paralytic lay.
+			</verse>
+			<marker class="begin-verse" mid="v41002005">
+			</marker>
+			<verse num="5">
+				And when Jesus 
+				<crossref let="w" cid="c41002005.1">
+				</crossref>
+				saw their faith, he said to the paralytic, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Son, 
+					<crossref let="x" cid="c41002005.2">
+					</crossref>
+					your sins are forgiven.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41002006">
+			</marker>
+			<verse num="6">
+				Now some of the scribes were sitting there, questioning in their hearts,
+			</verse>
+			<marker class="begin-verse" mid="v41002007">
+			</marker>
+			<verse num="7">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why does this man speak like that? 
+				<crossref let="y" cid="c41002007.1">
+				</crossref>
+				He is blaspheming! 
+				<crossref let="z" cid="c41002007.2">
+				</crossref>
+				Who can forgive sins but God alone?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41002008">
+			</marker>
+			<verse num="8">
+				And immediately Jesus, 
+				<crossref let="a" cid="c41002008.1">
+				</crossref>
+				perceiving in his spirit that they thus questioned within themselves, said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Why do you question these things in your hearts?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41002009">
+			</marker>
+			<verse num="9" class="woc">
+				<woc
+					>
+					Which is easier, to say to the paralytic, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Your sins are forgiven,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 or to say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Rise, take up your bed and walk
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41002010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					But that you may know that 
+					<crossref let="b" cid="c41002010.1">
+					</crossref>
+					the Son of Man has authority on earth to forgive sins
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				ùhe said to the paralyticù
+			</verse>
+			<marker class="begin-verse" mid="v41002011">
+			</marker>
+			<verse num="11" class="woc">
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I say to you, rise, pick up your bed, and go home.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41002012">
+			</marker>
+			<verse num="12">
+				And he rose and immediately picked up his bed and went out before them all, so that they were all amazed and 
+				<crossref let="c" cid="c41002012.1">
+				</crossref>
+				glorified God, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We never saw anything like this!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41002013">
+			</marker>
+			<heading
+				>
+				Jesus Calls Levi
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				He went out again beside the sea, and 
+				<crossref let="d" cid="c41002013.1">
+				</crossref>
+				all the crowd was coming to him, and he was teaching them.
+			</verse>
+			<marker class="begin-verse" mid="v41002014">
+			</marker>
+			<verse num="14">
+				<crossref let="e" cid="c41002014.1">
+				</crossref>
+				<crossref cid="t41002014.1">
+				</crossref>
+				And as he passed by, he saw 
+				<crossref let="f" cid="c41002014.2">
+				</crossref>
+				Levi the son of Alphaeus sitting at the tax booth, and he said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Follow me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And he rose and followed him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41002015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				And as he reclined at table in his house, many 
+				<crossref let="g" cid="c41002015.1">
+				</crossref>
+				tax collectors and sinners were reclining with Jesus and his disciples, for there were many who followed him.
+			</verse>
+			<marker class="begin-verse" mid="v41002016">
+			</marker>
+			<verse num="16">
+				And 
+				<crossref let="h" cid="c41002016.1">
+				</crossref>
+				the scribes of
+				<note nid="n41002016.1">
+				</note>
+				 the Pharisees, when they saw that he was eating with sinners and tax collectors, said to his disciples, 
+				<crossref let="g" cid="c41002016.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why does he eat
+				<note nid="n41002016.2">
+				</note>
+				 with tax collectors and sinners?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41002017">
+			</marker>
+			<verse num="17">
+				And when Jesus heard it, he said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Those who are well have no need of a physician, but those who are sick. 
+					<crossref let="i" cid="c41002017.1">
+					</crossref>
+					I came not to call the righteous, 
+					<crossref let="j" cid="c41002017.2">
+					</crossref>
+					but sinners.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41002018">
+			</marker>
+			<heading
+				>
+				A Question About Fasting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				Now 
+				<crossref let="k" cid="c41002018.1">
+				</crossref>
+				John's disciples and the Pharisees were fasting. And people came and said to him, 
+				<crossref let="l" cid="c41002018.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do John's disciples and 
+				<crossref let="m" cid="c41002018.3">
+				</crossref>
+				the disciples of the Pharisees fast, but your disciples do not fast?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41002019">
+			</marker>
+			<verse num="19">
+				And Jesus said to them, 
+				<woc
+					>
+					<crossref let="n" cid="c41002019.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Can the wedding guests fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41002020">
+			</marker>
+			<verse num="20" class="woc">
+				<woc
+					>
+					<crossref let="o" cid="c41002020.1">
+					</crossref>
+					The days will come when the bridegroom is taken away from them, and 
+					<crossref let="p" cid="c41002020.2">
+					</crossref>
+					then they will fast in that day.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41002021">
+			</marker>
+			<verse num="21" class="woc">
+				<woc
+					>
+					No one sews a piece of unshrunk cloth on an old garment. If he does, the patch tears away from it, the new from the old, and a worse tear is made.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41002022">
+			</marker>
+			<verse num="22" class="woc">
+				<woc
+					>
+					And no one puts new wine into old 
+					<crossref let="q" cid="c41002022.1">
+					</crossref>
+					wineskins. If he does, the wine will burst the skinsùand the wine is destroyed, and so are the skins. But new wine is for fresh wineskins.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+					<note nid="n41002022.1">
+					</note>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41002023">
+			</marker>
+			<heading
+				>
+				Jesus Is Lord of the Sabbath
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				<crossref let="r" cid="c41002023.1">
+				</crossref>
+				<crossref cid="t41002023.1">
+				</crossref>
+				One Sabbath he was going through the grainfields, and as they made their way, his disciples 
+				<crossref let="s" cid="c41002023.2">
+				</crossref>
+				began to pluck heads of grain.
+			</verse>
+			<marker class="begin-verse" mid="v41002024">
+			</marker>
+			<verse num="24">
+				And the Pharisees were saying to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Look, 
+				<crossref let="t" cid="c41002024.1">
+				</crossref>
+				why are they doing 
+				<crossref let="u" cid="c41002024.2">
+				</crossref>
+				what is not lawful on the Sabbath?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41002025">
+			</marker>
+			<verse num="25">
+				And he said to them, 
+				<woc
+					>
+					<crossref let="v" cid="c41002025.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Have you never read 
+					<crossref let="w" cid="c41002025.2">
+					</crossref>
+					what David did, when he was in need and was hungry, he and those who were with him:
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41002026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					how he entered the house of God, in the time of 
+					<crossref let="x" cid="c41002026.1">
+					</crossref>
+					Abiathar the high priest, and ate 
+					<crossref let="y" cid="c41002026.2">
+					</crossref>
+					the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41002027">
+			</marker>
+			<verse num="27">
+				And he said to them, 
+				<woc
+					>
+					<crossref let="z" cid="c41002027.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					The Sabbath was made for man, 
+					<crossref let="a" cid="c41002027.2">
+					</crossref>
+					not man for the Sabbath.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41002028">
+			</marker>
+			<verse num="28" class="woc">
+				<woc
+					>
+					So 
+					<crossref let="b" cid="c41002028.1">
+					</crossref>
+					the Son of Man is lord even of the Sabbath.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

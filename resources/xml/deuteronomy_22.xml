@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Deuteronomy" num="4">
+		<marker class="begin-verse" mid="v05022001">
+		</marker>
+		<chapter num="22">
+			<heading
+				>
+				Various Laws
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You 
+				<crossref let="s" cid="c05022001.1">
+				</crossref>
+				shall not see your brother's ox or his sheep going astray and ignore them. You shall take them back to your brother.
+			</verse>
+			<marker class="begin-verse" mid="v05022002">
+			</marker>
+			<verse num="2">
+				And if he does not live near you and you do not know who he is, you shall bring it home to your house, and it shall stay with you until your brother seeks it. Then you shall restore it to him.
+			</verse>
+			<marker class="begin-verse" mid="v05022003">
+			</marker>
+			<verse num="3">
+				And you shall do the same with his donkey or with his garment, or with any lost thing of your brother's, which he loses and you find; you may not ignore it.
+			</verse>
+			<marker class="begin-verse" mid="v05022004">
+			</marker>
+			<verse num="4">
+				<crossref let="t" cid="c05022004.1">
+				</crossref>
+				You shall not see your brother's donkey or his ox fallen down by the way and ignore them. You shall help him to lift them up again.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05022005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				A woman shall not wear a man's garment, nor shall a man put on a woman's cloak, 
+				<crossref let="u" cid="c05022005.1">
+				</crossref>
+				for whoever does these things is an abomination to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05022006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If you come across a bird's nest in any tree or on the ground, with young ones or eggs and the mother sitting on the young or on the eggs, 
+				<crossref let="v" cid="c05022006.1">
+				</crossref>
+				you shall not take the mother with the young.
+			</verse>
+			<marker class="begin-verse" mid="v05022007">
+			</marker>
+			<verse num="7">
+				You shall let the mother go, but the young you may take for yourself, 
+				<crossref let="w" cid="c05022007.1">
+				</crossref>
+				that it may go well with you, and that you may live long.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05022008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				When you build a new house, you shall make a parapet for your roof, that you may not bring the guilt of blood upon your house, if anyone should fall from it.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05022009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<crossref let="x" cid="c05022009.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall not sow your vineyard with two kinds of seed, lest the whole yield be forfeited,
+				<note nid="n05022009.1">
+				</note>
+				 the crop that you have sown and the yield of the vineyard.
+			</verse>
+			<marker class="begin-verse" mid="v05022010">
+			</marker>
+			<verse num="10">
+				You shall not plow with an ox and a donkey together.
+			</verse>
+			<marker class="begin-verse" mid="v05022011">
+			</marker>
+			<verse num="11">
+				You shall not wear cloth of wool and linen mixed together.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05022012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				<crossref let="y" cid="c05022012.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall make yourself tassels on the four corners of the garment with which you cover yourself.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05022013">
+			</marker>
+			<heading
+				>
+				Laws Concerning Sexual Immorality
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If any man takes a wife and 
+				<crossref let="z" cid="c05022013.1">
+				</crossref>
+				goes in to her and then hates her
+			</verse>
+			<marker class="begin-verse" mid="v05022014">
+			</marker>
+			<verse num="14">
+				and accuses her of misconduct and brings a bad name upon her, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I took this woman, and when I came near her, I did not find in her evidence of virginity,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05022015">
+			</marker>
+			<verse num="15">
+				then the father of the young woman and her mother shall take and bring out the evidence of her virginity to the elders of the city in the gate.
+			</verse>
+			<marker class="begin-verse" mid="v05022016">
+			</marker>
+			<verse num="16">
+				And the father of the young woman shall say to the elders, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I gave my daughter to this man to marry, and he hates her;
+			</verse>
+			<marker class="begin-verse" mid="v05022017">
+			</marker>
+			<verse num="17">
+				and behold, he has accused her of misconduct, saying, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				I did not find in your daughter evidence of virginity.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				 And yet this is the evidence of my daughter's virginity.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 And they shall spread the cloak before the elders of the city.
+			</verse>
+			<marker class="begin-verse" mid="v05022018">
+			</marker>
+			<verse num="18">
+				Then the elders of that city shall take the man and whip
+				<note nid="n05022018.1">
+				</note>
+				 him,
+			</verse>
+			<marker class="begin-verse" mid="v05022019">
+			</marker>
+			<verse num="19">
+				and they shall fine him a hundred shekels
+				<note nid="n05022019.1">
+				</note>
+				 of silver and give them to the father of the young woman, because he has brought a bad name upon a virgin
+				<note nid="n05022019.2">
+				</note>
+				 of Israel. And she shall be his wife. 
+				<crossref let="a" cid="c05022019.1">
+				</crossref>
+				He may not divorce her all his days.
+			</verse>
+			<marker class="begin-verse" mid="v05022020">
+			</marker>
+			<verse num="20">
+				But if the thing is true, that evidence of virginity was not found in the young woman,
+			</verse>
+			<marker class="begin-verse" mid="v05022021">
+			</marker>
+			<verse num="21">
+				then they shall bring out the young woman to the door of her father's house, and 
+				<crossref let="b" cid="c05022021.1">
+				</crossref>
+				the men of her city shall stone her to death with stones, because she has 
+				<crossref let="c" cid="c05022021.2">
+				</crossref>
+				done an outrageous thing in Israel by whoring in her father's house. 
+				<crossref let="d" cid="c05022021.3">
+				</crossref>
+				So you shall purge the evil from your midst.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05022022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				<crossref let="e" cid="c05022022.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If a man is found lying with the wife of another man, both of them shall die, the man who lay with the woman, and the woman. 
+				<crossref let="d" cid="c05022022.2">
+				</crossref>
+				So you shall purge the evil from Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05022023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If there is a 
+				<crossref let="f" cid="c05022023.1">
+				</crossref>
+				betrothed virgin, and a man meets her in the city and lies with her,
+			</verse>
+			<marker class="begin-verse" mid="v05022024">
+			</marker>
+			<verse num="24">
+				then you shall bring them both out to the gate of that city, and you shall stone them to death with stones, the young woman because she did not cry for help though she was in the city, and the man because he violated his neighbor's wife. 
+				<crossref let="d" cid="c05022024.1">
+				</crossref>
+				So you shall purge the evil from your midst.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05022025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				But if in the open country a man meets a young woman who is betrothed, and the man seizes her and lies with her, then only the man who lay with her shall die.
+			</verse>
+			<marker class="begin-verse" mid="v05022026">
+			</marker>
+			<verse num="26">
+				But you shall do nothing to the young woman; she has committed no offense punishable by death. For this case is like that of a man attacking and murdering his neighbor,
+			</verse>
+			<marker class="begin-verse" mid="v05022027">
+			</marker>
+			<verse num="27">
+				because he met her in the open country, and though the betrothed young woman cried for help there was no one to rescue her.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05022028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				<crossref let="g" cid="c05022028.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If a man meets a virgin who is not betrothed, and seizes her and lies with her, and they are found,
+			</verse>
+			<marker class="begin-verse" mid="v05022029">
+			</marker>
+			<verse num="29">
+				then the man who lay with her shall give to the father of the young woman fifty shekels of silver, and she shall be his wife, because he has violated her. He may not divorce her all his days.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05022030">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="30">
+				<note nid="n05022030.1">
+				</note>
+				<crossref let="h" cid="c05022030.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				A man shall not take his father's wife, so that he does not 
+				<crossref let="i" cid="c05022030.2">
+				</crossref>
+				uncover his father's nakedness.
+				<note nid="n05022030.2">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

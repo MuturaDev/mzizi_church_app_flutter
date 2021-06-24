@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Romans" num="44">
+		<marker class="begin-verse" mid="v45004001">
+		</marker>
+		<chapter num="4">
+			<heading
+				>
+				Abraham Justified by Faith
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				What then shall we say was gained by
+				<note nid="n45004001.1">
+				</note>
+				 Abraham, 
+				<crossref let="t" cid="c45004001.1">
+				</crossref>
+				our forefather according to the flesh?
+			</verse>
+			<marker class="begin-verse" mid="v45004002">
+			</marker>
+			<verse num="2">
+				For if Abraham was justified by works, he has something to boast about, but 
+				<crossref let="u" cid="c45004002.1">
+				</crossref>
+				not before God.
+			</verse>
+			<marker class="begin-verse" mid="v45004003">
+			</marker>
+			<verse num="3">
+				For what does the Scripture say? 
+				<crossref let="v" cid="c45004003.1">
+				</crossref>
+				<crossref cid="t45004003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Abraham believed God, and it was counted to him as righteousness.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v45004004">
+			</marker>
+			<verse num="4">
+				Now 
+				<crossref let="w" cid="c45004004.1">
+				</crossref>
+				to the one who works, his wages are not counted as a gift but as his due.
+			</verse>
+			<marker class="begin-verse" mid="v45004005">
+			</marker>
+			<verse num="5">
+				And to the one who does not work but 
+				<crossref let="x" cid="c45004005.1">
+				</crossref>
+				believes in
+				<note nid="n45004005.1">
+				</note>
+				 him who justifies the ungodly, his faith is counted as righteousness,
+			</verse>
+			<marker class="begin-verse" mid="v45004006">
+			</marker>
+			<verse num="6">
+				just as David also speaks of the blessing of the one to whom God counts righteousness apart from works:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45004007">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c45004007.1">
+				</crossref>
+				<crossref cid="t45004007.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Blessed are those whose lawless deeds are forgiven,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and whose sins are covered;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v45004008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				blessed is the man against whom the Lord will not 
+				<crossref let="z" cid="c45004008.1">
+				</crossref>
+				count his sin.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v45004009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				Is this blessing then only for 
+				<crossref let="a" cid="c45004009.1">
+				</crossref>
+				the circumcised, or also for the uncircumcised? 
+				<crossref let="b" cid="c45004009.2">
+				</crossref>
+				We say that faith was counted to Abraham as righteousness.
+			</verse>
+			<marker class="begin-verse" mid="v45004010">
+			</marker>
+			<verse num="10">
+				How then was it counted to him? Was it before or after he had been circumcised? It was not after, but before he was circumcised.
+			</verse>
+			<marker class="begin-verse" mid="v45004011">
+			</marker>
+			<verse num="11">
+				<crossref let="c" cid="c45004011.1">
+				</crossref>
+				He received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised. The purpose was 
+				<crossref let="d" cid="c45004011.2">
+				</crossref>
+				to make him the father of all who believe without being circumcised, so that righteousness would be counted to them as well,
+			</verse>
+			<marker class="begin-verse" mid="v45004012">
+			</marker>
+			<verse num="12">
+				and to make him the father of the circumcised who are not merely circumcised but who also walk in the footsteps of the faith that our father Abraham had before he was circumcised.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45004013">
+			</marker>
+			<heading
+				>
+				The Promise Realized Through Faith
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				For 
+				<crossref let="e" cid="c45004013.1">
+				</crossref>
+				the promise to Abraham and his offspring 
+				<crossref let="f" cid="c45004013.2">
+				</crossref>
+				that he would be heir of the world did not come through the law but through the righteousness of faith.
+			</verse>
+			<marker class="begin-verse" mid="v45004014">
+			</marker>
+			<verse num="14">
+				<crossref let="g" cid="c45004014.1">
+				</crossref>
+				For if it is the adherents of the law who are to be the heirs, faith is null and the promise is void.
+			</verse>
+			<marker class="begin-verse" mid="v45004015">
+			</marker>
+			<verse num="15">
+				For 
+				<crossref let="h" cid="c45004015.1">
+				</crossref>
+				the law brings wrath, but 
+				<crossref let="i" cid="c45004015.2">
+				</crossref>
+				where there is no law 
+				<crossref let="j" cid="c45004015.3">
+				</crossref>
+				there is no transgression.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45004016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				That is why it depends on faith, 
+				<crossref let="k" cid="c45004016.1">
+				</crossref>
+				in order that the promise may rest on grace and 
+				<crossref let="l" cid="c45004016.2">
+				</crossref>
+				be guaranteed to all his offspringùnot only to the adherent of the law but also to the one who shares the faith of Abraham, 
+				<crossref let="m" cid="c45004016.3">
+				</crossref>
+				who is the father of us all,
+			</verse>
+			<marker class="begin-verse" mid="v45004017">
+			</marker>
+			<verse num="17">
+				as it is written, 
+				<crossref let="n" cid="c45004017.1">
+				</crossref>
+				<crossref cid="t45004017.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have made you the father of many nations
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				ùin the presence of the God in whom he believed, 
+				<crossref let="o" cid="c45004017.2">
+				</crossref>
+				who gives life to the dead and calls into existence 
+				<crossref let="p" cid="c45004017.3">
+				</crossref>
+				the things that do not exist.
+			</verse>
+			<marker class="begin-verse" mid="v45004018">
+			</marker>
+			<verse num="18">
+				In hope he believed against hope, that he should become the father of many nations, as he had been told, 
+				<crossref let="q" cid="c45004018.1">
+				</crossref>
+				<crossref cid="t45004018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				So shall your offspring be.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v45004019">
+			</marker>
+			<verse num="19">
+				He did not weaken in faith when he considered his own body, which was 
+				<crossref let="r" cid="c45004019.1">
+				</crossref>
+				as good as dead (
+				<crossref let="s" cid="c45004019.2">
+				</crossref>
+				since he was about a hundred years old), or when he considered 
+				<crossref let="t" cid="c45004019.3">
+				</crossref>
+				the barrenness of Sarah's womb.
+			</verse>
+			<marker class="begin-verse" mid="v45004020">
+			</marker>
+			<verse num="20">
+				No distrust made him waver concerning the promise of God, but he grew strong in his faith as he gave glory to God,
+			</verse>
+			<marker class="begin-verse" mid="v45004021">
+			</marker>
+			<verse num="21">
+				fully convinced that 
+				<crossref let="u" cid="c45004021.1">
+				</crossref>
+				God was able to do what he had promised.
+			</verse>
+			<marker class="begin-verse" mid="v45004022">
+			</marker>
+			<verse num="22">
+				That is why his faith was 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				counted to him as righteousness.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v45004023">
+			</marker>
+			<verse num="23">
+				But 
+				<crossref let="v" cid="c45004023.1">
+				</crossref>
+				the words 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				it was counted to him
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 were not written for his sake alone,
+			</verse>
+			<marker class="begin-verse" mid="v45004024">
+			</marker>
+			<verse num="24">
+				but for ours also. It will be counted to us 
+				<crossref let="w" cid="c45004024.1">
+				</crossref>
+				who believe in 
+				<crossref let="x" cid="c45004024.2">
+				</crossref>
+				him who raised from the dead Jesus our Lord,
+			</verse>
+			<marker class="begin-verse" mid="v45004025">
+			</marker>
+			<verse num="25">
+				<crossref let="y" cid="c45004025.1">
+				</crossref>
+				who was delivered up for our trespasses and raised 
+				<crossref let="z" cid="c45004025.2">
+				</crossref>
+				for our justification.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

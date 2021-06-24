@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40016001">
+		</marker>
+		<chapter num="16">
+			<heading
+				>
+				The Pharisees and Sadducees Demand Signs
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="f" cid="c40016001.1">
+				</crossref>
+				<crossref cid="t40016001.1">
+				</crossref>
+				And the Pharisees and Sadducees came, and 
+				<crossref let="g" cid="c40016001.2">
+				</crossref>
+				to test him 
+				<crossref let="h" cid="c40016001.3">
+				</crossref>
+				they asked him to show them 
+				<crossref let="i" cid="c40016001.4">
+				</crossref>
+				a sign from heaven.
+			</verse>
+			<marker class="begin-verse" mid="v40016002">
+			</marker>
+			<verse num="2">
+				He answered them,
+				<note nid="n40016002.1">
+				</note>
+				<woc
+					>
+					<crossref let="j" cid="c40016002.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					When it is evening, you say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					It will be fair weather, for the sky is red.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016003">
+			</marker>
+			<verse num="3" class="woc">
+				<woc
+					>
+					And in the morning, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					It will be stormy today, for the sky is red and threatening.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<crossref let="k" cid="c40016003.1">
+					</crossref>
+					You know how to interpret the appearance of the sky, but you cannot interpret 
+					<crossref let="l" cid="c40016003.2">
+					</crossref>
+					the signs of the times.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016004">
+			</marker>
+			<verse num="4" class="woc">
+				<woc
+					>
+					<crossref let="m" cid="c40016004.1">
+					</crossref>
+					An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 So 
+				<crossref let="n" cid="c40016004.2">
+				</crossref>
+				he left them and departed.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40016005">
+			</marker>
+			<heading
+				>
+				The Leaven of the Pharisees and Sadducees
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				When the disciples reached the other side, they had forgotten to bring any bread.
+			</verse>
+			<marker class="begin-verse" mid="v40016006">
+			</marker>
+			<verse num="6">
+				Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Watch and 
+					<crossref let="o" cid="c40016006.1">
+					</crossref>
+					beware of 
+					<crossref let="p" cid="c40016006.2">
+					</crossref>
+					the leaven of the Pharisees and Sadducees.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016007">
+			</marker>
+			<verse num="7">
+				And they began discussing it among themselves, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We brought no bread.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40016008">
+			</marker>
+			<verse num="8">
+				But 
+				<crossref let="q" cid="c40016008.1">
+				</crossref>
+				Jesus, aware of this, said, 
+				<woc
+					>
+					<crossref let="r" cid="c40016008.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					O you of little faith, why are you discussing among yourselves the fact that you have no bread?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016009">
+			</marker>
+			<verse num="9" class="woc">
+				<woc
+					>
+					<crossref let="s" cid="c40016009.1">
+					</crossref>
+					Do you not yet perceive? Do you not remember 
+					<crossref let="t" cid="c40016009.2">
+					</crossref>
+					the five loaves for the five thousand, and how many baskets you gathered?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					Or 
+					<crossref let="u" cid="c40016010.1">
+					</crossref>
+					the seven loaves for the four thousand, and how many baskets you gathered?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016011">
+			</marker>
+			<verse num="11" class="woc">
+				<woc
+					>
+					How is it that you fail to understand that I did not speak about bread? 
+					<crossref let="o" cid="c40016011.1">
+					</crossref>
+					Beware of the leaven of the Pharisees and Sadducees.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016012">
+			</marker>
+			<verse num="12">
+				<crossref let="v" cid="c40016012.1">
+				</crossref>
+				Then they understood that he did not tell them to beware of the leaven of bread, but of 
+				<crossref let="w" cid="c40016012.2">
+				</crossref>
+				the teaching of the Pharisees and Sadducees.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40016013">
+			</marker>
+			<heading
+				>
+				Peter Confesses Jesus as the Christ
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				<crossref let="x" cid="c40016013.1">
+				</crossref>
+				<crossref cid="t40016013.1">
+				</crossref>
+				Now when Jesus came into the district of Caesarea Philippi, he asked his disciples, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Who do people say that the Son of Man is?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016014">
+			</marker>
+			<verse num="14">
+				And they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Some say 
+				<crossref let="y" cid="c40016014.1">
+				</crossref>
+				John the Baptist, others say 
+				<crossref let="z" cid="c40016014.2">
+				</crossref>
+				Elijah, and others Jeremiah or one of the prophets.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40016015">
+			</marker>
+			<verse num="15">
+				He said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					But who do you say that I am?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016016">
+			</marker>
+			<verse num="16">
+				Simon Peter replied, 
+				<crossref let="a" cid="c40016016.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are 
+				<crossref let="b" cid="c40016016.2">
+				</crossref>
+				the Christ, 
+				<crossref let="c" cid="c40016016.3">
+				</crossref>
+				the Son of 
+				<crossref let="d" cid="c40016016.4">
+				</crossref>
+				the living God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40016017">
+			</marker>
+			<verse num="17">
+				And Jesus answered him, 
+				<woc
+					>
+					<crossref let="e" cid="c40016017.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Blessed are you, 
+					<crossref let="f" cid="c40016017.2">
+					</crossref>
+					Simon Bar-Jonah! For 
+					<crossref let="g" cid="c40016017.3">
+					</crossref>
+					flesh and blood has not revealed this to you, 
+					<crossref let="h" cid="c40016017.4">
+					</crossref>
+					but my Father who is in heaven.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					And I tell you, 
+					<crossref let="i" cid="c40016018.1">
+					</crossref>
+					you are Peter, and 
+					<crossref let="j" cid="c40016018.2">
+					</crossref>
+					on this rock
+					<note nid="n40016018.1">
+					</note>
+					 I will build my church, and 
+					<crossref let="k" cid="c40016018.3">
+					</crossref>
+					the gates of 
+					<crossref let="l" cid="c40016018.4">
+					</crossref>
+					hell
+					<note nid="n40016018.2">
+					</note>
+					 shall not prevail against it.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					I will give you 
+					<crossref let="m" cid="c40016019.1">
+					</crossref>
+					the keys of the kingdom of heaven, and 
+					<crossref let="n" cid="c40016019.2">
+					</crossref>
+					whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed
+					<note nid="n40016019.1">
+					</note>
+					 in heaven.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016020">
+			</marker>
+			<verse num="20">
+				<crossref let="o" cid="c40016020.1">
+				</crossref>
+				Then he strictly charged the disciples to tell no one that he was the Christ.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40016021">
+			</marker>
+			<heading
+				>
+				Jesus Foretells His Death and Resurrection
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<crossref let="p" cid="c40016021.1">
+				</crossref>
+				<crossref cid="t40016021.1">
+				</crossref>
+				From that time Jesus began to show his disciples that 
+				<crossref let="q" cid="c40016021.2">
+				</crossref>
+				he must go to Jerusalem and 
+				<crossref let="r" cid="c40016021.3">
+				</crossref>
+				suffer many things from the elders and chief priests and scribes, and be killed, and on 
+				<crossref let="s" cid="c40016021.4">
+				</crossref>
+				the third day be raised.
+			</verse>
+			<marker class="begin-verse" mid="v40016022">
+			</marker>
+			<verse num="22">
+				And Peter took him aside and began to rebuke him, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Far be it from you, Lord!
+				<note nid="n40016022.1">
+				</note>
+				 This shall never happen to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40016023">
+			</marker>
+			<verse num="23">
+				But he turned and said to Peter, 
+				<woc
+					>
+					<crossref let="t" cid="c40016023.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Get behind me, Satan! You are 
+					<crossref let="u" cid="c40016023.2">
+					</crossref>
+					a hindrance
+					<note nid="n40016023.1">
+					</note>
+					 to me. For you 
+					<crossref let="v" cid="c40016023.3">
+					</crossref>
+					are not setting your mind on the things of God, but on the things of man.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40016024">
+			</marker>
+			<heading
+				>
+				Take Up Your Cross and Follow Jesus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				Then Jesus told his disciples, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If anyone would come after me, let him 
+					<crossref let="w" cid="c40016024.1">
+					</crossref>
+					deny himself and 
+					<crossref let="x" cid="c40016024.2">
+					</crossref>
+					take up his cross and follow me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016025">
+			</marker>
+			<verse num="25" class="woc">
+				<woc
+					>
+					For 
+					<crossref let="x" cid="c40016025.1">
+					</crossref>
+					whoever would save his life
+					<note nid="n40016025.1">
+					</note>
+					 will lose it, but whoever loses his life for my sake will find it.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					For 
+					<crossref let="y" cid="c40016026.1">
+					</crossref>
+					what will it profit a man if he gains the whole world and forfeits his soul? Or 
+					<crossref let="z" cid="c40016026.2">
+					</crossref>
+					what shall a man give in return for his soul?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016027">
+			</marker>
+			<verse num="27" class="woc">
+				<woc
+					>
+					<crossref let="a" cid="c40016027.1">
+					</crossref>
+					For the Son of Man is going to come with 
+					<crossref let="b" cid="c40016027.2">
+					</crossref>
+					his angels in the glory of his Father, and 
+					<crossref let="c" cid="c40016027.3">
+					</crossref>
+					then he will repay each person according to what he has done.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40016028">
+			</marker>
+			<verse num="28" class="woc">
+				<woc
+					>
+					Truly, I say to you, there are some standing here who will not 
+					<crossref let="d" cid="c40016028.1">
+					</crossref>
+					taste death 
+					<crossref let="e" cid="c40016028.2">
+					</crossref>
+					until they see the Son of Man 
+					<crossref let="f" cid="c40016028.3">
+					</crossref>
+					coming in his kingdom.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

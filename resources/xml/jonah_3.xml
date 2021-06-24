@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Jonah" num="31">
+		<marker class="begin-verse" mid="v32003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				Jonah Goes to Nineveh
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to Jonah the second time, saying,
+			</verse>
+			<marker class="begin-verse" mid="v32003002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Arise, go to 
+				<crossref let="l" cid="c32003002.1">
+				</crossref>
+				Nineveh, that great city, and call out against it the message that I tell you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v32003003">
+			</marker>
+			<verse num="3">
+				So Jonah arose and went to Nineveh, according to the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. Now 
+				<crossref let="l" cid="c32003003.1">
+				</crossref>
+				Nineveh was an exceedingly great city,
+				<note nid="n32003003.1">
+				</note>
+				 three days' journey in breadth.
+				<note nid="n32003003.2">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v32003004">
+			</marker>
+			<verse num="4">
+				Jonah began to go into the city, going a day's journey. And he called out, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Yet forty days, and Nineveh shall be overthrown!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v32003005">
+			</marker>
+			<verse num="5">
+				<crossref let="m" cid="c32003005.1">
+				</crossref>
+				And the people of Nineveh believed God. 
+				<crossref let="n" cid="c32003005.2">
+				</crossref>
+				They called for a fast and 
+				<crossref let="o" cid="c32003005.3">
+				</crossref>
+				put on sackcloth, from the greatest of them to the least of them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v32003006">
+			</marker>
+			<heading
+				>
+				The People of Nineveh Repent
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				The word reached
+				<note nid="n32003006.1">
+				</note>
+				 the king of Nineveh, and 
+				<crossref let="p" cid="c32003006.1">
+				</crossref>
+				he arose from his throne, removed his robe, covered himself with sackcloth, 
+				<crossref let="q" cid="c32003006.2">
+				</crossref>
+				and sat in ashes.
+			</verse>
+			<marker class="begin-verse" mid="v32003007">
+			</marker>
+			<verse num="7">
+				And he issued a proclamation and published through Nineveh, 
+				<crossref let="r" cid="c32003007.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				By the decree of the king and his nobles: Let neither man nor 
+				<crossref let="s" cid="c32003007.2">
+				</crossref>
+				beast, herd nor flock, taste anything. Let them not feed or drink water,
+			</verse>
+			<marker class="begin-verse" mid="v32003008">
+			</marker>
+			<verse num="8">
+				but let man and 
+				<crossref let="s" cid="c32003008.1">
+				</crossref>
+				beast be covered with sackcloth, and let them call out mightily to God. 
+				<crossref let="t" cid="c32003008.2">
+				</crossref>
+				Let everyone turn from his evil way and from 
+				<crossref let="u" cid="c32003008.3">
+				</crossref>
+				the violence that is in his hands.
+			</verse>
+			<marker class="begin-verse" mid="v32003009">
+			</marker>
+			<verse num="9">
+				<crossref let="v" cid="c32003009.1">
+				</crossref>
+				Who knows? God may turn and relent 
+				<crossref let="w" cid="c32003009.2">
+				</crossref>
+				and turn from his fierce anger, so that we may not perish.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v32003010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				When God saw what they did, 
+				<crossref let="x" cid="c32003010.1">
+				</crossref>
+				how they turned from their evil way, 
+				<crossref let="x" cid="c32003010.2">
+				</crossref>
+				God relented of the disaster that he had said he would do to them, and he did not do it.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

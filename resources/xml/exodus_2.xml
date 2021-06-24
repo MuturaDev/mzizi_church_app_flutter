@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				The Birth of Moses
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now a 
+				<crossref let="t" cid="c02002001.1">
+				</crossref>
+				man from the house of Levi went and took as his wife a Levite woman.
+			</verse>
+			<marker class="begin-verse" mid="v02002002">
+			</marker>
+			<verse num="2">
+				The woman conceived and bore a son, and 
+				<crossref let="u" cid="c02002002.1">
+				</crossref>
+				when she saw that he was a fine child, she hid him three months.
+			</verse>
+			<marker class="begin-verse" mid="v02002003">
+			</marker>
+			<verse num="3">
+				When she could hide him no longer, she took for him a basket made of bulrushes
+				<note nid="n02002003.1">
+				</note>
+				 and daubed it with bitumen and pitch. She put the child in it and placed it among the 
+				<crossref let="v" cid="c02002003.1">
+				</crossref>
+				reeds by the river bank.
+			</verse>
+			<marker class="begin-verse" mid="v02002004">
+			</marker>
+			<verse num="4">
+				And 
+				<crossref let="w" cid="c02002004.1">
+				</crossref>
+				his sister stood at a distance to know what would be done to him.
+			</verse>
+			<marker class="begin-verse" mid="v02002005">
+			</marker>
+			<verse num="5">
+				Now the daughter of Pharaoh came down to bathe at the river, while her young women walked beside the river. She saw the basket among the reeds and sent her servant woman, and she took it.
+			</verse>
+			<marker class="begin-verse" mid="v02002006">
+			</marker>
+			<verse num="6">
+				When she opened it, she saw the child, and behold, the baby was crying. She took pity on him and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is one of the Hebrews' children.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02002007">
+			</marker>
+			<verse num="7">
+				Then his sister said to Pharaoh's daughter, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Shall I go and call you a nurse from the Hebrew women to nurse the child for you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02002008">
+			</marker>
+			<verse num="8">
+				And Pharaoh's daughter said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So the girl went and called the child's mother.
+			</verse>
+			<marker class="begin-verse" mid="v02002009">
+			</marker>
+			<verse num="9">
+				And Pharaoh's daughter said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take this child away and nurse him for me, and I will give you your wages.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So the woman took the child and nursed him.
+			</verse>
+			<marker class="begin-verse" mid="v02002010">
+			</marker>
+			<verse num="10">
+				When the child grew up, she brought him to Pharaoh's daughter, and he became 
+				<crossref let="x" cid="c02002010.1">
+				</crossref>
+				her son. She named him Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 she said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I 
+				<crossref let="y" cid="c02002010.2">
+				</crossref>
+				drew him out of the water.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n02002010.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02002011">
+			</marker>
+			<heading
+				>
+				Moses Flees to Midian
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				One day, 
+				<crossref let="z" cid="c02002011.1">
+				</crossref>
+				when Moses had grown up, he went out to his people and looked on their 
+				<crossref let="a" cid="c02002011.2">
+				</crossref>
+				burdens, and he saw an Egyptian beating a Hebrew, one of his people.
+				<note nid="n02002011.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v02002012">
+			</marker>
+			<verse num="12">
+				He looked this way and that, and seeing no one, he 
+				<crossref let="b" cid="c02002012.1">
+				</crossref>
+				struck down the Egyptian and hid him in the sand.
+			</verse>
+			<marker class="begin-verse" mid="v02002013">
+			</marker>
+			<verse num="13">
+				When 
+				<crossref let="c" cid="c02002013.1">
+				</crossref>
+				he went out the next day, behold, two Hebrews were struggling together. And he said to the man in the wrong, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do you strike your companion?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02002014">
+			</marker>
+			<verse num="14">
+				He answered, 
+				<crossref let="d" cid="c02002014.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who made you a prince and a judge over us? Do you mean to kill me as you killed the Egyptian?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Then Moses was afraid, and thought, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Surely the thing is known.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02002015">
+			</marker>
+			<verse num="15">
+				When Pharaoh heard of it, he sought to kill Moses. But 
+				<crossref let="e" cid="c02002015.1">
+				</crossref>
+				Moses fled from Pharaoh and stayed in the land of Midian. And he sat down by 
+				<crossref let="f" cid="c02002015.2">
+				</crossref>
+				a well.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02002016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				Now the 
+				<crossref let="g" cid="c02002016.1">
+				</crossref>
+				priest of Midian had seven daughters, and 
+				<crossref let="h" cid="c02002016.2">
+				</crossref>
+				they came and drew water and filled the troughs to water their father's flock.
+			</verse>
+			<marker class="begin-verse" mid="v02002017">
+			</marker>
+			<verse num="17">
+				The shepherds came and drove them away, but Moses stood up and saved them, and 
+				<crossref let="i" cid="c02002017.1">
+				</crossref>
+				watered their flock.
+			</verse>
+			<marker class="begin-verse" mid="v02002018">
+			</marker>
+			<verse num="18">
+				When they came home to their father 
+				<crossref let="j" cid="c02002018.1">
+				</crossref>
+				Reuel, he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How is it that you have come home so soon today?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02002019">
+			</marker>
+			<verse num="19">
+				They said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				An Egyptian delivered us out of the hand of the shepherds and even drew water for us and 
+				<crossref let="i" cid="c02002019.1">
+				</crossref>
+				watered the flock.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02002020">
+			</marker>
+			<verse num="20">
+				He said to his daughters, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Then where is he? Why have you left the man? Call him, that he may 
+				<crossref let="k" cid="c02002020.1">
+				</crossref>
+				eat bread.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02002021">
+			</marker>
+			<verse num="21">
+				And Moses was content to dwell with the man, and he gave Moses his daughter 
+				<crossref let="l" cid="c02002021.1">
+				</crossref>
+				Zipporah.
+			</verse>
+			<marker class="begin-verse" mid="v02002022">
+			</marker>
+			<verse num="22">
+				She gave birth to a son, and he called his name 
+				<crossref let="m" cid="c02002022.1">
+				</crossref>
+				Gershom, for he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have been a 
+				<crossref let="n" cid="c02002022.2">
+				</crossref>
+				sojourner
+				<note nid="n02002022.1">
+				</note>
+				 in a foreign land.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02002023">
+			</marker>
+			<heading
+				>
+				God Hears Israel's Groaning
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				<crossref let="o" cid="c02002023.1">
+				</crossref>
+				During those many days the king of Egypt died, and the people of Israel 
+				<crossref let="p" cid="c02002023.2">
+				</crossref>
+				groaned because of their slavery and cried out for help. 
+				<crossref let="q" cid="c02002023.3">
+				</crossref>
+				Their cry for rescue from slavery came up to God.
+			</verse>
+			<marker class="begin-verse" mid="v02002024">
+			</marker>
+			<verse num="24">
+				And 
+				<crossref let="r" cid="c02002024.1">
+				</crossref>
+				God heard their groaning, and God 
+				<crossref let="s" cid="c02002024.2">
+				</crossref>
+				remembered his covenant with 
+				<crossref let="t" cid="c02002024.3">
+				</crossref>
+				Abraham, with Isaac, and with Jacob.
+			</verse>
+			<marker class="begin-verse" mid="v02002025">
+			</marker>
+			<verse num="25">
+				God 
+				<crossref let="u" cid="c02002025.1">
+				</crossref>
+				saw the people of Israelùand God 
+				<crossref let="v" cid="c02002025.2">
+				</crossref>
+				knew.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

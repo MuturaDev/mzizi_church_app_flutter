@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19130001">
+		</marker>
+		<chapter num="130">
+			<heading
+				>
+				My Soul Waits for the Lord
+			</heading>
+			<subheading class="psalm-title">
+				A Song of 
+				<crossref let="m" cid="c19130001.1">
+				</crossref>
+				Ascents.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Out of 
+				<crossref let="c" cid="c19130001.2">
+				</crossref>
+				the depths I cry to you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19130002">
+			</marker>
+			<verse num="2">
+				<begin-line class="indent">
+				</begin-line>
+				O Lord, hear my voice!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c19130002.1">
+				</crossref>
+				Let your ears be attentive
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to 
+				<crossref let="e" cid="c19130002.2">
+				</crossref>
+				the voice of my pleas for mercy!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19130003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				If you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, should 
+				<crossref let="f" cid="c19130003.1">
+				</crossref>
+				mark iniquities,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O Lord, who could 
+				<crossref let="g" cid="c19130003.2">
+				</crossref>
+				stand?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19130004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				But with you there is 
+				<crossref let="h" cid="c19130004.1">
+				</crossref>
+				forgiveness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c19130004.2">
+				</crossref>
+				that you may be feared.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19130005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="j" cid="c19130005.1">
+				</crossref>
+				wait for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="k" cid="c19130005.2">
+				</crossref>
+				my soul waits,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="l" cid="c19130005.3">
+				</crossref>
+				in his word I hope;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19130006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				my soul 
+				<crossref let="m" cid="c19130006.1">
+				</crossref>
+				waits for the Lord
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				more than 
+				<crossref let="n" cid="c19130006.2">
+				</crossref>
+				watchmen for 
+				<crossref let="o" cid="c19130006.3">
+				</crossref>
+				the morning,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				more than watchmen for the morning.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19130007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				O Israel, 
+				<crossref let="p" cid="c19130007.1">
+				</crossref>
+				hope in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				For 
+				<crossref let="q" cid="c19130007.2">
+				</crossref>
+				with the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 there is steadfast love,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and with him is plentiful redemption.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19130008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				And he will 
+				<crossref let="r" cid="c19130008.1">
+				</crossref>
+				redeem Israel
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from all his iniquities.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

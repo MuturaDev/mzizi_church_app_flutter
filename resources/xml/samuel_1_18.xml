@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09018001">
+		</marker>
+		<chapter num="18">
+			<heading
+				>
+				David and Jonathan's Friendship
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				As soon as he had finished speaking to Saul, the soul of Jonathan was knit to the soul of David, and Jonathan 
+				<crossref let="d" cid="c09018001.1">
+				</crossref>
+				loved him as his own soul.
+			</verse>
+			<marker class="begin-verse" mid="v09018002">
+			</marker>
+			<verse num="2">
+				And Saul took him that day 
+				<crossref let="e" cid="c09018002.1">
+				</crossref>
+				and would not let him return to his father's house.
+			</verse>
+			<marker class="begin-verse" mid="v09018003">
+			</marker>
+			<verse num="3">
+				Then Jonathan made a covenant with David, because 
+				<crossref let="d" cid="c09018003.1">
+				</crossref>
+				he loved him as his own soul.
+			</verse>
+			<marker class="begin-verse" mid="v09018004">
+			</marker>
+			<verse num="4">
+				And Jonathan stripped himself of the robe that was on him and gave it to David, and his armor, and even his sword and his bow and his belt.
+			</verse>
+			<marker class="begin-verse" mid="v09018005">
+			</marker>
+			<verse num="5">
+				And David went out 
+				<crossref let="f" cid="c09018005.1">
+				</crossref>
+				and was successful wherever Saul sent him, so that Saul set him over the men of war. And this was good in the sight of all the people and also in the sight of Saul's servants.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09018006">
+			</marker>
+			<heading
+				>
+				Saul's Jealousy of David
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				As they were coming home, when David returned from striking down the Philistine, 
+				<crossref let="g" cid="c09018006.1">
+				</crossref>
+				the women came out of all the cities of Israel, singing and dancing, to meet King Saul, with tambourines, with songs of joy, and with musical instruments.
+				<note nid="n09018006.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v09018007">
+			</marker>
+			<verse num="7">
+				And the women 
+				<crossref let="h" cid="c09018007.1">
+				</crossref>
+				sang to one another as they celebrated,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c09018007.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Saul has struck down his thousands,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and David his ten thousands.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v09018008">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="8">
+				And Saul was very angry, and this saying displeased him. He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				They have ascribed to David ten thousands, and to me they have ascribed thousands, and what more can he have but 
+				<crossref let="j" cid="c09018008.1">
+				</crossref>
+				the kingdom?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09018009">
+			</marker>
+			<verse num="9">
+				And Saul eyed David from that day on.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09018010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				The next day 
+				<crossref let="k" cid="c09018010.1">
+				</crossref>
+				a harmful spirit from God rushed upon Saul, and 
+				<crossref let="l" cid="c09018010.2">
+				</crossref>
+				he raved within his house while David was 
+				<crossref let="m" cid="c09018010.3">
+				</crossref>
+				playing the lyre, as he did day by day. 
+				<crossref let="n" cid="c09018010.4">
+				</crossref>
+				Saul had his spear in his hand.
+			</verse>
+			<marker class="begin-verse" mid="v09018011">
+			</marker>
+			<verse num="11">
+				And Saul 
+				<crossref let="o" cid="c09018011.1">
+				</crossref>
+				hurled the spear, for he thought, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will pin David to the wall.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But David evaded him twice.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09018012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				<crossref let="p" cid="c09018012.1">
+				</crossref>
+				Saul was afraid of David because 
+				<crossref let="q" cid="c09018012.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 was with him 
+				<crossref let="r" cid="c09018012.3">
+				</crossref>
+				but had departed from Saul.
+			</verse>
+			<marker class="begin-verse" mid="v09018013">
+			</marker>
+			<verse num="13">
+				So Saul removed him from his presence and made him a commander of a thousand. 
+				<crossref let="s" cid="c09018013.1">
+				</crossref>
+				And he went out and came in before the people.
+			</verse>
+			<marker class="begin-verse" mid="v09018014">
+			</marker>
+			<verse num="14">
+				And David 
+				<crossref let="t" cid="c09018014.1">
+				</crossref>
+				had success in all his undertakings, 
+				<crossref let="q" cid="c09018014.2">
+				</crossref>
+				for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 was with him.
+			</verse>
+			<marker class="begin-verse" mid="v09018015">
+			</marker>
+			<verse num="15">
+				And when Saul saw that 
+				<crossref let="t" cid="c09018015.1">
+				</crossref>
+				he had great success, he stood in fearful awe of him.
+			</verse>
+			<marker class="begin-verse" mid="v09018016">
+			</marker>
+			<verse num="16">
+				<crossref let="u" cid="c09018016.1">
+				</crossref>
+				But all Israel and Judah loved David, for he went out and came in before them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09018017">
+			</marker>
+			<heading
+				>
+				David Marries Michal
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				Then Saul said to David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Here is 
+				<crossref let="v" cid="c09018017.1">
+				</crossref>
+				my elder daughter Merab. 
+				<crossref let="w" cid="c09018017.2">
+				</crossref>
+				I will give her to you for a wife. Only be valiant for me 
+				<crossref let="x" cid="c09018017.3">
+				</crossref>
+				and fight the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's battles.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 For Saul thought, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let not my hand be against him, 
+				<crossref let="y" cid="c09018017.4">
+				</crossref>
+				but let the hand of the Philistines be against him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09018018">
+			</marker>
+			<verse num="18">
+				And David said to Saul, 
+				<crossref let="z" cid="c09018018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who am I, and who are my relatives, my father's clan in Israel, that I should be son-in-law to the king?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09018019">
+			</marker>
+			<verse num="19">
+				But at the time when Merab, Saul's daughter, should have been given to David, she was given to 
+				<crossref let="a" cid="c09018019.1">
+				</crossref>
+				Adriel the 
+				<crossref let="b" cid="c09018019.2">
+				</crossref>
+				Meholathite for a wife.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09018020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				Now 
+				<crossref let="v" cid="c09018020.1">
+				</crossref>
+				Saul's daughter Michal 
+				<crossref let="c" cid="c09018020.2">
+				</crossref>
+				loved David. And they told Saul, and the thing pleased him.
+			</verse>
+			<marker class="begin-verse" mid="v09018021">
+			</marker>
+			<verse num="21">
+				Saul thought, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let me give her to him, that she may 
+				<crossref let="d" cid="c09018021.1">
+				</crossref>
+				be a snare for him 
+				<crossref let="e" cid="c09018021.2">
+				</crossref>
+				and that the hand of the Philistines may be against him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Therefore Saul said to David a second time,
+				<note nid="n09018021.1">
+				</note>
+				<crossref let="f" cid="c09018021.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You shall now be my son-in-law.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09018022">
+			</marker>
+			<verse num="22">
+				And Saul commanded his servants, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Speak to David in private and say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Behold, the king has delight in you, and all his servants love you. Now then become the king's son-in-law.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09018023">
+			</marker>
+			<verse num="23">
+				And Saul's servants spoke those words in the ears of David. And David said, 
+				<crossref let="g" cid="c09018023.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Does it seem to you a little thing to become the king's son-in-law, since I am a poor man and have no reputation?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09018024">
+			</marker>
+			<verse num="24">
+				And the servants of Saul told him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus and so did David speak.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09018025">
+			</marker>
+			<verse num="25">
+				Then Saul said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus shall you say to David, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The king desires no 
+				<crossref let="h" cid="c09018025.1">
+				</crossref>
+				bride-price except a hundred foreskins of the Philistines, 
+				<crossref let="i" cid="c09018025.2">
+				</crossref>
+				that he may be avenged of the king's enemies.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<crossref let="j" cid="c09018025.3">
+				</crossref>
+				Now Saul thought to make David fall by the hand of the Philistines.
+			</verse>
+			<marker class="begin-verse" mid="v09018026">
+			</marker>
+			<verse num="26">
+				And when his servants told David these words, it pleased David well to be the king's son-in-law. 
+				<crossref let="k" cid="c09018026.1">
+				</crossref>
+				Before the time had expired,
+			</verse>
+			<marker class="begin-verse" mid="v09018027">
+			</marker>
+			<verse num="27">
+				David arose and went, 
+				<crossref let="l" cid="c09018027.1">
+				</crossref>
+				along with his men, and killed two hundred of the Philistines. 
+				<crossref let="m" cid="c09018027.2">
+				</crossref>
+				And David brought their foreskins, which were given in full number to the king, that he might become the king's son-in-law. And Saul gave him his daughter Michal for a wife.
+			</verse>
+			<marker class="begin-verse" mid="v09018028">
+			</marker>
+			<verse num="28">
+				But when Saul saw and knew that 
+				<crossref let="n" cid="c09018028.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 was with David, 
+				<crossref let="o" cid="c09018028.2">
+				</crossref>
+				and that Michal, Saul's daughter, loved him,
+			</verse>
+			<marker class="begin-verse" mid="v09018029">
+			</marker>
+			<verse num="29">
+				Saul was even more afraid of David. So Saul was David's enemy continually.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09018030">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="30">
+				<crossref let="p" cid="c09018030.1">
+				</crossref>
+				Then the princes of the Philistines came out to battle, and as often as they came out 
+				<crossref let="q" cid="c09018030.2">
+				</crossref>
+				David had more success than all the servants of Saul, so that his name was highly esteemed.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

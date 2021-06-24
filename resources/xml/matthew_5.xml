@@ -1,0 +1,901 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40005001">
+		</marker>
+		<chapter num="5">
+			<heading
+				>
+				The Sermon on the Mount
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Seeing the crowds, 
+				<crossref let="o" cid="c40005001.1">
+				</crossref>
+				he went up on the mountain, and when he 
+				<crossref let="p" cid="c40005001.2">
+				</crossref>
+				sat down, his disciples came to him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005002">
+			</marker>
+			<heading
+				>
+				The Beatitudes
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				And 
+				<crossref let="q" cid="c40005002.1">
+				</crossref>
+				he opened his mouth and taught them, saying:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3" class="woc">
+				<woc
+					>
+					<crossref let="r" cid="c40005003.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Blessed are 
+					<crossref let="s" cid="c40005003.2">
+					</crossref>
+					the poor in spirit, for 
+					<crossref let="u" cid="c40005003.3">
+					</crossref>
+					theirs is the kingdom of heaven.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Blessed are 
+					<crossref let="v" cid="c40005004.1">
+					</crossref>
+					those who mourn, for they shall be comforted.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Blessed are the 
+					<crossref let="w" cid="c40005005.1">
+					</crossref>
+					meek, for they 
+					<crossref let="w" cid="c40005005.2">
+					</crossref>
+					shall inherit the earth.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Blessed are those who hunger and 
+					<crossref let="x" cid="c40005006.1">
+					</crossref>
+					thirst 
+					<crossref let="y" cid="c40005006.2">
+					</crossref>
+					for righteousness, for they shall be satisfied.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Blessed are 
+					<crossref let="z" cid="c40005007.1">
+					</crossref>
+					the merciful, for they shall receive mercy.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Blessed are 
+					<crossref let="a" cid="c40005008.1">
+					</crossref>
+					the pure in heart, for 
+					<crossref let="b" cid="c40005008.2">
+					</crossref>
+					they shall see God.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Blessed are 
+					<crossref let="c" cid="c40005009.1">
+					</crossref>
+					the peacemakers, for 
+					<crossref let="d" cid="c40005009.2">
+					</crossref>
+					they shall be called 
+					<crossref let="e" cid="c40005009.3">
+					</crossref>
+					sons
+					<note nid="n40005009.1">
+					</note>
+					 of God.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10" class="woc">
+				<woc
+					>
+					<crossref let="f" cid="c40005010.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Blessed are those who are persecuted for righteousness' sake, for 
+					<crossref let="u" cid="c40005010.2">
+					</crossref>
+					theirs is the kingdom of heaven.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11" class="woc">
+				<woc
+					>
+					<crossref let="g" cid="c40005011.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely 
+					<crossref let="h" cid="c40005011.2">
+					</crossref>
+					on my account.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc
+					>
+					<crossref let="i" cid="c40005012.1">
+					</crossref>
+					Rejoice and be glad, for your reward is great in heaven, for 
+					<crossref let="j" cid="c40005012.2">
+					</crossref>
+					so they persecuted the prophets who were before you.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005013">
+			</marker>
+			<heading
+				>
+				Salt and Light
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					You are the salt of the earth, 
+					<crossref let="k" cid="c40005013.1">
+					</crossref>
+					but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people's feet.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14" class="woc">
+				<woc
+					>
+					<crossref let="l" cid="c40005014.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					You are the light of the world. A city set on a hill cannot be hidden.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005015">
+			</marker>
+			<verse num="15" class="woc">
+				<woc
+					>
+					<crossref let="m" cid="c40005015.1">
+					</crossref>
+					Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc
+					>
+					In the same way, let your light shine before others, so 
+					<crossref let="n" cid="c40005016.1">
+					</crossref>
+					that they may see your good works and 
+					<crossref let="o" cid="c40005016.2">
+					</crossref>
+					give glory to your Father who is in heaven.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005017">
+			</marker>
+			<heading
+				>
+				Christ Came to Fulfill the Law
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17" class="woc">
+				<woc
+					>
+					<crossref let="p" cid="c40005017.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Do not think that I have come to abolish 
+					<crossref let="q" cid="c40005017.2">
+					</crossref>
+					the Law or the Prophets; I have not come to abolish them but 
+					<crossref let="r" cid="c40005017.3">
+					</crossref>
+					to fulfill them.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					For truly, I say to you, 
+					<crossref let="s" cid="c40005018.1">
+					</crossref>
+					until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					<crossref let="t" cid="c40005019.1">
+					</crossref>
+					Therefore whoever relaxes 
+					<crossref let="u" cid="c40005019.2">
+					</crossref>
+					one of the least of these commandments and teaches others to do the same will be called least 
+					<crossref let="v" cid="c40005019.3">
+					</crossref>
+					in the kingdom of heaven, but whoever does them and teaches them will be called great 
+					<crossref let="v" cid="c40005019.4">
+					</crossref>
+					in the kingdom of heaven.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005020">
+			</marker>
+			<verse num="20" class="woc">
+				<woc
+					>
+					For I tell you, unless your righteousness exceeds 
+					<crossref let="w" cid="c40005020.1">
+					</crossref>
+					that of the scribes and Pharisees, you 
+					<crossref let="x" cid="c40005020.2">
+					</crossref>
+					will never enter the kingdom of heaven.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005021">
+			</marker>
+			<heading
+				>
+				Anger
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21" class="woc">
+				<woc
+					>
+					<crossref let="y" cid="c40005021.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					You have heard that it was said to those of old, 
+					<crossref let="z" cid="c40005021.2">
+					</crossref>
+					<crossref cid="t40005021.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					You shall not murder; and whoever murders will be liable 
+					<crossref let="a" cid="c40005021.3">
+					</crossref>
+					to judgment.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005022">
+			</marker>
+			<verse num="22" class="woc">
+				<woc
+					>
+					But I say to you that 
+					<crossref let="b" cid="c40005022.1">
+					</crossref>
+					everyone who is angry with his brother
+					<note nid="n40005022.1">
+					</note>
+					 will be liable 
+					<crossref let="a" cid="c40005022.2">
+					</crossref>
+					to judgment; whoever insults
+					<note nid="n40005022.2">
+					</note>
+					 his brother will be liable to the council; and whoever says, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					You fool!
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 will be liable to 
+					<crossref let="c" cid="c40005022.3">
+					</crossref>
+					the hell
+					<note nid="n40005022.3">
+					</note>
+					 of fire.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005023">
+			</marker>
+			<verse num="23" class="woc">
+				<woc
+					>
+					<crossref let="d" cid="c40005023.1">
+					</crossref>
+					So if 
+					<crossref let="e" cid="c40005023.2">
+					</crossref>
+					you are offering your gift at the altar and there remember that your brother has something against you,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					leave your gift there before the altar and go. First be reconciled to your brother, and then come and offer your gift.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005025">
+			</marker>
+			<verse num="25" class="woc">
+				<woc
+					>
+					<crossref let="f" cid="c40005025.1">
+					</crossref>
+					Come to terms quickly with your accuser while you are going with him to court, lest your accuser hand you over to the judge, and the judge to the guard, and you be put in prison.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					Truly, I say to you, 
+					<crossref let="g" cid="c40005026.1">
+					</crossref>
+					you will never get out until you have paid the last penny.
+					<note nid="n40005026.1">
+					</note>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005027">
+			</marker>
+			<heading
+				>
+				Lust
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27" class="woc">
+				<woc
+					>
+					<crossref let="h" cid="c40005027.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					You have heard that it was said, 
+					<crossref let="i" cid="c40005027.2">
+					</crossref>
+					<crossref cid="t40005027.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					You shall not commit adultery.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005028">
+			</marker>
+			<verse num="28" class="woc">
+				<woc
+					>
+					But I say to you that 
+					<crossref let="j" cid="c40005028.1">
+					</crossref>
+					everyone who looks at a woman with lustful intent has already committed adultery with her in his heart.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005029">
+			</marker>
+			<verse num="29" class="woc">
+				<woc
+					>
+					<crossref let="k" cid="c40005029.1">
+					</crossref>
+					If your right eye 
+					<crossref let="l" cid="c40005029.2">
+					</crossref>
+					causes you to sin, tear it out and throw it away. For it is better that you lose one of your members than that your whole body be thrown into 
+					<crossref let="m" cid="c40005029.3">
+					</crossref>
+					hell.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005030">
+			</marker>
+			<verse num="30" class="woc">
+				<woc
+					>
+					<crossref let="k" cid="c40005030.1">
+					</crossref>
+					And if your right hand 
+					<crossref let="l" cid="c40005030.2">
+					</crossref>
+					causes you to sin, cut it off and throw it away. For it is better that you lose one of your members than that your whole body go into 
+					<crossref let="m" cid="c40005030.3">
+					</crossref>
+					hell.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005031">
+			</marker>
+			<heading
+				>
+				Divorce
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31" class="woc">
+				<woc
+					>
+					<crossref let="h" cid="c40005031.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					It was also said, 
+					<crossref let="n" cid="c40005031.2">
+					</crossref>
+					<crossref cid="t40005031.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Whoever divorces his wife, let him give her a certificate of divorce.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005032">
+			</marker>
+			<verse num="32" class="woc">
+				<woc
+					>
+					<crossref let="o" cid="c40005032.1">
+					</crossref>
+					But I say to you that everyone who divorces his wife, except on the ground of sexual immorality, makes her commit adultery, and 
+					<crossref let="p" cid="c40005032.2">
+					</crossref>
+					whoever marries a divorced woman commits adultery.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005033">
+			</marker>
+			<heading
+				>
+				Oaths
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="33" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Again 
+					<crossref let="h" cid="c40005033.1">
+					</crossref>
+					you have heard that it was said to those of old, 
+					<crossref let="q" cid="c40005033.2">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					You shall not swear falsely, but 
+					<crossref let="r" cid="c40005033.3">
+					</crossref>
+					shall perform to the Lord what you have sworn.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005034">
+			</marker>
+			<verse num="34" class="woc">
+				<woc
+					>
+					But I say to you, 
+					<crossref let="s" cid="c40005034.1">
+					</crossref>
+					Do not take an oath at all, either by heaven, for 
+					<crossref let="t" cid="c40005034.2">
+					</crossref>
+					it is the throne of God,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005035">
+			</marker>
+			<verse num="35" class="woc">
+				<woc
+					>
+					or by the earth, for it is his footstool, or by Jerusalem, for it is 
+					<crossref let="u" cid="c40005035.1">
+					</crossref>
+					the city of the great King.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005036">
+			</marker>
+			<verse num="36" class="woc">
+				<woc
+					>
+					And do not take an oath by your head, for you cannot make one hair white or black.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005037">
+			</marker>
+			<verse num="37" class="woc">
+				<woc
+					>
+					Let what you say be simply 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Yes
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 or 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					No
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					; 
+					<crossref let="v" cid="c40005037.1">
+					</crossref>
+					anything more than this comes from evil.
+					<note nid="n40005037.1">
+					</note>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005038">
+			</marker>
+			<heading
+				>
+				Retaliation
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="38" class="woc">
+				<woc
+					>
+					<crossref let="h" cid="c40005038.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					You have heard that it was said, 
+					<crossref let="y" cid="c40005038.2">
+					</crossref>
+					<crossref cid="t40005038.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					An eye for an eye and a tooth for a tooth.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005039">
+			</marker>
+			<verse num="39" class="woc">
+				<woc
+					>
+					But I say to you, 
+					<crossref let="z" cid="c40005039.1">
+					</crossref>
+					Do not resist the one who is evil. But 
+					<crossref let="a" cid="c40005039.2">
+					</crossref>
+					<crossref cid="t40005039.1">
+					</crossref>
+					if anyone 
+					<crossref let="b" cid="c40005039.3">
+					</crossref>
+					slaps you on the right cheek, turn to him the other also.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005040">
+			</marker>
+			<verse num="40" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="z" cid="c40005040.1">
+					</crossref>
+					if anyone would sue you and take your tunic,
+					<note nid="n40005040.1">
+					</note>
+					 let him have your cloak as well.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005041">
+			</marker>
+			<verse num="41" class="woc">
+				<woc
+					>
+					And if anyone 
+					<crossref let="c" cid="c40005041.1">
+					</crossref>
+					forces you to go one mile, go with him two miles.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005042">
+			</marker>
+			<verse num="42" class="woc">
+				<woc
+					>
+					<crossref let="d" cid="c40005042.1">
+					</crossref>
+					Give to the one who begs from you, and 
+					<crossref let="e" cid="c40005042.2">
+					</crossref>
+					do not refuse the one who would borrow from you.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40005043">
+			</marker>
+			<heading
+				>
+				Love Your Enemies
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="43" class="woc">
+				<woc
+					>
+					<crossref let="f" cid="c40005043.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					You have heard that it was said, 
+					<crossref let="g" cid="c40005043.2">
+					</crossref>
+					<crossref cid="t40005043.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					You shall love your neighbor and hate your enemy.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005044">
+			</marker>
+			<verse num="44" class="woc">
+				<woc
+					>
+					But I say to you, 
+					<crossref let="i" cid="c40005044.1">
+					</crossref>
+					Love your enemies and 
+					<crossref let="j" cid="c40005044.2">
+					</crossref>
+					pray for those who persecute you,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005045">
+			</marker>
+			<verse num="45" class="woc">
+				<woc
+					>
+					<crossref let="k" cid="c40005045.1">
+					</crossref>
+					so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good, and 
+					<crossref let="l" cid="c40005045.2">
+					</crossref>
+					sends rain on the just and on the unjust.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005046">
+			</marker>
+			<verse num="46" class="woc">
+				<woc
+					>
+					<crossref let="m" cid="c40005046.1">
+					</crossref>
+					For if you love those who love you, what reward do you have? Do not even the tax collectors do the same?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005047">
+			</marker>
+			<verse num="47" class="woc">
+				<woc
+					>
+					And if you greet only your brothers,
+					<note nid="n40005047.1">
+					</note>
+					 what more are you doing than others? Do not even 
+					<crossref let="n" cid="c40005047.1">
+					</crossref>
+					the Gentiles do the same?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40005048">
+			</marker>
+			<verse num="48" class="woc">
+				<woc
+					>
+					<crossref let="o" cid="c40005048.1">
+					</crossref>
+					You therefore must be 
+					<crossref let="p" cid="c40005048.2">
+					</crossref>
+					perfect, 
+					<crossref let="q" cid="c40005048.3">
+					</crossref>
+					as your heavenly Father is perfect.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Micah" num="33">
+		<marker class="begin-verse" mid="v33001001">
+		</marker>
+		<chapter num="1">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that came to Micah 
+				<crossref let="a" cid="c33001001.1">
+				</crossref>
+				of Moresheth 
+				<crossref let="b" cid="c33001001.2">
+				</crossref>
+				in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw 
+				<crossref let="c" cid="c33001001.3">
+				</crossref>
+				concerning 
+				<crossref let="d" cid="c33001001.4">
+				</crossref>
+				Samaria and Jerusalem.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v33001002">
+			</marker>
+			<heading
+				>
+				The Coming Destruction
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c33001002.1">
+				</crossref>
+				Hear, you peoples, all of you;
+				<note nid="n33001002.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c33001002.2">
+				</crossref>
+				pay attention, O earth, and all that is in it,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and 
+				<crossref let="g" cid="c33001002.3">
+				</crossref>
+				let the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				 be a witness against you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c33001002.4">
+				</crossref>
+				the Lord from his holy temple.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33001003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				For behold, 
+				<crossref let="i" cid="c33001003.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is coming out of 
+				<crossref let="j" cid="c33001003.2">
+				</crossref>
+				his place,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and will come down and 
+				<crossref let="k" cid="c33001003.3">
+				</crossref>
+				tread upon the high places of the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33001004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				And 
+				<crossref let="l" cid="c33001004.1">
+				</crossref>
+				the mountains will melt under him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the valleys will split open,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				like wax before the fire,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like waters poured down a steep place.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33001005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				All this is for 
+				<crossref let="m" cid="c33001005.1">
+				</crossref>
+				the transgression of Jacob
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and for the sins of the house of Israel.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c33001005.2">
+				</crossref>
+				What is the transgression of Jacob?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Is it not 
+				<crossref let="d" cid="c33001005.3">
+				</crossref>
+				Samaria?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				And what is 
+				<crossref let="o" cid="c33001005.4">
+				</crossref>
+				the high place of Judah?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Is it not Jerusalem?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33001006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Therefore I will make 
+				<crossref let="d" cid="c33001006.1">
+				</crossref>
+				Samaria 
+				<crossref let="p" cid="c33001006.2">
+				</crossref>
+				a heap in the open country,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a place for planting vineyards,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and I will pour down her stones 
+				<crossref let="q" cid="c33001006.3">
+				</crossref>
+				into the valley
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="r" cid="c33001006.4">
+				</crossref>
+				uncover her foundations.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33001007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				All 
+				<crossref let="s" cid="c33001007.1">
+				</crossref>
+				her carved images shall be beaten to pieces,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c33001007.2">
+				</crossref>
+				all her wages shall be burned with fire,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all her idols I will lay waste,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for from 
+				<crossref let="t" cid="c33001007.3">
+				</crossref>
+				the fee of a prostitute she gathered them,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and to the fee of a prostitute they shall return.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v33001008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c33001008.1">
+				</crossref>
+				For this I will lament and wail;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will go 
+				<crossref let="v" cid="c33001008.2">
+				</crossref>
+				stripped and naked;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I will make lamentation 
+				<crossref let="w" cid="c33001008.3">
+				</crossref>
+				like the jackals,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and mourning 
+				<crossref let="x" cid="c33001008.4">
+				</crossref>
+				like the ostriches.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33001009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c33001009.1">
+				</crossref>
+				For her wound is incurable,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and it has come to Judah;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				it has reached to the gate of my people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to Jerusalem.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v33001010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c33001010.1">
+				</crossref>
+				Tell it not in 
+				<crossref let="a" cid="c33001010.2">
+				</crossref>
+				Gath;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				weep not at all;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				in Beth-le-aphrah
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c33001010.3">
+				</crossref>
+				roll yourselves in the dust.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33001011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Pass on your way,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				inhabitants of Shaphir,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c33001011.1">
+				</crossref>
+				in nakedness and shame;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				the inhabitants of Zaanan
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				do not come out;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				the lamentation of Beth-ezel
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall take away from you its standing place.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33001012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				For the inhabitants of Maroth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				wait anxiously for good,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				because disaster has come down 
+				<crossref let="d" cid="c33001012.1">
+				</crossref>
+				from the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the gate of Jerusalem.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33001013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				Harness the steeds to the chariots,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				inhabitants of 
+				<crossref let="e" cid="c33001013.1">
+				</crossref>
+				Lachish;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				it was the beginning of sin
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the daughter of Zion,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for in you were found
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c33001013.2">
+				</crossref>
+				the transgressions of Israel.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33001014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				Therefore you shall give parting gifts
+				<note nid="n33001014.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to 
+				<crossref let="g" cid="c33001014.1">
+				</crossref>
+				Moresheth-gath;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				the houses of 
+				<crossref let="h" cid="c33001014.2">
+				</crossref>
+				Achzib shall be a deceitful thing
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the kings of Israel.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33001015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				I will again bring 
+				<crossref let="i" cid="c33001015.1">
+				</crossref>
+				a conqueror to you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				inhabitants of 
+				<crossref let="h" cid="c33001015.2">
+				</crossref>
+				Mareshah;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				the glory of Israel
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall come to 
+				<crossref let="j" cid="c33001015.3">
+				</crossref>
+				Adullam.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v33001016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c33001016.1">
+				</crossref>
+				Make yourselves bald and cut off your hair,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for the children of your delight;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c33001016.2">
+				</crossref>
+				make yourselves as bald as the eagle,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for they shall go from you into exile.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

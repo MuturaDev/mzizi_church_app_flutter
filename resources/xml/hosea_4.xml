@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Hosea" num="27">
+		<marker class="begin-verse" mid="v28004001">
+		</marker>
+		<chapter num="4">
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Accuses Israel
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c28004001.1">
+				</crossref>
+				Hear the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O children of Israel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="l" cid="c28004001.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has a controversy with the inhabitants of the land.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				There is no faithfulness or steadfast love,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="m" cid="c28004001.3">
+				</crossref>
+				no knowledge of God in the land;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v28004002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c28004002.1">
+				</crossref>
+				there is swearing, lying, murder, stealing, and committing adultery;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they break all bounds, and 
+				<crossref let="o" cid="c28004002.2">
+				</crossref>
+				bloodshed follows bloodshed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v28004003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Therefore 
+				<crossref let="p" cid="c28004003.1">
+				</crossref>
+				the land mourns,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all who dwell in it languish,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c28004003.2">
+				</crossref>
+				and also the beasts of the field
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the birds of the heavens,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c28004003.3">
+				</crossref>
+				and even the fish of the sea are taken away.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v28004004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c28004004.1">
+				</crossref>
+				Yet let no one contend,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and let none accuse,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for with you is 
+				<crossref let="t" cid="c28004004.2">
+				</crossref>
+				my contention, O priest.
+				<note nid="n28004004.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v28004005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				You shall stumble by day;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the prophet also shall stumble with you by night;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and I will destroy 
+				<crossref let="u" cid="c28004005.1">
+				</crossref>
+				your mother.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v28004006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				My people are destroyed 
+				<crossref let="v" cid="c28004006.1">
+				</crossref>
+				for lack of knowledge;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c28004006.2">
+				</crossref>
+				because you have rejected knowledge,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I reject you 
+				<crossref let="x" cid="c28004006.3">
+				</crossref>
+				from being a priest to me.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				And since you have forgotten the law of your God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="y" cid="c28004006.4">
+				</crossref>
+				I also will forget your children.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v28004007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c28004007.1">
+				</crossref>
+				The more they increased,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the more they sinned against me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c28004007.2">
+				</crossref>
+				I will change their glory into shame.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v28004008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c28004008.1">
+				</crossref>
+				They feed on the sin
+				<note nid="n28004008.1">
+				</note>
+				 of my people;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they are greedy for their iniquity.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v28004009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c28004009.1">
+				</crossref>
+				And it shall be like people, like priest;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will punish them for their ways
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and repay them for their deeds.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v28004010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c28004010.1">
+				</crossref>
+				They shall eat, but not be satisfied;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they shall play the whore, but not multiply,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				because they have forsaken the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to cherish
+
+			</verse>
+			<marker class="begin-verse" mid="v28004011">
+			</marker>
+			<verse num="11">
+				whoredom, wine, and new wine,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				which 
+				<crossref let="e" cid="c28004011.1">
+				</crossref>
+				take away the understanding.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v28004012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				My people 
+				<crossref let="f" cid="c28004012.1">
+				</crossref>
+				inquire of a piece of wood,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and their walking staff gives them oracles.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="g" cid="c28004012.2">
+				</crossref>
+				a spirit of whoredom has led them astray,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and they have left their God to play the whore.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v28004013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c28004013.1">
+				</crossref>
+				They sacrifice on the tops of the mountains
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and burn offerings on the hills,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c28004013.2">
+				</crossref>
+				under oak, poplar, and terebinth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because their shade is good.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Therefore your daughters play the whore,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your brides commit adultery.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v28004014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				I will not punish your daughters when they play the whore,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor your brides when they commit adultery;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for 
+				<crossref let="j" cid="c28004014.1">
+				</crossref>
+				the men themselves go aside with prostitutes
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and sacrifice with 
+				<crossref let="k" cid="c28004014.2">
+				</crossref>
+				cult prostitutes,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and a people 
+				<crossref let="l" cid="c28004014.3">
+				</crossref>
+				without understanding shall come to ruin.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v28004015">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				Though you play the whore, O 
+				<crossref let="m" cid="c28004015.1">
+				</crossref>
+				Israel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let not 
+				<crossref let="m" cid="c28004015.2">
+				</crossref>
+				Judah become guilty.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c28004015.3">
+				</crossref>
+				Enter not into 
+				<crossref let="o" cid="c28004015.4">
+				</crossref>
+				Gilgal,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor go up to 
+				<crossref let="p" cid="c28004015.5">
+				</crossref>
+				Beth-aven,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and swear not, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 lives.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v28004016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Like a stubborn heifer,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Israel is stubborn;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				can the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 now feed them
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like a lamb in a broad pasture?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v28004017">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c28004017.1">
+				</crossref>
+				Ephraim is joined to idols;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c28004017.2">
+				</crossref>
+				leave him alone.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v28004018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				When their drink is gone, they give themselves to whoring;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c28004018.1">
+				</crossref>
+				their rulers
+				<note nid="n28004018.1">
+				</note>
+				 dearly love shame.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v28004019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c28004019.1">
+				</crossref>
+				A wind has wrapped them
+				<note nid="n28004019.1">
+				</note>
+				 in its wings,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and they shall 
+				<crossref let="u" cid="c28004019.2">
+				</crossref>
+				be ashamed because of their sacrifices.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

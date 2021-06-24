@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ezekiel" num="25">
+		<marker class="begin-verse" mid="v26018001">
+		</marker>
+		<chapter num="18">
+			<heading
+				>
+				The Soul Who Sins Shall Die
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me:
+			</verse>
+			<marker class="begin-verse" mid="v26018002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What do you
+				<note nid="n26018002.1">
+				</note>
+				 mean 
+				<crossref let="s" cid="c26018002.1">
+				</crossref>
+				by repeating this proverb concerning the land of Israel, 
+				<crossref let="t" cid="c26018002.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The fathers have eaten sour grapes, and the children's teeth are set on edge
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				?
+			</verse>
+			<marker class="begin-verse" mid="v26018003">
+			</marker>
+			<verse num="3">
+				<crossref let="u" cid="c26018003.1">
+				</crossref>
+				As I live, declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				, 
+				<crossref let="v" cid="c26018003.2">
+				</crossref>
+				this proverb shall no more be used by you in Israel.
+			</verse>
+			<marker class="begin-verse" mid="v26018004">
+			</marker>
+			<verse num="4">
+				Behold, all souls are mine; the soul of the father as well as the soul of the son is mine: 
+				<crossref let="w" cid="c26018004.1">
+				</crossref>
+				the soul who sins shall die.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26018005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If a man is righteous and does 
+				<crossref let="x" cid="c26018005.1">
+				</crossref>
+				what is just and rightù
+			</verse>
+			<marker class="begin-verse" mid="v26018006">
+			</marker>
+			<verse num="6">
+				if he 
+				<crossref let="y" cid="c26018006.1">
+				</crossref>
+				does not eat upon the mountains or 
+				<crossref let="z" cid="c26018006.2">
+				</crossref>
+				lift up his eyes to the idols of the house of Israel, 
+				<crossref let="a" cid="c26018006.3">
+				</crossref>
+				does not defile his neighbor's wife 
+				<crossref let="b" cid="c26018006.4">
+				</crossref>
+				or approach 
+				<crossref let="c" cid="c26018006.5">
+				</crossref>
+				a woman in her time of menstrual impurity,
+			</verse>
+			<marker class="begin-verse" mid="v26018007">
+			</marker>
+			<verse num="7">
+				<crossref let="d" cid="c26018007.1">
+				</crossref>
+				does not oppress anyone, but 
+				<crossref let="e" cid="c26018007.2">
+				</crossref>
+				restores to the debtor his pledge, 
+				<crossref let="f" cid="c26018007.3">
+				</crossref>
+				commits no robbery, 
+				<crossref let="g" cid="c26018007.4">
+				</crossref>
+				gives his bread to the hungry 
+				<crossref let="g" cid="c26018007.5">
+				</crossref>
+				and covers the naked with a garment,
+			</verse>
+			<marker class="begin-verse" mid="v26018008">
+			</marker>
+			<verse num="8">
+				<crossref let="h" cid="c26018008.1">
+				</crossref>
+				does not lend at interest 
+				<crossref let="h" cid="c26018008.2">
+				</crossref>
+				or take any profit,
+				<note nid="n26018008.1">
+				</note>
+				 withholds his hand from injustice, 
+				<crossref let="i" cid="c26018008.3">
+				</crossref>
+				executes true justice between man and man,
+			</verse>
+			<marker class="begin-verse" mid="v26018009">
+			</marker>
+			<verse num="9">
+				<crossref let="j" cid="c26018009.1">
+				</crossref>
+				walks in my statutes, and keeps my rules by acting faithfullyùhe is righteous; 
+				<crossref let="k" cid="c26018009.2">
+				</crossref>
+				he shall surely live, declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26018010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If he fathers a son who is violent, 
+				<crossref let="l" cid="c26018010.1">
+				</crossref>
+				a shedder of blood, who does any of these things
+			</verse>
+			<marker class="begin-verse" mid="v26018011">
+			</marker>
+			<verse num="11">
+				(though he himself did none of these things), 
+				<crossref let="m" cid="c26018011.1">
+				</crossref>
+				who even eats upon the mountains, 
+				<crossref let="n" cid="c26018011.2">
+				</crossref>
+				defiles his neighbor's wife,
+			</verse>
+			<marker class="begin-verse" mid="v26018012">
+			</marker>
+			<verse num="12">
+				oppresses the poor and needy, 
+				<crossref let="o" cid="c26018012.1">
+				</crossref>
+				commits robbery, 
+				<crossref let="o" cid="c26018012.2">
+				</crossref>
+				does not restore the pledge, 
+				<crossref let="p" cid="c26018012.3">
+				</crossref>
+				lifts up his eyes to the idols, 
+				<crossref let="q" cid="c26018012.4">
+				</crossref>
+				commits abomination,
+			</verse>
+			<marker class="begin-verse" mid="v26018013">
+			</marker>
+			<verse num="13">
+				<crossref let="r" cid="c26018013.1">
+				</crossref>
+				lends at interest, and takes profit; shall he then live? He shall not live. He has done all these abominations; he shall surely die; 
+				<crossref let="s" cid="c26018013.2">
+				</crossref>
+				his blood shall be upon himself.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26018014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Now suppose this man fathers a son who sees all the sins that his father has done; he sees, and does not do likewise:
+			</verse>
+			<marker class="begin-verse" mid="v26018015">
+			</marker>
+			<verse num="15">
+				he does not eat upon the mountains or lift up his eyes to the idols of the house of Israel, does not defile his neighbor's wife,
+			</verse>
+			<marker class="begin-verse" mid="v26018016">
+			</marker>
+			<verse num="16">
+				does not oppress anyone, 
+				<crossref let="t" cid="c26018016.1">
+				</crossref>
+				exacts no pledge, 
+				<crossref let="u" cid="c26018016.2">
+				</crossref>
+				commits no robbery, 
+				<crossref let="v" cid="c26018016.3">
+				</crossref>
+				but gives his bread to the hungry 
+				<crossref let="v" cid="c26018016.4">
+				</crossref>
+				and covers the naked with a garment,
+			</verse>
+			<marker class="begin-verse" mid="v26018017">
+			</marker>
+			<verse num="17">
+				withholds his hand from iniquity,
+				<note nid="n26018017.1">
+				</note>
+				 takes no interest or profit, obeys my rules, 
+				<crossref let="w" cid="c26018017.1">
+				</crossref>
+				and walks in my statutes; he shall not die for his father's iniquity; 
+				<crossref let="x" cid="c26018017.2">
+				</crossref>
+				he shall surely live.
+			</verse>
+			<marker class="begin-verse" mid="v26018018">
+			</marker>
+			<verse num="18">
+				As for his father, because he practiced extortion, robbed his brother, and did what is not good among his people, 
+				<crossref let="y" cid="c26018018.1">
+				</crossref>
+				behold, he shall die for his iniquity.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26018019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Yet you say, 
+				<crossref let="z" cid="c26018019.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Why should not the son suffer for the iniquity of the father?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 When the son has done 
+				<crossref let="a" cid="c26018019.2">
+				</crossref>
+				what is just and right, and has been careful to observe all my statutes, 
+				<crossref let="b" cid="c26018019.3">
+				</crossref>
+				he shall surely live.
+			</verse>
+			<marker class="begin-verse" mid="v26018020">
+			</marker>
+			<verse num="20">
+				<crossref let="c" cid="c26018020.1">
+				</crossref>
+				The soul who sins shall die. 
+				<crossref let="d" cid="c26018020.2">
+				</crossref>
+				The son shall not suffer for the iniquity of the father, nor the father suffer for the iniquity of the son. 
+				<crossref let="e" cid="c26018020.3">
+				</crossref>
+				The righteousness of the righteous shall be upon himself, 
+				<crossref let="f" cid="c26018020.4">
+				</crossref>
+				and the wickedness of the wicked shall be upon himself.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26018021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<crossref let="g" cid="c26018021.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				But if a wicked person turns away from all his sins that he has committed and keeps all my statutes and does 
+				<crossref let="h" cid="c26018021.2">
+				</crossref>
+				what is just and right, 
+				<crossref let="i" cid="c26018021.3">
+				</crossref>
+				he shall surely live; he shall not die.
+			</verse>
+			<marker class="begin-verse" mid="v26018022">
+			</marker>
+			<verse num="22">
+				<crossref let="j" cid="c26018022.1">
+				</crossref>
+				None of the transgressions that he has committed shall be remembered against him; for the righteousness that he has done he shall live.
+			</verse>
+			<marker class="begin-verse" mid="v26018023">
+			</marker>
+			<verse num="23">
+				<crossref let="k" cid="c26018023.1">
+				</crossref>
+				Have I any pleasure in the death of the wicked, declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				, and not rather that he should turn from his way and live?
+			</verse>
+			<marker class="begin-verse" mid="v26018024">
+			</marker>
+			<verse num="24">
+				<crossref let="l" cid="c26018024.1">
+				</crossref>
+				But when a righteous person turns away from his righteousness and does injustice and does the same abominations that the wicked person does, shall he live? 
+				<crossref let="m" cid="c26018024.2">
+				</crossref>
+				None of the righteous deeds that he has done shall be remembered; for 
+				<crossref let="n" cid="c26018024.3">
+				</crossref>
+				the treachery of which he is guilty and the sin he has committed, for them he shall die.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26018025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				<crossref let="o" cid="c26018025.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Yet you say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The way of the Lord is not just.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 Hear now, O house of Israel: Is my way not just? Is it not your ways that are not just?
+			</verse>
+			<marker class="begin-verse" mid="v26018026">
+			</marker>
+			<verse num="26">
+				<crossref let="l" cid="c26018026.1">
+				</crossref>
+				When a righteous person turns away from his righteousness and does injustice, he shall die for it; for the injustice that he has done he shall die.
+			</verse>
+			<marker class="begin-verse" mid="v26018027">
+			</marker>
+			<verse num="27">
+				Again, 
+				<crossref let="p" cid="c26018027.1">
+				</crossref>
+				when a wicked person turns away from the wickedness he has committed and does what is just and right, he shall save his life.
+			</verse>
+			<marker class="begin-verse" mid="v26018028">
+			</marker>
+			<verse num="28">
+				Because he considered and turned away from all the transgressions that he had committed, he shall surely live; he shall not die.
+			</verse>
+			<marker class="begin-verse" mid="v26018029">
+			</marker>
+			<verse num="29">
+				Yet the house of Israel says, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The way of the Lord is not just.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 O house of Israel, are my ways not just? Is it not your ways that are not just?
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26018030">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="30">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Therefore 
+				<crossref let="q" cid="c26018030.1">
+				</crossref>
+				I will judge you, O house of Israel, every one according to his ways, declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				. 
+				<crossref let="r" cid="c26018030.2">
+				</crossref>
+				Repent and turn from all your transgressions, 
+				<crossref let="s" cid="c26018030.3">
+				</crossref>
+				lest iniquity be your ruin.
+				<note nid="n26018030.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v26018031">
+			</marker>
+			<verse num="31">
+				<crossref let="t" cid="c26018031.1">
+				</crossref>
+				Cast away from you all the transgressions that you have committed, and 
+				<crossref let="u" cid="c26018031.2">
+				</crossref>
+				make yourselves a new heart and a new spirit! 
+				<crossref let="v" cid="c26018031.3">
+				</crossref>
+				Why will you die, O house of Israel?
+			</verse>
+			<marker class="begin-verse" mid="v26018032">
+			</marker>
+			<verse num="32">
+				<crossref let="w" cid="c26018032.1">
+				</crossref>
+				For I have no pleasure in the death of anyone, declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				; 
+				<crossref let="r" cid="c26018032.2">
+				</crossref>
+				so turn, and live.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

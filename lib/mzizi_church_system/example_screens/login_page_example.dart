@@ -11,6 +11,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/example_screens/widdgets/b
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/progress_button.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system/flavour_config.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_student_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/authenicate_user_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_authentication_response_model.dart';
@@ -57,6 +58,39 @@ class _LoginPageState extends State<LoginPage> {
       ),
     );
   }
+
+  // Widget _churchCodeField(
+  //     String initialText, TextEditingController controller) {
+  //   return Container(
+  //     margin: EdgeInsets.symmetric(vertical: 10),
+  //     child: Column(
+  //       crossAxisAlignment: CrossAxisAlignment.start,
+  //       children: <Widget>[
+  //         Text(
+  //           'Church Code',
+  //           style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15),
+  //         ),
+  //         SizedBox(
+  //           height: 10,
+  //         ),
+  //         TextFormField(
+  //             initialValue: initialText,
+  //             validator: (value) {
+  //               isValid = value.isEmpty ? false : true;
+  //               return value.isEmpty ? 'Field cannot be left empty.' : null;
+  //             },
+  //             controller: controller,
+  //             keyboardType: TextInputType.number,
+  //             autovalidate: false,
+  //             obscureText: false,
+  //             decoration: InputDecoration(
+  //                 border: InputBorder.none,
+  //                 fillColor: Color(0xfff3f3f4),
+  //                 filled: true))
+  //       ],
+  //     ),
+  //   );
+  // }
 
   Widget _entryField(String title, TextEditingController controller,
       {bool isPassword = false}) {
@@ -220,7 +254,13 @@ class _LoginPageState extends State<LoginPage> {
     return RichText(
       textAlign: TextAlign.center,
       text: TextSpan(
-          text: 'Mzizi',
+          text: FlavourConfig.isBwmc()
+              ? 'The Bible '
+              : FlavourConfig.isDcik()
+                  ? 'Deliverance Church '
+                  : FlavourConfig.isJcc()
+                      ? 'Jubilee Christian '
+                      : FlavourConfig.isMzizicms() ? 'Mzizi' : 'Mzizi',
           style: GoogleFonts.portLligatSans(
             textStyle: Theme.of(context).textTheme.display1,
             fontSize: 30,
@@ -229,7 +269,13 @@ class _LoginPageState extends State<LoginPage> {
           ),
           children: [
             TextSpan(
-              text: 'CMS',
+              text: FlavourConfig.isBwmc()
+                  ? ' Way Ministries'
+                  : FlavourConfig.isDcik()
+                      ? ' International Kasarani'
+                      : FlavourConfig.isJcc()
+                          ? ' Church'
+                          : FlavourConfig.isMzizicms() ? 'CMS' : 'CMS',
               style: TextStyle(color: Colors.black, fontSize: 30),
             ),
             TextSpan(
@@ -264,6 +310,10 @@ class _LoginPageState extends State<LoginPage> {
   }
 
   Widget _emailPasswordWidget() {
+    if (FlavourConfig.isBwmc()) churchCodeTextEditorController.text = '1003';
+    if (FlavourConfig.isDcik()) churchCodeTextEditorController.text = '1001';
+    if (FlavourConfig.isJcc()) churchCodeTextEditorController.text = '1002';
+
     return Form(
       key: formKey,
       child: Column(
@@ -271,7 +321,9 @@ class _LoginPageState extends State<LoginPage> {
           _entryField("Username", usernameTextEditorController),
           _entryField("Password", passwordTextEditorController,
               isPassword: true),
-          _entryField("Church Code", churchCodeTextEditorController)
+          FlavourConfig.isMzizicms()
+              ? _entryField("Church Code", churchCodeTextEditorController)
+              : Container(),
         ],
       ),
     );
@@ -463,8 +515,8 @@ class _LoginProgressButtonState extends State<LoginProgressButton> {
           setState(() {
             _buttonState = ButtonState.error;
           });
-          showAlertDialog(context, 'Unsuccessful',
-              '  Confirm the credentials entered.  ');
+          showAlertDialog(
+              context, 'Unsuccessful', '  Confirm the credentials entered.  ');
         }
       } else {
         setState(() {
@@ -673,7 +725,10 @@ void showAlertDialog(
   String content,
 ) {
   SweetAlert.show(context,
-      title: title, subtitle: content, style: SweetAlertStyle.error, confirmButtonColor: Color(0xFF487890));
+      title: title,
+      subtitle: content,
+      style: SweetAlertStyle.error,
+      confirmButtonColor: Color(0xFF487890));
 
   // return showDialog(
   //     context: context,

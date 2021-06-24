@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23036001">
+		</marker>
+		<chapter num="36">
+			<heading
+				>
+				Sennacherib Invades Judah
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="j" cid="c23036001.1">
+				</crossref>
+				In the fourteenth year of King Hezekiah, 
+				<crossref let="k" cid="c23036001.2">
+				</crossref>
+				Sennacherib king of Assyria came up against all the fortified cities of Judah and took them.
+			</verse>
+			<marker class="begin-verse" mid="v23036002">
+			</marker>
+			<verse num="2">
+				<crossref let="l" cid="c23036002.1">
+				</crossref>
+				And the king of Assyria sent the Rabshakeh
+				<note nid="n23036002.1">
+				</note>
+				 from 
+				<crossref let="m" cid="c23036002.2">
+				</crossref>
+				Lachish to King Hezekiah at Jerusalem, with a great army. And he stood 
+				<crossref let="n" cid="c23036002.3">
+				</crossref>
+				by the conduit of the upper pool on the highway to the Washer's Field.
+			</verse>
+			<marker class="begin-verse" mid="v23036003">
+			</marker>
+			<verse num="3">
+				And there came out to him 
+				<crossref let="o" cid="c23036003.1">
+				</crossref>
+				Eliakim the son of Hilkiah, who was over the household, and 
+				<crossref let="o" cid="c23036003.2">
+				</crossref>
+				Shebna the secretary, and Joah the son of Asaph, the recorder.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23036004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				And the Rabshakeh said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say to Hezekiah, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<crossref let="p" cid="c23036004.1">
+				</crossref>
+				great king, the king of Assyria: On what do you rest this trust of yours?
+			</verse>
+			<marker class="begin-verse" mid="v23036005">
+			</marker>
+			<verse num="5">
+				Do you think that mere words are strategy and power for war? In whom do you now trust, that you have rebelled against me?
+			</verse>
+			<marker class="begin-verse" mid="v23036006">
+			</marker>
+			<verse num="6">
+				<crossref let="q" cid="c23036006.1">
+				</crossref>
+				Behold, you are trusting in Egypt, that broken reed of a staff, which will pierce the hand of any man who leans on it. Such is Pharaoh king of Egypt to all who trust in him.
+			</verse>
+			<marker class="begin-verse" mid="v23036007">
+			</marker>
+			<verse num="7">
+				But if you say to me, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				We trust in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God,
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				 is it not he 
+				<crossref let="r" cid="c23036007.1">
+				</crossref>
+				whose high places and altars Hezekiah has removed, saying to Judah and to Jerusalem, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				You shall worship before this altar
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				?
+			</verse>
+			<marker class="begin-verse" mid="v23036008">
+			</marker>
+			<verse num="8">
+				Come now, make a wager with my master the king of Assyria: I will give you two thousand horses, if you are able on your part to set riders on them.
+			</verse>
+			<marker class="begin-verse" mid="v23036009">
+			</marker>
+			<verse num="9">
+				How then can you repulse 
+				<crossref let="s" cid="c23036009.1">
+				</crossref>
+				a single captain among the least of my master's servants, when 
+				<crossref let="t" cid="c23036009.2">
+				</crossref>
+				you trust in Egypt for chariots and for horsemen?
+			</verse>
+			<marker class="begin-verse" mid="v23036010">
+			</marker>
+			<verse num="10">
+				Moreover, is it without the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that I have come up against this land to destroy it? 
+				<crossref let="u" cid="c23036010.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to me, Go up against this land and destroy it.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23036011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				Then Eliakim, Shebna, and Joah said to the Rabshakeh, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please speak to your servants 
+				<crossref let="v" cid="c23036011.1">
+				</crossref>
+				in Aramaic, for we understand it. Do not speak to us in the language of Judah within the hearing of the people who are on the wall.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v23036012">
+			</marker>
+			<verse num="12">
+				But the Rabshakeh said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Has my master sent me to speak these words to your master and to you, and not to the men sitting on the wall, who are doomed with you to eat their own dung and drink their own urine?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23036013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				Then the Rabshakeh stood and called out in a loud voice in the language of Judah: 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hear the words of the great king, the king of Assyria!
+			</verse>
+			<marker class="begin-verse" mid="v23036014">
+			</marker>
+			<verse num="14">
+				Thus says the king: 
+				<crossref let="w" cid="c23036014.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Do not let Hezekiah deceive you, for he will not be able to deliver you.
+			</verse>
+			<marker class="begin-verse" mid="v23036015">
+			</marker>
+			<verse num="15">
+				Do not let Hezekiah make you trust in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 by saying, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will surely deliver us. This city will not be given into the hand of the king of Assyria.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v23036016">
+			</marker>
+			<verse num="16">
+				Do not listen to Hezekiah. For thus says the king of Assyria: Make your peace with me
+				<note nid="n23036016.1">
+				</note>
+				 and come out to me. Then each one of you will eat of his own vine, and each one of his own fig tree, and each one of you will drink the water of his own cistern,
+			</verse>
+			<marker class="begin-verse" mid="v23036017">
+			</marker>
+			<verse num="17">
+				until 
+				<crossref let="x" cid="c23036017.1">
+				</crossref>
+				I come and take you away to a land like your own land, a land of grain and wine, a land of bread and vineyards.
+			</verse>
+			<marker class="begin-verse" mid="v23036018">
+			</marker>
+			<verse num="18">
+				Beware lest Hezekiah mislead you by saying, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will deliver us.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				 Has any of the gods of the nations delivered his land out of the hand of the king of Assyria?
+			</verse>
+			<marker class="begin-verse" mid="v23036019">
+			</marker>
+			<verse num="19">
+				<crossref let="y" cid="c23036019.1">
+				</crossref>
+				Where are the gods of 
+				<crossref let="z" cid="c23036019.2">
+				</crossref>
+				Hamath and 
+				<crossref let="z" cid="c23036019.3">
+				</crossref>
+				Arpad? Where are the gods of Sepharvaim? 
+				<crossref let="a" cid="c23036019.4">
+				</crossref>
+				Have they delivered Samaria out of my hand?
+			</verse>
+			<marker class="begin-verse" mid="v23036020">
+			</marker>
+			<verse num="20">
+				<crossref let="b" cid="c23036020.1">
+				</crossref>
+				Who among all the gods of these lands have delivered their lands out of my hand, that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 should deliver Jerusalem out of my hand?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23036021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				But they were silent and answered him not a word, for the king's command was, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not answer him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v23036022">
+			</marker>
+			<verse num="22">
+				<crossref let="c" cid="c23036022.1">
+				</crossref>
+				Then Eliakim the son of Hilkiah, who was over the household, and Shebna the secretary, and Joah the son of Asaph, the recorder, came to Hezekiah with their clothes torn, and told him the words of the Rabshakeh.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

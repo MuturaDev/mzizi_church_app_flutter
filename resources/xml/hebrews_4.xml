@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Hebrews" num="57">
+		<marker class="begin-verse" mid="v58004001">
+		</marker>
+		<chapter num="4">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Therefore, while the promise of entering his rest still stands, let us fear lest any of you should seem 
+				<crossref let="n" cid="c58004001.1">
+				</crossref>
+				to have failed to reach it.
+			</verse>
+			<marker class="begin-verse" mid="v58004002">
+			</marker>
+			<verse num="2">
+				For good news came to us just as to them, but the message they heard did not benefit them, because 
+				<crossref let="o" cid="c58004002.1">
+				</crossref>
+				they were not united by faith with those who listened.
+				<note nid="n58004002.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v58004003">
+			</marker>
+			<verse num="3">
+				For we who have believed enter that rest, as he has said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c58004003.1">
+				</crossref>
+				<crossref cid="t58004003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As I swore in my wrath,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				They shall not enter my rest,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<end-block-indent
+					>
+				</end-block-indent>
+				<begin-paragraph class="same-paragraph">
+				</begin-paragraph>
+				although his works were finished from the foundation of the world.
+
+			</verse>
+			<marker class="begin-verse" mid="v58004004">
+			</marker>
+			<verse num="4">
+				For he has somewhere spoken of the seventh day in this way: 
+				<crossref let="q" cid="c58004004.1">
+				</crossref>
+				<crossref cid="t58004004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				And God rested on the seventh day from all his works.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v58004005">
+			</marker>
+			<verse num="5">
+				And again in this passage he said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c58004005.1">
+				</crossref>
+				<crossref cid="t58004005.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				They shall not enter my rest.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v58004006">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="6">
+				Since therefore it remains for some to enter it, and those who formerly received the good news 
+				<crossref let="s" cid="c58004006.1">
+				</crossref>
+				failed to enter because of disobedience,
+			</verse>
+			<marker class="begin-verse" mid="v58004007">
+			</marker>
+			<verse num="7">
+				again he appoints a certain day, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Today,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 saying through David so long afterward, in the words already quoted,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c58004007.1">
+				</crossref>
+				<crossref cid="t58004007.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Today, if you hear his voice,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				do not harden your hearts.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v58004008">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="8">
+				For if Joshua had given them rest, God
+				<note nid="n58004008.1">
+				</note>
+				 would not have spoken of another day later on.
+			</verse>
+			<marker class="begin-verse" mid="v58004009">
+			</marker>
+			<verse num="9">
+				So then, there remains a Sabbath rest for the people of God,
+			</verse>
+			<marker class="begin-verse" mid="v58004010">
+			</marker>
+			<verse num="10">
+				for whoever has entered God's rest has also 
+				<crossref let="u" cid="c58004010.1">
+				</crossref>
+				rested from his works as God did from his.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v58004011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				Let us therefore strive to enter that rest, so 
+				<crossref let="v" cid="c58004011.1">
+				</crossref>
+				that no one may fall by the same sort of disobedience.
+			</verse>
+			<marker class="begin-verse" mid="v58004012">
+			</marker>
+			<verse num="12">
+				For 
+				<crossref let="w" cid="c58004012.1">
+				</crossref>
+				the word of God is living and 
+				<crossref let="x" cid="c58004012.2">
+				</crossref>
+				active, 
+				<crossref let="y" cid="c58004012.3">
+				</crossref>
+				sharper than any 
+				<crossref let="z" cid="c58004012.4">
+				</crossref>
+				two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and 
+				<crossref let="a" cid="c58004012.5">
+				</crossref>
+				discerning the thoughts and intentions of the heart.
+			</verse>
+			<marker class="begin-verse" mid="v58004013">
+			</marker>
+			<verse num="13">
+				And 
+				<crossref let="b" cid="c58004013.1">
+				</crossref>
+				no creature is hidden from his sight, but all are 
+				<crossref let="c" cid="c58004013.2">
+				</crossref>
+				naked and exposed to the eyes of him to whom we must give account.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v58004014">
+			</marker>
+			<heading
+				>
+				Jesus the Great High Priest
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				Since then we have 
+				<crossref let="d" cid="c58004014.1">
+				</crossref>
+				a great high priest 
+				<crossref let="e" cid="c58004014.2">
+				</crossref>
+				who has passed through the heavens, Jesus, the Son of God, 
+				<crossref let="f" cid="c58004014.3">
+				</crossref>
+				let us hold fast our confession.
+			</verse>
+			<marker class="begin-verse" mid="v58004015">
+			</marker>
+			<verse num="15">
+				For we do not have a high priest 
+				<crossref let="g" cid="c58004015.1">
+				</crossref>
+				who is unable to sympathize with our weaknesses, but one who in every respect has been 
+				<crossref let="d" cid="c58004015.2">
+				</crossref>
+				tempted as we are, 
+				<crossref let="h" cid="c58004015.3">
+				</crossref>
+				yet without sin.
+			</verse>
+			<marker class="begin-verse" mid="v58004016">
+			</marker>
+			<verse num="16">
+				<crossref let="i" cid="c58004016.1">
+				</crossref>
+				Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,575 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Chronicles" num="13">
+		<marker class="begin-verse" mid="v14020001">
+		</marker>
+		<chapter num="20">
+			<heading
+				>
+				Jehoshaphat's Prayer
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				After this 
+				<crossref let="i" cid="c14020001.1">
+				</crossref>
+				the Moabites and Ammonites, and with them some of the Meunites,
+				<note nid="n14020001.1">
+				</note>
+				 came against Jehoshaphat for battle.
+			</verse>
+			<marker class="begin-verse" mid="v14020002">
+			</marker>
+			<verse num="2">
+				Some men came and told Jehoshaphat, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				A great multitude is coming against you from Edom,
+				<note nid="n14020002.1">
+				</note>
+				 from beyond the sea; and, behold, they are in 
+				<crossref let="j" cid="c14020002.1">
+				</crossref>
+				Hazazon-tamar
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 (that is, 
+				<crossref let="k" cid="c14020002.2">
+				</crossref>
+				Engedi).
+			</verse>
+			<marker class="begin-verse" mid="v14020003">
+			</marker>
+			<verse num="3">
+				Then Jehoshaphat was afraid and set his face 
+				<crossref let="l" cid="c14020003.1">
+				</crossref>
+				to seek the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and 
+				<crossref let="m" cid="c14020003.2">
+				</crossref>
+				proclaimed a fast throughout all Judah.
+			</verse>
+			<marker class="begin-verse" mid="v14020004">
+			</marker>
+			<verse num="4">
+				And Judah assembled to seek help from the 
+				<span class="divine-name">
+					Lord
+				</span>
+				; from all the cities of Judah they came to seek the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v14020005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				And Jehoshaphat stood in the assembly of Judah and Jerusalem, in the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, before the new court,
+			</verse>
+			<marker class="begin-verse" mid="v14020006">
+			</marker>
+			<verse num="6">
+				and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, God of our fathers, are you not 
+				<crossref let="n" cid="c14020006.1">
+				</crossref>
+				God in heaven? You 
+				<crossref let="o" cid="c14020006.2">
+				</crossref>
+				rule over all the kingdoms of the nations. 
+				<crossref let="p" cid="c14020006.3">
+				</crossref>
+				In your hand are power and might, so that none is able to withstand you.
+			</verse>
+			<marker class="begin-verse" mid="v14020007">
+			</marker>
+			<verse num="7">
+				Did you not, our God, 
+				<crossref let="q" cid="c14020007.1">
+				</crossref>
+				drive out the inhabitants of this land before your people Israel, and give it forever to the descendants of 
+				<crossref let="r" cid="c14020007.2">
+				</crossref>
+				Abraham your friend?
+			</verse>
+			<marker class="begin-verse" mid="v14020008">
+			</marker>
+			<verse num="8">
+				And they have lived in it and have built for you in it a sanctuary for your name, saying,
+			</verse>
+			<marker class="begin-verse" mid="v14020009">
+			</marker>
+			<verse num="9">
+				<crossref let="s" cid="c14020009.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				If disaster comes upon us, the sword, judgment,
+				<note nid="n14020009.1">
+				</note>
+				 or pestilence, or famine, 
+				<crossref let="t" cid="c14020009.2">
+				</crossref>
+				we will stand before this house and before youù
+				<crossref let="u" cid="c14020009.3">
+				</crossref>
+				for your name is in this houseùand cry out to you in our affliction, and you will hear and save.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v14020010">
+			</marker>
+			<verse num="10">
+				And now behold, the men of 
+				<crossref let="v" cid="c14020010.1">
+				</crossref>
+				Ammon and Moab and 
+				<crossref let="w" cid="c14020010.2">
+				</crossref>
+				Mount Seir, whom 
+				<crossref let="x" cid="c14020010.3">
+				</crossref>
+				you would not let Israel invade when they came from the land of Egypt, 
+				<crossref let="y" cid="c14020010.4">
+				</crossref>
+				and whom they avoided and did not destroyù
+			</verse>
+			<marker class="begin-verse" mid="v14020011">
+			</marker>
+			<verse num="11">
+				behold, they reward us 
+				<crossref let="z" cid="c14020011.1">
+				</crossref>
+				by coming to drive us out of your possession, which you have given us to inherit.
+			</verse>
+			<marker class="begin-verse" mid="v14020012">
+			</marker>
+			<verse num="12">
+				O our God, will you not 
+				<crossref let="a" cid="c14020012.1">
+				</crossref>
+				execute judgment on them? For we are powerless against this great horde that is coming against us. We do not know what to do, but 
+				<crossref let="b" cid="c14020012.2">
+				</crossref>
+				our eyes are on you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v14020013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				Meanwhile all Judah stood before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, with their little ones, their wives, and their children.
+			</verse>
+			<marker class="begin-verse" mid="v14020014">
+			</marker>
+			<verse num="14">
+				And 
+				<crossref let="c" cid="c14020014.1">
+				</crossref>
+				the Spirit of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came upon Jahaziel the son of Zechariah, son of Benaiah, son of Jeiel, son of Mattaniah, a Levite of the sons of Asaph, in the midst of the assembly.
+			</verse>
+			<marker class="begin-verse" mid="v14020015">
+			</marker>
+			<verse num="15">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Listen, all Judah and inhabitants of Jerusalem and King Jehoshaphat: Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 to you, 
+				<crossref let="d" cid="c14020015.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Do not be afraid and do not be dismayed at this great horde, 
+				<crossref let="e" cid="c14020015.2">
+				</crossref>
+				for the battle is not yours but God's.
+			</verse>
+			<marker class="begin-verse" mid="v14020016">
+			</marker>
+			<verse num="16">
+				Tomorrow go down against them. Behold, they will come up by the ascent of Ziz. You will find them at the end of 
+				<crossref let="f" cid="c14020016.1">
+				</crossref>
+				the valley, east of the wilderness of Jeruel.
+			</verse>
+			<marker class="begin-verse" mid="v14020017">
+			</marker>
+			<verse num="17">
+				<crossref let="g" cid="c14020017.1">
+				</crossref>
+				You will not need to fight in this battle. Stand firm, hold your position, and see the salvation of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 on your behalf, O Judah and Jerusalem.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<crossref let="d" cid="c14020017.2">
+				</crossref>
+				Do not be afraid and do not be dismayed. Tomorrow go out against them, 
+				<crossref let="h" cid="c14020017.3">
+				</crossref>
+				and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will be with you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v14020018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				Then Jehoshaphat 
+				<crossref let="i" cid="c14020018.1">
+				</crossref>
+				bowed his head with his face to the ground, and all Judah and the inhabitants of Jerusalem fell down before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, worshiping the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v14020019">
+			</marker>
+			<verse num="19">
+				And the Levites, of the 
+				<crossref let="j" cid="c14020019.1">
+				</crossref>
+				Kohathites and the 
+				<crossref let="k" cid="c14020019.2">
+				</crossref>
+				Korahites, stood up to praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel, with a very loud voice.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v14020020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				And they rose early in the morning and went out into 
+				<crossref let="l" cid="c14020020.1">
+				</crossref>
+				the wilderness of Tekoa. And when they went out, Jehoshaphat stood and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hear me, Judah and inhabitants of Jerusalem! 
+				<crossref let="m" cid="c14020020.2">
+				</crossref>
+				Believe in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God, and you will be established; believe his prophets, and you will succeed.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v14020021">
+			</marker>
+			<verse num="21">
+				And when he had taken counsel with the people, he appointed those who were to sing to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and praise him 
+				<crossref let="n" cid="c14020021.1">
+				</crossref>
+				in holy attire, as they went before the army, and say,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c14020021.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give thanks to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for his steadfast love endures forever.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v14020022">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="22">
+				And when they began to sing and praise, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 set 
+				<crossref let="p" cid="c14020022.1">
+				</crossref>
+				an ambush against the men of 
+				<crossref let="q" cid="c14020022.2">
+				</crossref>
+				Ammon, Moab, and Mount Seir, who had come against Judah, so that they were routed.
+			</verse>
+			<marker class="begin-verse" mid="v14020023">
+			</marker>
+			<verse num="23">
+				For the men of Ammon and Moab rose against the inhabitants of Mount Seir, devoting them to destruction, and when they had made an end of the inhabitants of Seir, 
+				<crossref let="r" cid="c14020023.1">
+				</crossref>
+				they all helped to destroy one another.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v14020024">
+			</marker>
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Delivers Judah
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				When Judah came to the watchtower of the wilderness, they looked toward the horde, and behold, there
+				<note nid="n14020024.1">
+				</note>
+				 were dead bodies lying on the ground; none had escaped.
+			</verse>
+			<marker class="begin-verse" mid="v14020025">
+			</marker>
+			<verse num="25">
+				When Jehoshaphat and his people came to take their spoil, they found among them, in great numbers, goods, clothing, and precious things, which they took for themselves until they could carry no more. They were three days in taking the spoil, it was so much.
+			</verse>
+			<marker class="begin-verse" mid="v14020026">
+			</marker>
+			<verse num="26">
+				On the fourth day they assembled in the Valley of Beracah,
+				<note nid="n14020026.1">
+				</note>
+				 for there they blessed the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. Therefore the name of that place has been called the Valley of Beracah to this day.
+			</verse>
+			<marker class="begin-verse" mid="v14020027">
+			</marker>
+			<verse num="27">
+				Then they returned, every man of Judah and Jerusalem, and Jehoshaphat at their head, returning to Jerusalem with joy, 
+				<crossref let="s" cid="c14020027.1">
+				</crossref>
+				for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had made them rejoice over their enemies.
+			</verse>
+			<marker class="begin-verse" mid="v14020028">
+			</marker>
+			<verse num="28">
+				They came to Jerusalem with harps and lyres and trumpets, to the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v14020029">
+			</marker>
+			<verse num="29">
+				<crossref let="t" cid="c14020029.1">
+				</crossref>
+				And the fear of God came on all the kingdoms of the countries when they heard that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had fought against the enemies of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v14020030">
+			</marker>
+			<verse num="30">
+				So the realm of Jehoshaphat was quiet, 
+				<crossref let="u" cid="c14020030.1">
+				</crossref>
+				for his God gave him rest all around.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v14020031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				<crossref let="v" cid="c14020031.1">
+				</crossref>
+				Thus Jehoshaphat reigned over Judah. He was thirty-five years old when he began to reign, and he reigned twenty-five years in Jerusalem. His mother's name was Azubah the daughter of Shilhi.
+			</verse>
+			<marker class="begin-verse" mid="v14020032">
+			</marker>
+			<verse num="32">
+				He walked in the way of Asa his father and did not turn aside from it, doing what was right in the sight of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v14020033">
+			</marker>
+			<verse num="33">
+				<crossref let="w" cid="c14020033.1">
+				</crossref>
+				The high places, however, were not taken away; 
+				<crossref let="x" cid="c14020033.2">
+				</crossref>
+				the people had not yet set their hearts upon the God of their fathers.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v14020034">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="34">
+				Now the rest of the acts of Jehoshaphat, from first to last, are written in the chronicles of 
+				<crossref let="y" cid="c14020034.1">
+				</crossref>
+				Jehu the son of Hanani, 
+				<crossref let="z" cid="c14020034.2">
+				</crossref>
+				which are recorded in the Book of the Kings of Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v14020035">
+			</marker>
+			<heading
+				>
+				The End of Jehoshaphat's Reign
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="35">
+				<crossref let="a" cid="c14020035.1">
+				</crossref>
+				After this Jehoshaphat king of Judah joined with Ahaziah king of Israel, who acted wickedly.
+			</verse>
+			<marker class="begin-verse" mid="v14020036">
+			</marker>
+			<verse num="36">
+				He joined him in building ships to go to 
+				<crossref let="b" cid="c14020036.1">
+				</crossref>
+				Tarshish, and they built the ships in Ezion-geber.
+			</verse>
+			<marker class="begin-verse" mid="v14020037">
+			</marker>
+			<verse num="37">
+				Then Eliezer the son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, 
+				<crossref let="c" cid="c14020037.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because you have joined with Ahaziah, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will destroy what you have made.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And the ships were wrecked and were not able to go to Tarshish.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

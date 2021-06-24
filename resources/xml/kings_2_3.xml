@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Kings" num="11">
+		<marker class="begin-verse" mid="v12003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				Moab Rebels Against Israel
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="f" cid="c12003001.1">
+				</crossref>
+				In the eighteenth year of Jehoshaphat king of Judah, Jehoram the son of Ahab became king over Israel in Samaria, and he reigned twelve years.
+			</verse>
+			<marker class="begin-verse" mid="v12003002">
+			</marker>
+			<verse num="2">
+				He did what was evil in the sight of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, though not like his father and mother, for he put away the 
+				<crossref let="g" cid="c12003002.1">
+				</crossref>
+				pillar of Baal 
+				<crossref let="h" cid="c12003002.2">
+				</crossref>
+				that his father had made.
+			</verse>
+			<marker class="begin-verse" mid="v12003003">
+			</marker>
+			<verse num="3">
+				Nevertheless, he clung to 
+				<crossref let="i" cid="c12003003.1">
+				</crossref>
+				the sin of Jeroboam the son of Nebat, 
+				<crossref let="j" cid="c12003003.2">
+				</crossref>
+				which he made Israel to sin; he did not depart from it.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v12003004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				Now Mesha king of Moab was a sheep breeder, 
+				<crossref let="k" cid="c12003004.1">
+				</crossref>
+				and he had to deliver to the king of Israel 100,000 lambs and the wool of 100,000 rams.
+			</verse>
+			<marker class="begin-verse" mid="v12003005">
+			</marker>
+			<verse num="5">
+				But 
+				<crossref let="l" cid="c12003005.1">
+				</crossref>
+				when Ahab died, the king of Moab rebelled against the king of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v12003006">
+			</marker>
+			<verse num="6">
+				So King Jehoram marched out of Samaria at that time and mustered all Israel.
+			</verse>
+			<marker class="begin-verse" mid="v12003007">
+			</marker>
+			<verse num="7">
+				And he went and sent word to Jehoshaphat king of Judah, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The king of Moab has rebelled against me. Will you go with me to battle against Moab?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will go. 
+				<crossref let="m" cid="c12003007.1">
+				</crossref>
+				I am as you are, my people as your people, my horses as your horses.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12003008">
+			</marker>
+			<verse num="8">
+				Then he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				By which way shall we march?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Jehoram answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				By the way of the wilderness of Edom.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v12003009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				So the king of Israel went with the king of Judah and 
+				<crossref let="n" cid="c12003009.1">
+				</crossref>
+				the king of Edom. And when they had made a circuitous march of seven days, there was no water for the army or for the animals that followed them.
+			</verse>
+			<marker class="begin-verse" mid="v12003010">
+			</marker>
+			<verse num="10">
+				Then the king of Israel said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Alas! 
+				<crossref let="o" cid="c12003010.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has called these three kings to give them into the hand of Moab.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12003011">
+			</marker>
+			<verse num="11">
+				<crossref let="p" cid="c12003011.1">
+				</crossref>
+				And Jehoshaphat said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is there no prophet of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 here, through whom we may inquire of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Then one of the king of Israel's servants answered, 
+				<crossref let="q" cid="c12003011.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Elisha the son of Shaphat is here, 
+				<crossref let="r" cid="c12003011.3">
+				</crossref>
+				who poured water on the hands of Elijah.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12003012">
+			</marker>
+			<verse num="12">
+				And Jehoshaphat said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is with him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So the king of Israel and Jehoshaphat and the king of Edom went down to him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v12003013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				And Elisha said to the king of Israel, 
+				<crossref let="s" cid="c12003013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What have I to do with you? Go to 
+				<crossref let="t" cid="c12003013.2">
+				</crossref>
+				the prophets of your father and to 
+				<crossref let="u" cid="c12003013.3">
+				</crossref>
+				the prophets of your mother.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But the king of Israel said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No; it is 
+				<crossref let="o" cid="c12003013.4">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 who has called these three kings to give them into the hand of Moab.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12003014">
+			</marker>
+			<verse num="14">
+				And Elisha said, 
+				<crossref let="v" cid="c12003014.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts lives, before whom I stand, were it not that I have regard for Jehoshaphat the king of Judah, I would neither look at you nor see you.
+			</verse>
+			<marker class="begin-verse" mid="v12003015">
+			</marker>
+			<verse num="15">
+				But now 
+				<crossref let="w" cid="c12003015.1">
+				</crossref>
+				bring me a musician.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And when the musician played, 
+				<crossref let="x" cid="c12003015.2">
+				</crossref>
+				the hand of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came upon him.
+			</verse>
+			<marker class="begin-verse" mid="v12003016">
+			</marker>
+			<verse num="16">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will make this dry streambed full of pools.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12003017">
+			</marker>
+			<verse num="17">
+				For thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You shall not see wind or rain, but that streambed shall be filled with water, so that you shall drink, you, your livestock, and your animals.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12003018">
+			</marker>
+			<verse num="18">
+				This is a light thing in the sight of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. He will also give the Moabites into your hand,
+			</verse>
+			<marker class="begin-verse" mid="v12003019">
+			</marker>
+			<verse num="19">
+				and you shall attack every fortified city and every choice city, and shall fell every good tree and stop up all springs of water 
+				<crossref let="y" cid="c12003019.1">
+				</crossref>
+				and ruin every good piece of land with stones.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12003020">
+			</marker>
+			<verse num="20">
+				The next morning, about the time of 
+				<crossref let="z" cid="c12003020.1">
+				</crossref>
+				offering the sacrifice, behold, water came from the direction of Edom, till the country was filled with water.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v12003021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				When all the Moabites heard that the kings had come up to fight against them, all who were able to put on armor, from the youngest to the oldest, were called out and were drawn up at the border.
+			</verse>
+			<marker class="begin-verse" mid="v12003022">
+			</marker>
+			<verse num="22">
+				And when they rose early in the morning and the sun shone on the water, the Moabites saw the water opposite them as red as blood.
+			</verse>
+			<marker class="begin-verse" mid="v12003023">
+			</marker>
+			<verse num="23">
+				And they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is blood; the kings have surely fought together and struck one another down. Now then, Moab, to the spoil!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12003024">
+			</marker>
+			<verse num="24">
+				But when they came to the camp of Israel, the Israelites rose and struck the Moabites, till they fled before them. And they went forward, striking the Moabites as they went.
+				<note nid="n12003024.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v12003025">
+			</marker>
+			<verse num="25">
+				And they overthrew the cities, and 
+				<crossref let="a" cid="c12003025.1">
+				</crossref>
+				on every good piece of land every man threw a stone until it was covered. They stopped every spring of water and felled all the good trees, till only its stones were left in 
+				<crossref let="b" cid="c12003025.2">
+				</crossref>
+				Kir-hareseth, and the slingers surrounded and attacked it.
+			</verse>
+			<marker class="begin-verse" mid="v12003026">
+			</marker>
+			<verse num="26">
+				When the king of Moab saw that the battle was going against him, he took with him 700 
+				<crossref let="c" cid="c12003026.1">
+				</crossref>
+				swordsmen to break through, opposite the king of Edom, but they could not.
+			</verse>
+			<marker class="begin-verse" mid="v12003027">
+			</marker>
+			<verse num="27">
+				Then he took his oldest son who was to reign in his place 
+				<crossref let="d" cid="c12003027.1">
+				</crossref>
+				and offered him for a burnt offering on the wall. And there came great wrath against Israel. And they withdrew from him and returned to their own land.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="John" num="42">
+		<marker class="begin-verse" mid="v43009001">
+		</marker>
+		<chapter num="9">
+			<heading
+				>
+				Jesus Heals a Man Born Blind
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				As he passed by, he saw a man blind from birth.
+			</verse>
+			<marker class="begin-verse" mid="v43009002">
+			</marker>
+			<verse num="2">
+				And his disciples asked him, 
+				<crossref let="c" cid="c43009002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Rabbi, 
+				<crossref let="d" cid="c43009002.2">
+				</crossref>
+				who sinned, 
+				<crossref let="e" cid="c43009002.3">
+				</crossref>
+				this man or 
+				<crossref let="f" cid="c43009002.4">
+				</crossref>
+				his parents, that he was born blind?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009003">
+			</marker>
+			<verse num="3">
+				Jesus answered, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					It was not that this man sinned, or his parents, but 
+					<crossref let="g" cid="c43009003.1">
+					</crossref>
+					that the works of God might be displayed in him.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43009004">
+			</marker>
+			<verse num="4" class="woc">
+				<woc
+					>
+					We must 
+					<crossref let="h" cid="c43009004.1">
+					</crossref>
+					work the works of him who sent me 
+					<crossref let="i" cid="c43009004.2">
+					</crossref>
+					while it is day; night is coming, when no one can work.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43009005">
+			</marker>
+			<verse num="5" class="woc">
+				<woc
+					>
+					As long as I am in the world, 
+					<crossref let="j" cid="c43009005.1">
+					</crossref>
+					I am the light of the world.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43009006">
+			</marker>
+			<verse num="6">
+				Having said these things, 
+				<crossref let="k" cid="c43009006.1">
+				</crossref>
+				he spat on the ground and made mud with the saliva. 
+				<crossref let="l" cid="c43009006.2">
+				</crossref>
+				Then he anointed the man's eyes with the mud
+			</verse>
+			<marker class="begin-verse" mid="v43009007">
+			</marker>
+			<verse num="7">
+				and said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go, wash in 
+					<crossref let="m" cid="c43009007.1">
+					</crossref>
+					the pool of Siloam
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 (which means Sent). So he went and washed and 
+				<crossref let="n" cid="c43009007.2">
+				</crossref>
+				came back seeing.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43009008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				The neighbors and those who had seen him before as a beggar were saying, 
+				<crossref let="o" cid="c43009008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is this not the man who used to sit and beg?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009009">
+			</marker>
+			<verse num="9">
+				Some said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is he.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Others said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No, but he is like him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He kept saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am the man.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009010">
+			</marker>
+			<verse num="10">
+				So they said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Then how were your eyes opened?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009011">
+			</marker>
+			<verse num="11">
+				He answered, 
+				<crossref let="p" cid="c43009011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The man called Jesus made mud and anointed my eyes and said to me, 
+				<woc
+					>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Go to Siloam and wash.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+				 So I went and washed and received my sight.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009012">
+			</marker>
+			<verse num="12">
+				They said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where is he?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I do not know.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43009013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				They brought to the Pharisees the man who had formerly been blind.
+			</verse>
+			<marker class="begin-verse" mid="v43009014">
+			</marker>
+			<verse num="14">
+				<crossref let="q" cid="c43009014.1">
+				</crossref>
+				Now it was a Sabbath day when Jesus made the mud and opened his eyes.
+			</verse>
+			<marker class="begin-verse" mid="v43009015">
+			</marker>
+			<verse num="15">
+				<crossref let="r" cid="c43009015.1">
+				</crossref>
+				So the Pharisees again asked him how he had received his sight. And he said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He put mud on my eyes, and I washed, and I see.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009016">
+			</marker>
+			<verse num="16">
+				Some of the Pharisees said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This man is not 
+				<crossref let="s" cid="c43009016.1">
+				</crossref>
+				from God, 
+				<crossref let="t" cid="c43009016.2">
+				</crossref>
+				for he does not keep the Sabbath.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But others said, 
+				<crossref let="u" cid="c43009016.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How can a man who is a sinner do such signs?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And 
+				<crossref let="v" cid="c43009016.4">
+				</crossref>
+				there was a division among them.
+			</verse>
+			<marker class="begin-verse" mid="v43009017">
+			</marker>
+			<verse num="17">
+				So they said again to the blind man, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What do you say about him, since he has opened your eyes?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He said, 
+				<crossref let="w" cid="c43009017.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He is a prophet.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43009018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				<crossref let="x" cid="c43009018.1">
+				</crossref>
+				The Jews did not believe that he had been blind and had received his sight, until they called the parents of the man who had received his sight
+			</verse>
+			<marker class="begin-verse" mid="v43009019">
+			</marker>
+			<verse num="19">
+				and asked them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is this your son, who you say was born blind? How then does he now see?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009020">
+			</marker>
+			<verse num="20">
+				His parents answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We know that this is our son and that he was born blind.
+			</verse>
+			<marker class="begin-verse" mid="v43009021">
+			</marker>
+			<verse num="21">
+				But how he now sees we do not know, nor do we know who opened his eyes. Ask him; he is of age. He will speak for himself.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009022">
+			</marker>
+			<verse num="22">
+				(His parents said these things 
+				<crossref let="y" cid="c43009022.1">
+				</crossref>
+				because they feared the Jews, for 
+				<crossref let="z" cid="c43009022.2">
+				</crossref>
+				the Jews had already agreed that if anyone should 
+				<crossref let="a" cid="c43009022.3">
+				</crossref>
+				confess Jesus
+				<note nid="n43009022.1">
+				</note>
+				 to be Christ, 
+				<crossref let="b" cid="c43009022.4">
+				</crossref>
+				he was to be put out of the synagogue.)
+			</verse>
+			<marker class="begin-verse" mid="v43009023">
+			</marker>
+			<verse num="23">
+				Therefore his parents said, 
+				<crossref let="c" cid="c43009023.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He is of age; ask him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43009024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				So for the second time they called the man who had been blind and said to him, 
+				<crossref let="d" cid="c43009024.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give glory to God. We know that 
+				<crossref let="e" cid="c43009024.2">
+				</crossref>
+				this man is a sinner.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009025">
+			</marker>
+			<verse num="25">
+				He answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whether he is a sinner I do not know. One thing I do know, that though I 
+				<crossref let="f" cid="c43009025.1">
+				</crossref>
+				was blind, now I see.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009026">
+			</marker>
+			<verse num="26">
+				They said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What did he do to you? How did he open your eyes?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009027">
+			</marker>
+			<verse num="27">
+				He answered them, 
+				<crossref let="g" cid="c43009027.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have told you already, and you would not listen. Why do you want to hear it again? Do you also want to become his disciples?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009028">
+			</marker>
+			<verse num="28">
+				And they reviled him, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are his disciple, but 
+				<crossref let="h" cid="c43009028.1">
+				</crossref>
+				we are disciples of Moses.
+			</verse>
+			<marker class="begin-verse" mid="v43009029">
+			</marker>
+			<verse num="29">
+				We know that God has spoken to Moses, but as for this man, 
+				<crossref let="i" cid="c43009029.1">
+				</crossref>
+				we do not know where he comes from.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009030">
+			</marker>
+			<verse num="30">
+				The man answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why, this is 
+				<crossref let="j" cid="c43009030.1">
+				</crossref>
+				an amazing thing! 
+				<crossref let="k" cid="c43009030.2">
+				</crossref>
+				You do not know where he comes from, and yet he opened my eyes.
+			</verse>
+			<marker class="begin-verse" mid="v43009031">
+			</marker>
+			<verse num="31">
+				We know that 
+				<crossref let="l" cid="c43009031.1">
+				</crossref>
+				God does not listen to sinners, but 
+				<crossref let="m" cid="c43009031.2">
+				</crossref>
+				if anyone is a worshiper of God and does his will, God listens to him.
+			</verse>
+			<marker class="begin-verse" mid="v43009032">
+			</marker>
+			<verse num="32">
+				Never since the world began has it been heard that anyone opened the eyes of a man born blind.
+			</verse>
+			<marker class="begin-verse" mid="v43009033">
+			</marker>
+			<verse num="33">
+				<crossref let="n" cid="c43009033.1">
+				</crossref>
+				If this man were not from God, he could do nothing.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009034">
+			</marker>
+			<verse num="34">
+				They answered him, 
+				<crossref let="o" cid="c43009034.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You were born in utter sin, and would you teach us?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And they 
+				<crossref let="p" cid="c43009034.2">
+				</crossref>
+				cast him out.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43009035">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="35">
+				Jesus heard that they had cast him out, and having found him he said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Do you believe in 
+					<crossref let="q" cid="c43009035.1">
+					</crossref>
+					the Son of Man?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+					<note nid="n43009035.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43009036">
+			</marker>
+			<verse num="36">
+				He answered, 
+				<crossref let="r" cid="c43009036.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				And who is he, sir, that I may believe in him?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009037">
+			</marker>
+			<verse num="37">
+				Jesus said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You have seen him, and 
+					<crossref let="s" cid="c43009037.1">
+					</crossref>
+					it is he who is speaking to you.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43009038">
+			</marker>
+			<verse num="38">
+				He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, I believe,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 and he worshiped him.
+			</verse>
+			<marker class="begin-verse" mid="v43009039">
+			</marker>
+			<verse num="39">
+				Jesus said, 
+				<woc
+					>
+					<crossref let="t" cid="c43009039.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					For judgment I came into this world, 
+					<crossref let="u" cid="c43009039.2">
+					</crossref>
+					that those who do not see may see, and 
+					<crossref let="v" cid="c43009039.3">
+					</crossref>
+					those who see may become blind.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43009040">
+			</marker>
+			<verse num="40">
+				Some of the Pharisees near him heard these things, and said to him, 
+				<crossref let="w" cid="c43009040.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Are we also blind?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43009041">
+			</marker>
+			<verse num="41">
+				Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If you were blind, 
+					<crossref let="x" cid="c43009041.1">
+					</crossref>
+					you would have no guilt;
+					<note nid="n43009041.1">
+					</note>
+					 but now that you say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					We see,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 your guilt remains.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

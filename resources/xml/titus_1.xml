@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Titus" num="56">
+		<marker class="begin-verse" mid="v56001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Paul, a servant
+				<note nid="n56001001.1">
+				</note>
+				 of God and 
+				<crossref let="a" cid="c56001001.1">
+				</crossref>
+				an apostle of Jesus Christ, for the sake of the faith of God's elect and 
+				<crossref let="b" cid="c56001001.2">
+				</crossref>
+				their knowledge of the truth, 
+				<crossref let="c" cid="c56001001.3">
+				</crossref>
+				which accords with godliness,
+			</verse>
+			<marker class="begin-verse" mid="v56001002">
+			</marker>
+			<verse num="2">
+				<crossref let="d" cid="c56001002.1">
+				</crossref>
+				in hope of eternal life, which God, 
+				<crossref let="e" cid="c56001002.2">
+				</crossref>
+				who never lies, 
+				<crossref let="f" cid="c56001002.3">
+				</crossref>
+				promised 
+				<crossref let="g" cid="c56001002.4">
+				</crossref>
+				before the ages began
+				<note nid="n56001002.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v56001003">
+			</marker>
+			<verse num="3">
+				and 
+				<crossref let="h" cid="c56001003.1">
+				</crossref>
+				at the proper time manifested in his word 
+				<crossref let="i" cid="c56001003.2">
+				</crossref>
+				through the preaching 
+				<crossref let="j" cid="c56001003.3">
+				</crossref>
+				with which I have been entrusted 
+				<crossref let="k" cid="c56001003.4">
+				</crossref>
+				by the command of God our Savior;
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v56001004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				To Titus, 
+				<crossref let="l" cid="c56001004.1">
+				</crossref>
+				my true child in 
+				<crossref let="m" cid="c56001004.2">
+				</crossref>
+				a common faith:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				<crossref let="n" cid="c56001004.3">
+				</crossref>
+				Grace and peace from God the Father and Christ Jesus our Savior.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v56001005">
+			</marker>
+			<heading
+				>
+				Qualifications for Elders
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				<crossref let="o" cid="c56001005.1">
+				</crossref>
+				This is why I left you in Crete, so that you might put what remained into order, and 
+				<crossref let="p" cid="c56001005.2">
+				</crossref>
+				appoint elders in every town as I directed youù
+			</verse>
+			<marker class="begin-verse" mid="v56001006">
+			</marker>
+			<verse num="6">
+				<crossref let="q" cid="c56001006.1">
+				</crossref>
+				if anyone is above reproach, the husband of one wife,
+				<note nid="n56001006.1">
+				</note>
+				 and his children are believers and not open to the charge of 
+				<crossref let="r" cid="c56001006.2">
+				</crossref>
+				debauchery or insubordination.
+			</verse>
+			<marker class="begin-verse" mid="v56001007">
+			</marker>
+			<verse num="7">
+				For an overseer,
+				<note nid="n56001007.1">
+				</note>
+				<crossref let="s" cid="c56001007.1">
+				</crossref>
+				as God's steward, must be above reproach. He must not 
+				<crossref let="t" cid="c56001007.2">
+				</crossref>
+				be arrogant or quick-tempered or a drunkard or violent 
+				<crossref let="u" cid="c56001007.3">
+				</crossref>
+				or greedy for gain,
+			</verse>
+			<marker class="begin-verse" mid="v56001008">
+			</marker>
+			<verse num="8">
+				but hospitable, a lover of good, self-controlled, upright, holy, 
+				<crossref let="v" cid="c56001008.1">
+				</crossref>
+				and disciplined.
+			</verse>
+			<marker class="begin-verse" mid="v56001009">
+			</marker>
+			<verse num="9">
+				He must 
+				<crossref let="w" cid="c56001009.1">
+				</crossref>
+				hold firm to the trustworthy word as taught, so that he may be able to give instruction in 
+				<crossref let="x" cid="c56001009.2">
+				</crossref>
+				sound
+				<note nid="n56001009.1">
+				</note>
+				 doctrine and also to rebuke those who contradict it.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v56001010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				For there are many who are insubordinate, 
+				<crossref let="y" cid="c56001010.1">
+				</crossref>
+				empty talkers and deceivers, especially those of 
+				<crossref let="z" cid="c56001010.2">
+				</crossref>
+				the circumcision party.
+			</verse>
+			<marker class="begin-verse" mid="v56001011">
+			</marker>
+			<verse num="11">
+				They must be silenced, since 
+				<crossref let="a" cid="c56001011.1">
+				</crossref>
+				they are upsetting whole families by teaching 
+				<crossref let="b" cid="c56001011.2">
+				</crossref>
+				for shameful gain what they ought not to teach.
+			</verse>
+			<marker class="begin-verse" mid="v56001012">
+			</marker>
+			<verse num="12">
+				<crossref let="c" cid="c56001012.1">
+				</crossref>
+				One of the Cretans,
+				<note nid="n56001012.1">
+				</note>
+				 a prophet of their own, said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Cretans are always liars, evil beasts, lazy gluttons.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n56001012.2">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v56001013">
+			</marker>
+			<verse num="13">
+				This testimony is true. Therefore 
+				<crossref let="d" cid="c56001013.1">
+				</crossref>
+				rebuke them 
+				<crossref let="e" cid="c56001013.2">
+				</crossref>
+				sharply, that they 
+				<crossref let="f" cid="c56001013.3">
+				</crossref>
+				may be sound in the faith,
+			</verse>
+			<marker class="begin-verse" mid="v56001014">
+			</marker>
+			<verse num="14">
+				<crossref let="g" cid="c56001014.1">
+				</crossref>
+				not devoting themselves to Jewish myths and 
+				<crossref let="h" cid="c56001014.2">
+				</crossref>
+				the commands of people 
+				<crossref let="i" cid="c56001014.3">
+				</crossref>
+				who turn away from the truth.
+			</verse>
+			<marker class="begin-verse" mid="v56001015">
+			</marker>
+			<verse num="15">
+				<crossref let="j" cid="c56001015.1">
+				</crossref>
+				To the pure, all things are pure, but to the defiled and 
+				<crossref let="k" cid="c56001015.2">
+				</crossref>
+				unbelieving, nothing is pure; but both 
+				<crossref let="l" cid="c56001015.3">
+				</crossref>
+				their minds and their consciences are defiled.
+			</verse>
+			<marker class="begin-verse" mid="v56001016">
+			</marker>
+			<verse num="16">
+				<crossref let="m" cid="c56001016.1">
+				</crossref>
+				They profess to know God, but they 
+				<crossref let="n" cid="c56001016.2">
+				</crossref>
+				deny him by their works. They are detestable, disobedient, 
+				<crossref let="o" cid="c56001016.3">
+				</crossref>
+				unfit for any good work.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

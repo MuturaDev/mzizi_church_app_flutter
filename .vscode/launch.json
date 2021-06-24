@@ -5,15 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Flutter",
+            "name": "mzizicms",
             "type": "dart",
             "request": "launch",
-            "program": "lib/main.dart"
+            "program": "lib/main.dart",
+            "args": [
+                "--flavor",
+                "mzizicms"
+            ]
         },
-        {
-            "name": "Flutter",
-            "request": "launch",
-            "type": "dart"
-        }
+        // {
+        //     "name": "flutter",
+        //     "type": "dart",
+        //     "request": "launch",
+        //     "program": "lib/main.dart"
+        // }
     ]
 }

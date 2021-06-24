@@ -1,0 +1,612 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Song of Solomon" num="21">
+		<marker class="begin-verse" mid="v22005001">
+		</marker>
+		<chapter num="5">
+			<subheading class="speaker">
+				He
+			</subheading>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="g" cid="c22005001.1">
+				</crossref>
+				came to my garden, my 
+				<crossref let="h" cid="c22005001.2">
+				</crossref>
+				sister, my bride,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I gathered my 
+				<crossref let="i" cid="c22005001.3">
+				</crossref>
+				myrrh with my spice,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I ate my 
+				<crossref let="j" cid="c22005001.4">
+				</crossref>
+				honeycomb with my honey,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I 
+				<crossref let="k" cid="c22005001.5">
+				</crossref>
+				drank my wine with my milk.
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<subheading class="speaker">
+					Others
+				</subheading>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				Eat, 
+				<crossref let="l" cid="c22005001.6">
+				</crossref>
+				friends, drink,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and be drunk with love!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v22005002">
+			</marker>
+			<heading
+				>
+				The Bride Searches for Her Beloved
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<subheading class="speaker">
+				She
+			</subheading>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				I slept, but my heart was awake.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				A sound! My beloved is 
+				<crossref let="m" cid="c22005002.1">
+				</crossref>
+				knocking.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Open to me, my 
+				<crossref let="n" cid="c22005002.2">
+				</crossref>
+				sister, my 
+				<crossref let="o" cid="c22005002.3">
+				</crossref>
+				love,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my 
+				<crossref let="p" cid="c22005002.4">
+				</crossref>
+				dove, my 
+				<crossref let="q" cid="c22005002.5">
+				</crossref>
+				perfect one,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for my head is wet with dew,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my 
+				<crossref let="r" cid="c22005002.6">
+				</crossref>
+				locks with the drops of the night.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22005003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c22005003.1">
+				</crossref>
+				I had put off my garment;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				how could I put it on?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I had 
+				<crossref let="t" cid="c22005003.2">
+				</crossref>
+				bathed my feet;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				how could I soil them?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22005004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				My beloved put his hand to the latch,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my heart was thrilled within me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22005005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				I arose to open to my beloved,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my hands dripped with myrrh,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				my fingers with 
+				<crossref let="u" cid="c22005005.1">
+				</crossref>
+				liquid myrrh,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on the handles of the bolt.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22005006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				I opened to my beloved,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but my beloved had turned and gone.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				My soul failed me when he 
+				<crossref let="v" cid="c22005006.1">
+				</crossref>
+				spoke.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c22005006.2">
+				</crossref>
+				I sought him, but found him not;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c22005006.3">
+				</crossref>
+				I called him, but he gave no answer.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22005007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c22005007.1">
+				</crossref>
+				The watchmen found me
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as they went about in the city;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				they beat me, they bruised me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they took away my veil,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				those watchmen of the walls.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22005008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="z" cid="c22005008.1">
+				</crossref>
+				adjure you, O 
+				<crossref let="a" cid="c22005008.2">
+				</crossref>
+				daughters of Jerusalem,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				if you find my beloved,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				that you tell him
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c22005008.3">
+				</crossref>
+				I am sick with love.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v22005009">
+			</marker>
+			<subheading class="speaker">
+				Others
+			</subheading>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				What is your beloved more than another beloved,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<crossref let="c" cid="c22005009.1">
+				</crossref>
+				most beautiful among women?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				What is your beloved more than another beloved,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that you thus 
+				<crossref let="z" cid="c22005009.2">
+				</crossref>
+				adjure us?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v22005010">
+			</marker>
+			<heading
+				>
+				The Bride Praises Her Beloved
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<subheading class="speaker">
+				She
+			</subheading>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				My beloved is radiant and 
+				<crossref let="d" cid="c22005010.1">
+				</crossref>
+				ruddy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c22005010.2">
+				</crossref>
+				distinguished among ten thousand.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22005011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				His head is the finest gold;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c22005011.1">
+				</crossref>
+				his locks are wavy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				black as a raven.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22005012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				His 
+				<crossref let="g" cid="c22005012.1">
+				</crossref>
+				eyes are like doves
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				beside streams of water,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				bathed in milk,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				sitting beside a full pool.
+				<note nid="n22005012.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22005013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				His 
+				<crossref let="i" cid="c22005013.1">
+				</crossref>
+				cheeks are like 
+				<crossref let="j" cid="c22005013.2">
+				</crossref>
+				beds of spices,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				mounds of sweet-smelling herbs.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				His lips are 
+				<crossref let="k" cid="c22005013.3">
+				</crossref>
+				lilies,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				dripping 
+				<crossref let="u" cid="c22005013.4">
+				</crossref>
+				liquid myrrh.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22005014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				His arms are rods of gold,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				set with 
+				<crossref let="l" cid="c22005014.1">
+				</crossref>
+				jewels.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				His body is polished ivory,
+				<note nid="n22005014.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				bedecked with 
+				<crossref let="m" cid="c22005014.2">
+				</crossref>
+				sapphires.
+				<note nid="n22005014.2">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22005015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				His legs are alabaster columns,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				set on bases of gold.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				His appearance is like 
+				<crossref let="o" cid="c22005015.1">
+				</crossref>
+				Lebanon,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				choice as the cedars.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22005016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				His 
+				<crossref let="p" cid="c22005016.1">
+				</crossref>
+				mouth
+				<note nid="n22005016.1">
+				</note>
+				 is most sweet,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he is altogether desirable.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				This is my beloved and this is my friend,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<crossref let="a" cid="c22005016.2">
+				</crossref>
+				daughters of Jerusalem.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

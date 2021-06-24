@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Chronicles" num="13">
+		<marker class="begin-verse" mid="v14027001">
+		</marker>
+		<chapter num="27">
+			<heading
+				>
+				Jotham Reigns in Judah
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="a" cid="c14027001.1">
+				</crossref>
+				Jotham was twenty-five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother's name was Jerushah the daughter of Zadok.
+			</verse>
+			<marker class="begin-verse" mid="v14027002">
+			</marker>
+			<verse num="2">
+				And he did what was right in the eyes of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 according to all that his father Uzziah had done, 
+				<crossref let="b" cid="c14027002.1">
+				</crossref>
+				except he did not enter the temple of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. But the people still followed corrupt practices.
+			</verse>
+			<marker class="begin-verse" mid="v14027003">
+			</marker>
+			<verse num="3">
+				He built the upper gate of the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and did much building on the wall of 
+				<crossref let="c" cid="c14027003.1">
+				</crossref>
+				Ophel.
+			</verse>
+			<marker class="begin-verse" mid="v14027004">
+			</marker>
+			<verse num="4">
+				Moreover, he built cities in the hill country of Judah, and forts and towers on the wooded hills.
+			</verse>
+			<marker class="begin-verse" mid="v14027005">
+			</marker>
+			<verse num="5">
+				He fought with the king of the Ammonites and prevailed against them. And the Ammonites gave him that year 100 talents
+				<note nid="n14027005.1">
+				</note>
+				 of silver, and 10,000 cors
+				<note nid="n14027005.2">
+				</note>
+				 of wheat and 10,000 of barley. The Ammonites paid him the same amount in the second and the third years.
+			</verse>
+			<marker class="begin-verse" mid="v14027006">
+			</marker>
+			<verse num="6">
+				So Jotham became mighty, because he ordered his ways before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 his God.
+			</verse>
+			<marker class="begin-verse" mid="v14027007">
+			</marker>
+			<verse num="7">
+				<crossref let="d" cid="c14027007.1">
+				</crossref>
+				Now the rest of the acts of Jotham, and all his wars and his ways, behold, they are written in the Book of the Kings of Israel and Judah.
+			</verse>
+			<marker class="begin-verse" mid="v14027008">
+			</marker>
+			<verse num="8">
+				He was 
+				<crossref let="e" cid="c14027008.1">
+				</crossref>
+				twenty-five years old when he began to reign, and he reigned sixteen years in Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v14027009">
+			</marker>
+			<verse num="9">
+				And Jotham slept with his fathers, and they buried him in the city of David, and Ahaz his son reigned in his place.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

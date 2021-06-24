@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02021001">
+		</marker>
+		<chapter num="21">
+			<heading
+				>
+				Laws About Slaves
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Now these are the 
+				<crossref let="h" cid="c02021001.1">
+				</crossref>
+				rules that you shall set before them.
+			</verse>
+			<marker class="begin-verse" mid="v02021002">
+			</marker>
+			<verse num="2">
+				<crossref let="i" cid="c02021002.1">
+				</crossref>
+				When you buy a Hebrew slave, he shall serve six years, and in the seventh he shall go out free, for nothing.
+			</verse>
+			<marker class="begin-verse" mid="v02021003">
+			</marker>
+			<verse num="3">
+				If he comes in single, he shall go out single; if he comes in married, then his wife shall go out with him.
+			</verse>
+			<marker class="begin-verse" mid="v02021004">
+			</marker>
+			<verse num="4">
+				If his master gives him a wife and she bears him sons or daughters, the wife and her children shall be her master's, and he shall go out alone.
+			</verse>
+			<marker class="begin-verse" mid="v02021005">
+			</marker>
+			<verse num="5">
+				But 
+				<crossref let="j" cid="c02021005.1">
+				</crossref>
+				if the slave plainly says, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I love my master, my wife, and my children; I will not go out free,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02021006">
+			</marker>
+			<verse num="6">
+				then his master shall bring him to 
+				<crossref let="k" cid="c02021006.1">
+				</crossref>
+				God, and he shall bring him to the door or the doorpost. And his master shall bore his ear through with an awl, and he shall be his slave forever.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02021007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				When a man 
+				<crossref let="l" cid="c02021007.1">
+				</crossref>
+				sells his daughter as a slave, she shall not go out as the male slaves do.
+			</verse>
+			<marker class="begin-verse" mid="v02021008">
+			</marker>
+			<verse num="8">
+				If she does not please her master, who has designated her
+				<note nid="n02021008.1">
+				</note>
+				 for himself, then he shall let her be redeemed. He shall have no right to sell her to a foreign people, since he has broken faith with her.
+			</verse>
+			<marker class="begin-verse" mid="v02021009">
+			</marker>
+			<verse num="9">
+				If he designates her for his son, he shall deal with her as with a daughter.
+			</verse>
+			<marker class="begin-verse" mid="v02021010">
+			</marker>
+			<verse num="10">
+				If he takes another wife to himself, he shall not diminish her food, her clothing, or 
+				<crossref let="m" cid="c02021010.1">
+				</crossref>
+				her marital rights.
+			</verse>
+			<marker class="begin-verse" mid="v02021011">
+			</marker>
+			<verse num="11">
+				And if he does not do these three things for her, she shall go out for nothing, without payment of money.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02021012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				<crossref let="n" cid="c02021012.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Whoever strikes a man so that he dies shall be put to death.
+			</verse>
+			<marker class="begin-verse" mid="v02021013">
+			</marker>
+			<verse num="13">
+				<crossref let="o" cid="c02021013.1">
+				</crossref>
+				But if he did not lie in wait for him, but God let him fall into his hand, then 
+				<crossref let="p" cid="c02021013.2">
+				</crossref>
+				I will appoint for you a place to which he may flee.
+			</verse>
+			<marker class="begin-verse" mid="v02021014">
+			</marker>
+			<verse num="14">
+				But if a man willfully attacks another to kill him by cunning, 
+				<crossref let="q" cid="c02021014.1">
+				</crossref>
+				you shall take him from my altar, that he may die.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02021015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Whoever strikes his father or his mother shall be put to death.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02021016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				<crossref let="r" cid="c02021016.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Whoever steals a man and sells him, and anyone found 
+				<crossref let="s" cid="c02021016.2">
+				</crossref>
+				in possession of him, shall be put to death.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02021017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				<crossref let="t" cid="c02021017.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Whoever curses
+				<note nid="n02021017.1">
+				</note>
+				 his father or his mother shall be put to death.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02021018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				When men quarrel and one strikes the other with a stone or with his fist and the man does not die but takes to his bed,
+			</verse>
+			<marker class="begin-verse" mid="v02021019">
+			</marker>
+			<verse num="19">
+				then if the man rises again and walks outdoors with his staff, he who struck him shall be clear; only he shall pay for the loss of his time, and shall have him thoroughly healed.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02021020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				When a man strikes his slave, male or female, with a rod and the slave dies under his hand, he shall be avenged.
+			</verse>
+			<marker class="begin-verse" mid="v02021021">
+			</marker>
+			<verse num="21">
+				But if the slave survives a day or two, he is not to be avenged, for the 
+				<crossref let="u" cid="c02021021.1">
+				</crossref>
+				slave is his money.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02021022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				When men strive together and hit a pregnant woman, so that her children come out, but there is no harm, the one who hit her shall surely be fined, as the woman's husband shall impose on him, and 
+				<crossref let="v" cid="c02021022.1">
+				</crossref>
+				he shall pay as the 
+				<crossref let="w" cid="c02021022.2">
+				</crossref>
+				judges determine.
+			</verse>
+			<marker class="begin-verse" mid="v02021023">
+			</marker>
+			<verse num="23">
+				But if there is harm,
+				<note nid="n02021023.1">
+				</note>
+				 then you shall pay 
+				<crossref let="x" cid="c02021023.1">
+				</crossref>
+				life for life,
+			</verse>
+			<marker class="begin-verse" mid="v02021024">
+			</marker>
+			<verse num="24">
+				<crossref let="y" cid="c02021024.1">
+				</crossref>
+				eye for eye, tooth for tooth, hand for hand, foot for foot,
+			</verse>
+			<marker class="begin-verse" mid="v02021025">
+			</marker>
+			<verse num="25">
+				burn for burn, wound for wound, stripe for stripe.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02021026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				When a man strikes the eye of his slave, male or female, and destroys it, he shall let the slave go free because of his eye.
+			</verse>
+			<marker class="begin-verse" mid="v02021027">
+			</marker>
+			<verse num="27">
+				If he knocks out the tooth of his slave, male or female, he shall let the slave go free because of his tooth.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02021028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				When an ox gores a man or a woman to death, the 
+				<crossref let="z" cid="c02021028.1">
+				</crossref>
+				ox shall be stoned, and its flesh shall not be eaten, but the owner of the ox shall not be liable.
+			</verse>
+			<marker class="begin-verse" mid="v02021029">
+			</marker>
+			<verse num="29">
+				But if the ox has been accustomed to gore in the past, and its owner has been warned but has not kept it in, and it kills a man or a woman, the ox shall be stoned, and its owner also shall be put to death.
+			</verse>
+			<marker class="begin-verse" mid="v02021030">
+			</marker>
+			<verse num="30">
+				If 
+				<crossref let="a" cid="c02021030.1">
+				</crossref>
+				a ransom is imposed on him, then 
+				<crossref let="v" cid="c02021030.2">
+				</crossref>
+				he shall give for the redemption of his life whatever is imposed on him.
+			</verse>
+			<marker class="begin-verse" mid="v02021031">
+			</marker>
+			<verse num="31">
+				If it gores a man's son or daughter, he shall be dealt with according to this same rule.
+			</verse>
+			<marker class="begin-verse" mid="v02021032">
+			</marker>
+			<verse num="32">
+				If the ox gores a slave, male or female, the owner shall give to their master 
+				<crossref let="b" cid="c02021032.1">
+				</crossref>
+				thirty shekels
+				<note nid="n02021032.1">
+				</note>
+				 of silver, and 
+				<crossref let="z" cid="c02021032.2">
+				</crossref>
+				the ox shall be stoned.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02021033">
+			</marker>
+			<heading
+				>
+				Laws About Restitution
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="33">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				When a man opens a pit, or when a man digs a pit and does not cover it, and an ox or a donkey falls into it,
+			</verse>
+			<marker class="begin-verse" mid="v02021034">
+			</marker>
+			<verse num="34">
+				the owner of the pit shall make restoration. He shall give money to its owner, and the dead beast shall be his.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02021035">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="35">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				When one man's ox butts another's, so that it dies, then they shall sell the live ox and share its price, and the dead beast also they shall share.
+			</verse>
+			<marker class="begin-verse" mid="v02021036">
+			</marker>
+			<verse num="36">
+				Or if it is known that the ox has been accustomed to gore in the past, and its owner has not kept it in, he shall repay ox for ox, and the dead beast shall be his.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19150001">
+		</marker>
+		<chapter num="150">
+			<heading
+				>
+				Let Everything Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19150001.1">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Praise God in his 
+				<crossref let="m" cid="c19150001.2">
+				</crossref>
+				sanctuary;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				praise him in 
+				<crossref let="n" cid="c19150001.3">
+				</crossref>
+				his mighty heavens!
+				<note nid="n19150001.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19150002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Praise him for his 
+				<crossref let="o" cid="c19150002.1">
+				</crossref>
+				mighty deeds;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				praise him according to his excellent 
+				<crossref let="p" cid="c19150002.2">
+				</crossref>
+				greatness!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19150003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Praise him with 
+				<crossref let="q" cid="c19150003.1">
+				</crossref>
+				trumpet sound;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				praise him with 
+				<crossref let="r" cid="c19150003.2">
+				</crossref>
+				lute and 
+				<crossref let="r" cid="c19150003.3">
+				</crossref>
+				harp!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19150004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Praise him with 
+				<crossref let="s" cid="c19150004.1">
+				</crossref>
+				tambourine and 
+				<crossref let="s" cid="c19150004.2">
+				</crossref>
+				dance;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				praise him with 
+				<crossref let="t" cid="c19150004.3">
+				</crossref>
+				strings and 
+				<crossref let="u" cid="c19150004.4">
+				</crossref>
+				pipe!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19150005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Praise him with sounding 
+				<crossref let="v" cid="c19150005.1">
+				</crossref>
+				cymbals;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				praise him with loud clashing cymbals!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19150006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Let 
+				<crossref let="w" cid="c19150006.1">
+				</crossref>
+				everything that has breath praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19150006.2">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

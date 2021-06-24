@@ -1,0 +1,816 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="John" num="43">
+		<marker class="begin-verse" mid="v43001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				The Word Became Flesh
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="a" cid="c43001001.1">
+				</crossref>
+				In the beginning was 
+				<crossref let="b" cid="c43001001.2">
+				</crossref>
+				the Word, and 
+				<crossref let="c" cid="c43001001.3">
+				</crossref>
+				the Word was with God, and 
+				<crossref let="d" cid="c43001001.4">
+				</crossref>
+				the Word was God.
+			</verse>
+			<marker class="begin-verse" mid="v43001002">
+			</marker>
+			<verse num="2">
+				He was in the beginning with God.
+			</verse>
+			<marker class="begin-verse" mid="v43001003">
+			</marker>
+			<verse num="3">
+				<crossref let="e" cid="c43001003.1">
+				</crossref>
+				All things were made through him, and without him was not any thing made that was made.
+			</verse>
+			<marker class="begin-verse" mid="v43001004">
+			</marker>
+			<verse num="4">
+				<crossref let="f" cid="c43001004.1">
+				</crossref>
+				In him was life,
+				<note nid="n43001004.1">
+				</note>
+				 and 
+				<crossref let="g" cid="c43001004.2">
+				</crossref>
+				the life was the light of men.
+			</verse>
+			<marker class="begin-verse" mid="v43001005">
+			</marker>
+			<verse num="5">
+				<crossref let="h" cid="c43001005.1">
+				</crossref>
+				The light shines in the darkness, and the darkness has not overcome it.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43001006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				There was a man 
+				<crossref let="i" cid="c43001006.1">
+				</crossref>
+				sent from God, whose name was 
+				<crossref let="j" cid="c43001006.2">
+				</crossref>
+				John.
+			</verse>
+			<marker class="begin-verse" mid="v43001007">
+			</marker>
+			<verse num="7">
+				He came as a 
+				<crossref let="k" cid="c43001007.1">
+				</crossref>
+				witness, to bear witness about the light, 
+				<crossref let="l" cid="c43001007.2">
+				</crossref>
+				that all might believe through him.
+			</verse>
+			<marker class="begin-verse" mid="v43001008">
+			</marker>
+			<verse num="8">
+				<crossref let="m" cid="c43001008.1">
+				</crossref>
+				He was not the light, but came to bear witness about the light.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43001009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<crossref let="n" cid="c43001009.1">
+				</crossref>
+				The true light, which enlightens everyone, was coming into the world.
+			</verse>
+			<marker class="begin-verse" mid="v43001010">
+			</marker>
+			<verse num="10">
+				He was in the world, and the world was made through him, yet 
+				<crossref let="o" cid="c43001010.1">
+				</crossref>
+				the world did not know him.
+			</verse>
+			<marker class="begin-verse" mid="v43001011">
+			</marker>
+			<verse num="11">
+				He came to 
+				<crossref let="p" cid="c43001011.1">
+				</crossref>
+				his own,
+				<note nid="n43001011.1">
+				</note>
+				 and 
+				<crossref let="q" cid="c43001011.2">
+				</crossref>
+				his own people
+				<note nid="n43001011.2">
+				</note>
+				<crossref let="r" cid="c43001011.3">
+				</crossref>
+				did not receive him.
+			</verse>
+			<marker class="begin-verse" mid="v43001012">
+			</marker>
+			<verse num="12">
+				But to all who did receive him, 
+				<crossref let="s" cid="c43001012.1">
+				</crossref>
+				who believed in his name, 
+				<crossref let="t" cid="c43001012.2">
+				</crossref>
+				he gave the right 
+				<crossref let="u" cid="c43001012.3">
+				</crossref>
+				to become 
+				<crossref let="v" cid="c43001012.4">
+				</crossref>
+				children of God,
+			</verse>
+			<marker class="begin-verse" mid="v43001013">
+			</marker>
+			<verse num="13">
+				who 
+				<crossref let="w" cid="c43001013.1">
+				</crossref>
+				were born, 
+				<crossref let="x" cid="c43001013.2">
+				</crossref>
+				not of blood 
+				<crossref let="y" cid="c43001013.3">
+				</crossref>
+				nor of the will of the flesh nor of the will of man, but of God.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43001014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				And 
+				<crossref let="z" cid="c43001014.1">
+				</crossref>
+				the Word 
+				<crossref let="a" cid="c43001014.2">
+				</crossref>
+				became flesh and 
+				<crossref let="b" cid="c43001014.3">
+				</crossref>
+				dwelt among us, 
+				<crossref let="c" cid="c43001014.4">
+				</crossref>
+				and we have seen his glory, glory as of the only Son from the Father, full of 
+				<crossref let="d" cid="c43001014.5">
+				</crossref>
+				grace and 
+				<crossref let="e" cid="c43001014.6">
+				</crossref>
+				truth.
+			</verse>
+			<marker class="begin-verse" mid="v43001015">
+			</marker>
+			<verse num="15">
+				(
+				<crossref let="f" cid="c43001015.1">
+				</crossref>
+				John bore witness about him, and cried out, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This was he of whom I said, 
+				<crossref let="g" cid="c43001015.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				He who comes after me ranks before me, because he was before me.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				)
+			</verse>
+			<marker class="begin-verse" mid="v43001016">
+			</marker>
+			<verse num="16">
+				And from 
+				<crossref let="h" cid="c43001016.1">
+				</crossref>
+				his fullness we have all received, 
+				<crossref let="i" cid="c43001016.2">
+				</crossref>
+				grace upon grace.
+			</verse>
+			<marker class="begin-verse" mid="v43001017">
+			</marker>
+			<verse num="17">
+				For 
+				<crossref let="j" cid="c43001017.1">
+				</crossref>
+				the law was given through Moses; 
+				<crossref let="k" cid="c43001017.2">
+				</crossref>
+				grace and truth came through Jesus Christ.
+			</verse>
+			<marker class="begin-verse" mid="v43001018">
+			</marker>
+			<verse num="18">
+				<crossref let="l" cid="c43001018.1">
+				</crossref>
+				No one has ever seen God; 
+				<crossref let="m" cid="c43001018.2">
+				</crossref>
+				the only God,
+				<note nid="n43001018.1">
+				</note>
+				 who is at the Father's side,
+				<note nid="n43001018.2">
+				</note>
+				<crossref let="n" cid="c43001018.3">
+				</crossref>
+				he has made him known.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43001019">
+			</marker>
+			<heading
+				>
+				The Testimony of John the Baptist
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				And this is the 
+				<crossref let="o" cid="c43001019.1">
+				</crossref>
+				testimony of John, when the Jews sent priests and Levites from Jerusalem to ask him, 
+				<crossref let="p" cid="c43001019.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who are you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001020">
+			</marker>
+			<verse num="20">
+				<crossref let="q" cid="c43001020.1">
+				</crossref>
+				He confessed, and did not deny, but confessed, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am not the Christ.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001021">
+			</marker>
+			<verse num="21">
+				And they asked him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What then? 
+				<crossref let="r" cid="c43001021.1">
+				</crossref>
+				Are you Elijah?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am not.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Are you 
+				<crossref let="s" cid="c43001021.2">
+				</crossref>
+				the Prophet?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001022">
+			</marker>
+			<verse num="22">
+				So they said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who are you? We need to give an answer to those who sent us. What do you say about yourself?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001023">
+			</marker>
+			<verse num="23">
+				He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am 
+				<crossref let="t" cid="c43001023.1">
+				</crossref>
+				<crossref cid="t43001023.1">
+				</crossref>
+				the voice of one crying out in the wilderness, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Make straight
+				<note nid="n43001023.1">
+				</note>
+				 the way of the Lord,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 as the prophet Isaiah said.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43001024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				(Now they had been sent from the Pharisees.)
+			</verse>
+			<marker class="begin-verse" mid="v43001025">
+			</marker>
+			<verse num="25">
+				They asked him, 
+				<crossref let="u" cid="c43001025.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Then why are you baptizing, if you are neither the Christ, nor Elijah, nor the Prophet?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001026">
+			</marker>
+			<verse num="26">
+				John answered them, 
+				<crossref let="v" cid="c43001026.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I baptize with water, but among you stands one you do not know,
+			</verse>
+			<marker class="begin-verse" mid="v43001027">
+			</marker>
+			<verse num="27">
+				even 
+				<crossref let="w" cid="c43001027.1">
+				</crossref>
+				he who comes after me, the strap of whose sandal I am not worthy to untie.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001028">
+			</marker>
+			<verse num="28">
+				These things took place in Bethany across the Jordan, where John was baptizing.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43001029">
+			</marker>
+			<heading
+				>
+				Behold, the Lamb of God
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				The next day he saw Jesus coming toward him, and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, 
+				<crossref let="x" cid="c43001029.1">
+				</crossref>
+				the Lamb of God, who 
+				<crossref let="y" cid="c43001029.2">
+				</crossref>
+				takes away the sin 
+				<crossref let="z" cid="c43001029.3">
+				</crossref>
+				of the world!
+			</verse>
+			<marker class="begin-verse" mid="v43001030">
+			</marker>
+			<verse num="30">
+				This is he of whom I said, 
+				<crossref let="a" cid="c43001030.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				After me comes a man who ranks before me, because he was before me.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001031">
+			</marker>
+			<verse num="31">
+				I myself did not know him, but 
+				<crossref let="b" cid="c43001031.1">
+				</crossref>
+				for this purpose I came baptizing with water, that he might be revealed to Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001032">
+			</marker>
+			<verse num="32">
+				And John 
+				<crossref let="c" cid="c43001032.1">
+				</crossref>
+				bore witness: 
+				<crossref let="d" cid="c43001032.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I saw the Spirit descend from heaven like a dove, and 
+				<crossref let="e" cid="c43001032.3">
+				</crossref>
+				it remained on him.
+			</verse>
+			<marker class="begin-verse" mid="v43001033">
+			</marker>
+			<verse num="33">
+				I myself did not know him, but 
+				<crossref let="f" cid="c43001033.1">
+				</crossref>
+				he who sent me to baptize 
+				<crossref let="g" cid="c43001033.2">
+				</crossref>
+				with water said to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				He on whom you see the Spirit descend and remain, 
+				<crossref let="h" cid="c43001033.3">
+				</crossref>
+				this is he who baptizes 
+				<crossref let="g" cid="c43001033.4">
+				</crossref>
+				with the Holy Spirit.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001034">
+			</marker>
+			<verse num="34">
+				And I have seen and have borne witness that this is the Son of God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43001035">
+			</marker>
+			<heading
+				>
+				Jesus Calls the First Disciples
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="35">
+				The next day again John was standing with two of his disciples,
+			</verse>
+			<marker class="begin-verse" mid="v43001036">
+			</marker>
+			<verse num="36">
+				and he looked at Jesus as he walked by and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, 
+				<crossref let="i" cid="c43001036.1">
+				</crossref>
+				the Lamb of God!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001037">
+			</marker>
+			<verse num="37">
+				The two disciples heard him say this, and they followed Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v43001038">
+			</marker>
+			<verse num="38">
+				Jesus turned and saw them following and said to them, 
+				<woc
+					>
+					<crossref let="j" cid="c43001038.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What are you seeking?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And they said to him, 
+				<crossref let="k" cid="c43001038.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Rabbi
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 (which means Teacher), 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				where are you staying?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001039">
+			</marker>
+			<verse num="39">
+				He said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Come and you will see.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 So they came and saw where he was staying, and they stayed with him that day, for it was about the tenth hour.
+				<note nid="n43001039.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v43001040">
+			</marker>
+			<verse num="40">
+				<crossref let="l" cid="c43001040.1">
+				</crossref>
+				One of the two who heard John speak and followed Jesus
+				<note nid="n43001040.1">
+				</note>
+				 was Andrew, Simon Peter's brother.
+			</verse>
+			<marker class="begin-verse" mid="v43001041">
+			</marker>
+			<verse num="41">
+				He first found his own brother Simon and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We have found 
+				<crossref let="m" cid="c43001041.1">
+				</crossref>
+				the Messiah
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 (which means Christ).
+			</verse>
+			<marker class="begin-verse" mid="v43001042">
+			</marker>
+			<verse num="42">
+				He brought him to Jesus. Jesus looked at him and said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					So you are Simon the son of 
+					<crossref let="n" cid="c43001042.1">
+					</crossref>
+					John? You shall be called 
+					<crossref let="o" cid="c43001042.2">
+					</crossref>
+					Cephas
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 (which means 
+				<crossref let="p" cid="c43001042.3">
+				</crossref>
+				Peter
+				<note nid="n43001042.1">
+				</note>
+				).
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43001043">
+			</marker>
+			<heading
+				>
+				Jesus Calls Philip and Nathanael
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="43">
+				<crossref let="q" cid="c43001043.1">
+				</crossref>
+				The next day Jesus decided 
+				<crossref let="r" cid="c43001043.2">
+				</crossref>
+				to go to Galilee. He found Philip and said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Follow me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43001044">
+			</marker>
+			<verse num="44">
+				Now 
+				<crossref let="s" cid="c43001044.1">
+				</crossref>
+				Philip was from Bethsaida, the city of Andrew and Peter.
+			</verse>
+			<marker class="begin-verse" mid="v43001045">
+			</marker>
+			<verse num="45">
+				Philip found 
+				<crossref let="t" cid="c43001045.1">
+				</crossref>
+				Nathanael and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We have found him of whom 
+				<crossref let="u" cid="c43001045.2">
+				</crossref>
+				Moses in the Law and also the prophets wrote, Jesus 
+				<crossref let="v" cid="c43001045.3">
+				</crossref>
+				of Nazareth, 
+				<crossref let="w" cid="c43001045.4">
+				</crossref>
+				the son of Joseph.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001046">
+			</marker>
+			<verse num="46">
+				Nathanael said to him, 
+				<crossref let="x" cid="c43001046.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Can anything good come out of Nazareth?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Philip said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come and see.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001047">
+			</marker>
+			<verse num="47">
+				Jesus saw Nathanael coming toward him and said of him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Behold, 
+					<crossref let="y" cid="c43001047.1">
+					</crossref>
+					an Israelite indeed, 
+					<crossref let="z" cid="c43001047.2">
+					</crossref>
+					in whom there is no deceit!
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43001048">
+			</marker>
+			<verse num="48">
+				Nathanael said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How 
+				<crossref let="a" cid="c43001048.1">
+				</crossref>
+				do you know me?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Jesus answered him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Before Philip called you, when you were under the fig tree, I saw you.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43001049">
+			</marker>
+			<verse num="49">
+				Nathanael answered him, 
+				<crossref let="b" cid="c43001049.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Rabbi, 
+				<crossref let="c" cid="c43001049.2">
+				</crossref>
+				you are the Son of God! You are the 
+				<crossref let="d" cid="c43001049.3">
+				</crossref>
+				King of Israel!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43001050">
+			</marker>
+			<verse num="50">
+				Jesus answered him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Because I said to you, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					I saw you under the fig tree,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 do you believe? You will see greater things than these.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43001051">
+			</marker>
+			<verse num="51">
+				And he said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Truly, truly, I say to you,
+					<note nid="n43001051.1">
+					</note>
+					 you will see 
+					<crossref let="e" cid="c43001051.1">
+					</crossref>
+					heaven opened, and 
+					<crossref let="f" cid="c43001051.2">
+					</crossref>
+					the angels of God ascending and descending on 
+					<crossref let="g" cid="c43001051.3">
+					</crossref>
+					the Son of Man.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

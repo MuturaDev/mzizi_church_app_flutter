@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19081001">
+		</marker>
+		<chapter num="81">
+			<heading
+				>
+				Oh, That My People Would Listen to Me
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: according to 
+				<crossref let="f" cid="c19081001.1">
+				</crossref>
+				The Gittith.
+				<note nid="n19081001.1">
+				</note>
+				 Of 
+				<crossref let="g" cid="c19081001.2">
+				</crossref>
+				Asaph.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c19081001.3">
+				</crossref>
+				Sing aloud to God our strength;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c19081001.4">
+				</crossref>
+				shout for joy to the God of Jacob!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19081002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Raise a song; sound 
+				<crossref let="j" cid="c19081002.1">
+				</crossref>
+				the tambourine,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c19081002.2">
+				</crossref>
+				the sweet lyre with 
+				<crossref let="k" cid="c19081002.3">
+				</crossref>
+				the harp.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19081003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Blow the trumpet at 
+				<crossref let="l" cid="c19081003.1">
+				</crossref>
+				the new moon,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				at the full moon, on our feast day.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19081004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				For it is a statute for Israel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a rule
+				<note nid="n19081004.1">
+				</note>
+				 of the God of Jacob.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19081005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				He made it 
+				<crossref let="m" cid="c19081005.1">
+				</crossref>
+				a decree in 
+				<crossref let="n" cid="c19081005.2">
+				</crossref>
+				Joseph
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when he 
+				<crossref let="o" cid="c19081005.3">
+				</crossref>
+				went out over
+				<note nid="n19081005.1">
+				</note>
+				 the land of Egypt.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19081005.4">
+				</crossref>
+				I hear a language 
+				<crossref let="q" cid="c19081005.5">
+				</crossref>
+				I had not known:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19081006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I 
+				<crossref let="r" cid="c19081006.1">
+				</crossref>
+				relieved your
+				<note nid="n19081006.1">
+				</note>
+				 shoulder of 
+				<crossref let="s" cid="c19081006.2">
+				</crossref>
+				the burden;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your hands were freed from the basket.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19081007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				In distress you 
+				<crossref let="t" cid="c19081007.1">
+				</crossref>
+				called, and I delivered you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I 
+				<crossref let="u" cid="c19081007.2">
+				</crossref>
+				answered you in the secret place of thunder;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I 
+				<crossref let="v" cid="c19081007.3">
+				</crossref>
+				tested you at the waters of Meribah. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19081008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c19081008.1">
+				</crossref>
+				Hear, O my people, while I admonish you!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O Israel, if you would but listen to me!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19081009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				There shall be no 
+				<crossref let="x" cid="c19081009.1">
+				</crossref>
+				strange god among you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you shall not bow down to a 
+				<crossref let="y" cid="c19081009.2">
+				</crossref>
+				foreign god.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19081010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c19081010.1">
+				</crossref>
+				I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who brought you up out of the land of Egypt.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c19081010.2">
+				</crossref>
+				Open your mouth wide, and I will fill it.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19081011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				But my people did not listen to my voice;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Israel 
+				<crossref let="b" cid="c19081011.1">
+				</crossref>
+				would not submit to me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19081012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				So I 
+				<crossref let="c" cid="c19081012.1">
+				</crossref>
+				gave them over to their 
+				<crossref let="d" cid="c19081012.2">
+				</crossref>
+				stubborn hearts,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to follow their own 
+				<crossref let="e" cid="c19081012.3">
+				</crossref>
+				counsels.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19081013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c19081013.1">
+				</crossref>
+				Oh, that my people would listen to me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that Israel would 
+				<crossref let="g" cid="c19081013.2">
+				</crossref>
+				walk in my ways!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19081014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				I would soon subdue their enemies
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="h" cid="c19081014.1">
+				</crossref>
+				turn my hand against their foes.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19081015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				Those who hate the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 would 
+				<crossref let="i" cid="c19081015.1">
+				</crossref>
+				cringe toward him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and their fate would last forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19081016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				But he would feed you
+				<note nid="n19081016.1">
+				</note>
+				 with 
+				<crossref let="j" cid="c19081016.1">
+				</crossref>
+				the finest of the wheat,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and with 
+				<crossref let="k" cid="c19081016.2">
+				</crossref>
+				honey from the rock I would satisfy you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

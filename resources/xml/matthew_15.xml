@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40015001">
+		</marker>
+		<chapter num="15">
+			<heading
+				>
+				Traditions and Commandments
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="e" cid="c40015001.1">
+				</crossref>
+				<crossref cid="t40015001.1">
+				</crossref>
+				Then Pharisees and 
+				<crossref let="f" cid="c40015001.2">
+				</crossref>
+				scribes came to Jesus 
+				<crossref let="f" cid="c40015001.3">
+				</crossref>
+				from Jerusalem and said,
+			</verse>
+			<marker class="begin-verse" mid="v40015002">
+			</marker>
+			<verse num="2">
+				<crossref let="g" cid="c40015002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do your disciples break 
+				<crossref let="h" cid="c40015002.2">
+				</crossref>
+				the tradition of the elders? 
+				<crossref let="j" cid="c40015002.3">
+				</crossref>
+				For they do not wash their hands when they eat.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40015003">
+			</marker>
+			<verse num="3">
+				He answered them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And why do you break the commandment of God for the sake of your tradition?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015004">
+			</marker>
+			<verse num="4" class="woc">
+				<woc
+					>
+					For God commanded, 
+					<crossref let="k" cid="c40015004.1">
+					</crossref>
+					<crossref cid="t40015004.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Honor your father and your mother,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 and, 
+					<crossref let="l" cid="c40015004.2">
+					</crossref>
+					<crossref cid="t40015004.2">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Whoever reviles father or mother must surely die.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015005">
+			</marker>
+			<verse num="5" class="woc">
+				<woc
+					>
+					But you say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					If anyone tells his father or his mother, 
+					<q class="begin-inner-double" qid="" from="" to="">
+					</q>
+					What you would have gained from me is given to God,
+					<q class="end-inner-double" qid="" from="" to="">
+					</q>
+					<note nid="n40015005.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015006">
+			</marker>
+			<verse num="6" class="woc">
+				<woc
+					>
+					he need not honor his father.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+				<woc
+					>
+					So for the sake of your tradition you have 
+					<crossref let="m" cid="c40015006.1">
+					</crossref>
+					made void the word
+					<note nid="n40015006.1">
+					</note>
+					 of God.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015007">
+			</marker>
+			<verse num="7" class="woc">
+				<woc
+					>
+					<crossref let="n" cid="c40015007.1">
+					</crossref>
+					You hypocrites! Well did Isaiah prophesy of you, when he said:
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40015008">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8" class="woc">
+				<begin-line
+					>
+				</begin-line>
+				<woc
+					>
+					<crossref let="o" cid="c40015008.1">
+					</crossref>
+					<crossref cid="t40015008.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					This people honors me with their lips,
+					<end-line class="br">
+					</end-line>
+					<begin-line class="indent">
+					</begin-line>
+					but their heart is far from me;
+				</woc>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v40015009">
+			</marker>
+			<verse num="9" class="woc">
+				<begin-line
+					>
+				</begin-line>
+				<woc
+					>
+					in vain do they worship me,
+					<end-line class="br">
+					</end-line>
+					<begin-line class="indent">
+					</begin-line>
+					teaching as 
+					<crossref let="p" cid="c40015009.1">
+					</crossref>
+					doctrines the commandments of men.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v40015010">
+			</marker>
+			<heading
+				>
+				What Defiles a Person
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				And he called the people to him and said to them, 
+				<woc
+					>
+					<crossref let="q" cid="c40015010.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Hear and understand:
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015011">
+			</marker>
+			<verse num="11" class="woc">
+				<woc
+					>
+					<crossref let="r" cid="c40015011.1">
+					</crossref>
+					it is not what goes into the mouth that defiles a person, but what comes out of the mouth; this defiles a person.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015012">
+			</marker>
+			<verse num="12">
+				Then the disciples came and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do you know that the Pharisees were 
+				<crossref let="s" cid="c40015012.1">
+				</crossref>
+				offended when they heard this saying?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40015013">
+			</marker>
+			<verse num="13">
+				He answered, 
+				<woc
+					>
+					<crossref let="t" cid="c40015013.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Every plant that my heavenly Father has not planted 
+					<crossref let="u" cid="c40015013.2">
+					</crossref>
+					will be rooted up.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015014">
+			</marker>
+			<verse num="14" class="woc">
+				<woc
+					>
+					Let them alone; 
+					<crossref let="v" cid="c40015014.1">
+					</crossref>
+					they are blind guides.
+					<note nid="n40015014.1">
+					</note>
+					 And 
+					<crossref let="w" cid="c40015014.2">
+					</crossref>
+					if the blind lead the blind, both will fall into a pit.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015015">
+			</marker>
+			<verse num="15">
+				But Peter said to him, 
+				<crossref let="x" cid="c40015015.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Explain the parable to us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40015016">
+			</marker>
+			<verse num="16">
+				And he said, 
+				<woc
+					>
+					<crossref let="y" cid="c40015016.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Are you also still without understanding?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015017">
+			</marker>
+			<verse num="17" class="woc">
+				<woc
+					>
+					Do you not see that 
+					<crossref let="z" cid="c40015017.1">
+					</crossref>
+					whatever goes into the mouth passes into the stomach and is expelled?
+					<note nid="n40015017.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					But 
+					<crossref let="a" cid="c40015018.1">
+					</crossref>
+					what comes out of the mouth proceeds from the heart, and this defiles a person.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					For out of the heart come 
+					<crossref let="b" cid="c40015019.1">
+					</crossref>
+					evil thoughts, 
+					<crossref let="c" cid="c40015019.2">
+					</crossref>
+					murder, adultery, sexual immorality, theft, false witness, 
+					<crossref let="d" cid="c40015019.3">
+					</crossref>
+					slander.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015020">
+			</marker>
+			<verse num="20" class="woc">
+				<woc
+					>
+					<crossref let="e" cid="c40015020.1">
+					</crossref>
+					These are what defile a person. But 
+					<crossref let="f" cid="c40015020.2">
+					</crossref>
+					to eat with unwashed hands does not defile anyone.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40015021">
+			</marker>
+			<heading
+				>
+				The Faith of a Canaanite Woman
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<crossref let="g" cid="c40015021.1">
+				</crossref>
+				<crossref cid="t40015021.1">
+				</crossref>
+				And Jesus went away from there and withdrew to the district of Tyre and Sidon.
+			</verse>
+			<marker class="begin-verse" mid="v40015022">
+			</marker>
+			<verse num="22">
+				And behold, 
+				<crossref let="h" cid="c40015022.1">
+				</crossref>
+				a Canaanite woman from that region came out and was crying, 
+				<crossref let="i" cid="c40015022.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Have mercy on me, O Lord, Son of David; my daughter is severely oppressed by a demon.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40015023">
+			</marker>
+			<verse num="23">
+				But he did not answer her a word. And his disciples came and begged him, saying, 
+				<crossref let="j" cid="c40015023.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Send her away, for she is crying out after us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40015024">
+			</marker>
+			<verse num="24">
+				He answered, 
+				<woc
+					>
+					<crossref let="k" cid="c40015024.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I was sent only to the lost sheep of the house of Israel.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015025">
+			</marker>
+			<verse num="25">
+				But she came and 
+				<crossref let="l" cid="c40015025.1">
+				</crossref>
+				knelt before him, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, help me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40015026">
+			</marker>
+			<verse num="26">
+				And he answered, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					It is not right to take the children's bread and 
+					<crossref let="m" cid="c40015026.1">
+					</crossref>
+					throw it to the dogs.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015027">
+			</marker>
+			<verse num="27">
+				She said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Yes, Lord, yet even the dogs eat 
+				<crossref let="n" cid="c40015027.1">
+				</crossref>
+				the crumbs that fall from their masters' table.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40015028">
+			</marker>
+			<verse num="28">
+				Then Jesus answered her, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					O woman, 
+					<crossref let="o" cid="c40015028.1">
+					</crossref>
+					great is your faith! 
+					<crossref let="p" cid="c40015028.2">
+					</crossref>
+					Be it done for you as you desire.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				<crossref let="q" cid="c40015028.3">
+				</crossref>
+				And her daughter was 
+				<crossref let="p" cid="c40015028.4">
+				</crossref>
+				healed instantly.
+				<note nid="n40015028.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40015029">
+			</marker>
+			<heading
+				>
+				Jesus Heals Many
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				<crossref let="r" cid="c40015029.1">
+				</crossref>
+				Jesus went on from there and walked 
+				<crossref let="s" cid="c40015029.2">
+				</crossref>
+				beside the Sea of Galilee. And he 
+				<crossref let="t" cid="c40015029.3">
+				</crossref>
+				went up on the mountain and sat down there.
+			</verse>
+			<marker class="begin-verse" mid="v40015030">
+			</marker>
+			<verse num="30">
+				And great crowds came to him, bringing with them 
+				<crossref let="u" cid="c40015030.1">
+				</crossref>
+				the lame, the blind, the crippled, the mute, and many others, and they put them at his feet, and he healed them,
+			</verse>
+			<marker class="begin-verse" mid="v40015031">
+			</marker>
+			<verse num="31">
+				<crossref let="v" cid="c40015031.1">
+				</crossref>
+				so that the crowd wondered, when they saw the mute speaking, 
+				<crossref let="w" cid="c40015031.2">
+				</crossref>
+				the crippled healthy, the lame walking, and the blind seeing. And 
+				<crossref let="x" cid="c40015031.3">
+				</crossref>
+				they glorified 
+				<crossref let="y" cid="c40015031.4">
+				</crossref>
+				the God of Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40015032">
+			</marker>
+			<heading
+				>
+				Jesus Feeds the Four Thousand
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="32">
+				<crossref let="z" cid="c40015032.1">
+				</crossref>
+				<crossref cid="t40015032.1">
+				</crossref>
+				Then Jesus called his disciples to him and said, 
+				<woc
+					>
+					<crossref let="a" cid="c40015032.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I have compassion on the crowd because they have been with me now three days and have nothing to eat. And I am unwilling to send them away hungry, lest they faint on the way.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40015033">
+			</marker>
+			<verse num="33">
+				And the disciples said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where are we to get enough bread in such a desolate place to feed so great a crowd?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40015034">
+			</marker>
+			<verse num="34">
+				And Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					How many loaves do you have?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 They said, 
+				<crossref let="b" cid="c40015034.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Seven, and a few small fish.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40015035">
+			</marker>
+			<verse num="35">
+				And directing the crowd to sit down on the ground,
+			</verse>
+			<marker class="begin-verse" mid="v40015036">
+			</marker>
+			<verse num="36">
+				he took the seven loaves and the fish, and 
+				<crossref let="c" cid="c40015036.1">
+				</crossref>
+				having given thanks he broke them and gave them to the disciples, and the disciples gave them to the crowds.
+			</verse>
+			<marker class="begin-verse" mid="v40015037">
+			</marker>
+			<verse num="37">
+				And 
+				<crossref let="d" cid="c40015037.1">
+				</crossref>
+				they all ate and were satisfied. And they took up seven baskets full of the broken pieces left over.
+			</verse>
+			<marker class="begin-verse" mid="v40015038">
+			</marker>
+			<verse num="38">
+				Those who ate were four thousand men, besides women and children.
+			</verse>
+			<marker class="begin-verse" mid="v40015039">
+			</marker>
+			<verse num="39">
+				And after sending away the crowds, he got into the boat and went to the region of 
+				<crossref let="e" cid="c40015039.1">
+				</crossref>
+				Magadan.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

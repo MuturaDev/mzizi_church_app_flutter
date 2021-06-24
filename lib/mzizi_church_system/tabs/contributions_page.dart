@@ -324,6 +324,7 @@ class _LoginProgressButtonState extends State<LoginProgressButton> {
           await _authenticateUser();
         },
         buttonState: _buttonState,
+        myColor: false,
         backgroundColor: Theme.of(context).primaryColor,
         progressColor: Colors.white,
       ),

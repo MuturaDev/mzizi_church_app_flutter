@@ -1,0 +1,623 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Numbers" num="3">
+		<marker class="begin-verse" mid="v04026001">
+		</marker>
+		<chapter num="26">
+			<heading
+				>
+				Census of the New Generation
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="z" cid="c04026001.1">
+				</crossref>
+				After the plague, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses and to Eleazar the son of Aaron, the priest,
+			</verse>
+			<marker class="begin-verse" mid="v04026002">
+			</marker>
+			<verse num="2">
+				<crossref let="a" cid="c04026002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take a census of all the congregation of the people of Israel, from twenty years old and upward, by their fathers' houses, all in Israel who are able to go to war.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04026003">
+			</marker>
+			<verse num="3">
+				And Moses and Eleazar the priest spoke with them 
+				<crossref let="b" cid="c04026003.1">
+				</crossref>
+				in the plains of Moab by the Jordan at Jericho, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04026004">
+			</marker>
+			<verse num="4">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take a census of the people,
+				<note nid="n04026004.1">
+				</note>
+				 from twenty years old and upward,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="c" cid="c04026004.1">
+				</crossref>
+				commanded Moses. The people of Israel who came out of the land of Egypt were:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				<crossref let="d" cid="c04026005.1">
+				</crossref>
+				Reuben, the firstborn of Israel; the sons of Reuben: of Hanoch, the clan of the Hanochites; of Pallu, the clan of the Palluites;
+			</verse>
+			<marker class="begin-verse" mid="v04026006">
+			</marker>
+			<verse num="6">
+				of Hezron, the clan of the Hezronites; of Carmi, the clan of the Carmites.
+			</verse>
+			<marker class="begin-verse" mid="v04026007">
+			</marker>
+			<verse num="7">
+				These are the clans of the Reubenites, and those listed were 
+				<crossref let="e" cid="c04026007.1">
+				</crossref>
+				43,730.
+			</verse>
+			<marker class="begin-verse" mid="v04026008">
+			</marker>
+			<verse num="8">
+				And the sons of Pallu: Eliab.
+			</verse>
+			<marker class="begin-verse" mid="v04026009">
+			</marker>
+			<verse num="9">
+				The sons of Eliab: Nemuel, Dathan, and Abiram. These are the Dathan and Abiram, 
+				<crossref let="f" cid="c04026009.1">
+				</crossref>
+				chosen from the congregation, who contended against Moses and Aaron in the company of Korah, when they contended against the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</verse>
+			<marker class="begin-verse" mid="v04026010">
+			</marker>
+			<verse num="10">
+				and 
+				<crossref let="g" cid="c04026010.1">
+				</crossref>
+				the earth opened its mouth and swallowed them up together with Korah, when that company died, when the fire devoured 250 men, and 
+				<crossref let="h" cid="c04026010.2">
+				</crossref>
+				they became a warning.
+			</verse>
+			<marker class="begin-verse" mid="v04026011">
+			</marker>
+			<verse num="11">
+				But 
+				<crossref let="i" cid="c04026011.1">
+				</crossref>
+				the sons of Korah did not die.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				The sons of 
+				<crossref let="j" cid="c04026012.1">
+				</crossref>
+				Simeon according to their clans: of Nemuel, the clan of the Nemuelites; of Jamin, the clan of the Jaminites; of Jachin, the clan of the Jachinites;
+			</verse>
+			<marker class="begin-verse" mid="v04026013">
+			</marker>
+			<verse num="13">
+				of Zerah, the clan of the Zerahites; of Shaul, the clan of the Shaulites.
+			</verse>
+			<marker class="begin-verse" mid="v04026014">
+			</marker>
+			<verse num="14">
+				These are the clans of the Simeonites, 
+				<crossref let="k" cid="c04026014.1">
+				</crossref>
+				22,200.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				The sons of 
+				<crossref let="l" cid="c04026015.1">
+				</crossref>
+				Gad according to their clans: of Zephon, the clan of the Zephonites; of Haggi, the clan of the Haggites; of Shuni, the clan of the Shunites;
+			</verse>
+			<marker class="begin-verse" mid="v04026016">
+			</marker>
+			<verse num="16">
+				of Ozni, the clan of the Oznites; of Eri, the clan of the Erites;
+			</verse>
+			<marker class="begin-verse" mid="v04026017">
+			</marker>
+			<verse num="17">
+				of Arod, the clan of the Arodites; of Areli, the clan of the Arelites.
+			</verse>
+			<marker class="begin-verse" mid="v04026018">
+			</marker>
+			<verse num="18">
+				These are the clans of the sons of Gad as they were listed, 
+				<crossref let="m" cid="c04026018.1">
+				</crossref>
+				40,500.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				The sons of 
+				<crossref let="n" cid="c04026019.1">
+				</crossref>
+				Judah were Er and Onan; and Er and Onan died in the land of Canaan.
+			</verse>
+			<marker class="begin-verse" mid="v04026020">
+			</marker>
+			<verse num="20">
+				And the sons of Judah according to their clans were: of Shelah, the clan of the Shelanites; of Perez, the clan of the Perezites; of Zerah, the clan of the Zerahites.
+			</verse>
+			<marker class="begin-verse" mid="v04026021">
+			</marker>
+			<verse num="21">
+				And the sons of Perez were: of Hezron, the clan of the Hezronites; of Hamul, the clan of the Hamulites.
+			</verse>
+			<marker class="begin-verse" mid="v04026022">
+			</marker>
+			<verse num="22">
+				These are the clans of Judah as they were listed, 
+				<crossref let="o" cid="c04026022.1">
+				</crossref>
+				76,500.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				The sons of 
+				<crossref let="p" cid="c04026023.1">
+				</crossref>
+				Issachar according to their clans: of Tola, the clan of the Tolaites; of Puvah, the clan of the Punites;
+			</verse>
+			<marker class="begin-verse" mid="v04026024">
+			</marker>
+			<verse num="24">
+				of Jashub, the clan of the Jashubites; of Shimron, the clan of the Shimronites.
+			</verse>
+			<marker class="begin-verse" mid="v04026025">
+			</marker>
+			<verse num="25">
+				These are the clans of Issachar as they were listed, 
+				<crossref let="q" cid="c04026025.1">
+				</crossref>
+				64,300.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				The sons of 
+				<crossref let="r" cid="c04026026.1">
+				</crossref>
+				Zebulun, according to their clans: of Sered, the clan of the Seredites; of Elon, the clan of the Elonites; of Jahleel, the clan of the Jahleelites.
+			</verse>
+			<marker class="begin-verse" mid="v04026027">
+			</marker>
+			<verse num="27">
+				These are the clans of the Zebulunites as they were listed, 
+				<crossref let="s" cid="c04026027.1">
+				</crossref>
+				60,500.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				The sons of 
+				<crossref let="t" cid="c04026028.1">
+				</crossref>
+				Joseph according to their clans: Manasseh and Ephraim.
+			</verse>
+			<marker class="begin-verse" mid="v04026029">
+			</marker>
+			<verse num="29">
+				<crossref let="u" cid="c04026029.1">
+				</crossref>
+				The sons of Manasseh: of 
+				<crossref let="v" cid="c04026029.2">
+				</crossref>
+				Machir, the clan of the Machirites; and Machir was the father of Gilead; 
+				<crossref let="w" cid="c04026029.3">
+				</crossref>
+				of Gilead, the clan of the Gileadites.
+			</verse>
+			<marker class="begin-verse" mid="v04026030">
+			</marker>
+			<verse num="30">
+				These are the sons of Gilead: of Iezer, the clan of the Iezerites; of Helek, the clan of the Helekites;
+			</verse>
+			<marker class="begin-verse" mid="v04026031">
+			</marker>
+			<verse num="31">
+				and of Asriel, the clan of the Asrielites; and of Shechem, the clan of the Shechemites;
+			</verse>
+			<marker class="begin-verse" mid="v04026032">
+			</marker>
+			<verse num="32">
+				and of Shemida, the clan of the Shemidaites; and of Hepher, the clan of the Hepherites.
+			</verse>
+			<marker class="begin-verse" mid="v04026033">
+			</marker>
+			<verse num="33">
+				Now 
+				<crossref let="x" cid="c04026033.1">
+				</crossref>
+				Zelophehad the son of Hepher had no sons, but daughters. And the names of the daughters of Zelophehad were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+			</verse>
+			<marker class="begin-verse" mid="v04026034">
+			</marker>
+			<verse num="34">
+				These are the clans of Manasseh, and those listed were 
+				<crossref let="y" cid="c04026034.1">
+				</crossref>
+				52,700.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026035">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="35">
+				These are the sons of Ephraim according to their clans: of Shuthelah, the clan of the Shuthelahites; of Becher, the clan of the Becherites; of Tahan, the clan of the Tahanites.
+			</verse>
+			<marker class="begin-verse" mid="v04026036">
+			</marker>
+			<verse num="36">
+				And these are the sons of Shuthelah: of Eran, the clan of the Eranites.
+			</verse>
+			<marker class="begin-verse" mid="v04026037">
+			</marker>
+			<verse num="37">
+				These are the clans of the sons of Ephraim as they were listed, 
+				<crossref let="z" cid="c04026037.1">
+				</crossref>
+				32,500. These are the sons of Joseph according to their clans.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026038">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="38">
+				The sons of 
+				<crossref let="a" cid="c04026038.1">
+				</crossref>
+				Benjamin according to their clans: of Bela, the clan of the Belaites; of Ashbel, the clan of the Ashbelites; of Ahiram, the clan of the Ahiramites;
+			</verse>
+			<marker class="begin-verse" mid="v04026039">
+			</marker>
+			<verse num="39">
+				of Shephupham, the clan of the Shuphamites; of Hupham, the clan of the Huphamites.
+			</verse>
+			<marker class="begin-verse" mid="v04026040">
+			</marker>
+			<verse num="40">
+				And the sons of Bela were Ard and Naaman: of Ard, the clan of the Ardites; of Naaman, the clan of the Naamites.
+			</verse>
+			<marker class="begin-verse" mid="v04026041">
+			</marker>
+			<verse num="41">
+				These are the sons of Benjamin according to their clans, and those listed were 
+				<crossref let="b" cid="c04026041.1">
+				</crossref>
+				45,600.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026042">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="42">
+				These are the sons of 
+				<crossref let="c" cid="c04026042.1">
+				</crossref>
+				Dan according to their clans: of Shuham, the clan of the Shuhamites. These are the clans of Dan according to their clans.
+			</verse>
+			<marker class="begin-verse" mid="v04026043">
+			</marker>
+			<verse num="43">
+				All the clans of the Shuhamites, as they were listed, were 
+				<crossref let="d" cid="c04026043.1">
+				</crossref>
+				64,400.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026044">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="44">
+				The sons of 
+				<crossref let="e" cid="c04026044.1">
+				</crossref>
+				Asher according to their clans: of Imnah, the clan of the Imnites; of Ishvi, the clan of the Ishvites; of Beriah, the clan of the Beriites.
+			</verse>
+			<marker class="begin-verse" mid="v04026045">
+			</marker>
+			<verse num="45">
+				Of the sons of Beriah: of Heber, the clan of the Heberites; of Malchiel, the clan of the Malchielites.
+			</verse>
+			<marker class="begin-verse" mid="v04026046">
+			</marker>
+			<verse num="46">
+				And the name of the daughter of Asher was Serah.
+			</verse>
+			<marker class="begin-verse" mid="v04026047">
+			</marker>
+			<verse num="47">
+				These are the clans of the sons of Asher as they were listed, 
+				<crossref let="f" cid="c04026047.1">
+				</crossref>
+				53,400.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026048">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="48">
+				The sons of 
+				<crossref let="g" cid="c04026048.1">
+				</crossref>
+				Naphtali according to their clans: of Jahzeel, the clan of the Jahzeelites; of Guni, the clan of the Gunites;
+			</verse>
+			<marker class="begin-verse" mid="v04026049">
+			</marker>
+			<verse num="49">
+				of Jezer, the clan of the Jezerites; of Shillem, the clan of the Shillemites.
+			</verse>
+			<marker class="begin-verse" mid="v04026050">
+			</marker>
+			<verse num="50">
+				These are the clans of Naphtali according to their clans, and those listed were 
+				<crossref let="h" cid="c04026050.1">
+				</crossref>
+				45,400.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026051">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="51">
+				This was the list of the people of Israel, 
+				<crossref let="i" cid="c04026051.1">
+				</crossref>
+				601,730.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026052">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="52">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04026053">
+			</marker>
+			<verse num="53">
+				<crossref let="j" cid="c04026053.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Among these the land shall be divided for inheritance according to the number of names.
+			</verse>
+			<marker class="begin-verse" mid="v04026054">
+			</marker>
+			<verse num="54">
+				<crossref let="k" cid="c04026054.1">
+				</crossref>
+				To a large tribe you shall give a large inheritance, and to a small tribe you shall give a small inheritance; every tribe shall be given its inheritance in proportion to its list.
+			</verse>
+			<marker class="begin-verse" mid="v04026055">
+			</marker>
+			<verse num="55">
+				But the land shall be 
+				<crossref let="l" cid="c04026055.1">
+				</crossref>
+				divided by lot. According to the names of the tribes of their fathers they shall inherit.
+			</verse>
+			<marker class="begin-verse" mid="v04026056">
+			</marker>
+			<verse num="56">
+				Their inheritance shall be divided according to lot between the larger and the smaller.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026057">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="57">
+				<crossref let="m" cid="c04026057.1">
+				</crossref>
+				This was the list of the Levites according to their clans: of Gershon, the clan of the Gershonites; of Kohath, the clan of the Kohathites; of Merari, the clan of the Merarites.
+			</verse>
+			<marker class="begin-verse" mid="v04026058">
+			</marker>
+			<verse num="58">
+				These are the clans of Levi: the clan of the Libnites, the clan of the Hebronites, the clan of the Mahlites, the clan of the Mushites, the clan of the Korahites. And Kohath was the father of Amram.
+			</verse>
+			<marker class="begin-verse" mid="v04026059">
+			</marker>
+			<verse num="59">
+				The name of Amram's wife was 
+				<crossref let="n" cid="c04026059.1">
+				</crossref>
+				Jochebed the daughter of Levi, who was born to Levi in Egypt. And she bore to Amram Aaron and Moses and Miriam their sister.
+			</verse>
+			<marker class="begin-verse" mid="v04026060">
+			</marker>
+			<verse num="60">
+				<crossref let="o" cid="c04026060.1">
+				</crossref>
+				And to Aaron were born Nadab, Abihu, Eleazar, and Ithamar.
+			</verse>
+			<marker class="begin-verse" mid="v04026061">
+			</marker>
+			<verse num="61">
+				<crossref let="p" cid="c04026061.1">
+				</crossref>
+				But Nadab and Abihu died when they offered unauthorized fire before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v04026062">
+			</marker>
+			<verse num="62">
+				And those listed were 
+				<crossref let="q" cid="c04026062.1">
+				</crossref>
+				23,000, every male from a month old and upward. For 
+				<crossref let="r" cid="c04026062.2">
+				</crossref>
+				they were not listed among the people of Israel, because 
+				<crossref let="s" cid="c04026062.3">
+				</crossref>
+				there was no inheritance given to them among the people of Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04026063">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="63">
+				These were those listed by Moses and Eleazar the priest, who listed the people of Israel 
+				<crossref let="t" cid="c04026063.1">
+				</crossref>
+				in the plains of Moab by the Jordan at Jericho.
+			</verse>
+			<marker class="begin-verse" mid="v04026064">
+			</marker>
+			<verse num="64">
+				<crossref let="u" cid="c04026064.1">
+				</crossref>
+				But among these there was not one of those listed by Moses and Aaron the priest, who had listed the people of Israel in the wilderness of Sinai.
+			</verse>
+			<marker class="begin-verse" mid="v04026065">
+			</marker>
+			<verse num="65">
+				For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had said of them, 
+				<crossref let="v" cid="c04026065.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				They shall die in the wilderness.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Not one of them was left, 
+				<crossref let="w" cid="c04026065.2">
+				</crossref>
+				except Caleb the son of Jephunneh and Joshua the son of Nun.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

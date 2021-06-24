@@ -39,7 +39,7 @@ TextEditingController ageController = new TextEditingController();
 String selectedServiceType = "";
 String selectedChurchService = "";
 var _showCapacityInstru = false;
-String serviceCapcity = "0/100";
+String serviceCapcity = "0%";
 
 dynamic servicesList;
 
@@ -73,6 +73,9 @@ class _PortalApplicationsState extends State<PortalApplications> {
 
   DateTime defineInitialDate() {
     DateTime now = DateTime.now();
+    if (now.weekday == 7) {
+      now = now.add(new Duration(days: 1));
+    }
     int dayOffset = daysToAdd(now.weekday, saturday);
     return now.add(Duration(days: dayOffset));
   }
@@ -194,13 +197,36 @@ class _PortalApplicationsState extends State<PortalApplications> {
                     rememberFutureResult: true,
                     whenDone: (dynamic serviceTypesList) {
                       return EnhancedFutureBuilder(
-                          future:
-                              ApiController.sendRequestForPortalChurchServices(
-                                  _dateTime, selectedServiceType),
-                          rememberFutureResult: false,
+                          future: ApiController
+                              .sendRequestForPortalChurchServices(),
+                          rememberFutureResult: true,
                           whenDone: (dynamic churchServicesList) {
-                            servicesList = churchServicesList;
-                            return body(churchServicesList, serviceTypesList);
+                            //filter with date and service type
+                            dynamic filterChurchServices = UtilityFunctions
+                                .filterChurchServicesByDateAndServiceType(
+                                    _dateTime,
+                                    selectedServiceType,
+                                    churchServicesList);
+
+                            if (filterChurchServices.length <= 0) {
+                              PortalChurchServices service =
+                                  new PortalChurchServices(
+                                      "-1",
+                                      "Select Church Service",
+                                      "",
+                                      "",
+                                      "",
+                                      "",
+                                      "",
+                                      "",
+                                      "");
+                              filterChurchServices.add(service);
+                              filterChurchServices =
+                                  filterChurchServices.reversed.toList();
+                            }
+                            servicesList = filterChurchServices;
+
+                            return body(filterChurchServices, serviceTypesList);
                           },
                           whenNotDone: Center(
                             child: Image.asset(
@@ -284,6 +310,13 @@ class _PortalApplicationsState extends State<PortalApplications> {
       selectedServiceType = serviceTypeList[0].ID;
     }
 
+    if (churchServiceList.length <= 0) {
+      PortalChurchServices service = new PortalChurchServices(
+          "-1", "Select Church Service", "", "", "", "", "", "", "");
+      churchServiceList.add(service);
+      churchServiceList = churchServiceList.reversed.toList();
+    }
+
     return Form(
       key: _formKey,
       child: Column(crossAxisAlignment: CrossAxisAlignment.center, children: <
@@ -320,7 +353,7 @@ class _PortalApplicationsState extends State<PortalApplications> {
                             fontSize: 25.0),
                         children: <TextSpan>[
                   TextSpan(
-                    text: 'Available slots for the selected service',
+                    text: ' slots occupied for the selected service',
                     style: TextStyle(
                         color: Colors.black,
                         fontWeight: FontWeight.normal,
@@ -450,7 +483,9 @@ class _PortalApplicationsState extends State<PortalApplications> {
 
                             for (var obj in churchServiceList) {
                               if (obj.ID == newValue) {
-                                serviceCapcity = obj.Capacity + '/' + '100';
+                                //double.parse(obj.Capacity)
+                                if (obj.Capacity.isEmpty) obj.Capacity = "0";
+                                serviceCapcity = obj.Capacity + '%';
                                 break;
                               }
                             }
@@ -613,9 +648,35 @@ class _LoginProgressButtonState extends State<LoginProgressButton> {
             selectChurchService,
             auth[0].OrganizationID,
             formatted,
-            auth[0].UserID);
+            auth[0].UserID,
+            auth[0].AppCode);
 
-        int dkdk = 90;
+        var response =
+            await ApiController.sendRequestForPortalApplications(payload);
+        if (response["StatusCode"] == "200") {
+          setState(() {
+            // dateBookedController.text = ;
+            ageController.text = '';
+            selectedServiceType = '-1';
+            selectedChurchService = '-1';
+
+            SweetAlert.show(context,
+                title: "Successful",
+                subtitle: response["Message"],
+                style: SweetAlertStyle.success);
+            _buttonState = ButtonState.normal;
+          });
+          //resent the parent
+          //widget.parent.setState(() {});
+        } else {
+          setState(() {
+            SweetAlert.show(context,
+                title: "Unsuccessful",
+                subtitle: response["Message"],
+                style: SweetAlertStyle.error);
+            _buttonState = ButtonState.error;
+          });
+        }
       } else {
         String above = "Fields cannot be left empty.";
         final snackBar = SnackBar(content: Text('' + above));

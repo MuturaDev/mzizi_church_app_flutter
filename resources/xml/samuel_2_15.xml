@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Samuel" num="9">
+		<marker class="begin-verse" mid="v10015001">
+		</marker>
+		<chapter num="15">
+			<heading
+				>
+				Absalom's Conspiracy
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				After this Absalom 
+				<crossref let="v" cid="c10015001.1">
+				</crossref>
+				got himself a chariot and horses, and fifty men to run before him.
+			</verse>
+			<marker class="begin-verse" mid="v10015002">
+			</marker>
+			<verse num="2">
+				And Absalom used to rise early and stand beside 
+				<crossref let="w" cid="c10015002.1">
+				</crossref>
+				the way of the gate. And when any man had a dispute to come before the king for judgment, Absalom would call to him and say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				From what city are you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And when he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your servant is of such and such a tribe in Israel,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10015003">
+			</marker>
+			<verse num="3">
+				Absalom would say to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See, your claims are good and right, but there is no man designated by the king to hear you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10015004">
+			</marker>
+			<verse num="4">
+				Then Absalom would say, 
+				<crossref let="x" cid="c10015004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Oh that I were judge in the land! Then every man with a dispute or cause might come to me, and I would give him justice.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10015005">
+			</marker>
+			<verse num="5">
+				And whenever a man came near to pay homage to him, he would put out his hand and take hold of him and kiss him.
+			</verse>
+			<marker class="begin-verse" mid="v10015006">
+			</marker>
+			<verse num="6">
+				Thus Absalom did to all of Israel who came to the king for judgment. So Absalom stole the hearts of the men of Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10015007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				And at the end of four
+				<note nid="n10015007.1">
+				</note>
+				 years Absalom said to the king, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please let me go and pay my vow, which I have vowed to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, in Hebron.
+			</verse>
+			<marker class="begin-verse" mid="v10015008">
+			</marker>
+			<verse num="8">
+				For your servant 
+				<crossref let="z" cid="c10015008.1">
+				</crossref>
+				vowed a vow 
+				<crossref let="a" cid="c10015008.2">
+				</crossref>
+				while I lived at Geshur in Aram, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				If the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will indeed bring me back to Jerusalem, then I will offer worship to
+				<note nid="n10015008.1">
+				</note>
+				 the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10015009">
+			</marker>
+			<verse num="9">
+				The king said to him, 
+				<crossref let="b" cid="c10015009.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go in peace.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So he arose and went to Hebron.
+			</verse>
+			<marker class="begin-verse" mid="v10015010">
+			</marker>
+			<verse num="10">
+				But Absalom sent secret messengers throughout all the tribes of Israel, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As soon as you hear the sound of the trumpet, then say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Absalom is king at Hebron!
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10015011">
+			</marker>
+			<verse num="11">
+				With Absalom went two hundred men from Jerusalem 
+				<crossref let="c" cid="c10015011.1">
+				</crossref>
+				who were invited guests, and they went in their innocence and knew nothing.
+			</verse>
+			<marker class="begin-verse" mid="v10015012">
+			</marker>
+			<verse num="12">
+				And while Absalom was offering the sacrifices, he sent for
+				<note nid="n10015012.1">
+				</note>
+				<crossref let="d" cid="c10015012.1">
+				</crossref>
+				Ahithophel the Gilonite, 
+				<crossref let="e" cid="c10015012.2">
+				</crossref>
+				David's counselor, from his city 
+				<crossref let="f" cid="c10015012.3">
+				</crossref>
+				Giloh. And the conspiracy grew strong, and the people with Absalom 
+				<crossref let="g" cid="c10015012.4">
+				</crossref>
+				kept increasing.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10015013">
+			</marker>
+			<heading
+				>
+				David Flees Jerusalem
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				And a messenger came to David, saying, 
+				<crossref let="h" cid="c10015013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The hearts of the men of Israel have gone after Absalom.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10015014">
+			</marker>
+			<verse num="14">
+				Then David said to all his servants who were with him at Jerusalem, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Arise, and let us 
+				<crossref let="i" cid="c10015014.1">
+				</crossref>
+				flee, or else there will be no escape for us from Absalom. Go quickly, lest he overtake us quickly and bring down ruin on us and strike the city with the edge of the sword.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10015015">
+			</marker>
+			<verse num="15">
+				And the king's servants said to the king, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, your servants are ready to do whatever my lord the king decides.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10015016">
+			</marker>
+			<verse num="16">
+				So the king went out, and all his household after him. And the king left 
+				<crossref let="j" cid="c10015016.1">
+				</crossref>
+				ten concubines to keep the house.
+			</verse>
+			<marker class="begin-verse" mid="v10015017">
+			</marker>
+			<verse num="17">
+				And the king went out, and all the people after him. And they halted at the last house.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10015018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				And 
+				<crossref let="k" cid="c10015018.1">
+				</crossref>
+				all his servants passed by him, and all the Cherethites, and all the Pelethites, and all the six hundred Gittites who had followed him from 
+				<crossref let="l" cid="c10015018.2">
+				</crossref>
+				Gath, passed on before the king.
+			</verse>
+			<marker class="begin-verse" mid="v10015019">
+			</marker>
+			<verse num="19">
+				Then the king said to 
+				<crossref let="m" cid="c10015019.1">
+				</crossref>
+				Ittai the Gittite, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do you also go with us? Go back and stay with the king, for you are a foreigner and also an exile from your home.
+			</verse>
+			<marker class="begin-verse" mid="v10015020">
+			</marker>
+			<verse num="20">
+				You came only yesterday, and shall I today make you wander about with us, since I go 
+				<crossref let="n" cid="c10015020.1">
+				</crossref>
+				I know not where? Go back and take your brothers with you, and may the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 show
+				<note nid="n10015020.1">
+				</note>
+				 steadfast love and faithfulness to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10015021">
+			</marker>
+			<verse num="21">
+				But Ittai answered the king, 
+				<crossref let="o" cid="c10015021.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 lives, and as my lord the king lives, 
+				<crossref let="p" cid="c10015021.2">
+				</crossref>
+				wherever my lord the king shall be, whether for death or for life, there also will your servant be.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10015022">
+			</marker>
+			<verse num="22">
+				And David said to Ittai, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go then, pass on.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So Ittai the Gittite passed on with all his men and all the little ones who were with him.
+			</verse>
+			<marker class="begin-verse" mid="v10015023">
+			</marker>
+			<verse num="23">
+				And all the land wept aloud as all the people passed by, and the king crossed 
+				<crossref let="q" cid="c10015023.1">
+				</crossref>
+				the brook 
+				<crossref let="r" cid="c10015023.2">
+				</crossref>
+				Kidron, and all the people passed on toward 
+				<crossref let="s" cid="c10015023.3">
+				</crossref>
+				the wilderness.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10015024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				And 
+				<crossref let="t" cid="c10015024.1">
+				</crossref>
+				Abiathar came up, and behold, 
+				<crossref let="u" cid="c10015024.2">
+				</crossref>
+				Zadok came also with all the Levites, 
+				<crossref let="v" cid="c10015024.3">
+				</crossref>
+				bearing the ark of the covenant of God. And they set down the ark of God until the people had all passed out of the city.
+			</verse>
+			<marker class="begin-verse" mid="v10015025">
+			</marker>
+			<verse num="25">
+				Then the king said to Zadok, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Carry the ark of God back into the city. If I find favor in the eyes of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, he will 
+				<crossref let="w" cid="c10015025.1">
+				</crossref>
+				bring me back and let me see both it and his 
+				<crossref let="x" cid="c10015025.2">
+				</crossref>
+				dwelling place.
+			</verse>
+			<marker class="begin-verse" mid="v10015026">
+			</marker>
+			<verse num="26">
+				But if he says, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I have no 
+				<crossref let="y" cid="c10015026.1">
+				</crossref>
+				pleasure in you,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 behold, here I am, 
+				<crossref let="z" cid="c10015026.2">
+				</crossref>
+				let him do to me what seems good to him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10015027">
+			</marker>
+			<verse num="27">
+				The king also said to Zadok the priest, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Are you not a 
+				<crossref let="a" cid="c10015027.1">
+				</crossref>
+				seer? Go back
+				<note nid="n10015027.1">
+				</note>
+				 to the city in peace, with 
+				<crossref let="b" cid="c10015027.2">
+				</crossref>
+				your two sons, Ahimaaz your son, and Jonathan the son of Abiathar.
+			</verse>
+			<marker class="begin-verse" mid="v10015028">
+			</marker>
+			<verse num="28">
+				See, I will wait at 
+				<crossref let="c" cid="c10015028.1">
+				</crossref>
+				the fords of 
+				<crossref let="s" cid="c10015028.2">
+				</crossref>
+				the wilderness until word comes from you to inform me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10015029">
+			</marker>
+			<verse num="29">
+				So Zadok and Abiathar carried the ark of God back to Jerusalem, and they remained there.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10015030">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="30">
+				But David went up the ascent of the Mount of Olives, weeping as he went, 
+				<crossref let="d" cid="c10015030.1">
+				</crossref>
+				barefoot and 
+				<crossref let="e" cid="c10015030.2">
+				</crossref>
+				with his head covered. And all the people who were with him covered their heads, and they went up, 
+				<crossref let="f" cid="c10015030.3">
+				</crossref>
+				weeping as they went.
+			</verse>
+			<marker class="begin-verse" mid="v10015031">
+			</marker>
+			<verse num="31">
+				And it was told David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Ahithophel is among the conspirators with Absalom.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And David said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, please 
+				<crossref let="g" cid="c10015031.1">
+				</crossref>
+				turn the counsel of Ahithophel into foolishness.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10015032">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="32">
+				While David was coming to the summit, where God was worshiped, behold, Hushai 
+				<crossref let="h" cid="c10015032.1">
+				</crossref>
+				the Archite came to meet him 
+				<crossref let="i" cid="c10015032.2">
+				</crossref>
+				with his coat torn and 
+				<crossref let="i" cid="c10015032.3">
+				</crossref>
+				dirt on his head.
+			</verse>
+			<marker class="begin-verse" mid="v10015033">
+			</marker>
+			<verse num="33">
+				David said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If you go on with me, you will be 
+				<crossref let="j" cid="c10015033.1">
+				</crossref>
+				a burden to me.
+			</verse>
+			<marker class="begin-verse" mid="v10015034">
+			</marker>
+			<verse num="34">
+				But if you return to the city and say to Absalom, 
+				<crossref let="k" cid="c10015034.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will be your servant, O king; as I have been your father's servant in time past, so now I will be your servant,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 then you will defeat for me the counsel of Ahithophel.
+			</verse>
+			<marker class="begin-verse" mid="v10015035">
+			</marker>
+			<verse num="35">
+				Are not Zadok and Abiathar the priests with you there? So whatever you hear from the king's house, 
+				<crossref let="l" cid="c10015035.1">
+				</crossref>
+				tell it to Zadok and Abiathar the priests.
+			</verse>
+			<marker class="begin-verse" mid="v10015036">
+			</marker>
+			<verse num="36">
+				Behold, 
+				<crossref let="m" cid="c10015036.1">
+				</crossref>
+				their two sons are with them there, Ahimaaz, Zadok's son, and Jonathan, Abiathar's son, 
+				<crossref let="m" cid="c10015036.2">
+				</crossref>
+				and by them you shall send to me everything you hear.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10015037">
+			</marker>
+			<verse num="37">
+				So Hushai, 
+				<crossref let="n" cid="c10015037.1">
+				</crossref>
+				David's friend, came into the city, 
+				<crossref let="o" cid="c10015037.2">
+				</crossref>
+				just as Absalom was entering Jerusalem.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

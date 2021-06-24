@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19149001">
+		</marker>
+		<chapter num="149">
+			<heading
+				>
+				Sing to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 a New Song
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19149001.1">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Sing to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="v" cid="c19149001.2">
+				</crossref>
+				a new song,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his praise in 
+				<crossref let="w" cid="c19149001.3">
+				</crossref>
+				the assembly of the godly!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19149002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Let Israel 
+				<crossref let="x" cid="c19149002.1">
+				</crossref>
+				be glad in 
+				<crossref let="y" cid="c19149002.2">
+				</crossref>
+				his Maker;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let the children of Zion rejoice in their 
+				<crossref let="z" cid="c19149002.3">
+				</crossref>
+				King!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19149003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Let them praise his name with 
+				<crossref let="a" cid="c19149003.1">
+				</crossref>
+				dancing,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				making melody to him with 
+				<crossref let="b" cid="c19149003.2">
+				</crossref>
+				tambourine and 
+				<crossref let="c" cid="c19149003.3">
+				</crossref>
+				lyre!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19149004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="d" cid="c19149004.1">
+				</crossref>
+				takes pleasure in his people;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="e" cid="c19149004.2">
+				</crossref>
+				adorns the humble with salvation.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19149005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Let the godly exult in glory;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let them 
+				<crossref let="f" cid="c19149005.1">
+				</crossref>
+				sing for joy on their 
+				<crossref let="g" cid="c19149005.2">
+				</crossref>
+				beds.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19149006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Let 
+				<crossref let="h" cid="c19149006.1">
+				</crossref>
+				the high praises of God be in their throats
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="i" cid="c19149006.2">
+				</crossref>
+				two-edged swords in their hands,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19149007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				to execute vengeance on the nations
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and punishments on the peoples,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19149008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				to bind their kings with 
+				<crossref let="j" cid="c19149008.1">
+				</crossref>
+				chains
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and their nobles with fetters of iron,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19149009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				to execute on them the judgment 
+				<crossref let="k" cid="c19149009.1">
+				</crossref>
+				written!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="l" cid="c19149009.2">
+				</crossref>
+				This is honor for all his godly ones.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19149009.3">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

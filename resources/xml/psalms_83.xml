@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19083001">
+		</marker>
+		<chapter num="83">
+			<heading
+				>
+				O God, Do Not Keep Silence
+			</heading>
+			<subheading class="psalm-title">
+				A Song. A Psalm of 
+				<crossref let="g" cid="c19083001.1">
+				</crossref>
+				Asaph.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				O God, do not keep silence;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c19083001.2">
+				</crossref>
+				do not hold your peace or be still, O God!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				For behold, your enemies 
+				<crossref let="i" cid="c19083002.1">
+				</crossref>
+				make an uproar;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				those who hate you have 
+				<crossref let="j" cid="c19083002.2">
+				</crossref>
+				raised their heads.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				They lay 
+				<crossref let="k" cid="c19083003.1">
+				</crossref>
+				crafty plans against your people;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they consult together against your 
+				<crossref let="l" cid="c19083003.2">
+				</crossref>
+				treasured ones.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				They say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come, 
+				<crossref let="m" cid="c19083004.1">
+				</crossref>
+				let us wipe them out as a nation;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let the name of Israel be remembered no more!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				For they conspire with one accord;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				against you they make a covenantù
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				the tents of 
+				<crossref let="n" cid="c19083006.1">
+				</crossref>
+				Edom and 
+				<crossref let="o" cid="c19083006.2">
+				</crossref>
+				the Ishmaelites,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="p" cid="c19083006.3">
+				</crossref>
+				Moab and 
+				<crossref let="q" cid="c19083006.4">
+				</crossref>
+				the Hagrites,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19083007.1">
+				</crossref>
+				Gebal and 
+				<crossref let="p" cid="c19083007.2">
+				</crossref>
+				Ammon and 
+				<crossref let="s" cid="c19083007.3">
+				</crossref>
+				Amalek,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c19083007.4">
+				</crossref>
+				Philistia with the inhabitants of 
+				<crossref let="u" cid="c19083007.5">
+				</crossref>
+				Tyre;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c19083008.1">
+				</crossref>
+				Asshur also has joined them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they are the strong arm of 
+				<crossref let="w" cid="c19083008.2">
+				</crossref>
+				the children of Lot. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19083009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Do to them as you did to 
+				<crossref let="x" cid="c19083009.1">
+				</crossref>
+				Midian,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as to 
+				<crossref let="y" cid="c19083009.2">
+				</crossref>
+				Sisera and Jabin at 
+				<crossref let="z" cid="c19083009.3">
+				</crossref>
+				the river Kishon,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				who were destroyed at 
+				<crossref let="a" cid="c19083010.1">
+				</crossref>
+				En-dor,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who became 
+				<crossref let="b" cid="c19083010.2">
+				</crossref>
+				dung for the ground.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Make their nobles like 
+				<crossref let="c" cid="c19083011.1">
+				</crossref>
+				Oreb and Zeeb,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all their princes like 
+				<crossref let="d" cid="c19083011.2">
+				</crossref>
+				Zebah and Zalmunna,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				who said, 
+				<crossref let="e" cid="c19083012.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let us take possession for ourselves
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				of the pastures of God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19083013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				O my God, make them like 
+				<crossref let="f" cid="c19083013.1">
+				</crossref>
+				whirling dust,
+				<note nid="n19083013.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like 
+				<crossref let="g" cid="c19083013.2">
+				</crossref>
+				chaff before the wind.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				As 
+				<crossref let="h" cid="c19083014.1">
+				</crossref>
+				fire consumes the forest,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as the flame 
+				<crossref let="i" cid="c19083014.2">
+				</crossref>
+				sets the mountains ablaze,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				so may you pursue them 
+				<crossref let="j" cid="c19083015.1">
+				</crossref>
+				with your tempest
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and terrify them with your hurricane!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c19083016.1">
+				</crossref>
+				Fill their faces with shame,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that they may seek your name, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				Let them be 
+				<crossref let="l" cid="c19083017.1">
+				</crossref>
+				put to shame and dismayed forever;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let them perish in disgrace,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19083018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				that they may 
+				<crossref let="m" cid="c19083018.1">
+				</crossref>
+				know that you alone,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c19083018.2">
+				</crossref>
+				whose name is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				are 
+				<crossref let="o" cid="c19083018.3">
+				</crossref>
+				the Most High over all the earth.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,997 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Judges" num="6">
+		<marker class="begin-verse" mid="v07005001">
+		</marker>
+		<chapter num="5">
+			<heading
+				>
+				The Song of Deborah and Barak
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="v" cid="c07005001.1">
+				</crossref>
+				Then sang Deborah and Barak the son of Abinoam on that day:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v07005002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				That the leaders took the lead in Israel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that 
+				<crossref let="w" cid="c07005002.1">
+				</crossref>
+				the people offered themselves willingly,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v07005003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Hear, O kings; give ear, O princes;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 I will sing;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will make melody to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v07005004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="x" cid="c07005004.1">
+				</crossref>
+				when you went out from Seir,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when you marched from the region of Edom,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c07005004.2">
+				</crossref>
+				the earth trembled
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the heavens dropped,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				yes, the clouds dropped water.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				The mountains 
+				<crossref let="z" cid="c07005005.1">
+				</crossref>
+				quaked before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c07005005.2">
+				</crossref>
+				even Sinai before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v07005006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				In the days of 
+				<crossref let="b" cid="c07005006.1">
+				</crossref>
+				Shamgar, son of Anath,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the days of 
+				<crossref let="c" cid="c07005006.2">
+				</crossref>
+				Jael, 
+				<crossref let="d" cid="c07005006.3">
+				</crossref>
+				the highways were abandoned,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and travelers kept to the byways.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				The villagers ceased in Israel;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they ceased to be until I arose;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I, Deborah, arose as a mother in Israel.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c07005008.1">
+				</crossref>
+				When new gods were chosen,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				then war was in the gates.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c07005008.2">
+				</crossref>
+				Was shield or spear to be seen
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				among forty thousand in Israel?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				My heart goes out to the commanders of Israel
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="g" cid="c07005009.1">
+				</crossref>
+				offered themselves willingly among the people.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v07005010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Tell of it, 
+				<crossref let="h" cid="c07005010.1">
+				</crossref>
+				you who ride on white donkeys,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you who sit on rich carpets
+				<note nid="n07005010.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you who walk by the way.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				To the sound of musicians
+				<note nid="n07005011.1">
+				</note>
+				 at the watering places,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				there they repeat the righteous triumphs of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the righteous triumphs of his villagers in Israel.
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Then down to the gates marched the people of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v07005012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c07005012.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Awake, awake, Deborah!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Awake, awake, break out in a song!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Arise, Barak, 
+				<crossref let="j" cid="c07005012.2">
+				</crossref>
+				lead away your captives,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O son of Abinoam.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				Then down marched the remnant of the noble;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the people of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 marched down for me against the mighty.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				From 
+				<crossref let="k" cid="c07005014.1">
+				</crossref>
+				Ephraim their root 
+				<crossref let="l" cid="c07005014.2">
+				</crossref>
+				they marched down into the valley,
+				<note nid="n07005014.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				following you, Benjamin, with your kinsmen;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				from 
+				<crossref let="m" cid="c07005014.3">
+				</crossref>
+				Machir marched down the commanders,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and from Zebulun those who bear the lieutenant's
+				<note nid="n07005014.2">
+				</note>
+				 staff;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				the princes of Issachar came with Deborah,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and Issachar faithful to 
+				<crossref let="n" cid="c07005015.1">
+				</crossref>
+				Barak;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				into the valley they rushed at his heels.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Among the clans of Reuben
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				there were great searchings of heart.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Why did you sit still 
+				<crossref let="o" cid="c07005016.1">
+				</crossref>
+				among the sheepfolds,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to hear the whistling for the flocks?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Among the clans of Reuben
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				there were great searchings of heart.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c07005017.1">
+				</crossref>
+				Gilead stayed beyond the Jordan;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c07005017.2">
+				</crossref>
+				and Dan, why did he stay with the ships?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c07005017.3">
+				</crossref>
+				Asher sat still 
+				<crossref let="s" cid="c07005017.4">
+				</crossref>
+				at the coast of the sea,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				staying by his landings.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c07005018.1">
+				</crossref>
+				Zebulun is a people who risked their lives to the death;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c07005018.2">
+				</crossref>
+				Naphtali, too, on the heights of the field.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v07005019">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				The kings came, they fought;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				then fought the kings of Canaan,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				at 
+				<crossref let="u" cid="c07005019.1">
+				</crossref>
+				Taanach, by the waters of 
+				<crossref let="v" cid="c07005019.2">
+				</crossref>
+				Megiddo;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c07005019.3">
+				</crossref>
+				they got no spoils of silver.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c07005020.1">
+				</crossref>
+				From heaven the stars fought,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from their courses they fought against Sisera.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c07005021.1">
+				</crossref>
+				The torrent Kishon swept them away,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the ancient torrent, the torrent Kishon.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				March on, my soul, with might!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v07005022">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Then loud beat the horses' hoofs
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with the galloping, galloping of his steeds.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v07005023">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Curse Meroz, says the angel of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				curse its inhabitants thoroughly,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c07005023.1">
+				</crossref>
+				because they did not come to the help of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the help of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 against the mighty.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v07005024">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Most blessed of women be 
+				<crossref let="a" cid="c07005024.1">
+				</crossref>
+				Jael,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the wife of Heber the Kenite,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				of tent-dwelling women most blessed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c07005025.1">
+				</crossref>
+				He asked water and she gave him milk;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she brought him curds in a noble's bowl.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c07005026.1">
+				</crossref>
+				She sent her hand to the tent peg
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and her right hand to the workmen's mallet;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				she struck Sisera;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she crushed his head;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she shattered and pierced his temple.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				Between her feet
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he sank, he fell, he lay still;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				between her feet
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he sank, he fell;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				where he sank,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				there he fellùdead.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v07005028">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c07005028.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Out of the window she peered,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the mother of Sisera wailed through 
+				<crossref let="e" cid="c07005028.2">
+				</crossref>
+				the lattice:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Why is his chariot so long in coming?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Why tarry the hoofbeats of his chariots?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				Her wisest princesses answer,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				indeed, she answers herself,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v07005030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Have they not found and 
+				<crossref let="f" cid="c07005030.1">
+				</crossref>
+				divided the spoil?ù
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				A womb or two for every man;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				spoil of dyed materials for Sisera,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				spoil of dyed materials embroidered,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				two pieces of dyed work embroidered for the neck as spoil?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v07005031">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="31">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c07005031.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				So may all your enemies perish, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				But your friends be 
+				<crossref let="h" cid="c07005031.2">
+				</crossref>
+				like the sun 
+				<crossref let="i" cid="c07005031.3">
+				</crossref>
+				as he rises in his might.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<end-block-indent
+					>
+				</end-block-indent>
+				<begin-paragraph class="same-paragraph">
+				</begin-paragraph>
+				<crossref let="j" cid="c07005031.4">
+				</crossref>
+				And the land had rest for forty years.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

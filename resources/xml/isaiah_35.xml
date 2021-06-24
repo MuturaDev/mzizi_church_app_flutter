@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23035001">
+		</marker>
+		<chapter num="35">
+			<heading
+				>
+				The Ransomed Shall Return
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c23035001.1">
+				</crossref>
+				The wilderness and the dry land shall be glad;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c23035001.2">
+				</crossref>
+				the desert shall rejoice and blossom like the crocus;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23035002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				it shall blossom abundantly
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and rejoice with joy and singing.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c23035002.1">
+				</crossref>
+				The glory of Lebanon shall be given to it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the majesty of 
+				<crossref let="w" cid="c23035002.2">
+				</crossref>
+				Carmel and 
+				<crossref let="x" cid="c23035002.3">
+				</crossref>
+				Sharon.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c23035002.4">
+				</crossref>
+				They shall see the glory of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the majesty of our God.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23035003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c23035003.1">
+				</crossref>
+				Strengthen the weak hands,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and make firm the feeble knees.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23035004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Say to those who have an anxious heart,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Be strong; fear not!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c23035004.1">
+				</crossref>
+				Behold, your God
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				will come with vengeance,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				with the recompense of God.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				He will come and save you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23035005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c23035005.1">
+				</crossref>
+				Then the eyes of the blind shall be opened,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the ears of the deaf unstopped;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23035006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c23035006.1">
+				</crossref>
+				then shall the lame man leap like a deer,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the tongue of the mute sing for joy.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c23035006.2">
+				</crossref>
+				For waters break forth in the wilderness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and streams in the desert;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23035007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c23035007.1">
+				</crossref>
+				the burning sand shall become a pool,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the thirsty ground springs of water;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				in the haunt of 
+				<crossref let="e" cid="c23035007.2">
+				</crossref>
+				jackals, where they lie down,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the grass shall become reeds and rushes.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23035008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c23035008.1">
+				</crossref>
+				And a highway shall be there,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and it shall be called the Way of Holiness;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c23035008.2">
+				</crossref>
+				the unclean shall not pass over it.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				It shall belong to those who walk on the way;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				even if they are fools, they shall not go astray.
+				<note nid="n23035008.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23035009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				No lion shall be there,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor shall any ravenous beast come up on it;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				they shall not be found there,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the redeemed shall walk there.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23035010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c23035010.1">
+				</crossref>
+				And the ransomed of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 shall return
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and come to Zion with singing;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c23035010.2">
+				</crossref>
+				everlasting joy shall be upon their heads;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they shall obtain gladness and joy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and sorrow and sighing shall flee away.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

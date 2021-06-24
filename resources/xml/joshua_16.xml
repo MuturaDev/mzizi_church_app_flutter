@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Joshua" num="5">
+		<marker class="begin-verse" mid="v06016001">
+		</marker>
+		<chapter num="16">
+			<heading
+				>
+				The Allotment for Ephraim and Manasseh
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The allotment of the people of Joseph went from the Jordan by Jericho, east of the waters of Jericho, 
+				<crossref let="i" cid="c06016001.1">
+				</crossref>
+				into the wilderness, going up from Jericho into the hill country to Bethel.
+			</verse>
+			<marker class="begin-verse" mid="v06016002">
+			</marker>
+			<verse num="2">
+				Then 
+				<crossref let="j" cid="c06016002.1">
+				</crossref>
+				going from Bethel to Luz, it passes along to Ataroth, the territory of the Archites.
+			</verse>
+			<marker class="begin-verse" mid="v06016003">
+			</marker>
+			<verse num="3">
+				Then it goes down westward to the territory of the Japhletites, as far as the territory of Lower 
+				<crossref let="k" cid="c06016003.1">
+				</crossref>
+				Beth-horon, then to 
+				<crossref let="l" cid="c06016003.2">
+				</crossref>
+				Gezer, and it ends at the sea.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06016004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				<crossref let="m" cid="c06016004.1">
+				</crossref>
+				The people of Joseph, Manasseh and Ephraim, received their inheritance.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06016005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				The territory of the people of Ephraim by their clans was as follows: the boundary of their inheritance on the east was 
+				<crossref let="n" cid="c06016005.1">
+				</crossref>
+				Ataroth-addar as far as Upper Beth-horon,
+			</verse>
+			<marker class="begin-verse" mid="v06016006">
+			</marker>
+			<verse num="6">
+				and the boundary goes from there to the sea. On the north is 
+				<crossref let="o" cid="c06016006.1">
+				</crossref>
+				Michmethath. Then on the east the boundary turns around toward Taanath-shiloh and passes along beyond it on the east to Janoah,
+			</verse>
+			<marker class="begin-verse" mid="v06016007">
+			</marker>
+			<verse num="7">
+				then it goes down from Janoah to Ataroth and 
+				<crossref let="p" cid="c06016007.1">
+				</crossref>
+				to Naarah, and touches Jericho, ending at the Jordan.
+			</verse>
+			<marker class="begin-verse" mid="v06016008">
+			</marker>
+			<verse num="8">
+				From 
+				<crossref let="q" cid="c06016008.1">
+				</crossref>
+				Tappuah the boundary goes westward to the brook Kanah and ends at the sea. Such is the inheritance of the tribe of the people of Ephraim by their clans,
+			</verse>
+			<marker class="begin-verse" mid="v06016009">
+			</marker>
+			<verse num="9">
+				together with 
+				<crossref let="q" cid="c06016009.1">
+				</crossref>
+				the towns that were set apart for the people of Ephraim within the inheritance of the Manassites, all those towns with their villages.
+			</verse>
+			<marker class="begin-verse" mid="v06016010">
+			</marker>
+			<verse num="10">
+				However, 
+				<crossref let="r" cid="c06016010.1">
+				</crossref>
+				they did not drive out the Canaanites who lived in Gezer, so the Canaanites have lived in the midst of Ephraim to this day but have been made 
+				<crossref let="s" cid="c06016010.2">
+				</crossref>
+				to do forced labor.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

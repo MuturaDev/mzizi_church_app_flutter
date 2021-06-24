@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19042001">
+		</marker>
+		<heading class="psalm-book">
+			Book Two
+		</heading>
+		<chapter num="42">
+			<heading
+				>
+				Why Are You Cast Down, O My Soul?
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Maskil
+				<note nid="n19042001.1">
+				</note>
+				 of 
+				<crossref let="s" cid="c19042001.1">
+				</crossref>
+				the Sons of Korah.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c19042001.2">
+				</crossref>
+				As a deer pants for flowing streams,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so pants my soul for you, O God.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19042002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19042002.1">
+				</crossref>
+				My soul thirsts for God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="v" cid="c19042002.2">
+				</crossref>
+				the living God.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				When shall I come and 
+				<crossref let="w" cid="c19042002.3">
+				</crossref>
+				appear before God?
+				<note nid="n19042002.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19042003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19042003.1">
+				</crossref>
+				My tears have been my food
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				day and night,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c19042003.2">
+				</crossref>
+				while they say to me all the day long,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where is your God?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19042004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				These things I remember,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as I 
+				<crossref let="z" cid="c19042004.1">
+				</crossref>
+				pour out my soul:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19042004.2">
+				</crossref>
+				how I would go 
+				<crossref let="b" cid="c19042004.3">
+				</crossref>
+				with the throng
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and lead them in procession to the house of God
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				with glad shouts and songs of praise,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c19042004.4">
+				</crossref>
+				a multitude keeping festival.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19042005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c19042005.1">
+				</crossref>
+				Why are you cast down, O my soul,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and why are you 
+				<crossref let="e" cid="c19042005.2">
+				</crossref>
+				in turmoil within me?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c19042005.3">
+				</crossref>
+				Hope in God; for I shall again praise him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my salvation
+				<note nid="n19042005.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v19042006">
+			</marker>
+			<verse num="6">
+				and my God.
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				My soul is cast down within me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				therefore I 
+				<crossref let="g" cid="c19042006.1">
+				</crossref>
+				remember you
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c19042006.2">
+				</crossref>
+				from the land of Jordan and of 
+				<crossref let="i" cid="c19042006.3">
+				</crossref>
+				Hermon,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from Mount Mizar.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19042007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Deep calls to deep
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				at the roar of your waterfalls;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c19042007.1">
+				</crossref>
+				all your breakers and your 
+				<crossref let="k" cid="c19042007.2">
+				</crossref>
+				waves
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				have gone over me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19042008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				By day the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="l" cid="c19042008.1">
+				</crossref>
+				commands his steadfast love,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and at 
+				<crossref let="m" cid="c19042008.2">
+				</crossref>
+				night his song is with me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a prayer to the God of my life.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19042009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				I say to God, 
+				<crossref let="n" cid="c19042009.1">
+				</crossref>
+				my rock:
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have you forgotten me?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c19042009.2">
+				</crossref>
+				Why do I go mourning
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because of the oppression of the enemy?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19042010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				As with a deadly wound in my bones,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my adversaries taunt me,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19042010.1">
+				</crossref>
+				while they say to me all the day long,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where is your God?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19042011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c19042011.1">
+				</crossref>
+				Why are you cast down, O my soul,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and why are you in turmoil within me?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Hope in God; for I shall again praise him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my salvation and my God.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

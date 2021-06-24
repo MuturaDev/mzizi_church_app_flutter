@@ -1,0 +1,617 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19071001">
+		</marker>
+		<chapter num="71">
+			<heading
+				>
+				Forsake Me Not When My Strength Is Spent
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19071001.1">
+				</crossref>
+				In you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, do I take refuge;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let me never be put to shame!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				In your righteousness deliver me and rescue me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				incline your ear to me, and save me!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Be to me a rock of 
+				<crossref let="j" cid="c19071003.1">
+				</crossref>
+				refuge,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to which I may continually come;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				you have 
+				<crossref let="k" cid="c19071003.2">
+				</crossref>
+				given the command to save me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for you are my 
+				<crossref let="l" cid="c19071003.3">
+				</crossref>
+				rock and my fortress.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19071004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c19071004.1">
+				</crossref>
+				Rescue me, O my God, from the hand of the wicked,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from the grasp of the unjust and cruel man.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				For you, O Lord, are my 
+				<crossref let="n" cid="c19071005.1">
+				</crossref>
+				hope,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my trust, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, from my youth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Upon you I have leaned 
+				<crossref let="o" cid="c19071006.1">
+				</crossref>
+				from before my birth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you are he who 
+				<crossref let="p" cid="c19071006.2">
+				</crossref>
+				took me from my mother's womb.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				My praise is continually of you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19071007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				I have been as 
+				<crossref let="q" cid="c19071007.1">
+				</crossref>
+				a portent to many,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but you are my strong refuge.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				My 
+				<crossref let="r" cid="c19071008.1">
+				</crossref>
+				mouth is filled with your praise,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and with your glory all the day.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19071009.1">
+				</crossref>
+				Do not cast me off in the time of old age;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				forsake me not when my strength is spent.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				For my enemies speak concerning me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				those who 
+				<crossref let="t" cid="c19071010.1">
+				</crossref>
+				watch for my life 
+				<crossref let="u" cid="c19071010.2">
+				</crossref>
+				consult together
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				and say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				God has forsaken him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				pursue and seize him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for there is none to deliver him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19071012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				O God, be not 
+				<crossref let="v" cid="c19071012.1">
+				</crossref>
+				far from me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O my God, 
+				<crossref let="w" cid="c19071012.2">
+				</crossref>
+				make haste to help me!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				May my accusers be 
+				<crossref let="x" cid="c19071013.1">
+				</crossref>
+				put to shame and consumed;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="y" cid="c19071013.2">
+				</crossref>
+				with scorn and disgrace may they be covered
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="z" cid="c19071013.3">
+				</crossref>
+				seek my hurt.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				But I will 
+				<crossref let="a" cid="c19071014.1">
+				</crossref>
+				hope continually
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and will 
+				<crossref let="b" cid="c19071014.2">
+				</crossref>
+				praise you yet more and more.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				My 
+				<crossref let="c" cid="c19071015.1">
+				</crossref>
+				mouth will tell of your righteous acts,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				of your deeds of salvation all the day,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="d" cid="c19071015.2">
+				</crossref>
+				their number is past my knowledge.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				With the mighty deeds of the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				 I will come;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will remind them of your righteousness, yours alone.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19071017">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				O God, from my youth you have taught me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and I still proclaim your wondrous deeds.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				So even to 
+				<crossref let="e" cid="c19071018.1">
+				</crossref>
+				old age and gray hairs,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O God, 
+				<crossref let="f" cid="c19071018.2">
+				</crossref>
+				do not forsake me,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				until I proclaim your might to another generation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your power to all those to come.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				Your 
+				<crossref let="g" cid="c19071019.1">
+				</crossref>
+				righteousness, O God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				reaches the high heavens.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				You who have done 
+				<crossref let="h" cid="c19071019.2">
+				</crossref>
+				great things,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O God, 
+				<crossref let="i" cid="c19071019.3">
+				</crossref>
+				who is like you?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				You who have 
+				<crossref let="j" cid="c19071020.1">
+				</crossref>
+				made me see many troubles and calamities
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				will 
+				<crossref let="k" cid="c19071020.2">
+				</crossref>
+				revive me again;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				from the depths of the earth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you will bring me up again.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				You will increase my greatness
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and comfort me again.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19071022">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				I will also praise you with 
+				<crossref let="l" cid="c19071022.1">
+				</crossref>
+				the harp
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for your faithfulness, O my God;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I will sing praises to you with the lyre,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<crossref let="m" cid="c19071022.2">
+				</crossref>
+				Holy One of Israel.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				My lips will shout for joy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when I sing praises to you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my soul also, which you have 
+				<crossref let="n" cid="c19071023.1">
+				</crossref>
+				redeemed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19071024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				And my 
+				<crossref let="o" cid="c19071024.1">
+				</crossref>
+				tongue will talk of your righteous help all the day long,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for they have been 
+				<crossref let="p" cid="c19071024.2">
+				</crossref>
+				put to shame and disappointed
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who sought to do me hurt.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

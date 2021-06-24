@@ -11,14 +11,14 @@ class PortalParentChatRequest {
   String Msg;
   String staffID;
   String appCode;
- // String enquiryTypeID;
+ String enquiryTypeID;
 
   PortalParentChatRequest(
     this.studentID,
     this.Msg,
     this.staffID,
     this.appCode,
-    //this.enquiryTypeID,
+    this.enquiryTypeID,
   );
 
   factory PortalParentChatRequest.fromJson(Map<String, dynamic> json) => _$PortalParentChatRequestFromJson(json);
@@ -27,6 +27,6 @@ class PortalParentChatRequest {
 
   @override
   String toString() {
-    return 'PortalParentChatRequest studentID: $studentID, Msg: $Msg, staffID: $staffID, appCode: $appCode, enquiryTypeID';
+    return 'PortalParentChatRequest studentID: $studentID, Msg: $Msg, staffID: $staffID, appCode: $appCode, enquiryTypeID: $enquiryTypeID';
   }
 }

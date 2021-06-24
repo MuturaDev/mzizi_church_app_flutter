@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Numbers" num="3">
+		<marker class="begin-verse" mid="v04027001">
+		</marker>
+		<chapter num="27">
+			<heading
+				>
+				The Daughters of Zelophehad
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then drew near the daughters of 
+				<crossref let="x" cid="c04027001.1">
+				</crossref>
+				Zelophehad the son of Hepher, son of Gilead, son of Machir, son of Manasseh, from the clans of Manasseh the son of Joseph. The names of his daughters were: Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+			</verse>
+			<marker class="begin-verse" mid="v04027002">
+			</marker>
+			<verse num="2">
+				And they stood before Moses and before Eleazar the priest and before the chiefs and all the congregation, at the entrance of the tent of meeting, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04027003">
+			</marker>
+			<verse num="3">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Our father 
+				<crossref let="y" cid="c04027003.1">
+				</crossref>
+				died in the wilderness. He was not among the company of those who gathered themselves together against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="z" cid="c04027003.2">
+				</crossref>
+				in the company of Korah, but 
+				<crossref let="a" cid="c04027003.3">
+				</crossref>
+				died for his own sin. And he had no sons.
+			</verse>
+			<marker class="begin-verse" mid="v04027004">
+			</marker>
+			<verse num="4">
+				Why should the name of our father be taken away from his clan because he had no son? 
+				<crossref let="b" cid="c04027004.1">
+				</crossref>
+				Give to us a possession among our father's brothers.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04027005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				Moses 
+				<crossref let="c" cid="c04027005.1">
+				</crossref>
+				brought their case before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v04027006">
+			</marker>
+			<verse num="6">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses,
+			</verse>
+			<marker class="begin-verse" mid="v04027007">
+			</marker>
+			<verse num="7">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The daughters of Zelophehad 
+				<crossref let="d" cid="c04027007.1">
+				</crossref>
+				are right. 
+				<crossref let="e" cid="c04027007.2">
+				</crossref>
+				You shall give them possession of an inheritance among their father's brothers and transfer the inheritance of their father to them.
+			</verse>
+			<marker class="begin-verse" mid="v04027008">
+			</marker>
+			<verse num="8">
+				And you shall speak to the people of Israel, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				If a man dies and has no son, then you shall transfer his inheritance to his daughter.
+			</verse>
+			<marker class="begin-verse" mid="v04027009">
+			</marker>
+			<verse num="9">
+				And if he has no daughter, then you shall give his inheritance to his brothers.
+			</verse>
+			<marker class="begin-verse" mid="v04027010">
+			</marker>
+			<verse num="10">
+				And if he has no brothers, then you shall give his inheritance to his father's brothers.
+			</verse>
+			<marker class="begin-verse" mid="v04027011">
+			</marker>
+			<verse num="11">
+				And if his father has no brothers, then you shall give his inheritance to the nearest 
+				<crossref let="f" cid="c04027011.1">
+				</crossref>
+				kinsman of his clan, and he shall possess it. And it shall be for the people of Israel 
+				<crossref let="g" cid="c04027011.2">
+				</crossref>
+				a statute and rule, as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded Moses.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04027012">
+			</marker>
+			<heading
+				>
+				Joshua to Succeed Moses
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go up into 
+				<crossref let="h" cid="c04027012.1">
+				</crossref>
+				this mountain of Abarim and see the land that I have given to the people of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v04027013">
+			</marker>
+			<verse num="13">
+				When you have seen it, you also 
+				<crossref let="i" cid="c04027013.1">
+				</crossref>
+				shall be gathered to your people, as your brother Aaron was,
+			</verse>
+			<marker class="begin-verse" mid="v04027014">
+			</marker>
+			<verse num="14">
+				<crossref let="j" cid="c04027014.1">
+				</crossref>
+				because you rebelled against my word in the wilderness of Zin when the congregation quarreled, failing 
+				<crossref let="k" cid="c04027014.2">
+				</crossref>
+				to uphold me as holy at the waters before their eyes.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 (These are 
+				<crossref let="l" cid="c04027014.3">
+				</crossref>
+				the waters of Meribah of Kadesh in the wilderness of Zin.)
+			</verse>
+			<marker class="begin-verse" mid="v04027015">
+			</marker>
+			<verse num="15">
+				Moses spoke to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04027016">
+			</marker>
+			<verse num="16">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="m" cid="c04027016.1">
+				</crossref>
+				the God of the spirits of all flesh, appoint a man over the congregation
+			</verse>
+			<marker class="begin-verse" mid="v04027017">
+			</marker>
+			<verse num="17">
+				who 
+				<crossref let="n" cid="c04027017.1">
+				</crossref>
+				shall go out before them and come in before them, who shall lead them out and bring them in, that the congregation of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 may not be 
+				<crossref let="o" cid="c04027017.2">
+				</crossref>
+				as sheep that have no shepherd.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04027018">
+			</marker>
+			<verse num="18">
+				So the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take 
+				<crossref let="p" cid="c04027018.1">
+				</crossref>
+				Joshua the son of Nun, a man 
+				<crossref let="q" cid="c04027018.2">
+				</crossref>
+				in whom is the Spirit, and 
+				<crossref let="r" cid="c04027018.3">
+				</crossref>
+				lay your hand on him.
+			</verse>
+			<marker class="begin-verse" mid="v04027019">
+			</marker>
+			<verse num="19">
+				Make him stand before Eleazar the priest and all the congregation, and you shall 
+				<crossref let="s" cid="c04027019.1">
+				</crossref>
+				commission him in their sight.
+			</verse>
+			<marker class="begin-verse" mid="v04027020">
+			</marker>
+			<verse num="20">
+				You shall invest him with some of your authority, 
+				<crossref let="t" cid="c04027020.1">
+				</crossref>
+				that all the congregation of the people of Israel may obey.
+			</verse>
+			<marker class="begin-verse" mid="v04027021">
+			</marker>
+			<verse num="21">
+				And he shall stand before Eleazar the priest, who shall inquire for him 
+				<crossref let="u" cid="c04027021.1">
+				</crossref>
+				by the judgment of the Urim before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. At his word they shall go out, and at his word they shall come in, both he and all the people of Israel with him, the whole congregation.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04027022">
+			</marker>
+			<verse num="22">
+				And Moses did as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded him. He took Joshua and made him stand before Eleazar the priest and the whole congregation,
+			</verse>
+			<marker class="begin-verse" mid="v04027023">
+			</marker>
+			<verse num="23">
+				and he laid his hands on him and 
+				<crossref let="s" cid="c04027023.1">
+				</crossref>
+				commissioned him as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 directed through Moses.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

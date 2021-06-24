@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19113001">
+		</marker>
+		<chapter num="113">
+			<heading
+				>
+				Who Is like the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Our God?
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c19113001.1">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c19113001.2">
+				</crossref>
+				Praise, O 
+				<crossref let="d" cid="c19113001.3">
+				</crossref>
+				servants of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				praise the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19113002">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c19113002.1">
+				</crossref>
+				Blessed be the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from this time forth and forevermore!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19113003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c19113003.1">
+				</crossref>
+				From the rising of the sun to its setting,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="g" cid="c19113003.2">
+				</crossref>
+				the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is 
+				<crossref let="h" cid="c19113003.3">
+				</crossref>
+				to be praised!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19113004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is 
+				<crossref let="i" cid="c19113004.1">
+				</crossref>
+				high above all nations,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his 
+				<crossref let="j" cid="c19113004.2">
+				</crossref>
+				glory above the heavens!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19113005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c19113005.1">
+				</crossref>
+				Who is like the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who is seated on high,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19113006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				who 
+				<crossref let="l" cid="c19113006.1">
+				</crossref>
+				looks far down
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on the heavens and the earth?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19113007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="m" cid="c19113007.1">
+				</crossref>
+				raises the poor from the dust
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and lifts the needy from the ash heap,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19113008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				to make them 
+				<crossref let="n" cid="c19113008.1">
+				</crossref>
+				sit with princes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with the princes of his people.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19113009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="o" cid="c19113009.1">
+				</crossref>
+				gives the barren woman a home,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				making her the joyous mother of children.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c19113009.2">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

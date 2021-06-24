@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19062001">
+		</marker>
+		<chapter num="62">
+			<heading
+				>
+				My Soul Waits for God Alone
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: according to 
+				<crossref let="x" cid="c19062001.1">
+				</crossref>
+				Jeduthun. A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				For God alone 
+				<crossref let="y" cid="c19062001.2">
+				</crossref>
+				my soul 
+				<crossref let="z" cid="c19062001.3">
+				</crossref>
+				waits in silence;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from him comes my salvation.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19062002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19062002.1">
+				</crossref>
+				He only is my rock and my salvation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my 
+				<crossref let="b" cid="c19062002.2">
+				</crossref>
+				fortress; 
+				<crossref let="c" cid="c19062002.3">
+				</crossref>
+				I shall not be greatly shaken.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19062003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				How long will all of you attack a man
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to batter him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like 
+				<crossref let="d" cid="c19062003.1">
+				</crossref>
+				a leaning wall, a tottering fence?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19062004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				They only plan to thrust him down from his 
+				<crossref let="e" cid="c19062004.1">
+				</crossref>
+				high position.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				They take pleasure in falsehood.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c19062004.2">
+				</crossref>
+				They bless with their mouths,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but inwardly they curse. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19062005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				For God alone, O 
+				<crossref let="y" cid="c19062005.1">
+				</crossref>
+				my soul, wait in silence,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for my hope is from him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19062006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19062006.1">
+				</crossref>
+				He only is my rock and my salvation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my fortress; I shall not be shaken.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19062007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				On God rests my 
+				<crossref let="g" cid="c19062007.1">
+				</crossref>
+				salvation and my glory;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my mighty rock, 
+				<crossref let="h" cid="c19062007.2">
+				</crossref>
+				my refuge is God.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19062008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19062008.1">
+				</crossref>
+				Trust in him at all times, O people;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c19062008.2">
+				</crossref>
+				pour out your heart before him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				God is 
+				<crossref let="h" cid="c19062008.3">
+				</crossref>
+				a refuge for us. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19062009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c19062009.1">
+				</crossref>
+				Those of low estate are but a breath;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				those of high estate 
+				<crossref let="l" cid="c19062009.2">
+				</crossref>
+				are a delusion;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				in the balances they go up;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c19062009.3">
+				</crossref>
+				they are together lighter than a breath.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19062010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Put no trust in extortion;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c19062010.1">
+				</crossref>
+				set no vain hopes on robbery;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c19062010.2">
+				</crossref>
+				if riches increase, set not your heart on them.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19062011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c19062011.1">
+				</crossref>
+				Once God has spoken;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19062011.2">
+				</crossref>
+				twice have I heard this:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				that 
+				<crossref let="p" cid="c19062011.3">
+				</crossref>
+				power belongs to God,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19062012">
+			</marker>
+			<verse num="12">
+				<begin-line class="indent">
+				</begin-line>
+				and that to you, O Lord, 
+				<crossref let="q" cid="c19062012.1">
+				</crossref>
+				belongs steadfast love.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				For you will 
+				<crossref let="r" cid="c19062012.2">
+				</crossref>
+				render to a man
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				according to his work.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19061001">
+		</marker>
+		<chapter num="61">
+			<heading
+				>
+				Lead Me to the Rock
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: with 
+				<crossref let="l" cid="c19061001.1">
+				</crossref>
+				stringed instruments. Of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Hear my cry, O God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c19061001.2">
+				</crossref>
+				listen to my prayer;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19061002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				from the end of the earth I call to you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when my heart is 
+				<crossref let="n" cid="c19061002.1">
+				</crossref>
+				faint.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Lead me to 
+				<crossref let="o" cid="c19061002.2">
+				</crossref>
+				the rock
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that is higher than I,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19061003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				for you have been 
+				<crossref let="p" cid="c19061003.1">
+				</crossref>
+				my refuge,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a strong 
+				<crossref let="q" cid="c19061003.2">
+				</crossref>
+				tower against the enemy.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19061004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Let me 
+				<crossref let="r" cid="c19061004.1">
+				</crossref>
+				dwell in your tent forever!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Let me take refuge under 
+				<crossref let="s" cid="c19061004.2">
+				</crossref>
+				the shelter of your wings! 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19061005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				For you, O God, have heard my vows;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have given me the heritage of those who fear your name.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19061006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c19061006.1">
+				</crossref>
+				Prolong 
+				<crossref let="u" cid="c19061006.2">
+				</crossref>
+				the life of the king;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				may his years endure to all generations!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19061007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				May he be enthroned forever before God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				appoint 
+				<crossref let="v" cid="c19061007.1">
+				</crossref>
+				steadfast love and faithfulness to watch over him!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19061008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				So will I ever sing praises to your name,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as I 
+				<crossref let="w" cid="c19061008.1">
+				</crossref>
+				perform my vows day after day.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

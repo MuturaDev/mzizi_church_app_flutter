@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19100001">
+		</marker>
+		<chapter num="100">
+			<heading
+				>
+				His Steadfast Love Endures Forever
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm for 
+				<crossref let="o" cid="c19100001.1">
+				</crossref>
+				giving thanks.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19100001.2">
+				</crossref>
+				Make a joyful noise to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, all the earth!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19100002">
+			</marker>
+			<verse num="2">
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c19100002.1">
+				</crossref>
+				Serve the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with gladness!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c19100002.2">
+				</crossref>
+				Come into his presence with singing!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19100003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Know that 
+				<crossref let="s" cid="c19100003.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, he is God!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				It is he who 
+				<crossref let="t" cid="c19100003.2">
+				</crossref>
+				made us, and 
+				<crossref let="u" cid="c19100003.3">
+				</crossref>
+				we are his;
+				<note nid="n19100003.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				we are his 
+				<crossref let="v" cid="c19100003.4">
+				</crossref>
+				people, and 
+				<crossref let="w" cid="c19100003.5">
+				</crossref>
+				the sheep of his pasture.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19100004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19100004.1">
+				</crossref>
+				Enter his gates with thanksgiving,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his 
+				<crossref let="y" cid="c19100004.2">
+				</crossref>
+				courts with praise!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Give thanks to him; 
+				<crossref let="z" cid="c19100004.3">
+				</crossref>
+				bless his name!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19100005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19100005.1">
+				</crossref>
+				For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is good;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his steadfast love endures forever,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his 
+				<crossref let="b" cid="c19100005.2">
+				</crossref>
+				faithfulness to all generations.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

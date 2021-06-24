@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Corinthians" num="47">
+		<marker class="begin-verse" mid="v47001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Paul, 
+				<crossref let="a" cid="c47001001.1">
+				</crossref>
+				an apostle of Christ Jesus 
+				<crossref let="b" cid="c47001001.2">
+				</crossref>
+				by the will of God, and 
+				<crossref let="c" cid="c47001001.3">
+				</crossref>
+				Timothy our brother,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				To the church of God that is at Corinth, 
+				<crossref let="d" cid="c47001001.4">
+				</crossref>
+				with all the saints who are in the whole of Achaia:
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v47001002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				<crossref let="e" cid="c47001002.1">
+				</crossref>
+				Grace to you and peace from God our Father and the Lord Jesus Christ.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v47001003">
+			</marker>
+			<heading
+				>
+				God of All Comfort
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="f" cid="c47001003.1">
+				</crossref>
+				Blessed be the 
+				<crossref let="g" cid="c47001003.2">
+				</crossref>
+				God and Father of our Lord Jesus Christ, the Father of mercies and 
+				<crossref let="h" cid="c47001003.3">
+				</crossref>
+				God of all comfort,
+			</verse>
+			<marker class="begin-verse" mid="v47001004">
+			</marker>
+			<verse num="4">
+				<crossref let="i" cid="c47001004.1">
+				</crossref>
+				who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God.
+			</verse>
+			<marker class="begin-verse" mid="v47001005">
+			</marker>
+			<verse num="5">
+				For as we share abundantly in 
+				<crossref let="j" cid="c47001005.1">
+				</crossref>
+				Christ's sufferings, so through Christ we share abundantly in comfort too.
+				<note nid="n47001005.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v47001006">
+			</marker>
+			<verse num="6">
+				<crossref let="k" cid="c47001006.1">
+				</crossref>
+				If we are afflicted, it is for your comfort and salvation; and if we are comforted, it is for your comfort, which you experience when you patiently endure the same sufferings that we suffer.
+			</verse>
+			<marker class="begin-verse" mid="v47001007">
+			</marker>
+			<verse num="7">
+				Our hope for you is unshaken, for we know that as you 
+				<crossref let="l" cid="c47001007.1">
+				</crossref>
+				share in our sufferings, you will also share in our comfort.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v47001008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				For we do not want you to be ignorant, brothers,
+				<note nid="n47001008.1">
+				</note>
+				 of 
+				<crossref let="m" cid="c47001008.1">
+				</crossref>
+				the affliction we experienced in Asia. For we were so utterly burdened beyond our strength that we despaired of life itself.
+			</verse>
+			<marker class="begin-verse" mid="v47001009">
+			</marker>
+			<verse num="9">
+				Indeed, we felt that we had received the sentence of death. But that was to make us 
+				<crossref let="n" cid="c47001009.1">
+				</crossref>
+				rely not on ourselves 
+				<crossref let="o" cid="c47001009.2">
+				</crossref>
+				but on God 
+				<crossref let="p" cid="c47001009.3">
+				</crossref>
+				who raises the dead.
+			</verse>
+			<marker class="begin-verse" mid="v47001010">
+			</marker>
+			<verse num="10">
+				<crossref let="q" cid="c47001010.1">
+				</crossref>
+				He delivered us from such a deadly peril, and he will deliver us. 
+				<crossref let="r" cid="c47001010.2">
+				</crossref>
+				On him we have set our hope that he will deliver us again.
+			</verse>
+			<marker class="begin-verse" mid="v47001011">
+			</marker>
+			<verse num="11">
+				<crossref let="s" cid="c47001011.1">
+				</crossref>
+				You also must help us by prayer, so that many will give thanks on our behalf 
+				<crossref let="t" cid="c47001011.2">
+				</crossref>
+				for the blessing granted us through the prayers of many.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v47001012">
+			</marker>
+			<heading
+				>
+				Paul's Change of Plans
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				For our boast is this, 
+				<crossref let="u" cid="c47001012.1">
+				</crossref>
+				the testimony of our conscience, that we behaved in the world with simplicity
+				<note nid="n47001012.1">
+				</note>
+				 and 
+				<crossref let="v" cid="c47001012.2">
+				</crossref>
+				godly sincerity, 
+				<crossref let="w" cid="c47001012.3">
+				</crossref>
+				not by earthly wisdom but by the grace of God, and supremely so toward you.
+			</verse>
+			<marker class="begin-verse" mid="v47001013">
+			</marker>
+			<verse num="13">
+				For we are not writing to you anything other than what you read and acknowledge
+				<note nid="n47001013.1">
+				</note>
+				 and I hope you will fully acknowledgeù
+			</verse>
+			<marker class="begin-verse" mid="v47001014">
+			</marker>
+			<verse num="14">
+				just as you did 
+				<crossref let="x" cid="c47001014.1">
+				</crossref>
+				partially acknowledge usùthat 
+				<crossref let="y" cid="c47001014.2">
+				</crossref>
+				on the day of our Lord Jesus 
+				<crossref let="z" cid="c47001014.3">
+				</crossref>
+				you will boast of us as 
+				<crossref let="a" cid="c47001014.4">
+				</crossref>
+				we will boast of you.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v47001015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				Because I was sure of this, 
+				<crossref let="b" cid="c47001015.1">
+				</crossref>
+				I wanted to come to you first, so that you might have 
+				<crossref let="c" cid="c47001015.2">
+				</crossref>
+				a second 
+				<crossref let="d" cid="c47001015.3">
+				</crossref>
+				experience of grace.
+			</verse>
+			<marker class="begin-verse" mid="v47001016">
+			</marker>
+			<verse num="16">
+				I wanted to visit you 
+				<crossref let="e" cid="c47001016.1">
+				</crossref>
+				on my way to Macedonia, and to come back to you from Macedonia and have you send me on my way to Judea.
+			</verse>
+			<marker class="begin-verse" mid="v47001017">
+			</marker>
+			<verse num="17">
+				Was I vacillating when I wanted to do this? Do I make my plans 
+				<crossref let="f" cid="c47001017.1">
+				</crossref>
+				according to the flesh, ready to say 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Yes, yes
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 and 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No, no
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 at the same time?
+			</verse>
+			<marker class="begin-verse" mid="v47001018">
+			</marker>
+			<verse num="18">
+				As surely as 
+				<crossref let="g" cid="c47001018.1">
+				</crossref>
+				God is faithful, 
+				<crossref let="h" cid="c47001018.2">
+				</crossref>
+				our word to you has not been Yes and No.
+			</verse>
+			<marker class="begin-verse" mid="v47001019">
+			</marker>
+			<verse num="19">
+				For 
+				<crossref let="i" cid="c47001019.1">
+				</crossref>
+				the Son of God, Jesus Christ, whom we proclaimed among you, 
+				<crossref let="j" cid="c47001019.2">
+				</crossref>
+				Silvanus and Timothy and I, was not Yes and No, but 
+				<crossref let="k" cid="c47001019.3">
+				</crossref>
+				in him it is always Yes.
+			</verse>
+			<marker class="begin-verse" mid="v47001020">
+			</marker>
+			<verse num="20">
+				For 
+				<crossref let="l" cid="c47001020.1">
+				</crossref>
+				all the promises of God find their Yes in him. That is why it is through him that we utter our 
+				<crossref let="m" cid="c47001020.2">
+				</crossref>
+				Amen to God for his glory.
+			</verse>
+			<marker class="begin-verse" mid="v47001021">
+			</marker>
+			<verse num="21">
+				And it is God who establishes us with you in Christ, and 
+				<crossref let="n" cid="c47001021.1">
+				</crossref>
+				has anointed us,
+			</verse>
+			<marker class="begin-verse" mid="v47001022">
+			</marker>
+			<verse num="22">
+				and who has also 
+				<crossref let="o" cid="c47001022.1">
+				</crossref>
+				put his seal on us and 
+				<crossref let="p" cid="c47001022.2">
+				</crossref>
+				given us his Spirit in our hearts as a guarantee.
+				<note nid="n47001022.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v47001023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				But 
+				<crossref let="q" cid="c47001023.1">
+				</crossref>
+				I call God to witness against meùit was 
+				<crossref let="r" cid="c47001023.2">
+				</crossref>
+				to spare you that I refrained from coming again to Corinth.
+			</verse>
+			<marker class="begin-verse" mid="v47001024">
+			</marker>
+			<verse num="24">
+				Not that we 
+				<crossref let="s" cid="c47001024.1">
+				</crossref>
+				lord it over your faith, but we work with you for your joy, for you stand firm 
+				<crossref let="t" cid="c47001024.2">
+				</crossref>
+				in your faith.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

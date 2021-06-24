@@ -10,10 +10,12 @@ import 'package:mzizichurchsystem/mzizi_church_system/dao/portal_contacts_dao.da
 import 'package:mzizichurchsystem/mzizi_church_system/dao/portal_parent_chat_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/database/app_database.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/database/database_dao.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system/flavour_config.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_parent_chat_message_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_student_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_parent_chat_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_contacts_response_model.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_enquiry_types_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_parent_chat_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/enhanced_stream_builder.dart';
@@ -75,7 +77,7 @@ class _WhenNotDoneState extends State<WhenNotDone> {
 
 Future<List<ParentChatResponse>> _optionToFetchFromApi(
     {String message = "",
-    String enquiryType = "1",
+    String enquiryType = "0",
     bool sending = false,
     bool resend = false}) async {
   final db = await $FloorAppDatabase.databaseBuilder("app_database.db").build();
@@ -85,6 +87,8 @@ Future<List<ParentChatResponse>> _optionToFetchFromApi(
   final PortalParentChatDAO dao = new PortalParentChatDAO();
   //This is for testing, dont undo
   // await dao.deleteParentChatResponse();
+
+  List<ParentChatResponse> returnChats = new List<ParentChatResponse>();
 
   if (message.isEmpty && sending) {
     Fluttertoast.showToast(
@@ -116,12 +120,11 @@ Future<List<ParentChatResponse>> _optionToFetchFromApi(
 
       if (student != null) {
         PortalParentChatRequest request = new PortalParentChatRequest(
-          student.StudentID,
-          message,
-          "0",
-          student.AppCode,
-          // enquiryType
-        ); //1= General Enquiry
+            student.StudentID,
+            message,
+            "0",
+            student.AppCode,
+            enquiryType); //1= General Enquiry
 
         //TODO: Check messages that are new
         //  for(int i = 0; i < (portalChats as List<ParentChatResponse>).length; i++){
@@ -149,9 +152,12 @@ Future<List<ParentChatResponse>> _optionToFetchFromApi(
 
         List<ParentChatResponse> getList = await dao.getParentChatResponse();
 
+        returnChats = portalChatsList;
+
         return portalChatsList;
       } else {
-        return dao.getParentChatResponse();
+        //return dao.getParentChatResponse();
+        return returnChats;
       }
     } else {
       //use resend frag to prevent from two messages appearing for resend
@@ -169,10 +175,13 @@ Future<List<ParentChatResponse>> _optionToFetchFromApi(
             textColor: Colors.white,
             fontSize: 16.0);
       }
+
       return dao.getParentChatResponse();
+      //return  returnChats;
     }
   } catch (e) {
-    return dao.getParentChatResponse();
+    //return dao.getParentChatResponse();
+    return returnChats;
   }
 }
 
@@ -295,26 +304,31 @@ class _PortalChatPageState extends State<PortalChatPage> {
                 //     return returnWidget;
                 //   },
                 // ))),
-                // Positioned(
-                //   top: 5.0,
-                //   right: 5.0,
-                //   left: 5.0,
-                //   child: Container(
-                //     width: MediaQuery.of(context).size.width / 2,
-                //     height: 40.0,
-                //     child: Center(
-                //       child: Image.asset("assets/images/key_bg_icon.png"),
-                //     ),
-                //   ),
-                // ),
+                Positioned(
+                  top: 5.0,
+                  right: 5.0,
+                  left: 5.0,
+                  child: Container(
+                    width: MediaQuery.of(context).size.width / 2,
+                    height: 40.0,
+                    padding: EdgeInsets.only(bottom: 10),
+                    child: Center(
+                      child: Text(enquiryTypeHead,
+                          style: TextStyle(
+                              fontSize: 20,
+                              fontWeight: FontWeight.bold,
+                              color: Colors.white)),
+                    ),
+                  ),
+                ),
                 Container(
                     margin: EdgeInsets.only(
-                        bottom: 45.0, top: 10.0, left: 5.0, right: 5.0),
+                        bottom: 45.0, top: 40.0, left: 5.0, right: 5.0),
                     color: Color(0xFF487890),
                     child:
                         //EnhancedStreamBuilder(
                         EnhancedFutureBuilder(
-                      future: _optionToFetchFromApi(),
+                      future: _optionToFetchFromApi(enquiryType: enquityTypeID),
                       //future: ChatsDummyData().chatsDummeData(),
                       //stream: _chatDao.getParentChatResponseStream(),
                       //stream: _data,
@@ -414,8 +428,9 @@ class _PortalChatPageState extends State<PortalChatPage> {
                               });
                             },
                             child: Container(
-                              width: 70.0,
+                              width: 60.0,
                               height: 40.0,
+                              padding: EdgeInsets.all(5),
                               decoration: BoxDecoration(
                                 color: Colors.amber,
                               ),
@@ -426,11 +441,43 @@ class _PortalChatPageState extends State<PortalChatPage> {
                               )),
                             ),
                           ),
-                          // SizedBox(
-                          //   height: 40.0,
-                          //   width: 1.0,
-                          // ),
-                          // PopupDropDown()
+                          SizedBox(
+                            height: 40.0,
+                            width: 1.0,
+                          ),
+                          EnhancedFutureBuilder(
+                              future: ApiController
+                                  .sendRequestForPortalEnquiryTypes(),
+                              rememberFutureResult: true,
+                              whenDone: (dynamic data) {
+                                if (data == null) {
+                                  List<PortalEnquiryTypes> responseList =
+                                      new List();
+                                  PortalEnquiryTypes response =
+                                      new PortalEnquiryTypes(
+                                          "0", "General Enquiry");
+                                  responseList.add(response);
+                                  data = responseList;
+                                } else {
+                                  if (data.length <= 0) {
+                                    List<PortalEnquiryTypes> responseList =
+                                        new List();
+                                    PortalEnquiryTypes response =
+                                        new PortalEnquiryTypes(
+                                            "0", "General Enquiry");
+                                    responseList.add(response);
+                                    data = responseList;
+                                  }
+                                }
+                                return PopupDropDown(data, this);
+                              },
+                              whenNotDone: Container(
+                                  height: 40,
+                                  width: 40,
+                                  color: Colors.amber,
+                                  child: Center(
+                                      child: Image.asset(
+                                          'assets/images/member_app_assets/Curve-Loading.gif')))),
                         ],
                       ),
                     ),
@@ -445,15 +492,20 @@ class _PortalChatPageState extends State<PortalChatPage> {
   }
 }
 
-String enquityTypeID;
+String enquityTypeID = "0";
+String enquiryTypeHead = '';
 
 class PopupDropDown extends StatefulWidget {
+  final List<PortalEnquiryTypes> enquiryTypes;
+  final _PortalChatPageState parent;
+  PopupDropDown(this.enquiryTypes, this.parent);
+
   @override
   _PopupDropDownState createState() => _PopupDropDownState();
 }
 
 class _PopupDropDownState extends State<PopupDropDown> {
-  bool _clicked = false;
+  bool _clicked = true;
 
   //This will not display _showPopupMenu at the location where you presed on the button
   //https://stackoverflow.com/questions/50758121/how-dynamically-create-and-show-a-popup-menu-in-flutter
@@ -476,33 +528,29 @@ class _PopupDropDownState extends State<PopupDropDown> {
 //   );
 // }
 
-  final List<String> popupRoutes = <String>[
-    'Select enquiry to',
-    'General Enquiry',
-    'Admissions',
-    'Academics',
-    'Finance',
-    'Transport',
-    'Sports',
-    'Library'
-  ];
+  // final List<String> popupRoutes = <String>[
+  //   'Select enquiry type',
+  //   'Counseling Service',
+  //   'Prayer Request Service',
+  //   'Fund Request Service'
+  // ];
 
   @override
   void initState() {
     super.initState();
 
-    enquityTypeID = _getPopupRoutesID(popupRoutes[1]);
+    //enquityTypeID = _getPopupRoutesID(popupRoutes[1]);
   }
 
-  String _getPopupRoutesID(String enquiryType) {
-    for (int item = 0; item < popupRoutes.length; item++) {
-      if (enquiryType == popupRoutes[item]) {
-        enquityTypeID = item.toString();
-      }
-    }
+  // String _getPopupRoutesID(String enquiryType) {
+  //   for (int item = 0; item < popupRoutes.length; item++) {
+  //     if (enquiryType == popupRoutes[item]) {
+  //       enquityTypeID = item.toString();
+  //     }
+  //   }
 
-    return enquityTypeID;
-  }
+  //   return enquityTypeID;
+  // }
 
 //For this use gesture detector
   _showPopupMenu(Offset offset) async {
@@ -512,41 +560,58 @@ class _PopupDropDownState extends State<PopupDropDown> {
 //https://github.com/flutter/flutter/issues/12931
     String selected = await showMenu<String>(
       context: context,
-      position: RelativeRect.fromLTRB(left, 400, 0, 0),
-      items: popupRoutes.map((String popupRoute) {
+      position: RelativeRect.fromLTRB(
+          left, MediaQuery.of(context).size.height - 280, 0, 0),
+      items: widget.enquiryTypes.map((PortalEnquiryTypes popupRoute) {
         return new PopupMenuItem<String>(
-          child: new Text(popupRoute),
-          value: popupRoute,
+          child: new Text(popupRoute.Name),
+          value: popupRoute.ID,
         );
       }).toList(),
       elevation: 5.0,
     );
 
-    if (selected != null && selected != "Select enquiry to") {
-      setState(() {
-        enquityTypeID = _getPopupRoutesID(selected);
-      });
-    } else {
-      enquityTypeID = _getPopupRoutesID(popupRoutes[1]);
-    }
+    // Fluttertoast.showToast(
+    //     msg: "Enquiry Type: " + selected.toString(),
+    //     toastLength: Toast.LENGTH_SHORT,
+    //     gravity: ToastGravity.BOTTOM,
+    //     // timeInSecForIos: 1,
+    //     backgroundColor: Colors.blue,
+    //     textColor: Colors.white,
+    //     fontSize: 16.0);
+
+    widget.parent.setState(() {
+      for (PortalEnquiryTypes map in widget.enquiryTypes) {
+        if (map.ID == selected) {
+          enquiryTypeHead = map.Name;
+          break;
+        }
+      }
+
+      enquityTypeID = selected;
+      _clicked = !_clicked;
+    });
+
+    // if (selected != null && selected != "Select enquiry to") {
+    //   setState(() {
+    //     enquityTypeID = _getPopupRoutesID(selected);
+    //   });
+    // } else {
+    //   enquityTypeID = _getPopupRoutesID(popupRoutes[1]);
+    // }
   }
 
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
       onTapDown: (TapDownDetails details) {
-        //if(!_clicked)
-        _showPopupMenu(details.globalPosition); //.then((int item) {
-        //   //  print(item);
-        //   // Fluttertoast.showToast(
-        //   //     msg: "Item Clicked: " + item.toString(),
-        //   //     toastLength: Toast.LENGTH_SHORT,
-        //   //     gravity: ToastGravity.CENTER,
-        //   //     timeInSecForIos: 1,
-        //   //     backgroundColor: Colors.red,
-        //   //     textColor: Colors.white,
-        //   //     fontSize: 16.0);
-        // });
+        if (_clicked)
+          //_showPopupMenu(details.globalPosition).then((int item) {
+          //   //  print(item);
+
+          // });
+
+          _showPopupMenu(details.globalPosition);
         this.setState(() {
           _clicked = !_clicked;
         });
@@ -557,7 +622,7 @@ class _PopupDropDownState extends State<PopupDropDown> {
         decoration: BoxDecoration(color: Colors.amber),
         child: Center(
             child: Icon(
-          _clicked ? Icons.arrow_drop_up : Icons.arrow_drop_down,
+          !_clicked ? Icons.arrow_drop_up : Icons.arrow_drop_down,
           size: 34.0,
           color: Colors.white,
         )),
@@ -779,7 +844,17 @@ Widget _tapToSendWidget(bool tapOrNot) {
 Widget _receivedFromIconWidget() {
   //return Icon(FontAwesomeIcons.facebookMessenger);
   return Image(
-    image: AssetImage('assets/images/member_app_assets/mzizi_church_logo.png'),
+    image: AssetImage(
+      FlavourConfig.isBwmc()
+          ? 'assets/images/member_app_assets/ic_bwmc_logo.png'
+          : FlavourConfig.isDcik()
+              ? 'assets/images/member_app_assets/ic_dcik_logo.png'
+              : FlavourConfig.isJcc()
+                  ? 'assets/images/member_app_assets/ic_jcc_logo.png'
+                  : FlavourConfig.isMzizicms()
+                      ? 'assets/images/member_app_assets/ic_mzizicms_logo.png'
+                      : 'assets/images/member_app_assets/ic_mzizicms_logo.png',
+    ),
     height: 40.0,
     width: 40.0,
   );

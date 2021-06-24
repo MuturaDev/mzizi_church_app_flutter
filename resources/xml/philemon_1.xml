@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Philemon" num="57">
+		<marker class="begin-verse" mid="v57001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Paul, 
+				<crossref let="a" cid="c57001001.1">
+				</crossref>
+				a prisoner for Christ Jesus, and 
+				<crossref let="b" cid="c57001001.2">
+				</crossref>
+				Timothy our brother,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				To Philemon our beloved fellow worker
+
+			</verse>
+			<marker class="begin-verse" mid="v57001002">
+			</marker>
+			<verse num="2">
+				and Apphia our sister and 
+				<crossref let="c" cid="c57001002.1">
+				</crossref>
+				Archippus our 
+				<crossref let="d" cid="c57001002.2">
+				</crossref>
+				fellow soldier, and 
+				<crossref let="e" cid="c57001002.3">
+				</crossref>
+				the church in your house:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v57001003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="f" cid="c57001003.1">
+				</crossref>
+				Grace to you and peace from God our Father and the Lord Jesus Christ.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v57001004">
+			</marker>
+			<heading
+				>
+				Philemon's Love and Faith
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				<crossref let="g" cid="c57001004.1">
+				</crossref>
+				I thank my God always when I remember you in my prayers,
+			</verse>
+			<marker class="begin-verse" mid="v57001005">
+			</marker>
+			<verse num="5">
+				because I 
+				<crossref let="h" cid="c57001005.1">
+				</crossref>
+				hear of your love and 
+				<crossref let="i" cid="c57001005.2">
+				</crossref>
+				of the faith that you have toward the Lord Jesus and for all the saints,
+			</verse>
+			<marker class="begin-verse" mid="v57001006">
+			</marker>
+			<verse num="6">
+				and I pray that the sharing of your faith may become effective for the full 
+				<crossref let="j" cid="c57001006.1">
+				</crossref>
+				knowledge of every good thing that is in us for the sake of Christ.
+				<note nid="n57001006.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v57001007">
+			</marker>
+			<verse num="7">
+				For I have derived much joy and 
+				<crossref let="k" cid="c57001007.1">
+				</crossref>
+				comfort from your love, my brother, because the hearts of the saints 
+				<crossref let="l" cid="c57001007.2">
+				</crossref>
+				have been refreshed through you.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v57001008">
+			</marker>
+			<heading
+				>
+				Paul's Plea for Onesimus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Accordingly, 
+				<crossref let="m" cid="c57001008.1">
+				</crossref>
+				though I am bold enough in Christ to command you to do 
+				<crossref let="n" cid="c57001008.2">
+				</crossref>
+				what is required,
+			</verse>
+			<marker class="begin-verse" mid="v57001009">
+			</marker>
+			<verse num="9">
+				yet for love's sake I prefer to appeal to youùI, Paul, an old man and now 
+				<crossref let="o" cid="c57001009.1">
+				</crossref>
+				a prisoner also for Christ Jesusù
+			</verse>
+			<marker class="begin-verse" mid="v57001010">
+			</marker>
+			<verse num="10">
+				I appeal to you for 
+				<crossref let="p" cid="c57001010.1">
+				</crossref>
+				my child, 
+				<crossref let="q" cid="c57001010.2">
+				</crossref>
+				Onesimus,
+				<note nid="n57001010.1">
+				</note>
+				<crossref let="r" cid="c57001010.3">
+				</crossref>
+				whose father I became in my imprisonment.
+			</verse>
+			<marker class="begin-verse" mid="v57001011">
+			</marker>
+			<verse num="11">
+				(Formerly he was useless to you, but now he is indeed useful to you and to me.)
+			</verse>
+			<marker class="begin-verse" mid="v57001012">
+			</marker>
+			<verse num="12">
+				I am sending him back to you, sending my very heart.
+			</verse>
+			<marker class="begin-verse" mid="v57001013">
+			</marker>
+			<verse num="13">
+				I would have been glad to keep him with me, in order that he might serve me 
+				<crossref let="s" cid="c57001013.1">
+				</crossref>
+				on your behalf 
+				<crossref let="t" cid="c57001013.2">
+				</crossref>
+				during my imprisonment for the gospel,
+			</verse>
+			<marker class="begin-verse" mid="v57001014">
+			</marker>
+			<verse num="14">
+				but I preferred to do nothing without your consent in order that your goodness might not be 
+				<crossref let="u" cid="c57001014.1">
+				</crossref>
+				by compulsion but of your own accord.
+			</verse>
+			<marker class="begin-verse" mid="v57001015">
+			</marker>
+			<verse num="15">
+				For this perhaps is why 
+				<crossref let="v" cid="c57001015.1">
+				</crossref>
+				he was parted from you for a while, that you might have him back forever,
+			</verse>
+			<marker class="begin-verse" mid="v57001016">
+			</marker>
+			<verse num="16">
+				<crossref let="w" cid="c57001016.1">
+				</crossref>
+				no longer as a slave
+				<note nid="n57001016.1">
+				</note>
+				 but more than a slave, as 
+				<crossref let="x" cid="c57001016.2">
+				</crossref>
+				a beloved brotherùespecially to me, but how much more to you, 
+				<crossref let="y" cid="c57001016.3">
+				</crossref>
+				both in the flesh and in the Lord.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v57001017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				So if you consider me 
+				<crossref let="z" cid="c57001017.1">
+				</crossref>
+				your partner, receive him as you would receive me.
+			</verse>
+			<marker class="begin-verse" mid="v57001018">
+			</marker>
+			<verse num="18">
+				If he has wronged you at all, or owes you anything, charge that to my account.
+			</verse>
+			<marker class="begin-verse" mid="v57001019">
+			</marker>
+			<verse num="19">
+				<crossref let="a" cid="c57001019.1">
+				</crossref>
+				I, Paul, write this with my own hand: I will repay itùto say nothing of your owing me even your own self.
+			</verse>
+			<marker class="begin-verse" mid="v57001020">
+			</marker>
+			<verse num="20">
+				Yes, brother, I want some benefit from you in the Lord. 
+				<crossref let="b" cid="c57001020.1">
+				</crossref>
+				Refresh my heart in Christ.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v57001021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<crossref let="c" cid="c57001021.1">
+				</crossref>
+				Confident of your obedience, I write to you, knowing that you will do even more than I say.
+			</verse>
+			<marker class="begin-verse" mid="v57001022">
+			</marker>
+			<verse num="22">
+				At the same time, prepare a guest room for me, for 
+				<crossref let="d" cid="c57001022.1">
+				</crossref>
+				I am hoping that 
+				<crossref let="e" cid="c57001022.2">
+				</crossref>
+				through your prayers 
+				<crossref let="f" cid="c57001022.3">
+				</crossref>
+				I will be graciously given to you.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v57001023">
+			</marker>
+			<heading
+				>
+				Final Greetings
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				<crossref let="g" cid="c57001023.1">
+				</crossref>
+				Epaphras, my 
+				<crossref let="h" cid="c57001023.2">
+				</crossref>
+				fellow prisoner in Christ Jesus, sends greetings to you,
+			</verse>
+			<marker class="begin-verse" mid="v57001024">
+			</marker>
+			<verse num="24">
+				and so do 
+				<crossref let="i" cid="c57001024.1">
+				</crossref>
+				Mark, 
+				<crossref let="i" cid="c57001024.2">
+				</crossref>
+				Aristarchus, 
+				<crossref let="j" cid="c57001024.3">
+				</crossref>
+				Demas, and 
+				<crossref let="j" cid="c57001024.4">
+				</crossref>
+				Luke, my fellow workers.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v57001025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				<crossref let="k" cid="c57001025.1">
+				</crossref>
+				The grace of the Lord Jesus Christ be with your spirit.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

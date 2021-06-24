@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09008001">
+		</marker>
+		<chapter num="8">
+			<heading
+				>
+				Israel Demands a King
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				When Samuel became old, 
+				<crossref let="r" cid="c09008001.1">
+				</crossref>
+				he made his sons judges over Israel.
+			</verse>
+			<marker class="begin-verse" mid="v09008002">
+			</marker>
+			<verse num="2">
+				The name of his firstborn son was Joel, and the name of his second, Abijah; they were judges in Beersheba.
+			</verse>
+			<marker class="begin-verse" mid="v09008003">
+			</marker>
+			<verse num="3">
+				Yet his sons did not walk in his ways 
+				<crossref let="s" cid="c09008003.1">
+				</crossref>
+				but turned aside after gain. 
+				<crossref let="t" cid="c09008003.2">
+				</crossref>
+				They took bribes and perverted justice.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09008004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				Then all the elders of Israel gathered together and came to Samuel at 
+				<crossref let="p" cid="c09008004.1">
+				</crossref>
+				Ramah
+			</verse>
+			<marker class="begin-verse" mid="v09008005">
+			</marker>
+			<verse num="5">
+				and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, you are old and your sons do not walk in your ways. 
+				<crossref let="u" cid="c09008005.1">
+				</crossref>
+				Now appoint for us a king to judge us like all the nations.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09008006">
+			</marker>
+			<verse num="6">
+				But the thing displeased Samuel when they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give us a king to judge us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Samuel prayed to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v09008007">
+			</marker>
+			<verse num="7">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Samuel, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Obey the voice of the people in all that they say to you, 
+				<crossref let="v" cid="c09008007.1">
+				</crossref>
+				for they have not rejected you, 
+				<crossref let="w" cid="c09008007.2">
+				</crossref>
+				but they have rejected me from being king over them.
+			</verse>
+			<marker class="begin-verse" mid="v09008008">
+			</marker>
+			<verse num="8">
+				According to all the deeds that they have done, from the day I brought them up out of Egypt even to this day, forsaking me and serving other gods, so they are also doing to you.
+			</verse>
+			<marker class="begin-verse" mid="v09008009">
+			</marker>
+			<verse num="9">
+				Now then, obey their voice; only you shall solemnly warn them 
+				<crossref let="x" cid="c09008009.1">
+				</crossref>
+				and show them the ways of the king who shall reign over them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09008010">
+			</marker>
+			<heading
+				>
+				Samuel's Warning Against Kings
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				So Samuel told all the words of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 to the people who were asking for a king from him.
+			</verse>
+			<marker class="begin-verse" mid="v09008011">
+			</marker>
+			<verse num="11">
+				He said, 
+				<crossref let="y" cid="c09008011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				These will be the ways of the king who will reign over you: 
+				<crossref let="z" cid="c09008011.2">
+				</crossref>
+				he will take your sons and appoint them to his chariots and to be his horsemen and to run before his chariots.
+			</verse>
+			<marker class="begin-verse" mid="v09008012">
+			</marker>
+			<verse num="12">
+				And he will appoint for himself commanders of thousands and commanders of fifties, and some 
+				<crossref let="a" cid="c09008012.1">
+				</crossref>
+				to plow his ground and to reap his harvest, and to make his implements of war and the equipment of his chariots.
+			</verse>
+			<marker class="begin-verse" mid="v09008013">
+			</marker>
+			<verse num="13">
+				He will take your daughters to be perfumers and cooks and bakers.
+			</verse>
+			<marker class="begin-verse" mid="v09008014">
+			</marker>
+			<verse num="14">
+				<crossref let="b" cid="c09008014.1">
+				</crossref>
+				He will take the best of your fields and vineyards and olive orchards and give them to his servants.
+			</verse>
+			<marker class="begin-verse" mid="v09008015">
+			</marker>
+			<verse num="15">
+				He will take the tenth of your grain and of your vineyards and give it to his officers and to his servants.
+			</verse>
+			<marker class="begin-verse" mid="v09008016">
+			</marker>
+			<verse num="16">
+				He will take your male servants and female servants and the best of your young men
+				<note nid="n09008016.1">
+				</note>
+				 and your donkeys, and put them to his work.
+			</verse>
+			<marker class="begin-verse" mid="v09008017">
+			</marker>
+			<verse num="17">
+				He will take the tenth of your flocks, and you shall be his slaves.
+			</verse>
+			<marker class="begin-verse" mid="v09008018">
+			</marker>
+			<verse num="18">
+				And in that day you will cry out because of your king, whom you have chosen for yourselves, 
+				<crossref let="c" cid="c09008018.1">
+				</crossref>
+				but the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will not answer you in that day.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09008019">
+			</marker>
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Grants Israel's Request
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				But the people refused to obey the voice of Samuel. And they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No! But there shall be a king over us,
+			</verse>
+			<marker class="begin-verse" mid="v09008020">
+			</marker>
+			<verse num="20">
+				<crossref let="d" cid="c09008020.1">
+				</crossref>
+				that we also may be like all the nations, and that our king may judge us and go out before us and fight our battles.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09008021">
+			</marker>
+			<verse num="21">
+				And when Samuel had heard all the words of the people, he repeated them in the ears of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v09008022">
+			</marker>
+			<verse num="22">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Samuel, 
+				<crossref let="e" cid="c09008022.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Obey their voice and make them a king.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Samuel then said to the men of Israel, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go every man to his city.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

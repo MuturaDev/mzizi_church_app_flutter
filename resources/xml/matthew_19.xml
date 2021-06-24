@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40019001">
+		</marker>
+		<chapter num="19">
+			<heading
+				>
+				Teaching About Divorce
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now when Jesus had finished these sayings, he went away from 
+				<crossref let="n" cid="c40019001.1">
+				</crossref>
+				Galilee and 
+				<crossref let="o" cid="c40019001.2">
+				</crossref>
+				<crossref cid="t40019001.1">
+				</crossref>
+				entered 
+				<crossref let="p" cid="c40019001.3">
+				</crossref>
+				the region of Judea beyond the Jordan.
+			</verse>
+			<marker class="begin-verse" mid="v40019002">
+			</marker>
+			<verse num="2">
+				And 
+				<crossref let="q" cid="c40019002.1">
+				</crossref>
+				large crowds followed him, and he healed them there.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40019003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				And Pharisees came up to him and 
+				<crossref let="r" cid="c40019003.1">
+				</crossref>
+				tested him by asking, 
+				<crossref let="s" cid="c40019003.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is it lawful to divorce one's wife for any cause?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40019004">
+			</marker>
+			<verse num="4">
+				He answered, 
+				<woc
+					>
+					<crossref let="t" cid="c40019004.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Have you not read that he who created them from the beginning made them male and female,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019005">
+			</marker>
+			<verse num="5" class="woc">
+				<woc
+					>
+					and said, 
+					<crossref let="u" cid="c40019005.1">
+					</crossref>
+					<crossref cid="t40019005.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Therefore a man shall leave his father and his mother and hold fast to his wife, and 
+					<crossref let="v" cid="c40019005.2">
+					</crossref>
+					the two shall become one flesh
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019006">
+			</marker>
+			<verse num="6" class="woc">
+				<woc
+					>
+					So they are no longer two but one flesh. 
+					<crossref let="w" cid="c40019006.1">
+					</crossref>
+					What therefore God has joined together, let not man separate.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019007">
+			</marker>
+			<verse num="7">
+				They said to him, 
+				<crossref let="x" cid="c40019007.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why then did Moses command one to give a certificate of divorce and to send her away?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40019008">
+			</marker>
+			<verse num="8">
+				He said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Because of your 
+					<crossref let="y" cid="c40019008.1">
+					</crossref>
+					hardness of heart Moses allowed you to divorce your wives, but from the beginning it was not so.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019009">
+			</marker>
+			<verse num="9" class="woc">
+				<woc
+					>
+					<crossref let="z" cid="c40019009.1">
+					</crossref>
+					And I say to you: whoever divorces his wife, except for sexual immorality, and marries another, commits adultery.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+					<note nid="n40019009.1">
+					</note>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40019010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				The disciples said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If such is the case of a man with his wife, it is better not to marry.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40019011">
+			</marker>
+			<verse num="11">
+				But he said to them, 
+				<woc
+					>
+					<crossref let="a" cid="c40019011.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Not everyone can receive this saying, but only 
+					<crossref let="b" cid="c40019011.2">
+					</crossref>
+					those to 
+					<crossref let="c" cid="c40019011.3">
+					</crossref>
+					whom it is given.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc
+					>
+					For there are eunuchs who have been so from birth, and there are eunuchs who have been made eunuchs by men, and there are eunuchs who have made themselves eunuchs 
+					<crossref let="d" cid="c40019012.1">
+					</crossref>
+					for the sake of the kingdom of heaven. Let the one who is able to receive this receive it.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40019013">
+			</marker>
+			<heading
+				>
+				Let the Children Come to Me
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				<crossref let="e" cid="c40019013.1">
+				</crossref>
+				<crossref cid="t40019013.1">
+				</crossref>
+				Then children were brought to him that he might lay his hands on them and pray. The disciples 
+				<crossref let="f" cid="c40019013.2">
+				</crossref>
+				rebuked the people,
+			</verse>
+			<marker class="begin-verse" mid="v40019014">
+			</marker>
+			<verse num="14">
+				but Jesus said, 
+				<woc
+					>
+					<crossref let="g" cid="c40019014.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Let the little children 
+					<crossref let="h" cid="c40019014.2">
+					</crossref>
+					come to me and do not hinder them, for to such belongs the kingdom of heaven.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019015">
+			</marker>
+			<verse num="15">
+				And he laid his hands on them and went away.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40019016">
+			</marker>
+			<heading
+				>
+				The Rich Young Man
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				<crossref let="i" cid="c40019016.1">
+				</crossref>
+				<crossref cid="t40019016.1">
+				</crossref>
+				And behold, a man came up to him, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Teacher, what good deed must I do to 
+				<crossref let="j" cid="c40019016.2">
+				</crossref>
+				have 
+				<crossref let="k" cid="c40019016.3">
+				</crossref>
+				eternal life?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40019017">
+			</marker>
+			<verse num="17">
+				And he said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Why do you ask me about what is good? There is only one who is good. 
+					<crossref let="l" cid="c40019017.1">
+					</crossref>
+					If you would enter life, keep the commandments.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019018">
+			</marker>
+			<verse num="18">
+				He said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Which ones?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Jesus said, 
+				<woc
+					>
+					<crossref let="m" cid="c40019018.1">
+					</crossref>
+					<crossref cid="t40019018.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You shall not murder, You shall not commit adultery, You shall not steal, You shall not bear false witness,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					Honor your father and mother, and, 
+					<crossref let="n" cid="c40019019.1">
+					</crossref>
+					<crossref cid="t40019019.1">
+					</crossref>
+					You shall love your neighbor as yourself.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019020">
+			</marker>
+			<verse num="20">
+				The young man said to him, 
+				<crossref let="o" cid="c40019020.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				All these I have kept. What do I still lack?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40019021">
+			</marker>
+			<verse num="21">
+				Jesus said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If you would be 
+					<crossref let="p" cid="c40019021.1">
+					</crossref>
+					perfect, go, 
+					<crossref let="q" cid="c40019021.2">
+					</crossref>
+					sell what you possess and give to the poor, and you will have 
+					<crossref let="r" cid="c40019021.3">
+					</crossref>
+					treasure in heaven; and come, follow me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019022">
+			</marker>
+			<verse num="22">
+				<crossref let="s" cid="c40019022.1">
+				</crossref>
+				When the young man heard this he went away sorrowful, for he had great possessions.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40019023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				And Jesus said to his disciples, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Truly, I say to you, 
+					<crossref let="t" cid="c40019023.1">
+					</crossref>
+					only with difficulty will a rich person enter the kingdom of heaven.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					<crossref let="u" cid="c40019024.1">
+					</crossref>
+					Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter 
+					<crossref let="v" cid="c40019024.2">
+					</crossref>
+					the kingdom of God.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019025">
+			</marker>
+			<verse num="25">
+				When the disciples heard this, they were greatly astonished, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who then can be saved?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40019026">
+			</marker>
+			<verse num="26">
+				But Jesus 
+				<crossref let="w" cid="c40019026.1">
+				</crossref>
+				looked at them and said, 
+				<woc
+					>
+					<crossref let="x" cid="c40019026.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					With man this is impossible, but with God all things are possible.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019027">
+			</marker>
+			<verse num="27">
+				Then Peter said in reply, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See, 
+				<crossref let="y" cid="c40019027.1">
+				</crossref>
+				we have left everything and followed you. What then will we have?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40019028">
+			</marker>
+			<verse num="28">
+				Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Truly, I say to you, in the new world,
+					<note nid="n40019028.1">
+					</note>
+					<crossref let="z" cid="c40019028.1">
+					</crossref>
+					when the Son of Man will sit on his glorious throne, you who have followed me 
+					<crossref let="a" cid="c40019028.2">
+					</crossref>
+					will also sit on twelve thrones, 
+					<crossref let="b" cid="c40019028.3">
+					</crossref>
+					judging the twelve tribes of Israel.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019029">
+			</marker>
+			<verse num="29" class="woc">
+				<woc
+					>
+					<crossref let="c" cid="c40019029.1">
+					</crossref>
+					And everyone who has left houses or brothers or sisters or father or mother or children or lands, for my name's sake, will receive a hundredfold
+					<note nid="n40019029.1">
+					</note>
+					 and will 
+					<crossref let="d" cid="c40019029.2">
+					</crossref>
+					inherit eternal life.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40019030">
+			</marker>
+			<verse num="30" class="woc">
+				<woc
+					>
+					But 
+					<crossref let="e" cid="c40019030.1">
+					</crossref>
+					many who are 
+					<crossref let="f" cid="c40019030.2">
+					</crossref>
+					first will be last, and the last first.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

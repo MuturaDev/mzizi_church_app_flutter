@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40024001">
+		</marker>
+		<chapter num="24">
+			<heading
+				>
+				Jesus Foretells Destruction of the Temple
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="t" cid="c40024001.1">
+				</crossref>
+				<crossref cid="t40024001.1">
+				</crossref>
+				Jesus left the temple and was going away, when his disciples came to point out to him the buildings of the temple.
+			</verse>
+			<marker class="begin-verse" mid="v40024002">
+			</marker>
+			<verse num="2">
+				But he answered them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You see all these, do you not? Truly, I say to you, 
+					<crossref let="u" cid="c40024002.1">
+					</crossref>
+					there will not be left here one stone upon another that will not be thrown down.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40024003">
+			</marker>
+			<heading
+				>
+				Signs of the Close of the Age
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				As he sat on 
+				<crossref let="v" cid="c40024003.1">
+				</crossref>
+				the Mount of Olives, the disciples came to him 
+				<crossref let="w" cid="c40024003.2">
+				</crossref>
+				privately, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tell us, 
+				<crossref let="x" cid="c40024003.3">
+				</crossref>
+				when will these things be, and what will be the sign of your 
+				<crossref let="y" cid="c40024003.4">
+				</crossref>
+				coming and of 
+				<crossref let="z" cid="c40024003.5">
+				</crossref>
+				the close of the age?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40024004">
+			</marker>
+			<verse num="4">
+				And Jesus answered them, 
+				<woc
+					>
+					<crossref let="a" cid="c40024004.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					See that no one leads you astray.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024005">
+			</marker>
+			<verse num="5" class="woc">
+				<woc
+					>
+					For 
+					<crossref let="b" cid="c40024005.1">
+					</crossref>
+					many will come in my name, saying, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					I am 
+					<crossref let="c" cid="c40024005.2">
+					</crossref>
+					the Christ,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 and they will lead many astray.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024006">
+			</marker>
+			<verse num="6" class="woc">
+				<woc
+					>
+					And you will hear of wars and rumors of wars. See that you 
+					<crossref let="d" cid="c40024006.1">
+					</crossref>
+					are not alarmed, for this 
+					<crossref let="e" cid="c40024006.2">
+					</crossref>
+					must take place, but the end is not yet.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024007">
+			</marker>
+			<verse num="7" class="woc">
+				<woc
+					>
+					For 
+					<crossref let="f" cid="c40024007.1">
+					</crossref>
+					nation will rise against nation, and 
+					<crossref let="g" cid="c40024007.2">
+					</crossref>
+					kingdom against kingdom, and there will be 
+					<crossref let="h" cid="c40024007.3">
+					</crossref>
+					famines and earthquakes in various places.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024008">
+			</marker>
+			<verse num="8" class="woc">
+				<woc
+					>
+					All these are but the beginning of 
+					<crossref let="i" cid="c40024008.1">
+					</crossref>
+					the birth pains.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40024009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Then 
+					<crossref let="j" cid="c40024009.1">
+					</crossref>
+					they will deliver you up 
+					<crossref let="k" cid="c40024009.2">
+					</crossref>
+					to tribulation and 
+					<crossref let="l" cid="c40024009.3">
+					</crossref>
+					put you to death, and 
+					<crossref let="m" cid="c40024009.4">
+					</crossref>
+					you will be hated by all nations for my name's sake.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					And then many will fall away
+					<note nid="n40024010.1">
+					</note>
+					 and 
+					<crossref let="n" cid="c40024010.1">
+					</crossref>
+					betray one another and hate one another.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024011">
+			</marker>
+			<verse num="11" class="woc">
+				<woc
+					>
+					And many 
+					<crossref let="o" cid="c40024011.1">
+					</crossref>
+					false prophets will arise 
+					<crossref let="p" cid="c40024011.2">
+					</crossref>
+					and lead many astray.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc
+					>
+					And because lawlessness will be increased, 
+					<crossref let="q" cid="c40024012.1">
+					</crossref>
+					the love of many will grow cold.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024013">
+			</marker>
+			<verse num="13" class="woc">
+				<woc
+					>
+					<crossref let="r" cid="c40024013.1">
+					</crossref>
+					But the one who endures to the end will be saved.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024014">
+			</marker>
+			<verse num="14" class="woc">
+				<woc
+					>
+					And this gospel of the kingdom 
+					<crossref let="s" cid="c40024014.1">
+					</crossref>
+					will be proclaimed throughout the whole world 
+					<crossref let="t" cid="c40024014.2">
+					</crossref>
+					as a testimony 
+					<crossref let="u" cid="c40024014.3">
+					</crossref>
+					to all nations, and 
+					<crossref let="v" cid="c40024014.4">
+					</crossref>
+					then the end will come.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40024015">
+			</marker>
+			<heading
+				>
+				The Abomination of Desolation
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					So when you see the abomination of desolation 
+					<crossref let="w" cid="c40024015.1">
+					</crossref>
+					spoken of by the prophet Daniel, standing in 
+					<crossref let="x" cid="c40024015.2">
+					</crossref>
+					the holy place (
+					<crossref let="y" cid="c40024015.3">
+					</crossref>
+					let the reader understand),
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc
+					>
+					then let those who are in Judea flee to the mountains.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024017">
+			</marker>
+			<verse num="17" class="woc">
+				<woc
+					>
+					<crossref let="z" cid="c40024017.1">
+					</crossref>
+					Let the one who is on 
+					<crossref let="a" cid="c40024017.2">
+					</crossref>
+					the housetop not go down to take what is in his house,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					and let the one who is in the field not turn back to take his cloak.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="b" cid="c40024019.1">
+					</crossref>
+					alas for women who are pregnant and for those who are nursing infants in those days!
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024020">
+			</marker>
+			<verse num="20" class="woc">
+				<woc
+					>
+					Pray that your flight may not be in winter or on a Sabbath.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024021">
+			</marker>
+			<verse num="21" class="woc">
+				<woc
+					>
+					For then there will be 
+					<crossref let="c" cid="c40024021.1">
+					</crossref>
+					great tribulation, 
+					<crossref let="d" cid="c40024021.2">
+					</crossref>
+					such as has not been from the beginning of the world until now, no, and never will be.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024022">
+			</marker>
+			<verse num="22" class="woc">
+				<woc
+					>
+					And if those days had not been cut short, no human being would be saved. But for 
+					<crossref let="e" cid="c40024022.1">
+					</crossref>
+					the sake of the elect those days will be cut short.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024023">
+			</marker>
+			<verse num="23" class="woc">
+				<woc
+					>
+					<crossref let="f" cid="c40024023.1">
+					</crossref>
+					Then if anyone says to you, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Look, here is the Christ!
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 or 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					There he is!
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 do not believe it.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					For 
+					<crossref let="g" cid="c40024024.1">
+					</crossref>
+					false christs and 
+					<crossref let="h" cid="c40024024.2">
+					</crossref>
+					false prophets will arise and 
+					<crossref let="i" cid="c40024024.3">
+					</crossref>
+					perform great signs and wonders, 
+					<crossref let="h" cid="c40024024.4">
+					</crossref>
+					so as to lead astray, if possible, even the elect.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024025">
+			</marker>
+			<verse num="25" class="woc">
+				<woc
+					>
+					See, 
+					<crossref let="j" cid="c40024025.1">
+					</crossref>
+					I have told you beforehand.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					So, if they say to you, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Look, 
+					<crossref let="k" cid="c40024026.1">
+					</crossref>
+					he is in the wilderness,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 do not go out. If they say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Look, he is in the inner rooms,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 do not believe it.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024027">
+			</marker>
+			<verse num="27" class="woc">
+				<woc
+					>
+					<crossref let="l" cid="c40024027.1">
+					</crossref>
+					For as the lightning comes from the east and shines as far as the west, so will be 
+					<crossref let="m" cid="c40024027.2">
+					</crossref>
+					the coming of the Son of Man.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024028">
+			</marker>
+			<verse num="28" class="woc">
+				<woc
+					>
+					<crossref let="n" cid="c40024028.1">
+					</crossref>
+					Wherever the corpse is, there the vultures will gather.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40024029">
+			</marker>
+			<heading
+				>
+				The Coming of the Son of Man
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Immediately after 
+					<crossref let="o" cid="c40024029.1">
+					</crossref>
+					the tribulation of those days 
+					<crossref let="p" cid="c40024029.2">
+					</crossref>
+					the sun will be darkened, and the moon will not give its light, and 
+					<crossref let="q" cid="c40024029.3">
+					</crossref>
+					the stars will fall from heaven, and the powers of the heavens will be shaken.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024030">
+			</marker>
+			<verse num="30" class="woc">
+				<woc
+					>
+					Then 
+					<crossref let="r" cid="c40024030.1">
+					</crossref>
+					will appear in heaven 
+					<crossref let="s" cid="c40024030.2">
+					</crossref>
+					the sign of the Son of Man, and then 
+					<crossref let="t" cid="c40024030.3">
+					</crossref>
+					all the tribes of the earth will mourn, and 
+					<crossref let="u" cid="c40024030.4">
+					</crossref>
+					they will see the Son of Man coming on the clouds of heaven 
+					<crossref let="v" cid="c40024030.5">
+					</crossref>
+					with power and great glory.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024031">
+			</marker>
+			<verse num="31" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="w" cid="c40024031.1">
+					</crossref>
+					he will send out his angels with a loud 
+					<crossref let="x" cid="c40024031.2">
+					</crossref>
+					trumpet call, and they will 
+					<crossref let="y" cid="c40024031.3">
+					</crossref>
+					gather 
+					<crossref let="z" cid="c40024031.4">
+					</crossref>
+					his elect from 
+					<crossref let="a" cid="c40024031.5">
+					</crossref>
+					the four winds, 
+					<crossref let="b" cid="c40024031.6">
+					</crossref>
+					from one end of heaven to the other.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40024032">
+			</marker>
+			<heading
+				>
+				The Lesson of the Fig Tree
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="32" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					From the fig tree learn its lesson: as soon as its branch becomes tender and puts out its leaves, you know that summer is near.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024033">
+			</marker>
+			<verse num="33" class="woc">
+				<woc
+					>
+					So also, when you see all these things, you know that he is near, 
+					<crossref let="c" cid="c40024033.1">
+					</crossref>
+					at the very gates.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024034">
+			</marker>
+			<verse num="34" class="woc">
+				<woc
+					>
+					<crossref let="d" cid="c40024034.1">
+					</crossref>
+					Truly, I say to you, this generation will not pass away until all these things take place.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024035">
+			</marker>
+			<verse num="35" class="woc">
+				<woc
+					>
+					<crossref let="e" cid="c40024035.1">
+					</crossref>
+					Heaven and earth will pass away, but 
+					<crossref let="f" cid="c40024035.2">
+					</crossref>
+					my words will not pass away.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40024036">
+			</marker>
+			<heading
+				>
+				No One Knows That Day and Hour
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="36" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					But concerning that day and hour 
+					<crossref let="g" cid="c40024036.1">
+					</crossref>
+					no one knows, not even the angels of heaven, 
+					<crossref let="h" cid="c40024036.2">
+					</crossref>
+					nor the Son,
+					<note nid="n40024036.1">
+					</note>
+					<crossref let="i" cid="c40024036.3">
+					</crossref>
+					but the Father only.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024037">
+			</marker>
+			<verse num="37" class="woc">
+				<woc
+					>
+					<crossref let="j" cid="c40024037.1">
+					</crossref>
+					For as were the days of Noah, 
+					<crossref let="k" cid="c40024037.2">
+					</crossref>
+					so will be the coming of the Son of Man.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024038">
+			</marker>
+			<verse num="38" class="woc">
+				<woc
+					>
+					<crossref let="j" cid="c40024038.1">
+					</crossref>
+					For as in those days before the flood they were eating and drinking, 
+					<crossref let="l" cid="c40024038.2">
+					</crossref>
+					marrying and giving in marriage, until 
+					<crossref let="m" cid="c40024038.3">
+					</crossref>
+					the day when Noah entered the ark,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024039">
+			</marker>
+			<verse num="39" class="woc">
+				<woc
+					>
+					and they were unaware until the flood came and swept them all away, 
+					<crossref let="k" cid="c40024039.1">
+					</crossref>
+					so will be the coming of the Son of Man.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024040">
+			</marker>
+			<verse num="40" class="woc">
+				<woc
+					>
+					Then two men will be in the field; one will be taken and one left.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024041">
+			</marker>
+			<verse num="41" class="woc">
+				<woc
+					>
+					<crossref let="n" cid="c40024041.1">
+					</crossref>
+					Two women will be grinding 
+					<crossref let="o" cid="c40024041.2">
+					</crossref>
+					at the mill; one will be taken and one left.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024042">
+			</marker>
+			<verse num="42" class="woc">
+				<woc
+					>
+					Therefore, 
+					<crossref let="p" cid="c40024042.1">
+					</crossref>
+					stay awake, for you do not know on what day 
+					<crossref let="q" cid="c40024042.2">
+					</crossref>
+					your Lord is coming.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024043">
+			</marker>
+			<verse num="43" class="woc">
+				<woc
+					>
+					<crossref let="r" cid="c40024043.1">
+					</crossref>
+					But know this, that if the master of the house had known in what part of the night 
+					<crossref let="s" cid="c40024043.2">
+					</crossref>
+					the thief was coming, he would have stayed awake and would not have let his house be broken into.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024044">
+			</marker>
+			<verse num="44" class="woc">
+				<woc
+					>
+					Therefore you also must be 
+					<crossref let="t" cid="c40024044.1">
+					</crossref>
+					ready, for 
+					<crossref let="u" cid="c40024044.2">
+					</crossref>
+					the Son of Man is coming at an hour you do not expect.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40024045">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="45" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Who then is 
+					<crossref let="v" cid="c40024045.1">
+					</crossref>
+					the faithful and 
+					<crossref let="w" cid="c40024045.2">
+					</crossref>
+					wise servant,
+					<note nid="n40024045.1">
+					</note>
+					 whom his master has set over his household, to give them their food at the proper time?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024046">
+			</marker>
+			<verse num="46" class="woc">
+				<woc
+					>
+					<crossref let="x" cid="c40024046.1">
+					</crossref>
+					Blessed is that servant whom his master will find so doing when he comes.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024047">
+			</marker>
+			<verse num="47" class="woc">
+				<woc
+					>
+					Truly, I say to you, 
+					<crossref let="y" cid="c40024047.1">
+					</crossref>
+					he will set him over all his possessions.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024048">
+			</marker>
+			<verse num="48" class="woc">
+				<woc
+					>
+					But if that wicked servant says to himself, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					My master 
+					<crossref let="z" cid="c40024048.1">
+					</crossref>
+					is delayed,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024049">
+			</marker>
+			<verse num="49" class="woc">
+				<woc
+					>
+					and begins to beat his fellow servants
+					<note nid="n40024049.1">
+					</note>
+					 and eats and drinks with 
+					<crossref let="a" cid="c40024049.1">
+					</crossref>
+					drunkards,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024050">
+			</marker>
+			<verse num="50" class="woc">
+				<woc
+					>
+					the master of that servant will come 
+					<crossref let="b" cid="c40024050.1">
+					</crossref>
+					on a day when he does not expect him and at an hour he does not know
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40024051">
+			</marker>
+			<verse num="51" class="woc">
+				<woc
+					>
+					and will cut him in pieces and put him with the hypocrites. In that place 
+					<crossref let="c" cid="c40024051.1">
+					</crossref>
+					there will be weeping and gnashing of teeth.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

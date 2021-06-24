@@ -10,10 +10,12 @@ class MziziAppVersionRequest{
 
   String VersionName;
   String VersionCode;
+  String AppFlavor;
 
   MziziAppVersionRequest(
     this.VersionName,
     this.VersionCode,
+    this.AppFlavor
   );
 
   factory MziziAppVersionRequest.fromJson(Map<String, dynamic> json) => _$MziziAppVersionRequestFromJson(json);

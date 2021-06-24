@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Timothy" num="54">
+		<marker class="begin-verse" mid="v54001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Paul, 
+				<crossref let="a" cid="c54001001.1">
+				</crossref>
+				an apostle of Christ Jesus 
+				<crossref let="b" cid="c54001001.2">
+				</crossref>
+				by command of 
+				<crossref let="c" cid="c54001001.3">
+				</crossref>
+				God our Savior and of Christ Jesus 
+				<crossref let="d" cid="c54001001.4">
+				</crossref>
+				our hope,
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v54001002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				To Timothy, 
+				<crossref let="e" cid="c54001002.1">
+				</crossref>
+				my true child in the faith:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				<crossref let="f" cid="c54001002.2">
+				</crossref>
+				Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v54001003">
+			</marker>
+			<heading
+				>
+				Warning Against False Teachers
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="g" cid="c54001003.1">
+				</crossref>
+				As I urged you when I was going to Macedonia, remain at Ephesus so that you may charge certain persons not 
+				<crossref let="h" cid="c54001003.2">
+				</crossref>
+				to teach any different doctrine,
+			</verse>
+			<marker class="begin-verse" mid="v54001004">
+			</marker>
+			<verse num="4">
+				nor 
+				<crossref let="i" cid="c54001004.1">
+				</crossref>
+				to devote themselves to myths and endless 
+				<crossref let="j" cid="c54001004.2">
+				</crossref>
+				genealogies, which promote 
+				<crossref let="k" cid="c54001004.3">
+				</crossref>
+				speculations rather than the stewardship
+				<note nid="n54001004.1">
+				</note>
+				 from God that is by faith.
+			</verse>
+			<marker class="begin-verse" mid="v54001005">
+			</marker>
+			<verse num="5">
+				The aim of our charge is love 
+				<crossref let="l" cid="c54001005.1">
+				</crossref>
+				that issues from a pure heart and 
+				<crossref let="m" cid="c54001005.2">
+				</crossref>
+				a good conscience and 
+				<crossref let="n" cid="c54001005.3">
+				</crossref>
+				a sincere faith.
+			</verse>
+			<marker class="begin-verse" mid="v54001006">
+			</marker>
+			<verse num="6">
+				Certain persons, by 
+				<crossref let="o" cid="c54001006.1">
+				</crossref>
+				swerving from these, have wandered away into 
+				<crossref let="p" cid="c54001006.2">
+				</crossref>
+				vain discussion,
+			</verse>
+			<marker class="begin-verse" mid="v54001007">
+			</marker>
+			<verse num="7">
+				desiring to be teachers of the law, 
+				<crossref let="q" cid="c54001007.1">
+				</crossref>
+				without understanding either what they are saying or the things about which they make confident assertions.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v54001008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Now we know that 
+				<crossref let="r" cid="c54001008.1">
+				</crossref>
+				the law is good, if one uses it lawfully,
+			</verse>
+			<marker class="begin-verse" mid="v54001009">
+			</marker>
+			<verse num="9">
+				understanding this, that the 
+				<crossref let="s" cid="c54001009.1">
+				</crossref>
+				law is not laid down for the just but for the lawless and disobedient, for the ungodly and sinners, for the unholy and profane, for those who strike their fathers and mothers, for murderers,
+			</verse>
+			<marker class="begin-verse" mid="v54001010">
+			</marker>
+			<verse num="10">
+				the sexually immoral, men who practice homosexuality, enslavers,
+				<note nid="n54001010.1">
+				</note>
+				 liars, perjurers, and whatever else is contrary to 
+				<crossref let="t" cid="c54001010.1">
+				</crossref>
+				sound
+				<note nid="n54001010.2">
+				</note>
+				 doctrine,
+			</verse>
+			<marker class="begin-verse" mid="v54001011">
+			</marker>
+			<verse num="11">
+				in accordance with 
+				<crossref let="u" cid="c54001011.1">
+				</crossref>
+				the gospel of the glory of 
+				<crossref let="v" cid="c54001011.2">
+				</crossref>
+				the blessed God 
+				<crossref let="w" cid="c54001011.3">
+				</crossref>
+				with which I have been entrusted.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v54001012">
+			</marker>
+			<heading
+				>
+				Christ Jesus Came to Save Sinners
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				I thank him 
+				<crossref let="x" cid="c54001012.1">
+				</crossref>
+				who has given me strength, Christ Jesus our Lord, because he judged me faithful, 
+				<crossref let="y" cid="c54001012.2">
+				</crossref>
+				appointing me to his service,
+			</verse>
+			<marker class="begin-verse" mid="v54001013">
+			</marker>
+			<verse num="13">
+				though formerly I was a blasphemer, 
+				<crossref let="z" cid="c54001013.1">
+				</crossref>
+				persecutor, and insolent opponent. But 
+				<crossref let="a" cid="c54001013.2">
+				</crossref>
+				I received mercy 
+				<crossref let="b" cid="c54001013.3">
+				</crossref>
+				because I had acted ignorantly in unbelief,
+			</verse>
+			<marker class="begin-verse" mid="v54001014">
+			</marker>
+			<verse num="14">
+				and 
+				<crossref let="c" cid="c54001014.1">
+				</crossref>
+				the grace of our Lord overflowed for me with the 
+				<crossref let="d" cid="c54001014.2">
+				</crossref>
+				faith and love that are in Christ Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v54001015">
+			</marker>
+			<verse num="15">
+				The saying is 
+				<crossref let="e" cid="c54001015.1">
+				</crossref>
+				trustworthy and deserving of full acceptance, that Christ Jesus 
+				<crossref let="f" cid="c54001015.2">
+				</crossref>
+				came into the world to save sinners, 
+				<crossref let="g" cid="c54001015.3">
+				</crossref>
+				of whom I am the foremost.
+			</verse>
+			<marker class="begin-verse" mid="v54001016">
+			</marker>
+			<verse num="16">
+				But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life.
+			</verse>
+			<marker class="begin-verse" mid="v54001017">
+			</marker>
+			<verse num="17">
+				To 
+				<crossref let="h" cid="c54001017.1">
+				</crossref>
+				the King of ages, 
+				<crossref let="i" cid="c54001017.2">
+				</crossref>
+				immortal, 
+				<crossref let="j" cid="c54001017.3">
+				</crossref>
+				invisible, 
+				<crossref let="k" cid="c54001017.4">
+				</crossref>
+				the only God, 
+				<crossref let="l" cid="c54001017.5">
+				</crossref>
+				be honor and glory forever and ever.
+				<note nid="n54001017.1">
+				</note>
+				 Amen.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v54001018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				This charge 
+				<crossref let="m" cid="c54001018.1">
+				</crossref>
+				I entrust to you, Timothy, my child, in accordance with 
+				<crossref let="n" cid="c54001018.2">
+				</crossref>
+				the prophecies previously made about you, that by them you may 
+				<crossref let="o" cid="c54001018.3">
+				</crossref>
+				wage the good warfare,
+			</verse>
+			<marker class="begin-verse" mid="v54001019">
+			</marker>
+			<verse num="19">
+				<crossref let="p" cid="c54001019.1">
+				</crossref>
+				holding faith and a good conscience. By rejecting this, some have 
+				<crossref let="q" cid="c54001019.2">
+				</crossref>
+				made shipwreck of their faith,
+			</verse>
+			<marker class="begin-verse" mid="v54001020">
+			</marker>
+			<verse num="20">
+				among whom are 
+				<crossref let="r" cid="c54001020.1">
+				</crossref>
+				Hymenaeus and 
+				<crossref let="s" cid="c54001020.2">
+				</crossref>
+				Alexander, whom I 
+				<crossref let="t" cid="c54001020.3">
+				</crossref>
+				have handed over to Satan that they may learn not to 
+				<crossref let="u" cid="c54001020.4">
+				</crossref>
+				blaspheme.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

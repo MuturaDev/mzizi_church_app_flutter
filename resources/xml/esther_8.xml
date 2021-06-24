@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Esther" num="16">
+		<marker class="begin-verse" mid="v17008001">
+		</marker>
+		<chapter num="8">
+			<heading
+				>
+				Esther Saves the Jews
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				On that day King Ahasuerus gave to Queen Esther the house of Haman, 
+				<crossref let="h" cid="c17008001.1">
+				</crossref>
+				the enemy of the Jews. And Mordecai came before the king, for Esther had told 
+				<crossref let="p" cid="c17008001.2">
+				</crossref>
+				what he was to her.
+			</verse>
+			<marker class="begin-verse" mid="v17008002">
+			</marker>
+			<verse num="2">
+				<crossref let="q" cid="c17008002.1">
+				</crossref>
+				And the king took off his signet ring, which he had taken from Haman, and gave it to Mordecai. And Esther set Mordecai over the house of Haman.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v17008003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				Then Esther spoke again to the king. She fell at his feet and wept and pleaded with him to avert the evil plan of Haman 
+				<crossref let="r" cid="c17008003.1">
+				</crossref>
+				the Agagite and the plot that he had devised against the Jews.
+			</verse>
+			<marker class="begin-verse" mid="v17008004">
+			</marker>
+			<verse num="4">
+				<crossref let="s" cid="c17008004.1">
+				</crossref>
+				When the king held out the golden scepter to Esther,
+			</verse>
+			<marker class="begin-verse" mid="v17008005">
+			</marker>
+			<verse num="5">
+				Esther rose and stood before the king. And she said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If it please the king, 
+				<crossref let="t" cid="c17008005.1">
+				</crossref>
+				and if I have found favor in his sight, and if the thing seems right before the king, and I am pleasing in his eyes, let an order be written to revoke 
+				<crossref let="u" cid="c17008005.2">
+				</crossref>
+				the letters devised by Haman 
+				<crossref let="r" cid="c17008005.3">
+				</crossref>
+				the Agagite, the son of Hammedatha, which he wrote to destroy the Jews who are in all the provinces of the king.
+			</verse>
+			<marker class="begin-verse" mid="v17008006">
+			</marker>
+			<verse num="6">
+				For how can I bear 
+				<crossref let="v" cid="c17008006.1">
+				</crossref>
+				to see the calamity that is coming to my people? Or how can I bear to see the destruction of my kindred?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17008007">
+			</marker>
+			<verse num="7">
+				Then King Ahasuerus said to Queen Esther and to Mordecai the Jew, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, 
+				<crossref let="w" cid="c17008007.1">
+				</crossref>
+				I have given Esther the house of Haman, and they have hanged him on the gallows,
+				<note nid="n17008007.1">
+				</note>
+				 because he intended to lay hands on the Jews.
+			</verse>
+			<marker class="begin-verse" mid="v17008008">
+			</marker>
+			<verse num="8">
+				But you may write as you please with regard to the Jews, in the name of the king, 
+				<crossref let="x" cid="c17008008.1">
+				</crossref>
+				and seal it with the king's ring, for an edict written in the name of the king and sealed with the king's ring 
+				<crossref let="y" cid="c17008008.2">
+				</crossref>
+				cannot be revoked.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v17008009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<crossref let="z" cid="c17008009.1">
+				</crossref>
+				The king's scribes were summoned at that time, in the third month, which is the month of Sivan, on the twenty-third day. And an edict was written, according to all that Mordecai commanded concerning the Jews, to 
+				<crossref let="a" cid="c17008009.2">
+				</crossref>
+				the satraps and the governors and the officials of the provinces 
+				<crossref let="b" cid="c17008009.3">
+				</crossref>
+				from India to Ethiopia, 
+				<crossref let="b" cid="c17008009.4">
+				</crossref>
+				127 provinces, 
+				<crossref let="c" cid="c17008009.5">
+				</crossref>
+				to each province in its own script and to each people in its own language, and also to the Jews in their script and their language.
+			</verse>
+			<marker class="begin-verse" mid="v17008010">
+			</marker>
+			<verse num="10">
+				<crossref let="d" cid="c17008010.1">
+				</crossref>
+				And he wrote in the name of King Ahasuerus 
+				<crossref let="e" cid="c17008010.2">
+				</crossref>
+				and sealed it with the king's signet ring. Then he sent the letters by mounted couriers riding on 
+				<crossref let="f" cid="c17008010.3">
+				</crossref>
+				swift horses that were used in the king's service, bred from the royal stud,
+			</verse>
+			<marker class="begin-verse" mid="v17008011">
+			</marker>
+			<verse num="11">
+				saying that the king allowed the Jews who were in every city 
+				<crossref let="g" cid="c17008011.1">
+				</crossref>
+				to gather and defend their lives, 
+				<crossref let="h" cid="c17008011.2">
+				</crossref>
+				to destroy, to kill, and to annihilate any armed force of any people or province that might attack them, children and women included, 
+				<crossref let="i" cid="c17008011.3">
+				</crossref>
+				and to plunder their goods,
+			</verse>
+			<marker class="begin-verse" mid="v17008012">
+			</marker>
+			<verse num="12">
+				<crossref let="j" cid="c17008012.1">
+				</crossref>
+				on one day throughout all the provinces of King Ahasuerus, on the thirteenth day of the twelfth month, which is the month of Adar.
+			</verse>
+			<marker class="begin-verse" mid="v17008013">
+			</marker>
+			<verse num="13">
+				<crossref let="k" cid="c17008013.1">
+				</crossref>
+				A copy of what was written was to be issued as a decree in every province, being publicly displayed to all peoples, and the Jews were to be ready on that day to take vengeance on their enemies.
+			</verse>
+			<marker class="begin-verse" mid="v17008014">
+			</marker>
+			<verse num="14">
+				So the couriers, mounted on their 
+				<crossref let="f" cid="c17008014.1">
+				</crossref>
+				swift horses that were used in the king's service, rode out hurriedly, urged by the king's command. And the decree was issued in Susa the citadel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v17008015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				Then Mordecai went out from the presence of the king 
+				<crossref let="l" cid="c17008015.1">
+				</crossref>
+				in royal robes of blue and white, with a great golden crown
+				<note nid="n17008015.1">
+				</note>
+				 and 
+				<crossref let="m" cid="c17008015.2">
+				</crossref>
+				a robe of fine linen and purple, 
+				<crossref let="n" cid="c17008015.3">
+				</crossref>
+				and the city of Susa shouted and rejoiced.
+			</verse>
+			<marker class="begin-verse" mid="v17008016">
+			</marker>
+			<verse num="16">
+				The Jews had 
+				<crossref let="o" cid="c17008016.1">
+				</crossref>
+				light and gladness and joy and honor.
+			</verse>
+			<marker class="begin-verse" mid="v17008017">
+			</marker>
+			<verse num="17">
+				And in every province and in every city, wherever the king's command and his edict reached, there was gladness and joy among the Jews, a feast and 
+				<crossref let="p" cid="c17008017.1">
+				</crossref>
+				a holiday. 
+				<crossref let="q" cid="c17008017.2">
+				</crossref>
+				And many from the peoples of the country declared themselves Jews, 
+				<crossref let="r" cid="c17008017.3">
+				</crossref>
+				for fear of the Jews had fallen on them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

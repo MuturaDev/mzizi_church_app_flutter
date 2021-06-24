@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19008001">
+		</marker>
+		<chapter num="8">
+			<heading
+				>
+				How Majestic Is Your Name
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: according to The 
+				<crossref let="p" cid="c19008001.1">
+				</crossref>
+				Gittith.
+				<note nid="n19008001.1">
+				</note>
+				 A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, our Lord,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				how majestic is your 
+				<crossref let="q" cid="c19008001.2">
+				</crossref>
+				name in all the earth!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				You have set your 
+				<crossref let="r" cid="c19008001.3">
+				</crossref>
+				glory above the heavens.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19008002">
+			</marker>
+			<verse num="2">
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c19008002.1">
+				</crossref>
+				Out of the mouth of babies and infants,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				you have established 
+				<crossref let="t" cid="c19008002.2">
+				</crossref>
+				strength because of your foes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to still 
+				<crossref let="u" cid="c19008002.3">
+				</crossref>
+				the enemy and the avenger.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19008003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				When I 
+				<crossref let="v" cid="c19008003.1">
+				</crossref>
+				look at your heavens, the work of your 
+				<crossref let="w" cid="c19008003.2">
+				</crossref>
+				fingers,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the moon and the stars, 
+				<crossref let="x" cid="c19008003.3">
+				</crossref>
+				which you have set in place,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19008004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c19008004.1">
+				</crossref>
+				what is man that you are 
+				<crossref let="z" cid="c19008004.2">
+				</crossref>
+				mindful of him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="a" cid="c19008004.3">
+				</crossref>
+				the son of man that you 
+				<crossref let="b" cid="c19008004.4">
+				</crossref>
+				care for him?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19008005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Yet you have made him a little lower than 
+				<crossref let="c" cid="c19008005.1">
+				</crossref>
+				the heavenly beings
+				<note nid="n19008005.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and crowned him with 
+				<crossref let="d" cid="c19008005.2">
+				</crossref>
+				glory and honor.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19008006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				You have given him 
+				<crossref let="e" cid="c19008006.1">
+				</crossref>
+				dominion over the works of your hands;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c19008006.2">
+				</crossref>
+				you have put all things under his feet,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19008007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				all sheep and oxen,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and also the beasts of the field,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19008008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				the birds of the heavens, and the fish of the sea,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				whatever passes along the paths of the seas.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19008009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, our Lord,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				how majestic is your name in all the earth!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

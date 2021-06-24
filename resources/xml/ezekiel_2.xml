@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ezekiel" num="25">
+		<marker class="begin-verse" mid="v26002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				Ezekiel's Call
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And he said to me, 
+				<crossref let="c" cid="c26002001.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Son of man,
+				<note nid="n26002001.1">
+				</note>
+				<crossref let="d" cid="c26002001.2">
+				</crossref>
+				stand on your feet, and I will speak with you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v26002002">
+			</marker>
+			<verse num="2">
+				And as he spoke to me, 
+				<crossref let="e" cid="c26002002.1">
+				</crossref>
+				the Spirit entered into me and 
+				<crossref let="f" cid="c26002002.2">
+				</crossref>
+				set me on my feet, and I heard him speaking to me.
+			</verse>
+			<marker class="begin-verse" mid="v26002003">
+			</marker>
+			<verse num="3">
+				And he said to me, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Son of man, I send you to the people of Israel, to 
+				<crossref let="g" cid="c26002003.1">
+				</crossref>
+				nations of rebels, who have rebelled against me. 
+				<crossref let="h" cid="c26002003.2">
+				</crossref>
+				They and their fathers have transgressed against me to this very day.
+			</verse>
+			<marker class="begin-verse" mid="v26002004">
+			</marker>
+			<verse num="4">
+				The descendants also are 
+				<crossref let="i" cid="c26002004.1">
+				</crossref>
+				impudent and stubborn: I send you to them, and you shall say to them, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v26002005">
+			</marker>
+			<verse num="5">
+				And 
+				<crossref let="j" cid="c26002005.1">
+				</crossref>
+				whether they hear or refuse to hear (for they are 
+				<crossref let="g" cid="c26002005.2">
+				</crossref>
+				a rebellious house) 
+				<crossref let="k" cid="c26002005.3">
+				</crossref>
+				they will know that a prophet has been among them.
+			</verse>
+			<marker class="begin-verse" mid="v26002006">
+			</marker>
+			<verse num="6">
+				And you, son of man, 
+				<crossref let="l" cid="c26002006.1">
+				</crossref>
+				be not afraid of them, nor be afraid of their words, 
+				<crossref let="m" cid="c26002006.2">
+				</crossref>
+				though briers and thorns are with you and you sit on 
+				<crossref let="n" cid="c26002006.3">
+				</crossref>
+				scorpions.
+				<note nid="n26002006.1">
+				</note>
+				 Be not afraid of their words, nor be dismayed at their looks, for they are a rebellious house.
+			</verse>
+			<marker class="begin-verse" mid="v26002007">
+			</marker>
+			<verse num="7">
+				And you shall speak my words to them, 
+				<crossref let="j" cid="c26002007.1">
+				</crossref>
+				whether they hear or refuse to hear, for they are a rebellious house.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26002008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				But you, son of man, hear what I say to you. 
+				<crossref let="o" cid="c26002008.1">
+				</crossref>
+				Be not rebellious like that rebellious house; open your mouth and 
+				<crossref let="p" cid="c26002008.2">
+				</crossref>
+				eat what I give you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v26002009">
+			</marker>
+			<verse num="9">
+				And when I looked, behold, 
+				<crossref let="q" cid="c26002009.1">
+				</crossref>
+				a hand was stretched out to me, and behold, 
+				<crossref let="r" cid="c26002009.2">
+				</crossref>
+				a scroll of a book was in it.
+			</verse>
+			<marker class="begin-verse" mid="v26002010">
+			</marker>
+			<verse num="10">
+				And he spread it before me. And it had writing 
+				<crossref let="s" cid="c26002010.1">
+				</crossref>
+				on the front and on the back, and there were written on it words of lamentation and mourning and woe.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

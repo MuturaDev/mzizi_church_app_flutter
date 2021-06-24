@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ezra" num="14">
+		<marker class="begin-verse" mid="v15004001">
+		</marker>
+		<chapter num="4">
+			<heading
+				>
+				Adversaries Oppose the Rebuilding
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now when 
+				<crossref let="g" cid="c15004001.1">
+				</crossref>
+				the adversaries of Judah and Benjamin heard that the returned exiles were building a temple to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel,
+			</verse>
+			<marker class="begin-verse" mid="v15004002">
+			</marker>
+			<verse num="2">
+				they approached Zerubbabel and the heads of fathers' houses and said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let us build with you, for we worship your God as you do, and we have been sacrificing to him ever 
+				<crossref let="h" cid="c15004002.1">
+				</crossref>
+				since the days of 
+				<crossref let="i" cid="c15004002.2">
+				</crossref>
+				Esarhaddon king of Assyria 
+				<crossref let="j" cid="c15004002.3">
+				</crossref>
+				who brought us here.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v15004003">
+			</marker>
+			<verse num="3">
+				But Zerubbabel, Jeshua, and the rest of the heads of fathers' houses in Israel said to them, 
+				<crossref let="k" cid="c15004003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You have nothing to do with us in building a house to our God; but we alone will build to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel, 
+				<crossref let="l" cid="c15004003.2">
+				</crossref>
+				as King Cyrus the king of Persia has commanded us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v15004004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				Then 
+				<crossref let="m" cid="c15004004.1">
+				</crossref>
+				the people of the land discouraged the people of Judah and made them afraid to build
+			</verse>
+			<marker class="begin-verse" mid="v15004005">
+			</marker>
+			<verse num="5">
+				and bribed counselors against them to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v15004006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				And in the reign of 
+				<crossref let="n" cid="c15004006.1">
+				</crossref>
+				Ahasuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v15004007">
+			</marker>
+			<heading
+				>
+				The Letter to King Artaxerxes
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				In the days of Artaxerxes, Bishlam and 
+				<crossref let="o" cid="c15004007.1">
+				</crossref>
+				Mithredath and Tabeel and the rest of their associates wrote to Artaxerxes king of Persia. The letter was written 
+				<crossref let="p" cid="c15004007.2">
+				</crossref>
+				in Aramaic and translated.
+				<note nid="n15004007.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v15004008">
+			</marker>
+			<verse num="8">
+				Rehum the commander and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king as follows:
+			</verse>
+			<marker class="begin-verse" mid="v15004009">
+			</marker>
+			<verse num="9">
+				Rehum the commander, Shimshai the scribe, and the rest of their associates, the 
+				<crossref let="q" cid="c15004009.1">
+				</crossref>
+				judges, the 
+				<crossref let="r" cid="c15004009.2">
+				</crossref>
+				governors, the officials, the Persians, the men of Erech, the Babylonians, the men of Susa, that is, the 
+				<crossref let="s" cid="c15004009.3">
+				</crossref>
+				Elamites,
+			</verse>
+			<marker class="begin-verse" mid="v15004010">
+			</marker>
+			<verse num="10">
+				and the rest of the nations whom the great and noble 
+				<crossref let="t" cid="c15004010.1">
+				</crossref>
+				Osnappar deported and settled in the cities of Samaria and in the rest of the province Beyond the River.
+			</verse>
+			<marker class="begin-verse" mid="v15004011">
+			</marker>
+			<verse num="11">
+				(This is a copy of the letter that they sent.) 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				To Artaxerxes the king: Your servants, the men of the province Beyond the River, send greeting. And now
+			</verse>
+			<marker class="begin-verse" mid="v15004012">
+			</marker>
+			<verse num="12">
+				be it known to the king that the Jews who came up from you to us have gone to Jerusalem. They are rebuilding that rebellious and wicked city. They are 
+				<crossref let="v" cid="c15004012.1">
+				</crossref>
+				finishing the walls and repairing the foundations.
+			</verse>
+			<marker class="begin-verse" mid="v15004013">
+			</marker>
+			<verse num="13">
+				Now be it known to the king that if this city is rebuilt and the walls finished, they will not pay 
+				<crossref let="w" cid="c15004013.1">
+				</crossref>
+				tribute, custom, or toll, and the royal revenue will be impaired.
+			</verse>
+			<marker class="begin-verse" mid="v15004014">
+			</marker>
+			<verse num="14">
+				Now because we eat the salt of the palace and it is not fitting for us to witness the king's dishonor, therefore we send and inform the king,
+			</verse>
+			<marker class="begin-verse" mid="v15004015">
+			</marker>
+			<verse num="15">
+				in order that search may be made in the book of the records of your fathers. You will find in the book of the records and learn that this city is a rebellious city, hurtful to kings and provinces, and that sedition was stirred up in it from of old. That was why this city was laid waste.
+			</verse>
+			<marker class="begin-verse" mid="v15004016">
+			</marker>
+			<verse num="16">
+				We make known to the king that if this city is rebuilt and its walls finished, you will then have no possession in the province Beyond the River.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v15004017">
+			</marker>
+			<heading
+				>
+				The King Orders the Work to Cease
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				The king sent an answer: 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				To Rehum the commander and Shimshai the scribe and the rest of their associates who live in Samaria and in the rest of the province Beyond the River, greeting. And now
+			</verse>
+			<marker class="begin-verse" mid="v15004018">
+			</marker>
+			<verse num="18">
+				the letter that you sent to us has been 
+				<crossref let="x" cid="c15004018.1">
+				</crossref>
+				plainly read before me.
+			</verse>
+			<marker class="begin-verse" mid="v15004019">
+			</marker>
+			<verse num="19">
+				And I made a decree, and search has been made, and it has been found that this city from of old has risen against kings, and that rebellion and sedition have been made in it.
+			</verse>
+			<marker class="begin-verse" mid="v15004020">
+			</marker>
+			<verse num="20">
+				And mighty kings have been over Jerusalem, 
+				<crossref let="y" cid="c15004020.1">
+				</crossref>
+				who ruled over the whole province Beyond the River, to whom 
+				<crossref let="z" cid="c15004020.2">
+				</crossref>
+				tribute, custom, and toll were paid.
+			</verse>
+			<marker class="begin-verse" mid="v15004021">
+			</marker>
+			<verse num="21">
+				Therefore make a decree that these men be made to cease, and that this city be not rebuilt, until a decree is made by me.
+			</verse>
+			<marker class="begin-verse" mid="v15004022">
+			</marker>
+			<verse num="22">
+				And take care not to be slack in this matter. Why should damage grow to the hurt of the king?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v15004023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				Then, when the copy of King Artaxerxes' letter was read before Rehum and Shimshai the scribe and their associates, they went in haste to the Jews at Jerusalem and by force and power made them cease.
+			</verse>
+			<marker class="begin-verse" mid="v15004024">
+			</marker>
+			<verse num="24">
+				Then the work on the house of God that is in Jerusalem stopped, and it ceased until the second year of the reign of Darius king of Persia.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

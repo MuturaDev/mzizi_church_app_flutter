@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23027001">
+		</marker>
+		<chapter num="27">
+			<heading
+				>
+				The Redemption of Israel
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				In that day the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with his hard and great and strong 
+				<crossref let="d" cid="c23027001.1">
+				</crossref>
+				sword will punish 
+				<crossref let="e" cid="c23027001.2">
+				</crossref>
+				Leviathan the fleeing serpent, 
+				<crossref let="e" cid="c23027001.3">
+				</crossref>
+				Leviathan the twisting serpent, and he will slay 
+				<crossref let="f" cid="c23027001.4">
+				</crossref>
+				the dragon that is in the sea.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23027002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				In that day,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c23027002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				A pleasant vineyard,
+				<note nid="n23027002.1">
+				</note>
+				<crossref let="h" cid="c23027002.2">
+				</crossref>
+				sing of it!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23027003">
+			</marker>
+			<verse num="3">
+				<begin-line class="indent">
+				</begin-line>
+				I, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, am its keeper;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				every moment I water it.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Lest anyone punish it,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I keep it night and day;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23027004">
+			</marker>
+			<verse num="4">
+				<begin-line class="indent">
+				</begin-line>
+				I have no wrath.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c23027004.1">
+				</crossref>
+				Would that I had thorns and briers to battle!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I would march against them,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I would burn them up together.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23027005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Or let them lay hold of my protection,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let them make peace with me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let them make peace with me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23027006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c23027006.1">
+				</crossref>
+				In days to come
+				<note nid="n23027006.1">
+				</note>
+				 Jacob shall take root,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Israel shall blossom and put forth shoots
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and fill the whole world with fruit.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23027007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c23027007.1">
+				</crossref>
+				Has he struck them 
+				<crossref let="l" cid="c23027007.2">
+				</crossref>
+				as he struck those who struck them?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Or have they been slain 
+				<crossref let="m" cid="c23027007.3">
+				</crossref>
+				as their slayers were slain?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23027008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c23027008.1">
+				</crossref>
+				Measure by measure,
+				<note nid="n23027008.1">
+				</note>
+				 by exile you contended with them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c23027008.2">
+				</crossref>
+				he removed them with his fierce breath
+				<note nid="n23027008.2">
+				</note>
+				 in the day of the east wind.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23027009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Therefore by this 
+				<crossref let="p" cid="c23027009.1">
+				</crossref>
+				the guilt of Jacob will be atoned for,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and this will be the full fruit of the removal of his sin:
+				<note nid="n23027009.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c23027009.2">
+				</crossref>
+				when he makes all the stones of the altars
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like chalkstones crushed to pieces,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				no 
+				<crossref let="r" cid="c23027009.3">
+				</crossref>
+				Asherim or incense altars will remain standing.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23027010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c23027010.1">
+				</crossref>
+				For the fortified city is solitary,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a habitation deserted and forsaken, like the wilderness;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				there the calf grazes;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				there it lies down and strips its branches.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23027011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				When its boughs are dry, they are broken;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				women come and make a fire of them.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c23027011.1">
+				</crossref>
+				For this is a people without discernment;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				therefore he who made them will not have compassion on them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he who formed them will show them no favor.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23027012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				In that day 
+				<crossref let="u" cid="c23027012.1">
+				</crossref>
+				from the river Euphrates to the Brook of Egypt the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will thresh out the grain, and you will be gleaned one by one, O people of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v23027013">
+			</marker>
+			<verse num="13">
+				And in that day 
+				<crossref let="v" cid="c23027013.1">
+				</crossref>
+				a great trumpet will be blown, 
+				<crossref let="w" cid="c23027013.2">
+				</crossref>
+				and those who were lost in the land of Assyria and those who were driven out to the land of Egypt 
+				<crossref let="x" cid="c23027013.3">
+				</crossref>
+				will come and worship the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 on the holy mountain at Jerusalem.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

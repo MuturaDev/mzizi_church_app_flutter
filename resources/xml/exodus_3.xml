@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				The Burning Bush
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now Moses was keeping the flock of his father-in-law, Jethro, the priest of Midian, and he led his flock to the west side of the wilderness and came to Horeb, the 
+				<crossref let="w" cid="c02003001.1">
+				</crossref>
+				mountain of God.
+			</verse>
+			<marker class="begin-verse" mid="v02003002">
+			</marker>
+			<verse num="2">
+				<crossref let="x" cid="c02003002.1">
+				</crossref>
+				And 
+				<crossref let="y" cid="c02003002.2">
+				</crossref>
+				the angel of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 appeared to him in a flame of fire out of the midst of a bush. He looked, and behold, the bush was burning, yet it was not consumed.
+			</verse>
+			<marker class="begin-verse" mid="v02003003">
+			</marker>
+			<verse num="3">
+				And Moses said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will turn aside to see this great sight, why the bush is not burned.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02003004">
+			</marker>
+			<verse num="4">
+				When the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 saw that he turned aside to see, 
+				<crossref let="z" cid="c02003004.1">
+				</crossref>
+				God called to him 
+				<crossref let="a" cid="c02003004.2">
+				</crossref>
+				out of the bush, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Moses, Moses!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Here I am.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02003005">
+			</marker>
+			<verse num="5">
+				Then he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not come near; 
+				<crossref let="b" cid="c02003005.1">
+				</crossref>
+				take your sandals off your feet, for the place on which you are standing is holy ground.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02003006">
+			</marker>
+			<verse num="6">
+				And he said, 
+				<crossref let="c" cid="c02003006.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Moses hid his face, for 
+				<crossref let="d" cid="c02003006.2">
+				</crossref>
+				he was afraid to look at God.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02003007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said, 
+				<crossref let="e" cid="c02003007.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have surely seen the affliction of my people who are in Egypt and have heard their cry because of their 
+				<crossref let="f" cid="c02003007.2">
+				</crossref>
+				taskmasters. I know their sufferings,
+			</verse>
+			<marker class="begin-verse" mid="v02003008">
+			</marker>
+			<verse num="8">
+				and 
+				<crossref let="g" cid="c02003008.1">
+				</crossref>
+				I have come down to deliver them out of the hand of the Egyptians and 
+				<crossref let="h" cid="c02003008.2">
+				</crossref>
+				to bring them up out of that land to a 
+				<crossref let="i" cid="c02003008.3">
+				</crossref>
+				good and broad land, a land 
+				<crossref let="j" cid="c02003008.4">
+				</crossref>
+				flowing with milk and honey, to the place of 
+				<crossref let="k" cid="c02003008.5">
+				</crossref>
+				the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites.
+			</verse>
+			<marker class="begin-verse" mid="v02003009">
+			</marker>
+			<verse num="9">
+				And now, behold, 
+				<crossref let="l" cid="c02003009.1">
+				</crossref>
+				the cry of the people of Israel has come to me, and I have also seen the 
+				<crossref let="m" cid="c02003009.2">
+				</crossref>
+				oppression with which the Egyptians oppress them.
+			</verse>
+			<marker class="begin-verse" mid="v02003010">
+			</marker>
+			<verse num="10">
+				<crossref let="n" cid="c02003010.1">
+				</crossref>
+				Come, I will send you to Pharaoh that you may bring my people, the children of Israel, out of Egypt.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02003011">
+			</marker>
+			<verse num="11">
+				But Moses said to God, 
+				<crossref let="o" cid="c02003011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who am I that I should go to Pharaoh and bring the children of Israel out of Egypt?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02003012">
+			</marker>
+			<verse num="12">
+				He said, 
+				<crossref let="p" cid="c02003012.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				But I will be with you, and this shall be the sign for you, that I have sent you: when you have brought the people out of Egypt, 
+				<crossref let="q" cid="c02003012.2">
+				</crossref>
+				you shall serve God on this mountain.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02003013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				Then Moses said to God, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If I come to the people of Israel and say to them, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The God of your fathers has sent me to you,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 and they ask me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				What is his name?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 what shall I say to them?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02003014">
+			</marker>
+			<verse num="14">
+				God said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				<span class="divine-name">
+					I am who I am
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n02003014.1">
+				</note>
+				 And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say this to the people of Israel, 
+				<crossref let="r" cid="c02003014.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				<span class="divine-name">
+					I am
+				</span>
+				 has sent me to you.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02003015">
+			</marker>
+			<verse num="15">
+				God also said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say this to the people of Israel, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<note nid="n02003015.1">
+				</note>
+				 the 
+				<crossref let="s" cid="c02003015.1">
+				</crossref>
+				God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 This is 
+				<crossref let="t" cid="c02003015.2">
+				</crossref>
+				my name forever, and thus I am to be remembered throughout all generations.
+			</verse>
+			<marker class="begin-verse" mid="v02003016">
+			</marker>
+			<verse num="16">
+				Go and 
+				<crossref let="u" cid="c02003016.1">
+				</crossref>
+				gather the elders of Israel together and say to them, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying, 
+				<crossref let="v" cid="c02003016.2">
+				</crossref>
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				I have observed you and what has been done to you in Egypt,
+			</verse>
+			<marker class="begin-verse" mid="v02003017">
+			</marker>
+			<verse num="17">
+				and I promise that 
+				<crossref let="w" cid="c02003017.1">
+				</crossref>
+				I will bring you up out of the affliction of Egypt to the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites, a land 
+				<crossref let="w" cid="c02003017.2">
+				</crossref>
+				flowing with milk and honey.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02003018">
+			</marker>
+			<verse num="18">
+				And 
+				<crossref let="x" cid="c02003018.1">
+				</crossref>
+				they will listen to your voice, and you and the elders of Israel 
+				<crossref let="y" cid="c02003018.2">
+				</crossref>
+				shall go to the king of Egypt and say to him, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of the Hebrews, has 
+				<crossref let="z" cid="c02003018.3">
+				</crossref>
+				met with us; and now, please let us go a three days' journey into the wilderness, that we may sacrifice to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02003019">
+			</marker>
+			<verse num="19">
+				But I know that the king of Egypt 
+				<crossref let="a" cid="c02003019.1">
+				</crossref>
+				will not let you go unless compelled 
+				<crossref let="b" cid="c02003019.2">
+				</crossref>
+				by a mighty hand.
+				<note nid="n02003019.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v02003020">
+			</marker>
+			<verse num="20">
+				So 
+				<crossref let="c" cid="c02003020.1">
+				</crossref>
+				I will stretch out my hand and strike Egypt with 
+				<crossref let="d" cid="c02003020.2">
+				</crossref>
+				all the wonders that I will do in it; 
+				<crossref let="e" cid="c02003020.3">
+				</crossref>
+				after that he will let you go.
+			</verse>
+			<marker class="begin-verse" mid="v02003021">
+			</marker>
+			<verse num="21">
+				And 
+				<crossref let="f" cid="c02003021.1">
+				</crossref>
+				I will give this people favor in the sight of the Egyptians; and when you go, you shall not go empty,
+			</verse>
+			<marker class="begin-verse" mid="v02003022">
+			</marker>
+			<verse num="22">
+				but each woman shall ask of her neighbor, and any woman who lives in her house, for 
+				<crossref let="g" cid="c02003022.1">
+				</crossref>
+				silver and gold jewelry, and for clothing. You shall put them on your sons and on your daughters. So 
+				<crossref let="h" cid="c02003022.2">
+				</crossref>
+				you shall plunder the Egyptians.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

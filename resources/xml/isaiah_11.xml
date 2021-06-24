@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23011001">
+		</marker>
+		<chapter num="11">
+			<heading
+				>
+				The Righteous Reign of the Branch
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				There shall come forth a shoot from the stump of 
+				<crossref let="l" cid="c23011001.1">
+				</crossref>
+				Jesse,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a branch from his roots shall bear fruit.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23011002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				And 
+				<crossref let="m" cid="c23011002.1">
+				</crossref>
+				the Spirit of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 shall rest upon him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the Spirit of wisdom and understanding,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the Spirit of counsel and might,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the Spirit of knowledge and the fear of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23011003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				And his delight shall be in the fear of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c23011003.1">
+				</crossref>
+				He shall not judge by 
+				<crossref let="o" cid="c23011003.2">
+				</crossref>
+				what his eyes see,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or decide disputes by 
+				<crossref let="o" cid="c23011003.3">
+				</crossref>
+				what his ears hear,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23011004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				but 
+				<crossref let="p" cid="c23011004.1">
+				</crossref>
+				with righteousness he shall judge the poor,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and decide with equity for the meek of the earth;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and he shall 
+				<crossref let="q" cid="c23011004.2">
+				</crossref>
+				strike the earth with the rod of his mouth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="r" cid="c23011004.3">
+				</crossref>
+				with the breath of his lips 
+				<crossref let="s" cid="c23011004.4">
+				</crossref>
+				he shall kill the wicked.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23011005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Righteousness shall be the belt of his waist,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="t" cid="c23011005.1">
+				</crossref>
+				faithfulness the belt of his loins.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23011006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c23011006.1">
+				</crossref>
+				The wolf shall dwell with the lamb,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the leopard shall lie down with the young goat,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and the calf and the lion and the fattened calf together;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a little child shall lead them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23011007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				The cow and the bear shall graze;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				their young shall lie down together;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the lion shall eat straw like the ox.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23011008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				The nursing child shall play over the hole of the cobra,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the weaned child shall put his hand on the adder's den.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23011009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c23011009.1">
+				</crossref>
+				They shall not hurt or destroy
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in all 
+				<crossref let="v" cid="c23011009.2">
+				</crossref>
+				my holy mountain;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c23011009.3">
+				</crossref>
+				for the earth shall be full of the knowledge of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as the waters cover the sea.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23011010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				In that day 
+				<crossref let="x" cid="c23011010.1">
+				</crossref>
+				the root of 
+				<crossref let="y" cid="c23011010.2">
+				</crossref>
+				Jesse, who shall stand as 
+				<crossref let="z" cid="c23011010.3">
+				</crossref>
+				a signal for the peoplesùof him shall the nations inquire, and his resting place shall be glorious.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23011011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				<crossref let="a" cid="c23011011.1">
+				</crossref>
+				In that day the Lord will extend his hand yet a second time to recover the remnant that remains of his people, 
+				<crossref let="b" cid="c23011011.2">
+				</crossref>
+				from Assyria, 
+				<crossref let="b" cid="c23011011.3">
+				</crossref>
+				from Egypt, from 
+				<crossref let="c" cid="c23011011.4">
+				</crossref>
+				Pathros, from 
+				<crossref let="d" cid="c23011011.5">
+				</crossref>
+				Cush,
+				<note nid="n23011011.1">
+				</note>
+				 from 
+				<crossref let="e" cid="c23011011.6">
+				</crossref>
+				Elam, from 
+				<crossref let="f" cid="c23011011.7">
+				</crossref>
+				Shinar, from 
+				<crossref let="g" cid="c23011011.8">
+				</crossref>
+				Hamath, and from 
+				<crossref let="h" cid="c23011011.9">
+				</crossref>
+				the coastlands of the sea.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23011012">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				He will raise 
+				<crossref let="z" cid="c23011012.1">
+				</crossref>
+				a signal for the nations
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and will assemble 
+				<crossref let="i" cid="c23011012.2">
+				</crossref>
+				the banished of Israel,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and gather the dispersed of Judah
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from the four corners of the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23011013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c23011013.1">
+				</crossref>
+				The jealousy of Ephraim shall depart,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and those who harass Judah shall be cut off;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Ephraim shall not be jealous of Judah,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and Judah shall not harass Ephraim.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23011014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c23011014.1">
+				</crossref>
+				But they shall swoop down on the shoulder of the Philistines in the west,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and together they shall plunder 
+				<crossref let="l" cid="c23011014.2">
+				</crossref>
+				the people of the east.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				They shall put out their hand 
+				<crossref let="m" cid="c23011014.3">
+				</crossref>
+				against 
+				<crossref let="n" cid="c23011014.4">
+				</crossref>
+				Edom and 
+				<crossref let="o" cid="c23011014.5">
+				</crossref>
+				Moab,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="p" cid="c23011014.6">
+				</crossref>
+				the Ammonites shall obey them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23011015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will utterly destroy
+				<note nid="n23011015.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c23011015.1">
+				</crossref>
+				the tongue of the Sea of Egypt,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and will wave his hand over 
+				<crossref let="r" cid="c23011015.2">
+				</crossref>
+				the River
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with his scorching breath,
+				<note nid="n23011015.2">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and strike it into seven channels,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he will lead people across in sandals.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23011016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				And there will be 
+				<crossref let="s" cid="c23011016.1">
+				</crossref>
+				a highway from Assyria
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for the remnant that remains of his people,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c23011016.2">
+				</crossref>
+				as there was for Israel
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when they came up from the land of Egypt.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Romans" num="44">
+		<marker class="begin-verse" mid="v45003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				God's Righteousness Upheld
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then what advantage has the Jew? Or what is the value of circumcision?
+			</verse>
+			<marker class="begin-verse" mid="v45003002">
+			</marker>
+			<verse num="2">
+				Much in every way. To begin with, 
+				<crossref let="x" cid="c45003002.1">
+				</crossref>
+				the Jews were entrusted with 
+				<crossref let="y" cid="c45003002.2">
+				</crossref>
+				the oracles of God.
+			</verse>
+			<marker class="begin-verse" mid="v45003003">
+			</marker>
+			<verse num="3">
+				<crossref let="z" cid="c45003003.1">
+				</crossref>
+				What if some were unfaithful? 
+				<crossref let="a" cid="c45003003.2">
+				</crossref>
+				Does their faithlessness nullify the faithfulness of God?
+			</verse>
+			<marker class="begin-verse" mid="v45003004">
+			</marker>
+			<verse num="4">
+				By no means! 
+				<crossref let="b" cid="c45003004.1">
+				</crossref>
+				Let God be true though 
+				<crossref let="c" cid="c45003004.2">
+				</crossref>
+				every one were a liar, as it is written,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c45003004.3">
+				</crossref>
+				<crossref cid="t45003004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				That you may be justified in your words,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and prevail when you 
+				<crossref let="e" cid="c45003004.4">
+				</crossref>
+				are judged.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v45003005">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="5">
+				But if our unrighteousness serves to show the righteousness of God, what shall we say? That God is unrighteous to inflict 
+				<crossref let="f" cid="c45003005.1">
+				</crossref>
+				wrath on us? (
+				<crossref let="g" cid="c45003005.2">
+				</crossref>
+				I speak in a human way.)
+			</verse>
+			<marker class="begin-verse" mid="v45003006">
+			</marker>
+			<verse num="6">
+				By no means! For then how could 
+				<crossref let="h" cid="c45003006.1">
+				</crossref>
+				God judge the world?
+			</verse>
+			<marker class="begin-verse" mid="v45003007">
+			</marker>
+			<verse num="7">
+				But if through my lie God's truth abounds to his glory, 
+				<crossref let="i" cid="c45003007.1">
+				</crossref>
+				why am I still being condemned as a sinner?
+			</verse>
+			<marker class="begin-verse" mid="v45003008">
+			</marker>
+			<verse num="8">
+				And why not 
+				<crossref let="j" cid="c45003008.1">
+				</crossref>
+				do evil that good may come?ùas some people slanderously charge us with saying. Their condemnation is just.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45003009">
+			</marker>
+			<heading
+				>
+				No One Is Righteous
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				What then? Are we Jews
+				<note nid="n45003009.1">
+				</note>
+				 any better off?
+				<note nid="n45003009.2">
+				</note>
+				 No, not at all. For we have already charged that all, both 
+				<crossref let="k" cid="c45003009.1">
+				</crossref>
+				Jews and 
+				<crossref let="l" cid="c45003009.2">
+				</crossref>
+				Greeks, are 
+				<crossref let="m" cid="c45003009.3">
+				</crossref>
+				under sin,
+			</verse>
+			<marker class="begin-verse" mid="v45003010">
+			</marker>
+			<verse num="10">
+				as it is written:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c45003010.1">
+				</crossref>
+				<crossref cid="t45003010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				None is righteous, no, not one;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v45003011">
+			</marker>
+			<verse num="11">
+				<begin-line class="indent">
+				</begin-line>
+				no one understands;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				no one seeks for God.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v45003012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				All have turned aside; together they have become worthless;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				no one does good,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				not even one.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v45003013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c45003013.1">
+				</crossref>
+				<crossref cid="t45003013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Their throat is 
+				<crossref let="p" cid="c45003013.2">
+				</crossref>
+				an open grave;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they use their tongues to deceive.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c45003013.3">
+				</crossref>
+				<crossref cid="t45003013.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The venom of asps is under their lips.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v45003014">
+			</marker>
+			<verse num="14">
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c45003014.1">
+				</crossref>
+				<crossref cid="t45003014.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Their mouth is full of curses and bitterness.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v45003015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c45003015.1">
+				</crossref>
+				<crossref cid="t45003015.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Their feet are swift to shed blood;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v45003016">
+			</marker>
+			<verse num="16">
+				<begin-line class="indent">
+				</begin-line>
+				in their paths are ruin and misery,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v45003017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				and 
+				<crossref let="t" cid="c45003017.1">
+				</crossref>
+				the way of peace they have not known.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v45003018">
+			</marker>
+			<verse num="18">
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c45003018.1">
+				</crossref>
+				<crossref cid="t45003018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				There is no fear of God before their eyes.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v45003019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				Now we know that whatever 
+				<crossref let="v" cid="c45003019.1">
+				</crossref>
+				the law says it speaks to those who are under the law, 
+				<crossref let="w" cid="c45003019.2">
+				</crossref>
+				so that every mouth may be stopped, and 
+				<crossref let="x" cid="c45003019.3">
+				</crossref>
+				the whole world may be held accountable to God.
+			</verse>
+			<marker class="begin-verse" mid="v45003020">
+			</marker>
+			<verse num="20">
+				For 
+				<crossref let="y" cid="c45003020.1">
+				</crossref>
+				by works of the law no human being
+				<note nid="n45003020.1">
+				</note>
+				 will be justified in his sight, since 
+				<crossref let="z" cid="c45003020.2">
+				</crossref>
+				through the law comes knowledge of sin.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45003021">
+			</marker>
+			<heading
+				>
+				The Righteousness of God Through Faith
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				But now 
+				<crossref let="a" cid="c45003021.1">
+				</crossref>
+				the righteousness of God 
+				<crossref let="b" cid="c45003021.2">
+				</crossref>
+				has been manifested apart from the law, although 
+				<crossref let="c" cid="c45003021.3">
+				</crossref>
+				the Law and the Prophets bear witness to itù
+			</verse>
+			<marker class="begin-verse" mid="v45003022">
+			</marker>
+			<verse num="22">
+				the righteousness of God 
+				<crossref let="d" cid="c45003022.1">
+				</crossref>
+				through faith in Jesus Christ for all who believe. 
+				<crossref let="e" cid="c45003022.2">
+				</crossref>
+				For there is no distinction:
+			</verse>
+			<marker class="begin-verse" mid="v45003023">
+			</marker>
+			<verse num="23">
+				for 
+				<crossref let="f" cid="c45003023.1">
+				</crossref>
+				all have sinned and fall short of the glory of God,
+			</verse>
+			<marker class="begin-verse" mid="v45003024">
+			</marker>
+			<verse num="24">
+				<crossref let="g" cid="c45003024.1">
+				</crossref>
+				and are justified 
+				<crossref let="h" cid="c45003024.2">
+				</crossref>
+				by his grace as a gift, 
+				<crossref let="i" cid="c45003024.3">
+				</crossref>
+				through the redemption that is in Christ Jesus,
+			</verse>
+			<marker class="begin-verse" mid="v45003025">
+			</marker>
+			<verse num="25">
+				whom God 
+				<crossref let="j" cid="c45003025.1">
+				</crossref>
+				put forward as 
+				<crossref let="k" cid="c45003025.2">
+				</crossref>
+				a propitiation 
+				<crossref let="l" cid="c45003025.3">
+				</crossref>
+				by his blood, to be received by faith. This was to show God's righteousness, because in 
+				<crossref let="m" cid="c45003025.4">
+				</crossref>
+				his divine forbearance he had passed over 
+				<crossref let="n" cid="c45003025.5">
+				</crossref>
+				former sins.
+			</verse>
+			<marker class="begin-verse" mid="v45003026">
+			</marker>
+			<verse num="26">
+				It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45003027">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				<crossref let="o" cid="c45003027.1">
+				</crossref>
+				Then what becomes of our boasting? It is excluded. By what kind of law? By a law of works? No, but by the law of faith.
+			</verse>
+			<marker class="begin-verse" mid="v45003028">
+			</marker>
+			<verse num="28">
+				For we hold that one is justified by faith 
+				<crossref let="p" cid="c45003028.1">
+				</crossref>
+				apart from works of the law.
+			</verse>
+			<marker class="begin-verse" mid="v45003029">
+			</marker>
+			<verse num="29">
+				Or 
+				<crossref let="q" cid="c45003029.1">
+				</crossref>
+				is God the God of Jews only? Is he not the God of Gentiles also? Yes, of Gentiles also,
+			</verse>
+			<marker class="begin-verse" mid="v45003030">
+			</marker>
+			<verse num="30">
+				since 
+				<crossref let="r" cid="c45003030.1">
+				</crossref>
+				God is oneùwho will justify the circumcised by faith and 
+				<crossref let="s" cid="c45003030.2">
+				</crossref>
+				the uncircumcised through faith.
+			</verse>
+			<marker class="begin-verse" mid="v45003031">
+			</marker>
+			<verse num="31">
+				Do we then overthrow the law by this faith? By no means! On the contrary, we uphold the law.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

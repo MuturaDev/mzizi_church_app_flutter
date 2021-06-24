@@ -1,0 +1,633 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Habakkuk" num="34">
+		<marker class="begin-verse" mid="v35003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				Habakkuk's Prayer
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				A prayer of Habakkuk the prophet, according to Shigionoth.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v35003002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="x" cid="c35003002.1">
+				</crossref>
+				I have heard the report of you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="y" cid="c35003002.2">
+				</crossref>
+				your work, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, do I fear.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				In the midst of the years 
+				<crossref let="z" cid="c35003002.3">
+				</crossref>
+				revive it;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the midst of the years make it known;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c35003002.4">
+				</crossref>
+				in wrath remember mercy.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				God came from 
+				<crossref let="b" cid="c35003003.1">
+				</crossref>
+				Teman,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c35003003.2">
+				</crossref>
+				and the Holy One from Mount Paran.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				His splendor covered the heavens,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the earth was full of his praise. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c35003004.1">
+				</crossref>
+				His brightness was like the light;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				rays flashed from his hand;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and there he veiled his power.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c35003005.1">
+				</crossref>
+				Before him went pestilence,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and plague followed 
+				<crossref let="f" cid="c35003005.2">
+				</crossref>
+				at his heels.
+				<note nid="n35003005.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				He stood 
+				<crossref let="g" cid="c35003006.1">
+				</crossref>
+				and measured the earth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he looked and shook the nations;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				then the 
+				<crossref let="h" cid="c35003006.2">
+				</crossref>
+				eternal mountains 
+				<crossref let="i" cid="c35003006.3">
+				</crossref>
+				were scattered;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the everlasting hills sank low.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				His were 
+				<crossref let="j" cid="c35003006.4">
+				</crossref>
+				the everlasting ways.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				I saw the tents of 
+				<crossref let="k" cid="c35003007.1">
+				</crossref>
+				Cushan in affliction;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="l" cid="c35003007.2">
+				</crossref>
+				the curtains of the land of Midian did tremble.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c35003008.1">
+				</crossref>
+				Was your wrath against the rivers, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Was your anger against the rivers,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c35003008.2">
+				</crossref>
+				or your indignation against the sea,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c35003008.3">
+				</crossref>
+				when you rode on your horses,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c35003008.4">
+				</crossref>
+				on your chariot of salvation?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				You stripped the sheath from your bow,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				calling for many arrows.
+				<note nid="n35003009.1">
+				</note>
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="p" cid="c35003009.1">
+				</crossref>
+				You split the earth with rivers.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c35003010.1">
+				</crossref>
+				The mountains saw you and writhed;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the raging waters swept on;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c35003010.2">
+				</crossref>
+				the deep gave forth its voice;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c35003010.3">
+				</crossref>
+				it lifted its hands on high.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c35003011.1">
+				</crossref>
+				The sun and moon stood still in their place
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c35003011.2">
+				</crossref>
+				at the light of your arrows as they sped,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				at the flash of your glittering spear.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c35003012.1">
+				</crossref>
+				You marched through the earth in fury;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c35003012.2">
+				</crossref>
+				you threshed the nations in anger.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c35003013.1">
+				</crossref>
+				You went out for the salvation of your people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for the salvation of 
+				<crossref let="x" cid="c35003013.2">
+				</crossref>
+				your anointed.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c35003013.3">
+				</crossref>
+				You crushed the head of the house of the wicked,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				laying him bare from thigh to neck.
+				<note nid="n35003013.1">
+				</note>
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				You pierced with his own arrows the heads of his warriors,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who came like a whirlwind to scatter me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				rejoicing as if to devour the poor in secret.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c35003015.1">
+				</crossref>
+				You trampled the sea with your horses,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the surging of mighty waters.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v35003016">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c35003016.1">
+				</crossref>
+				I hear, and 
+				<crossref let="b" cid="c35003016.2">
+				</crossref>
+				my body trembles;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my lips quiver at the sound;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c35003016.3">
+				</crossref>
+				rottenness enters into my bones;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my legs tremble beneath me.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Yet 
+				<crossref let="d" cid="c35003016.4">
+				</crossref>
+				I will quietly wait for the day of trouble
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to come upon people who invade us.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v35003017">
+			</marker>
+			<heading
+				>
+				Habakkuk Rejoices in the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				Though the fig tree should not blossom,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor fruit be on the vines,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				the produce of the olive fail
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the fields yield no food,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				the flock be cut off from the fold
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and there be no herd in the stalls,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c35003018.1">
+				</crossref>
+				yet I will rejoice in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c35003018.2">
+				</crossref>
+				I will take joy in the God of my salvation.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v35003019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<span class="divine-name">
+					God
+				</span>
+				, the Lord, is my strength;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="g" cid="c35003019.1">
+				</crossref>
+				he makes my feet like the deer's;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he makes me 
+				<crossref let="h" cid="c35003019.2">
+				</crossref>
+				tread on my 
+				<crossref let="i" cid="c35003019.3">
+				</crossref>
+				high places.
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c35003019.4">
+				</crossref>
+				To the choirmaster: with 
+				<crossref let="k" cid="c35003019.5">
+				</crossref>
+				stringed
+				<note nid="n35003019.1">
+				</note>
+				 instruments.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

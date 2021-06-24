@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Timothy" num="55">
+		<marker class="begin-verse" mid="v55001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Paul, 
+				<crossref let="a" cid="c55001001.1">
+				</crossref>
+				an apostle of Christ Jesus 
+				<crossref let="b" cid="c55001001.2">
+				</crossref>
+				by the will of God according to 
+				<crossref let="c" cid="c55001001.3">
+				</crossref>
+				the promise of the life that is in Christ Jesus,
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v55001002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				To Timothy, 
+				<crossref let="d" cid="c55001002.1">
+				</crossref>
+				my beloved child:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				<crossref let="e" cid="c55001002.2">
+				</crossref>
+				Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v55001003">
+			</marker>
+			<heading
+				>
+				Guard the Deposit Entrusted to You
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="f" cid="c55001003.1">
+				</crossref>
+				I thank God 
+				<crossref let="g" cid="c55001003.2">
+				</crossref>
+				whom I serve, as did my ancestors, 
+				<crossref let="h" cid="c55001003.3">
+				</crossref>
+				with a clear conscience, as I remember you 
+				<crossref let="i" cid="c55001003.4">
+				</crossref>
+				constantly in my prayers night and day.
+			</verse>
+			<marker class="begin-verse" mid="v55001004">
+			</marker>
+			<verse num="4">
+				<crossref let="j" cid="c55001004.1">
+				</crossref>
+				As I remember your tears, 
+				<crossref let="k" cid="c55001004.2">
+				</crossref>
+				I long to see you, that I may be filled with joy.
+			</verse>
+			<marker class="begin-verse" mid="v55001005">
+			</marker>
+			<verse num="5">
+				I am reminded of 
+				<crossref let="l" cid="c55001005.1">
+				</crossref>
+				your sincere faith, a faith that dwelt first in your grandmother Lois and 
+				<crossref let="m" cid="c55001005.2">
+				</crossref>
+				your mother Eunice and now, I am sure, dwells in you as well.
+			</verse>
+			<marker class="begin-verse" mid="v55001006">
+			</marker>
+			<verse num="6">
+				For this reason I remind you 
+				<crossref let="n" cid="c55001006.1">
+				</crossref>
+				to fan into flame the gift of God, which is in you through the laying on of my hands,
+			</verse>
+			<marker class="begin-verse" mid="v55001007">
+			</marker>
+			<verse num="7">
+				for God gave us 
+				<crossref let="o" cid="c55001007.1">
+				</crossref>
+				a spirit not of fear but 
+				<crossref let="p" cid="c55001007.2">
+				</crossref>
+				of power and love and self-control.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v55001008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Therefore 
+				<crossref let="q" cid="c55001008.1">
+				</crossref>
+				do not be ashamed of 
+				<crossref let="r" cid="c55001008.2">
+				</crossref>
+				the testimony about our Lord, nor of 
+				<crossref let="s" cid="c55001008.3">
+				</crossref>
+				me his prisoner, but 
+				<crossref let="t" cid="c55001008.4">
+				</crossref>
+				share in suffering for the gospel by the power of God,
+			</verse>
+			<marker class="begin-verse" mid="v55001009">
+			</marker>
+			<verse num="9">
+				<crossref let="u" cid="c55001009.1">
+				</crossref>
+				who saved us and 
+				<crossref let="v" cid="c55001009.2">
+				</crossref>
+				called us to
+				<note nid="n55001009.1">
+				</note>
+				 a holy calling, 
+				<crossref let="w" cid="c55001009.3">
+				</crossref>
+				not because of our works but because of 
+				<crossref let="v" cid="c55001009.4">
+				</crossref>
+				his own purpose and grace, which he gave us in Christ Jesus 
+				<crossref let="x" cid="c55001009.5">
+				</crossref>
+				before the ages began,
+				<note nid="n55001009.2">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v55001010">
+			</marker>
+			<verse num="10">
+				and which now has 
+				<crossref let="y" cid="c55001010.1">
+				</crossref>
+				been manifested through 
+				<crossref let="z" cid="c55001010.2">
+				</crossref>
+				the appearing of our Savior Christ Jesus, 
+				<crossref let="a" cid="c55001010.3">
+				</crossref>
+				who abolished death and 
+				<crossref let="b" cid="c55001010.4">
+				</crossref>
+				brought life and 
+				<crossref let="c" cid="c55001010.5">
+				</crossref>
+				immortality to light through the gospel,
+			</verse>
+			<marker class="begin-verse" mid="v55001011">
+			</marker>
+			<verse num="11">
+				<crossref let="d" cid="c55001011.1">
+				</crossref>
+				for which I was appointed a preacher and apostle and teacher,
+			</verse>
+			<marker class="begin-verse" mid="v55001012">
+			</marker>
+			<verse num="12">
+				<crossref let="e" cid="c55001012.1">
+				</crossref>
+				which is why I suffer as I do. But 
+				<crossref let="f" cid="c55001012.2">
+				</crossref>
+				I am not ashamed, for 
+				<crossref let="g" cid="c55001012.3">
+				</crossref>
+				I know whom I have believed, and I am convinced that he is able to guard until 
+				<crossref let="h" cid="c55001012.4">
+				</crossref>
+				that Day 
+				<crossref let="i" cid="c55001012.5">
+				</crossref>
+				what has been entrusted to me.
+				<note nid="n55001012.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v55001013">
+			</marker>
+			<verse num="13">
+				<crossref let="j" cid="c55001013.1">
+				</crossref>
+				Follow 
+				<crossref let="k" cid="c55001013.2">
+				</crossref>
+				the pattern of 
+				<crossref let="l" cid="c55001013.3">
+				</crossref>
+				the sound
+				<note nid="n55001013.1">
+				</note>
+				 words 
+				<crossref let="m" cid="c55001013.4">
+				</crossref>
+				that you have heard from me, in 
+				<crossref let="n" cid="c55001013.5">
+				</crossref>
+				the faith and love that are in Christ Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v55001014">
+			</marker>
+			<verse num="14">
+				By the Holy Spirit 
+				<crossref let="o" cid="c55001014.1">
+				</crossref>
+				who dwells within us, guard 
+				<crossref let="i" cid="c55001014.2">
+				</crossref>
+				the good deposit entrusted to you.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v55001015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				You are aware that 
+				<crossref let="p" cid="c55001015.1">
+				</crossref>
+				all who are in Asia turned away from me, among whom are Phygelus and Hermogenes.
+			</verse>
+			<marker class="begin-verse" mid="v55001016">
+			</marker>
+			<verse num="16">
+				May the Lord grant mercy to 
+				<crossref let="q" cid="c55001016.1">
+				</crossref>
+				the household of Onesiphorus, for he often 
+				<crossref let="r" cid="c55001016.2">
+				</crossref>
+				refreshed me and was not ashamed of 
+				<crossref let="s" cid="c55001016.3">
+				</crossref>
+				my chains,
+			</verse>
+			<marker class="begin-verse" mid="v55001017">
+			</marker>
+			<verse num="17">
+				but when he arrived in Rome 
+				<crossref let="t" cid="c55001017.1">
+				</crossref>
+				he searched for me earnestly and found meù
+			</verse>
+			<marker class="begin-verse" mid="v55001018">
+			</marker>
+			<verse num="18">
+				may the Lord grant him to find mercy from the Lord on 
+				<crossref let="u" cid="c55001018.1">
+				</crossref>
+				that Day!ùand you well know all the service he 
+				<crossref let="v" cid="c55001018.2">
+				</crossref>
+				rendered at Ephesus.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

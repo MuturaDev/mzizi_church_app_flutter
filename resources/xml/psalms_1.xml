@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="19">
+		<marker class="begin-verse" mid="v19001001">
+		</marker>
+		<heading class="psalm-book">
+			Book One
+		</heading>
+		<chapter num="1">
+			<heading
+				>
+				The Way of the Righteous and the Wicked
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Blessed is the man
+				<note nid="n19001001.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="a" cid="c19001001.1">
+				</crossref>
+				walks not in 
+				<crossref let="b" cid="c19001001.2">
+				</crossref>
+				the counsel of the wicked,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				nor stands in 
+				<crossref let="c" cid="c19001001.3">
+				</crossref>
+				the way of sinners,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor 
+				<crossref let="d" cid="c19001001.4">
+				</crossref>
+				sits in 
+				<crossref let="e" cid="c19001001.5">
+				</crossref>
+				the seat of 
+				<crossref let="f" cid="c19001001.6">
+				</crossref>
+				scoffers;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19001002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				but his 
+				<crossref let="g" cid="c19001002.1">
+				</crossref>
+				delight is in the law
+				<note nid="n19001002.1">
+				</note>
+				 of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and on his 
+				<crossref let="h" cid="c19001002.2">
+				</crossref>
+				law he meditates day and night.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19001003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				He is like 
+				<crossref let="i" cid="c19001003.1">
+				</crossref>
+				a tree
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				planted by 
+				<crossref let="j" cid="c19001003.2">
+				</crossref>
+				streams of water
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				that yields its fruit in its season,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and its 
+				<crossref let="k" cid="c19001003.3">
+				</crossref>
+				leaf does not wither.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19001003.4">
+				</crossref>
+				In all that he does, he prospers.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19001004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				The wicked are not so,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but are like 
+				<crossref let="m" cid="c19001004.1">
+				</crossref>
+				chaff that the wind drives away.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19001005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Therefore the wicked 
+				<crossref let="n" cid="c19001005.1">
+				</crossref>
+				will not stand in the judgment,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor sinners in 
+				<crossref let="o" cid="c19001005.2">
+				</crossref>
+				the congregation of the righteous;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19001006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="p" cid="c19001006.1">
+				</crossref>
+				knows 
+				<crossref let="q" cid="c19001006.2">
+				</crossref>
+				the way of the righteous,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the way of the wicked will perish.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

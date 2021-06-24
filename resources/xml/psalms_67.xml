@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19067001">
+		</marker>
+		<chapter num="67">
+			<heading
+				>
+				Make Your Face Shine upon Us
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: with 
+				<crossref let="v" cid="c19067001.1">
+				</crossref>
+				stringed instruments. A Psalm. A Song.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				May God 
+				<crossref let="w" cid="c19067001.2">
+				</crossref>
+				be gracious to us and bless us
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and make his face to 
+				<crossref let="x" cid="c19067001.3">
+				</crossref>
+				shine upon us, 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19067002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				that 
+				<crossref let="y" cid="c19067002.1">
+				</crossref>
+				your way may be known on earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your 
+				<crossref let="z" cid="c19067002.2">
+				</crossref>
+				saving power among all nations.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19067003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19067003.1">
+				</crossref>
+				Let the peoples praise you, O God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let all the peoples praise you!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19067004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Let the nations be glad and sing for joy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for you 
+				<crossref let="b" cid="c19067004.1">
+				</crossref>
+				judge the peoples with equity
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and guide the nations upon earth. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19067005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19067005.1">
+				</crossref>
+				Let the peoples praise you, O God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let all the peoples praise you!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19067006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				The earth has 
+				<crossref let="c" cid="c19067006.1">
+				</crossref>
+				yielded its increase;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				God, our God, shall bless us.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19067007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				God shall bless us;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let 
+				<crossref let="d" cid="c19067007.1">
+				</crossref>
+				all the ends of the earth fear him!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

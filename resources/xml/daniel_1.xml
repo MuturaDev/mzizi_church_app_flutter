@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Daniel" num="27">
+		<marker class="begin-verse" mid="v27001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Daniel Taken to Babylon
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				In the third year of 
+				<crossref let="a" cid="c27001001.1">
+				</crossref>
+				the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
+			</verse>
+			<marker class="begin-verse" mid="v27001002">
+			</marker>
+			<verse num="2">
+				And the Lord gave Jehoiakim king of Judah into his hand, with some of 
+				<crossref let="b" cid="c27001002.1">
+				</crossref>
+				the vessels of the house of God. And he brought them to 
+				<crossref let="c" cid="c27001002.2">
+				</crossref>
+				the land of Shinar, to the house of his god, 
+				<crossref let="d" cid="c27001002.3">
+				</crossref>
+				and placed the vessels in the treasury of his god.
+			</verse>
+			<marker class="begin-verse" mid="v27001003">
+			</marker>
+			<verse num="3">
+				Then the king commanded Ashpenaz, 
+				<crossref let="e" cid="c27001003.1">
+				</crossref>
+				his chief eunuch, to bring some of the people of Israel, both of the royal family
+				<note nid="n27001003.1">
+				</note>
+				 and of 
+				<crossref let="f" cid="c27001003.2">
+				</crossref>
+				the nobility,
+			</verse>
+			<marker class="begin-verse" mid="v27001004">
+			</marker>
+			<verse num="4">
+				youths without 
+				<crossref let="g" cid="c27001004.1">
+				</crossref>
+				blemish, of good appearance and 
+				<crossref let="h" cid="c27001004.2">
+				</crossref>
+				skillful in all wisdom, endowed with knowledge, understanding learning, and competent to stand in the king's palace, and to 
+				<crossref let="i" cid="c27001004.3">
+				</crossref>
+				teach them the literature and language of the 
+				<crossref let="j" cid="c27001004.4">
+				</crossref>
+				Chaldeans.
+			</verse>
+			<marker class="begin-verse" mid="v27001005">
+			</marker>
+			<verse num="5">
+				The king assigned them a daily portion of 
+				<crossref let="k" cid="c27001005.1">
+				</crossref>
+				the food that the king ate, and of 
+				<crossref let="l" cid="c27001005.2">
+				</crossref>
+				the wine that he drank. They were to be educated for 
+				<crossref let="m" cid="c27001005.3">
+				</crossref>
+				three years, and at the end of that time they were to 
+				<crossref let="n" cid="c27001005.4">
+				</crossref>
+				stand before the king.
+			</verse>
+			<marker class="begin-verse" mid="v27001006">
+			</marker>
+			<verse num="6">
+				Among these were 
+				<crossref let="o" cid="c27001006.1">
+				</crossref>
+				Daniel, 
+				<crossref let="p" cid="c27001006.2">
+				</crossref>
+				Hananiah, 
+				<crossref let="p" cid="c27001006.3">
+				</crossref>
+				Mishael, and 
+				<crossref let="p" cid="c27001006.4">
+				</crossref>
+				Azariah of the tribe of Judah.
+			</verse>
+			<marker class="begin-verse" mid="v27001007">
+			</marker>
+			<verse num="7">
+				And 
+				<crossref let="e" cid="c27001007.1">
+				</crossref>
+				the chief of the eunuchs 
+				<crossref let="q" cid="c27001007.2">
+				</crossref>
+				gave them names: 
+				<crossref let="r" cid="c27001007.3">
+				</crossref>
+				Daniel he called Belteshazzar, Hananiah he called Shadrach, Mishael he called Meshach, and Azariah he called Abednego.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v27001008">
+			</marker>
+			<heading
+				>
+				Daniel's Faithfulness
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				But Daniel 
+				<crossref let="s" cid="c27001008.1">
+				</crossref>
+				resolved that he would not 
+				<crossref let="t" cid="c27001008.2">
+				</crossref>
+				defile himself with 
+				<crossref let="k" cid="c27001008.3">
+				</crossref>
+				the king's food, or with 
+				<crossref let="l" cid="c27001008.4">
+				</crossref>
+				the wine that he drank. Therefore he asked the chief of the eunuchs to allow him not to 
+				<crossref let="t" cid="c27001008.5">
+				</crossref>
+				defile himself.
+			</verse>
+			<marker class="begin-verse" mid="v27001009">
+			</marker>
+			<verse num="9">
+				<crossref let="u" cid="c27001009.1">
+				</crossref>
+				And God gave Daniel favor and compassion in the sight of the chief of the eunuchs,
+			</verse>
+			<marker class="begin-verse" mid="v27001010">
+			</marker>
+			<verse num="10">
+				and the chief of the eunuchs said to Daniel, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I fear my lord the king, who assigned your food and your drink; for why should he see that you were in worse condition than the youths who are of your own age? So you would endanger my head with the king.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v27001011">
+			</marker>
+			<verse num="11">
+				Then Daniel said to the steward whom the chief of the eunuchs had assigned over Daniel, Hananiah, Mishael, and Azariah,
+			</verse>
+			<marker class="begin-verse" mid="v27001012">
+			</marker>
+			<verse num="12">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Test your servants for 
+				<crossref let="v" cid="c27001012.1">
+				</crossref>
+				ten days; let us be given vegetables to eat and water to drink.
+			</verse>
+			<marker class="begin-verse" mid="v27001013">
+			</marker>
+			<verse num="13">
+				Then let our appearance and the appearance of the youths who eat 
+				<crossref let="k" cid="c27001013.1">
+				</crossref>
+				the king's food be observed by you, and deal with your servants according to what you see.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v27001014">
+			</marker>
+			<verse num="14">
+				So he listened to them in this matter, and tested them for ten days.
+			</verse>
+			<marker class="begin-verse" mid="v27001015">
+			</marker>
+			<verse num="15">
+				At the end of ten days it was seen that they were better in appearance and fatter in flesh than all the youths who ate 
+				<crossref let="k" cid="c27001015.1">
+				</crossref>
+				the king's food.
+			</verse>
+			<marker class="begin-verse" mid="v27001016">
+			</marker>
+			<verse num="16">
+				<crossref let="w" cid="c27001016.1">
+				</crossref>
+				So the steward took away their food and the wine they were to drink, and gave them 
+				<crossref let="x" cid="c27001016.2">
+				</crossref>
+				vegetables.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v27001017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				As for these four youths, 
+				<crossref let="y" cid="c27001017.1">
+				</crossref>
+				God gave them learning and 
+				<crossref let="z" cid="c27001017.2">
+				</crossref>
+				skill in all literature and wisdom, and Daniel had 
+				<crossref let="a" cid="c27001017.3">
+				</crossref>
+				understanding in all visions and dreams.
+			</verse>
+			<marker class="begin-verse" mid="v27001018">
+			</marker>
+			<verse num="18">
+				At the end of 
+				<crossref let="b" cid="c27001018.1">
+				</crossref>
+				the time, when the king had commanded that they should be brought in, the chief of the eunuchs brought them in before Nebuchadnezzar.
+			</verse>
+			<marker class="begin-verse" mid="v27001019">
+			</marker>
+			<verse num="19">
+				And the king spoke with them, and among all of them none was found like Daniel, Hananiah, Mishael, and Azariah. Therefore 
+				<crossref let="c" cid="c27001019.1">
+				</crossref>
+				they stood before the king.
+			</verse>
+			<marker class="begin-verse" mid="v27001020">
+			</marker>
+			<verse num="20">
+				And in every matter of wisdom and understanding about which the king inquired of them, he found them ten times better than all 
+				<crossref let="d" cid="c27001020.1">
+				</crossref>
+				the magicians and 
+				<crossref let="e" cid="c27001020.2">
+				</crossref>
+				enchanters that were in all his kingdom.
+			</verse>
+			<marker class="begin-verse" mid="v27001021">
+			</marker>
+			<verse num="21">
+				And Daniel 
+				<crossref let="f" cid="c27001021.1">
+				</crossref>
+				was there until the first year of 
+				<crossref let="g" cid="c27001021.2">
+				</crossref>
+				King Cyrus.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

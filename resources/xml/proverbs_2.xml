@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Proverbs" num="19">
+		<marker class="begin-verse" mid="v20002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				The Value of Wisdom
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c20002001.1">
+				</crossref>
+				My son, 
+				<crossref let="v" cid="c20002001.2">
+				</crossref>
+				if you receive my words
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and treasure up my commandments with you,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				making your ear attentive to wisdom
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and inclining your heart to understanding;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				yes, if you call out for insight
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and raise your voice 
+				<crossref let="w" cid="c20002003.1">
+				</crossref>
+				for understanding,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				if you seek it like 
+				<crossref let="x" cid="c20002004.1">
+				</crossref>
+				silver
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and search for it as for 
+				<crossref let="y" cid="c20002004.2">
+				</crossref>
+				hidden treasures,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				then 
+				<crossref let="z" cid="c20002005.1">
+				</crossref>
+				you will understand the fear of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and find the knowledge of God.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="a" cid="c20002006.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 gives wisdom;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from his mouth come knowledge and understanding;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				he stores up sound wisdom for the upright;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he is 
+				<crossref let="b" cid="c20002007.1">
+				</crossref>
+				a shield to those who 
+				<crossref let="c" cid="c20002007.2">
+				</crossref>
+				walk in integrity,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				guarding the paths of justice
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="d" cid="c20002008.1">
+				</crossref>
+				watching over the way of his 
+				<crossref let="e" cid="c20002008.2">
+				</crossref>
+				saints.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c20002009.1">
+				</crossref>
+				Then you will understand 
+				<crossref let="g" cid="c20002009.2">
+				</crossref>
+				righteousness and justice
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and equity, every good path;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				for wisdom will come into your heart,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and knowledge will be pleasant to your soul;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c20002011.1">
+				</crossref>
+				discretion will 
+				<crossref let="i" cid="c20002011.2">
+				</crossref>
+				watch over you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				understanding will guard you,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				delivering you from the way of evil,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from men of perverted speech,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				who forsake the paths of uprightness
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to 
+				<crossref let="j" cid="c20002013.1">
+				</crossref>
+				walk in the ways of darkness,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				who 
+				<crossref let="k" cid="c20002014.1">
+				</crossref>
+				rejoice in doing evil
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="l" cid="c20002014.2">
+				</crossref>
+				delight in the perverseness of evil,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				men whose 
+				<crossref let="m" cid="c20002015.1">
+				</crossref>
+				paths are crooked,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c20002015.2">
+				</crossref>
+				and who are 
+				<crossref let="o" cid="c20002015.3">
+				</crossref>
+				devious in their ways.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20002016">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				So 
+				<crossref let="p" cid="c20002016.1">
+				</crossref>
+				you will be delivered from the forbidden
+				<note nid="n20002016.1">
+				</note>
+				 woman,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from 
+				<crossref let="q" cid="c20002016.2">
+				</crossref>
+				the adulteress
+				<note nid="n20002016.2">
+				</note>
+				 with 
+				<crossref let="r" cid="c20002016.3">
+				</crossref>
+				her smooth words,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				who forsakes 
+				<crossref let="s" cid="c20002017.1">
+				</crossref>
+				the companion of her youth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and forgets 
+				<crossref let="t" cid="c20002017.2">
+				</crossref>
+				the covenant of her God;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c20002018.1">
+				</crossref>
+				for her house sinks down to death,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and her paths to the departed;
+				<note nid="n20002018.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				none who go to her come back,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor do they regain the paths of life.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20002020">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				So you will walk in the way of the good
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and keep to the paths of the righteous.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				For the upright 
+				<crossref let="v" cid="c20002021.1">
+				</crossref>
+				will inhabit the land,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and those with integrity will remain in it,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20002022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				but the wicked will be 
+				<crossref let="w" cid="c20002022.1">
+				</crossref>
+				cut off from the land,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the treacherous will be 
+				<crossref let="x" cid="c20002022.2">
+				</crossref>
+				rooted out of it.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

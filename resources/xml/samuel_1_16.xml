@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09016001">
+		</marker>
+		<chapter num="16">
+			<heading
+				>
+				David Anointed King
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Samuel, 
+				<crossref let="r" cid="c09016001.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How long will you grieve over Saul, since 
+				<crossref let="s" cid="c09016001.2">
+				</crossref>
+				I have rejected him from being king over Israel? 
+				<crossref let="t" cid="c09016001.3">
+				</crossref>
+				Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite, 
+				<crossref let="u" cid="c09016001.4">
+				</crossref>
+				for I have provided for myself a king among his sons.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016002">
+			</marker>
+			<verse num="2">
+				And Samuel said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How can I go? If Saul hears it, he will kill me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take a heifer with you and say, 
+				<crossref let="v" cid="c09016002.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I have come to sacrifice to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016003">
+			</marker>
+			<verse num="3">
+				And invite Jesse to the sacrifice, and I will show you what you shall do. 
+				<crossref let="w" cid="c09016003.1">
+				</crossref>
+				And you shall anoint for me him whom I declare to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016004">
+			</marker>
+			<verse num="4">
+				Samuel did what the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded and came to Bethlehem. The elders of the city 
+				<crossref let="x" cid="c09016004.1">
+				</crossref>
+				came to meet him trembling and said, 
+				<crossref let="y" cid="c09016004.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do you come peaceably?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016005">
+			</marker>
+			<verse num="5">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Peaceably; I have come to sacrifice to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. 
+				<crossref let="z" cid="c09016005.1">
+				</crossref>
+				Consecrate yourselves, and come with me to the sacrifice.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he consecrated Jesse and his sons and invited them to the sacrifice.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09016006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				When they came, he looked on 
+				<crossref let="a" cid="c09016006.1">
+				</crossref>
+				Eliab and thought, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Surely the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's anointed is before him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016007">
+			</marker>
+			<verse num="7">
+				But the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Samuel, 
+				<crossref let="b" cid="c09016007.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not look on his appearance or on the height of his stature, because I have rejected him. For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 sees not as man sees: man looks on the outward appearance, 
+				<crossref let="c" cid="c09016007.2">
+				</crossref>
+				but the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 looks on the heart.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016008">
+			</marker>
+			<verse num="8">
+				Then Jesse called 
+				<crossref let="d" cid="c09016008.1">
+				</crossref>
+				Abinadab and made him pass before Samuel. And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Neither has the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 chosen this one.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016009">
+			</marker>
+			<verse num="9">
+				Then Jesse made 
+				<crossref let="d" cid="c09016009.1">
+				</crossref>
+				Shammah pass by. And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Neither has the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 chosen this one.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016010">
+			</marker>
+			<verse num="10">
+				And Jesse made seven of his sons pass before Samuel. And Samuel said to Jesse, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has not chosen these.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016011">
+			</marker>
+			<verse num="11">
+				Then Samuel said to Jesse, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Are all your sons here?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he said, 
+				<crossref let="e" cid="c09016011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				There remains yet the youngest,
+				<note nid="n09016011.1">
+				</note>
+				 but behold, he is keeping the sheep.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Samuel said to Jesse, 
+				<crossref let="f" cid="c09016011.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Send and get him, for we will not sit down till he comes here.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016012">
+			</marker>
+			<verse num="12">
+				And he sent and brought him in. Now he was 
+				<crossref let="g" cid="c09016012.1">
+				</crossref>
+				ruddy and had beautiful eyes and was handsome. And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said, 
+				<crossref let="h" cid="c09016012.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Arise, anoint him, for this is he.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016013">
+			</marker>
+			<verse num="13">
+				Then Samuel took 
+				<crossref let="i" cid="c09016013.1">
+				</crossref>
+				the horn of oil 
+				<crossref let="j" cid="c09016013.2">
+				</crossref>
+				and anointed him in the midst of his brothers. 
+				<crossref let="k" cid="c09016013.3">
+				</crossref>
+				And the Spirit of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 rushed upon David from that day forward. And Samuel rose up and went to Ramah.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09016014">
+			</marker>
+			<heading
+				>
+				David in Saul's Service
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				<crossref let="l" cid="c09016014.1">
+				</crossref>
+				Now the Spirit of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 departed from Saul, 
+				<crossref let="m" cid="c09016014.2">
+				</crossref>
+				and a harmful spirit from the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 tormented him.
+			</verse>
+			<marker class="begin-verse" mid="v09016015">
+			</marker>
+			<verse num="15">
+				And Saul's servants said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold now, a harmful spirit from God is tormenting you.
+			</verse>
+			<marker class="begin-verse" mid="v09016016">
+			</marker>
+			<verse num="16">
+				Let our lord now command your servants 
+				<crossref let="n" cid="c09016016.1">
+				</crossref>
+				who are before you to seek out a man who is skillful in playing the lyre, and when the harmful spirit from God is upon you, he will 
+				<crossref let="o" cid="c09016016.2">
+				</crossref>
+				play it, and you will be well.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016017">
+			</marker>
+			<verse num="17">
+				So Saul said to his servants, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Provide for me a man who can play well and bring him to me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016018">
+			</marker>
+			<verse num="18">
+				One of the young men answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I have seen a son of Jesse the Bethlehemite, who is skillful in playing, 
+				<crossref let="p" cid="c09016018.1">
+				</crossref>
+				a man of valor, a man of war, prudent in speech, and a man of good presence, 
+				<crossref let="q" cid="c09016018.2">
+				</crossref>
+				and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is with him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016019">
+			</marker>
+			<verse num="19">
+				Therefore Saul sent messengers to Jesse and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Send me David your son, 
+				<crossref let="r" cid="c09016019.1">
+				</crossref>
+				who is with the sheep.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016020">
+			</marker>
+			<verse num="20">
+				<crossref let="s" cid="c09016020.1">
+				</crossref>
+				And Jesse took a donkey laden with bread and a skin of wine and a young goat and sent them by David his son to Saul.
+			</verse>
+			<marker class="begin-verse" mid="v09016021">
+			</marker>
+			<verse num="21">
+				And David came to Saul 
+				<crossref let="t" cid="c09016021.1">
+				</crossref>
+				and entered his service. And Saul loved him greatly, and he became his armor-bearer.
+			</verse>
+			<marker class="begin-verse" mid="v09016022">
+			</marker>
+			<verse num="22">
+				And Saul sent to Jesse, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let David remain in my service, for he has found favor in my sight.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09016023">
+			</marker>
+			<verse num="23">
+				And 
+				<crossref let="u" cid="c09016023.1">
+				</crossref>
+				whenever the harmful spirit from God was upon Saul, David took the lyre 
+				<crossref let="o" cid="c09016023.2">
+				</crossref>
+				and played it with his hand. So Saul was refreshed and was well, and the harmful spirit departed from him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

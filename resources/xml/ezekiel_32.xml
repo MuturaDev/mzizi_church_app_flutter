@@ -1,0 +1,779 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ezekiel" num="25">
+		<marker class="begin-verse" mid="v26032001">
+		</marker>
+		<chapter num="32">
+			<heading
+				>
+				A Lament over Pharaoh and Egypt
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="e" cid="c26032001.1">
+				</crossref>
+				In the twelfth year, in the twelfth month, on the first day of the month, the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me:
+			</verse>
+			<marker class="begin-verse" mid="v26032002">
+			</marker>
+			<verse num="2">
+				<crossref let="f" cid="c26032002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Son of man, 
+				<crossref let="g" cid="c26032002.2">
+				</crossref>
+				raise a lamentation over 
+				<crossref let="h" cid="c26032002.3">
+				</crossref>
+				Pharaoh king of Egypt and say to him:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You consider yourself 
+				<crossref let="i" cid="c26032002.4">
+				</crossref>
+				a lion of the nations,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but you are like 
+				<crossref let="j" cid="c26032002.5">
+				</crossref>
+				a dragon 
+				<crossref let="k" cid="c26032002.6">
+				</crossref>
+				in the seas;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c26032002.7">
+				</crossref>
+				you burst forth in your rivers,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				trouble the waters with your feet,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and foul their rivers.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26032003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				:
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c26032003.1">
+				</crossref>
+				I will throw my net over you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with a host of 
+				<crossref let="n" cid="c26032003.2">
+				</crossref>
+				many peoples,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="o" cid="c26032003.3">
+				</crossref>
+				they will haul you up in my dragnet.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26032004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				And 
+				<crossref let="p" cid="c26032004.1">
+				</crossref>
+				I will cast you on the ground;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on the open field I will fling you,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and will cause all the birds of the heavens to settle on you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and I will gorge the beasts of the whole earth with you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26032005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				I will strew your flesh 
+				<crossref let="q" cid="c26032005.1">
+				</crossref>
+				upon the mountains
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and fill the valleys with your carcass.
+				<note nid="n26032005.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26032006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				I will drench the land even to the mountains
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with your flowing blood,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the ravines will be full of you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26032007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c26032007.1">
+				</crossref>
+				When I blot you out, 
+				<crossref let="s" cid="c26032007.2">
+				</crossref>
+				I will cover the heavens
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and make their stars dark;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I will cover the sun with a cloud,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the moon shall not give its light.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26032008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				All the bright lights of heaven
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				will I make dark over you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="t" cid="c26032008.1">
+				</crossref>
+				put darkness on your land,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="declares">
+				</begin-line>
+				declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v26032009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				I will trouble the hearts of many peoples, when I bring your destruction among the nations, into the countries that you have not known.
+			</verse>
+			<marker class="begin-verse" mid="v26032010">
+			</marker>
+			<verse num="10">
+				<crossref let="u" cid="c26032010.1">
+				</crossref>
+				I will make many peoples appalled at you, and the hair of their kings shall bristle with horror because of you, when 
+				<crossref let="v" cid="c26032010.2">
+				</crossref>
+				I brandish my sword before them. 
+				<crossref let="w" cid="c26032010.3">
+				</crossref>
+				They shall tremble every moment, every one for his own life, on the day of your downfall.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26032011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				For thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				: 
+				<crossref let="x" cid="c26032011.1">
+				</crossref>
+				The sword of the king of Babylon shall come upon you.
+			</verse>
+			<marker class="begin-verse" mid="v26032012">
+			</marker>
+			<verse num="12">
+				I will cause 
+				<crossref let="y" cid="c26032012.1">
+				</crossref>
+				your multitude to fall by the swords of mighty ones, all of them 
+				<crossref let="z" cid="c26032012.2">
+				</crossref>
+				most ruthless of nations.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c26032012.3">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				They shall bring to ruin the pride of Egypt,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all its multitude
+				<note nid="n26032012.1">
+				</note>
+				 shall perish.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26032013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				I will destroy all its beasts
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from beside many waters;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c26032013.1">
+				</crossref>
+				and no foot of man shall trouble them anymore,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor shall the hoofs of beasts trouble them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26032014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				Then 
+				<crossref let="c" cid="c26032014.1">
+				</crossref>
+				I will make their waters clear,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and cause their rivers to run like oil,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="declares">
+				</begin-line>
+				declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26032015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				When I make the land of Egypt desolate,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and when the land 
+				<crossref let="d" cid="c26032015.1">
+				</crossref>
+				is desolate of all that fills it,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				when I strike down all who dwell in it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				then 
+				<crossref let="e" cid="c26032015.2">
+				</crossref>
+				they will know that I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v26032016">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="16">
+				<crossref let="f" cid="c26032016.1">
+				</crossref>
+				This is a lamentation that shall be chanted; the daughters of the nations shall chant it; over Egypt, and over 
+				<crossref let="g" cid="c26032016.2">
+				</crossref>
+				all her multitude, shall they chant it, declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26032017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				<crossref let="h" cid="c26032017.1">
+				</crossref>
+				In the twelfth year, in the twelfth month,
+				<note nid="n26032017.1">
+				</note>
+				 on the fifteenth day of the month, the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me:
+			</verse>
+			<marker class="begin-verse" mid="v26032018">
+			</marker>
+			<verse num="18">
+				<crossref let="i" cid="c26032018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Son of man, 
+				<crossref let="j" cid="c26032018.2">
+				</crossref>
+				wail over 
+				<crossref let="g" cid="c26032018.3">
+				</crossref>
+				the multitude of Egypt, and 
+				<crossref let="k" cid="c26032018.4">
+				</crossref>
+				send them down, her and the daughters of majestic nations, 
+				<crossref let="l" cid="c26032018.5">
+				</crossref>
+				to the world below, to those who have gone down to the pit:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26032019">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c26032019.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Whom do you surpass in beauty?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Go down and 
+				<crossref let="n" cid="c26032019.2">
+				</crossref>
+				be laid to rest with the uncircumcised.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v26032020">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="20">
+				They shall fall amid those 
+				<crossref let="o" cid="c26032020.1">
+				</crossref>
+				who are slain by the sword. Egypt
+				<note nid="n26032020.1">
+				</note>
+				 is delivered to the sword; drag her away, and 
+				<crossref let="p" cid="c26032020.2">
+				</crossref>
+				all her multitudes.
+			</verse>
+			<marker class="begin-verse" mid="v26032021">
+			</marker>
+			<verse num="21">
+				The mighty chiefs 
+				<crossref let="q" cid="c26032021.1">
+				</crossref>
+				shall speak of them, 
+				<crossref let="r" cid="c26032021.2">
+				</crossref>
+				with their helpers, out of the midst of Sheol: 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				They have come down, they lie still, 
+				<crossref let="s" cid="c26032021.3">
+				</crossref>
+				the uncircumcised, 
+				<crossref let="o" cid="c26032021.4">
+				</crossref>
+				slain by the sword.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26032022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				<crossref let="t" cid="c26032022.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Assyria is there, and all her company, 
+				<crossref let="u" cid="c26032022.2">
+				</crossref>
+				its graves all around it, all of them slain, fallen by the sword,
+			</verse>
+			<marker class="begin-verse" mid="v26032023">
+			</marker>
+			<verse num="23">
+				whose graves are set in 
+				<crossref let="v" cid="c26032023.1">
+				</crossref>
+				the uttermost parts of the pit; and her company is all around her grave, all of them slain, fallen by the sword, 
+				<crossref let="w" cid="c26032023.2">
+				</crossref>
+				who spread terror 
+				<crossref let="x" cid="c26032023.3">
+				</crossref>
+				in the land of the living.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26032024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				<crossref let="y" cid="c26032024.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Elam is 
+				<crossref let="z" cid="c26032024.2">
+				</crossref>
+				there, and all her multitude around her grave; all of them 
+				<crossref let="a" cid="c26032024.3">
+				</crossref>
+				slain, fallen by the sword, who went down uncircumcised into 
+				<crossref let="b" cid="c26032024.4">
+				</crossref>
+				the world below, who spread their terror in the land of the living; and 
+				<crossref let="c" cid="c26032024.5">
+				</crossref>
+				they bear their shame 
+				<crossref let="b" cid="c26032024.6">
+				</crossref>
+				with those who go down to the pit.
+			</verse>
+			<marker class="begin-verse" mid="v26032025">
+			</marker>
+			<verse num="25">
+				<crossref let="d" cid="c26032025.1">
+				</crossref>
+				They have made her a bed among the slain with all her multitude, 
+				<crossref let="e" cid="c26032025.2">
+				</crossref>
+				her graves all around it, all of them uncircumcised, slain by the sword; for terror of them was spread in the land of the living, and they bear their shame with those who go down to the pit; they are placed among the slain.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26032026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				<crossref let="f" cid="c26032026.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Meshech-Tubal is 
+				<crossref let="e" cid="c26032026.2">
+				</crossref>
+				there, and all her multitude, 
+				<crossref let="e" cid="c26032026.3">
+				</crossref>
+				her graves all around it, all of them uncircumcised, slain by the sword; for they spread their terror in the land of the living.
+			</verse>
+			<marker class="begin-verse" mid="v26032027">
+			</marker>
+			<verse num="27">
+				And 
+				<crossref let="g" cid="c26032027.1">
+				</crossref>
+				they do not lie with the mighty, the fallen from among the uncircumcised, who went down to Sheol with their weapons of war, whose swords were laid under their heads, and whose iniquities are upon their bones; for the terror of the mighty men was in the land of the living.
+			</verse>
+			<marker class="begin-verse" mid="v26032028">
+			</marker>
+			<verse num="28">
+				But as for you, you shall be broken 
+				<crossref let="h" cid="c26032028.1">
+				</crossref>
+				and lie among the uncircumcised, with those who are slain by the sword.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26032029">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				<crossref let="i" cid="c26032029.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Edom is 
+				<crossref let="j" cid="c26032029.2">
+				</crossref>
+				there, her kings and all her princes, who for all their might are laid with those who are killed by the sword; they lie with the uncircumcised, with those who go down to the pit.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26032030">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="30">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				The princes 
+				<crossref let="k" cid="c26032030.1">
+				</crossref>
+				of the north are there, all of them, and all the 
+				<crossref let="l" cid="c26032030.2">
+				</crossref>
+				Sidonians, who have gone down in shame with the slain, 
+				<crossref let="m" cid="c26032030.3">
+				</crossref>
+				for all the terror that they caused by their might; they lie uncircumcised with those who are slain by the sword, and 
+				<crossref let="n" cid="c26032030.4">
+				</crossref>
+				bear their shame with those who go down to the pit.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26032031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				When Pharaoh sees them, he 
+				<crossref let="o" cid="c26032031.1">
+				</crossref>
+				will be comforted for 
+				<crossref let="p" cid="c26032031.2">
+				</crossref>
+				all his multitude, Pharaoh and all his army, slain by the sword, declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v26032032">
+			</marker>
+			<verse num="32">
+				<crossref let="q" cid="c26032032.1">
+				</crossref>
+				For I spread terror 
+				<crossref let="r" cid="c26032032.2">
+				</crossref>
+				in the land of the living; and he shall be laid to rest among 
+				<crossref let="s" cid="c26032032.3">
+				</crossref>
+				the uncircumcised, with those who are slain by the sword, Pharaoh and all his multitude, declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

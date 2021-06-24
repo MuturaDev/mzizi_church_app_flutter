@@ -1,0 +1,632 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Proverbs" num="19">
+		<marker class="begin-verse" mid="v20031001">
+		</marker>
+		<chapter num="31">
+			<heading
+				>
+				The Words of King Lemuel
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The words of King Lemuel. An oracle that his mother taught him:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20031002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				What are you doing, my son?
+				<note nid="n20031002.1">
+				</note>
+				 What are you doing, 
+				<crossref let="f" cid="c20031002.1">
+				</crossref>
+				son of my womb?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				What are you doing, 
+				<crossref let="g" cid="c20031002.2">
+				</crossref>
+				son of my vows?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Do 
+				<crossref let="h" cid="c20031003.1">
+				</crossref>
+				not give your strength to women,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your ways to those 
+				<crossref let="i" cid="c20031003.2">
+				</crossref>
+				who destroy kings.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c20031004.1">
+				</crossref>
+				It is not for kings, O Lemuel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it is not for kings 
+				<crossref let="k" cid="c20031004.2">
+				</crossref>
+				to drink wine,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or for rulers to take 
+				<crossref let="l" cid="c20031004.3">
+				</crossref>
+				strong drink,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				lest they drink and forget what has been decreed
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="m" cid="c20031005.1">
+				</crossref>
+				pervert the rights of all the afflicted.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Give strong drink to the one who 
+				<crossref let="n" cid="c20031006.1">
+				</crossref>
+				is perishing,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and wine to 
+				<crossref let="o" cid="c20031006.2">
+				</crossref>
+				those in bitter distress;
+				<note nid="n20031006.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c20031007.1">
+				</crossref>
+				let them drink and forget their poverty
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and remember their misery no more.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c20031008.1">
+				</crossref>
+				Open your mouth for the mute,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for the rights of all who are destitute.
+				<note nid="n20031008.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Open your mouth, 
+				<crossref let="r" cid="c20031009.1">
+				</crossref>
+				judge righteously,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c20031009.2">
+				</crossref>
+				defend the rights of 
+				<crossref let="t" cid="c20031009.3">
+				</crossref>
+				the poor and needy.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v20031010">
+			</marker>
+			<heading
+				>
+				The Woman Who Fears the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<note nid="n20031010.1">
+				</note>
+				<crossref let="u" cid="c20031010.1">
+				</crossref>
+				An excellent wife who can find?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				She is far more precious than 
+				<crossref let="v" cid="c20031010.2">
+				</crossref>
+				jewels.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				The heart of her husband trusts in her,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he will have no lack of gain.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				She does him good, and not harm,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all the days of her life.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				She 
+				<crossref let="w" cid="c20031013.1">
+				</crossref>
+				seeks wool and flax,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and works with willing hands.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				She is like the ships of the merchant;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she brings her food from afar.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				She 
+				<crossref let="x" cid="c20031015.1">
+				</crossref>
+				rises while it is yet night
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="y" cid="c20031015.2">
+				</crossref>
+				provides food for her household
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and portions for her maidens.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				She considers a field and buys it;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with the fruit of her hands she plants a vineyard.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				She 
+				<crossref let="z" cid="c20031017.1">
+				</crossref>
+				dresses herself
+				<note nid="n20031017.1">
+				</note>
+				 with strength
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and makes her arms strong.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				She perceives that her merchandise is profitable.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Her lamp does not go out at night.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				She puts her hands to the distaff,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and her hands hold the spindle.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				She 
+				<crossref let="a" cid="c20031020.1">
+				</crossref>
+				opens her hand to 
+				<crossref let="b" cid="c20031020.2">
+				</crossref>
+				the poor
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and reaches out her hands to 
+				<crossref let="b" cid="c20031020.3">
+				</crossref>
+				the needy.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				She is not afraid of snow for her household,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for all her household are clothed in 
+				<crossref let="c" cid="c20031021.1">
+				</crossref>
+				scarlet.
+				<note nid="n20031021.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				She makes 
+				<crossref let="d" cid="c20031022.1">
+				</crossref>
+				bed coverings for herself;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				her clothing is 
+				<crossref let="e" cid="c20031022.2">
+				</crossref>
+				fine linen and 
+				<crossref let="f" cid="c20031022.3">
+				</crossref>
+				purple.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				Her husband is known in 
+				<crossref let="g" cid="c20031023.1">
+				</crossref>
+				the gates
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when he sits among the elders of the land.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				She makes 
+				<crossref let="h" cid="c20031024.1">
+				</crossref>
+				linen garments and sells them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she delivers sashes to the merchant.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c20031025.1">
+				</crossref>
+				Strength and dignity are her clothing,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and she laughs at the time to come.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				She opens her mouth with wisdom,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the teaching of kindness is on her tongue.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				She looks well to the ways of her household
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and does not eat the bread of idleness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				Her children rise up and call her blessed;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				her husband also, and he praises her:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Many 
+				<crossref let="j" cid="c20031029.1">
+				</crossref>
+				women have done 
+				<crossref let="k" cid="c20031029.2">
+				</crossref>
+				excellently,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but you surpass them all.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c20031030.1">
+				</crossref>
+				Charm is deceitful, and beauty is vain,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but a woman who fears the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is to be praised.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20031031">
+			</marker>
+			<verse num="31">
+				<begin-line
+					>
+				</begin-line>
+				Give her of the fruit of her hands,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and let her works praise her in the gates.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

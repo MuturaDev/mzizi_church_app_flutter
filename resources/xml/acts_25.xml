@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Acts" num="43">
+		<marker class="begin-verse" mid="v44025001">
+		</marker>
+		<chapter num="25">
+			<heading>
+				Paul Appeals to Caesar
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="1">
+				Now three days after Festus had arrived in 
+				<crossref let="i" cid="c44025001.1">
+				</crossref>
+				the province, he went up to Jerusalem from Caesarea.
+			</verse>
+			<marker class="begin-verse" mid="v44025002">
+			</marker>
+			<verse num="2">
+				And the chief priests and the principal men of the Jews 
+				<crossref let="j" cid="c44025002.1">
+				</crossref>
+				laid out their case against Paul, and they urged him,
+			</verse>
+			<marker class="begin-verse" mid="v44025003">
+			</marker>
+			<verse num="3">
+				asking as a favor against Paul
+				<note nid="n44025003.1">
+				</note>
+				 that he summon him to Jerusalemùbecause 
+				<crossref let="k" cid="c44025003.1">
+				</crossref>
+				they were planning an ambush to kill him on the way.
+			</verse>
+			<marker class="begin-verse" mid="v44025004">
+			</marker>
+			<verse num="4">
+				Festus replied that Paul was being kept at Caesarea and that he himself intended to go there shortly.
+			</verse>
+			<marker class="begin-verse" mid="v44025005">
+			</marker>
+			<verse num="5">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				So,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 said he, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				let the men of authority among you go down with me, and if there is anything wrong about the man, let them bring charges against him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44025006">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="6">
+				After he stayed among them not more than eight or ten days, he went down to Caesarea. And the next day he took his seat on 
+				<crossref let="l" cid="c44025006.1">
+				</crossref>
+				the tribunal and ordered Paul to be brought.
+			</verse>
+			<marker class="begin-verse" mid="v44025007">
+			</marker>
+			<verse num="7">
+				When he had arrived, the Jews who had come down from Jerusalem stood around him, bringing many and serious charges against him 
+				<crossref let="m" cid="c44025007.1">
+				</crossref>
+				that they could not prove.
+			</verse>
+			<marker class="begin-verse" mid="v44025008">
+			</marker>
+			<verse num="8">
+				Paul argued in his defense, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Neither 
+				<crossref let="n" cid="c44025008.1">
+				</crossref>
+				against 
+				<crossref let="o" cid="c44025008.2">
+				</crossref>
+				the law of the Jews, nor against the temple, nor 
+				<crossref let="p" cid="c44025008.3">
+				</crossref>
+				against Caesar have I committed any offense.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44025009">
+			</marker>
+			<verse num="9">
+				But Festus, 
+				<crossref let="q" cid="c44025009.1">
+				</crossref>
+				wishing to do the Jews a favor, said to Paul, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do you wish to go up to Jerusalem and there be tried on these charges before me?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44025010">
+			</marker>
+			<verse num="10">
+				But Paul said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am standing before Caesar's 
+				<crossref let="r" cid="c44025010.1">
+				</crossref>
+				tribunal, where I ought to be tried. To the Jews I have done no wrong, as you yourself know very well.
+			</verse>
+			<marker class="begin-verse" mid="v44025011">
+			</marker>
+			<verse num="11">
+				If then I am a wrongdoer and have committed anything for which I deserve to die, I do not seek to escape death. But if there is nothing to their charges against me, no one can give me up to them. 
+				<crossref let="s" cid="c44025011.1">
+				</crossref>
+				I appeal to Caesar.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44025012">
+			</marker>
+			<verse num="12">
+				Then Festus, when he had conferred with his council, answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				To Caesar you have appealed; to Caesar you shall go.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44025013">
+			</marker>
+			<heading>
+				Paul Before Agrippa and Bernice
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="13">
+				Now when some days had passed, Agrippa the king and Bernice arrived at Caesarea and greeted Festus.
+			</verse>
+			<marker class="begin-verse" mid="v44025014">
+			</marker>
+			<verse num="14">
+				And as they stayed there many days, Festus laid Paul's case before the king, saying, 
+				<crossref let="t" cid="c44025014.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				There is a man left prisoner by Felix,
+			</verse>
+			<marker class="begin-verse" mid="v44025015">
+			</marker>
+			<verse num="15">
+				and when I was at Jerusalem, the chief priests and the elders of the Jews laid out their case 
+				<crossref let="u" cid="c44025015.1">
+				</crossref>
+				against him, asking for a sentence of condemnation against him.
+			</verse>
+			<marker class="begin-verse" mid="v44025016">
+			</marker>
+			<verse num="16">
+				<crossref let="v" cid="c44025016.1">
+				</crossref>
+				I answered them that it was not the custom of the Romans to give up anyone 
+				<crossref let="w" cid="c44025016.2">
+				</crossref>
+				before the accused met the accusers face to face and had opportunity to make his defense concerning the charge laid against him.
+			</verse>
+			<marker class="begin-verse" mid="v44025017">
+			</marker>
+			<verse num="17">
+				<crossref let="x" cid="c44025017.1">
+				</crossref>
+				So when they came together here, I made no delay, but on the next day took my seat on 
+				<crossref let="y" cid="c44025017.2">
+				</crossref>
+				the tribunal and ordered the man to be brought.
+			</verse>
+			<marker class="begin-verse" mid="v44025018">
+			</marker>
+			<verse num="18">
+				When the accusers stood up, they brought no charge in his case of such evils as I supposed.
+			</verse>
+			<marker class="begin-verse" mid="v44025019">
+			</marker>
+			<verse num="19">
+				Rather they 
+				<crossref let="z" cid="c44025019.1">
+				</crossref>
+				had certain points of dispute with him about their own religion and about 
+				<crossref let="a" cid="c44025019.2">
+				</crossref>
+				a certain Jesus, who was dead, but whom Paul asserted to be alive.
+			</verse>
+			<marker class="begin-verse" mid="v44025020">
+			</marker>
+			<verse num="20">
+				Being at a loss how to investigate these questions, I 
+				<crossref let="b" cid="c44025020.1">
+				</crossref>
+				asked whether he wanted to go to Jerusalem and be tried there regarding them.
+			</verse>
+			<marker class="begin-verse" mid="v44025021">
+			</marker>
+			<verse num="21">
+				But 
+				<crossref let="c" cid="c44025021.1">
+				</crossref>
+				when Paul had appealed to be kept in custody for the decision of 
+				<crossref let="d" cid="c44025021.2">
+				</crossref>
+				the emperor, I ordered him to be held until I could send him to Caesar.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44025022">
+			</marker>
+			<verse num="22">
+				Then 
+				<crossref let="e" cid="c44025022.1">
+				</crossref>
+				Agrippa said to Festus, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I would like to hear the man myself.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tomorrow,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 said he, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				you will hear him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44025023">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="23">
+				So on the next day 
+				<crossref let="f" cid="c44025023.1">
+				</crossref>
+				Agrippa and Bernice came with great pomp, and they entered the audience hall with the military tribunes and the prominent men of the city. Then, at the command of Festus, Paul was brought in.
+			</verse>
+			<marker class="begin-verse" mid="v44025024">
+			</marker>
+			<verse num="24">
+				And Festus said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				King Agrippa and all who are present with us, you see this man about whom 
+				<crossref let="g" cid="c44025024.1">
+				</crossref>
+				the whole Jewish people petitioned me, both in Jerusalem and here, 
+				<crossref let="h" cid="c44025024.2">
+				</crossref>
+				shouting that he ought not to live any longer.
+			</verse>
+			<marker class="begin-verse" mid="v44025025">
+			</marker>
+			<verse num="25">
+				But I found that 
+				<crossref let="i" cid="c44025025.1">
+				</crossref>
+				he had done nothing deserving death. And 
+				<crossref let="j" cid="c44025025.2">
+				</crossref>
+				as he himself appealed to 
+				<crossref let="k" cid="c44025025.3">
+				</crossref>
+				the emperor, I decided to go ahead and send him.
+			</verse>
+			<marker class="begin-verse" mid="v44025026">
+			</marker>
+			<verse num="26">
+				But I have nothing definite to write to my lord about him. Therefore I have brought him before you all, and especially before you, King Agrippa, so that, after we have examined him, I may have something to write.
+			</verse>
+			<marker class="begin-verse" mid="v44025027">
+			</marker>
+			<verse num="27">
+				For it seems to me unreasonable, in sending a prisoner, not to indicate the charges against him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

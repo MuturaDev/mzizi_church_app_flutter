@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19133001">
+		</marker>
+		<chapter num="133">
+			<heading
+				>
+				When Brothers Dwell in Unity
+			</heading>
+			<subheading class="psalm-title">
+				A Song of 
+				<crossref let="m" cid="c19133001.1">
+				</crossref>
+				Ascents. Of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Behold, how good and pleasant it is
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when 
+				<crossref let="e" cid="c19133001.2">
+				</crossref>
+				brothers dwell in unity!
+				<note nid="n19133001.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19133002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				It is like the precious 
+				<crossref let="f" cid="c19133002.1">
+				</crossref>
+				oil on 
+				<crossref let="g" cid="c19133002.2">
+				</crossref>
+				the head,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				running down on the beard,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				on the beard of Aaron,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				running down on 
+				<crossref let="h" cid="c19133002.3">
+				</crossref>
+				the collar of his robes!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19133003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				It is like 
+				<crossref let="i" cid="c19133003.1">
+				</crossref>
+				the dew of 
+				<crossref let="j" cid="c19133003.2">
+				</crossref>
+				Hermon,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				which falls on 
+				<crossref let="k" cid="c19133003.3">
+				</crossref>
+				the mountains of Zion!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				For there the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="l" cid="c19133003.4">
+				</crossref>
+				has commanded the blessing,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				life forevermore.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

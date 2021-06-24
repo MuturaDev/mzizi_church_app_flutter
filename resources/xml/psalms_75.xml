@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19075001">
+		</marker>
+		<chapter num="75">
+			<heading
+				>
+				God Will Judge with Equity
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: according to 
+				<crossref let="l" cid="c19075001.1">
+				</crossref>
+				Do Not Destroy. 
+				<crossref let="m" cid="c19075001.2">
+				</crossref>
+				A Psalm of Asaph. A Song.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				We give thanks to you, O God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				we give thanks, for your name is 
+				<crossref let="n" cid="c19075001.3">
+				</crossref>
+				near.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				We
+				<note nid="n19075001.1">
+				</note>
+				 recount your wondrous deeds.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19075002">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				At 
+				<crossref let="o" cid="c19075002.1">
+				</crossref>
+				the set time that I appoint
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will judge 
+				<crossref let="p" cid="c19075002.2">
+				</crossref>
+				with equity.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19075003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				When the earth 
+				<crossref let="q" cid="c19075003.1">
+				</crossref>
+				totters, and all its inhabitants,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it is I who keep steady its 
+				<crossref let="r" cid="c19075003.2">
+				</crossref>
+				pillars. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19075004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				I say to the boastful, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Do not boast,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and to the wicked, 
+				<crossref let="s" cid="c19075004.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Do not lift up your horn;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19075005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				do not lift up your horn on high,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or speak with haughty neck.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19075006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				For not from the east or from the west
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and not from the wilderness comes 
+				<crossref let="t" cid="c19075006.1">
+				</crossref>
+				lifting up,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19075007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				but it is 
+				<crossref let="u" cid="c19075007.1">
+				</crossref>
+				God who executes judgment,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="v" cid="c19075007.2">
+				</crossref>
+				putting down one and lifting up another.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19075008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c19075008.1">
+				</crossref>
+				For in the hand of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 there is 
+				<crossref let="x" cid="c19075008.2">
+				</crossref>
+				a cup
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with foaming wine, 
+				<crossref let="y" cid="c19075008.3">
+				</crossref>
+				well mixed,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and he pours out from it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all the wicked of the earth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall 
+				<crossref let="z" cid="c19075008.4">
+				</crossref>
+				drain it down to the dregs.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19075009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				But I will declare it forever;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will sing praises to the God of Jacob.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19075010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19075010.1">
+				</crossref>
+				All the horns of the wicked I will cut off,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c19075010.2">
+				</crossref>
+				but the horns of the righteous shall be lifted up.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

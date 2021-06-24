@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19064001">
+		</marker>
+		<chapter num="64">
+			<heading
+				>
+				Hide Me from the Wicked
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Hear my voice, O God, in my 
+				<crossref let="m" cid="c19064001.1">
+				</crossref>
+				complaint;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				preserve my life from dread of the enemy.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19064002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Hide me from 
+				<crossref let="n" cid="c19064002.1">
+				</crossref>
+				the secret plots of the wicked,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from the throng of evildoers,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19064003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				who 
+				<crossref let="o" cid="c19064003.1">
+				</crossref>
+				whet their tongues like swords,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="p" cid="c19064003.2">
+				</crossref>
+				aim bitter words like arrows,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19064004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				shooting from 
+				<crossref let="q" cid="c19064004.1">
+				</crossref>
+				ambush at the blameless,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shooting at him suddenly and 
+				<crossref let="r" cid="c19064004.2">
+				</crossref>
+				without fear.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19064005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				They 
+				<crossref let="s" cid="c19064005.1">
+				</crossref>
+				hold fast to their evil purpose;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they talk of 
+				<crossref let="t" cid="c19064005.2">
+				</crossref>
+				laying snares secretly,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				thinking, 
+				<crossref let="u" cid="c19064005.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who can see them?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19064006">
+			</marker>
+			<verse num="6">
+				<begin-line class="indent">
+				</begin-line>
+				They search out injustice,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We have accomplished a diligent search.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				For 
+				<crossref let="v" cid="c19064006.1">
+				</crossref>
+				the inward mind and heart of a man are deep!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19064007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c19064007.1">
+				</crossref>
+				But God shoots his arrow at them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they are wounded suddenly.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19064008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				They are brought to ruin, with their own 
+				<crossref let="x" cid="c19064008.1">
+				</crossref>
+				tongues turned against them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all who 
+				<crossref let="y" cid="c19064008.2">
+				</crossref>
+				see them will 
+				<crossref let="z" cid="c19064008.3">
+				</crossref>
+				wag their heads.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19064009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Then all mankind 
+				<crossref let="y" cid="c19064009.1">
+				</crossref>
+				fears;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they 
+				<crossref let="a" cid="c19064009.2">
+				</crossref>
+				tell what God has brought about
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and ponder what he has done.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19064010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Let 
+				<crossref let="b" cid="c19064010.1">
+				</crossref>
+				the righteous one rejoice in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="c" cid="c19064010.2">
+				</crossref>
+				take refuge in him!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Let all 
+				<crossref let="d" cid="c19064010.3">
+				</crossref>
+				the upright in heart exult!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

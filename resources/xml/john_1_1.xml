@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 John" num="62">
+		<marker class="begin-verse" mid="v62001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				The Word of Life
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="a" cid="c62001001.1">
+				</crossref>
+				That which was 
+				<crossref let="b" cid="c62001001.2">
+				</crossref>
+				from the beginning, 
+				<crossref let="c" cid="c62001001.3">
+				</crossref>
+				which we have heard, 
+				<crossref let="d" cid="c62001001.4">
+				</crossref>
+				which we have seen with our eyes, 
+				<crossref let="e" cid="c62001001.5">
+				</crossref>
+				which we looked upon and 
+				<crossref let="f" cid="c62001001.6">
+				</crossref>
+				have touched with our hands, concerning the word of lifeù
+			</verse>
+			<marker class="begin-verse" mid="v62001002">
+			</marker>
+			<verse num="2">
+				<crossref let="g" cid="c62001002.1">
+				</crossref>
+				the life 
+				<crossref let="h" cid="c62001002.2">
+				</crossref>
+				was made manifest, and we have seen it, and 
+				<crossref let="i" cid="c62001002.3">
+				</crossref>
+				testify to it and proclaim to you the eternal life, 
+				<crossref let="a" cid="c62001002.4">
+				</crossref>
+				which was with the Father and 
+				<crossref let="h" cid="c62001002.5">
+				</crossref>
+				was made manifest to usù
+			</verse>
+			<marker class="begin-verse" mid="v62001003">
+			</marker>
+			<verse num="3">
+				<crossref let="c" cid="c62001003.1">
+				</crossref>
+				that which we have seen and heard we proclaim also to you, so that you too may have fellowship with us; and indeed 
+				<crossref let="j" cid="c62001003.2">
+				</crossref>
+				our fellowship is with the Father and with his Son Jesus Christ.
+			</verse>
+			<marker class="begin-verse" mid="v62001004">
+			</marker>
+			<verse num="4">
+				And we are writing these things so 
+				<crossref let="k" cid="c62001004.1">
+				</crossref>
+				that our
+				<note nid="n62001004.1">
+				</note>
+				 joy may be complete.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v62001005">
+			</marker>
+			<heading
+				>
+				Walking in the Light
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				<crossref let="l" cid="c62001005.1">
+				</crossref>
+				This is the message we have heard from him and proclaim to you, that 
+				<crossref let="m" cid="c62001005.2">
+				</crossref>
+				God is light, and in him is no darkness at all.
+			</verse>
+			<marker class="begin-verse" mid="v62001006">
+			</marker>
+			<verse num="6">
+				<crossref let="n" cid="c62001006.1">
+				</crossref>
+				If we say we have fellowship with him while we walk in darkness, we lie and 
+				<crossref let="o" cid="c62001006.2">
+				</crossref>
+				do not practice the truth.
+			</verse>
+			<marker class="begin-verse" mid="v62001007">
+			</marker>
+			<verse num="7">
+				But 
+				<crossref let="p" cid="c62001007.1">
+				</crossref>
+				if we walk in the light, 
+				<crossref let="q" cid="c62001007.2">
+				</crossref>
+				as he is in the light, we have fellowship with one another, and 
+				<crossref let="r" cid="c62001007.3">
+				</crossref>
+				the blood of Jesus his Son cleanses us from all sin.
+			</verse>
+			<marker class="begin-verse" mid="v62001008">
+			</marker>
+			<verse num="8">
+				<crossref let="s" cid="c62001008.1">
+				</crossref>
+				If we say we have no sin, we deceive ourselves, and 
+				<crossref let="t" cid="c62001008.2">
+				</crossref>
+				the truth is not in us.
+			</verse>
+			<marker class="begin-verse" mid="v62001009">
+			</marker>
+			<verse num="9">
+				<crossref let="u" cid="c62001009.1">
+				</crossref>
+				If we confess our sins, he is 
+				<crossref let="v" cid="c62001009.2">
+				</crossref>
+				faithful and just to forgive us our sins and 
+				<crossref let="r" cid="c62001009.3">
+				</crossref>
+				to cleanse us from all unrighteousness.
+			</verse>
+			<marker class="begin-verse" mid="v62001010">
+			</marker>
+			<verse num="10">
+				If we say we have not sinned, 
+				<crossref let="w" cid="c62001010.1">
+				</crossref>
+				we make him a liar, and 
+				<crossref let="x" cid="c62001010.2">
+				</crossref>
+				his word is not in us.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

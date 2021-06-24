@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system/flavour_config.dart';
 
 class GNav extends StatefulWidget {
   GNav({
@@ -59,13 +61,13 @@ class _GNavState extends State<GNav> {
         color: widget.backgroundColor ?? Colors.transparent,
         // padding: EdgeInsets.all(12),
         // alignment: Alignment.center,
-        height: 58,
+        height: 60,
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.start,
           children: <Widget>[
-           // Scrollbar(
-             Container(
+            // Scrollbar(
+            Container(
               child: SingleChildScrollView(
                 physics: ClampingScrollPhysics(),
                 scrollDirection: Axis.horizontal,
@@ -115,11 +117,40 @@ class _GNavState extends State<GNav> {
               ),
             ),
             //TODO: POWERED BY MZIZI COPYRIGHT
-            Text(
-              //"!Scrollable menu",
-              '',
-              style: TextStyle(color: Colors.black, fontSize: 12),
-            )
+
+            RichText(
+              textAlign: TextAlign.center,
+              text: TextSpan(
+                  text: FlavourConfig.isBwmc()
+                      ? 'The Bible '
+                      : FlavourConfig.isDcik()
+                          ? 'Deliverance Church '
+                          : FlavourConfig.isJcc()
+                              ? 'Jubilee Christian '
+                              : FlavourConfig.isMzizicms() ? 'Mzizi' : 'Mzizi',
+                  style: GoogleFonts.portLligatSans(
+                    textStyle: Theme.of(context).textTheme.display1,
+                    fontSize: 14.5,
+                    fontWeight: FontWeight.w700,
+                    color: Color(0xFF487890),
+                  ),
+                  children: [
+                    TextSpan(
+                      text: FlavourConfig.isBwmc()
+                          ? ' Way Ministries'
+                          : FlavourConfig.isDcik()
+                              ? ' International Kasarani'
+                              : FlavourConfig.isJcc()
+                                  ? ' Church'
+                                  : FlavourConfig.isMzizicms() ? 'CMS' : 'CMS',
+                      style: TextStyle(color: Colors.black, fontSize: 14.5),
+                    ),
+                    TextSpan(
+                      text: '',
+                      style: TextStyle(color: Color(0xFF487890), fontSize: 14.5),
+                    ),
+                  ]),
+            ),
           ],
         ));
   }

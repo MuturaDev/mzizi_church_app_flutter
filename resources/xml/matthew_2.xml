@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				The Visit of the Wise Men
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now 
+				<crossref let="h" cid="c40002001.1">
+				</crossref>
+				after Jesus was born in 
+				<crossref let="i" cid="c40002001.2">
+				</crossref>
+				Bethlehem of Judea 
+				<crossref let="j" cid="c40002001.3">
+				</crossref>
+				in the days of Herod the king, behold, wise men
+				<note nid="n40002001.1">
+				</note>
+				 from 
+				<crossref let="k" cid="c40002001.4">
+				</crossref>
+				the east came to Jerusalem,
+			</verse>
+			<marker class="begin-verse" mid="v40002002">
+			</marker>
+			<verse num="2">
+				saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where is he who has been born 
+				<crossref let="l" cid="c40002002.1">
+				</crossref>
+				king of the Jews? For we saw 
+				<crossref let="m" cid="c40002002.2">
+				</crossref>
+				his star when it rose
+				<note nid="n40002002.1">
+				</note>
+				 and have come to 
+				<crossref let="n" cid="c40002002.3">
+				</crossref>
+				worship him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40002003">
+			</marker>
+			<verse num="3">
+				When Herod the king heard this, he was troubled, and all Jerusalem with him;
+			</verse>
+			<marker class="begin-verse" mid="v40002004">
+			</marker>
+			<verse num="4">
+				and assembling all the chief priests and scribes of the people, he inquired of them where 
+				<crossref let="o" cid="c40002004.1">
+				</crossref>
+				the Christ was to be born.
+			</verse>
+			<marker class="begin-verse" mid="v40002005">
+			</marker>
+			<verse num="5">
+				They told him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				In Bethlehem of Judea, for so it is written by the prophet:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40002006">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c40002006.1">
+				</crossref>
+				<crossref cid="t40002006.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				And you, O Bethlehem, in the land of Judah,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				are by no means least among the rulers of Judah;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for from you shall come a ruler
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who will 
+				<crossref let="q" cid="c40002006.2">
+				</crossref>
+				shepherd my people Israel.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v40002007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				Then Herod summoned the wise men secretly and ascertained from them what time the star had appeared.
+			</verse>
+			<marker class="begin-verse" mid="v40002008">
+			</marker>
+			<verse num="8">
+				And he sent them to Bethlehem, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go and search diligently for the child, and when you have found him, bring me word, that I too may come and worship him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40002009">
+			</marker>
+			<verse num="9">
+				After listening to the king, they went on their way. And behold, the star that they had seen when it rose went before them until it came to rest over the place where the child was.
+			</verse>
+			<marker class="begin-verse" mid="v40002010">
+			</marker>
+			<verse num="10">
+				When they saw the star, they rejoiced exceedingly with great joy.
+			</verse>
+			<marker class="begin-verse" mid="v40002011">
+			</marker>
+			<verse num="11">
+				And going into the house they saw the child with Mary his mother, and they fell down and worshiped him. Then, opening their treasures, 
+				<crossref let="r" cid="c40002011.1">
+				</crossref>
+				they offered him gifts, 
+				<crossref let="s" cid="c40002011.2">
+				</crossref>
+				gold and 
+				<crossref let="t" cid="c40002011.3">
+				</crossref>
+				frankincense and 
+				<crossref let="u" cid="c40002011.4">
+				</crossref>
+				myrrh.
+			</verse>
+			<marker class="begin-verse" mid="v40002012">
+			</marker>
+			<verse num="12">
+				And 
+				<crossref let="v" cid="c40002012.1">
+				</crossref>
+				being warned 
+				<crossref let="w" cid="c40002012.2">
+				</crossref>
+				in a dream not to return to Herod, they departed to their own country by another way.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40002013">
+			</marker>
+			<heading
+				>
+				The Flight to Egypt
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				Now when they had departed, behold, 
+				<crossref let="x" cid="c40002013.1">
+				</crossref>
+				an angel of the Lord appeared to Joseph in a dream and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Rise, take the child and his mother, and flee to Egypt, and remain there until I tell you, for Herod is about to search for the child, to destroy him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40002014">
+			</marker>
+			<verse num="14">
+				And he rose and took the child and his mother by night and departed to Egypt
+			</verse>
+			<marker class="begin-verse" mid="v40002015">
+			</marker>
+			<verse num="15">
+				and remained there until the death of Herod. 
+				<crossref let="y" cid="c40002015.1">
+				</crossref>
+				This was to fulfill what the Lord had spoken by the prophet, 
+				<crossref let="z" cid="c40002015.2">
+				</crossref>
+				<crossref cid="t40002015.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Out of Egypt I called my son.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40002016">
+			</marker>
+			<heading
+				>
+				Herod Kills the Children
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				Then Herod, when he saw that he had been tricked by the wise men, became furious, and he sent and killed all the male children in Bethlehem and in all that region who were two years old or under, according to the time that he had ascertained from the wise men.
+			</verse>
+			<marker class="begin-verse" mid="v40002017">
+			</marker>
+			<verse num="17">
+				<crossref let="a" cid="c40002017.1">
+				</crossref>
+				Then was fulfilled what was spoken by the prophet Jeremiah:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40002018">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c40002018.1">
+				</crossref>
+				<crossref cid="t40002018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				A voice was heard in Ramah,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				weeping and loud lamentation,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Rachel weeping for her children;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she refused to be comforted, because they 
+				<crossref let="c" cid="c40002018.2">
+				</crossref>
+				are no more.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v40002019">
+			</marker>
+			<heading
+				>
+				The Return to Nazareth
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				But when Herod died, behold, an angel of the Lord appeared in a dream to Joseph in Egypt,
+			</verse>
+			<marker class="begin-verse" mid="v40002020">
+			</marker>
+			<verse num="20">
+				saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Rise, take the child and his mother and go to the land of Israel, for 
+				<crossref let="d" cid="c40002020.1">
+				</crossref>
+				those who sought the child's life are dead.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40002021">
+			</marker>
+			<verse num="21">
+				And he rose and took the child and his mother and went to the land of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v40002022">
+			</marker>
+			<verse num="22">
+				But when he heard that Archelaus was reigning over Judea in place of his father Herod, he was afraid to go there, and 
+				<crossref let="e" cid="c40002022.1">
+				</crossref>
+				being warned in a dream he withdrew to the district of Galilee.
+			</verse>
+			<marker class="begin-verse" mid="v40002023">
+			</marker>
+			<verse num="23">
+				And he went and lived in a city called 
+				<crossref let="f" cid="c40002023.1">
+				</crossref>
+				Nazareth, 
+				<crossref let="g" cid="c40002023.2">
+				</crossref>
+				that what was spoken by the prophets might be fulfilled: 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He shall be called a Nazarene.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19128001">
+		</marker>
+		<chapter num="128">
+			<heading
+				>
+				Blessed Is Everyone Who Fears the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<subheading class="psalm-title">
+				A Song of 
+				<crossref let="m" cid="c19128001.1">
+				</crossref>
+				Ascents.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c19128001.2">
+				</crossref>
+				Blessed is everyone who fears the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="g" cid="c19128001.3">
+				</crossref>
+				walks in his ways!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19128002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				You 
+				<crossref let="h" cid="c19128002.1">
+				</crossref>
+				shall eat the fruit of the labor of your hands;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you shall be blessed, and it shall be well with you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19128003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Your wife will be like 
+				<crossref let="i" cid="c19128003.1">
+				</crossref>
+				a fruitful vine
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				within your house;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				your children will be like 
+				<crossref let="j" cid="c19128003.2">
+				</crossref>
+				olive shoots
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				around your table.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19128004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Behold, thus shall the man be blessed
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who fears the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19128005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c19128005.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 bless you 
+				<crossref let="l" cid="c19128005.2">
+				</crossref>
+				from Zion!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				May you see 
+				<crossref let="m" cid="c19128005.3">
+				</crossref>
+				the prosperity of Jerusalem
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all the days of your life!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19128006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				May you see your 
+				<crossref let="n" cid="c19128006.1">
+				</crossref>
+				children's children!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19128006.2">
+				</crossref>
+				Peace be upon Israel!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

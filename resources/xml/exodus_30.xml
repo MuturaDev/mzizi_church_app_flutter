@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02030001">
+		</marker>
+		<chapter num="30">
+			<heading
+				>
+				The Altar of Incense
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="j" cid="c02030001.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall make 
+				<crossref let="k" cid="c02030001.2">
+				</crossref>
+				an altar on which to burn incense; you shall make it of acacia wood.
+			</verse>
+			<marker class="begin-verse" mid="v02030002">
+			</marker>
+			<verse num="2">
+				A cubit
+				<note nid="n02030002.1">
+				</note>
+				 shall be its length, and a cubit its breadth. It shall be square, and two cubits shall be its height. 
+				<crossref let="l" cid="c02030002.1">
+				</crossref>
+				Its horns shall be of one piece with it.
+			</verse>
+			<marker class="begin-verse" mid="v02030003">
+			</marker>
+			<verse num="3">
+				You shall 
+				<crossref let="m" cid="c02030003.1">
+				</crossref>
+				overlay it with pure gold, its top and around its sides and its horns. And you shall make a molding of gold around it.
+			</verse>
+			<marker class="begin-verse" mid="v02030004">
+			</marker>
+			<verse num="4">
+				And you shall make two golden rings for it. Under its molding on two opposite sides of it you shall make them, and they shall be 
+				<crossref let="n" cid="c02030004.1">
+				</crossref>
+				holders for poles with which to carry it.
+			</verse>
+			<marker class="begin-verse" mid="v02030005">
+			</marker>
+			<verse num="5">
+				You shall make the poles of acacia wood and overlay them with gold.
+			</verse>
+			<marker class="begin-verse" mid="v02030006">
+			</marker>
+			<verse num="6">
+				And you shall put it in front of the veil that is above the ark of the testimony, in front of the 
+				<crossref let="o" cid="c02030006.1">
+				</crossref>
+				mercy seat that is above the testimony, where I will meet with you.
+			</verse>
+			<marker class="begin-verse" mid="v02030007">
+			</marker>
+			<verse num="7">
+				And Aaron shall 
+				<crossref let="p" cid="c02030007.1">
+				</crossref>
+				burn fragrant incense on it. Every morning when he 
+				<crossref let="q" cid="c02030007.2">
+				</crossref>
+				dresses the lamps he shall burn it,
+			</verse>
+			<marker class="begin-verse" mid="v02030008">
+			</marker>
+			<verse num="8">
+				and when Aaron sets up the lamps at twilight, he shall burn it, a regular incense offering before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 throughout your generations.
+			</verse>
+			<marker class="begin-verse" mid="v02030009">
+			</marker>
+			<verse num="9">
+				You shall not offer 
+				<crossref let="r" cid="c02030009.1">
+				</crossref>
+				unauthorized incense on it, or a burnt offering, or a grain offering, and you shall not pour a drink offering on it.
+			</verse>
+			<marker class="begin-verse" mid="v02030010">
+			</marker>
+			<verse num="10">
+				<crossref let="s" cid="c02030010.1">
+				</crossref>
+				Aaron shall make atonement on its horns once a year. With the blood of the 
+				<crossref let="t" cid="c02030010.2">
+				</crossref>
+				sin offering of atonement he shall make atonement for it once in the year throughout your generations. It is most holy to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02030011">
+			</marker>
+			<heading
+				>
+				The Census Tax
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses,
+			</verse>
+			<marker class="begin-verse" mid="v02030012">
+			</marker>
+			<verse num="12">
+				<crossref let="u" cid="c02030012.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				When you take the census of the people of Israel, then each shall give 
+				<crossref let="v" cid="c02030012.2">
+				</crossref>
+				a ransom for his life to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 when you number them, that there be no plague among them when you number them.
+			</verse>
+			<marker class="begin-verse" mid="v02030013">
+			</marker>
+			<verse num="13">
+				Each one who is numbered in the census shall give this: half a shekel
+				<note nid="n02030013.1">
+				</note>
+				 according to the 
+				<crossref let="w" cid="c02030013.1">
+				</crossref>
+				shekel of the sanctuary (the 
+				<crossref let="x" cid="c02030013.2">
+				</crossref>
+				shekel is twenty gerahs),
+				<note nid="n02030013.2">
+				</note>
+				<crossref let="y" cid="c02030013.3">
+				</crossref>
+				half a shekel as an offering to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v02030014">
+			</marker>
+			<verse num="14">
+				Everyone who is numbered in the census, from twenty years old and upward, shall give the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's offering.
+			</verse>
+			<marker class="begin-verse" mid="v02030015">
+			</marker>
+			<verse num="15">
+				The rich shall not give more, and the poor shall not give less, than 
+				<crossref let="y" cid="c02030015.1">
+				</crossref>
+				the half shekel, when you give the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's offering to make atonement for your lives.
+			</verse>
+			<marker class="begin-verse" mid="v02030016">
+			</marker>
+			<verse num="16">
+				You shall take the atonement money from the people of Israel and shall 
+				<crossref let="z" cid="c02030016.1">
+				</crossref>
+				give it for the service of the tent of meeting, that it may bring the people of Israel to 
+				<crossref let="a" cid="c02030016.2">
+				</crossref>
+				remembrance before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, so as to make atonement for your lives.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02030017">
+			</marker>
+			<heading
+				>
+				The Bronze Basin
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses,
+			</verse>
+			<marker class="begin-verse" mid="v02030018">
+			</marker>
+			<verse num="18">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You shall also make a 
+				<crossref let="b" cid="c02030018.1">
+				</crossref>
+				basin of bronze, with its stand of bronze, for washing. 
+				<crossref let="b" cid="c02030018.2">
+				</crossref>
+				You shall put it between the tent of meeting and the altar, and you shall put water in it,
+			</verse>
+			<marker class="begin-verse" mid="v02030019">
+			</marker>
+			<verse num="19">
+				with which Aaron and his sons 
+				<crossref let="c" cid="c02030019.1">
+				</crossref>
+				shall wash their hands and their feet.
+			</verse>
+			<marker class="begin-verse" mid="v02030020">
+			</marker>
+			<verse num="20">
+				When they go into the tent of meeting, or when they come near the altar to minister, to burn a food offering
+				<note nid="n02030020.1">
+				</note>
+				 to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, they shall wash with water, so that they may not die.
+			</verse>
+			<marker class="begin-verse" mid="v02030021">
+			</marker>
+			<verse num="21">
+				They shall wash their hands and their feet, so that they may not die. It shall 
+				<crossref let="d" cid="c02030021.1">
+				</crossref>
+				be a statute forever to them, even to him and to his offspring throughout their generations.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02030022">
+			</marker>
+			<heading
+				>
+				The Anointing Oil and Incense
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses,
+			</verse>
+			<marker class="begin-verse" mid="v02030023">
+			</marker>
+			<verse num="23">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take the 
+				<crossref let="e" cid="c02030023.1">
+				</crossref>
+				finest spices: of liquid myrrh 500 shekels, and of sweet-smelling cinnamon half as much, that is, 250, and 250 of 
+				<crossref let="f" cid="c02030023.2">
+				</crossref>
+				aromatic cane,
+			</verse>
+			<marker class="begin-verse" mid="v02030024">
+			</marker>
+			<verse num="24">
+				and 500 of cassia, according to the shekel of the sanctuary, and a 
+				<crossref let="g" cid="c02030024.1">
+				</crossref>
+				hin
+				<note nid="n02030024.1">
+				</note>
+				 of olive oil.
+			</verse>
+			<marker class="begin-verse" mid="v02030025">
+			</marker>
+			<verse num="25">
+				And you shall make of these a sacred anointing oil blended as by the 
+				<crossref let="h" cid="c02030025.1">
+				</crossref>
+				perfumer; it shall be a 
+				<crossref let="i" cid="c02030025.2">
+				</crossref>
+				holy anointing oil.
+			</verse>
+			<marker class="begin-verse" mid="v02030026">
+			</marker>
+			<verse num="26">
+				<crossref let="j" cid="c02030026.1">
+				</crossref>
+				With it you shall anoint the tent of meeting and the ark of the testimony,
+			</verse>
+			<marker class="begin-verse" mid="v02030027">
+			</marker>
+			<verse num="27">
+				and the table and all its utensils, and the lampstand and its utensils, and the altar of incense,
+			</verse>
+			<marker class="begin-verse" mid="v02030028">
+			</marker>
+			<verse num="28">
+				and the altar of burnt offering with all its utensils and the 
+				<crossref let="k" cid="c02030028.1">
+				</crossref>
+				basin and its stand.
+			</verse>
+			<marker class="begin-verse" mid="v02030029">
+			</marker>
+			<verse num="29">
+				You shall consecrate them, that they may be most holy. 
+				<crossref let="l" cid="c02030029.1">
+				</crossref>
+				Whatever touches them will become holy.
+			</verse>
+			<marker class="begin-verse" mid="v02030030">
+			</marker>
+			<verse num="30">
+				<crossref let="m" cid="c02030030.1">
+				</crossref>
+				You shall anoint Aaron and his sons, and consecrate them, that they may serve me as priests.
+			</verse>
+			<marker class="begin-verse" mid="v02030031">
+			</marker>
+			<verse num="31">
+				And you shall say to the people of Israel, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				This shall be my holy anointing oil throughout your generations.
+			</verse>
+			<marker class="begin-verse" mid="v02030032">
+			</marker>
+			<verse num="32">
+				It shall not be poured on the body of an ordinary person, and you shall make no other like it in composition. 
+				<crossref let="n" cid="c02030032.1">
+				</crossref>
+				It is holy, and it shall be holy to you.
+			</verse>
+			<marker class="begin-verse" mid="v02030033">
+			</marker>
+			<verse num="33">
+				<crossref let="o" cid="c02030033.1">
+				</crossref>
+				Whoever compounds any like it or whoever puts any of it on an outsider shall be cut off from his people.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02030034">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="34">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<crossref let="p" cid="c02030034.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take sweet spices, stacte, and onycha, and galbanum, sweet spices with pure frankincense (of each shall there be an equal part),
+			</verse>
+			<marker class="begin-verse" mid="v02030035">
+			</marker>
+			<verse num="35">
+				and make an 
+				<crossref let="q" cid="c02030035.1">
+				</crossref>
+				incense blended as by the 
+				<crossref let="r" cid="c02030035.2">
+				</crossref>
+				perfumer, 
+				<crossref let="s" cid="c02030035.3">
+				</crossref>
+				seasoned with salt, pure and holy.
+			</verse>
+			<marker class="begin-verse" mid="v02030036">
+			</marker>
+			<verse num="36">
+				You shall beat some of it very small, and put part of it before the testimony in the tent of meeting 
+				<crossref let="t" cid="c02030036.1">
+				</crossref>
+				where I shall meet with you. 
+				<crossref let="u" cid="c02030036.2">
+				</crossref>
+				It shall be most holy for you.
+			</verse>
+			<marker class="begin-verse" mid="v02030037">
+			</marker>
+			<verse num="37">
+				And the incense that you shall make 
+				<crossref let="v" cid="c02030037.1">
+				</crossref>
+				according to its composition, you shall not make for yourselves. It shall be for you holy to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v02030038">
+			</marker>
+			<verse num="38">
+				<crossref let="w" cid="c02030038.1">
+				</crossref>
+				Whoever makes any like it to use as perfume shall be cut off from his people.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

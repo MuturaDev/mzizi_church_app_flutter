@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Samuel" num="9">
+		<marker class="begin-verse" mid="v10017001">
+		</marker>
+		<chapter num="17">
+			<heading
+				>
+				Hushai Saves David
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Moreover, Ahithophel said to Absalom, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let me choose twelve thousand men, and I will arise and pursue David tonight.
+			</verse>
+			<marker class="begin-verse" mid="v10017002">
+			</marker>
+			<verse num="2">
+				I will come upon him while he is 
+				<crossref let="q" cid="c10017002.1">
+				</crossref>
+				weary and discouraged and throw him into a panic, and all the people who are with him will flee. 
+				<crossref let="r" cid="c10017002.2">
+				</crossref>
+				I will strike down only the king,
+			</verse>
+			<marker class="begin-verse" mid="v10017003">
+			</marker>
+			<verse num="3">
+				and I will bring all the people back to you as a bride comes home to her husband. You seek the life of only one man,
+				<note nid="n10017003.1">
+				</note>
+				 and all the people will be at peace.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10017004">
+			</marker>
+			<verse num="4">
+				And the advice seemed right in the eyes of Absalom and all the elders of Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10017005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				Then Absalom said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Call 
+				<crossref let="s" cid="c10017005.1">
+				</crossref>
+				Hushai the Archite also, and let us hear what he has to say.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10017006">
+			</marker>
+			<verse num="6">
+				And when Hushai came to Absalom, Absalom said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus has Ahithophel spoken; shall we do as he says? If not, you speak.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10017007">
+			</marker>
+			<verse num="7">
+				Then Hushai said to Absalom, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This time the counsel that Ahithophel has given is not good.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10017008">
+			</marker>
+			<verse num="8">
+				Hushai said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You know that your father and his men are mighty men, and that they are enraged,
+				<note nid="n10017008.1">
+				</note>
+				<crossref let="t" cid="c10017008.1">
+				</crossref>
+				like a bear robbed of her cubs in the field. Besides, your father is expert in war; he will not spend the night with the people.
+			</verse>
+			<marker class="begin-verse" mid="v10017009">
+			</marker>
+			<verse num="9">
+				Behold, even now he has hidden himself in one of the pits or in some other place. And as soon as some of the people fall
+				<note nid="n10017009.1">
+				</note>
+				 at the first attack, whoever hears it will say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				There has been a slaughter among the people who follow Absalom.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10017010">
+			</marker>
+			<verse num="10">
+				Then even the valiant man, whose heart is like the heart of a lion, will utterly 
+				<crossref let="u" cid="c10017010.1">
+				</crossref>
+				melt with fear, for all Israel knows that your father is a mighty man, and that those who are with him are valiant men.
+			</verse>
+			<marker class="begin-verse" mid="v10017011">
+			</marker>
+			<verse num="11">
+				But my counsel is that all Israel be gathered to you, 
+				<crossref let="v" cid="c10017011.1">
+				</crossref>
+				from Dan to Beersheba, 
+				<crossref let="w" cid="c10017011.2">
+				</crossref>
+				as the sand by the sea for multitude, and that you go to battle in person.
+			</verse>
+			<marker class="begin-verse" mid="v10017012">
+			</marker>
+			<verse num="12">
+				So we shall come upon him in some place where he is to be found, and we shall light upon him as the dew falls on the ground, and of him and all the men with him not one will be left.
+			</verse>
+			<marker class="begin-verse" mid="v10017013">
+			</marker>
+			<verse num="13">
+				If he withdraws into a city, then all Israel will bring ropes to that city, and we shall drag it into the valley, until not even a pebble is to be found there.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10017014">
+			</marker>
+			<verse num="14">
+				And Absalom and all the men of Israel said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The counsel of Hushai the Archite is better than the counsel of Ahithophel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<crossref let="x" cid="c10017014.1">
+				</crossref>
+				For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had ordained
+				<note nid="n10017014.1">
+				</note>
+				 to defeat the good counsel of Ahithophel, so that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 might bring harm upon Absalom.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10017015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				<crossref let="y" cid="c10017015.1">
+				</crossref>
+				Then Hushai said to Zadok and Abiathar the priests, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus and so did Ahithophel counsel Absalom and the elders of Israel, and thus and so have I counseled.
+			</verse>
+			<marker class="begin-verse" mid="v10017016">
+			</marker>
+			<verse num="16">
+				Now therefore send quickly and tell David, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Do not stay tonight at 
+				<crossref let="z" cid="c10017016.1">
+				</crossref>
+				the fords of the wilderness, but by all means pass over, lest the king and all the people who are with him be 
+				<crossref let="a" cid="c10017016.2">
+				</crossref>
+				swallowed up.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10017017">
+			</marker>
+			<verse num="17">
+				Now 
+				<crossref let="b" cid="c10017017.1">
+				</crossref>
+				Jonathan and Ahimaaz were waiting at 
+				<crossref let="c" cid="c10017017.2">
+				</crossref>
+				En-rogel. A female servant was to go and tell them, and they were to go and tell King David, for they were not to be seen entering the city.
+			</verse>
+			<marker class="begin-verse" mid="v10017018">
+			</marker>
+			<verse num="18">
+				But a young man saw them and told Absalom. So both of them went away quickly and came to the house of a man at 
+				<crossref let="d" cid="c10017018.1">
+				</crossref>
+				Bahurim, who had a well in his courtyard. And they went down into it.
+			</verse>
+			<marker class="begin-verse" mid="v10017019">
+			</marker>
+			<verse num="19">
+				<crossref let="e" cid="c10017019.1">
+				</crossref>
+				And the woman took and spread a covering over the well's mouth and scattered grain on it, and nothing was known of it.
+			</verse>
+			<marker class="begin-verse" mid="v10017020">
+			</marker>
+			<verse num="20">
+				When Absalom's servants came to the woman at the house, they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where are Ahimaaz and Jonathan?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And the woman said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				They have gone over the brook
+				<note nid="n10017020.1">
+				</note>
+				 of water.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And when they had sought and could not find them, they returned to Jerusalem.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10017021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				After they had gone, the men came up out of the well, and went and told King David. They said to David, 
+				<crossref let="f" cid="c10017021.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Arise, and go quickly over the water, for thus and so has Ahithophel counseled against you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10017022">
+			</marker>
+			<verse num="22">
+				Then David arose, and all the people who were with him, and they crossed the Jordan. By daybreak not one was left who had not crossed the Jordan.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10017023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				When Ahithophel saw that his counsel was not followed, he saddled his donkey and went off home to 
+				<crossref let="g" cid="c10017023.1">
+				</crossref>
+				his own city. He 
+				<crossref let="h" cid="c10017023.2">
+				</crossref>
+				set his house in order and 
+				<crossref let="i" cid="c10017023.3">
+				</crossref>
+				hanged himself, and he died and was buried in the tomb of his father.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10017024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				Then David came to 
+				<crossref let="j" cid="c10017024.1">
+				</crossref>
+				Mahanaim. And Absalom crossed the Jordan with all the men of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v10017025">
+			</marker>
+			<verse num="25">
+				Now Absalom had set 
+				<crossref let="k" cid="c10017025.1">
+				</crossref>
+				Amasa over the army instead of Joab. Amasa was the son of a man named Ithra the Ishmaelite,
+				<note nid="n10017025.1">
+				</note>
+				 who had married Abigal the daughter of 
+				<crossref let="l" cid="c10017025.2">
+				</crossref>
+				Nahash, sister of Zeruiah, Joab's mother.
+			</verse>
+			<marker class="begin-verse" mid="v10017026">
+			</marker>
+			<verse num="26">
+				And Israel and Absalom encamped in the land of Gilead.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10017027">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				When David came to Mahanaim, 
+				<crossref let="m" cid="c10017027.1">
+				</crossref>
+				Shobi the son of Nahash from 
+				<crossref let="n" cid="c10017027.2">
+				</crossref>
+				Rabbah of the Ammonites, and 
+				<crossref let="o" cid="c10017027.3">
+				</crossref>
+				Machir the son of Ammiel from Lo-debar, and 
+				<crossref let="p" cid="c10017027.4">
+				</crossref>
+				Barzillai the Gileadite from Rogelim,
+			</verse>
+			<marker class="begin-verse" mid="v10017028">
+			</marker>
+			<verse num="28">
+				brought beds, basins, and earthen vessels, wheat, barley, flour, parched grain, beans and lentils,
+				<note nid="n10017028.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v10017029">
+			</marker>
+			<verse num="29">
+				honey and curds and sheep and cheese from the herd, for David and the people with him to eat, for they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The people are hungry and 
+				<crossref let="q" cid="c10017029.1">
+				</crossref>
+				weary and thirsty 
+				<crossref let="r" cid="c10017029.2">
+				</crossref>
+				in the wilderness.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

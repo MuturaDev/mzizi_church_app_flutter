@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Samuel" num="9">
+		<marker class="begin-verse" mid="v10010001">
+		</marker>
+		<chapter num="10">
+			<heading
+				>
+				David Defeats Ammon and Syria
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="s" cid="c10010001.1">
+				</crossref>
+				After this the king of the Ammonites died, and Hanun his son reigned in his place.
+			</verse>
+			<marker class="begin-verse" mid="v10010002">
+			</marker>
+			<verse num="2">
+				And David said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will deal loyally
+				<note nid="n10010002.1">
+				</note>
+				 with Hanun the son of 
+				<crossref let="t" cid="c10010002.1">
+				</crossref>
+				Nahash, as his father dealt loyally with me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So David sent by his servants to console him concerning his father. And David's servants came into the land of the Ammonites.
+			</verse>
+			<marker class="begin-verse" mid="v10010003">
+			</marker>
+			<verse num="3">
+				But the princes of the Ammonites said to Hanun their lord, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do you think, because David has sent comforters to you, that he is honoring your father? Has not David sent his servants to you to search the city and to spy it out and to overthrow it?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10010004">
+			</marker>
+			<verse num="4">
+				So Hanun took David's servants and shaved off half the beard of each and cut off their garments in the middle, 
+				<crossref let="u" cid="c10010004.1">
+				</crossref>
+				at their hips, and sent them away.
+			</verse>
+			<marker class="begin-verse" mid="v10010005">
+			</marker>
+			<verse num="5">
+				When it was told David, he sent to meet them, for the men were greatly ashamed. And the king said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Remain at Jericho until your beards have grown and then return.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10010006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				When the Ammonites saw that they had become a stench to David, the Ammonites sent and hired the Syrians of 
+				<crossref let="v" cid="c10010006.1">
+				</crossref>
+				Beth-rehob, and 
+				<crossref let="w" cid="c10010006.2">
+				</crossref>
+				the Syrians of Zobah, 20,000 foot soldiers, and the king of 
+				<crossref let="x" cid="c10010006.3">
+				</crossref>
+				Maacah with 1,000 men, and the men of 
+				<crossref let="y" cid="c10010006.4">
+				</crossref>
+				Tob, 12,000 men.
+			</verse>
+			<marker class="begin-verse" mid="v10010007">
+			</marker>
+			<verse num="7">
+				And when David heard of it, he sent Joab and all the host of 
+				<crossref let="z" cid="c10010007.1">
+				</crossref>
+				the mighty men.
+			</verse>
+			<marker class="begin-verse" mid="v10010008">
+			</marker>
+			<verse num="8">
+				And the Ammonites came out and drew up in battle array at the entrance of the gate, and 
+				<crossref let="w" cid="c10010008.1">
+				</crossref>
+				the Syrians of Zobah and of Rehob and 
+				<crossref let="y" cid="c10010008.2">
+				</crossref>
+				the men of Tob and Maacah were by themselves in the open country.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10010009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				When Joab saw that the battle was set against him both in front and in the rear, he chose some of the best men of Israel and arrayed them against the Syrians.
+			</verse>
+			<marker class="begin-verse" mid="v10010010">
+			</marker>
+			<verse num="10">
+				The rest of his men he put in the charge of Abishai his brother, and he arrayed them against the Ammonites.
+			</verse>
+			<marker class="begin-verse" mid="v10010011">
+			</marker>
+			<verse num="11">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If the Syrians are too strong for me, then you shall help me, but if the Ammonites are too strong for you, then I will come and help you.
+			</verse>
+			<marker class="begin-verse" mid="v10010012">
+			</marker>
+			<verse num="12">
+				<crossref let="a" cid="c10010012.1">
+				</crossref>
+				Be of good courage, and 
+				<crossref let="b" cid="c10010012.2">
+				</crossref>
+				let us be courageous for our people, and for the cities of our God, and 
+				<crossref let="c" cid="c10010012.3">
+				</crossref>
+				may the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 do what seems good to him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10010013">
+			</marker>
+			<verse num="13">
+				So Joab and the people who were with him drew near to battle against the Syrians, and they fled before him.
+			</verse>
+			<marker class="begin-verse" mid="v10010014">
+			</marker>
+			<verse num="14">
+				And when the Ammonites saw that the Syrians fled, they likewise fled before Abishai and entered the city. Then Joab returned from fighting against the Ammonites and came to Jerusalem.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10010015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				But when the Syrians saw that they had been defeated by Israel, they gathered themselves together.
+			</verse>
+			<marker class="begin-verse" mid="v10010016">
+			</marker>
+			<verse num="16">
+				And Hadadezer sent and brought out the Syrians who were beyond 
+				<crossref let="d" cid="c10010016.1">
+				</crossref>
+				the Euphrates.
+				<note nid="n10010016.1">
+				</note>
+				 They came to Helam, with 
+				<crossref let="e" cid="c10010016.2">
+				</crossref>
+				Shobach the commander of the army of Hadadezer at their head.
+			</verse>
+			<marker class="begin-verse" mid="v10010017">
+			</marker>
+			<verse num="17">
+				And when it was told David, he gathered all Israel together and crossed the Jordan and came to Helam. The Syrians arrayed themselves against David and fought with him.
+			</verse>
+			<marker class="begin-verse" mid="v10010018">
+			</marker>
+			<verse num="18">
+				And the Syrians fled before Israel, and David killed of the Syrians the men of 700 chariots, and 40,000 horsemen, and wounded 
+				<crossref let="f" cid="c10010018.1">
+				</crossref>
+				Shobach the commander of their army, so that he died there.
+			</verse>
+			<marker class="begin-verse" mid="v10010019">
+			</marker>
+			<verse num="19">
+				And when all the kings who were servants of Hadadezer saw that they had been defeated by Israel, they made peace with Israel 
+				<crossref let="g" cid="c10010019.1">
+				</crossref>
+				and became subject to them. So the Syrians were afraid to save the Ammonites anymore.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

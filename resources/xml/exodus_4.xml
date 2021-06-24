@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02004001">
+		</marker>
+		<chapter num="4">
+			<heading
+				>
+				Moses Given Powerful Signs
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then Moses answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				But behold, they will not believe me or listen to my voice, for they will say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 did not appear to you.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02004002">
+			</marker>
+			<verse num="2">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is that in your hand?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He said, 
+				<crossref let="i" cid="c02004002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				A staff.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02004003">
+			</marker>
+			<verse num="3">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Throw it on the ground.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So he threw it on the ground, and it became a serpent, and Moses ran from it.
+			</verse>
+			<marker class="begin-verse" mid="v02004004">
+			</marker>
+			<verse num="4">
+				But the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Put out your hand and catch it by the tail
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				ùso he put out his hand and caught it, and it became a staff in his handù
+			</verse>
+			<marker class="begin-verse" mid="v02004005">
+			</marker>
+			<verse num="5">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				that they may 
+				<crossref let="j" cid="c02004005.1">
+				</crossref>
+				believe that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="k" cid="c02004005.2">
+				</crossref>
+				the God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has appeared to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02004006">
+			</marker>
+			<verse num="6">
+				Again, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Put your hand inside your cloak.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n02004006.1">
+				</note>
+				 And he put his hand inside his cloak, and when he took it out, behold, his hand was 
+				<crossref let="l" cid="c02004006.1">
+				</crossref>
+				leprous
+				<note nid="n02004006.2">
+				</note>
+				 like snow.
+			</verse>
+			<marker class="begin-verse" mid="v02004007">
+			</marker>
+			<verse num="7">
+				Then God said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Put your hand back inside your cloak.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So he put his hand back inside his cloak, and when he took it out, behold, 
+				<crossref let="m" cid="c02004007.1">
+				</crossref>
+				it was restored like the rest of his flesh.
+			</verse>
+			<marker class="begin-verse" mid="v02004008">
+			</marker>
+			<verse num="8">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If they will not believe you,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 God said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				or listen to the first sign, they may believe the latter sign.
+			</verse>
+			<marker class="begin-verse" mid="v02004009">
+			</marker>
+			<verse num="9">
+				If they will not believe even these two signs or listen to your voice, you shall take some water from the Nile and pour it on the dry ground, and the water that you shall take from the Nile 
+				<crossref let="n" cid="c02004009.1">
+				</crossref>
+				will become blood on the dry ground.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02004010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				But Moses said to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Oh, my Lord, I am not eloquent, either in the past or since you have spoken to your servant, but 
+				<crossref let="o" cid="c02004010.1">
+				</crossref>
+				I am slow of speech and of tongue.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02004011">
+			</marker>
+			<verse num="11">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who has made man's mouth? Who makes him mute, or deaf, or seeing, or blind? Is it not I, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+			</verse>
+			<marker class="begin-verse" mid="v02004012">
+			</marker>
+			<verse num="12">
+				Now therefore go, and 
+				<crossref let="p" cid="c02004012.1">
+				</crossref>
+				I will be with your mouth and teach you what you shall speak.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02004013">
+			</marker>
+			<verse num="13">
+				But he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Oh, my Lord, please send someone else.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02004014">
+			</marker>
+			<verse num="14">
+				Then the anger of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 was kindled against Moses and he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is there not Aaron, your brother, the Levite? I know that he can speak well. Behold, 
+				<crossref let="q" cid="c02004014.1">
+				</crossref>
+				he is coming out to meet you, and when he sees you, he will be glad in his heart.
+			</verse>
+			<marker class="begin-verse" mid="v02004015">
+			</marker>
+			<verse num="15">
+				<crossref let="r" cid="c02004015.1">
+				</crossref>
+				You shall speak to him and 
+				<crossref let="s" cid="c02004015.2">
+				</crossref>
+				put the words in his mouth, and 
+				<crossref let="p" cid="c02004015.3">
+				</crossref>
+				I will be with your mouth and with his mouth and will teach you both what to do.
+			</verse>
+			<marker class="begin-verse" mid="v02004016">
+			</marker>
+			<verse num="16">
+				<crossref let="t" cid="c02004016.1">
+				</crossref>
+				He shall speak for you to the people, and he shall be your mouth, and 
+				<crossref let="u" cid="c02004016.2">
+				</crossref>
+				you shall be as God to him.
+			</verse>
+			<marker class="begin-verse" mid="v02004017">
+			</marker>
+			<verse num="17">
+				And take in your hand 
+				<crossref let="v" cid="c02004017.1">
+				</crossref>
+				this staff, with which you shall do the signs.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02004018">
+			</marker>
+			<heading
+				>
+				Moses Returns to Egypt
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				Moses went back to 
+				<crossref let="w" cid="c02004018.1">
+				</crossref>
+				Jethro his father-in-law and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please let me go back to my brothers in Egypt to see whether they are still alive.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Jethro said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go in peace.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02004019">
+			</marker>
+			<verse num="19">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses in Midian, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go back to Egypt, for 
+				<crossref let="x" cid="c02004019.1">
+				</crossref>
+				all the men who were seeking your life are dead.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02004020">
+			</marker>
+			<verse num="20">
+				So Moses took 
+				<crossref let="y" cid="c02004020.1">
+				</crossref>
+				his wife and his sons and had them ride on a donkey, and went back to the land of Egypt. And Moses took 
+				<crossref let="z" cid="c02004020.2">
+				</crossref>
+				the staff of God in his hand.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02004021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				When you go back to Egypt, see that you do before Pharaoh all the 
+				<crossref let="a" cid="c02004021.1">
+				</crossref>
+				miracles that I have put in your power. But 
+				<crossref let="b" cid="c02004021.2">
+				</crossref>
+				I will harden his heart, so that he will not let the people go.
+			</verse>
+			<marker class="begin-verse" mid="v02004022">
+			</marker>
+			<verse num="22">
+				Then you shall say to Pharaoh, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="c" cid="c02004022.1">
+				</crossref>
+				Israel is my 
+				<crossref let="d" cid="c02004022.2">
+				</crossref>
+				firstborn son,
+			</verse>
+			<marker class="begin-verse" mid="v02004023">
+			</marker>
+			<verse num="23">
+				and I say to you, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				Let my son go that he may serve me.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				 If you refuse to let him go, behold, I 
+				<crossref let="e" cid="c02004023.1">
+				</crossref>
+				will kill your firstborn son.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02004024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				At a lodging place on the way 
+				<crossref let="f" cid="c02004024.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 met him and 
+				<crossref let="g" cid="c02004024.2">
+				</crossref>
+				sought to put him to death.
+			</verse>
+			<marker class="begin-verse" mid="v02004025">
+			</marker>
+			<verse num="25">
+				Then 
+				<crossref let="h" cid="c02004025.1">
+				</crossref>
+				Zipporah took a 
+				<crossref let="i" cid="c02004025.2">
+				</crossref>
+				flint and cut off her son's foreskin and touched Moses'
+				<note nid="n02004025.1">
+				</note>
+				 feet with it and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Surely you are a bridegroom of blood to me!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02004026">
+			</marker>
+			<verse num="26">
+				So he let him alone. It was then that she said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				A bridegroom of blood,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 because of the circumcision.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02004027">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Aaron, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go into the wilderness 
+				<crossref let="j" cid="c02004027.1">
+				</crossref>
+				to meet Moses.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So he went and met him at the 
+				<crossref let="k" cid="c02004027.2">
+				</crossref>
+				mountain of God and kissed him.
+			</verse>
+			<marker class="begin-verse" mid="v02004028">
+			</marker>
+			<verse num="28">
+				And Moses 
+				<crossref let="l" cid="c02004028.1">
+				</crossref>
+				told Aaron all the words of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with which he had sent him to speak, and all 
+				<crossref let="m" cid="c02004028.2">
+				</crossref>
+				the signs that he had commanded him to do.
+			</verse>
+			<marker class="begin-verse" mid="v02004029">
+			</marker>
+			<verse num="29">
+				Then Moses and Aaron 
+				<crossref let="n" cid="c02004029.1">
+				</crossref>
+				went and gathered together all the elders of the people of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v02004030">
+			</marker>
+			<verse num="30">
+				<crossref let="o" cid="c02004030.1">
+				</crossref>
+				Aaron spoke all the words that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had spoken to Moses and did the signs in the sight of the people.
+			</verse>
+			<marker class="begin-verse" mid="v02004031">
+			</marker>
+			<verse num="31">
+				And the people 
+				<crossref let="p" cid="c02004031.1">
+				</crossref>
+				believed; and when they heard that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had 
+				<crossref let="q" cid="c02004031.2">
+				</crossref>
+				visited the people of Israel and that he had 
+				<crossref let="r" cid="c02004031.3">
+				</crossref>
+				seen their affliction, 
+				<crossref let="s" cid="c02004031.4">
+				</crossref>
+				they bowed their heads and worshiped.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

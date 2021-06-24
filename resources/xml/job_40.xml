@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18040001">
+		</marker>
+		<chapter num="40">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="x" cid="c18040001.1">
+				</crossref>
+				said to Job:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18040002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Shall a faultfinder 
+				<crossref let="y" cid="c18040002.1">
+				</crossref>
+				contend with the Almighty?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				He who argues with God, let him answer it.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v18040003">
+			</marker>
+			<heading
+				>
+				Job Promises Silence
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				Then Job answered the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18040004">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I am 
+				<crossref let="z" cid="c18040004.1">
+				</crossref>
+				of small account; what shall I answer you?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c18040004.2">
+				</crossref>
+				I lay my hand on my mouth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				I have spoken 
+				<crossref let="b" cid="c18040005.1">
+				</crossref>
+				once, and I will not answer;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c18040005.2">
+				</crossref>
+				twice, but I will proceed no further.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v18040006">
+			</marker>
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Challenges Job
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="c" cid="c18040006.1">
+				</crossref>
+				answered Job out of the whirlwind and said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18040007">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c18040007.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Dress for action
+				<note nid="n18040007.1">
+				</note>
+				 like a man;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c18040007.2">
+				</crossref>
+				I will question you, and you make it known to me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Will you even put me in the wrong?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Will you condemn me that 
+				<crossref let="f" cid="c18040008.1">
+				</crossref>
+				you may be in the right?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Have you 
+				<crossref let="g" cid="c18040009.1">
+				</crossref>
+				an arm like God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and can you thunder with 
+				<crossref let="h" cid="c18040009.2">
+				</crossref>
+				a voice like his?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18040010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Adorn yourself with majesty and dignity;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c18040010.1">
+				</crossref>
+				clothe yourself with glory and splendor.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Pour out the overflowings of your anger,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and look on everyone who is 
+				<crossref let="j" cid="c18040011.1">
+				</crossref>
+				proud and abase him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Look on everyone who is proud and bring him low
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="k" cid="c18040012.1">
+				</crossref>
+				tread down the wicked 
+				<crossref let="l" cid="c18040012.2">
+				</crossref>
+				where they stand.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c18040013.1">
+				</crossref>
+				Hide them all in 
+				<crossref let="n" cid="c18040013.2">
+				</crossref>
+				the dust together;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				bind their faces in the world below.
+				<note nid="n18040013.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				Then will I also acknowledge to you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that your own 
+				<crossref let="o" cid="c18040014.1">
+				</crossref>
+				right hand can save you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18040015">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Behold, Behemoth,
+				<note nid="n18040015.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				which I made as I made you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he eats 
+				<crossref let="p" cid="c18040015.1">
+				</crossref>
+				grass like an ox.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Behold, his strength in his loins,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his power in the muscles of his belly.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				He makes his tail stiff like a cedar;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the sinews of his thighs are knit together.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				His bones are tubes of bronze,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his limbs like bars of iron.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18040019">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				He is 
+				<crossref let="q" cid="c18040019.1">
+				</crossref>
+				the first of 
+				<crossref let="r" cid="c18040019.2">
+				</crossref>
+				the works
+				<note nid="n18040019.1">
+				</note>
+				 of God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let him who made him bring near his sword!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				For the mountains yield food for him
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				where all the wild beasts play.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				Under the lotus plants he lies,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the shelter of 
+				<crossref let="s" cid="c18040021.1">
+				</crossref>
+				the reeds and in the marsh.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				For his shade the lotus trees cover him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the willows of the brook surround him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				Behold, if the river is turbulent he is not frightened;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he is confident though Jordan rushes against his mouth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18040024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				Can one take him by his eyes,
+				<note nid="n18040024.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or pierce his nose with a snare?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19131001">
+		</marker>
+		<chapter num="131">
+			<heading
+				>
+				I Have Calmed and Quieted My Soul
+			</heading>
+			<subheading class="psalm-title">
+				A Song of 
+				<crossref let="m" cid="c19131001.1">
+				</crossref>
+				Ascents. Of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, my heart is not 
+				<crossref let="s" cid="c19131001.2">
+				</crossref>
+				lifted up;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my eyes are not 
+				<crossref let="t" cid="c19131001.3">
+				</crossref>
+				raised too high;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I do not 
+				<crossref let="u" cid="c19131001.4">
+				</crossref>
+				occupy myself with things
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				too great and 
+				<crossref let="v" cid="c19131001.5">
+				</crossref>
+				too marvelous for me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19131002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				But I have calmed and quieted my soul,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like a weaned 
+				<crossref let="w" cid="c19131002.1">
+				</crossref>
+				child with its mother;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like a weaned child is my soul within me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19131003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19131003.1">
+				</crossref>
+				O Israel, hope in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from this time forth and forevermore.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02033001">
+		</marker>
+		<chapter num="33">
+			<heading
+				>
+				The Command to Leave Sinai
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Depart; go up from here, you 
+				<crossref let="o" cid="c02033001.1">
+				</crossref>
+				and the people whom you have brought up out of the land of Egypt, to the land of which I swore to Abraham, Isaac, and Jacob, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				To 
+				<crossref let="p" cid="c02033001.2">
+				</crossref>
+				your offspring I will give it.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02033002">
+			</marker>
+			<verse num="2">
+				I will send an 
+				<crossref let="q" cid="c02033002.1">
+				</crossref>
+				angel before you, 
+				<crossref let="r" cid="c02033002.2">
+				</crossref>
+				and I will drive out the Canaanites, the Amorites, the Hittites, the Perizzites, the Hivites, and the Jebusites.
+			</verse>
+			<marker class="begin-verse" mid="v02033003">
+			</marker>
+			<verse num="3">
+				<crossref let="s" cid="c02033003.1">
+				</crossref>
+				Go up to a land flowing with milk and honey; 
+				<crossref let="t" cid="c02033003.2">
+				</crossref>
+				but I will not go up among you, 
+				<crossref let="u" cid="c02033003.3">
+				</crossref>
+				lest I consume you on the way, for you are a 
+				<crossref let="v" cid="c02033003.4">
+				</crossref>
+				stiff-necked people.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02033004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				When the people heard this disastrous word, they 
+				<crossref let="w" cid="c02033004.1">
+				</crossref>
+				mourned, and 
+				<crossref let="x" cid="c02033004.2">
+				</crossref>
+				no one put on his ornaments.
+			</verse>
+			<marker class="begin-verse" mid="v02033005">
+			</marker>
+			<verse num="5">
+				For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say to the people of Israel, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You are a 
+				<crossref let="v" cid="c02033005.1">
+				</crossref>
+				stiff-necked people; if for a single moment I should go up among you, I would 
+				<crossref let="y" cid="c02033005.2">
+				</crossref>
+				consume you. So now 
+				<crossref let="x" cid="c02033005.3">
+				</crossref>
+				take off your ornaments, that I may know what to do with you.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02033006">
+			</marker>
+			<verse num="6">
+				Therefore the people of Israel stripped themselves of their ornaments, from Mount Horeb onward.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02033007">
+			</marker>
+			<heading
+				>
+				The Tent of Meeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				Now Moses used to take the tent and pitch it outside the camp, far off from the camp, and 
+				<crossref let="z" cid="c02033007.1">
+				</crossref>
+				he called it the tent of meeting. And everyone who 
+				<crossref let="a" cid="c02033007.2">
+				</crossref>
+				sought the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 would go out to the tent of meeting, which was outside the camp.
+			</verse>
+			<marker class="begin-verse" mid="v02033008">
+			</marker>
+			<verse num="8">
+				Whenever Moses went out to the tent, all the people would rise up, and 
+				<crossref let="b" cid="c02033008.1">
+				</crossref>
+				each would stand at his tent door, and watch Moses until he had gone into the tent.
+			</verse>
+			<marker class="begin-verse" mid="v02033009">
+			</marker>
+			<verse num="9">
+				When Moses entered the tent, the 
+				<crossref let="c" cid="c02033009.1">
+				</crossref>
+				pillar of cloud would descend and stand at the entrance of the tent, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<note nid="n02033009.1">
+				</note>
+				 would speak with Moses.
+			</verse>
+			<marker class="begin-verse" mid="v02033010">
+			</marker>
+			<verse num="10">
+				And when all the people saw the pillar of cloud standing at the entrance of the tent, all the people would rise up and worship, each at his tent door.
+			</verse>
+			<marker class="begin-verse" mid="v02033011">
+			</marker>
+			<verse num="11">
+				Thus 
+				<crossref let="d" cid="c02033011.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 used to speak to Moses face to face, as a man speaks to his friend. When Moses turned again into the camp, his 
+				<crossref let="e" cid="c02033011.2">
+				</crossref>
+				assistant Joshua the son of Nun, a young man, would not depart from the tent.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02033012">
+			</marker>
+			<heading
+				>
+				Moses' Intercession
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				Moses said to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See, 
+				<crossref let="f" cid="c02033012.1">
+				</crossref>
+				you say to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Bring up this people,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 but you have not let me know whom you will send with me. Yet you have said, 
+				<crossref let="g" cid="c02033012.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I know you by name, and you have also found favor in my sight.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02033013">
+			</marker>
+			<verse num="13">
+				Now therefore, if I have found favor in your sight, please 
+				<crossref let="h" cid="c02033013.1">
+				</crossref>
+				show me now your ways, that I may know you in order to find favor in your sight. Consider too that this nation is 
+				<crossref let="i" cid="c02033013.2">
+				</crossref>
+				your people.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02033014">
+			</marker>
+			<verse num="14">
+				And he said, 
+				<crossref let="j" cid="c02033014.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My presence will go with you, and 
+				<crossref let="k" cid="c02033014.2">
+				</crossref>
+				I will give you rest.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02033015">
+			</marker>
+			<verse num="15">
+				And he said to him, 
+				<crossref let="l" cid="c02033015.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If your presence will not go with me, do not bring us up from here.
+			</verse>
+			<marker class="begin-verse" mid="v02033016">
+			</marker>
+			<verse num="16">
+				For how shall it be known that I have found favor in your sight, I and your people? 
+				<crossref let="m" cid="c02033016.1">
+				</crossref>
+				Is it not in your going with us, 
+				<crossref let="n" cid="c02033016.2">
+				</crossref>
+				so that we are distinct, I and your people, from every other people on the face of the earth?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02033017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This very thing that you have spoken I will do, 
+				<crossref let="o" cid="c02033017.1">
+				</crossref>
+				for you have found favor in my sight, and I know you by name.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02033018">
+			</marker>
+			<verse num="18">
+				Moses said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please 
+				<crossref let="p" cid="c02033018.1">
+				</crossref>
+				show me your glory.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02033019">
+			</marker>
+			<verse num="19">
+				And he said, 
+				<crossref let="q" cid="c02033019.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will make all my goodness pass before you and will proclaim before you my name 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 And 
+				<crossref let="r" cid="c02033019.2">
+				</crossref>
+				I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.
+			</verse>
+			<marker class="begin-verse" mid="v02033020">
+			</marker>
+			<verse num="20">
+				But,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				you cannot see my face, for 
+				<crossref let="s" cid="c02033020.1">
+				</crossref>
+				man shall not see me and live.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02033021">
+			</marker>
+			<verse num="21">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, there is a place by me where you shall stand on the rock,
+			</verse>
+			<marker class="begin-verse" mid="v02033022">
+			</marker>
+			<verse num="22">
+				and while my glory passes by I will put you in a 
+				<crossref let="t" cid="c02033022.1">
+				</crossref>
+				cleft of the rock, and I will 
+				<crossref let="u" cid="c02033022.2">
+				</crossref>
+				cover you with my hand until I have passed by.
+			</verse>
+			<marker class="begin-verse" mid="v02033023">
+			</marker>
+			<verse num="23">
+				Then I will take away my hand, and you shall see my back, but my face shall 
+				<crossref let="v" cid="c02033023.1">
+				</crossref>
+				not be seen.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

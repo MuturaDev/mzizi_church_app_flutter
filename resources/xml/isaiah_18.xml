@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23018001">
+		</marker>
+		<chapter num="18">
+			<heading
+				>
+				An Oracle Concerning Cush
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Ah, land of 
+				<crossref let="o" cid="c23018001.1">
+				</crossref>
+				whirring wings
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that is beyond the rivers of 
+				<crossref let="p" cid="c23018001.2">
+				</crossref>
+				Cush,
+				<note nid="n23018001.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23018002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				which 
+				<crossref let="q" cid="c23018002.1">
+				</crossref>
+				sends ambassadors by the sea,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in vessels of papyrus on the waters!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Go, you swift messengers,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to a nation, 
+				<crossref let="r" cid="c23018002.2">
+				</crossref>
+				tall and smooth,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				to a people feared near and far,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a nation 
+				<crossref let="s" cid="c23018002.3">
+				</crossref>
+				mighty and conquering,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				whose land the rivers divide.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23018003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				All you inhabitants of the world,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you who dwell on the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				when 
+				<crossref let="t" cid="c23018003.1">
+				</crossref>
+				a signal is raised on the mountains, look!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				When a trumpet is blown, hear!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23018004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				For thus the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to me:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will quietly look 
+				<crossref let="u" cid="c23018004.1">
+				</crossref>
+				from my dwelling
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like clear heat in sunshine,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like a cloud of dew in the heat of harvest.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23018005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c23018005.1">
+				</crossref>
+				For before the harvest, when the blossom is over,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the flower becomes a ripening grape,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				he cuts off the shoots with pruning hooks,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the spreading branches he lops off and clears away.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23018006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c23018006.1">
+				</crossref>
+				They shall all of them be left
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the birds of prey of the mountains
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and to the beasts of the earth.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				And the birds of prey will summer on them,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all the beasts of the earth will winter on them.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23018007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				<crossref let="w" cid="c23018007.1">
+				</crossref>
+				At that time tribute will be brought to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				from a people 
+				<crossref let="x" cid="c23018007.2">
+				</crossref>
+				tall and smooth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from a people feared near and far,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				a nation mighty and conquering,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				whose land the rivers divide,
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<end-block-indent
+					>
+				</end-block-indent>
+				<begin-paragraph class="same-paragraph">
+				</begin-paragraph>
+				to 
+				<crossref let="y" cid="c23018007.3">
+				</crossref>
+				Mount Zion, the place of the 
+				<crossref let="z" cid="c23018007.4">
+				</crossref>
+				name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

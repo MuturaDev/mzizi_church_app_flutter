@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Deuteronomy" num="5">
+		<marker class="begin-verse" mid="v05001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				The Command to Leave Horeb
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, in 
+				<crossref let="a" cid="c05001001.1">
+				</crossref>
+				the Arabah opposite 
+				<crossref let="b" cid="c05001001.2">
+				</crossref>
+				Suph, between 
+				<crossref let="c" cid="c05001001.3">
+				</crossref>
+				Paran and Tophel, Laban, Hazeroth, and Dizahab.
+			</verse>
+			<marker class="begin-verse" mid="v05001002">
+			</marker>
+			<verse num="2">
+				It is eleven days' journey from Horeb by the way of Mount Seir to 
+				<crossref let="d" cid="c05001002.1">
+				</crossref>
+				Kadesh-barnea.
+			</verse>
+			<marker class="begin-verse" mid="v05001003">
+			</marker>
+			<verse num="3">
+				<crossref let="e" cid="c05001003.1">
+				</crossref>
+				In the fortieth year, on the first day of the eleventh month, Moses spoke to the people of Israel according to all that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had given him in commandment to them,
+			</verse>
+			<marker class="begin-verse" mid="v05001004">
+			</marker>
+			<verse num="4">
+				after 
+				<crossref let="f" cid="c05001004.1">
+				</crossref>
+				he had defeated Sihon the king of the Amorites, who lived in Heshbon, and 
+				<crossref let="g" cid="c05001004.2">
+				</crossref>
+				Og the king of Bashan, who lived in Ashtaroth and in 
+				<crossref let="h" cid="c05001004.3">
+				</crossref>
+				Edrei.
+			</verse>
+			<marker class="begin-verse" mid="v05001005">
+			</marker>
+			<verse num="5">
+				Beyond the Jordan, 
+				<crossref let="i" cid="c05001005.1">
+				</crossref>
+				in the land of Moab, Moses undertook to explain this law, saying,
+			</verse>
+			<marker class="begin-verse" mid="v05001006">
+			</marker>
+			<verse num="6">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God said to us in Horeb, 
+				<crossref let="j" cid="c05001006.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You have stayed long enough at this mountain.
+			</verse>
+			<marker class="begin-verse" mid="v05001007">
+			</marker>
+			<verse num="7">
+				Turn and take your journey, and go to 
+				<crossref let="k" cid="c05001007.1">
+				</crossref>
+				the hill country of the Amorites and to all their neighbors in 
+				<crossref let="a" cid="c05001007.2">
+				</crossref>
+				the Arabah, 
+				<crossref let="l" cid="c05001007.3">
+				</crossref>
+				in the hill country and in the lowland and in the Negeb and 
+				<crossref let="l" cid="c05001007.4">
+				</crossref>
+				by the seacoast, the land of the Canaanites, and Lebanon, as far as the great river, the river Euphrates.
+			</verse>
+			<marker class="begin-verse" mid="v05001008">
+			</marker>
+			<verse num="8">
+				See, I have set the land before you. Go in and take possession of the land that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 swore to your fathers, 
+				<crossref let="m" cid="c05001008.1">
+				</crossref>
+				to Abraham, to Isaac, and to Jacob, to give to them and to their offspring after them.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05001009">
+			</marker>
+			<heading
+				>
+				Leaders Appointed
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				At that time 
+				<crossref let="n" cid="c05001009.1">
+				</crossref>
+				I said to you, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I am not able to bear you by myself.
+			</verse>
+			<marker class="begin-verse" mid="v05001010">
+			</marker>
+			<verse num="10">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God has multiplied you, and behold, 
+				<crossref let="o" cid="c05001010.1">
+				</crossref>
+				you are today as numerous as the stars of heaven.
+			</verse>
+			<marker class="begin-verse" mid="v05001011">
+			</marker>
+			<verse num="11">
+				<crossref let="p" cid="c05001011.1">
+				</crossref>
+				May the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of your fathers, make you a thousand times as many as you are and bless you, 
+				<crossref let="q" cid="c05001011.2">
+				</crossref>
+				as he has promised you!
+			</verse>
+			<marker class="begin-verse" mid="v05001012">
+			</marker>
+			<verse num="12">
+				<crossref let="r" cid="c05001012.1">
+				</crossref>
+				How can I bear by myself the weight and burden of you and your strife?
+			</verse>
+			<marker class="begin-verse" mid="v05001013">
+			</marker>
+			<verse num="13">
+				<crossref let="s" cid="c05001013.1">
+				</crossref>
+				Choose for your tribes wise, understanding, and experienced men, and I will appoint them as your heads.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05001014">
+			</marker>
+			<verse num="14">
+				And you answered me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The thing that you have spoken is good for us to do.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05001015">
+			</marker>
+			<verse num="15">
+				So I took the heads of your tribes, wise and experienced men, 
+				<crossref let="t" cid="c05001015.1">
+				</crossref>
+				and set them as heads over you, commanders of thousands, commanders of hundreds, commanders of fifties, commanders of tens, and officers, throughout your tribes.
+			</verse>
+			<marker class="begin-verse" mid="v05001016">
+			</marker>
+			<verse num="16">
+				And I charged your judges at that time, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Hear the cases between your brothers, and 
+				<crossref let="u" cid="c05001016.1">
+				</crossref>
+				judge righteously between a man and his brother or the alien who is with him.
+			</verse>
+			<marker class="begin-verse" mid="v05001017">
+			</marker>
+			<verse num="17">
+				<crossref let="v" cid="c05001017.1">
+				</crossref>
+				You shall not be partial in judgment. You shall hear the small and the great alike. You shall not be intimidated by anyone, for 
+				<crossref let="w" cid="c05001017.2">
+				</crossref>
+				the judgment is God's. And the case that is too hard for you, you shall 
+				<crossref let="x" cid="c05001017.3">
+				</crossref>
+				bring to me, and I will hear it.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05001018">
+			</marker>
+			<verse num="18">
+				And I commanded you at that time all the things that you should do.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05001019">
+			</marker>
+			<heading
+				>
+				Israel's Refusal to Enter the Land
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Then we set out from Horeb and 
+				<crossref let="y" cid="c05001019.1">
+				</crossref>
+				went through all that great and terrifying wilderness that you saw, on the way to the hill country of the Amorites, as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God commanded us. And 
+				<crossref let="z" cid="c05001019.2">
+				</crossref>
+				we came to Kadesh-barnea.
+			</verse>
+			<marker class="begin-verse" mid="v05001020">
+			</marker>
+			<verse num="20">
+				And I said to you, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You have come to the hill country of the Amorites, which the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God is giving us.
+			</verse>
+			<marker class="begin-verse" mid="v05001021">
+			</marker>
+			<verse num="21">
+				See, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God has set the land before you. Go up, take possession, as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of your fathers, has told you. 
+				<crossref let="a" cid="c05001021.1">
+				</crossref>
+				Do not fear or be dismayed.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05001022">
+			</marker>
+			<verse num="22">
+				Then all of you came near me and said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Let us send men before us, that they may explore the land for us and bring us word again of the way by which we must go up and the cities into which we shall come.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05001023">
+			</marker>
+			<verse num="23">
+				The thing seemed good to me, and 
+				<crossref let="b" cid="c05001023.1">
+				</crossref>
+				I took twelve men from you, one man from each tribe.
+			</verse>
+			<marker class="begin-verse" mid="v05001024">
+			</marker>
+			<verse num="24">
+				And 
+				<crossref let="c" cid="c05001024.1">
+				</crossref>
+				they turned and went up into the hill country, and came to the Valley of Eshcol and spied it out.
+			</verse>
+			<marker class="begin-verse" mid="v05001025">
+			</marker>
+			<verse num="25">
+				And they took in their hands some of the fruit of the land and brought it down to us, and brought us word again and said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				It is a good land that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God is giving us.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05001026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Yet you would not go up, but rebelled against the command of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God.
+			</verse>
+			<marker class="begin-verse" mid="v05001027">
+			</marker>
+			<verse num="27">
+				And 
+				<crossref let="d" cid="c05001027.1">
+				</crossref>
+				you murmured in your tents and said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Because the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="e" cid="c05001027.2">
+				</crossref>
+				hated us he has brought us out of the land of Egypt, 
+				<crossref let="f" cid="c05001027.3">
+				</crossref>
+				to give us into the hand of the Amorites, to destroy us.
+			</verse>
+			<marker class="begin-verse" mid="v05001028">
+			</marker>
+			<verse num="28">
+				Where are we going up? 
+				<crossref let="g" cid="c05001028.1">
+				</crossref>
+				Our brothers have made our hearts melt, saying, 
+				<crossref let="h" cid="c05001028.2">
+				</crossref>
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				The people are greater and taller than we. The cities are great and fortified up to heaven. And besides, we have seen 
+				<crossref let="i" cid="c05001028.3">
+				</crossref>
+				the sons of the Anakim there.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05001029">
+			</marker>
+			<verse num="29">
+				Then I said to you, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Do not be in dread or afraid of them.
+			</verse>
+			<marker class="begin-verse" mid="v05001030">
+			</marker>
+			<verse num="30">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God who goes before you 
+				<crossref let="j" cid="c05001030.1">
+				</crossref>
+				will himself fight for you, just as he did for you in Egypt before your eyes,
+			</verse>
+			<marker class="begin-verse" mid="v05001031">
+			</marker>
+			<verse num="31">
+				and in the wilderness, where you have seen how the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God 
+				<crossref let="k" cid="c05001031.1">
+				</crossref>
+				carried you, as a man carries his son, all the way that you went until you came to this place.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05001032">
+			</marker>
+			<verse num="32">
+				Yet in spite of this word 
+				<crossref let="l" cid="c05001032.1">
+				</crossref>
+				you did not believe the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God,
+			</verse>
+			<marker class="begin-verse" mid="v05001033">
+			</marker>
+			<verse num="33">
+				<crossref let="m" cid="c05001033.1">
+				</crossref>
+				who went before you in the way 
+				<crossref let="n" cid="c05001033.2">
+				</crossref>
+				to seek you out a place to pitch your tents, in fire by night and in the cloud by day, to show you by what way you should go.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05001034">
+			</marker>
+			<heading
+				>
+				The Penalty for Israel's Rebellion
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="34">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 heard your words and was angered, and he swore,
+			</verse>
+			<marker class="begin-verse" mid="v05001035">
+			</marker>
+			<verse num="35">
+				<crossref let="o" cid="c05001035.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Not one of these men of this evil generation shall see the good land that I swore to give to your fathers,
+			</verse>
+			<marker class="begin-verse" mid="v05001036">
+			</marker>
+			<verse num="36">
+				<crossref let="p" cid="c05001036.1">
+				</crossref>
+				except Caleb the son of Jephunneh. He shall see it, and to him and to his children I will give the land on which he has trodden, because he has wholly followed the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05001037">
+			</marker>
+			<verse num="37">
+				Even with me 
+				<crossref let="q" cid="c05001037.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 was angry on your account and said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You also shall not go in there.
+			</verse>
+			<marker class="begin-verse" mid="v05001038">
+			</marker>
+			<verse num="38">
+				<crossref let="r" cid="c05001038.1">
+				</crossref>
+				Joshua the son of Nun, 
+				<crossref let="r" cid="c05001038.2">
+				</crossref>
+				who stands before you, he shall enter. 
+				<crossref let="s" cid="c05001038.3">
+				</crossref>
+				Encourage him, for he shall cause Israel to inherit it.
+			</verse>
+			<marker class="begin-verse" mid="v05001039">
+			</marker>
+			<verse num="39">
+				And as for 
+				<crossref let="t" cid="c05001039.1">
+				</crossref>
+				your little ones, who you said would become a prey, and your children, who today 
+				<crossref let="u" cid="c05001039.2">
+				</crossref>
+				have no knowledge of good or evil, they shall go in there. And to them I will give it, and they shall possess it.
+			</verse>
+			<marker class="begin-verse" mid="v05001040">
+			</marker>
+			<verse num="40">
+				But as for you, 
+				<crossref let="v" cid="c05001040.1">
+				</crossref>
+				turn, and journey into the wilderness in the direction of the Red Sea.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05001041">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="41">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Then you answered me, 
+				<crossref let="w" cid="c05001041.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				We have sinned against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. We ourselves will go up and fight, just as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God commanded us.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 And every one of you fastened on his weapons of war and thought it easy to go up into the hill country.
+			</verse>
+			<marker class="begin-verse" mid="v05001042">
+			</marker>
+			<verse num="42">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to me, 
+				<crossref let="x" cid="c05001042.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Say to them, Do not go up or fight, 
+				<crossref let="y" cid="c05001042.2">
+				</crossref>
+				for I am not in your midst, lest you be defeated before your enemies.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05001043">
+			</marker>
+			<verse num="43">
+				So I spoke to you, and you would not listen; but you rebelled against the command of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and 
+				<crossref let="z" cid="c05001043.1">
+				</crossref>
+				presumptuously went up into the hill country.
+			</verse>
+			<marker class="begin-verse" mid="v05001044">
+			</marker>
+			<verse num="44">
+				<crossref let="a" cid="c05001044.1">
+				</crossref>
+				Then the Amorites who lived in that hill country came out against you and chased you 
+				<crossref let="b" cid="c05001044.2">
+				</crossref>
+				as bees do and beat you down in Seir as far as 
+				<crossref let="c" cid="c05001044.3">
+				</crossref>
+				Hormah.
+			</verse>
+			<marker class="begin-verse" mid="v05001045">
+			</marker>
+			<verse num="45">
+				And you returned and wept before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, but the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 did not listen to your voice or give ear to you.
+			</verse>
+			<marker class="begin-verse" mid="v05001046">
+			</marker>
+			<verse num="46">
+				So 
+				<crossref let="d" cid="c05001046.1">
+				</crossref>
+				you remained at Kadesh many days, the days that you remained there.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

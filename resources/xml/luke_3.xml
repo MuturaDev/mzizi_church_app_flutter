@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Luke" num="41">
+		<marker class="begin-verse" mid="v42003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				John the Baptist Prepares the Way
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				In the fifteenth year of the reign of 
+				<crossref let="j" cid="c42003001.1">
+				</crossref>
+				Tiberius Caesar, 
+				<crossref let="k" cid="c42003001.2">
+				</crossref>
+				Pontius Pilate 
+				<crossref let="l" cid="c42003001.3">
+				</crossref>
+				being governor of Judea, and 
+				<crossref let="m" cid="c42003001.4">
+				</crossref>
+				Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene,
+			</verse>
+			<marker class="begin-verse" mid="v42003002">
+			</marker>
+			<verse num="2">
+				during 
+				<crossref let="n" cid="c42003002.1">
+				</crossref>
+				the high priesthood of Annas and 
+				<crossref let="o" cid="c42003002.2">
+				</crossref>
+				Caiaphas, 
+				<crossref let="p" cid="c42003002.3">
+				</crossref>
+				<crossref cid="t42003002.1">
+				</crossref>
+				the word of God came to 
+				<crossref let="q" cid="c42003002.4">
+				</crossref>
+				John the son of Zechariah in 
+				<crossref let="r" cid="c42003002.5">
+				</crossref>
+				the wilderness.
+			</verse>
+			<marker class="begin-verse" mid="v42003003">
+			</marker>
+			<verse num="3">
+				And he went into all the region around the Jordan, proclaiming 
+				<crossref let="s" cid="c42003003.1">
+				</crossref>
+				a baptism of repentance 
+				<crossref let="t" cid="c42003003.2">
+				</crossref>
+				for the forgiveness of sins.
+			</verse>
+			<marker class="begin-verse" mid="v42003004">
+			</marker>
+			<verse num="4">
+				As it is written in 
+				<crossref let="u" cid="c42003004.1">
+				</crossref>
+				the book of the words of Isaiah the prophet,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c42003004.2">
+				</crossref>
+				<crossref cid="t42003004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The voice of one crying in the wilderness:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c42003004.3">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Prepare the way of the Lord,
+				<note nid="n42003004.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				make his paths straight.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v42003005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c42003005.1">
+				</crossref>
+				Every valley shall be filled,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="y" cid="c42003005.2">
+				</crossref>
+				and every mountain and hill shall be made low,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c42003005.3">
+				</crossref>
+				and the crooked shall become straight,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the rough places shall become level ways,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v42003006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c42003006.1">
+				</crossref>
+				and all flesh shall see 
+				<crossref let="b" cid="c42003006.2">
+				</crossref>
+				the salvation of God.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v42003007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				He said therefore to the crowds that came out to be baptized by him, 
+				<crossref let="c" cid="c42003007.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You brood of 
+				<crossref let="d" cid="c42003007.2">
+				</crossref>
+				vipers! Who warned you to flee from 
+				<crossref let="e" cid="c42003007.3">
+				</crossref>
+				the wrath to come?
+			</verse>
+			<marker class="begin-verse" mid="v42003008">
+			</marker>
+			<verse num="8">
+				Bear fruits 
+				<crossref let="f" cid="c42003008.1">
+				</crossref>
+				in keeping with repentance. And do not begin to say to yourselves, 
+				<crossref let="g" cid="c42003008.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				We have Abraham as our father.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 For I tell you, God is able from 
+				<crossref let="h" cid="c42003008.3">
+				</crossref>
+				these stones to raise up children for Abraham.
+			</verse>
+			<marker class="begin-verse" mid="v42003009">
+			</marker>
+			<verse num="9">
+				Even now the axe is laid to the root of the trees. 
+				<crossref let="i" cid="c42003009.1">
+				</crossref>
+				Every tree therefore that does not bear good fruit is cut down and thrown into the fire.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42003010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				And the crowds asked him, 
+				<crossref let="j" cid="c42003010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What then shall we do?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42003011">
+			</marker>
+			<verse num="11">
+				And he answered them, 
+				<crossref let="k" cid="c42003011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whoever has two tunics
+				<note nid="n42003011.1">
+				</note>
+				 is to share with him who has none, and whoever has food is to do likewise.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42003012">
+			</marker>
+			<verse num="12">
+				<crossref let="l" cid="c42003012.1">
+				</crossref>
+				Tax collectors also came to be baptized and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Teacher, 
+				<crossref let="j" cid="c42003012.2">
+				</crossref>
+				what shall we do?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42003013">
+			</marker>
+			<verse num="13">
+				And he said to them, 
+				<crossref let="m" cid="c42003013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Collect no more than you are authorized to do.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42003014">
+			</marker>
+			<verse num="14">
+				Soldiers also asked him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				And we, 
+				<crossref let="j" cid="c42003014.1">
+				</crossref>
+				what shall we do?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he said to them, 
+				<crossref let="m" cid="c42003014.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not extort money from anyone by threats or by false accusation, and be content with your 
+				<crossref let="n" cid="c42003014.3">
+				</crossref>
+				wages.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42003015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				As the people were in expectation, and all were questioning in their hearts concerning John, 
+				<crossref let="o" cid="c42003015.1">
+				</crossref>
+				whether he might be 
+				<crossref let="p" cid="c42003015.2">
+				</crossref>
+				the Christ,
+			</verse>
+			<marker class="begin-verse" mid="v42003016">
+			</marker>
+			<verse num="16">
+				<crossref let="q" cid="c42003016.1">
+				</crossref>
+				John answered them all, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I baptize you with water, but 
+				<crossref let="r" cid="c42003016.2">
+				</crossref>
+				he who is mightier than I is coming, 
+				<crossref let="s" cid="c42003016.3">
+				</crossref>
+				the strap of whose sandals I am not worthy to untie. He will baptize you 
+				<crossref let="t" cid="c42003016.4">
+				</crossref>
+				with the Holy Spirit and with 
+				<crossref let="u" cid="c42003016.5">
+				</crossref>
+				fire.
+			</verse>
+			<marker class="begin-verse" mid="v42003017">
+			</marker>
+			<verse num="17">
+				His 
+				<crossref let="v" cid="c42003017.1">
+				</crossref>
+				winnowing fork is in his hand, to clear his threshing floor and to 
+				<crossref let="w" cid="c42003017.2">
+				</crossref>
+				gather the wheat into his barn, 
+				<crossref let="x" cid="c42003017.3">
+				</crossref>
+				but the chaff he will burn with 
+				<crossref let="y" cid="c42003017.4">
+				</crossref>
+				unquenchable fire.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42003018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				So 
+				<crossref let="z" cid="c42003018.1">
+				</crossref>
+				with many other exhortations he preached good news to the people.
+			</verse>
+			<marker class="begin-verse" mid="v42003019">
+			</marker>
+			<verse num="19">
+				But 
+				<crossref let="a" cid="c42003019.1">
+				</crossref>
+				Herod the tetrarch, who had been reproved by him for Herodias, his brother's wife, and for all the evil things that Herod had done,
+			</verse>
+			<marker class="begin-verse" mid="v42003020">
+			</marker>
+			<verse num="20">
+				added this to them all, that 
+				<crossref let="b" cid="c42003020.1">
+				</crossref>
+				he locked up John in prison.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42003021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				Now when all the people were baptized, and when 
+				<crossref let="c" cid="c42003021.1">
+				</crossref>
+				<crossref cid="t42003021.1">
+				</crossref>
+				Jesus also had been baptized and was praying, 
+				<crossref let="d" cid="c42003021.2">
+				</crossref>
+				the heavens were opened,
+			</verse>
+			<marker class="begin-verse" mid="v42003022">
+			</marker>
+			<verse num="22">
+				and 
+				<crossref let="e" cid="c42003022.1">
+				</crossref>
+				the Holy Spirit descended on him in bodily form, like a dove; and 
+				<crossref let="f" cid="c42003022.2">
+				</crossref>
+				a voice came from heaven, 
+				<crossref let="g" cid="c42003022.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are my beloved Son;
+				<note nid="n42003022.1">
+				</note>
+				 with you I am well pleased.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n42003022.2">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42003023">
+			</marker>
+			<heading
+				>
+				The Genealogy of Jesus Christ
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				Jesus, 
+				<crossref let="h" cid="c42003023.1">
+				</crossref>
+				when he began his ministry, was about 
+				<crossref let="i" cid="c42003023.2">
+				</crossref>
+				thirty years of age, being 
+				<crossref let="j" cid="c42003023.3">
+				</crossref>
+				the son (as was supposed) of Joseph, the son of Heli,
+			</verse>
+			<marker class="begin-verse" mid="v42003024">
+			</marker>
+			<verse num="24">
+				the son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph,
+			</verse>
+			<marker class="begin-verse" mid="v42003025">
+			</marker>
+			<verse num="25">
+				the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,
+			</verse>
+			<marker class="begin-verse" mid="v42003026">
+			</marker>
+			<verse num="26">
+				the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda,
+			</verse>
+			<marker class="begin-verse" mid="v42003027">
+			</marker>
+			<verse num="27">
+				the son of Joanan, the son of Rhesa, 
+				<crossref let="k" cid="c42003027.1">
+				</crossref>
+				the son of Zerubbabel, the son 
+				<crossref let="l" cid="c42003027.2">
+				</crossref>
+				of Shealtiel,
+				<note nid="n42003027.1">
+				</note>
+				 the son of Neri,
+			</verse>
+			<marker class="begin-verse" mid="v42003028">
+			</marker>
+			<verse num="28">
+				the son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,
+			</verse>
+			<marker class="begin-verse" mid="v42003029">
+			</marker>
+			<verse num="29">
+				the son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi,
+			</verse>
+			<marker class="begin-verse" mid="v42003030">
+			</marker>
+			<verse num="30">
+				the son of Simeon, the son of Judah, the son of Joseph, the son of Jonam, the son of Eliakim,
+			</verse>
+			<marker class="begin-verse" mid="v42003031">
+			</marker>
+			<verse num="31">
+				the son of Melea, the son of Menna, the son of Mattatha, the son of 
+				<crossref let="m" cid="c42003031.1">
+				</crossref>
+				Nathan, the son of David,
+			</verse>
+			<marker class="begin-verse" mid="v42003032">
+			</marker>
+			<verse num="32">
+				<crossref let="n" cid="c42003032.1">
+				</crossref>
+				the son of Jesse, the son of Obed, the son of Boaz, the son of Sala, the son of Nahshon,
+			</verse>
+			<marker class="begin-verse" mid="v42003033">
+			</marker>
+			<verse num="33">
+				the son of Amminadab, the son of Admin, the son of Arni, the son of Hezron, the son of Perez, the son of Judah,
+			</verse>
+			<marker class="begin-verse" mid="v42003034">
+			</marker>
+			<verse num="34">
+				<crossref let="o" cid="c42003034.1">
+				</crossref>
+				the son of Jacob, 
+				<crossref let="p" cid="c42003034.2">
+				</crossref>
+				the son of Isaac, 
+				<crossref let="q" cid="c42003034.3">
+				</crossref>
+				the son of Abraham, 
+				<crossref let="r" cid="c42003034.4">
+				</crossref>
+				the son of Terah, the son of Nahor,
+			</verse>
+			<marker class="begin-verse" mid="v42003035">
+			</marker>
+			<verse num="35">
+				the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,
+			</verse>
+			<marker class="begin-verse" mid="v42003036">
+			</marker>
+			<verse num="36">
+				the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,
+			</verse>
+			<marker class="begin-verse" mid="v42003037">
+			</marker>
+			<verse num="37">
+				the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalaleel, the son of Cainan,
+			</verse>
+			<marker class="begin-verse" mid="v42003038">
+			</marker>
+			<verse num="38">
+				the son of Enos, the son of Seth, the son of Adam, the son of God.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

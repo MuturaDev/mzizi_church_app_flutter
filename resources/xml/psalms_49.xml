@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19049001">
+		</marker>
+		<chapter num="49">
+			<heading
+				>
+				Why Should I Fear in Times of Trouble?
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Psalm of 
+				<crossref let="f" cid="c19049001.1">
+				</crossref>
+				the Sons of Korah.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c19049001.2">
+				</crossref>
+				Hear this, all peoples!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Give ear, all inhabitants of the world,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c19049002.1">
+				</crossref>
+				both low and high,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				rich and poor together!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				My mouth shall speak 
+				<crossref let="i" cid="c19049003.1">
+				</crossref>
+				wisdom;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the meditation of my heart shall be understanding.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				I will incline my ear to 
+				<crossref let="j" cid="c19049004.1">
+				</crossref>
+				a proverb;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will solve my 
+				<crossref let="k" cid="c19049004.2">
+				</crossref>
+				riddle to the music of the lyre.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19049005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19049005.1">
+				</crossref>
+				Why should I fear in 
+				<crossref let="m" cid="c19049005.2">
+				</crossref>
+				times of trouble,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when the iniquity of those who cheat me surrounds me,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				those who 
+				<crossref let="n" cid="c19049006.1">
+				</crossref>
+				trust in their wealth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and boast of the abundance of their riches?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Truly no man 
+				<crossref let="o" cid="c19049007.1">
+				</crossref>
+				can ransom another,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or 
+				<crossref let="p" cid="c19049007.2">
+				</crossref>
+				give to God 
+				<crossref let="q" cid="c19049007.3">
+				</crossref>
+				the price of his life,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				for 
+				<crossref let="r" cid="c19049008.1">
+				</crossref>
+				the ransom of their life is costly
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and can never suffice,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				that he should live on forever
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="s" cid="c19049009.1">
+				</crossref>
+				never see the pit.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19049010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				For he sees 
+				<crossref let="t" cid="c19049010.1">
+				</crossref>
+				that even the wise die;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c19049010.2">
+				</crossref>
+				the fool and the stupid alike must perish
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="v" cid="c19049010.3">
+				</crossref>
+				leave their wealth to others.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Their 
+				<crossref let="w" cid="c19049011.1">
+				</crossref>
+				graves are their homes forever,
+				<note nid="n19049011.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				their dwelling places 
+				<crossref let="x" cid="c19049011.2">
+				</crossref>
+				to all generations,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				though they 
+				<crossref let="y" cid="c19049011.3">
+				</crossref>
+				called lands by their own names.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Man in his pomp 
+				<crossref let="z" cid="c19049012.1">
+				</crossref>
+				will not remain;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c19049012.2">
+				</crossref>
+				he is like the beasts that perish.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19049013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				This is the path of those who have 
+				<crossref let="b" cid="c19049013.1">
+				</crossref>
+				foolish confidence;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				yet after them people approve of their boasts.
+				<note nid="n19049013.1">
+				</note>
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				Like sheep they are appointed for Sheol;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				death shall be their shepherd,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and the upright 
+				<crossref let="c" cid="c19049014.1">
+				</crossref>
+				shall rule over them in the morning.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c19049014.2">
+				</crossref>
+				Their form shall be consumed 
+				<crossref let="e" cid="c19049014.3">
+				</crossref>
+				in Sheol, with no place to dwell.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				But God will 
+				<crossref let="f" cid="c19049015.1">
+				</crossref>
+				ransom my soul from the power of Sheol,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for he will 
+				<crossref let="g" cid="c19049015.2">
+				</crossref>
+				receive me. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19049016">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Be not afraid when a man becomes rich,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when the glory of his house increases.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c19049017.1">
+				</crossref>
+				For when he dies he will 
+				<crossref let="i" cid="c19049017.2">
+				</crossref>
+				carry nothing away;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his glory will not go down after him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				For though, while he lives, he counts himself 
+				<crossref let="j" cid="c19049018.1">
+				</crossref>
+				blessed
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				ùand though you get praise when you do well for yourselfù
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				his soul will 
+				<crossref let="k" cid="c19049019.1">
+				</crossref>
+				go to the generation of his fathers,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who will never again 
+				<crossref let="l" cid="c19049019.2">
+				</crossref>
+				see light.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19049020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c19049020.1">
+				</crossref>
+				Man in his pomp yet without understanding is like the beasts that perish.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

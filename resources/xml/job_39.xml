@@ -1,0 +1,586 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18039001">
+		</marker>
+		<chapter num="39">
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Do you know when 
+				<crossref let="f" cid="c18039001.1">
+				</crossref>
+				the mountain goats give birth?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Do you observe 
+				<crossref let="g" cid="c18039001.2">
+				</crossref>
+				the calving of the does?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Can you number the months that they fulfill,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and do you know the time when they give birth,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				when they 
+				<crossref let="h" cid="c18039003.1">
+				</crossref>
+				crouch, bring forth their offspring,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and are delivered of their young?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Their young ones become strong; they grow up in the open;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they go out and 
+				<crossref let="i" cid="c18039004.1">
+				</crossref>
+				do not return to them.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18039005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Who has let the wild donkey go free?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Who has 
+				<crossref let="j" cid="c18039005.1">
+				</crossref>
+				loosed the bonds of the swift donkey,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				to whom I have given 
+				<crossref let="k" cid="c18039006.1">
+				</crossref>
+				the arid plain for his home
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="l" cid="c18039006.2">
+				</crossref>
+				the salt land for his dwelling place?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				He scorns the tumult of the city;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he hears not the shouts of the driver.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				He ranges the mountains as his pasture,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he searches after every green thing.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18039009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Is 
+				<crossref let="m" cid="c18039009.1">
+				</crossref>
+				the wild ox willing to serve you?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Will he spend the night at your 
+				<crossref let="n" cid="c18039009.2">
+				</crossref>
+				manger?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Can you bind 
+				<crossref let="m" cid="c18039010.1">
+				</crossref>
+				him in the furrow with ropes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or will he harrow the valleys after you?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Will you depend on him because his strength is great,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and will you leave to him your labor?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Do you have faith in him that he will return your grain
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and gather it to your threshing floor?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18039013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				The wings of the ostrich wave proudly,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but are they the pinions and plumage of love?
+				<note nid="n18039013.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				For she leaves her eggs to the earth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and lets them be warmed on the ground,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				forgetting that a foot may crush them
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and that the wild beast may trample them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				She 
+				<crossref let="o" cid="c18039016.1">
+				</crossref>
+				deals cruelly with her young, as if they were not hers;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				though her 
+				<crossref let="p" cid="c18039016.2">
+				</crossref>
+				labor be in vain, yet she has no fear,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				because God has made her forget wisdom
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="q" cid="c18039017.1">
+				</crossref>
+				given her no share in understanding.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				When she rouses herself to flee,
+				<note nid="n18039018.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she laughs at the horse and his rider.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18039019">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Do you give the horse his might?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Do you clothe his neck with a mane?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				Do you make him leap like the locust?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				His majestic 
+				<crossref let="r" cid="c18039020.1">
+				</crossref>
+				snorting is terrifying.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				He paws
+				<note nid="n18039021.1">
+				</note>
+				 in the valley and exults in his strength;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="s" cid="c18039021.1">
+				</crossref>
+				goes out to meet the weapons.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				He laughs at fear and is not dismayed;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he does not turn back from the sword.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				Upon him rattle the quiver,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the flashing spear, and the javelin.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				With fierceness and rage he swallows the ground;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he cannot stand still at 
+				<crossref let="t" cid="c18039024.1">
+				</crossref>
+				the sound of the trumpet.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				When the trumpet sounds, he says 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Aha!
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				He smells the battle from afar,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the thunder of the captains, and the shouting.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18039026">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Is it by your understanding that the hawk soars
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and spreads his wings toward the south?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				Is it at your command that the eagle mounts up
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and makes his 
+				<crossref let="u" cid="c18039027.1">
+				</crossref>
+				nest on high?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				On the rock he dwells and makes his home,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on 
+				<crossref let="v" cid="c18039028.1">
+				</crossref>
+				the rocky crag and stronghold.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				From there he spies out the prey;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his eyes behold it from far away.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18039030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				His young ones suck up blood,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="w" cid="c18039030.1">
+				</crossref>
+				where the slain are, there is he.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

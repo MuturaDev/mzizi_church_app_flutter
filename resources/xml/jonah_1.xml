@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Jonah" num="32">
+		<marker class="begin-verse" mid="v32001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Jonah Flees the Presence of the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to 
+				<crossref let="a" cid="c32001001.1">
+				</crossref>
+				Jonah the son of Amittai, saying,
+			</verse>
+			<marker class="begin-verse" mid="v32001002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Arise, go to 
+				<crossref let="b" cid="c32001002.1">
+				</crossref>
+				Nineveh, that 
+				<crossref let="c" cid="c32001002.2">
+				</crossref>
+				great city, and call out against it, 
+				<crossref let="d" cid="c32001002.3">
+				</crossref>
+				for their evil
+				<note nid="n32001002.1">
+				</note>
+				 has come up before me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v32001003">
+			</marker>
+			<verse num="3">
+				But Jonah 
+				<crossref let="e" cid="c32001003.1">
+				</crossref>
+				rose to flee to 
+				<crossref let="f" cid="c32001003.2">
+				</crossref>
+				Tarshish from the presence of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. He went down to 
+				<crossref let="g" cid="c32001003.3">
+				</crossref>
+				Joppa and found a ship going to 
+				<crossref let="f" cid="c32001003.4">
+				</crossref>
+				Tarshish. So he paid the fare and went on board, to go with them to 
+				<crossref let="f" cid="c32001003.5">
+				</crossref>
+				Tarshish, 
+				<crossref let="h" cid="c32001003.6">
+				</crossref>
+				away from the presence of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v32001004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				But 
+				<crossref let="i" cid="c32001004.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 hurled a great wind upon the sea, and there was a mighty tempest on the sea, so that the ship threatened 
+				<crossref let="j" cid="c32001004.2">
+				</crossref>
+				to break up.
+			</verse>
+			<marker class="begin-verse" mid="v32001005">
+			</marker>
+			<verse num="5">
+				Then the mariners were afraid, and 
+				<crossref let="k" cid="c32001005.1">
+				</crossref>
+				each cried out to his god. And 
+				<crossref let="l" cid="c32001005.2">
+				</crossref>
+				they hurled the cargo that was in the ship into the sea to lighten it for them. But Jonah had gone down into the inner part of the ship and had lain down and was fast asleep.
+			</verse>
+			<marker class="begin-verse" mid="v32001006">
+			</marker>
+			<verse num="6">
+				So the captain came and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What do you mean, you sleeper? Arise, 
+				<crossref let="k" cid="c32001006.1">
+				</crossref>
+				call out to your god! 
+				<crossref let="m" cid="c32001006.2">
+				</crossref>
+				Perhaps the god will give a thought to us, that we may not perish.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v32001007">
+			</marker>
+			<heading
+				>
+				Jonah Is Thrown into the Sea
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				And they said to one another, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come, let us 
+				<crossref let="n" cid="c32001007.1">
+				</crossref>
+				cast lots, that we may know on whose account this evil has come upon us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So they cast lots, and the lot fell on Jonah.
+			</verse>
+			<marker class="begin-verse" mid="v32001008">
+			</marker>
+			<verse num="8">
+				Then they said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tell us on whose account this evil has come upon us. What is your occupation? And where do you come from? What is your country? And of what people are you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v32001009">
+			</marker>
+			<verse num="9">
+				And he said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am a Hebrew, and I fear 
+				<crossref let="o" cid="c32001009.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of heaven, 
+				<crossref let="p" cid="c32001009.2">
+				</crossref>
+				who made the sea and the dry land.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v32001010">
+			</marker>
+			<verse num="10">
+				Then the men were exceedingly afraid and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is this that you have done!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 For the men knew that 
+				<crossref let="h" cid="c32001010.1">
+				</crossref>
+				he was fleeing from the presence of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, because he had told them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v32001011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				Then they said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What shall we do to you, that the sea may quiet down for us?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 For the sea grew more and more tempestuous.
+			</verse>
+			<marker class="begin-verse" mid="v32001012">
+			</marker>
+			<verse num="12">
+				He said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Pick me up and hurl me into the sea; then the sea will quiet down for you, 
+				<crossref let="q" cid="c32001012.1">
+				</crossref>
+				for I know it is because of me that this great tempest has come upon you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v32001013">
+			</marker>
+			<verse num="13">
+				Nevertheless, the men rowed hard
+				<note nid="n32001013.1">
+				</note>
+				 to get back to dry land, but they could not, for the sea grew more and more tempestuous against them.
+			</verse>
+			<marker class="begin-verse" mid="v32001014">
+			</marker>
+			<verse num="14">
+				Therefore they called out to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, let us not perish for this man's life, and 
+				<crossref let="r" cid="c32001014.1">
+				</crossref>
+				lay not on us innocent blood, 
+				<crossref let="s" cid="c32001014.2">
+				</crossref>
+				for you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, have done as it pleased you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v32001015">
+			</marker>
+			<verse num="15">
+				So they picked up Jonah and hurled him into the sea, 
+				<crossref let="t" cid="c32001015.1">
+				</crossref>
+				and the sea ceased from its raging.
+			</verse>
+			<marker class="begin-verse" mid="v32001016">
+			</marker>
+			<verse num="16">
+				Then the men feared the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 exceedingly, 
+				<crossref let="u" cid="c32001016.1">
+				</crossref>
+				and they offered a sacrifice to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="v" cid="c32001016.2">
+				</crossref>
+				and made vows.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v32001017">
+			</marker>
+			<heading
+				>
+				A Great Fish Swallows Jonah
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				<note nid="n32001017.1">
+				</note>
+				 And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 appointed
+				<note nid="n32001017.2">
+				</note>
+				 a great fish to swallow up Jonah. 
+				<crossref let="w" cid="c32001017.1">
+				</crossref>
+				And Jonah was in the belly of the fish three days and three nights.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

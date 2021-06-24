@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Proverbs" num="19">
+		<marker class="begin-verse" mid="v20005001">
+		</marker>
+		<chapter num="5">
+			<heading
+				>
+				Warning Against Adultery
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c20005001.1">
+				</crossref>
+				My son, be attentive to my wisdom;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c20005001.2">
+				</crossref>
+				incline your ear to my understanding,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				that you may keep 
+				<crossref let="y" cid="c20005002.1">
+				</crossref>
+				discretion,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your lips may 
+				<crossref let="z" cid="c20005002.2">
+				</crossref>
+				guard knowledge.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				For the lips of 
+				<crossref let="a" cid="c20005003.1">
+				</crossref>
+				a forbidden
+				<note nid="n20005003.1">
+				</note>
+				 woman drip honey,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and her speech
+				<note nid="n20005003.2">
+				</note>
+				 is 
+				<crossref let="b" cid="c20005003.2">
+				</crossref>
+				smoother than oil,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				but in the end she is 
+				<crossref let="c" cid="c20005004.1">
+				</crossref>
+				bitter as 
+				<crossref let="d" cid="c20005004.2">
+				</crossref>
+				wormwood,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c20005004.3">
+				</crossref>
+				sharp as 
+				<crossref let="f" cid="c20005004.4">
+				</crossref>
+				a two-edged sword.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Her feet 
+				<crossref let="g" cid="c20005005.1">
+				</crossref>
+				go down to death;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				her steps follow the path to
+				<note nid="n20005005.1">
+				</note>
+				 Sheol;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				she 
+				<crossref let="h" cid="c20005006.1">
+				</crossref>
+				does not ponder the path of life;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				her ways wander, and she does not know it.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20005007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				And 
+				<crossref let="i" cid="c20005007.1">
+				</crossref>
+				now, O sons, listen to me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and do not depart from the words of my mouth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Keep your way far from her,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and do not go near the door of her house,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				lest you give your honor to others
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your years to the merciless,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				lest strangers take their fill of your strength,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your 
+				<crossref let="j" cid="c20005010.1">
+				</crossref>
+				labors go to the house of a foreigner,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				and at the end of your life you 
+				<crossref let="k" cid="c20005011.1">
+				</crossref>
+				groan,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when your flesh and body are consumed,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				and you say, 
+				<crossref let="l" cid="c20005012.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How I hated discipline,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my heart 
+				<crossref let="m" cid="c20005012.2">
+				</crossref>
+				despised reproof!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				I did not listen to the voice of my teachers
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or incline my ear to my instructors.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c20005014.1">
+				</crossref>
+				I am at the brink of utter ruin
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the assembled congregation.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20005015">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				Drink 
+				<crossref let="o" cid="c20005015.1">
+				</crossref>
+				water from your own cistern,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				flowing water from your own well.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Should your 
+				<crossref let="p" cid="c20005016.1">
+				</crossref>
+				springs be scattered abroad,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				streams of water 
+				<crossref let="q" cid="c20005016.2">
+				</crossref>
+				in the streets?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c20005017.1">
+				</crossref>
+				Let them be for yourself alone,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and not for strangers with you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				Let your 
+				<crossref let="o" cid="c20005018.1">
+				</crossref>
+				fountain be blessed,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="s" cid="c20005018.2">
+				</crossref>
+				rejoice in 
+				<crossref let="t" cid="c20005018.3">
+				</crossref>
+				the wife of your youth,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005019">
+			</marker>
+			<verse num="19">
+				<begin-line class="indent">
+				</begin-line>
+				a lovely 
+				<crossref let="u" cid="c20005019.1">
+				</crossref>
+				deer, a graceful doe.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Let her breasts 
+				<crossref let="v" cid="c20005019.2">
+				</crossref>
+				fill you at all times with delight;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				be intoxicated
+				<note nid="n20005019.1">
+				</note>
+				 always in her love.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				Why should you be intoxicated, my son, with 
+				<crossref let="w" cid="c20005020.1">
+				</crossref>
+				a forbidden woman
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and embrace the bosom of 
+				<crossref let="w" cid="c20005020.2">
+				</crossref>
+				an adulteress?
+				<note nid="n20005020.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="x" cid="c20005021.1">
+				</crossref>
+				a man's ways are 
+				<crossref let="y" cid="c20005021.2">
+				</crossref>
+				before the eyes of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he 
+				<crossref let="z" cid="c20005021.3">
+				</crossref>
+				ponders
+				<note nid="n20005021.1">
+				</note>
+				 all his paths.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<crossref let="a" cid="c20005022.1">
+				</crossref>
+				iniquities of the wicked 
+				<crossref let="b" cid="c20005022.2">
+				</crossref>
+				ensnare him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he is held fast in the cords of his sin.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20005023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c20005023.1">
+				</crossref>
+				He dies for lack of discipline,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and because of his great folly he is 
+				<crossref let="d" cid="c20005023.2">
+				</crossref>
+				led astray.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

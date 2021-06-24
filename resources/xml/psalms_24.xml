@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19024001">
+		</marker>
+		<chapter num="24">
+			<heading
+				>
+				The King of Glory
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c19024001.1">
+				</crossref>
+				The earth is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's and the fullness thereof,
+				<note nid="n19024001.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the world and those who dwell therein,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19024002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				for he has 
+				<crossref let="w" cid="c19024002.1">
+				</crossref>
+				founded it upon 
+				<crossref let="x" cid="c19024002.2">
+				</crossref>
+				the seas
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and established it upon the rivers.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19024003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c19024003.1">
+				</crossref>
+				Who shall ascend the hill of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				And who shall stand in his 
+				<crossref let="z" cid="c19024003.2">
+				</crossref>
+				holy place?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19024004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19024004.1">
+				</crossref>
+				He who has 
+				<crossref let="b" cid="c19024004.2">
+				</crossref>
+				clean hands and 
+				<crossref let="c" cid="c19024004.3">
+				</crossref>
+				a pure heart,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who does not 
+				<crossref let="d" cid="c19024004.4">
+				</crossref>
+				lift up his soul to 
+				<crossref let="e" cid="c19024004.5">
+				</crossref>
+				what is false
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and does not swear deceitfully.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19024005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				He will receive 
+				<crossref let="f" cid="c19024005.1">
+				</crossref>
+				blessing from the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="g" cid="c19024005.2">
+				</crossref>
+				righteousness from 
+				<crossref let="h" cid="c19024005.3">
+				</crossref>
+				the God of his salvation.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19024006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Such is 
+				<crossref let="i" cid="c19024006.1">
+				</crossref>
+				the generation of those who seek him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="j" cid="c19024006.2">
+				</crossref>
+				seek the face of the God of Jacob.
+				<note nid="n19024006.1">
+				</note>
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19024007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c19024007.1">
+				</crossref>
+				Lift up your heads, O gates!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				And be lifted up, O ancient doors,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that 
+				<crossref let="l" cid="c19024007.2">
+				</crossref>
+				the King of glory may come in.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19024008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Who is this King of glory?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				, strong and mighty,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="m" cid="c19024008.1">
+				</crossref>
+				mighty in battle!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19024009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Lift up your heads, O gates!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				And lift them up, O ancient doors,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that the King of glory may come in.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19024010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Who is this King of glory?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c19024010.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he is the King of glory! 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

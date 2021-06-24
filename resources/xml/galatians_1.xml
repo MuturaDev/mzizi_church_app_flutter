@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Galatians" num="48">
+		<marker class="begin-verse" mid="v48001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Paul, an 
+				<crossref let="a" cid="c48001001.1">
+				</crossref>
+				apostleù
+				<crossref let="b" cid="c48001001.2">
+				</crossref>
+				not from men nor through man, but 
+				<crossref let="c" cid="c48001001.3">
+				</crossref>
+				through Jesus Christ and God the Father, 
+				<crossref let="d" cid="c48001001.4">
+				</crossref>
+				who raised him from the deadù
+			</verse>
+			<marker class="begin-verse" mid="v48001002">
+			</marker>
+			<verse num="2">
+				and all 
+				<crossref let="e" cid="c48001002.1">
+				</crossref>
+				the brothers
+				<note nid="n48001002.1">
+				</note>
+				 who are with me,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				To 
+				<crossref let="f" cid="c48001002.2">
+				</crossref>
+				the churches of Galatia:
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v48001003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="g" cid="c48001003.1">
+				</crossref>
+				Grace to you and peace 
+				<crossref let="h" cid="c48001003.2">
+				</crossref>
+				from God our Father and the Lord Jesus Christ,
+			</verse>
+			<marker class="begin-verse" mid="v48001004">
+			</marker>
+			<verse num="4">
+				<crossref let="i" cid="c48001004.1">
+				</crossref>
+				who gave himself for our sins to deliver us from the present 
+				<crossref let="j" cid="c48001004.2">
+				</crossref>
+				evil age, according to the will of 
+				<crossref let="k" cid="c48001004.3">
+				</crossref>
+				our God and Father,
+			</verse>
+			<marker class="begin-verse" mid="v48001005">
+			</marker>
+			<verse num="5">
+				to whom be the glory forever and ever. Amen.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v48001006">
+			</marker>
+			<heading
+				>
+				No Other Gospel
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				I am astonished that you are 
+				<crossref let="l" cid="c48001006.1">
+				</crossref>
+				so quickly deserting 
+				<crossref let="m" cid="c48001006.2">
+				</crossref>
+				him who called you in the grace of Christ and are turning to 
+				<crossref let="n" cid="c48001006.3">
+				</crossref>
+				a different gospelù
+			</verse>
+			<marker class="begin-verse" mid="v48001007">
+			</marker>
+			<verse num="7">
+				<crossref let="o" cid="c48001007.1">
+				</crossref>
+				not that there is another one, but 
+				<crossref let="p" cid="c48001007.2">
+				</crossref>
+				there are some who trouble you and want to distort the gospel of Christ.
+			</verse>
+			<marker class="begin-verse" mid="v48001008">
+			</marker>
+			<verse num="8">
+				But even if we or 
+				<crossref let="q" cid="c48001008.1">
+				</crossref>
+				an angel from heaven should preach to you a gospel contrary to the one we preached to you, 
+				<crossref let="r" cid="c48001008.2">
+				</crossref>
+				let him be accursed.
+			</verse>
+			<marker class="begin-verse" mid="v48001009">
+			</marker>
+			<verse num="9">
+				As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, 
+				<crossref let="r" cid="c48001009.1">
+				</crossref>
+				let him be accursed.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v48001010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				For am I now seeking the approval of man, or of God? Or am I trying 
+				<crossref let="s" cid="c48001010.1">
+				</crossref>
+				to please man? If I were still trying to please man, I would not be a 
+				<crossref let="t" cid="c48001010.2">
+				</crossref>
+				servant
+				<note nid="n48001010.1">
+				</note>
+				 of Christ.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v48001011">
+			</marker>
+			<heading
+				>
+				Paul Called by God
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				For 
+				<crossref let="u" cid="c48001011.1">
+				</crossref>
+				I would have you know, brothers, that 
+				<crossref let="v" cid="c48001011.2">
+				</crossref>
+				the gospel that was preached by me is not man's gospel.
+				<note nid="n48001011.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v48001012">
+			</marker>
+			<verse num="12">
+				<crossref let="w" cid="c48001012.1">
+				</crossref>
+				For I did not receive it from any man, nor was I taught it, but I received it 
+				<crossref let="x" cid="c48001012.2">
+				</crossref>
+				through a revelation of Jesus Christ.
+			</verse>
+			<marker class="begin-verse" mid="v48001013">
+			</marker>
+			<verse num="13">
+				For you have heard of 
+				<crossref let="y" cid="c48001013.1">
+				</crossref>
+				my former life in Judaism, how 
+				<crossref let="z" cid="c48001013.2">
+				</crossref>
+				I persecuted the church of God violently and tried to destroy it.
+			</verse>
+			<marker class="begin-verse" mid="v48001014">
+			</marker>
+			<verse num="14">
+				And I was advancing in Judaism beyond many of my own age among my people, so extremely 
+				<crossref let="a" cid="c48001014.1">
+				</crossref>
+				zealous was I for 
+				<crossref let="b" cid="c48001014.2">
+				</crossref>
+				the traditions of my fathers.
+			</verse>
+			<marker class="begin-verse" mid="v48001015">
+			</marker>
+			<verse num="15">
+				But when he 
+				<crossref let="c" cid="c48001015.1">
+				</crossref>
+				who had set me apart 
+				<crossref let="d" cid="c48001015.2">
+				</crossref>
+				before I was born,
+				<note nid="n48001015.1">
+				</note>
+				 and who 
+				<crossref let="e" cid="c48001015.3">
+				</crossref>
+				called me by his grace,
+			</verse>
+			<marker class="begin-verse" mid="v48001016">
+			</marker>
+			<verse num="16">
+				was pleased to reveal his Son to
+				<note nid="n48001016.1">
+				</note>
+				 me, in order 
+				<crossref let="f" cid="c48001016.1">
+				</crossref>
+				that I might preach him among the Gentiles, I did not immediately consult with anyone;
+				<note nid="n48001016.2">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v48001017">
+			</marker>
+			<verse num="17">
+				nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v48001018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				Then 
+				<crossref let="g" cid="c48001018.1">
+				</crossref>
+				after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days.
+			</verse>
+			<marker class="begin-verse" mid="v48001019">
+			</marker>
+			<verse num="19">
+				But I saw none of the other apostles except James 
+				<crossref let="h" cid="c48001019.1">
+				</crossref>
+				the Lord's brother.
+			</verse>
+			<marker class="begin-verse" mid="v48001020">
+			</marker>
+			<verse num="20">
+				(In what I am writing to you, 
+				<crossref let="i" cid="c48001020.1">
+				</crossref>
+				before God, I do not lie!)
+			</verse>
+			<marker class="begin-verse" mid="v48001021">
+			</marker>
+			<verse num="21">
+				<crossref let="j" cid="c48001021.1">
+				</crossref>
+				Then I went into the regions of Syria and Cilicia.
+			</verse>
+			<marker class="begin-verse" mid="v48001022">
+			</marker>
+			<verse num="22">
+				And I was still unknown in person to 
+				<crossref let="k" cid="c48001022.1">
+				</crossref>
+				the churches of Judea that are in Christ.
+			</verse>
+			<marker class="begin-verse" mid="v48001023">
+			</marker>
+			<verse num="23">
+				They only were hearing it said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He who used to persecute us is now preaching the faith he once tried to destroy.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v48001024">
+			</marker>
+			<verse num="24">
+				And they glorified God because of me.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

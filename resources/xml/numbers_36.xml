@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Numbers" num="3">
+		<marker class="begin-verse" mid="v04036001">
+		</marker>
+		<chapter num="36">
+			<heading
+				>
+				Marriage of Female Heirs
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The heads of the fathers' houses of the clan of the 
+				<crossref let="q" cid="c04036001.1">
+				</crossref>
+				people of Gilead the son of Machir, son of Manasseh, from the clans of the people of Joseph, came near and spoke before Moses and before the chiefs, the heads of the fathers' houses of the people of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v04036002">
+			</marker>
+			<verse num="2">
+				They said, 
+				<crossref let="r" cid="c04036002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded my lord to give the land for inheritance by lot to the people of Israel, and 
+				<crossref let="s" cid="c04036002.2">
+				</crossref>
+				my lord was commanded by the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 to give the inheritance of Zelophehad our brother to his daughters.
+			</verse>
+			<marker class="begin-verse" mid="v04036003">
+			</marker>
+			<verse num="3">
+				But if they are married to any of the sons of the other tribes of the people of Israel, then their inheritance will be taken from the inheritance of our fathers and added to the inheritance of the tribe into which they marry. So it will be taken away from the lot of our inheritance.
+			</verse>
+			<marker class="begin-verse" mid="v04036004">
+			</marker>
+			<verse num="4">
+				And when 
+				<crossref let="t" cid="c04036004.1">
+				</crossref>
+				the jubilee of the people of Israel comes, then their inheritance will be added to the inheritance of the tribe into which they marry, and their inheritance will be taken from the inheritance of the tribe of our fathers.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04036005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				And Moses commanded the people of Israel according to the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The tribe of the people of Joseph 
+				<crossref let="u" cid="c04036005.1">
+				</crossref>
+				is right.
+			</verse>
+			<marker class="begin-verse" mid="v04036006">
+			</marker>
+			<verse num="6">
+				This is what the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commands concerning the daughters of Zelophehad, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Let them marry whom they think best, 
+				<crossref let="v" cid="c04036006.1">
+				</crossref>
+				only they shall marry within the clan of the tribe of their father.
+			</verse>
+			<marker class="begin-verse" mid="v04036007">
+			</marker>
+			<verse num="7">
+				The inheritance of the people of Israel shall not be transferred from one tribe to another, for every one of the people of Israel 
+				<crossref let="w" cid="c04036007.1">
+				</crossref>
+				shall hold on to the inheritance of the tribe of his fathers.
+			</verse>
+			<marker class="begin-verse" mid="v04036008">
+			</marker>
+			<verse num="8">
+				And 
+				<crossref let="x" cid="c04036008.1">
+				</crossref>
+				every daughter who possesses an inheritance in any tribe of the people of Israel shall be wife to one of the clan of the tribe of her father, so that every one of the people of Israel may possess the inheritance of his fathers.
+			</verse>
+			<marker class="begin-verse" mid="v04036009">
+			</marker>
+			<verse num="9">
+				So no inheritance shall be transferred from one tribe to another, for each of the tribes of the people of Israel shall hold on to its own inheritance.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04036010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				The daughters of Zelophehad did as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded Moses,
+			</verse>
+			<marker class="begin-verse" mid="v04036011">
+			</marker>
+			<verse num="11">
+				<crossref let="y" cid="c04036011.1">
+				</crossref>
+				for Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were married to sons of their father's brothers.
+			</verse>
+			<marker class="begin-verse" mid="v04036012">
+			</marker>
+			<verse num="12">
+				They were married into the clans of the people of Manasseh the son of Joseph, and their inheritance remained in the tribe of their father's clan.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04036013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				These are the commandments and the rules that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded through Moses to the people of Israel 
+				<crossref let="z" cid="c04036013.1">
+				</crossref>
+				in the plains of Moab by the Jordan at Jericho.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

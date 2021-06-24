@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19086001">
+		</marker>
+		<chapter num="86">
+			<heading
+				>
+				Great Is Your Steadfast Love
+			</heading>
+			<subheading class="psalm-title">
+				<crossref let="i" cid="c19086001.1">
+				</crossref>
+				A Prayer of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c19086001.2">
+				</crossref>
+				Incline your ear, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and answer me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for I am 
+				<crossref let="k" cid="c19086001.3">
+				</crossref>
+				poor and needy.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Preserve my life, for I am 
+				<crossref let="l" cid="c19086002.1">
+				</crossref>
+				godly;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				save your servant, who 
+				<crossref let="m" cid="c19086002.2">
+				</crossref>
+				trusts in youùyou are my God.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c19086003.1">
+				</crossref>
+				Be gracious to me, O Lord,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for to you do I cry all the day.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Gladden the soul of your servant,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="o" cid="c19086004.1">
+				</crossref>
+				to you, O Lord, do I lift up my soul.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				For you, O Lord, are good and 
+				<crossref let="p" cid="c19086005.1">
+				</crossref>
+				forgiving,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c19086005.2">
+				</crossref>
+				abounding in steadfast love to all who call upon you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19086006.1">
+				</crossref>
+				Give ear, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, to my prayer;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				listen to my plea for grace.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				In 
+				<crossref let="s" cid="c19086007.1">
+				</crossref>
+				the day of my trouble I call upon you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c19086007.2">
+				</crossref>
+				for you answer me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19086008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				There is 
+				<crossref let="u" cid="c19086008.1">
+				</crossref>
+				none like you among the gods, O Lord,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="v" cid="c19086008.2">
+				</crossref>
+				nor are there any works like yours.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c19086009.1">
+				</crossref>
+				All the nations you have made shall come
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and worship before you, O Lord,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and shall glorify your name.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="x" cid="c19086010.1">
+				</crossref>
+				you are great and 
+				<crossref let="y" cid="c19086010.2">
+				</crossref>
+				do wondrous things;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c19086010.3">
+				</crossref>
+				you alone are God.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19086011.1">
+				</crossref>
+				Teach me your way, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that I may 
+				<crossref let="b" cid="c19086011.2">
+				</crossref>
+				walk in your truth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c19086011.3">
+				</crossref>
+				unite my heart to fear your name.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				I give thanks to you, O Lord my God, with my whole heart,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and I will glorify your name forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c19086013.1">
+				</crossref>
+				For great is your steadfast love toward me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have 
+				<crossref let="e" cid="c19086013.2">
+				</crossref>
+				delivered my soul from the depths of Sheol.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19086014">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				O God, insolent men have 
+				<crossref let="f" cid="c19086014.1">
+				</crossref>
+				risen up against me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a band of ruthless men seeks my life,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and they do not set you before them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				But you, O Lord, are a God 
+				<crossref let="g" cid="c19086015.1">
+				</crossref>
+				merciful and gracious,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				slow to anger and abounding in steadfast love and faithfulness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c19086016.1">
+				</crossref>
+				Turn to me and be gracious to me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				give your strength to 
+				<crossref let="i" cid="c19086016.2">
+				</crossref>
+				your servant,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and save 
+				<crossref let="i" cid="c19086016.3">
+				</crossref>
+				the son of your maidservant.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19086017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c19086017.1">
+				</crossref>
+				Show me a sign of your 
+				<crossref let="k" cid="c19086017.2">
+				</crossref>
+				favor,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that those who hate me may see and be put to shame
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because you, 
+				<span class="divine-name">
+					Lord
+				</span>
+				, have helped me and comforted me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

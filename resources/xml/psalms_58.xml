@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19058001">
+		</marker>
+		<chapter num="58">
+			<heading
+				>
+				God Who Judges the Earth
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: according to 
+				<crossref let="h" cid="c19058001.1">
+				</crossref>
+				Do Not Destroy. A 
+				<crossref let="i" cid="c19058001.2">
+				</crossref>
+				Miktam
+				<note nid="n19058001.1">
+				</note>
+				 of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Do you indeed decree what is right, you gods?
+				<note nid="n19058001.2">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Do you judge the children of man uprightly?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19058002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				No, in your hearts you devise wrongs;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your hands 
+				<crossref let="j" cid="c19058002.1">
+				</crossref>
+				deal out violence on earth.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19058003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				The wicked are 
+				<crossref let="k" cid="c19058003.1">
+				</crossref>
+				estranged from the womb;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they go astray from birth, speaking lies.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19058004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19058004.1">
+				</crossref>
+				They have venom like the venom of a serpent,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like the deaf adder that stops its ear,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19058005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				so that it 
+				<crossref let="m" cid="c19058005.1">
+				</crossref>
+				does not hear the voice of charmers
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or of the cunning enchanter.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19058006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				O God, 
+				<crossref let="n" cid="c19058006.1">
+				</crossref>
+				break the teeth in their mouths;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				tear out the fangs of the young lions, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19058007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Let them 
+				<crossref let="o" cid="c19058007.1">
+				</crossref>
+				vanish like water that runs away;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when he 
+				<crossref let="p" cid="c19058007.2">
+				</crossref>
+				aims his arrows, let them be blunted.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19058008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Let them be like the snail 
+				<crossref let="o" cid="c19058008.1">
+				</crossref>
+				that dissolves into slime,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like 
+				<crossref let="q" cid="c19058008.2">
+				</crossref>
+				the stillborn child who never sees the sun.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19058009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Sooner than your pots can feel the heat of 
+				<crossref let="r" cid="c19058009.1">
+				</crossref>
+				thorns,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				whether green or ablaze, may he 
+				<crossref let="s" cid="c19058009.2">
+				</crossref>
+				sweep them away!
+				<note nid="n19058009.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19058010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c19058010.1">
+				</crossref>
+				The righteous will rejoice when he sees the vengeance;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he will 
+				<crossref let="u" cid="c19058010.2">
+				</crossref>
+				bathe his feet in the blood of the wicked.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19058011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Mankind will say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Surely there is 
+				<crossref let="v" cid="c19058011.1">
+				</crossref>
+				a reward for the righteous;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				surely there is a God who 
+				<crossref let="w" cid="c19058011.2">
+				</crossref>
+				judges on earth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

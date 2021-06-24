@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40014001">
+		</marker>
+		<chapter num="14">
+			<heading
+				>
+				The Death of John the Baptist
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="v" cid="c40014001.1">
+				</crossref>
+				<crossref cid="t40014001.1">
+				</crossref>
+				At that time 
+				<crossref let="w" cid="c40014001.2">
+				</crossref>
+				Herod the tetrarch heard about the fame of Jesus,
+			</verse>
+			<marker class="begin-verse" mid="v40014002">
+			</marker>
+			<verse num="2">
+				and he said to his servants, 
+				<crossref let="x" cid="c40014002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is John the Baptist. He has been raised from the dead; that is why these miraculous powers are at work in him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40014003">
+			</marker>
+			<verse num="3">
+				For 
+				<crossref let="y" cid="c40014003.1">
+				</crossref>
+				Herod had seized John and bound him and 
+				<crossref let="z" cid="c40014003.2">
+				</crossref>
+				put him in prison for the sake of Herodias, his brother Philip's wife,
+				<note nid="n40014003.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v40014004">
+			</marker>
+			<verse num="4">
+				because John had been saying to him, 
+				<crossref let="a" cid="c40014004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is not lawful for you to have her.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40014005">
+			</marker>
+			<verse num="5">
+				And though he wanted to put him to death, 
+				<crossref let="b" cid="c40014005.1">
+				</crossref>
+				he feared the people, because they held him to be 
+				<crossref let="c" cid="c40014005.2">
+				</crossref>
+				a prophet.
+			</verse>
+			<marker class="begin-verse" mid="v40014006">
+			</marker>
+			<verse num="6">
+				But when Herod's 
+				<crossref let="d" cid="c40014006.1">
+				</crossref>
+				birthday came, the daughter of Herodias danced before the company and pleased Herod,
+			</verse>
+			<marker class="begin-verse" mid="v40014007">
+			</marker>
+			<verse num="7">
+				so that he promised with an oath to give her whatever she might ask.
+			</verse>
+			<marker class="begin-verse" mid="v40014008">
+			</marker>
+			<verse num="8">
+				Prompted by her mother, she said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give me the head of John the Baptist here on a platter.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40014009">
+			</marker>
+			<verse num="9">
+				And the king was sorry, but because of his oaths and his guests he commanded it to be given.
+			</verse>
+			<marker class="begin-verse" mid="v40014010">
+			</marker>
+			<verse num="10">
+				He sent and had John beheaded in the prison,
+			</verse>
+			<marker class="begin-verse" mid="v40014011">
+			</marker>
+			<verse num="11">
+				and his head was brought on a platter and given to the girl, and she brought it to her mother.
+			</verse>
+			<marker class="begin-verse" mid="v40014012">
+			</marker>
+			<verse num="12">
+				And 
+				<crossref let="e" cid="c40014012.1">
+				</crossref>
+				his disciples came and took the body and buried it, and they went and told Jesus.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40014013">
+			</marker>
+			<heading
+				>
+				Jesus Feeds the Five Thousand
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				Now when Jesus heard this, 
+				<crossref let="f" cid="c40014013.1">
+				</crossref>
+				<crossref cid="t40014013.1">
+				</crossref>
+				he withdrew from there in a boat to a desolate place by himself. But when the crowds heard it, they followed him on foot from the towns.
+			</verse>
+			<marker class="begin-verse" mid="v40014014">
+			</marker>
+			<verse num="14">
+				When he went ashore he 
+				<crossref let="g" cid="c40014014.1">
+				</crossref>
+				saw a great crowd, and 
+				<crossref let="g" cid="c40014014.2">
+				</crossref>
+				he had compassion on them and healed their sick.
+			</verse>
+			<marker class="begin-verse" mid="v40014015">
+			</marker>
+			<verse num="15">
+				Now when it was evening, the disciples came to him and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is a desolate place, and the day is now over; 
+				<crossref let="h" cid="c40014015.1">
+				</crossref>
+				send the crowds away to go into the villages and buy food for themselves.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40014016">
+			</marker>
+			<verse num="16">
+				But Jesus said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					They need not go away; 
+					<crossref let="i" cid="c40014016.1">
+					</crossref>
+					you give them something to eat.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40014017">
+			</marker>
+			<verse num="17">
+				They said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We have only five loaves here and two fish.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40014018">
+			</marker>
+			<verse num="18">
+				And he said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Bring them here to me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40014019">
+			</marker>
+			<verse num="19">
+				Then he ordered the crowds to sit down on the grass, and taking the five loaves and the two fish, 
+				<crossref let="j" cid="c40014019.1">
+				</crossref>
+				he looked up to heaven and 
+				<crossref let="k" cid="c40014019.2">
+				</crossref>
+				said a blessing. Then he broke the loaves and gave them to the disciples, and the disciples gave them to the crowds.
+			</verse>
+			<marker class="begin-verse" mid="v40014020">
+			</marker>
+			<verse num="20">
+				And they all ate and were satisfied. And they took up twelve baskets full of the broken pieces left over.
+			</verse>
+			<marker class="begin-verse" mid="v40014021">
+			</marker>
+			<verse num="21">
+				And those who ate were about five thousand men, besides women and children.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40014022">
+			</marker>
+			<heading
+				>
+				Jesus Walks on the Water
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				<crossref let="l" cid="c40014022.1">
+				</crossref>
+				<crossref cid="t40014022.1">
+				</crossref>
+				Immediately he 
+				<crossref let="m" cid="c40014022.2">
+				</crossref>
+				made the disciples get into the boat and go before him to the other side, while he dismissed the crowds.
+			</verse>
+			<marker class="begin-verse" mid="v40014023">
+			</marker>
+			<verse num="23">
+				And after he had dismissed the crowds, 
+				<crossref let="n" cid="c40014023.1">
+				</crossref>
+				he went up on the mountain by himself to pray. When 
+				<crossref let="o" cid="c40014023.2">
+				</crossref>
+				evening came, he was there alone,
+			</verse>
+			<marker class="begin-verse" mid="v40014024">
+			</marker>
+			<verse num="24">
+				but the boat by this time was a long way
+				<note nid="n40014024.1">
+				</note>
+				 from the land,
+				<note nid="n40014024.2">
+				</note>
+				 beaten by the waves, for the wind was against them.
+			</verse>
+			<marker class="begin-verse" mid="v40014025">
+			</marker>
+			<verse num="25">
+				And 
+				<crossref let="l" cid="c40014025.1">
+				</crossref>
+				in the fourth watch of the night he came to them, walking on the sea.
+			</verse>
+			<marker class="begin-verse" mid="v40014026">
+			</marker>
+			<verse num="26">
+				But when the disciples saw him walking on the sea, 
+				<crossref let="p" cid="c40014026.1">
+				</crossref>
+				they were terrified, and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is a ghost!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 and they cried out in fear.
+			</verse>
+			<marker class="begin-verse" mid="v40014027">
+			</marker>
+			<verse num="27">
+				But immediately Jesus spoke to them, saying, 
+				<woc
+					>
+					<crossref let="q" cid="c40014027.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Take heart; it is I. 
+					<crossref let="q" cid="c40014027.2">
+					</crossref>
+					Do not be afraid.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40014028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				And Peter answered him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, if it is you, command me to come to you on the water.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40014029">
+			</marker>
+			<verse num="29">
+				He said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Come.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 So Peter got out of the boat and 
+				<crossref let="r" cid="c40014029.1">
+				</crossref>
+				walked on the water and came to Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v40014030">
+			</marker>
+			<verse num="30">
+				But when he saw the wind,
+				<note nid="n40014030.1">
+				</note>
+				 he was afraid, and beginning to sink he cried out, 
+				<crossref let="s" cid="c40014030.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, save me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40014031">
+			</marker>
+			<verse num="31">
+				Jesus immediately reached out his hand and took hold of him, saying to him, 
+				<woc
+					>
+					<crossref let="t" cid="c40014031.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					O you of little faith, why did you 
+					<crossref let="u" cid="c40014031.2">
+					</crossref>
+					doubt?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40014032">
+			</marker>
+			<verse num="32">
+				And when they got into the boat, 
+				<crossref let="s" cid="c40014032.1">
+				</crossref>
+				the wind ceased.
+			</verse>
+			<marker class="begin-verse" mid="v40014033">
+			</marker>
+			<verse num="33">
+				And 
+				<crossref let="v" cid="c40014033.1">
+				</crossref>
+				those in the boat 
+				<crossref let="w" cid="c40014033.2">
+				</crossref>
+				worshiped him, saying, 
+				<crossref let="x" cid="c40014033.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Truly you are 
+				<crossref let="y" cid="c40014033.4">
+				</crossref>
+				the Son of God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40014034">
+			</marker>
+			<heading
+				>
+				Jesus Heals the Sick in Gennesaret
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="34">
+				<crossref let="z" cid="c40014034.1">
+				</crossref>
+				<crossref cid="t40014034.1">
+				</crossref>
+				And when they had crossed over, they came to land at 
+				<crossref let="a" cid="c40014034.2">
+				</crossref>
+				Gennesaret.
+			</verse>
+			<marker class="begin-verse" mid="v40014035">
+			</marker>
+			<verse num="35">
+				And when the men of that place recognized him, they sent around to all that region and 
+				<crossref let="b" cid="c40014035.1">
+				</crossref>
+				brought to him all who were sick
+			</verse>
+			<marker class="begin-verse" mid="v40014036">
+			</marker>
+			<verse num="36">
+				and implored him that they might only touch 
+				<crossref let="c" cid="c40014036.1">
+				</crossref>
+				the fringe of his garment. And 
+				<crossref let="d" cid="c40014036.2">
+				</crossref>
+				as many as touched it were made well.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

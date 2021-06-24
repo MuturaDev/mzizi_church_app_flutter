@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Samuel" num="9">
+		<marker class="begin-verse" mid="v10007001">
+		</marker>
+		<chapter num="7">
+			<heading
+				>
+				God's Covenant with David
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="s" cid="c10007001.1">
+				</crossref>
+				Now when the king lived in his house and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="t" cid="c10007001.2">
+				</crossref>
+				had given him rest from all his surrounding enemies,
+			</verse>
+			<marker class="begin-verse" mid="v10007002">
+			</marker>
+			<verse num="2">
+				the king said to 
+				<crossref let="u" cid="c10007002.1">
+				</crossref>
+				Nathan the prophet, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See now, I dwell 
+				<crossref let="v" cid="c10007002.2">
+				</crossref>
+				in a house of cedar, but the ark of God dwells 
+				<crossref let="w" cid="c10007002.3">
+				</crossref>
+				in a tent.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10007003">
+			</marker>
+			<verse num="3">
+				And Nathan said to the king, 
+				<crossref let="x" cid="c10007003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go, do all that is in your heart, for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is with you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10007004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				But that same night the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to Nathan,
+			</verse>
+			<marker class="begin-verse" mid="v10007005">
+			</marker>
+			<verse num="5">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go and tell my servant David, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				: 
+				<crossref let="y" cid="c10007005.1">
+				</crossref>
+				Would you build me a house to dwell in?
+			</verse>
+			<marker class="begin-verse" mid="v10007006">
+			</marker>
+			<verse num="6">
+				I have not lived in a house 
+				<crossref let="z" cid="c10007006.1">
+				</crossref>
+				since the day I brought up the people of Israel from Egypt to this day, but I have been moving about 
+				<crossref let="a" cid="c10007006.2">
+				</crossref>
+				in a tent for my dwelling.
+			</verse>
+			<marker class="begin-verse" mid="v10007007">
+			</marker>
+			<verse num="7">
+				In all places where 
+				<crossref let="b" cid="c10007007.1">
+				</crossref>
+				I have moved with all the people of Israel, did I speak a word with 
+				<crossref let="c" cid="c10007007.2">
+				</crossref>
+				any of the judges
+				<note nid="n10007007.1">
+				</note>
+				 of Israel, whom I commanded 
+				<crossref let="d" cid="c10007007.3">
+				</crossref>
+				to shepherd my people Israel, saying, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				Why have you not built me a house of cedar?
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10007008">
+			</marker>
+			<verse num="8">
+				Now, therefore, thus you shall say to my servant David, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts, 
+				<crossref let="e" cid="c10007008.1">
+				</crossref>
+				I took you from the pasture, from following the sheep, that you should be prince over my people Israel.
+			</verse>
+			<marker class="begin-verse" mid="v10007009">
+			</marker>
+			<verse num="9">
+				<crossref let="f" cid="c10007009.1">
+				</crossref>
+				And I have been with you wherever you went and have cut off all your enemies from before you. And I will make for you a great name, like the name of the great ones of the earth.
+			</verse>
+			<marker class="begin-verse" mid="v10007010">
+			</marker>
+			<verse num="10">
+				And I will appoint a place for my people Israel 
+				<crossref let="g" cid="c10007010.1">
+				</crossref>
+				and will plant them, so that they may dwell in their own place 
+				<crossref let="h" cid="c10007010.2">
+				</crossref>
+				and be disturbed no more. 
+				<crossref let="i" cid="c10007010.3">
+				</crossref>
+				And violent men shall afflict them no more, as formerly,
+			</verse>
+			<marker class="begin-verse" mid="v10007011">
+			</marker>
+			<verse num="11">
+				<crossref let="j" cid="c10007011.1">
+				</crossref>
+				from the time that I appointed judges over my people Israel. And 
+				<crossref let="k" cid="c10007011.2">
+				</crossref>
+				I will give you rest from all your enemies. Moreover, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 declares to you that 
+				<crossref let="l" cid="c10007011.3">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will make you a house.
+			</verse>
+			<marker class="begin-verse" mid="v10007012">
+			</marker>
+			<verse num="12">
+				<crossref let="m" cid="c10007012.1">
+				</crossref>
+				When your days are fulfilled and 
+				<crossref let="n" cid="c10007012.2">
+				</crossref>
+				you lie down with your fathers, 
+				<crossref let="o" cid="c10007012.3">
+				</crossref>
+				I will raise up your offspring after you, who shall come from your body, and I will establish his kingdom.
+			</verse>
+			<marker class="begin-verse" mid="v10007013">
+			</marker>
+			<verse num="13">
+				<crossref let="p" cid="c10007013.1">
+				</crossref>
+				He shall build a house for my name, and 
+				<crossref let="q" cid="c10007013.2">
+				</crossref>
+				I will establish the throne of his kingdom forever.
+			</verse>
+			<marker class="begin-verse" mid="v10007014">
+			</marker>
+			<verse num="14">
+				<crossref let="r" cid="c10007014.1">
+				</crossref>
+				I will be to him a father, and he shall be to me a son. When he commits iniquity, 
+				<crossref let="s" cid="c10007014.2">
+				</crossref>
+				I will discipline him with the rod of men, with the stripes of the sons of men,
+			</verse>
+			<marker class="begin-verse" mid="v10007015">
+			</marker>
+			<verse num="15">
+				<crossref let="s" cid="c10007015.1">
+				</crossref>
+				but my steadfast love will not depart from him, 
+				<crossref let="t" cid="c10007015.2">
+				</crossref>
+				as I took it from Saul, whom I put away from before you.
+			</verse>
+			<marker class="begin-verse" mid="v10007016">
+			</marker>
+			<verse num="16">
+				<crossref let="u" cid="c10007016.1">
+				</crossref>
+				And your house and your kingdom shall be made sure forever before me.
+				<note nid="n10007016.1">
+				</note>
+				<crossref let="u" cid="c10007016.2">
+				</crossref>
+				Your throne shall be established forever.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10007017">
+			</marker>
+			<verse num="17">
+				In accordance with all these words, and in accordance with all this vision, Nathan spoke to David.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10007018">
+			</marker>
+			<heading
+				>
+				David's Prayer of Gratitude
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				Then King David went in and sat before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and said, 
+				<crossref let="v" cid="c10007018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who am I, O Lord 
+				<span class="divine-name">
+					God
+				</span>
+				, and what is my house, that you have brought me thus far?
+			</verse>
+			<marker class="begin-verse" mid="v10007019">
+			</marker>
+			<verse num="19">
+				And yet this was a small thing in your eyes, O Lord 
+				<span class="divine-name">
+					God
+				</span>
+				. 
+				<crossref let="w" cid="c10007019.1">
+				</crossref>
+				You have spoken also of your servant's house for a great while to come, and this is instruction for mankind, O Lord 
+				<span class="divine-name">
+					God
+				</span>
+				!
+			</verse>
+			<marker class="begin-verse" mid="v10007020">
+			</marker>
+			<verse num="20">
+				And what more can David say to you? 
+				<crossref let="x" cid="c10007020.1">
+				</crossref>
+				For you know your servant, O Lord 
+				<span class="divine-name">
+					God
+				</span>
+				!
+			</verse>
+			<marker class="begin-verse" mid="v10007021">
+			</marker>
+			<verse num="21">
+				Because of your promise, and according to your own heart, you have brought about all this greatness, to make your servant know it.
+			</verse>
+			<marker class="begin-verse" mid="v10007022">
+			</marker>
+			<verse num="22">
+				<crossref let="y" cid="c10007022.1">
+				</crossref>
+				Therefore you are great, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God. 
+				<crossref let="z" cid="c10007022.2">
+				</crossref>
+				For there is none like you, and there is no God besides you, according to all that we have heard with our ears.
+			</verse>
+			<marker class="begin-verse" mid="v10007023">
+			</marker>
+			<verse num="23">
+				<crossref let="a" cid="c10007023.1">
+				</crossref>
+				And who is like your people Israel, the one nation on earth whom God went to redeem to be his people, making himself a name 
+				<crossref let="b" cid="c10007023.2">
+				</crossref>
+				and doing for them
+				<note nid="n10007023.1">
+				</note>
+				 great and awesome things by driving out
+				<note nid="n10007023.2">
+				</note>
+				 before your people, whom 
+				<crossref let="c" cid="c10007023.3">
+				</crossref>
+				you redeemed for yourself from Egypt, a nation and its gods?
+			</verse>
+			<marker class="begin-verse" mid="v10007024">
+			</marker>
+			<verse num="24">
+				<crossref let="d" cid="c10007024.1">
+				</crossref>
+				And you established for yourself your people Israel to be your people forever. And you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, became their God.
+			</verse>
+			<marker class="begin-verse" mid="v10007025">
+			</marker>
+			<verse num="25">
+				And now, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God, confirm forever the word that you have spoken concerning your servant and concerning his house, and do as you have spoken.
+			</verse>
+			<marker class="begin-verse" mid="v10007026">
+			</marker>
+			<verse num="26">
+				And your name will be magnified forever, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts is God over Israel,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 and the house of your servant David will be established before you.
+			</verse>
+			<marker class="begin-verse" mid="v10007027">
+			</marker>
+			<verse num="27">
+				For you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts, the God of Israel, have made this revelation to your servant, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will build you a house.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 Therefore your servant has found courage to pray this prayer to you.
+			</verse>
+			<marker class="begin-verse" mid="v10007028">
+			</marker>
+			<verse num="28">
+				And now, O Lord 
+				<span class="divine-name">
+					God
+				</span>
+				, you are God, and 
+				<crossref let="e" cid="c10007028.1">
+				</crossref>
+				your words are true, and you have promised this good thing to your servant.
+			</verse>
+			<marker class="begin-verse" mid="v10007029">
+			</marker>
+			<verse num="29">
+				Now therefore may it please you to bless the house of your servant, so that it may continue forever before you. For you, O Lord 
+				<span class="divine-name">
+					God
+				</span>
+				, have spoken, 
+				<crossref let="f" cid="c10007029.1">
+				</crossref>
+				and with your blessing shall the house of your servant be blessed forever.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02017001">
+		</marker>
+		<chapter num="17">
+			<heading
+				>
+				Water from the Rock
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="w" cid="c02017001.1">
+				</crossref>
+				All the congregation of the people of Israel moved on from the wilderness of Sin by stages, according to the commandment of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and camped at Rephidim, but there was no water for the people to drink.
+			</verse>
+			<marker class="begin-verse" mid="v02017002">
+			</marker>
+			<verse num="2">
+				<crossref let="x" cid="c02017002.1">
+				</crossref>
+				Therefore the people quarreled with Moses and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give us water to drink.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Moses said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do you quarrel with me? Why do you 
+				<crossref let="y" cid="c02017002.2">
+				</crossref>
+				test the 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02017003">
+			</marker>
+			<verse num="3">
+				But the people thirsted there for water, and 
+				<crossref let="z" cid="c02017003.1">
+				</crossref>
+				the people grumbled against Moses and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why did you bring us up out of Egypt, to kill us and our children and our livestock with thirst?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02017004">
+			</marker>
+			<verse num="4">
+				So Moses cried to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What shall I do with this people? They are almost ready 
+				<crossref let="a" cid="c02017004.1">
+				</crossref>
+				to stone me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02017005">
+			</marker>
+			<verse num="5">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Pass on before the people, taking with you some of the elders of Israel, and take in your hand the staff with 
+				<crossref let="b" cid="c02017005.1">
+				</crossref>
+				which you struck the Nile, and go.
+			</verse>
+			<marker class="begin-verse" mid="v02017006">
+			</marker>
+			<verse num="6">
+				<crossref let="c" cid="c02017006.1">
+				</crossref>
+				Behold, I will stand before you there on the rock at Horeb, and you shall strike the rock, and water shall come out of it, and the people will drink.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Moses did so, in the sight of the elders of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v02017007">
+			</marker>
+			<verse num="7">
+				And he called the name of the place 
+				<crossref let="d" cid="c02017007.1">
+				</crossref>
+				Massah
+				<note nid="n02017007.1">
+				</note>
+				 and 
+				<crossref let="e" cid="c02017007.2">
+				</crossref>
+				Meribah,
+				<note nid="n02017007.2">
+				</note>
+				 because of the quarreling of the people of Israel, and because they tested the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 by saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 among us or not?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02017008">
+			</marker>
+			<heading
+				>
+				Israel Defeats Amalek
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				<crossref let="f" cid="c02017008.1">
+				</crossref>
+				Then Amalek came and fought with Israel at Rephidim.
+			</verse>
+			<marker class="begin-verse" mid="v02017009">
+			</marker>
+			<verse num="9">
+				So Moses said to 
+				<crossref let="g" cid="c02017009.1">
+				</crossref>
+				Joshua, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Choose for us men, and go out and fight with Amalek. Tomorrow I will stand on the top of the hill with 
+				<crossref let="h" cid="c02017009.2">
+				</crossref>
+				the staff of God in my hand.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02017010">
+			</marker>
+			<verse num="10">
+				So 
+				<crossref let="g" cid="c02017010.1">
+				</crossref>
+				Joshua did as Moses told him, and fought with Amalek, while Moses, Aaron, and 
+				<crossref let="i" cid="c02017010.2">
+				</crossref>
+				Hur went up to the top of the hill.
+			</verse>
+			<marker class="begin-verse" mid="v02017011">
+			</marker>
+			<verse num="11">
+				Whenever Moses 
+				<crossref let="j" cid="c02017011.1">
+				</crossref>
+				held up his hand, Israel prevailed, and whenever he lowered his hand, Amalek prevailed.
+			</verse>
+			<marker class="begin-verse" mid="v02017012">
+			</marker>
+			<verse num="12">
+				But Moses' hands grew weary, so they took a stone and put it under him, and he sat on it, while Aaron and 
+				<crossref let="i" cid="c02017012.1">
+				</crossref>
+				Hur held up his hands, one on one side, and the other on the other side. So his hands were steady until the going down of the sun.
+			</verse>
+			<marker class="begin-verse" mid="v02017013">
+			</marker>
+			<verse num="13">
+				And 
+				<crossref let="g" cid="c02017013.1">
+				</crossref>
+				Joshua overwhelmed Amalek and his people with the sword.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02017014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Write this as a memorial in a book and recite it in the ears of 
+				<crossref let="g" cid="c02017014.1">
+				</crossref>
+				Joshua, that 
+				<crossref let="k" cid="c02017014.2">
+				</crossref>
+				I will utterly blot out the memory of Amalek from under heaven.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02017015">
+			</marker>
+			<verse num="15">
+				And Moses 
+				<crossref let="l" cid="c02017015.1">
+				</crossref>
+				built an altar and called the name of it, The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Is My Banner,
+			</verse>
+			<marker class="begin-verse" mid="v02017016">
+			</marker>
+			<verse num="16">
+				saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				A hand upon the throne
+				<note nid="n02017016.1">
+				</note>
+				 of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				! 
+				<crossref let="k" cid="c02017016.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will have war with Amalek from generation to generation.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

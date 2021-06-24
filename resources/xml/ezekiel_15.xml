@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ezekiel" num="25">
+		<marker class="begin-verse" mid="v26015001">
+		</marker>
+		<chapter num="15">
+			<heading
+				>
+				Jerusalem, a Useless Vine
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me:
+			</verse>
+			<marker class="begin-verse" mid="v26015002">
+			</marker>
+			<verse num="2">
+				<crossref let="q" cid="c26015002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Son of man, how does 
+				<crossref let="r" cid="c26015002.2">
+				</crossref>
+				the wood of the vine surpass any wood, the vine branch that is among the trees of the forest?
+			</verse>
+			<marker class="begin-verse" mid="v26015003">
+			</marker>
+			<verse num="3">
+				Is wood taken from it to make anything? Do people take 
+				<crossref let="s" cid="c26015003.1">
+				</crossref>
+				a peg from it to hang any vessel on it?
+			</verse>
+			<marker class="begin-verse" mid="v26015004">
+			</marker>
+			<verse num="4">
+				<crossref let="t" cid="c26015004.1">
+				</crossref>
+				Behold, it is given to the fire for fuel. When the fire has consumed both ends of it, and the middle of it is charred, is it useful for anything?
+			</verse>
+			<marker class="begin-verse" mid="v26015005">
+			</marker>
+			<verse num="5">
+				<crossref let="u" cid="c26015005.1">
+				</crossref>
+				Behold, when it was whole, it was used for nothing. How much less, when the fire has consumed it and it is charred, can it ever be used for anything!
+			</verse>
+			<marker class="begin-verse" mid="v26015006">
+			</marker>
+			<verse num="6">
+				Therefore thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				: 
+				<crossref let="v" cid="c26015006.1">
+				</crossref>
+				Like the wood of the vine among the trees of the forest, 
+				<crossref let="t" cid="c26015006.2">
+				</crossref>
+				which I have given to the fire for fuel, so have I given up the inhabitants of Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v26015007">
+			</marker>
+			<verse num="7">
+				<crossref let="w" cid="c26015007.1">
+				</crossref>
+				And I will set my face against them. Though 
+				<crossref let="x" cid="c26015007.2">
+				</crossref>
+				they escape from the fire, the fire shall yet consume them, 
+				<crossref let="y" cid="c26015007.3">
+				</crossref>
+				and you will know that I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="w" cid="c26015007.4">
+				</crossref>
+				when I set my face against them.
+			</verse>
+			<marker class="begin-verse" mid="v26015008">
+			</marker>
+			<verse num="8">
+				<crossref let="z" cid="c26015008.1">
+				</crossref>
+				And I will make the land desolate, because 
+				<crossref let="a" cid="c26015008.2">
+				</crossref>
+				they have acted faithlessly, declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

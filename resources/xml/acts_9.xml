@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Acts" num="43">
+		<marker class="begin-verse" mid="v44009001">
+		</marker>
+		<chapter num="9">
+			<heading>
+				The Conversion of Saul
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="1">
+				But Saul, 
+				<crossref let="b" cid="c44009001.1">
+				</crossref>
+				still 
+				<crossref let="c" cid="c44009001.2">
+				</crossref>
+				breathing threats and murder against the disciples of the Lord, went to 
+				<crossref let="d" cid="c44009001.3">
+				</crossref>
+				the high priest
+			</verse>
+			<marker class="begin-verse" mid="v44009002">
+			</marker>
+			<verse num="2">
+				and asked him for letters 
+				<crossref let="e" cid="c44009002.1">
+				</crossref>
+				to the synagogues at Damascus, so that if he found any belonging to 
+				<crossref let="f" cid="c44009002.2">
+				</crossref>
+				the Way, men or women, he might bring them bound to Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v44009003">
+			</marker>
+			<verse num="3">
+				<crossref let="g" cid="c44009003.1">
+				</crossref>
+				Now as he went on his way, he approached Damascus, and suddenly a light from heaven flashed around him.
+			</verse>
+			<marker class="begin-verse" mid="v44009004">
+			</marker>
+			<verse num="4">
+				And falling to the ground he heard a voice saying to him, 
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Saul, Saul, why are you persecuting 
+					<crossref let="h" cid="c44009004.1">
+					</crossref>
+					me?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44009005">
+			</marker>
+			<verse num="5">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who are you, Lord?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he said, 
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I am Jesus, 
+					<crossref let="h" cid="c44009005.1">
+					</crossref>
+					whom you are persecuting.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44009006">
+			</marker>
+			<verse num="6" class="woc">
+				<woc>
+					But 
+					<crossref let="i" cid="c44009006.1">
+					</crossref>
+					rise and enter the city, and you will be told 
+					<crossref let="j" cid="c44009006.2">
+					</crossref>
+					what you are to do.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44009007">
+			</marker>
+			<verse num="7">
+				<crossref let="k" cid="c44009007.1">
+				</crossref>
+				The men who were traveling with him stood speechless, 
+				<crossref let="l" cid="c44009007.2">
+				</crossref>
+				hearing the voice but seeing no one.
+			</verse>
+			<marker class="begin-verse" mid="v44009008">
+			</marker>
+			<verse num="8">
+				Saul rose from the ground, and although his eyes were opened, 
+				<crossref let="m" cid="c44009008.1">
+				</crossref>
+				he saw nothing. So they led him by the hand and brought him into Damascus.
+			</verse>
+			<marker class="begin-verse" mid="v44009009">
+			</marker>
+			<verse num="9">
+				And for three days he was without sight, and neither ate nor drank.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44009010">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="10">
+				Now there was a disciple at Damascus named 
+				<crossref let="n" cid="c44009010.1">
+				</crossref>
+				Ananias. The Lord said to him in a vision, 
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Ananias.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And he said, 
+				<crossref let="o" cid="c44009010.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Here I am, Lord.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44009011">
+			</marker>
+			<verse num="11">
+				And the Lord said to him, 
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Rise and go to the street called Straight, and at the house of Judas look for a man 
+					<crossref let="p" cid="c44009011.1">
+					</crossref>
+					of Tarsus named Saul, for behold, he is praying,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44009012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc>
+					and he has seen in a vision a man named Ananias come in and 
+					<crossref let="q" cid="c44009012.1">
+					</crossref>
+					lay his hands on him so that he might regain his sight.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44009013">
+			</marker>
+			<verse num="13">
+				But Ananias answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, I have heard from many about this man, 
+				<crossref let="r" cid="c44009013.1">
+				</crossref>
+				how much evil he has done to 
+				<crossref let="s" cid="c44009013.2">
+				</crossref>
+				your 
+				<crossref let="t" cid="c44009013.3">
+				</crossref>
+				saints at Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v44009014">
+			</marker>
+			<verse num="14">
+				And here he has authority from 
+				<crossref let="u" cid="c44009014.1">
+				</crossref>
+				the chief priests to bind all who 
+				<crossref let="v" cid="c44009014.2">
+				</crossref>
+				call on your name.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44009015">
+			</marker>
+			<verse num="15">
+				But the Lord said to him, 
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go, for 
+					<crossref let="w" cid="c44009015.1">
+					</crossref>
+					he is a chosen instrument of mine to carry my name 
+					<crossref let="x" cid="c44009015.2">
+					</crossref>
+					before the Gentiles and 
+					<crossref let="y" cid="c44009015.3">
+					</crossref>
+					kings and the children of Israel.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44009016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc>
+					For 
+					<crossref let="z" cid="c44009016.1">
+					</crossref>
+					I will show him how much 
+					<crossref let="a" cid="c44009016.2">
+					</crossref>
+					he must suffer 
+					<crossref let="b" cid="c44009016.3">
+					</crossref>
+					for the sake of my name.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44009017">
+			</marker>
+			<verse num="17">
+				So 
+				<crossref let="c" cid="c44009017.1">
+				</crossref>
+				Ananias departed and entered the house. And 
+				<crossref let="d" cid="c44009017.2">
+				</crossref>
+				laying his hands on him he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Brother Saul, the Lord Jesus who appeared to you on the road by which you came has sent me so that you may regain your sight and 
+				<crossref let="e" cid="c44009017.3">
+				</crossref>
+				be filled with the Holy Spirit.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44009018">
+			</marker>
+			<verse num="18">
+				And immediately something like scales fell from his eyes, and 
+				<crossref let="f" cid="c44009018.1">
+				</crossref>
+				he regained his sight. Then 
+				<crossref let="g" cid="c44009018.2">
+				</crossref>
+				he rose and was baptized;
+			</verse>
+			<marker class="begin-verse" mid="v44009019">
+			</marker>
+			<verse num="19">
+				and 
+				<crossref let="h" cid="c44009019.1">
+				</crossref>
+				taking food, he was strengthened.
+
+				<end-paragraph>
+				</end-paragraph>
+				<heading>
+					Saul Proclaims Jesus in Synagogues
+				</heading>
+				<begin-paragraph>
+				</begin-paragraph>
+				 For 
+				<crossref let="i" cid="c44009019.2">
+				</crossref>
+				some days he was with the disciples at Damascus.
+			</verse>
+			<marker class="begin-verse" mid="v44009020">
+			</marker>
+			<verse num="20">
+				And immediately he proclaimed Jesus in the synagogues, saying, 
+				<crossref let="j" cid="c44009020.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He is the Son of God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44009021">
+			</marker>
+			<verse num="21">
+				And all who heard him were amazed and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is not this the man who 
+				<crossref let="k" cid="c44009021.1">
+				</crossref>
+				made havoc 
+				<crossref let="l" cid="c44009021.2">
+				</crossref>
+				in Jerusalem of those who called upon this name? And has he not come here for this purpose, to bring them bound before the chief priests?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44009022">
+			</marker>
+			<verse num="22">
+				But Saul 
+				<crossref let="m" cid="c44009022.1">
+				</crossref>
+				increased all the more in strength, and 
+				<crossref let="n" cid="c44009022.2">
+				</crossref>
+				confounded the Jews who lived in Damascus by proving 
+				<crossref let="o" cid="c44009022.3">
+				</crossref>
+				that Jesus was the Christ.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44009023">
+			</marker>
+			<heading>
+				Saul Escapes from Damascus
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="23">
+				<crossref let="p" cid="c44009023.1">
+				</crossref>
+				When many days had passed, the Jews plotted to kill him,
+			</verse>
+			<marker class="begin-verse" mid="v44009024">
+			</marker>
+			<verse num="24">
+				but their 
+				<crossref let="q" cid="c44009024.1">
+				</crossref>
+				plot became known to Saul. 
+				<crossref let="r" cid="c44009024.2">
+				</crossref>
+				They were watching the gates day and night in order to kill him,
+			</verse>
+			<marker class="begin-verse" mid="v44009025">
+			</marker>
+			<verse num="25">
+				but his disciples took him by night and 
+				<crossref let="s" cid="c44009025.1">
+				</crossref>
+				let him down through an opening in the wall,
+				<note nid="n44009025.1">
+				</note>
+				 lowering him in a basket.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44009026">
+			</marker>
+			<heading>
+				Saul in Jerusalem
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="26">
+				And 
+				<crossref let="t" cid="c44009026.1">
+				</crossref>
+				when he had come to Jerusalem, he attempted to join the disciples. And they were all afraid of him, for they did not believe that he was a disciple.
+			</verse>
+			<marker class="begin-verse" mid="v44009027">
+			</marker>
+			<verse num="27">
+				But 
+				<crossref let="u" cid="c44009027.1">
+				</crossref>
+				Barnabas took him and 
+				<crossref let="v" cid="c44009027.2">
+				</crossref>
+				brought him to the apostles and declared to them 
+				<crossref let="w" cid="c44009027.3">
+				</crossref>
+				how on the road he had seen the Lord, who spoke to him, and 
+				<crossref let="x" cid="c44009027.4">
+				</crossref>
+				how at Damascus he had 
+				<crossref let="y" cid="c44009027.5">
+				</crossref>
+				preached boldly in the name of Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v44009028">
+			</marker>
+			<verse num="28">
+				So he went 
+				<crossref let="z" cid="c44009028.1">
+				</crossref>
+				in and out among them at Jerusalem, preaching boldly in the name of the Lord.
+			</verse>
+			<marker class="begin-verse" mid="v44009029">
+			</marker>
+			<verse num="29">
+				And he spoke and disputed against 
+				<crossref let="a" cid="c44009029.1">
+				</crossref>
+				the Hellenists.
+				<note nid="n44009029.1">
+				</note>
+				 But 
+				<crossref let="b" cid="c44009029.2">
+				</crossref>
+				they were seeking to kill him.
+			</verse>
+			<marker class="begin-verse" mid="v44009030">
+			</marker>
+			<verse num="30">
+				And when 
+				<crossref let="c" cid="c44009030.1">
+				</crossref>
+				the brothers learned this, they brought him down to Caesarea and sent him off 
+				<crossref let="d" cid="c44009030.2">
+				</crossref>
+				to Tarsus.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44009031">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="31">
+				So 
+				<crossref let="e" cid="c44009031.1">
+				</crossref>
+				the church throughout all Judea and Galilee and Samaria had peace and was being built up. And 
+				<crossref let="f" cid="c44009031.2">
+				</crossref>
+				walking in the fear of the Lord and in the comfort of the Holy Spirit, 
+				<crossref let="g" cid="c44009031.3">
+				</crossref>
+				it multiplied.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44009032">
+			</marker>
+			<heading>
+				The Healing of Aeneas
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="32">
+				Now 
+				<crossref let="h" cid="c44009032.1">
+				</crossref>
+				as Peter went here and there among them all, he came down also to the saints who lived at Lydda.
+			</verse>
+			<marker class="begin-verse" mid="v44009033">
+			</marker>
+			<verse num="33">
+				There he found a man named Aeneas, bedridden for eight years, who was paralyzed.
+			</verse>
+			<marker class="begin-verse" mid="v44009034">
+			</marker>
+			<verse num="34">
+				And Peter said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Aeneas, 
+				<crossref let="i" cid="c44009034.1">
+				</crossref>
+				Jesus Christ heals you; rise and make your bed.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And immediately he rose.
+			</verse>
+			<marker class="begin-verse" mid="v44009035">
+			</marker>
+			<verse num="35">
+				<crossref let="j" cid="c44009035.1">
+				</crossref>
+				And all the residents of Lydda and 
+				<crossref let="k" cid="c44009035.2">
+				</crossref>
+				Sharon saw him, and 
+				<crossref let="l" cid="c44009035.3">
+				</crossref>
+				they turned to the Lord.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44009036">
+			</marker>
+			<heading>
+				Dorcas Restored to Life
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="36">
+				Now there was in 
+				<crossref let="m" cid="c44009036.1">
+				</crossref>
+				Joppa a disciple named Tabitha, which, translated, means Dorcas.
+				<note nid="n44009036.1">
+				</note>
+				 She was full of 
+				<crossref let="n" cid="c44009036.2">
+				</crossref>
+				good works and acts of charity.
+			</verse>
+			<marker class="begin-verse" mid="v44009037">
+			</marker>
+			<verse num="37">
+				In those days she became ill and died, and when they had washed her, they laid her in 
+				<crossref let="o" cid="c44009037.1">
+				</crossref>
+				an upper room.
+			</verse>
+			<marker class="begin-verse" mid="v44009038">
+			</marker>
+			<verse num="38">
+				Since Lydda was near Joppa, the disciples, hearing that Peter was there, sent two men to him, urging him, 
+				<crossref let="p" cid="c44009038.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please come to us without delay.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44009039">
+			</marker>
+			<verse num="39">
+				So Peter rose and went with them. And when he arrived, they took him to 
+				<crossref let="q" cid="c44009039.1">
+				</crossref>
+				the upper room. All the widows stood beside him weeping and showing tunics
+				<note nid="n44009039.1">
+				</note>
+				 and other garments that Dorcas made while she was with them.
+			</verse>
+			<marker class="begin-verse" mid="v44009040">
+			</marker>
+			<verse num="40">
+				But Peter 
+				<crossref let="r" cid="c44009040.1">
+				</crossref>
+				put them all outside, and 
+				<crossref let="s" cid="c44009040.2">
+				</crossref>
+				knelt down and prayed; and turning to the body 
+				<crossref let="t" cid="c44009040.3">
+				</crossref>
+				he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tabitha, arise.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And she opened her eyes, and when she saw Peter she sat up.
+			</verse>
+			<marker class="begin-verse" mid="v44009041">
+			</marker>
+			<verse num="41">
+				And he gave her his hand and raised her up. Then calling the saints and widows, he presented her alive.
+			</verse>
+			<marker class="begin-verse" mid="v44009042">
+			</marker>
+			<verse num="42">
+				And it became known throughout all Joppa, and 
+				<crossref let="u" cid="c44009042.1">
+				</crossref>
+				many believed in the Lord.
+			</verse>
+			<marker class="begin-verse" mid="v44009043">
+			</marker>
+			<verse num="43">
+				And he stayed in Joppa for many days 
+				<crossref let="v" cid="c44009043.1">
+				</crossref>
+				with one Simon, a tanner.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

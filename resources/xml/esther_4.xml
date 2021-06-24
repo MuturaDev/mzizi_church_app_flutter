@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Esther" num="16">
+		<marker class="begin-verse" mid="v17004001">
+		</marker>
+		<chapter num="4">
+			<heading
+				>
+				Esther Agrees to Help the Jews
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				When Mordecai learned all that had been done, Mordecai tore his clothes 
+				<crossref let="o" cid="c17004001.1">
+				</crossref>
+				and put on sackcloth and ashes, and went out into the midst of the city, and he cried out with a loud and bitter cry.
+			</verse>
+			<marker class="begin-verse" mid="v17004002">
+			</marker>
+			<verse num="2">
+				He went up to the entrance of the king's gate, for no one was allowed to enter the king's gate clothed in sackcloth.
+			</verse>
+			<marker class="begin-verse" mid="v17004003">
+			</marker>
+			<verse num="3">
+				And in every province, wherever the king's command and his decree reached, there was great mourning among the Jews, 
+				<crossref let="p" cid="c17004003.1">
+				</crossref>
+				with fasting and weeping and lamenting, and many of them 
+				<crossref let="q" cid="c17004003.2">
+				</crossref>
+				lay in sackcloth and ashes.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v17004004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				When Esther's young women and her eunuchs came and told her, the queen was deeply distressed. She sent garments to clothe Mordecai, so that he might take off his sackcloth, but he would not accept them.
+			</verse>
+			<marker class="begin-verse" mid="v17004005">
+			</marker>
+			<verse num="5">
+				Then Esther called for Hathach, one of the king's eunuchs, who had been appointed to attend her, and ordered him to go to Mordecai to learn what this was and why it was.
+			</verse>
+			<marker class="begin-verse" mid="v17004006">
+			</marker>
+			<verse num="6">
+				Hathach went out to Mordecai in the open square of the city in front of the king's gate,
+			</verse>
+			<marker class="begin-verse" mid="v17004007">
+			</marker>
+			<verse num="7">
+				and Mordecai told him all that had happened to him, 
+				<crossref let="r" cid="c17004007.1">
+				</crossref>
+				and the exact sum of money that Haman had promised to pay into the king's treasuries for the destruction of the Jews.
+			</verse>
+			<marker class="begin-verse" mid="v17004008">
+			</marker>
+			<verse num="8">
+				Mordecai also gave him 
+				<crossref let="s" cid="c17004008.1">
+				</crossref>
+				a copy of the written decree issued in Susa for their destruction, that he might show it to Esther and explain it to her and command her to go to the king to beg his favor and plead with him on behalf of her people.
+			</verse>
+			<marker class="begin-verse" mid="v17004009">
+			</marker>
+			<verse num="9">
+				And Hathach went and told Esther what Mordecai had said.
+			</verse>
+			<marker class="begin-verse" mid="v17004010">
+			</marker>
+			<verse num="10">
+				Then Esther spoke to Hathach and commanded him to go to Mordecai and say,
+			</verse>
+			<marker class="begin-verse" mid="v17004011">
+			</marker>
+			<verse num="11">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				All the king's servants and the people of the king's provinces know that if any man or woman goes to the king inside 
+				<crossref let="t" cid="c17004011.1">
+				</crossref>
+				the inner court without being called, 
+				<crossref let="u" cid="c17004011.2">
+				</crossref>
+				there is but one lawùto be put to death, except the one 
+				<crossref let="v" cid="c17004011.3">
+				</crossref>
+				to whom the king holds out the golden scepter so that he may live. But as for me, I have not been called to come in to the king these thirty days.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v17004012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				And they told Mordecai what Esther had said.
+			</verse>
+			<marker class="begin-verse" mid="v17004013">
+			</marker>
+			<verse num="13">
+				Then Mordecai told them to reply to Esther, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not think to yourself that in the king's palace you will escape any more than all the other Jews.
+			</verse>
+			<marker class="begin-verse" mid="v17004014">
+			</marker>
+			<verse num="14">
+				For if you keep silent at this time, relief and deliverance will rise for the Jews from another place, but you and your father's house will perish. And who knows whether you have not come to the kingdom for such a time as this?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17004015">
+			</marker>
+			<verse num="15">
+				Then Esther told them to reply to Mordecai,
+			</verse>
+			<marker class="begin-verse" mid="v17004016">
+			</marker>
+			<verse num="16">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go, gather all the Jews to be found in Susa, and hold a fast on my behalf, and do not eat or drink for 
+				<crossref let="w" cid="c17004016.1">
+				</crossref>
+				three days, night or day. I and my young women will also fast as you do. Then I will go to the king, though it is against the law, 
+				<crossref let="x" cid="c17004016.2">
+				</crossref>
+				and if I perish, I perish.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17004017">
+			</marker>
+			<verse num="17">
+				Mordecai then went away and did everything as Esther had ordered him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

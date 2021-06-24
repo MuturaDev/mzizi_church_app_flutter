@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09024001">
+		</marker>
+		<chapter num="24">
+			<heading
+				>
+				David Spares Saul's Life
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<note nid="n09024001.1">
+				</note>
+				<crossref let="y" cid="c09024001.1">
+				</crossref>
+				When Saul returned from following the Philistines, he was told, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, David is in the wilderness of Engedi.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09024002">
+			</marker>
+			<verse num="2">
+				Then Saul took 
+				<crossref let="z" cid="c09024002.1">
+				</crossref>
+				three thousand chosen men out of all Israel and went to seek David and his men in front of the Wildgoats' Rocks.
+			</verse>
+			<marker class="begin-verse" mid="v09024003">
+			</marker>
+			<verse num="3">
+				And he came to the sheepfolds by the way, where there was a cave, and Saul went in 
+				<crossref let="a" cid="c09024003.1">
+				</crossref>
+				to relieve himself.
+				<note nid="n09024003.1">
+				</note>
+				 Now David and his men were sitting in the innermost parts 
+				<crossref let="b" cid="c09024003.2">
+				</crossref>
+				of the cave.
+			</verse>
+			<marker class="begin-verse" mid="v09024004">
+			</marker>
+			<verse num="4">
+				And the men of David said to him, 
+				<crossref let="c" cid="c09024004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Here is the day of which the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to you, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Behold, I will give your enemy into your hand, and you shall do to him as it shall seem good to you.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Then David arose and stealthily cut off a corner of Saul's robe.
+			</verse>
+			<marker class="begin-verse" mid="v09024005">
+			</marker>
+			<verse num="5">
+				And afterward 
+				<crossref let="d" cid="c09024005.1">
+				</crossref>
+				David's heart struck him, because he had cut off a corner of Saul's robe.
+			</verse>
+			<marker class="begin-verse" mid="v09024006">
+			</marker>
+			<verse num="6">
+				He said to his men, 
+				<crossref let="e" cid="c09024006.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 forbid that I should do this thing to my lord, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's anointed, to put out my hand against him, seeing he is 
+				<crossref let="f" cid="c09024006.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's anointed.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09024007">
+			</marker>
+			<verse num="7">
+				So David persuaded his men with these words 
+				<crossref let="g" cid="c09024007.1">
+				</crossref>
+				and did not permit them to attack Saul. And Saul rose up and left the cave and went on his way.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09024008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Afterward David also arose and went out of the cave, and called after Saul, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My lord the king!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And when Saul looked behind him, David bowed with his face to the earth and paid homage.
+			</verse>
+			<marker class="begin-verse" mid="v09024009">
+			</marker>
+			<verse num="9">
+				And David said to Saul, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do you listen to the words of men who say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Behold, David seeks your harm
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				?
+			</verse>
+			<marker class="begin-verse" mid="v09024010">
+			</marker>
+			<verse num="10">
+				Behold, this day your eyes have seen how the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 gave you today into my hand in the cave. 
+				<crossref let="h" cid="c09024010.1">
+				</crossref>
+				And some told me to kill you, but I spared you.
+				<note nid="n09024010.1">
+				</note>
+				 I said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will not put out my hand against my lord, 
+				<crossref let="f" cid="c09024010.2">
+				</crossref>
+				for he is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's anointed.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09024011">
+			</marker>
+			<verse num="11">
+				See, my father, see the corner of your robe in my hand. For by the fact that I cut off the corner of your robe and did not kill you, you may know and see that 
+				<crossref let="i" cid="c09024011.1">
+				</crossref>
+				there is no wrong or treason in my hands. I have not sinned against you, though 
+				<crossref let="j" cid="c09024011.2">
+				</crossref>
+				you hunt my life to take it.
+			</verse>
+			<marker class="begin-verse" mid="v09024012">
+			</marker>
+			<verse num="12">
+				<crossref let="k" cid="c09024012.1">
+				</crossref>
+				May the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 judge between me and you, may the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 avenge me against you, but my hand shall not be against you.
+			</verse>
+			<marker class="begin-verse" mid="v09024013">
+			</marker>
+			<verse num="13">
+				As the proverb of the ancients says, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Out of the wicked comes wickedness.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 But my hand shall not be against you.
+			</verse>
+			<marker class="begin-verse" mid="v09024014">
+			</marker>
+			<verse num="14">
+				After whom has the king of Israel come out? After whom do you pursue? 
+				<crossref let="l" cid="c09024014.1">
+				</crossref>
+				After a dead dog! 
+				<crossref let="m" cid="c09024014.2">
+				</crossref>
+				After a flea!
+			</verse>
+			<marker class="begin-verse" mid="v09024015">
+			</marker>
+			<verse num="15">
+				<crossref let="k" cid="c09024015.1">
+				</crossref>
+				May the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 therefore be judge and give sentence between me and you, and see to it and 
+				<crossref let="n" cid="c09024015.2">
+				</crossref>
+				plead my cause and deliver me from your hand.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09024016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				As soon as David had finished speaking these words to Saul, Saul said, 
+				<crossref let="o" cid="c09024016.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is this your voice, my son David?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Saul lifted up his voice and wept.
+			</verse>
+			<marker class="begin-verse" mid="v09024017">
+			</marker>
+			<verse num="17">
+				He said to David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are more righteous than I, 
+				<crossref let="p" cid="c09024017.1">
+				</crossref>
+				for you have repaid me good, whereas I have repaid you evil.
+			</verse>
+			<marker class="begin-verse" mid="v09024018">
+			</marker>
+			<verse num="18">
+				And you have declared this day how you have dealt well with me, in that you did not kill me when the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 put me into your hands.
+			</verse>
+			<marker class="begin-verse" mid="v09024019">
+			</marker>
+			<verse num="19">
+				For if a man finds his enemy, will he let him go away safe? So may the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 reward you with good for what you have done to me this day.
+			</verse>
+			<marker class="begin-verse" mid="v09024020">
+			</marker>
+			<verse num="20">
+				And now, behold, 
+				<crossref let="q" cid="c09024020.1">
+				</crossref>
+				I know that you shall surely be king, and that the kingdom of Israel shall be established in your hand.
+			</verse>
+			<marker class="begin-verse" mid="v09024021">
+			</marker>
+			<verse num="21">
+				<crossref let="r" cid="c09024021.1">
+				</crossref>
+				Swear to me therefore by the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that you will not cut off my offspring after me, and 
+				<crossref let="s" cid="c09024021.2">
+				</crossref>
+				that you will not destroy my name out of my father's house.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09024022">
+			</marker>
+			<verse num="22">
+				And David swore this to Saul. Then Saul went home, but David and his men went up 
+				<crossref let="t" cid="c09024022.1">
+				</crossref>
+				to the stronghold.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

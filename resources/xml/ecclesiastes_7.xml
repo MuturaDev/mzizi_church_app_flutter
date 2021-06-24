@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ecclesiastes" num="20">
+		<marker class="begin-verse" mid="v21007001">
+		</marker>
+		<chapter num="7">
+			<heading
+				>
+				The Contrast of Wisdom and Folly
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c21007001.1">
+				</crossref>
+				A good name is better than precious ointment,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="i" cid="c21007001.2">
+				</crossref>
+				the day of death than the day of birth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21007002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				It is better to go to the house of mourning
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				than to go to the house of feasting,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for this is the end of all mankind,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the living will 
+				<crossref let="j" cid="c21007002.1">
+				</crossref>
+				lay it to heart.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21007003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Sorrow is better than laughter,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c21007003.1">
+				</crossref>
+				for by sadness of face the heart is made glad.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21007004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				The heart of the wise is in the house of mourning,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the heart of fools is in the house of mirth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21007005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				It is 
+				<crossref let="l" cid="c21007005.1">
+				</crossref>
+				better for a man to hear the rebuke of the wise
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				than to hear the song of fools.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21007006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c21007006.1">
+				</crossref>
+				For as the crackling of 
+				<crossref let="n" cid="c21007006.2">
+				</crossref>
+				thorns under a pot,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so is the laughter of the fools;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				this also is vanity.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21007007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Surely 
+				<crossref let="o" cid="c21007007.1">
+				</crossref>
+				oppression drives the wise into madness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="p" cid="c21007007.2">
+				</crossref>
+				a bribe corrupts the heart.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21007008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Better is the end of a thing than its beginning,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="q" cid="c21007008.1">
+				</crossref>
+				the patient in spirit is better than the proud in spirit.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21007009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c21007009.1">
+				</crossref>
+				Be not quick in your spirit to become angry,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c21007009.2">
+				</crossref>
+				for anger lodges in the bosom of fools.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21007010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Say not, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why were the former days better than these?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				For it is not from wisdom that you ask this.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21007011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Wisdom is good with an inheritance,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				an advantage to those who 
+				<crossref let="t" cid="c21007011.1">
+				</crossref>
+				see the sun.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21007012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				For the protection of wisdom is like 
+				<crossref let="u" cid="c21007012.1">
+				</crossref>
+				the protection of money,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the advantage of knowledge is that 
+				<crossref let="v" cid="c21007012.2">
+				</crossref>
+				wisdom preserves the life of him who has it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21007013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				Consider 
+				<crossref let="w" cid="c21007013.1">
+				</crossref>
+				the work of God:
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c21007013.2">
+				</crossref>
+				who can make straight what he has made crooked?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v21007014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				<crossref let="y" cid="c21007014.1">
+				</crossref>
+				In the day of prosperity be joyful, and in the day of adversity consider: God has made the one as well as the other, 
+				<crossref let="z" cid="c21007014.2">
+				</crossref>
+				so that man may not find out anything that will be after him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21007015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				In my 
+				<crossref let="a" cid="c21007015.1">
+				</crossref>
+				vain life I have seen everything. There is 
+				<crossref let="b" cid="c21007015.2">
+				</crossref>
+				a righteous man who perishes in his righteousness, and there is a wicked man who 
+				<crossref let="c" cid="c21007015.3">
+				</crossref>
+				prolongs his life in his evildoing.
+			</verse>
+			<marker class="begin-verse" mid="v21007016">
+			</marker>
+			<verse num="16">
+				Be not overly righteous, and do not 
+				<crossref let="d" cid="c21007016.1">
+				</crossref>
+				make yourself too wise. Why should you destroy yourself?
+			</verse>
+			<marker class="begin-verse" mid="v21007017">
+			</marker>
+			<verse num="17">
+				Be not overly wicked, neither be a fool. 
+				<crossref let="e" cid="c21007017.1">
+				</crossref>
+				Why should you die before your time?
+			</verse>
+			<marker class="begin-verse" mid="v21007018">
+			</marker>
+			<verse num="18">
+				It is good that you should take hold of 
+				<crossref let="f" cid="c21007018.1">
+				</crossref>
+				this, and from 
+				<crossref let="g" cid="c21007018.2">
+				</crossref>
+				that 
+				<crossref let="h" cid="c21007018.3">
+				</crossref>
+				withhold not your hand, for the one who fears God shall come out from both of them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21007019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				<crossref let="i" cid="c21007019.1">
+				</crossref>
+				Wisdom gives strength to the wise man more than ten rulers who are in a city.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21007020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				Surely 
+				<crossref let="j" cid="c21007020.1">
+				</crossref>
+				there is not a righteous man on earth who does good and never sins.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21007021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				Do not take to heart all the things that people say, lest you hear 
+				<crossref let="k" cid="c21007021.1">
+				</crossref>
+				your servant cursing you.
+			</verse>
+			<marker class="begin-verse" mid="v21007022">
+			</marker>
+			<verse num="22">
+				Your heart knows that 
+				<crossref let="l" cid="c21007022.1">
+				</crossref>
+				many times you yourself have cursed others.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21007023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				All this I have tested by wisdom. 
+				<crossref let="m" cid="c21007023.1">
+				</crossref>
+				I said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will be wise,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 but it was far from me.
+			</verse>
+			<marker class="begin-verse" mid="v21007024">
+			</marker>
+			<verse num="24">
+				That which has been is far off, and 
+				<crossref let="n" cid="c21007024.1">
+				</crossref>
+				deep, very deep; 
+				<crossref let="o" cid="c21007024.2">
+				</crossref>
+				who can find it out?
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21007025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				<crossref let="p" cid="c21007025.1">
+				</crossref>
+				I turned my heart to know and to search out and to seek wisdom and the scheme of things, and to know the wickedness of folly and the foolishness that is madness.
+			</verse>
+			<marker class="begin-verse" mid="v21007026">
+			</marker>
+			<verse num="26">
+				And I find something more 
+				<crossref let="q" cid="c21007026.1">
+				</crossref>
+				bitter than death: 
+				<crossref let="r" cid="c21007026.2">
+				</crossref>
+				the woman whose heart is 
+				<crossref let="s" cid="c21007026.3">
+				</crossref>
+				snares and nets, and whose hands are fetters. He who pleases God escapes her, but 
+				<crossref let="t" cid="c21007026.4">
+				</crossref>
+				the sinner is taken by her.
+			</verse>
+			<marker class="begin-verse" mid="v21007027">
+			</marker>
+			<verse num="27">
+				Behold, this is what I found, says 
+				<crossref let="u" cid="c21007027.1">
+				</crossref>
+				the Preacher, while adding one thing to another to find the scheme of thingsù
+			</verse>
+			<marker class="begin-verse" mid="v21007028">
+			</marker>
+			<verse num="28">
+				which my soul has sought repeatedly, but I have not found. 
+				<crossref let="v" cid="c21007028.1">
+				</crossref>
+				One man among a thousand I found, but 
+				<crossref let="w" cid="c21007028.2">
+				</crossref>
+				a woman among all these I have not found.
+			</verse>
+			<marker class="begin-verse" mid="v21007029">
+			</marker>
+			<verse num="29">
+				See, this alone I found, that 
+				<crossref let="x" cid="c21007029.1">
+				</crossref>
+				God made man upright, but 
+				<crossref let="y" cid="c21007029.2">
+				</crossref>
+				they have sought out many schemes.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

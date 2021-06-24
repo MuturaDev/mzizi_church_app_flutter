@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Revelation" num="65">
+		<marker class="begin-verse" mid="v66010001">
+		</marker>
+		<chapter num="10">
+			<heading
+				>
+				The Angel and the Little Scroll
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with 
+				<crossref let="y" cid="c66010001.1">
+				</crossref>
+				a rainbow over his head, and 
+				<crossref let="z" cid="c66010001.2">
+				</crossref>
+				his face was like the sun, and 
+				<crossref let="a" cid="c66010001.3">
+				</crossref>
+				his legs like pillars of fire.
+			</verse>
+			<marker class="begin-verse" mid="v66010002">
+			</marker>
+			<verse num="2">
+				<crossref let="b" cid="c66010002.1">
+				</crossref>
+				He had a little scroll open in his hand. And he set his right foot on the sea, and his left foot on the land,
+			</verse>
+			<marker class="begin-verse" mid="v66010003">
+			</marker>
+			<verse num="3">
+				and called out with a loud voice, 
+				<crossref let="c" cid="c66010003.1">
+				</crossref>
+				like a lion roaring. When he called out, the seven thunders sounded.
+			</verse>
+			<marker class="begin-verse" mid="v66010004">
+			</marker>
+			<verse num="4">
+				And when the seven thunders had sounded, I was about to write, but I heard a voice from heaven saying, 
+				<crossref let="d" cid="c66010004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Seal up what the seven thunders have said, and do not write it down.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v66010005">
+			</marker>
+			<verse num="5">
+				And the angel whom I saw standing on the sea and on the land 
+				<crossref let="e" cid="c66010005.1">
+				</crossref>
+				raised his right hand to heaven
+			</verse>
+			<marker class="begin-verse" mid="v66010006">
+			</marker>
+			<verse num="6">
+				and swore by 
+				<crossref let="f" cid="c66010006.1">
+				</crossref>
+				him who lives forever and ever, 
+				<crossref let="g" cid="c66010006.2">
+				</crossref>
+				who created heaven and what is in it, the earth and what is in it, and the sea and what is in it, that there would be no more delay,
+			</verse>
+			<marker class="begin-verse" mid="v66010007">
+			</marker>
+			<verse num="7">
+				but that 
+				<crossref let="h" cid="c66010007.1">
+				</crossref>
+				in the days of the trumpet call to be sounded by the seventh angel, the mystery of God would be fulfilled, 
+				<crossref let="i" cid="c66010007.2">
+				</crossref>
+				just as he announced to his servants
+				<note nid="n66010007.1">
+				</note>
+				 the prophets.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v66010008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Then the voice that I had heard from heaven spoke to me again, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go, take the scroll that is open in the hand of the angel who is standing on the sea and on the land.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v66010009">
+			</marker>
+			<verse num="9">
+				So I went to the angel and told him to give me the little scroll. And he said to me, 
+				<crossref let="j" cid="c66010009.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take and 
+				<crossref let="k" cid="c66010009.2">
+				</crossref>
+				eat it; it will make your stomach bitter, but in your mouth it will be sweet as honey.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v66010010">
+			</marker>
+			<verse num="10">
+				And I took the little scroll from the hand of the angel and ate it. It was sweet as honey in my mouth, but when I had eaten it my stomach was made bitter.
+			</verse>
+			<marker class="begin-verse" mid="v66010011">
+			</marker>
+			<verse num="11">
+				And I was told, 
+				<crossref let="l" cid="c66010011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You must again prophesy about many peoples and nations and languages and kings.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

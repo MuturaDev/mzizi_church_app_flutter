@@ -1,0 +1,863 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19104001">
+		</marker>
+		<chapter num="104">
+			<heading
+				>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				 My God, You Are Very Great
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19104001.1">
+				</crossref>
+				Bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O my soul!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				 my God, you are 
+				<crossref let="m" cid="c19104001.2">
+				</crossref>
+				very great!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c19104001.3">
+				</crossref>
+				You are clothed with splendor and majesty,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104002">
+			</marker>
+			<verse num="2">
+				<begin-line class="indent">
+				</begin-line>
+				covering yourself with light as with a garment,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19104002.1">
+				</crossref>
+				stretching out the heavens 
+				<crossref let="p" cid="c19104002.2">
+				</crossref>
+				like a tent.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="q" cid="c19104003.1">
+				</crossref>
+				lays the beams of his 
+				<crossref let="r" cid="c19104003.2">
+				</crossref>
+				chambers on the waters;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				he makes 
+				<crossref let="s" cid="c19104003.3">
+				</crossref>
+				the clouds his chariot;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he rides on 
+				<crossref let="t" cid="c19104003.4">
+				</crossref>
+				the wings of the wind;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				he 
+				<crossref let="u" cid="c19104004.1">
+				</crossref>
+				makes his messengers winds,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his 
+				<crossref let="v" cid="c19104004.2">
+				</crossref>
+				ministers 
+				<crossref let="w" cid="c19104004.3">
+				</crossref>
+				a flaming fire.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19104005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="x" cid="c19104005.1">
+				</crossref>
+				set the earth on its foundations,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so that it should never be moved.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				You 
+				<crossref let="y" cid="c19104006.1">
+				</crossref>
+				covered it with the deep as with a garment;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the waters stood above the mountains.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				At 
+				<crossref let="z" cid="c19104007.1">
+				</crossref>
+				your rebuke they fled;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				at 
+				<crossref let="a" cid="c19104007.2">
+				</crossref>
+				the sound of your thunder they 
+				<crossref let="b" cid="c19104007.3">
+				</crossref>
+				took to flight.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				The mountains rose, the valleys sank down
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the place that you 
+				<crossref let="c" cid="c19104008.1">
+				</crossref>
+				appointed for them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				You set 
+				<crossref let="d" cid="c19104009.1">
+				</crossref>
+				a boundary that they may not pass,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so that they 
+				<crossref let="e" cid="c19104009.2">
+				</crossref>
+				might not again cover the earth.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19104010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				You make springs gush forth in the valleys;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they flow between the hills;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				they 
+				<crossref let="f" cid="c19104011.1">
+				</crossref>
+				give drink to every beast of the field;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the wild donkeys quench their thirst.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Beside them the birds of the heavens dwell;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they sing among the branches.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c19104013.1">
+				</crossref>
+				From your lofty abode you 
+				<crossref let="h" cid="c19104013.2">
+				</crossref>
+				water the mountains;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the earth is satisfied with the fruit of your work.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19104014">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				You cause 
+				<crossref let="i" cid="c19104014.1">
+				</crossref>
+				the grass to grow for the livestock
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="j" cid="c19104014.2">
+				</crossref>
+				plants for man to cultivate,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				that he may bring forth 
+				<crossref let="k" cid="c19104014.3">
+				</crossref>
+				food from the earth
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104015">
+			</marker>
+			<verse num="15">
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="l" cid="c19104015.1">
+				</crossref>
+				wine to gladden the heart of man,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c19104015.2">
+				</crossref>
+				oil to make his face shine
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and bread to 
+				<crossref let="n" cid="c19104015.3">
+				</crossref>
+				strengthen man's heart.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19104016">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				The trees of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 are watered abundantly,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19104016.1">
+				</crossref>
+				the cedars of Lebanon 
+				<crossref let="p" cid="c19104016.2">
+				</crossref>
+				that he planted.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				In them the birds build their nests;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the stork has her home in the fir trees.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				The high mountains are for 
+				<crossref let="q" cid="c19104018.1">
+				</crossref>
+				the wild goats;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the rocks are a refuge for 
+				<crossref let="r" cid="c19104018.2">
+				</crossref>
+				the rock badgers.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19104019">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				He made the moon to mark the 
+				<crossref let="s" cid="c19104019.1">
+				</crossref>
+				seasons;
+				<note nid="n19104019.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the sun knows its time for setting.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c19104020.1">
+				</crossref>
+				You make darkness, and it is night,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when all the beasts of the forest creep about.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19104021.1">
+				</crossref>
+				The young lions roar for their prey,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				seeking their food from God.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				When the sun rises, they steal away
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and lie down in their 
+				<crossref let="v" cid="c19104022.1">
+				</crossref>
+				dens.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c19104023.1">
+				</crossref>
+				Man goes out to his work
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and to his labor until the evening.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19104024">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, how manifold are your works!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				In 
+				<crossref let="x" cid="c19104024.1">
+				</crossref>
+				wisdom have you made them all;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the earth is full of your creatures.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				Here is the sea, great and wide,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="y" cid="c19104025.1">
+				</crossref>
+				which teems with creatures innumerable,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				living things both small and great.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				There go the ships,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="z" cid="c19104026.1">
+				</crossref>
+				Leviathan, which you formed to 
+				<crossref let="a" cid="c19104026.2">
+				</crossref>
+				play in it.
+				<note nid="n19104026.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19104027">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				These 
+				<crossref let="b" cid="c19104027.1">
+				</crossref>
+				all look to you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to 
+				<crossref let="c" cid="c19104027.2">
+				</crossref>
+				give them their food in due season.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				When you give it to them, they gather it up;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when you 
+				<crossref let="d" cid="c19104028.1">
+				</crossref>
+				open your hand, they are filled with good things.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				When you 
+				<crossref let="e" cid="c19104029.1">
+				</crossref>
+				hide your face, they are 
+				<crossref let="f" cid="c19104029.2">
+				</crossref>
+				dismayed;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when you 
+				<crossref let="g" cid="c19104029.3">
+				</crossref>
+				take away their breath, they die
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="h" cid="c19104029.4">
+				</crossref>
+				return to their dust.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				When you 
+				<crossref let="i" cid="c19104030.1">
+				</crossref>
+				send forth your Spirit,
+				<note nid="n19104030.1">
+				</note>
+				 they are created,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you 
+				<crossref let="j" cid="c19104030.2">
+				</crossref>
+				renew the face of the ground.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19104031">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="31">
+				<begin-line
+					>
+				</begin-line>
+				May the glory of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="k" cid="c19104031.1">
+				</crossref>
+				endure forever;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				may the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="l" cid="c19104031.2">
+				</crossref>
+				rejoice in his works,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104032">
+			</marker>
+			<verse num="32">
+				<begin-line
+					>
+				</begin-line>
+				who looks on the earth and it 
+				<crossref let="m" cid="c19104032.1">
+				</crossref>
+				trembles,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="n" cid="c19104032.2">
+				</crossref>
+				touches the mountains and they smoke!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104033">
+			</marker>
+			<verse num="33">
+				<begin-line
+					>
+				</begin-line>
+				I will sing to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="o" cid="c19104033.1">
+				</crossref>
+				as long as I live;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will sing praise to my God while I have being.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104034">
+			</marker>
+			<verse num="34">
+				<begin-line
+					>
+				</begin-line>
+				May my 
+				<crossref let="p" cid="c19104034.1">
+				</crossref>
+				meditation be pleasing to him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for I rejoice in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19104035">
+			</marker>
+			<verse num="35">
+				<begin-line
+					>
+				</begin-line>
+				Let 
+				<crossref let="q" cid="c19104035.1">
+				</crossref>
+				sinners be consumed from the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and let the wicked be no more!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19104035.2">
+				</crossref>
+				Bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O my soul!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19104035.3">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Numbers" num="3">
+		<marker class="begin-verse" mid="v04028001">
+		</marker>
+		<chapter num="28">
+			<heading
+				>
+				Daily Offerings
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04028002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Command the people of Israel and say to them, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				My offering, 
+				<crossref let="v" cid="c04028002.1">
+				</crossref>
+				my food for my food offerings, my 
+				<crossref let="w" cid="c04028002.2">
+				</crossref>
+				pleasing aroma, you shall be careful to offer to me at its appointed time.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04028003">
+			</marker>
+			<verse num="3">
+				<crossref let="x" cid="c04028003.1">
+				</crossref>
+				And you shall say to them, This is the food offering that you shall offer to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				: two male lambs a year old without blemish, day by day, as a regular offering.
+			</verse>
+			<marker class="begin-verse" mid="v04028004">
+			</marker>
+			<verse num="4">
+				The one lamb you shall offer in the morning, and the other lamb you shall offer at twilight;
+			</verse>
+			<marker class="begin-verse" mid="v04028005">
+			</marker>
+			<verse num="5">
+				also 
+				<crossref let="y" cid="c04028005.1">
+				</crossref>
+				a tenth of an ephah
+				<note nid="n04028005.1">
+				</note>
+				 of fine flour for 
+				<crossref let="z" cid="c04028005.2">
+				</crossref>
+				a grain offering, mixed 
+				<crossref let="a" cid="c04028005.3">
+				</crossref>
+				with a quarter of a hin
+				<note nid="n04028005.2">
+				</note>
+				 of beaten oil.
+			</verse>
+			<marker class="begin-verse" mid="v04028006">
+			</marker>
+			<verse num="6">
+				It is a 
+				<crossref let="b" cid="c04028006.1">
+				</crossref>
+				regular burnt offering, which was ordained at Mount Sinai for a pleasing aroma, a food offering to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v04028007">
+			</marker>
+			<verse num="7">
+				Its drink offering shall be a quarter of a hin for each lamb. In the Holy Place you shall pour out a drink offering of strong drink to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v04028008">
+			</marker>
+			<verse num="8">
+				The other lamb you shall offer at twilight. Like the grain offering of the morning, and like its drink offering, you shall offer it as a food offering, with a pleasing aroma to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04028009">
+			</marker>
+			<heading
+				>
+				Sabbath Offerings
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				On the Sabbath day, two male lambs a year old without blemish, and two tenths of an ephah of fine flour for a grain offering, mixed with oil, and its drink offering:
+			</verse>
+			<marker class="begin-verse" mid="v04028010">
+			</marker>
+			<verse num="10">
+				this is 
+				<crossref let="c" cid="c04028010.1">
+				</crossref>
+				the burnt offering of every Sabbath, besides the regular burnt offering and its drink offering.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04028011">
+			</marker>
+			<heading
+				>
+				Monthly Offerings
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				<crossref let="d" cid="c04028011.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				At the beginnings of your months, you shall offer a burnt offering to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				: two bulls from the herd, one ram, seven male lambs a year old without blemish;
+			</verse>
+			<marker class="begin-verse" mid="v04028012">
+			</marker>
+			<verse num="12">
+				also 
+				<crossref let="e" cid="c04028012.1">
+				</crossref>
+				three tenths of an ephah of fine flour for a grain offering, mixed with oil, for each bull, and two tenths of fine flour for a grain offering, mixed with oil, for the one ram;
+			</verse>
+			<marker class="begin-verse" mid="v04028013">
+			</marker>
+			<verse num="13">
+				and a tenth of fine flour mixed with oil as a grain offering for every lamb; for a burnt offering with a pleasing aroma, a food offering to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v04028014">
+			</marker>
+			<verse num="14">
+				Their drink offerings shall be half a hin of wine for a bull, a third of a hin for a ram, and a quarter of a hin for a lamb. This is the burnt offering of each month throughout the months of the year.
+			</verse>
+			<marker class="begin-verse" mid="v04028015">
+			</marker>
+			<verse num="15">
+				Also 
+				<crossref let="f" cid="c04028015.1">
+				</crossref>
+				one male goat for a sin offering to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				; it shall be offered besides the regular burnt offering and its drink offering.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04028016">
+			</marker>
+			<heading
+				>
+				Passover Offerings
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				<crossref let="g" cid="c04028016.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				On the fourteenth day of the first month is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's Passover,
+			</verse>
+			<marker class="begin-verse" mid="v04028017">
+			</marker>
+			<verse num="17">
+				<crossref let="h" cid="c04028017.1">
+				</crossref>
+				and on the fifteenth day of this month is a feast. Seven days shall unleavened bread be eaten.
+			</verse>
+			<marker class="begin-verse" mid="v04028018">
+			</marker>
+			<verse num="18">
+				<crossref let="i" cid="c04028018.1">
+				</crossref>
+				On the first day there shall be a holy convocation. You shall not do any ordinary work,
+			</verse>
+			<marker class="begin-verse" mid="v04028019">
+			</marker>
+			<verse num="19">
+				but offer a food offering, a burnt offering to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				: two bulls from the herd, one ram, and seven male lambs a year old; 
+				<crossref let="j" cid="c04028019.1">
+				</crossref>
+				see that they are without blemish;
+			</verse>
+			<marker class="begin-verse" mid="v04028020">
+			</marker>
+			<verse num="20">
+				also their grain offering of fine flour mixed with oil; three tenths of an ephah shall you offer for a bull, and two tenths for a ram;
+			</verse>
+			<marker class="begin-verse" mid="v04028021">
+			</marker>
+			<verse num="21">
+				a tenth shall you offer for each of the seven lambs;
+			</verse>
+			<marker class="begin-verse" mid="v04028022">
+			</marker>
+			<verse num="22">
+				also 
+				<crossref let="k" cid="c04028022.1">
+				</crossref>
+				one male goat for a sin offering, to make atonement for you.
+			</verse>
+			<marker class="begin-verse" mid="v04028023">
+			</marker>
+			<verse num="23">
+				You shall offer these besides the burnt offering of the morning, which is for a regular burnt offering.
+			</verse>
+			<marker class="begin-verse" mid="v04028024">
+			</marker>
+			<verse num="24">
+				In the same way you shall offer daily, for seven days, the food of a food offering, with a pleasing aroma to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. It shall be offered besides the regular burnt offering and its drink offering.
+			</verse>
+			<marker class="begin-verse" mid="v04028025">
+			</marker>
+			<verse num="25">
+				And 
+				<crossref let="l" cid="c04028025.1">
+				</crossref>
+				on the seventh day you shall have a holy convocation. You shall not do any ordinary work.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04028026">
+			</marker>
+			<heading
+				>
+				Offerings for the Feast of Weeks
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				On 
+				<crossref let="m" cid="c04028026.1">
+				</crossref>
+				the day of the firstfruits, when you offer a grain offering of new grain to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 at your Feast of Weeks, you shall have a holy convocation. You shall not do any ordinary work,
+			</verse>
+			<marker class="begin-verse" mid="v04028027">
+			</marker>
+			<verse num="27">
+				but offer a burnt offering, with a pleasing aroma to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				: 
+				<crossref let="n" cid="c04028027.1">
+				</crossref>
+				two bulls from the herd, one ram, seven male lambs a year old;
+			</verse>
+			<marker class="begin-verse" mid="v04028028">
+			</marker>
+			<verse num="28">
+				also their grain offering of fine flour mixed with oil, three tenths of an ephah for each bull, two tenths for one ram,
+			</verse>
+			<marker class="begin-verse" mid="v04028029">
+			</marker>
+			<verse num="29">
+				a tenth for each of the seven lambs;
+			</verse>
+			<marker class="begin-verse" mid="v04028030">
+			</marker>
+			<verse num="30">
+				with 
+				<crossref let="o" cid="c04028030.1">
+				</crossref>
+				one male goat, to make atonement for you.
+			</verse>
+			<marker class="begin-verse" mid="v04028031">
+			</marker>
+			<verse num="31">
+				Besides the regular burnt offering and its grain offering, you shall offer them and their drink offering. 
+				<crossref let="p" cid="c04028031.1">
+				</crossref>
+				See that they are without blemish.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

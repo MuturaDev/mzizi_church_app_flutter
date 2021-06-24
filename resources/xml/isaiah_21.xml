@@ -1,0 +1,596 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23021001">
+		</marker>
+		<chapter num="21">
+			<heading
+				>
+				Fallen, Fallen Is Babylon
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<crossref let="t" cid="c23021001.1">
+				</crossref>
+				oracle concerning the wilderness of 
+				<crossref let="u" cid="c23021001.2">
+				</crossref>
+				the sea.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c23021001.3">
+				</crossref>
+				As whirlwinds in the Negeb sweep on,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it comes from the wilderness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from a terrible land.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23021002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				A stern vision is told to me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c23021002.1">
+				</crossref>
+				the traitor betrays,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the destroyer destroys.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Go up, O 
+				<crossref let="x" cid="c23021002.2">
+				</crossref>
+				Elam;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				lay siege, O 
+				<crossref let="y" cid="c23021002.3">
+				</crossref>
+				Media;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				all the 
+				<crossref let="z" cid="c23021002.4">
+				</crossref>
+				sighing she has caused
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I bring to an end.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23021003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Therefore my loins are filled with anguish;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c23021003.1">
+				</crossref>
+				pangs have seized me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like the pangs of a woman in labor;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I am bowed down so that I cannot hear;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I am dismayed so that I cannot see.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23021004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				My heart staggers; horror has appalled me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c23021004.1">
+				</crossref>
+				the twilight I longed for
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				has been turned for me into trembling.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23021005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c23021005.1">
+				</crossref>
+				They prepare the table,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they spread the rugs,
+				<note nid="n23021005.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they eat, they drink.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Arise, O princes;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c23021005.2">
+				</crossref>
+				oil the shield!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23021006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				For thus the Lord said to me:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go, set a watchman;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let him announce what he sees.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23021007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				When he sees riders, horsemen in pairs,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				riders on donkeys, riders on camels,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				let him listen diligently,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				very diligently.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23021008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Then he who saw cried out:
+				<note nid="n23021008.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c23021008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Upon a watchtower I stand, O Lord,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				continually by day,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and at my post I am stationed
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				whole nights.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23021009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				And behold, here come riders,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				horsemen in pairs!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c23021009.1">
+				</crossref>
+				And he answered,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="g" cid="c23021009.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Fallen, fallen is Babylon;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c23021009.3">
+				</crossref>
+				and all the carved images of her gods
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he has shattered to the ground.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23021010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<crossref let="i" cid="c23021010.1">
+				</crossref>
+				my threshed and winnowed one,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				what I have heard from the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the God of Israel, I announce to you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23021011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				The 
+				<crossref let="j" cid="c23021011.1">
+				</crossref>
+				oracle concerning 
+				<crossref let="k" cid="c23021011.2">
+				</crossref>
+				Dumah.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				One is calling to me from 
+				<crossref let="l" cid="c23021011.3">
+				</crossref>
+				Seir,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Watchman, what time of the night?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Watchman, what time of the night?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23021012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				The watchman says:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Morning comes, and also 
+				<crossref let="m" cid="c23021012.1">
+				</crossref>
+				the night.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				If you will inquire, 
+				<crossref let="n" cid="c23021012.2">
+				</crossref>
+				inquire;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				come back again.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23021013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				The 
+				<crossref let="o" cid="c23021013.1">
+				</crossref>
+				oracle concerning 
+				<crossref let="p" cid="c23021013.2">
+				</crossref>
+				Arabia.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				In the thickets in 
+				<crossref let="p" cid="c23021013.3">
+				</crossref>
+				Arabia you will lodge,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<crossref let="q" cid="c23021013.4">
+				</crossref>
+				caravans of 
+				<crossref let="p" cid="c23021013.5">
+				</crossref>
+				Dedanites.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23021014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				To the thirsty bring water;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				meet the fugitive with bread,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O inhabitants of the land of 
+				<crossref let="r" cid="c23021014.1">
+				</crossref>
+				Tema.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23021015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				For they have fled from the swords,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from the drawn sword,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				from the bent bow,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and from the press of battle.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23021016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				For thus the Lord said to me, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Within a year, 
+				<crossref let="s" cid="c23021016.1">
+				</crossref>
+				according to the years of a hired worker, all the glory of 
+				<crossref let="t" cid="c23021016.2">
+				</crossref>
+				Kedar will come to an end.
+			</verse>
+			<marker class="begin-verse" mid="v23021017">
+			</marker>
+			<verse num="17">
+				And the remainder of the archers of the mighty men of the sons of 
+				<crossref let="t" cid="c23021017.1">
+				</crossref>
+				Kedar will be few, 
+				<crossref let="u" cid="c23021017.2">
+				</crossref>
+				for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel, has spoken.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

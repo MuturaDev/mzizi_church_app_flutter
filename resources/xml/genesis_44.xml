@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01044001">
+		</marker>
+		<chapter num="44">
+			<heading
+				>
+				Joseph Tests His Brothers
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then he commanded 
+				<crossref let="p" cid="c01044001.1">
+				</crossref>
+				the steward of his house, 
+				<crossref let="q" cid="c01044001.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Fill the men's sacks with food, as much as they can carry, and put each man's money in the mouth of his sack,
+			</verse>
+			<marker class="begin-verse" mid="v01044002">
+			</marker>
+			<verse num="2">
+				and put my cup, the silver cup, in the mouth of the sack of the youngest, with his money for the grain.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he did as Joseph told him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01044003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				As soon as the morning was light, the men were sent away with their donkeys.
+			</verse>
+			<marker class="begin-verse" mid="v01044004">
+			</marker>
+			<verse num="4">
+				They had gone only a short distance from the city. Now Joseph said to his 
+				<crossref let="r" cid="c01044004.1">
+				</crossref>
+				steward, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Up, follow after the men, and when you overtake them, say to them, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Why have you repaid evil for good?
+				<note nid="n01044004.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01044005">
+			</marker>
+			<verse num="5">
+				Is it not from this that my lord drinks, and 
+				<crossref let="s" cid="c01044005.1">
+				</crossref>
+				by this that he practices divination? You have done evil in doing this.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01044006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				When he overtook them, he spoke to them these words.
+			</verse>
+			<marker class="begin-verse" mid="v01044007">
+			</marker>
+			<verse num="7">
+				They said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why does my lord speak such words as these? Far be it from your servants to do such a thing!
+			</verse>
+			<marker class="begin-verse" mid="v01044008">
+			</marker>
+			<verse num="8">
+				Behold, 
+				<crossref let="t" cid="c01044008.1">
+				</crossref>
+				the money that we found in the mouths of our sacks we brought back to you from the land of Canaan. How then could we steal silver or gold from your lord's house?
+			</verse>
+			<marker class="begin-verse" mid="v01044009">
+			</marker>
+			<verse num="9">
+				<crossref let="u" cid="c01044009.1">
+				</crossref>
+				Whichever of your servants is found with it shall die, and we also will be 
+				<crossref let="v" cid="c01044009.2">
+				</crossref>
+				my lord's servants.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01044010">
+			</marker>
+			<verse num="10">
+				He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let it be as you say: he who is found with it shall be my servant, and the rest of you shall be innocent.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01044011">
+			</marker>
+			<verse num="11">
+				Then each man quickly lowered his sack to the ground, and each man opened his sack.
+			</verse>
+			<marker class="begin-verse" mid="v01044012">
+			</marker>
+			<verse num="12">
+				And he searched, beginning with the eldest and ending with the youngest. And the cup was found in Benjamin's sack.
+			</verse>
+			<marker class="begin-verse" mid="v01044013">
+			</marker>
+			<verse num="13">
+				Then they 
+				<crossref let="w" cid="c01044013.1">
+				</crossref>
+				tore their clothes, and every man loaded his donkey, and they returned to the city.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01044014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				When Judah and his brothers came to Joseph's house, he was still there. They 
+				<crossref let="x" cid="c01044014.1">
+				</crossref>
+				fell before him to the ground.
+			</verse>
+			<marker class="begin-verse" mid="v01044015">
+			</marker>
+			<verse num="15">
+				Joseph said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What deed is this that you have done? Do you not know that a man like me 
+				<crossref let="y" cid="c01044015.1">
+				</crossref>
+				can indeed practice divination?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01044016">
+			</marker>
+			<verse num="16">
+				And Judah said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What shall we say to my lord? What shall we speak? Or how can we clear ourselves? God has found out 
+				<crossref let="z" cid="c01044016.1">
+				</crossref>
+				the guilt of your servants; behold, we are 
+				<crossref let="a" cid="c01044016.2">
+				</crossref>
+				my lord's servants, both we and he also in whose hand the cup has been found.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01044017">
+			</marker>
+			<verse num="17">
+				But he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Far be it from me that I should do so! Only the man in whose hand the cup was found shall be my servant. But as for you, go up in peace to your father.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01044018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				Then Judah went up to him and said, 
+				<crossref let="b" cid="c01044018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Oh, my lord, please let your servant speak a word in my lord's ears, and 
+				<crossref let="c" cid="c01044018.2">
+				</crossref>
+				let not your anger burn against your servant, for 
+				<crossref let="d" cid="c01044018.3">
+				</crossref>
+				you are like Pharaoh himself.
+			</verse>
+			<marker class="begin-verse" mid="v01044019">
+			</marker>
+			<verse num="19">
+				My lord asked his servants, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Have you a father, or a brother?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01044020">
+			</marker>
+			<verse num="20">
+				And we said to my lord, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				We have a father, an old man, 
+				<crossref let="e" cid="c01044020.1">
+				</crossref>
+				and a young brother, 
+				<crossref let="f" cid="c01044020.2">
+				</crossref>
+				the child of his old age. His brother is dead, and he alone is left of his mother's children, and his father loves him.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01044021">
+			</marker>
+			<verse num="21">
+				Then you said to your servants, 
+				<crossref let="g" cid="c01044021.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Bring him down to me, that I may set my eyes on him.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01044022">
+			</marker>
+			<verse num="22">
+				We said to my lord, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The boy cannot leave his father, for if he should leave his father, 
+				<crossref let="h" cid="c01044022.1">
+				</crossref>
+				his father would die.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01044023">
+			</marker>
+			<verse num="23">
+				Then you said to your servants, 
+				<crossref let="i" cid="c01044023.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Unless your youngest brother comes down with you, you shall not see my face again.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01044024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				When we went back to your servant my father, we told him the words of my lord.
+			</verse>
+			<marker class="begin-verse" mid="v01044025">
+			</marker>
+			<verse num="25">
+				And when 
+				<crossref let="j" cid="c01044025.1">
+				</crossref>
+				our father said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Go again, buy us a little food,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01044026">
+			</marker>
+			<verse num="26">
+				we said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				We cannot go down. If our youngest brother goes with us, then we will go down. For we cannot see the man's face unless our youngest brother is with us.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01044027">
+			</marker>
+			<verse num="27">
+				Then your servant my father said to us, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You know that my wife bore me 
+				<crossref let="k" cid="c01044027.1">
+				</crossref>
+				two sons.
+			</verse>
+			<marker class="begin-verse" mid="v01044028">
+			</marker>
+			<verse num="28">
+				One left me, and I said, 
+				<crossref let="l" cid="c01044028.1">
+				</crossref>
+				Surely he has been torn to pieces, and I have never seen him since.
+			</verse>
+			<marker class="begin-verse" mid="v01044029">
+			</marker>
+			<verse num="29">
+				If you 
+				<crossref let="m" cid="c01044029.1">
+				</crossref>
+				take this one also from me, 
+				<crossref let="n" cid="c01044029.2">
+				</crossref>
+				and harm happens to him, you will bring down my gray hairs in evil to Sheol.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01044030">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="30">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Now therefore, as soon as I come to your servant my father, and the boy is not with us, then, as his life is bound up in the boy's life,
+			</verse>
+			<marker class="begin-verse" mid="v01044031">
+			</marker>
+			<verse num="31">
+				as soon as he sees that the boy is not with us, he will die, and your servants will bring down the gray hairs of your servant our father with sorrow to Sheol.
+			</verse>
+			<marker class="begin-verse" mid="v01044032">
+			</marker>
+			<verse num="32">
+				For your servant became a pledge of safety for the boy to my father, saying, 
+				<crossref let="o" cid="c01044032.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				If I do not bring him back to you, then I shall bear the blame before my father all my life.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01044033">
+			</marker>
+			<verse num="33">
+				Now therefore, please let your servant remain instead of the boy as a servant to my lord, and let the boy go back with his brothers.
+			</verse>
+			<marker class="begin-verse" mid="v01044034">
+			</marker>
+			<verse num="34">
+				For how can I go back to my father if the boy is not with me? I fear to see the evil that would find my father.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,713 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Proverbs" num="19">
+		<marker class="begin-verse" mid="v20015001">
+		</marker>
+		<chapter num="15">
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c20015001.1">
+				</crossref>
+				A soft answer turns away wrath,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="e" cid="c20015001.2">
+				</crossref>
+				a harsh word stirs up anger.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				The tongue of the wise commends knowledge,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="f" cid="c20015002.1">
+				</crossref>
+				the mouths of fools pour out folly.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c20015003.1">
+				</crossref>
+				The eyes of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 are in every place,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				keeping watch on the evil and the good.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c20015004.1">
+				</crossref>
+				A gentle
+				<note nid="n20015004.1">
+				</note>
+				 tongue is 
+				<crossref let="i" cid="c20015004.2">
+				</crossref>
+				a tree of life,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="j" cid="c20015004.3">
+				</crossref>
+				perverseness in it breaks the spirit.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c20015005.1">
+				</crossref>
+				A fool 
+				<crossref let="l" cid="c20015005.2">
+				</crossref>
+				despises his father's instruction,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="m" cid="c20015005.3">
+				</crossref>
+				whoever heeds reproof is prudent.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				In the house of the righteous there is much treasure,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but trouble befalls the income of the wicked.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c20015007.1">
+				</crossref>
+				The lips of the wise spread knowledge;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c20015007.2">
+				</crossref>
+				not so the hearts of fools.
+				<note nid="n20015007.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c20015008.1">
+				</crossref>
+				The sacrifice of the wicked is an abomination to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="p" cid="c20015008.2">
+				</crossref>
+				the prayer of the upright is acceptable to him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				The way of the wicked is an abomination to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but he loves him 
+				<crossref let="q" cid="c20015009.1">
+				</crossref>
+				who pursues righteousness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				There is 
+				<crossref let="r" cid="c20015010.1">
+				</crossref>
+				severe discipline for him who forsakes the way;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c20015010.2">
+				</crossref>
+				whoever hates reproof will die.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Sheol and Abaddon lie open before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				how much more 
+				<crossref let="t" cid="c20015011.1">
+				</crossref>
+				the hearts of the children of man!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c20015012.1">
+				</crossref>
+				A scoffer 
+				<crossref let="v" cid="c20015012.2">
+				</crossref>
+				does not like to be reproved;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he will not go to the wise.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c20015013.1">
+				</crossref>
+				A glad heart makes a cheerful face,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but by 
+				<crossref let="x" cid="c20015013.2">
+				</crossref>
+				sorrow of heart the spirit is 
+				<crossref let="y" cid="c20015013.3">
+				</crossref>
+				crushed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c20015014.1">
+				</crossref>
+				The heart of him who has understanding seeks knowledge,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the mouths of fools feed on folly.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				All the days of the afflicted are evil,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="a" cid="c20015015.1">
+				</crossref>
+				the cheerful of heart has a continual feast.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c20015016.1">
+				</crossref>
+				Better is a little with the fear of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				than great treasure and trouble with it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c20015017.1">
+				</crossref>
+				Better is a dinner of herbs where love is
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				than 
+				<crossref let="d" cid="c20015017.2">
+				</crossref>
+				a fattened ox and hatred with it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c20015018.1">
+				</crossref>
+				A hot-tempered man 
+				<crossref let="f" cid="c20015018.2">
+				</crossref>
+				stirs up strife,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but he who is 
+				<crossref let="g" cid="c20015018.3">
+				</crossref>
+				slow to anger quiets contention.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				The way of 
+				<crossref let="h" cid="c20015019.1">
+				</crossref>
+				a sluggard is like a hedge of 
+				<crossref let="i" cid="c20015019.2">
+				</crossref>
+				thorns,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the path of the upright is 
+				<crossref let="j" cid="c20015019.3">
+				</crossref>
+				a level highway.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c20015020.1">
+				</crossref>
+				A wise son makes a glad father,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but a foolish man despises his mother.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c20015021.1">
+				</crossref>
+				Folly is a joy to him who lacks sense,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but a man of understanding 
+				<crossref let="m" cid="c20015021.2">
+				</crossref>
+				walks straight ahead.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c20015022.1">
+				</crossref>
+				Without counsel plans fail,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but with many advisers they succeed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				To make an apt answer is a joy to a man,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="o" cid="c20015023.1">
+				</crossref>
+				a word in season, how good it is!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				The path of life leads upward 
+				<crossref let="p" cid="c20015024.1">
+				</crossref>
+				for the prudent,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that he may turn away from Sheol beneath.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 tears down the house of 
+				<crossref let="q" cid="c20015025.1">
+				</crossref>
+				the proud
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="r" cid="c20015025.2">
+				</crossref>
+				maintains 
+				<crossref let="s" cid="c20015025.3">
+				</crossref>
+				the widow's boundaries.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c20015026.1">
+				</crossref>
+				The thoughts of the wicked are an abomination to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="u" cid="c20015026.2">
+				</crossref>
+				gracious words are pure.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				Whoever is 
+				<crossref let="v" cid="c20015027.1">
+				</crossref>
+				greedy for unjust gain 
+				<crossref let="w" cid="c20015027.2">
+				</crossref>
+				troubles his own household,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but he who hates 
+				<crossref let="x" cid="c20015027.3">
+				</crossref>
+				bribes will live.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				The heart of the righteous 
+				<crossref let="y" cid="c20015028.1">
+				</crossref>
+				ponders how to answer,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="z" cid="c20015028.2">
+				</crossref>
+				the mouth of the wicked pours out evil things.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is 
+				<crossref let="a" cid="c20015029.1">
+				</crossref>
+				far from the wicked,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but he 
+				<crossref let="b" cid="c20015029.2">
+				</crossref>
+				hears the prayer of the righteous.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c20015030.1">
+				</crossref>
+				The light of the eyes rejoices the heart,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="d" cid="c20015030.2">
+				</crossref>
+				good news refreshes
+				<note nid="n20015030.1">
+				</note>
+				 the bones.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015031">
+			</marker>
+			<verse num="31">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c20015031.1">
+				</crossref>
+				The ear that listens to 
+				<crossref let="f" cid="c20015031.2">
+				</crossref>
+				life-giving reproof
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				will dwell among the wise.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015032">
+			</marker>
+			<verse num="32">
+				<begin-line
+					>
+				</begin-line>
+				Whoever 
+				<crossref let="g" cid="c20015032.1">
+				</crossref>
+				ignores instruction 
+				<crossref let="h" cid="c20015032.2">
+				</crossref>
+				despises himself,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but he who listens to reproof 
+				<crossref let="i" cid="c20015032.3">
+				</crossref>
+				gains intelligence.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20015033">
+			</marker>
+			<verse num="33">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c20015033.1">
+				</crossref>
+				The fear of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is instruction in wisdom,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="k" cid="c20015033.2">
+				</crossref>
+				humility comes before honor.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

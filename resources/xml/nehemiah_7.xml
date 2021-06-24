@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Nehemiah" num="15">
+		<marker class="begin-verse" mid="v16007001">
+		</marker>
+		<chapter num="7">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now when the wall had been built 
+				<crossref let="n" cid="c16007001.1">
+				</crossref>
+				and I had set up the doors, and the gatekeepers, the singers, and the Levites had been appointed,
+			</verse>
+			<marker class="begin-verse" mid="v16007002">
+			</marker>
+			<verse num="2">
+				I gave 
+				<crossref let="o" cid="c16007002.1">
+				</crossref>
+				my brother Hanani and Hananiah the governor of 
+				<crossref let="p" cid="c16007002.2">
+				</crossref>
+				the castle charge over Jerusalem, for he was 
+				<crossref let="q" cid="c16007002.3">
+				</crossref>
+				a more faithful and God-fearing man than many.
+			</verse>
+			<marker class="begin-verse" mid="v16007003">
+			</marker>
+			<verse num="3">
+				And I said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let not the gates of Jerusalem be opened until the sun is hot. And while they are still standing guard, let them shut and bar the doors. Appoint guards from among the inhabitants of Jerusalem, some at their guard posts and some in front of their own homes.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v16007004">
+			</marker>
+			<verse num="4">
+				The city was wide and large, but the people within it were few, and no houses had been rebuilt.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16007005">
+			</marker>
+			<heading
+				>
+				Lists of Returned Exiles
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				Then my God put it into my heart to assemble the nobles and the officials and the people to be enrolled by genealogy. And I found the book of the genealogy of 
+				<crossref let="r" cid="c16007005.1">
+				</crossref>
+				those who came up at the first, and I found written in it:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16007006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<crossref let="s" cid="c16007006.1">
+				</crossref>
+				These were the people of the province who came up out of the captivity of those exiles whom Nebuchadnezzar the king of Babylon had carried into exile. They returned to Jerusalem and Judah, each to his town.
+			</verse>
+			<marker class="begin-verse" mid="v16007007">
+			</marker>
+			<verse num="7">
+				They came with Zerubbabel, Jeshua, Nehemiah, 
+				<crossref let="t" cid="c16007007.1">
+				</crossref>
+				Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				The number of the men of the people of Israel:
+
+			</verse>
+			<marker class="begin-verse" mid="v16007008">
+			</marker>
+			<verse num="8">
+				the sons of Parosh, 2,172.
+			</verse>
+			<marker class="begin-verse" mid="v16007009">
+			</marker>
+			<verse num="9">
+				The sons of Shephatiah, 372.
+			</verse>
+			<marker class="begin-verse" mid="v16007010">
+			</marker>
+			<verse num="10">
+				The sons of Arah, 
+				<crossref let="u" cid="c16007010.1">
+				</crossref>
+				652.
+			</verse>
+			<marker class="begin-verse" mid="v16007011">
+			</marker>
+			<verse num="11">
+				The sons of Pahath-moab, namely the sons of Jeshua and Joab, 2,818.
+			</verse>
+			<marker class="begin-verse" mid="v16007012">
+			</marker>
+			<verse num="12">
+				The sons of 
+				<crossref let="v" cid="c16007012.1">
+				</crossref>
+				Elam, 1,254.
+			</verse>
+			<marker class="begin-verse" mid="v16007013">
+			</marker>
+			<verse num="13">
+				The sons of Zattu, 845.
+			</verse>
+			<marker class="begin-verse" mid="v16007014">
+			</marker>
+			<verse num="14">
+				The sons of Zaccai, 760.
+			</verse>
+			<marker class="begin-verse" mid="v16007015">
+			</marker>
+			<verse num="15">
+				The sons of 
+				<crossref let="w" cid="c16007015.1">
+				</crossref>
+				Binnui, 648.
+			</verse>
+			<marker class="begin-verse" mid="v16007016">
+			</marker>
+			<verse num="16">
+				The sons of Bebai, 628.
+			</verse>
+			<marker class="begin-verse" mid="v16007017">
+			</marker>
+			<verse num="17">
+				The sons of Azgad, 2,322.
+			</verse>
+			<marker class="begin-verse" mid="v16007018">
+			</marker>
+			<verse num="18">
+				The sons of Adonikam, 667.
+			</verse>
+			<marker class="begin-verse" mid="v16007019">
+			</marker>
+			<verse num="19">
+				The sons of Bigvai, 2,067.
+			</verse>
+			<marker class="begin-verse" mid="v16007020">
+			</marker>
+			<verse num="20">
+				The sons of Adin, 655.
+			</verse>
+			<marker class="begin-verse" mid="v16007021">
+			</marker>
+			<verse num="21">
+				The sons of Ater, namely of Hezekiah, 98.
+			</verse>
+			<marker class="begin-verse" mid="v16007022">
+			</marker>
+			<verse num="22">
+				The sons of Hashum, 328.
+			</verse>
+			<marker class="begin-verse" mid="v16007023">
+			</marker>
+			<verse num="23">
+				The sons of 
+				<crossref let="x" cid="c16007023.1">
+				</crossref>
+				Bezai, 324.
+			</verse>
+			<marker class="begin-verse" mid="v16007024">
+			</marker>
+			<verse num="24">
+				The sons of Hariph, 112.
+			</verse>
+			<marker class="begin-verse" mid="v16007025">
+			</marker>
+			<verse num="25">
+				The sons of 
+				<crossref let="y" cid="c16007025.1">
+				</crossref>
+				Gibeon, 95.
+			</verse>
+			<marker class="begin-verse" mid="v16007026">
+			</marker>
+			<verse num="26">
+				The men of Bethlehem and Netophah, 188.
+			</verse>
+			<marker class="begin-verse" mid="v16007027">
+			</marker>
+			<verse num="27">
+				The men of Anathoth, 128.
+			</verse>
+			<marker class="begin-verse" mid="v16007028">
+			</marker>
+			<verse num="28">
+				The men 
+				<crossref let="z" cid="c16007028.1">
+				</crossref>
+				of Beth-azmaveth, 42.
+			</verse>
+			<marker class="begin-verse" mid="v16007029">
+			</marker>
+			<verse num="29">
+				The men of 
+				<crossref let="a" cid="c16007029.1">
+				</crossref>
+				Kiriath-jearim, Chephirah, and Beeroth, 743.
+			</verse>
+			<marker class="begin-verse" mid="v16007030">
+			</marker>
+			<verse num="30">
+				The men of Ramah and Geba, 621.
+			</verse>
+			<marker class="begin-verse" mid="v16007031">
+			</marker>
+			<verse num="31">
+				The men of Michmas, 122.
+			</verse>
+			<marker class="begin-verse" mid="v16007032">
+			</marker>
+			<verse num="32">
+				The men of Bethel and Ai, 123.
+			</verse>
+			<marker class="begin-verse" mid="v16007033">
+			</marker>
+			<verse num="33">
+				The men of the other Nebo, 52.
+			</verse>
+			<marker class="begin-verse" mid="v16007034">
+			</marker>
+			<verse num="34">
+				The sons of 
+				<crossref let="b" cid="c16007034.1">
+				</crossref>
+				the other Elam, 1,254.
+			</verse>
+			<marker class="begin-verse" mid="v16007035">
+			</marker>
+			<verse num="35">
+				The sons of Harim, 320.
+			</verse>
+			<marker class="begin-verse" mid="v16007036">
+			</marker>
+			<verse num="36">
+				The sons of Jericho, 345.
+			</verse>
+			<marker class="begin-verse" mid="v16007037">
+			</marker>
+			<verse num="37">
+				The sons of Lod, Hadid, and Ono, 721.
+			</verse>
+			<marker class="begin-verse" mid="v16007038">
+			</marker>
+			<verse num="38">
+				The sons of Senaah, 3,930.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16007039">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="39">
+				The priests: the sons of 
+				<crossref let="c" cid="c16007039.1">
+				</crossref>
+				Jedaiah, namely the house of Jeshua, 973.
+			</verse>
+			<marker class="begin-verse" mid="v16007040">
+			</marker>
+			<verse num="40">
+				The sons of 
+				<crossref let="d" cid="c16007040.1">
+				</crossref>
+				Immer, 1,052.
+			</verse>
+			<marker class="begin-verse" mid="v16007041">
+			</marker>
+			<verse num="41">
+				The sons of 
+				<crossref let="e" cid="c16007041.1">
+				</crossref>
+				Pashhur, 1,247.
+			</verse>
+			<marker class="begin-verse" mid="v16007042">
+			</marker>
+			<verse num="42">
+				The sons of 
+				<crossref let="f" cid="c16007042.1">
+				</crossref>
+				Harim, 1,017.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16007043">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="43">
+				The Levites: the sons of Jeshua, namely of Kadmiel of the sons of 
+				<crossref let="g" cid="c16007043.1">
+				</crossref>
+				Hodevah, 74.
+			</verse>
+			<marker class="begin-verse" mid="v16007044">
+			</marker>
+			<verse num="44">
+				The singers: the sons of Asaph, 148.
+			</verse>
+			<marker class="begin-verse" mid="v16007045">
+			</marker>
+			<verse num="45">
+				The gatekeepers: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, 138.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16007046">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="46">
+				The temple servants: the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth,
+			</verse>
+			<marker class="begin-verse" mid="v16007047">
+			</marker>
+			<verse num="47">
+				the sons of Keros, the sons of 
+				<crossref let="h" cid="c16007047.1">
+				</crossref>
+				Sia, the sons of Padon,
+			</verse>
+			<marker class="begin-verse" mid="v16007048">
+			</marker>
+			<verse num="48">
+				the sons of Lebana, the sons of 
+				<crossref let="i" cid="c16007048.1">
+				</crossref>
+				Hagaba, the sons of 
+				<crossref let="i" cid="c16007048.2">
+				</crossref>
+				Shalmai,
+			</verse>
+			<marker class="begin-verse" mid="v16007049">
+			</marker>
+			<verse num="49">
+				the sons of Hanan, the sons of Giddel, the sons of Gahar,
+			</verse>
+			<marker class="begin-verse" mid="v16007050">
+			</marker>
+			<verse num="50">
+				the sons of Reaiah, the sons of Rezin, the sons of Nekoda,
+			</verse>
+			<marker class="begin-verse" mid="v16007051">
+			</marker>
+			<verse num="51">
+				the sons of Gazzam, the sons of Uzza, the sons of Paseah,
+			</verse>
+			<marker class="begin-verse" mid="v16007052">
+			</marker>
+			<verse num="52">
+				the sons of Besai, the sons of Meunim, the sons of 
+				<crossref let="j" cid="c16007052.1">
+				</crossref>
+				Nephushesim,
+			</verse>
+			<marker class="begin-verse" mid="v16007053">
+			</marker>
+			<verse num="53">
+				the sons of Bakbuk, the sons of Hakupha, the sons of Harhur,
+			</verse>
+			<marker class="begin-verse" mid="v16007054">
+			</marker>
+			<verse num="54">
+				the sons of 
+				<crossref let="k" cid="c16007054.1">
+				</crossref>
+				Bazlith, the sons of Mehida, the sons of Harsha,
+			</verse>
+			<marker class="begin-verse" mid="v16007055">
+			</marker>
+			<verse num="55">
+				the sons of Barkos, the sons of Sisera, the sons of Temah,
+			</verse>
+			<marker class="begin-verse" mid="v16007056">
+			</marker>
+			<verse num="56">
+				the sons of Neziah, the sons of Hatipha.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16007057">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="57">
+				The sons of Solomon's servants: the sons of Sotai, the sons of Sophereth, the sons of 
+				<crossref let="l" cid="c16007057.1">
+				</crossref>
+				Perida,
+			</verse>
+			<marker class="begin-verse" mid="v16007058">
+			</marker>
+			<verse num="58">
+				the sons of Jaala, the sons of Darkon, the sons of Giddel,
+			</verse>
+			<marker class="begin-verse" mid="v16007059">
+			</marker>
+			<verse num="59">
+				the sons of Shephatiah, the sons of Hattil, the sons of Pochereth-hazzebaim, the sons of 
+				<crossref let="m" cid="c16007059.1">
+				</crossref>
+				Amon.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16007060">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="60">
+				All the temple servants and the sons of Solomon's servants were 392.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16007061">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="61">
+				<crossref let="n" cid="c16007061.1">
+				</crossref>
+				The following were those who came up from Tel-melah, Tel-harsha, Cherub, 
+				<crossref let="o" cid="c16007061.2">
+				</crossref>
+				Addon, and Immer, but they could not prove their fathers' houses nor their descent, whether they belonged to Israel:
+			</verse>
+			<marker class="begin-verse" mid="v16007062">
+			</marker>
+			<verse num="62">
+				the sons of Delaiah, the sons of Tobiah, the sons of Nekoda, 642.
+			</verse>
+			<marker class="begin-verse" mid="v16007063">
+			</marker>
+			<verse num="63">
+				Also, of the priests: the sons of Hobaiah, the sons of Hakkoz, the sons of Barzillai (who had taken a wife of the daughters of Barzillai the Gileadite and was called by their name).
+			</verse>
+			<marker class="begin-verse" mid="v16007064">
+			</marker>
+			<verse num="64">
+				These sought their registration among those enrolled in the genealogies, but it was not found there, so they were excluded from the priesthood as unclean.
+			</verse>
+			<marker class="begin-verse" mid="v16007065">
+			</marker>
+			<verse num="65">
+				<crossref let="p" cid="c16007065.1">
+				</crossref>
+				The 
+				<crossref let="q" cid="c16007065.2">
+				</crossref>
+				governor told them that they were not to partake of the most holy food until a priest with Urim and Thummim should arise.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16007066">
+			</marker>
+			<heading
+				>
+				Totals of People and Gifts
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="66">
+				The whole assembly together was 42,360,
+			</verse>
+			<marker class="begin-verse" mid="v16007067">
+			</marker>
+			<verse num="67">
+				besides their male and female servants, of whom there were 7,337. And they had 245 singers, male and female.
+			</verse>
+			<marker class="begin-verse" mid="v16007068">
+			</marker>
+			<verse num="68">
+				Their horses were 736, their mules 245,
+				<note nid="n16007068.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v16007069">
+			</marker>
+			<verse num="69">
+				their camels 435, and their donkeys 6,720.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16007070">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="70">
+				Now some of the heads of fathers' houses gave to the work. The 
+				<crossref let="q" cid="c16007070.1">
+				</crossref>
+				governor gave to the treasury 1,000 darics
+				<note nid="n16007070.1">
+				</note>
+				 of gold, 50 basins, 30 priests' garments and 500 minas
+				<note nid="n16007070.2">
+				</note>
+				 of silver.
+				<note nid="n16007070.3">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v16007071">
+			</marker>
+			<verse num="71">
+				And some of the heads of fathers' houses gave into the treasury of the work 20,000 darics of gold and 2,200 minas of silver.
+			</verse>
+			<marker class="begin-verse" mid="v16007072">
+			</marker>
+			<verse num="72">
+				<crossref let="r" cid="c16007072.1">
+				</crossref>
+				And what the rest of the people gave was 20,000 darics of gold, 2,000 minas of silver, and 67 priests' garments.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16007073">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="73">
+				So the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel, lived in their towns.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				<crossref let="s" cid="c16007073.1">
+				</crossref>
+				And when the seventh month had come, the people of Israel were in their towns.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19084001">
+		</marker>
+		<chapter num="84">
+			<heading
+				>
+				My Soul Longs for the Courts of the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: according to 
+				<crossref let="p" cid="c19084001.1">
+				</crossref>
+				The Gittith.
+				<note nid="n19084001.1">
+				</note>
+				 A Psalm of 
+				<crossref let="q" cid="c19084001.2">
+				</crossref>
+				the Sons of Korah.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				How 
+				<crossref let="r" cid="c19084001.3">
+				</crossref>
+				lovely is your 
+				<crossref let="s" cid="c19084001.4">
+				</crossref>
+				dwelling place,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19084002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				My soul 
+				<crossref let="t" cid="c19084002.1">
+				</crossref>
+				longs, yes, 
+				<crossref let="u" cid="c19084002.2">
+				</crossref>
+				faints
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for the courts of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				my heart and flesh sing for joy
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to 
+				<crossref let="v" cid="c19084002.3">
+				</crossref>
+				the living God.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19084003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Even the sparrow finds a home,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the swallow a nest for herself,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				where she may lay her young,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				at your altars, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c19084003.1">
+				</crossref>
+				my King and my God.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19084004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19084004.1">
+				</crossref>
+				Blessed are those who dwell in your house,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				ever 
+				<crossref let="y" cid="c19084004.2">
+				</crossref>
+				singing your praise! 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19084005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Blessed are those whose strength is in you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c19084005.1">
+				</crossref>
+				in whose heart are the highways to Zion.
+				<note nid="n19084005.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19084006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				As they go through the Valley of Baca
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they make it a place of springs;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c19084006.1">
+				</crossref>
+				the early rain also covers it with 
+				<crossref let="b" cid="c19084006.2">
+				</crossref>
+				pools.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19084007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				They go 
+				<crossref let="c" cid="c19084007.1">
+				</crossref>
+				from strength to strength;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				each one 
+				<crossref let="d" cid="c19084007.2">
+				</crossref>
+				appears before God in Zion.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19084008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<crossref let="e" cid="c19084008.1">
+				</crossref>
+				<span class="divine-name">
+					Lord
+				</span>
+				 God of hosts, hear my prayer;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				give ear, O God of Jacob! 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19084009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c19084009.1">
+				</crossref>
+				Behold our 
+				<crossref let="g" cid="c19084009.2">
+				</crossref>
+				shield, O God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				look on the face of your anointed!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19084010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				For a day 
+				<crossref let="h" cid="c19084010.1">
+				</crossref>
+				in your courts is better
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				than a thousand elsewhere.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I would rather be 
+				<crossref let="i" cid="c19084010.2">
+				</crossref>
+				a doorkeeper in the house of my God
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				than dwell in the tents of wickedness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19084011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God is 
+				<crossref let="j" cid="c19084011.1">
+				</crossref>
+				a sun and 
+				<crossref let="g" cid="c19084011.2">
+				</crossref>
+				shield;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 bestows favor and honor.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c19084011.3">
+				</crossref>
+				No good thing does he withhold
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from those who 
+				<crossref let="l" cid="c19084011.4">
+				</crossref>
+				walk uprightly.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19084012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c19084012.1">
+				</crossref>
+				blessed is the one who trusts in you!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ecclesiastes" num="20">
+		<marker class="begin-verse" mid="v21008001">
+		</marker>
+		<chapter num="8">
+			<heading
+				>
+				Keep the King's Command
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Who is like the wise?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				And who knows the interpretation of a thing?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c21008001.1">
+				</crossref>
+				A man's wisdom makes his face shine,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="a" cid="c21008001.2">
+				</crossref>
+				the hardness of his face is changed.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v21008002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				I say:
+				<note nid="n21008002.1">
+				</note>
+				 Keep the king's command, because of 
+				<crossref let="b" cid="c21008002.1">
+				</crossref>
+				God's oath to him.
+				<note nid="n21008002.2">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v21008003">
+			</marker>
+			<verse num="3">
+				Be not hasty to 
+				<crossref let="c" cid="c21008003.1">
+				</crossref>
+				go from his presence. Do not take your stand in an evil cause, for he does whatever he pleases.
+			</verse>
+			<marker class="begin-verse" mid="v21008004">
+			</marker>
+			<verse num="4">
+				For the word of the king is supreme, and 
+				<crossref let="d" cid="c21008004.1">
+				</crossref>
+				who may say to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What are you doing?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v21008005">
+			</marker>
+			<verse num="5">
+				Whoever keeps a command will know no evil thing, and the wise heart will know the proper time and the just way.
+			</verse>
+			<marker class="begin-verse" mid="v21008006">
+			</marker>
+			<verse num="6">
+				For there is a time and a way 
+				<crossref let="e" cid="c21008006.1">
+				</crossref>
+				for everything, although man's trouble
+				<note nid="n21008006.1">
+				</note>
+				 lies heavy on him.
+			</verse>
+			<marker class="begin-verse" mid="v21008007">
+			</marker>
+			<verse num="7">
+				For he 
+				<crossref let="f" cid="c21008007.1">
+				</crossref>
+				does not know what is to be, for 
+				<crossref let="g" cid="c21008007.2">
+				</crossref>
+				who can tell him how it will be?
+			</verse>
+			<marker class="begin-verse" mid="v21008008">
+			</marker>
+			<verse num="8">
+				No man has power to 
+				<crossref let="h" cid="c21008008.1">
+				</crossref>
+				retain the spirit, 
+				<crossref let="i" cid="c21008008.2">
+				</crossref>
+				or power over the day of death. There is no 
+				<crossref let="j" cid="c21008008.3">
+				</crossref>
+				discharge from war, nor will wickedness deliver those who are given to it.
+			</verse>
+			<marker class="begin-verse" mid="v21008009">
+			</marker>
+			<verse num="9">
+				<crossref let="k" cid="c21008009.1">
+				</crossref>
+				All this I observed while applying my heart to all that is done under the sun, when man had power over man to his hurt.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21008010">
+			</marker>
+			<heading
+				>
+				Those Who Fear God Will Do Well
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				Then I saw the wicked buried. They used to go in and out of 
+				<crossref let="l" cid="c21008010.1">
+				</crossref>
+				the holy place and were 
+				<crossref let="m" cid="c21008010.2">
+				</crossref>
+				praised
+				<note nid="n21008010.1">
+				</note>
+				 in the city where they had done such things. This also is vanity.
+			</verse>
+			<marker class="begin-verse" mid="v21008011">
+			</marker>
+			<verse num="11">
+				Because 
+				<crossref let="n" cid="c21008011.1">
+				</crossref>
+				the sentence against an evil deed is not executed speedily, 
+				<crossref let="o" cid="c21008011.2">
+				</crossref>
+				the heart of the children of man is fully set to do evil.
+			</verse>
+			<marker class="begin-verse" mid="v21008012">
+			</marker>
+			<verse num="12">
+				Though a sinner does evil a hundred times and 
+				<crossref let="p" cid="c21008012.1">
+				</crossref>
+				prolongs his life, yet I know that 
+				<crossref let="q" cid="c21008012.2">
+				</crossref>
+				it will be well with 
+				<crossref let="r" cid="c21008012.3">
+				</crossref>
+				those who fear God, because they fear before him.
+			</verse>
+			<marker class="begin-verse" mid="v21008013">
+			</marker>
+			<verse num="13">
+				But it will 
+				<crossref let="s" cid="c21008013.1">
+				</crossref>
+				not be well with the wicked, neither will he prolong his days like 
+				<crossref let="t" cid="c21008013.2">
+				</crossref>
+				a shadow, because he does not fear before God.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21008014">
+			</marker>
+			<heading
+				>
+				Man Cannot Know God's Ways
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				There is a vanity that takes place on earth, that there are righteous people 
+				<crossref let="u" cid="c21008014.1">
+				</crossref>
+				to whom it happens according to the deeds of the wicked, and there are wicked people 
+				<crossref let="v" cid="c21008014.2">
+				</crossref>
+				to whom it happens according to the deeds of the righteous. I said that this also is vanity.
+			</verse>
+			<marker class="begin-verse" mid="v21008015">
+			</marker>
+			<verse num="15">
+				And I commend joy, for man 
+				<crossref let="w" cid="c21008015.1">
+				</crossref>
+				has no good thing under the sun but to 
+				<crossref let="x" cid="c21008015.2">
+				</crossref>
+				eat and drink and be joyful, for this will go with him in his toil through the days of his life that God has given him under the sun.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21008016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				When I applied my heart to know wisdom, and to see 
+				<crossref let="y" cid="c21008016.1">
+				</crossref>
+				the business that is done on earth, how neither 
+				<crossref let="z" cid="c21008016.2">
+				</crossref>
+				day nor night do one's eyes see sleep,
+			</verse>
+			<marker class="begin-verse" mid="v21008017">
+			</marker>
+			<verse num="17">
+				then I saw all the work of God, that 
+				<crossref let="a" cid="c21008017.1">
+				</crossref>
+				man cannot find out the work that is done under the sun. However much man may toil in seeking, he will not find it out. Even though a wise man claims to know, 
+				<crossref let="b" cid="c21008017.2">
+				</crossref>
+				he cannot find it out.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

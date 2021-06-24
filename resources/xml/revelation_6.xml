@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Revelation" num="65">
+		<marker class="begin-verse" mid="v66006001">
+		</marker>
+		<chapter num="6">
+			<heading
+				>
+				The Seven Seals
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now I watched when the Lamb opened one of 
+				<crossref let="e" cid="c66006001.1">
+				</crossref>
+				the seven seals, and I heard 
+				<crossref let="f" cid="c66006001.2">
+				</crossref>
+				one of the four living creatures say 
+				<crossref let="g" cid="c66006001.3">
+				</crossref>
+				with a voice like thunder, 
+				<crossref let="h" cid="c66006001.4">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v66006002">
+			</marker>
+			<verse num="2">
+				And I looked, and behold, 
+				<crossref let="i" cid="c66006002.1">
+				</crossref>
+				a white horse! And 
+				<crossref let="j" cid="c66006002.2">
+				</crossref>
+				its rider had a bow, and 
+				<crossref let="k" cid="c66006002.3">
+				</crossref>
+				a crown was given to him, and he came out 
+				<crossref let="l" cid="c66006002.4">
+				</crossref>
+				conquering, and to conquer.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v66006003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				When he opened the second seal, I heard 
+				<crossref let="m" cid="c66006003.1">
+				</crossref>
+				the second living creature say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v66006004">
+			</marker>
+			<verse num="4">
+				And out came another horse, 
+				<crossref let="n" cid="c66006004.1">
+				</crossref>
+				bright red. Its rider was permitted 
+				<crossref let="o" cid="c66006004.2">
+				</crossref>
+				to take peace from the earth, so that people should slay one another, and he was given a great sword.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v66006005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				When he opened the third seal, I heard the 
+				<crossref let="m" cid="c66006005.1">
+				</crossref>
+				third living creature say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And I looked, and behold, 
+				<crossref let="p" cid="c66006005.2">
+				</crossref>
+				a black horse! And its rider had a pair of scales in his hand.
+			</verse>
+			<marker class="begin-verse" mid="v66006006">
+			</marker>
+			<verse num="6">
+				And I heard what seemed to be a voice in the midst of the four living creatures, saying, 
+				<crossref let="q" cid="c66006006.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				A quart
+				<note nid="n66006006.1">
+				</note>
+				 of wheat for a denarius,
+				<note nid="n66006006.2">
+				</note>
+				 and three quarts of barley for a denarius, and 
+				<crossref let="r" cid="c66006006.2">
+				</crossref>
+				do not harm the oil and wine!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v66006007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				When he opened the fourth seal, I heard the voice of 
+				<crossref let="m" cid="c66006007.1">
+				</crossref>
+				the fourth living creature say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v66006008">
+			</marker>
+			<verse num="8">
+				And I looked, and behold, 
+				<crossref let="s" cid="c66006008.1">
+				</crossref>
+				a pale horse! And its rider's name was Death, and Hades followed him. And they were given authority over a fourth of the earth, to kill 
+				<crossref let="t" cid="c66006008.2">
+				</crossref>
+				with sword and with famine and with pestilence and 
+				<crossref let="u" cid="c66006008.3">
+				</crossref>
+				by wild beasts of the earth.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v66006009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				When he opened the fifth seal, I saw under 
+				<crossref let="v" cid="c66006009.1">
+				</crossref>
+				the altar 
+				<crossref let="w" cid="c66006009.2">
+				</crossref>
+				the souls of those who had been slain 
+				<crossref let="x" cid="c66006009.3">
+				</crossref>
+				for the word of God and for 
+				<crossref let="y" cid="c66006009.4">
+				</crossref>
+				the witness they had borne.
+			</verse>
+			<marker class="begin-verse" mid="v66006010">
+			</marker>
+			<verse num="10">
+				They cried out with a loud voice, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O Sovereign Lord, 
+				<crossref let="z" cid="c66006010.1">
+				</crossref>
+				holy and true, 
+				<crossref let="a" cid="c66006010.2">
+				</crossref>
+				how long 
+				<crossref let="b" cid="c66006010.3">
+				</crossref>
+				before you will judge and 
+				<crossref let="c" cid="c66006010.4">
+				</crossref>
+				avenge our blood on 
+				<crossref let="d" cid="c66006010.5">
+				</crossref>
+				those who dwell on the earth?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v66006011">
+			</marker>
+			<verse num="11">
+				Then they were each given 
+				<crossref let="e" cid="c66006011.1">
+				</crossref>
+				a white robe and 
+				<crossref let="f" cid="c66006011.2">
+				</crossref>
+				told to rest a little longer, 
+				<crossref let="g" cid="c66006011.3">
+				</crossref>
+				until the number of their fellow servants
+				<note nid="n66006011.1">
+				</note>
+				 and their brothers
+				<note nid="n66006011.2">
+				</note>
+				<crossref let="h" cid="c66006011.4">
+				</crossref>
+				should be complete, who were to be killed as they themselves had been.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v66006012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				When he opened the sixth seal, I looked, and behold, 
+				<crossref let="i" cid="c66006012.1">
+				</crossref>
+				there was a great earthquake, and 
+				<crossref let="j" cid="c66006012.2">
+				</crossref>
+				the sun became black as 
+				<crossref let="k" cid="c66006012.3">
+				</crossref>
+				sackcloth, the full moon became like blood,
+			</verse>
+			<marker class="begin-verse" mid="v66006013">
+			</marker>
+			<verse num="13">
+				and 
+				<crossref let="l" cid="c66006013.1">
+				</crossref>
+				the stars of the sky fell to the earth 
+				<crossref let="m" cid="c66006013.2">
+				</crossref>
+				as the fig tree sheds its winter fruit when shaken by a gale.
+			</verse>
+			<marker class="begin-verse" mid="v66006014">
+			</marker>
+			<verse num="14">
+				<crossref let="n" cid="c66006014.1">
+				</crossref>
+				The sky vanished 
+				<crossref let="m" cid="c66006014.2">
+				</crossref>
+				like a scroll that is being rolled up, and 
+				<crossref let="o" cid="c66006014.3">
+				</crossref>
+				every mountain and island was removed from its place.
+			</verse>
+			<marker class="begin-verse" mid="v66006015">
+			</marker>
+			<verse num="15">
+				Then the kings of the earth and the great ones and the generals and the rich and the powerful, and everyone, slave
+				<note nid="n66006015.1">
+				</note>
+				 and free, 
+				<crossref let="p" cid="c66006015.1">
+				</crossref>
+				hid themselves in the caves and among the rocks of the mountains,
+			</verse>
+			<marker class="begin-verse" mid="v66006016">
+			</marker>
+			<verse num="16">
+				<crossref let="q" cid="c66006016.1">
+				</crossref>
+				calling to the mountains and rocks, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Fall on us and hide us from the face of 
+				<crossref let="r" cid="c66006016.2">
+				</crossref>
+				him who is seated on the throne, and from the wrath of the Lamb,
+			</verse>
+			<marker class="begin-verse" mid="v66006017">
+			</marker>
+			<verse num="17">
+				for 
+				<crossref let="s" cid="c66006017.1">
+				</crossref>
+				the great day of their wrath has come, and 
+				<crossref let="t" cid="c66006017.2">
+				</crossref>
+				who can stand?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

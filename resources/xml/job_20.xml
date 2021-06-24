@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18020001">
+		</marker>
+		<chapter num="20">
+			<heading
+				>
+				Zophar Speaks: The Wicked Will Suffer
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then 
+				<crossref let="c" cid="c18020001.1">
+				</crossref>
+				Zophar the Naamathite answered and said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18020002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Therefore my 
+				<crossref let="d" cid="c18020002.1">
+				</crossref>
+				thoughts answer me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because of my haste within me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				I hear censure that insults me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and out of my understanding a spirit answers me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Do you not know this from of old,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c18020004.1">
+				</crossref>
+				since man was placed on earth,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c18020005.1">
+				</crossref>
+				that the exulting of the wicked is short,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the joy of the godless but for a moment?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c18020006.1">
+				</crossref>
+				Though his height mount up to the heavens,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his head reach to the clouds,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				he will perish forever like his own 
+				<crossref let="h" cid="c18020007.1">
+				</crossref>
+				dung;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				those who have seen him will say, 
+				<crossref let="i" cid="c18020007.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Where is he?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				He will fly away like 
+				<crossref let="j" cid="c18020008.1">
+				</crossref>
+				a dream and not be found;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he will be chased away like a vision of the night.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c18020009.1">
+				</crossref>
+				The eye that saw him will see him no more,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor will his place any more behold him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				His children will seek the favor of the poor,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his hands will 
+				<crossref let="l" cid="c18020010.1">
+				</crossref>
+				give back his wealth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				His bones are full of his 
+				<crossref let="m" cid="c18020011.1">
+				</crossref>
+				youthful vigor,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but it will lie 
+				<crossref let="n" cid="c18020011.2">
+				</crossref>
+				down with him in the dust.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18020012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Though evil is sweet in his mouth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				though he hides it 
+				<crossref let="o" cid="c18020012.1">
+				</crossref>
+				under his tongue,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				though he is loath to let it go
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and holds it in his mouth,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				yet his food is turned in his stomach;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it is the venom of 
+				<crossref let="p" cid="c18020014.1">
+				</crossref>
+				cobras within him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				He swallows down riches and vomits them up again;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				God casts them out of his belly.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				He will suck the poison of cobras;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c18020016.1">
+				</crossref>
+				the tongue of a viper will kill him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				He will not look upon 
+				<crossref let="r" cid="c18020017.1">
+				</crossref>
+				the rivers,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the streams flowing with 
+				<crossref let="s" cid="c18020017.2">
+				</crossref>
+				honey and 
+				<crossref let="t" cid="c18020017.3">
+				</crossref>
+				curds.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				He will 
+				<crossref let="u" cid="c18020018.1">
+				</crossref>
+				give back the fruit of his toil
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and will not 
+				<crossref let="v" cid="c18020018.2">
+				</crossref>
+				swallow it down;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				from the profit of his trading
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he will get no enjoyment.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				For he has crushed and abandoned the poor;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he has seized a house that he did not build.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18020020">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Because he 
+				<crossref let="w" cid="c18020020.1">
+				</crossref>
+				knew no 
+				<crossref let="x" cid="c18020020.2">
+				</crossref>
+				contentment in his belly,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="y" cid="c18020020.3">
+				</crossref>
+				he will not let anything in which he delights escape him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				There was nothing left after he had eaten;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				therefore his prosperity will not endure.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				In the fullness of his sufficiency he will be in distress;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the hand of everyone in misery will come against him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				To fill his belly to the full,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				God
+				<note nid="n18020023.1">
+				</note>
+				 will send his burning anger against him
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and rain it upon him 
+				<crossref let="z" cid="c18020023.1">
+				</crossref>
+				into his body.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c18020024.1">
+				</crossref>
+				He will flee from an iron weapon;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c18020024.2">
+				</crossref>
+				a bronze arrow will strike 
+				<crossref let="c" cid="c18020024.3">
+				</crossref>
+				him through.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				It 
+				<crossref let="d" cid="c18020025.1">
+				</crossref>
+				is drawn forth and comes out of his body;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c18020025.2">
+				</crossref>
+				the glittering point comes out of his 
+				<crossref let="f" cid="c18020025.3">
+				</crossref>
+				gallbladder;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="g" cid="c18020025.4">
+				</crossref>
+				terrors come upon him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				Utter darkness is laid up for his treasures;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c18020026.1">
+				</crossref>
+				a fire not fanned will devour him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				what is left in his tent will be consumed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c18020027.1">
+				</crossref>
+				The heavens will reveal his iniquity,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the earth will rise up against him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				The possessions of his house will be carried away,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				dragged off in the day of God's
+				<note nid="n18020028.1">
+				</note>
+				 wrath.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18020029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c18020029.1">
+				</crossref>
+				This is the wicked man's portion from God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c18020029.2">
+				</crossref>
+				the heritage decreed for him by God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

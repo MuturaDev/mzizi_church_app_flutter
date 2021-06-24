@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19103001">
+		</marker>
+		<chapter num="103">
+			<heading
+				>
+				Bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O My Soul
+			</heading>
+			<subheading class="psalm-title">
+				Of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c19103001.1">
+				</crossref>
+				Bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O my soul,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all that is within me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				bless his holy name!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c19103002.1">
+				</crossref>
+				Bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O my soul,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="z" cid="c19103002.2">
+				</crossref>
+				forget not all his benefits,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				who 
+				<crossref let="a" cid="c19103003.1">
+				</crossref>
+				forgives all your iniquity,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="b" cid="c19103003.2">
+				</crossref>
+				heals all your diseases,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				who 
+				<crossref let="c" cid="c19103004.1">
+				</crossref>
+				redeems your life from the pit,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="d" cid="c19103004.2">
+				</crossref>
+				crowns you with steadfast love and mercy,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				who 
+				<crossref let="e" cid="c19103005.1">
+				</crossref>
+				satisfies you with good
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so that your youth is renewed like 
+				<crossref let="f" cid="c19103005.2">
+				</crossref>
+				the eagle's.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19103006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 works 
+				<crossref let="g" cid="c19103006.1">
+				</crossref>
+				righteousness
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and justice for all who are oppressed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				He made known his 
+				<crossref let="h" cid="c19103007.1">
+				</crossref>
+				ways to Moses,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his 
+				<crossref let="i" cid="c19103007.2">
+				</crossref>
+				acts to the people of Israel.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is 
+				<crossref let="j" cid="c19103008.1">
+				</crossref>
+				merciful and gracious,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				slow to anger and abounding in steadfast love.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c19103009.1">
+				</crossref>
+				He will not always chide,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor will he 
+				<crossref let="l" cid="c19103009.2">
+				</crossref>
+				keep his anger forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				He does not deal with us 
+				<crossref let="m" cid="c19103010.1">
+				</crossref>
+				according to our sins,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor repay us according to our iniquities.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="n" cid="c19103011.1">
+				</crossref>
+				as high as the heavens are above the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so great is his 
+				<crossref let="o" cid="c19103011.2">
+				</crossref>
+				steadfast love toward 
+				<crossref let="p" cid="c19103011.3">
+				</crossref>
+				those who fear him;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				as far as the east is from the west,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so far does he 
+				<crossref let="q" cid="c19103012.1">
+				</crossref>
+				remove our transgressions from us.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				As 
+				<crossref let="r" cid="c19103013.1">
+				</crossref>
+				a father shows compassion to his children,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 shows compassion 
+				<crossref let="p" cid="c19103013.2">
+				</crossref>
+				to those who fear him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				For he knows our frame;
+				<note nid="n19103014.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="s" cid="c19103014.1">
+				</crossref>
+				remembers that we are dust.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19103015">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				As for man, his days are like 
+				<crossref let="t" cid="c19103015.1">
+				</crossref>
+				grass;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he flourishes like 
+				<crossref let="u" cid="c19103015.2">
+				</crossref>
+				a flower of the field;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				for 
+				<crossref let="v" cid="c19103016.1">
+				</crossref>
+				the wind passes over it, and 
+				<crossref let="w" cid="c19103016.2">
+				</crossref>
+				it is gone,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="x" cid="c19103016.3">
+				</crossref>
+				its place knows it no more.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				But 
+				<crossref let="y" cid="c19103017.1">
+				</crossref>
+				the steadfast love of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is from everlasting to everlasting on 
+				<crossref let="p" cid="c19103017.2">
+				</crossref>
+				those who fear him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his righteousness to 
+				<crossref let="z" cid="c19103017.3">
+				</crossref>
+				children's children,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				to those who 
+				<crossref let="a" cid="c19103018.1">
+				</crossref>
+				keep his covenant
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="b" cid="c19103018.2">
+				</crossref>
+				remember to do his commandments.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has 
+				<crossref let="c" cid="c19103019.1">
+				</crossref>
+				established his throne in the heavens,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his 
+				<crossref let="d" cid="c19103019.2">
+				</crossref>
+				kingdom rules over all.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19103020">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				Bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O you 
+				<crossref let="e" cid="c19103020.1">
+				</crossref>
+				his angels,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="f" cid="c19103020.2">
+				</crossref>
+				mighty ones who 
+				<crossref let="g" cid="c19103020.3">
+				</crossref>
+				do his word,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				obeying the voice of his word!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				Bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, all his 
+				<crossref let="h" cid="c19103021.1">
+				</crossref>
+				hosts,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his 
+				<crossref let="i" cid="c19103021.2">
+				</crossref>
+				ministers, who do his will!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19103022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c19103022.1">
+				</crossref>
+				Bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, all his works,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in all places of his dominion.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c19103022.2">
+				</crossref>
+				Bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O my soul!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

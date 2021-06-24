@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19092001">
+		</marker>
+		<chapter num="92">
+			<heading
+				>
+				How Great Are Your Works
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm. A Song for the Sabbath.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c19092001.1">
+				</crossref>
+				It is good to give thanks to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to sing praises to your name, 
+				<crossref let="g" cid="c19092001.2">
+				</crossref>
+				O Most High;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19092002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				to declare your 
+				<crossref let="h" cid="c19092002.1">
+				</crossref>
+				steadfast love in 
+				<crossref let="i" cid="c19092002.2">
+				</crossref>
+				the morning,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your 
+				<crossref let="h" cid="c19092002.3">
+				</crossref>
+				faithfulness by 
+				<crossref let="i" cid="c19092002.4">
+				</crossref>
+				night,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19092003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				to the music of 
+				<crossref let="j" cid="c19092003.1">
+				</crossref>
+				the lute and 
+				<crossref let="j" cid="c19092003.2">
+				</crossref>
+				the harp,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the melody of 
+				<crossref let="j" cid="c19092003.3">
+				</crossref>
+				the lyre.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19092004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				For you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, have made me glad by your 
+				<crossref let="k" cid="c19092004.1">
+				</crossref>
+				work;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				at 
+				<crossref let="l" cid="c19092004.2">
+				</crossref>
+				the works of your hands I sing for joy.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19092005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				How 
+				<crossref let="m" cid="c19092005.1">
+				</crossref>
+				great are your works, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Your 
+				<crossref let="n" cid="c19092005.2">
+				</crossref>
+				thoughts are very 
+				<crossref let="o" cid="c19092005.3">
+				</crossref>
+				deep!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19092006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				The stupid man cannot know;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the fool cannot understand this:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19092007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				that though 
+				<crossref let="p" cid="c19092007.1">
+				</crossref>
+				the wicked sprout like grass
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all 
+				<crossref let="q" cid="c19092007.2">
+				</crossref>
+				evildoers flourish,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				they are doomed to destruction forever;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19092008">
+			</marker>
+			<verse num="8">
+				<begin-line class="indent">
+				</begin-line>
+				but you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, are 
+				<crossref let="r" cid="c19092008.1">
+				</crossref>
+				on high forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19092009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				For behold, your enemies, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for behold, your enemies shall perish;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all evildoers shall be 
+				<crossref let="s" cid="c19092009.1">
+				</crossref>
+				scattered.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19092010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				But you have exalted my 
+				<crossref let="t" cid="c19092010.1">
+				</crossref>
+				horn like that of 
+				<crossref let="u" cid="c19092010.2">
+				</crossref>
+				the wild ox;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have 
+				<crossref let="v" cid="c19092010.3">
+				</crossref>
+				poured over me
+				<note nid="n19092010.1">
+				</note>
+				 fresh oil.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19092011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				My 
+				<crossref let="w" cid="c19092011.1">
+				</crossref>
+				eyes have seen the downfall of my enemies;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my ears have heard the doom of my evil assailants.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19092012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19092012.1">
+				</crossref>
+				The righteous flourish like the palm tree
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and grow like a cedar in Lebanon.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19092013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				They are planted in the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they flourish in 
+				<crossref let="y" cid="c19092013.1">
+				</crossref>
+				the courts of our God.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19092014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				They still bear fruit in old age;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they are ever full of sap and green,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19092015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c19092015.1">
+				</crossref>
+				to declare that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is upright;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he is my 
+				<crossref let="a" cid="c19092015.2">
+				</crossref>
+				rock, and there is 
+				<crossref let="b" cid="c19092015.3">
+				</crossref>
+				no unrighteousness in him.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19063001">
+		</marker>
+		<chapter num="63">
+			<heading
+				>
+				My Soul Thirsts for You
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm of David, 
+				<crossref let="s" cid="c19063001.1">
+				</crossref>
+				when he was in the wilderness of Judah.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				O God, you are my God; 
+				<crossref let="t" cid="c19063001.2">
+				</crossref>
+				earnestly I seek you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c19063001.3">
+				</crossref>
+				my soul thirsts for you;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				my flesh faints for you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as in 
+				<crossref let="v" cid="c19063001.4">
+				</crossref>
+				a dry and weary land where there is no water.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19063002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				So I have looked upon you in the sanctuary,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				beholding 
+				<crossref let="w" cid="c19063002.1">
+				</crossref>
+				your power and glory.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19063003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Because your 
+				<crossref let="x" cid="c19063003.1">
+				</crossref>
+				steadfast love is better than life,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my lips will praise you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19063004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				So I will bless you 
+				<crossref let="y" cid="c19063004.1">
+				</crossref>
+				as long as I live;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in your 
+				<crossref let="z" cid="c19063004.2">
+				</crossref>
+				name I will 
+				<crossref let="a" cid="c19063004.3">
+				</crossref>
+				lift up my hands.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19063005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				My soul will be 
+				<crossref let="b" cid="c19063005.1">
+				</crossref>
+				satisfied as with fat and rich food,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my mouth will praise you with joyful lips,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19063006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				when I remember you 
+				<crossref let="c" cid="c19063006.1">
+				</crossref>
+				upon my bed,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and meditate on you in 
+				<crossref let="c" cid="c19063006.2">
+				</crossref>
+				the watches of the night;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19063007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				for you have been my help,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and in 
+				<crossref let="d" cid="c19063007.1">
+				</crossref>
+				the shadow of your wings I will sing for joy.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19063008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				My soul 
+				<crossref let="e" cid="c19063008.1">
+				</crossref>
+				clings to you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your right hand 
+				<crossref let="f" cid="c19063008.2">
+				</crossref>
+				upholds me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19063009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				But those who seek to destroy my life
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="g" cid="c19063009.1">
+				</crossref>
+				shall go down into 
+				<crossref let="h" cid="c19063009.2">
+				</crossref>
+				the depths of the earth;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19063010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				they shall be given over to the power of the sword;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they shall be a portion for jackals.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19063011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				But 
+				<crossref let="i" cid="c19063011.1">
+				</crossref>
+				the king shall rejoice in God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all who 
+				<crossref let="j" cid="c19063011.2">
+				</crossref>
+				swear by him shall exult,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c19063011.3">
+				</crossref>
+				for the mouths of 
+				<crossref let="l" cid="c19063011.4">
+				</crossref>
+				liars will be stopped.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

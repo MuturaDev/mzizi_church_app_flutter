@@ -1,0 +1,785 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="John" num="42">
+		<marker class="begin-verse" mid="v43011001">
+		</marker>
+		<chapter num="11">
+			<heading
+				>
+				The Death of Lazarus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now a certain man was ill, Lazarus of Bethany, the village of 
+				<crossref let="l" cid="c43011001.1">
+				</crossref>
+				Mary and her sister Martha.
+			</verse>
+			<marker class="begin-verse" mid="v43011002">
+			</marker>
+			<verse num="2">
+				<crossref let="m" cid="c43011002.1">
+				</crossref>
+				It was Mary who anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was ill.
+			</verse>
+			<marker class="begin-verse" mid="v43011003">
+			</marker>
+			<verse num="3">
+				So the sisters sent to him, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, 
+				<crossref let="n" cid="c43011003.1">
+				</crossref>
+				he whom you love is ill.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43011004">
+			</marker>
+			<verse num="4">
+				But when Jesus heard it he said, 
+				<woc
+					>
+					<crossref let="o" cid="c43011004.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					This illness does not lead to death. It is for 
+					<crossref let="p" cid="c43011004.2">
+					</crossref>
+					the glory of God, so that the Son of God may be glorified through it.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43011005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				Now 
+				<crossref let="q" cid="c43011005.1">
+				</crossref>
+				Jesus loved Martha and her sister and Lazarus.
+			</verse>
+			<marker class="begin-verse" mid="v43011006">
+			</marker>
+			<verse num="6">
+				So, when he heard that Lazarus
+				<note nid="n43011006.1">
+				</note>
+				 was ill, 
+				<crossref let="r" cid="c43011006.1">
+				</crossref>
+				he stayed two days longer in the place where he was.
+			</verse>
+			<marker class="begin-verse" mid="v43011007">
+			</marker>
+			<verse num="7">
+				Then after this he said to the disciples, 
+				<woc
+					>
+					<crossref let="s" cid="c43011007.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Let us go to Judea again.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43011008">
+			</marker>
+			<verse num="8">
+				The disciples said to him, 
+				<crossref let="t" cid="c43011008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Rabbi, 
+				<crossref let="u" cid="c43011008.2">
+				</crossref>
+				the Jews were just now seeking to stone you, and are you going there again?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43011009">
+			</marker>
+			<verse num="9">
+				Jesus answered, 
+				<woc
+					>
+					<crossref let="v" cid="c43011009.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Are there not twelve hours in the day? 
+					<crossref let="w" cid="c43011009.2">
+					</crossref>
+					If anyone walks in the day, he does not stumble, because he sees the light of this world.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43011010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					But 
+					<crossref let="x" cid="c43011010.1">
+					</crossref>
+					if anyone walks in the night, he stumbles, because the light is not 
+					<crossref let="x" cid="c43011010.2">
+					</crossref>
+					in him.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43011011">
+			</marker>
+			<verse num="11">
+				After saying these things, he said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Our friend Lazarus 
+					<crossref let="y" cid="c43011011.1">
+					</crossref>
+					has fallen asleep, but I go to awaken him.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43011012">
+			</marker>
+			<verse num="12">
+				The disciples said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, if he has fallen asleep, he will recover.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43011013">
+			</marker>
+			<verse num="13">
+				Now Jesus had spoken of his death, but they thought that he meant taking rest in sleep.
+			</verse>
+			<marker class="begin-verse" mid="v43011014">
+			</marker>
+			<verse num="14">
+				Then Jesus told them plainly, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Lazarus has died,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43011015">
+			</marker>
+			<verse num="15" class="woc">
+				<woc
+					>
+					and for your sake I am glad that I was not there, so that you may believe. But let us go to him.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43011016">
+			</marker>
+			<verse num="16">
+				<crossref let="z" cid="c43011016.1">
+				</crossref>
+				So Thomas, called the Twin,
+				<note nid="n43011016.1">
+				</note>
+				 said to his fellow disciples, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let us also go, 
+				<crossref let="a" cid="c43011016.2">
+				</crossref>
+				that we may die with him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43011017">
+			</marker>
+			<heading
+				>
+				I Am the Resurrection and the Life
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				Now when Jesus came, he found that Lazarus had already been in the tomb 
+				<crossref let="b" cid="c43011017.1">
+				</crossref>
+				four days.
+			</verse>
+			<marker class="begin-verse" mid="v43011018">
+			</marker>
+			<verse num="18">
+				Bethany was near Jerusalem, about two miles
+				<note nid="n43011018.1">
+				</note>
+				 off,
+			</verse>
+			<marker class="begin-verse" mid="v43011019">
+			</marker>
+			<verse num="19">
+				and many of the Jews had come to Martha and Mary 
+				<crossref let="c" cid="c43011019.1">
+				</crossref>
+				to console them concerning their brother.
+			</verse>
+			<marker class="begin-verse" mid="v43011020">
+			</marker>
+			<verse num="20">
+				<crossref let="d" cid="c43011020.1">
+				</crossref>
+				So when Martha heard that Jesus was coming, she went and met him, but Mary remained seated in the house.
+			</verse>
+			<marker class="begin-verse" mid="v43011021">
+			</marker>
+			<verse num="21">
+				Martha said to 
+				<crossref let="e" cid="c43011021.1">
+				</crossref>
+				Jesus, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, 
+				<crossref let="f" cid="c43011021.2">
+				</crossref>
+				if you had been here, my brother would not have died.
+			</verse>
+			<marker class="begin-verse" mid="v43011022">
+			</marker>
+			<verse num="22">
+				But even now I know that whatever you ask from God, 
+				<crossref let="g" cid="c43011022.1">
+				</crossref>
+				God will give you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43011023">
+			</marker>
+			<verse num="23">
+				Jesus said to her, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Your brother will rise again.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43011024">
+			</marker>
+			<verse num="24">
+				<crossref let="h" cid="c43011024.1">
+				</crossref>
+				Martha said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I know that he will rise again in 
+				<crossref let="i" cid="c43011024.2">
+				</crossref>
+				the resurrection on the last day.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43011025">
+			</marker>
+			<verse num="25">
+				Jesus said to her, 
+				<woc
+					>
+					<crossref let="j" cid="c43011025.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I am the resurrection and 
+					<crossref let="k" cid="c43011025.2">
+					</crossref>
+					the life.
+					<note nid="n43011025.1">
+					</note>
+					 Whoever believes in me, 
+					<crossref let="l" cid="c43011025.3">
+					</crossref>
+					though he die, 
+					<crossref let="m" cid="c43011025.4">
+					</crossref>
+					yet shall he live,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43011026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					and everyone who lives and believes in me 
+					<crossref let="n" cid="c43011026.1">
+					</crossref>
+					shall never die. Do you believe this?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43011027">
+			</marker>
+			<verse num="27">
+				She said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Yes, Lord; 
+				<crossref let="o" cid="c43011027.1">
+				</crossref>
+				I believe that 
+				<crossref let="p" cid="c43011027.2">
+				</crossref>
+				you are the Christ, the Son of God, 
+				<crossref let="q" cid="c43011027.3">
+				</crossref>
+				who is coming into the world.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43011028">
+			</marker>
+			<heading
+				>
+				Jesus Weeps
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				When she had said this, she went and called her sister Mary, saying in private, 
+				<crossref let="r" cid="c43011028.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The Teacher is here and is calling for you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43011029">
+			</marker>
+			<verse num="29">
+				And when she heard it, she rose quickly and went to him.
+			</verse>
+			<marker class="begin-verse" mid="v43011030">
+			</marker>
+			<verse num="30">
+				Now Jesus had not yet come into the village, but was still in the place where Martha had met him.
+			</verse>
+			<marker class="begin-verse" mid="v43011031">
+			</marker>
+			<verse num="31">
+				When the Jews 
+				<crossref let="s" cid="c43011031.1">
+				</crossref>
+				who were with her in the house, consoling her, saw Mary rise quickly and go out, they followed her, supposing that she was going to the tomb to weep there.
+			</verse>
+			<marker class="begin-verse" mid="v43011032">
+			</marker>
+			<verse num="32">
+				Now when Mary came to where Jesus was and saw him, she fell at his feet, saying to him, 
+				<crossref let="t" cid="c43011032.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, if you had been here, my brother would not have died.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43011033">
+			</marker>
+			<verse num="33">
+				When Jesus saw her weeping, and the Jews who had come with her also weeping, he 
+				<crossref let="u" cid="c43011033.1">
+				</crossref>
+				was deeply moved in his spirit and 
+				<crossref let="v" cid="c43011033.2">
+				</crossref>
+				greatly troubled.
+			</verse>
+			<marker class="begin-verse" mid="v43011034">
+			</marker>
+			<verse num="34">
+				And he said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Where have you laid him?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 They said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, come and see.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43011035">
+			</marker>
+			<verse num="35">
+				<crossref let="w" cid="c43011035.1">
+				</crossref>
+				Jesus wept.
+			</verse>
+			<marker class="begin-verse" mid="v43011036">
+			</marker>
+			<verse num="36">
+				So the Jews said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See 
+				<crossref let="x" cid="c43011036.1">
+				</crossref>
+				how he loved him!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43011037">
+			</marker>
+			<verse num="37">
+				But some of them said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Could not he 
+				<crossref let="y" cid="c43011037.1">
+				</crossref>
+				who opened the eyes of the blind man 
+				<crossref let="z" cid="c43011037.2">
+				</crossref>
+				also have kept this man from dying?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43011038">
+			</marker>
+			<heading
+				>
+				Jesus Raises Lazarus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="38">
+				Then Jesus, 
+				<crossref let="a" cid="c43011038.1">
+				</crossref>
+				deeply moved again, came to the tomb. It was 
+				<crossref let="b" cid="c43011038.2">
+				</crossref>
+				a cave, and 
+				<crossref let="c" cid="c43011038.3">
+				</crossref>
+				a stone lay against it.
+			</verse>
+			<marker class="begin-verse" mid="v43011039">
+			</marker>
+			<verse num="39">
+				Jesus said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Take away the stone.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 Martha, the sister of the dead man, said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, by this time there will be an odor, for 
+				<crossref let="d" cid="c43011039.1">
+				</crossref>
+				he has been dead four days.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43011040">
+			</marker>
+			<verse num="40">
+				Jesus said to her, 
+				<woc
+					>
+					<crossref let="e" cid="c43011040.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Did I not tell you that if you believed you would see 
+					<crossref let="f" cid="c43011040.2">
+					</crossref>
+					the glory of God?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43011041">
+			</marker>
+			<verse num="41">
+				So they took away the stone. And Jesus 
+				<crossref let="g" cid="c43011041.1">
+				</crossref>
+				lifted up his eyes and said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Father, I thank you that you have heard me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43011042">
+			</marker>
+			<verse num="42" class="woc">
+				<woc
+					>
+					<crossref let="h" cid="c43011042.1">
+					</crossref>
+					I knew that you always hear me, but I said this 
+					<crossref let="i" cid="c43011042.2">
+					</crossref>
+					on account of the people standing around, 
+					<crossref let="j" cid="c43011042.3">
+					</crossref>
+					that they may believe that you sent me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43011043">
+			</marker>
+			<verse num="43">
+				When he had said these things, he cried out with a loud voice, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Lazarus, come out.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43011044">
+			</marker>
+			<verse num="44">
+				<crossref let="k" cid="c43011044.1">
+				</crossref>
+				The man who had died came out, 
+				<crossref let="l" cid="c43011044.2">
+				</crossref>
+				his hands and feet bound with linen strips, and 
+				<crossref let="m" cid="c43011044.3">
+				</crossref>
+				his face wrapped with a cloth. Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Unbind him, and let him go.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43011045">
+			</marker>
+			<heading
+				>
+				The Plot to Kill Jesus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="45">
+				<crossref let="n" cid="c43011045.1">
+				</crossref>
+				Many of the Jews therefore, 
+				<crossref let="o" cid="c43011045.2">
+				</crossref>
+				who had come with Mary and 
+				<crossref let="p" cid="c43011045.3">
+				</crossref>
+				had seen what he did, believed in him,
+			</verse>
+			<marker class="begin-verse" mid="v43011046">
+			</marker>
+			<verse num="46">
+				but some of them went to the Pharisees and told them what Jesus had done.
+			</verse>
+			<marker class="begin-verse" mid="v43011047">
+			</marker>
+			<verse num="47">
+				So the chief priests and the Pharisees 
+				<crossref let="q" cid="c43011047.1">
+				</crossref>
+				gathered 
+				<crossref let="r" cid="c43011047.2">
+				</crossref>
+				the Council and said, 
+				<crossref let="s" cid="c43011047.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What are we to do? For this man performs many signs.
+			</verse>
+			<marker class="begin-verse" mid="v43011048">
+			</marker>
+			<verse num="48">
+				If we let him go on like this, everyone will believe in him, and 
+				<crossref let="t" cid="c43011048.1">
+				</crossref>
+				the Romans will come and take away both our 
+				<crossref let="u" cid="c43011048.2">
+				</crossref>
+				place and our nation.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43011049">
+			</marker>
+			<verse num="49">
+				But one of them, 
+				<crossref let="v" cid="c43011049.1">
+				</crossref>
+				Caiaphas, 
+				<crossref let="w" cid="c43011049.2">
+				</crossref>
+				who was high priest that year, said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You know nothing at all.
+			</verse>
+			<marker class="begin-verse" mid="v43011050">
+			</marker>
+			<verse num="50">
+				Nor do you understand that 
+				<crossref let="x" cid="c43011050.1">
+				</crossref>
+				it is better for you that one man should die for the people, not that the whole nation should perish.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43011051">
+			</marker>
+			<verse num="51">
+				He did not say this of his own accord, but 
+				<crossref let="y" cid="c43011051.1">
+				</crossref>
+				being high priest that year 
+				<crossref let="z" cid="c43011051.2">
+				</crossref>
+				he prophesied that Jesus would die for the nation,
+			</verse>
+			<marker class="begin-verse" mid="v43011052">
+			</marker>
+			<verse num="52">
+				and 
+				<crossref let="a" cid="c43011052.1">
+				</crossref>
+				not for the nation only, but also 
+				<crossref let="b" cid="c43011052.2">
+				</crossref>
+				to gather into one the children of God who are scattered abroad.
+			</verse>
+			<marker class="begin-verse" mid="v43011053">
+			</marker>
+			<verse num="53">
+				So from that day on they 
+				<crossref let="c" cid="c43011053.1">
+				</crossref>
+				made plans to put him to death.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43011054">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="54">
+				Jesus therefore 
+				<crossref let="d" cid="c43011054.1">
+				</crossref>
+				no longer walked openly among the Jews, but went from there to the region near the wilderness, to a town called Ephraim, and there he stayed with the disciples.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43011055">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="55">
+				Now 
+				<crossref let="e" cid="c43011055.1">
+				</crossref>
+				the Passover of the Jews was at hand, and 
+				<crossref let="f" cid="c43011055.2">
+				</crossref>
+				many went up from the country to Jerusalem before the Passover 
+				<crossref let="g" cid="c43011055.3">
+				</crossref>
+				to purify themselves.
+			</verse>
+			<marker class="begin-verse" mid="v43011056">
+			</marker>
+			<verse num="56">
+				<crossref let="h" cid="c43011056.1">
+				</crossref>
+				They were looking for
+				<note nid="n43011056.1">
+				</note>
+				 Jesus and saying to one another as they stood in the temple, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What do you think? That he will not come to the feast at all?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43011057">
+			</marker>
+			<verse num="57">
+				Now the chief priests and the Pharisees had given orders that if anyone knew where he was, he should let them know, so that they might arrest him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Jeremiah" num="23">
+		<marker class="begin-verse" mid="v24045001">
+		</marker>
+		<chapter num="45">
+			<heading
+				>
+				Message to Baruch
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The word that Jeremiah the prophet spoke to 
+				<crossref let="s" cid="c24045001.1">
+				</crossref>
+				Baruch the son of Neriah, 
+				<crossref let="t" cid="c24045001.2">
+				</crossref>
+				when he wrote these words in a book at the dictation of Jeremiah, 
+				<crossref let="u" cid="c24045001.3">
+				</crossref>
+				in the fourth year of Jehoiakim the son of Josiah, king of Judah:
+			</verse>
+			<marker class="begin-verse" mid="v24045002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel, to you, O Baruch:
+			</verse>
+			<marker class="begin-verse" mid="v24045003">
+			</marker>
+			<verse num="3">
+				You said, 
+				<crossref let="v" cid="c24045003.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Woe is me! For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has added sorrow to my pain. 
+				<crossref let="w" cid="c24045003.2">
+				</crossref>
+				I am weary with my groaning, 
+				<crossref let="x" cid="c24045003.3">
+				</crossref>
+				and I find no rest.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v24045004">
+			</marker>
+			<verse num="4">
+				Thus shall you say to him, Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				: 
+				<crossref let="y" cid="c24045004.1">
+				</crossref>
+				Behold, what I have built I am breaking down, and what I have planted I am plucking upùthat is, the whole land.
+			</verse>
+			<marker class="begin-verse" mid="v24045005">
+			</marker>
+			<verse num="5">
+				And 
+				<crossref let="z" cid="c24045005.1">
+				</crossref>
+				do you seek great things for yourself? Seek them not, for behold, 
+				<crossref let="a" cid="c24045005.2">
+				</crossref>
+				I am bringing disaster upon all flesh, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. But I will give you 
+				<crossref let="b" cid="c24045005.3">
+				</crossref>
+				your life as a prize of war in all places to which you may go.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

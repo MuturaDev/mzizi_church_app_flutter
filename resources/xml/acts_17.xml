@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Acts" num="43">
+		<marker class="begin-verse" mid="v44017001">
+		</marker>
+		<chapter num="17">
+			<heading>
+				Paul and Silas in Thessalonica
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="1">
+				Now when they had passed through Amphipolis and Apollonia, they came to 
+				<crossref let="g" cid="c44017001.1">
+				</crossref>
+				Thessalonica, where there was a synagogue of the Jews.
+			</verse>
+			<marker class="begin-verse" mid="v44017002">
+			</marker>
+			<verse num="2">
+				And Paul went in, 
+				<crossref let="h" cid="c44017002.1">
+				</crossref>
+				as was his custom, and on three Sabbath days he reasoned with them 
+				<crossref let="i" cid="c44017002.2">
+				</crossref>
+				from the Scriptures,
+			</verse>
+			<marker class="begin-verse" mid="v44017003">
+			</marker>
+			<verse num="3">
+				<crossref let="j" cid="c44017003.1">
+				</crossref>
+				explaining and proving that it was necessary for 
+				<crossref let="k" cid="c44017003.2">
+				</crossref>
+				the Christ to suffer and 
+				<crossref let="l" cid="c44017003.3">
+				</crossref>
+				to rise from the dead, and saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This Jesus, whom I proclaim to you, is the Christ.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44017004">
+			</marker>
+			<verse num="4">
+				And 
+				<crossref let="m" cid="c44017004.1">
+				</crossref>
+				some of them were persuaded and joined Paul and Silas, as did 
+				<crossref let="n" cid="c44017004.2">
+				</crossref>
+				a great many of the devout 
+				<crossref let="o" cid="c44017004.3">
+				</crossref>
+				Greeks and not a few of the leading women.
+			</verse>
+			<marker class="begin-verse" mid="v44017005">
+			</marker>
+			<verse num="5">
+				<crossref let="p" cid="c44017005.1">
+				</crossref>
+				But the Jews 
+				<crossref let="q" cid="c44017005.2">
+				</crossref>
+				were jealous, and taking 
+				<crossref let="r" cid="c44017005.3">
+				</crossref>
+				some wicked men of the rabble, they formed a mob, set the city in an uproar, and attacked the house of Jason, seeking to bring them out to the crowd.
+			</verse>
+			<marker class="begin-verse" mid="v44017006">
+			</marker>
+			<verse num="6">
+				And when they could not find them, 
+				<crossref let="s" cid="c44017006.1">
+				</crossref>
+				they dragged Jason and some of the brothers before the city authorities, shouting, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				These men who have turned the world upside down have come here also,
+			</verse>
+			<marker class="begin-verse" mid="v44017007">
+			</marker>
+			<verse num="7">
+				and Jason has received them, and they are all acting against 
+				<crossref let="t" cid="c44017007.1">
+				</crossref>
+				the decrees of Caesar, saying that there is 
+				<crossref let="u" cid="c44017007.2">
+				</crossref>
+				another king, Jesus.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44017008">
+			</marker>
+			<verse num="8">
+				And the people and the city authorities were disturbed when they heard these things.
+			</verse>
+			<marker class="begin-verse" mid="v44017009">
+			</marker>
+			<verse num="9">
+				And when they had taken money as security from Jason and the rest, they let them go.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44017010">
+			</marker>
+			<heading>
+				Paul and Silas in Berea
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="10">
+				<crossref let="v" cid="c44017010.1">
+				</crossref>
+				The brothers
+				<note nid="n44017010.1">
+				</note>
+				 immediately sent Paul and Silas away by night to Berea, and when they arrived they 
+				<crossref let="w" cid="c44017010.2">
+				</crossref>
+				went into the Jewish synagogue.
+			</verse>
+			<marker class="begin-verse" mid="v44017011">
+			</marker>
+			<verse num="11">
+				Now these Jews were more noble than those in Thessalonica; they received the word with all eagerness, 
+				<crossref let="x" cid="c44017011.1">
+				</crossref>
+				examining the Scriptures daily to see if these things were so.
+			</verse>
+			<marker class="begin-verse" mid="v44017012">
+			</marker>
+			<verse num="12">
+				<crossref let="y" cid="c44017012.1">
+				</crossref>
+				Many of them therefore believed, with not a few Greek 
+				<crossref let="z" cid="c44017012.2">
+				</crossref>
+				women of high standing as well as men.
+			</verse>
+			<marker class="begin-verse" mid="v44017013">
+			</marker>
+			<verse num="13">
+				But when the Jews from Thessalonica learned that the word of God was proclaimed by Paul at Berea also, they came there too, 
+				<crossref let="a" cid="c44017013.1">
+				</crossref>
+				agitating and stirring up the crowds.
+			</verse>
+			<marker class="begin-verse" mid="v44017014">
+			</marker>
+			<verse num="14">
+				Then the brothers 
+				<crossref let="b" cid="c44017014.1">
+				</crossref>
+				immediately sent Paul off on his way to the sea, but Silas and 
+				<crossref let="c" cid="c44017014.2">
+				</crossref>
+				Timothy remained there.
+			</verse>
+			<marker class="begin-verse" mid="v44017015">
+			</marker>
+			<verse num="15">
+				<crossref let="d" cid="c44017015.1">
+				</crossref>
+				Those who conducted Paul brought him as far as 
+				<crossref let="e" cid="c44017015.2">
+				</crossref>
+				Athens, and after receiving a command 
+				<crossref let="f" cid="c44017015.3">
+				</crossref>
+				for Silas and Timothy to come to him as soon as possible, they departed.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44017016">
+			</marker>
+			<heading>
+				Paul in Athens
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="16">
+				Now while Paul was waiting for them at Athens, his spirit was 
+				<crossref let="g" cid="c44017016.1">
+				</crossref>
+				provoked within him as he saw that the city was 
+				<crossref let="h" cid="c44017016.2">
+				</crossref>
+				full of idols.
+			</verse>
+			<marker class="begin-verse" mid="v44017017">
+			</marker>
+			<verse num="17">
+				So 
+				<crossref let="i" cid="c44017017.1">
+				</crossref>
+				he reasoned in the synagogue with the Jews and the devout persons, and in the marketplace every day with those who happened to be there.
+			</verse>
+			<marker class="begin-verse" mid="v44017018">
+			</marker>
+			<verse num="18">
+				Some of the Epicurean and Stoic philosophers also conversed with him. And some said, 
+				<crossref let="j" cid="c44017018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What does this babbler wish to say?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Others said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He seems to be a preacher of foreign divinities
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				ùbecause 
+				<crossref let="k" cid="c44017018.2">
+				</crossref>
+				he was preaching 
+				<crossref let="l" cid="c44017018.3">
+				</crossref>
+				Jesus and the resurrection.
+			</verse>
+			<marker class="begin-verse" mid="v44017019">
+			</marker>
+			<verse num="19">
+				And they took him and brought him to 
+				<crossref let="m" cid="c44017019.1">
+				</crossref>
+				the Areopagus, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				May we know what this 
+				<crossref let="n" cid="c44017019.2">
+				</crossref>
+				new teaching is that you are presenting?
+			</verse>
+			<marker class="begin-verse" mid="v44017020">
+			</marker>
+			<verse num="20">
+				For you bring some 
+				<crossref let="o" cid="c44017020.1">
+				</crossref>
+				strange things to our ears. We wish to know therefore what these things mean.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44017021">
+			</marker>
+			<verse num="21">
+				Now all the Athenians and the foreigners who lived there would spend their time in nothing except telling or hearing something new.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44017022">
+			</marker>
+			<heading>
+				Paul Addresses the Areopagus
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="22">
+				So Paul, standing in the midst of the Areopagus, said: 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Men of Athens, I perceive that in every way you are very religious.
+			</verse>
+			<marker class="begin-verse" mid="v44017023">
+			</marker>
+			<verse num="23">
+				For as I passed along and observed the objects of your worship, I found also an altar with this inscription, 
+				<crossref let="p" cid="c44017023.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				To the unknown god.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<crossref let="p" cid="c44017023.2">
+				</crossref>
+				What therefore you worship 
+				<crossref let="q" cid="c44017023.3">
+				</crossref>
+				as unknown, this I proclaim to you.
+			</verse>
+			<marker class="begin-verse" mid="v44017024">
+			</marker>
+			<verse num="24">
+				<crossref let="r" cid="c44017024.1">
+				</crossref>
+				The God who made the world and everything in it, being 
+				<crossref let="s" cid="c44017024.2">
+				</crossref>
+				Lord of heaven and earth, 
+				<crossref let="t" cid="c44017024.3">
+				</crossref>
+				does not live in temples made by man,
+				<note nid="n44017024.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v44017025">
+			</marker>
+			<verse num="25">
+				nor is he served by human hands, 
+				<crossref let="u" cid="c44017025.1">
+				</crossref>
+				as though he needed anything, since he himself 
+				<crossref let="v" cid="c44017025.2">
+				</crossref>
+				gives to all mankind 
+				<crossref let="w" cid="c44017025.3">
+				</crossref>
+				life and breath and everything.
+			</verse>
+			<marker class="begin-verse" mid="v44017026">
+			</marker>
+			<verse num="26">
+				And 
+				<crossref let="x" cid="c44017026.1">
+				</crossref>
+				he made from one man every nation of mankind to live 
+				<crossref let="y" cid="c44017026.2">
+				</crossref>
+				on all the face of the earth, 
+				<crossref let="z" cid="c44017026.3">
+				</crossref>
+				having determined allotted periods and 
+				<crossref let="a" cid="c44017026.4">
+				</crossref>
+				the boundaries of their dwelling place,
+			</verse>
+			<marker class="begin-verse" mid="v44017027">
+			</marker>
+			<verse num="27">
+				<crossref let="b" cid="c44017027.1">
+				</crossref>
+				that they should seek God, in the hope that 
+				<crossref let="c" cid="c44017027.2">
+				</crossref>
+				they might feel their way toward him and find him. 
+				<crossref let="d" cid="c44017027.3">
+				</crossref>
+				Yet he is actually not far from each one of us,
+			</verse>
+			<marker class="begin-verse" mid="v44017028">
+			</marker>
+			<verse num="28">
+				for
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="e" cid="c44017028.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				In him we live and move and have our being
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				;
+				<note nid="n44017028.1">
+				</note>
+				<end-line>
+				</end-line>
+				<end-paragraph>
+				</end-paragraph>
+				<end-block-indent>
+				</end-block-indent>
+				<begin-paragraph class="same-paragraph">
+				</begin-paragraph>
+				as even some of 
+				<crossref let="f" cid="c44017028.2">
+				</crossref>
+				your own poets have said,
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				For we are indeed his offspring.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<note nid="n44017028.2">
+				</note>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v44017029">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="29">
+				<crossref let="g" cid="c44017029.1">
+				</crossref>
+				Being then God's offspring, 
+				<crossref let="h" cid="c44017029.2">
+				</crossref>
+				we ought not to think that the divine being is like gold or silver or stone, an image formed by the art and imagination of man.
+			</verse>
+			<marker class="begin-verse" mid="v44017030">
+			</marker>
+			<verse num="30">
+				<crossref let="i" cid="c44017030.1">
+				</crossref>
+				The times of ignorance 
+				<crossref let="j" cid="c44017030.2">
+				</crossref>
+				God overlooked, but 
+				<crossref let="k" cid="c44017030.3">
+				</crossref>
+				now he 
+				<crossref let="l" cid="c44017030.4">
+				</crossref>
+				commands all people everywhere to repent,
+			</verse>
+			<marker class="begin-verse" mid="v44017031">
+			</marker>
+			<verse num="31">
+				because he has fixed 
+				<crossref let="m" cid="c44017031.1">
+				</crossref>
+				a day on which 
+				<crossref let="n" cid="c44017031.2">
+				</crossref>
+				he will judge the world 
+				<crossref let="o" cid="c44017031.3">
+				</crossref>
+				in righteousness by a man whom he has appointed; and 
+				<crossref let="p" cid="c44017031.4">
+				</crossref>
+				of this he has given assurance to all 
+				<crossref let="q" cid="c44017031.5">
+				</crossref>
+				by raising him from the dead.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44017032">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="32">
+				Now when they heard of 
+				<crossref let="r" cid="c44017032.1">
+				</crossref>
+				the resurrection of the dead, 
+				<crossref let="s" cid="c44017032.2">
+				</crossref>
+				some mocked. But others said, 
+				<crossref let="t" cid="c44017032.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We will hear you again about this.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44017033">
+			</marker>
+			<verse num="33">
+				So Paul went out from their midst.
+			</verse>
+			<marker class="begin-verse" mid="v44017034">
+			</marker>
+			<verse num="34">
+				But some men joined him and believed, among whom also were Dionysius 
+				<crossref let="u" cid="c44017034.1">
+				</crossref>
+				the Areopagite and a woman named Damaris and others with them.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

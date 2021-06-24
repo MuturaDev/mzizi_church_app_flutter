@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Leviticus" num="2">
+		<marker class="begin-verse" mid="v03014001">
+		</marker>
+		<chapter num="14">
+			<heading
+				>
+				Laws for Cleansing Lepers
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v03014002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This shall be the law of the leprous person for the day of his cleansing. 
+				<crossref let="s" cid="c03014002.1">
+				</crossref>
+				He shall be brought to the priest,
+			</verse>
+			<marker class="begin-verse" mid="v03014003">
+			</marker>
+			<verse num="3">
+				and the priest shall go 
+				<crossref let="t" cid="c03014003.1">
+				</crossref>
+				out of the camp, and the priest shall look. Then, if the case of leprous disease is healed in the leprous person,
+			</verse>
+			<marker class="begin-verse" mid="v03014004">
+			</marker>
+			<verse num="4">
+				the priest shall command them to take for him who is to be cleansed two live
+				<note nid="n03014004.1">
+				</note>
+				 clean birds and 
+				<crossref let="u" cid="c03014004.1">
+				</crossref>
+				cedarwood and 
+				<crossref let="v" cid="c03014004.2">
+				</crossref>
+				scarlet yarn and 
+				<crossref let="w" cid="c03014004.3">
+				</crossref>
+				hyssop.
+			</verse>
+			<marker class="begin-verse" mid="v03014005">
+			</marker>
+			<verse num="5">
+				And the priest shall command them to kill one of the birds in an earthenware vessel over fresh
+				<note nid="n03014005.1">
+				</note>
+				 water.
+			</verse>
+			<marker class="begin-verse" mid="v03014006">
+			</marker>
+			<verse num="6">
+				He shall take the live bird with the cedarwood and the scarlet yarn and the hyssop, and dip them and the live bird in the blood of the bird that was killed over the fresh water.
+			</verse>
+			<marker class="begin-verse" mid="v03014007">
+			</marker>
+			<verse num="7">
+				And he shall 
+				<crossref let="x" cid="c03014007.1">
+				</crossref>
+				sprinkle it 
+				<crossref let="y" cid="c03014007.2">
+				</crossref>
+				seven times on him who is to be cleansed of the leprous disease. Then he shall pronounce him clean and shall 
+				<crossref let="z" cid="c03014007.3">
+				</crossref>
+				let the living bird go 
+				<crossref let="a" cid="c03014007.4">
+				</crossref>
+				into the open field.
+			</verse>
+			<marker class="begin-verse" mid="v03014008">
+			</marker>
+			<verse num="8">
+				And he who is to be cleansed 
+				<crossref let="b" cid="c03014008.1">
+				</crossref>
+				shall wash his clothes and shave off all his hair and bathe himself in water, and he shall be clean. And after that he may come into the camp, but 
+				<crossref let="c" cid="c03014008.2">
+				</crossref>
+				live outside his tent seven days.
+			</verse>
+			<marker class="begin-verse" mid="v03014009">
+			</marker>
+			<verse num="9">
+				And 
+				<crossref let="d" cid="c03014009.1">
+				</crossref>
+				on the seventh day he shall shave off all his hair from his head, his beard, and his eyebrows. He shall shave off all his hair, and then he 
+				<crossref let="b" cid="c03014009.2">
+				</crossref>
+				shall wash his clothes and bathe his body in water, and he shall be clean.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03014010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				And on the eighth day he 
+				<crossref let="e" cid="c03014010.1">
+				</crossref>
+				shall take two male lambs without blemish, and one ewe lamb a year old without blemish, and a 
+				<crossref let="f" cid="c03014010.2">
+				</crossref>
+				grain offering of three tenths of an ephah
+				<note nid="n03014010.1">
+				</note>
+				 of fine flour mixed with oil, and one log
+				<note nid="n03014010.2">
+				</note>
+				 of oil.
+			</verse>
+			<marker class="begin-verse" mid="v03014011">
+			</marker>
+			<verse num="11">
+				And the priest who cleanses him shall set the man who is to be cleansed and these things before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, at the entrance of the tent of meeting.
+			</verse>
+			<marker class="begin-verse" mid="v03014012">
+			</marker>
+			<verse num="12">
+				And the priest shall take one of the male lambs and 
+				<crossref let="g" cid="c03014012.1">
+				</crossref>
+				offer it for a guilt offering, along with the log of oil, and 
+				<crossref let="h" cid="c03014012.2">
+				</crossref>
+				wave them for a wave offering before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v03014013">
+			</marker>
+			<verse num="13">
+				And he shall kill the lamb 
+				<crossref let="i" cid="c03014013.1">
+				</crossref>
+				in the place where they kill the sin offering and the burnt offering, in the place of the sanctuary. For 
+				<crossref let="j" cid="c03014013.2">
+				</crossref>
+				the guilt offering, like the sin offering, belongs to the priest; 
+				<crossref let="k" cid="c03014013.3">
+				</crossref>
+				it is most holy.
+			</verse>
+			<marker class="begin-verse" mid="v03014014">
+			</marker>
+			<verse num="14">
+				The priest shall take some of the blood of the guilt offering, and the priest shall put it 
+				<crossref let="l" cid="c03014014.1">
+				</crossref>
+				on the lobe of the right ear of him who is to be cleansed and on the thumb of his right hand and on the big toe of his right foot.
+			</verse>
+			<marker class="begin-verse" mid="v03014015">
+			</marker>
+			<verse num="15">
+				Then the priest shall take some of the log of oil and pour it into the palm of his own left hand
+			</verse>
+			<marker class="begin-verse" mid="v03014016">
+			</marker>
+			<verse num="16">
+				and dip his right finger in the oil that is in his left hand and sprinkle some oil with his finger seven times before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v03014017">
+			</marker>
+			<verse num="17">
+				And some of the oil that remains in his hand the priest shall put on the lobe of the right ear of him who is to be cleansed and on the thumb of his right hand and on the big toe of his right foot, on top of the blood of the guilt offering.
+			</verse>
+			<marker class="begin-verse" mid="v03014018">
+			</marker>
+			<verse num="18">
+				And the rest of the oil that is in the priest's hand he shall put on the head of him who is to be cleansed. 
+				<crossref let="m" cid="c03014018.1">
+				</crossref>
+				Then the priest shall make atonement for him before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v03014019">
+			</marker>
+			<verse num="19">
+				The priest shall offer the sin offering, to make atonement for him who is to be cleansed from his uncleanness. And afterward he shall kill the burnt offering.
+			</verse>
+			<marker class="begin-verse" mid="v03014020">
+			</marker>
+			<verse num="20">
+				And the priest shall offer the burnt offering and the 
+				<crossref let="f" cid="c03014020.1">
+				</crossref>
+				grain offering on the altar. 
+				<crossref let="m" cid="c03014020.2">
+				</crossref>
+				Thus the priest shall make atonement for him, and he shall be clean.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03014021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				But 
+				<crossref let="n" cid="c03014021.1">
+				</crossref>
+				if he is poor and cannot afford so much, then he shall take one male lamb for a guilt offering 
+				<crossref let="h" cid="c03014021.2">
+				</crossref>
+				to be waved, to make atonement for him, and a tenth of an ephah of fine flour mixed with oil for a grain offering, and a log of oil;
+			</verse>
+			<marker class="begin-verse" mid="v03014022">
+			</marker>
+			<verse num="22">
+				<crossref let="o" cid="c03014022.1">
+				</crossref>
+				also two turtledoves or two pigeons, whichever he can afford. The one shall be a sin offering and the other a burnt offering.
+			</verse>
+			<marker class="begin-verse" mid="v03014023">
+			</marker>
+			<verse num="23">
+				<crossref let="p" cid="c03014023.1">
+				</crossref>
+				And on the eighth day he shall bring them for his cleansing to the priest, to the entrance of the tent of meeting, before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v03014024">
+			</marker>
+			<verse num="24">
+				<crossref let="q" cid="c03014024.1">
+				</crossref>
+				And the priest shall take the lamb of the guilt offering and the log of oil, and the priest shall wave them for a wave offering before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v03014025">
+			</marker>
+			<verse num="25">
+				And he shall kill the lamb of the guilt offering. 
+				<crossref let="r" cid="c03014025.1">
+				</crossref>
+				And the priest shall take some of the blood of the guilt offering and put it on the lobe of the right ear of him who is to be cleansed, and on the thumb of his right hand and on the big toe of his right foot.
+			</verse>
+			<marker class="begin-verse" mid="v03014026">
+			</marker>
+			<verse num="26">
+				And the priest shall pour some of the oil into the palm of his own left hand,
+			</verse>
+			<marker class="begin-verse" mid="v03014027">
+			</marker>
+			<verse num="27">
+				and shall sprinkle with his right finger some of the oil that is in his left hand seven times before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v03014028">
+			</marker>
+			<verse num="28">
+				And the priest shall put some of the oil that is in his hand on the lobe of the right ear of him who is to be cleansed and on the thumb of his right hand and on the big toe of his right foot, in the place where the blood of the guilt offering was put.
+			</verse>
+			<marker class="begin-verse" mid="v03014029">
+			</marker>
+			<verse num="29">
+				And the rest of the oil that is in the priest's hand he shall put on the head of him who is to be cleansed, to make atonement for him before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v03014030">
+			</marker>
+			<verse num="30">
+				And he shall offer, of the 
+				<crossref let="s" cid="c03014030.1">
+				</crossref>
+				turtledoves or pigeons, whichever he can afford,
+			</verse>
+			<marker class="begin-verse" mid="v03014031">
+			</marker>
+			<verse num="31">
+				one
+				<note nid="n03014031.1">
+				</note>
+				 for a sin offering and the other for a burnt offering, along with a grain offering. 
+				<crossref let="m" cid="c03014031.1">
+				</crossref>
+				And the priest shall make atonement before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 for him who is being cleansed.
+			</verse>
+			<marker class="begin-verse" mid="v03014032">
+			</marker>
+			<verse num="32">
+				This is the law for him in whom is a case of leprous disease, who cannot afford 
+				<crossref let="t" cid="c03014032.1">
+				</crossref>
+				the offerings for his cleansing.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03014033">
+			</marker>
+			<heading
+				>
+				Laws for Cleansing Houses
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="33">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses and Aaron, saying,
+			</verse>
+			<marker class="begin-verse" mid="v03014034">
+			</marker>
+			<verse num="34">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				When you come into the land of Canaan, which I give you 
+				<crossref let="u" cid="c03014034.1">
+				</crossref>
+				for a possession, and I put a case of leprous disease in a house in the land of your possession,
+			</verse>
+			<marker class="begin-verse" mid="v03014035">
+			</marker>
+			<verse num="35">
+				then he who owns the house shall come and tell the priest, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				There seems to me to be some case of 
+				<crossref let="v" cid="c03014035.1">
+				</crossref>
+				disease in my house.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v03014036">
+			</marker>
+			<verse num="36">
+				Then the priest shall command that they empty the house before the priest goes to examine the disease, lest all that is in the house be declared unclean. And afterward the priest shall go in to see the house.
+			</verse>
+			<marker class="begin-verse" mid="v03014037">
+			</marker>
+			<verse num="37">
+				And he shall examine the disease. And if the disease is in the walls of the house with greenish or reddish spots, and if it appears to be deeper than the surface,
+			</verse>
+			<marker class="begin-verse" mid="v03014038">
+			</marker>
+			<verse num="38">
+				then the priest shall go out of the house to the door of the house and shut up the house seven days.
+			</verse>
+			<marker class="begin-verse" mid="v03014039">
+			</marker>
+			<verse num="39">
+				And the priest shall come again on the seventh day, and look. If the disease has spread in the walls of the house,
+			</verse>
+			<marker class="begin-verse" mid="v03014040">
+			</marker>
+			<verse num="40">
+				then the priest shall command that they take out the stones in which is the disease and throw them into an unclean place outside the city.
+			</verse>
+			<marker class="begin-verse" mid="v03014041">
+			</marker>
+			<verse num="41">
+				And he shall have the inside of the house scraped all around, and the plaster that they scrape off they shall pour out in an unclean place outside the city.
+			</verse>
+			<marker class="begin-verse" mid="v03014042">
+			</marker>
+			<verse num="42">
+				Then they shall take other stones and put them in the place of those stones, and he shall take other plaster and plaster the house.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03014043">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="43">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If the disease breaks out again in the house, after he has taken out the stones and scraped the house and plastered it,
+			</verse>
+			<marker class="begin-verse" mid="v03014044">
+			</marker>
+			<verse num="44">
+				then the priest shall go and look. And if the disease has spread in the house, it is a 
+				<crossref let="w" cid="c03014044.1">
+				</crossref>
+				persistent leprous disease in the house; it is unclean.
+			</verse>
+			<marker class="begin-verse" mid="v03014045">
+			</marker>
+			<verse num="45">
+				And he shall break down the house, its stones and timber and all the plaster of the house, and he shall carry them out of the city to an unclean place.
+			</verse>
+			<marker class="begin-verse" mid="v03014046">
+			</marker>
+			<verse num="46">
+				Moreover, whoever enters the house while it is shut up shall be unclean until the evening,
+			</verse>
+			<marker class="begin-verse" mid="v03014047">
+			</marker>
+			<verse num="47">
+				and whoever sleeps in the house 
+				<crossref let="x" cid="c03014047.1">
+				</crossref>
+				shall wash his clothes, and whoever eats in the house shall wash his clothes.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03014048">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="48">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				But if the priest comes and looks, and if the disease has not spread in the house after the house was plastered, then the priest shall pronounce the house clean, for the disease is healed.
+			</verse>
+			<marker class="begin-verse" mid="v03014049">
+			</marker>
+			<verse num="49">
+				And for the 
+				<crossref let="y" cid="c03014049.1">
+				</crossref>
+				cleansing of the house he shall take 
+				<crossref let="z" cid="c03014049.2">
+				</crossref>
+				two small birds, with cedarwood and scarlet yarn and hyssop,
+			</verse>
+			<marker class="begin-verse" mid="v03014050">
+			</marker>
+			<verse num="50">
+				and shall kill one of the birds in an earthenware vessel over fresh water
+			</verse>
+			<marker class="begin-verse" mid="v03014051">
+			</marker>
+			<verse num="51">
+				and shall take the cedarwood and the hyssop and the scarlet yarn, along with the live bird, and dip them in the blood of the bird that was killed and in the fresh water and sprinkle the house seven times.
+			</verse>
+			<marker class="begin-verse" mid="v03014052">
+			</marker>
+			<verse num="52">
+				Thus he shall cleanse the house with the blood of the bird and with the fresh water and with the live bird and with the cedarwood and hyssop and scarlet yarn.
+			</verse>
+			<marker class="begin-verse" mid="v03014053">
+			</marker>
+			<verse num="53">
+				And he shall let the live bird go out of the city 
+				<crossref let="a" cid="c03014053.1">
+				</crossref>
+				into the open country. So he shall 
+				<crossref let="b" cid="c03014053.2">
+				</crossref>
+				make atonement for the house, and it shall be clean.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03014054">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="54">
+				This is the law for any case of leprous disease: for 
+				<crossref let="c" cid="c03014054.1">
+				</crossref>
+				an itch,
+			</verse>
+			<marker class="begin-verse" mid="v03014055">
+			</marker>
+			<verse num="55">
+				for 
+				<crossref let="d" cid="c03014055.1">
+				</crossref>
+				leprous disease in a garment or in 
+				<crossref let="e" cid="c03014055.2">
+				</crossref>
+				a house,
+			</verse>
+			<marker class="begin-verse" mid="v03014056">
+			</marker>
+			<verse num="56">
+				and 
+				<crossref let="f" cid="c03014056.1">
+				</crossref>
+				for a swelling or an eruption or a spot,
+			</verse>
+			<marker class="begin-verse" mid="v03014057">
+			</marker>
+			<verse num="57">
+				to 
+				<crossref let="g" cid="c03014057.1">
+				</crossref>
+				show when it is unclean and when it is clean. This is the law for leprous disease.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -8,9 +8,11 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/por
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_church_services_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_contacts_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_detailed_todo_list_response.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_enquiry_types_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_events_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_fee_transaction_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_filtered_student_info_response_model.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_list_onboarding_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_member_profile_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_notification_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_parent_chat_response_model.dart';
@@ -34,14 +36,13 @@ part 'api.g.dart';
 var baseurl = "";
 
 //@RestApi(baseUrl: "https://taapi.mzizi.co.ke/api")//THIS IS FOR TESTING
-//@RestApi(baseUrl: "https://api-church.mzizi.co.ke/api") //old
+//TODO: REMOVES THIS IN PRODUCTION
+//@RestApi(baseUrl: "https://8a36e3d315a5.ngrok.io/api") //old
 //@RestApi(baseUrl: "https://androidv2.mzizi.co.ke/api")//new
 
 @RestApi(baseUrl: "https://api-church.mzizi.co.ke/api")
 abstract class RestClient {
   factory RestClient(Dio dio) = _RestClient;
-
-
 
   @POST("/UserCredentials")
   Future<AuthenticationUserResponse> apiGetAuthenticationUserResponse(
@@ -164,7 +165,6 @@ abstract class RestClient {
       @Body() Map<String, dynamic> request);
 
 
-
   @POST('/PortalGetCompanyImage')
   Future<String> apiGetPortalCompanyLogo(@Body() Map<String, dynamic> request);
 
@@ -179,4 +179,17 @@ abstract class RestClient {
   //     'https://church.mzizi.co.ke/PortalWebServices/StudentInfo.asmx/PortalAppGetPortalPhotoGallery')
   // Future<List<PortalPhotoGallery>> apiGetPortalPhotoGallery(
   //     @Body() Map<String, dynamic> request);
+
+  @POST("/PortalEnquiryTypes")
+  Future<List<PortalEnquiryTypes>> apiGetPortalEnquiryTypes(@Body() Map<String, dynamic> request);
+
+  @POST("/PortalListOnboarding")
+  Future<List<PortalListOnboardingResponseModel>> apiGetListOnboarding(@Body() Map<String,dynamic> request);
+
+  @POST('/PortalDeviceFCMToken')
+  Future<String> apiGetPortalDeviceFCMToken(@Body() Map<String,dynamic> request);
+
+  @POST('/MziziAppVersion')
+  Future<MziziAppVersion> apiGetPortalMziziAppVersion(@Body() Map<String,dynamic> request);
+
 }

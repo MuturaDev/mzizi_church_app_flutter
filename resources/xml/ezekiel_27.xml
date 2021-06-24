@@ -1,0 +1,857 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ezekiel" num="25">
+		<marker class="begin-verse" mid="v26027001">
+		</marker>
+		<chapter num="27">
+			<heading
+				>
+				A Lament for Tyre
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me:
+			</verse>
+			<marker class="begin-verse" mid="v26027002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Now you, 
+				<crossref let="t" cid="c26027002.1">
+				</crossref>
+				son of man, 
+				<crossref let="u" cid="c26027002.2">
+				</crossref>
+				raise a lamentation over Tyre,
+			</verse>
+			<marker class="begin-verse" mid="v26027003">
+			</marker>
+			<verse num="3">
+				and say to Tyre, who dwells at 
+				<crossref let="v" cid="c26027003.1">
+				</crossref>
+				the entrances to the sea, 
+				<crossref let="w" cid="c26027003.2">
+				</crossref>
+				merchant of the peoples to many coastlands, thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				O Tyre, you have said,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I am 
+				<crossref let="x" cid="c26027003.3">
+				</crossref>
+				perfect in beauty.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Your borders are 
+				<crossref let="y" cid="c26027004.1">
+				</crossref>
+				in the heart of the seas;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your builders made perfect your beauty.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				They made all your planks
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				of fir trees from 
+				<crossref let="z" cid="c26027005.1">
+				</crossref>
+				Senir;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				they took 
+				<crossref let="a" cid="c26027005.2">
+				</crossref>
+				a cedar from Lebanon
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to make a mast for you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Of 
+				<crossref let="b" cid="c26027006.1">
+				</crossref>
+				oaks of Bashan
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they made your oars;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				they made your deck of pines
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from 
+				<crossref let="c" cid="c26027006.2">
+				</crossref>
+				the coasts of Cyprus,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				inlaid with ivory.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c26027007.1">
+				</crossref>
+				Of fine embroidered linen from Egypt
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				was your sail,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				serving as your banner;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				blue and purple from 
+				<crossref let="c" cid="c26027007.2">
+				</crossref>
+				the coasts of Elishah
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				was your awning.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				The inhabitants of Sidon and 
+				<crossref let="e" cid="c26027008.1">
+				</crossref>
+				Arvad
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				were your rowers;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				your skilled men, O Tyre, were in you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they were 
+				<crossref let="f" cid="c26027008.2">
+				</crossref>
+				your pilots.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				The elders of 
+				<crossref let="g" cid="c26027009.1">
+				</crossref>
+				Gebal and her skilled men were in you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c26027009.2">
+				</crossref>
+				caulking your seams;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				all the ships of the sea with their mariners were in you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to barter for your wares.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v26027010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				<crossref let="i" cid="c26027010.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Persia and 
+				<crossref let="j" cid="c26027010.2">
+				</crossref>
+				Lud and 
+				<crossref let="i" cid="c26027010.3">
+				</crossref>
+				Put were in your army as your men of war. 
+				<crossref let="k" cid="c26027010.4">
+				</crossref>
+				They hung the shield and helmet in you; they gave you splendor.
+			</verse>
+			<marker class="begin-verse" mid="v26027011">
+			</marker>
+			<verse num="11">
+				Men of 
+				<crossref let="e" cid="c26027011.1">
+				</crossref>
+				Arvad and Helech were on your walls all around, and men of Gamad were in your towers. They hung their shields on your walls all around; they made 
+				<crossref let="x" cid="c26027011.2">
+				</crossref>
+				perfect your beauty.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26027012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				<crossref let="l" cid="c26027012.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Tarshish did 
+				<crossref let="m" cid="c26027012.2">
+				</crossref>
+				business with you because of your great wealth of every kind; silver, iron, tin, and lead they exchanged for your 
+				<crossref let="n" cid="c26027012.3">
+				</crossref>
+				wares.
+			</verse>
+			<marker class="begin-verse" mid="v26027013">
+			</marker>
+			<verse num="13">
+				<crossref let="o" cid="c26027013.1">
+				</crossref>
+				Javan, 
+				<crossref let="p" cid="c26027013.2">
+				</crossref>
+				Tubal, and 
+				<crossref let="p" cid="c26027013.3">
+				</crossref>
+				Meshech traded with you; they exchanged human beings and vessels of bronze for your merchandise.
+			</verse>
+			<marker class="begin-verse" mid="v26027014">
+			</marker>
+			<verse num="14">
+				From 
+				<crossref let="q" cid="c26027014.1">
+				</crossref>
+				Beth-togarmah they exchanged horses, war horses, and mules 
+				<crossref let="r" cid="c26027014.2">
+				</crossref>
+				for your wares.
+			</verse>
+			<marker class="begin-verse" mid="v26027015">
+			</marker>
+			<verse num="15">
+				The men of 
+				<crossref let="s" cid="c26027015.1">
+				</crossref>
+				Dedan
+				<note nid="n26027015.1">
+				</note>
+				 traded with you. Many coastlands were your own special markets; they brought you in payment ivory tusks and ebony.
+			</verse>
+			<marker class="begin-verse" mid="v26027016">
+			</marker>
+			<verse num="16">
+				Syria 
+				<crossref let="t" cid="c26027016.1">
+				</crossref>
+				did business with you because of your abundant goods; they exchanged for your wares 
+				<crossref let="u" cid="c26027016.2">
+				</crossref>
+				emeralds, 
+				<crossref let="u" cid="c26027016.3">
+				</crossref>
+				purple, 
+				<crossref let="v" cid="c26027016.4">
+				</crossref>
+				embroidered work, 
+				<crossref let="w" cid="c26027016.5">
+				</crossref>
+				fine linen, coral, and 
+				<crossref let="x" cid="c26027016.6">
+				</crossref>
+				ruby.
+			</verse>
+			<marker class="begin-verse" mid="v26027017">
+			</marker>
+			<verse num="17">
+				Judah and the land of Israel traded with you; they exchanged for your merchandise 
+				<crossref let="y" cid="c26027017.1">
+				</crossref>
+				wheat of 
+				<crossref let="z" cid="c26027017.2">
+				</crossref>
+				Minnith, meal,
+				<note nid="n26027017.1">
+				</note>
+				 honey, oil, and 
+				<crossref let="a" cid="c26027017.3">
+				</crossref>
+				balm.
+			</verse>
+			<marker class="begin-verse" mid="v26027018">
+			</marker>
+			<verse num="18">
+				<crossref let="b" cid="c26027018.1">
+				</crossref>
+				Damascus did business with you for your abundant goods, because of your great wealth of every kind; wine of Helbon and 
+				<crossref let="c" cid="c26027018.2">
+				</crossref>
+				wool of Sahar
+			</verse>
+			<marker class="begin-verse" mid="v26027019">
+			</marker>
+			<verse num="19">
+				and casks of wine
+				<note nid="n26027019.1">
+				</note>
+				 from Uzal they exchanged for your wares; wrought iron, 
+				<crossref let="d" cid="c26027019.1">
+				</crossref>
+				cassia, and 
+				<crossref let="e" cid="c26027019.2">
+				</crossref>
+				calamus were bartered for your merchandise.
+			</verse>
+			<marker class="begin-verse" mid="v26027020">
+			</marker>
+			<verse num="20">
+				Dedan traded with you in saddlecloths for riding.
+			</verse>
+			<marker class="begin-verse" mid="v26027021">
+			</marker>
+			<verse num="21">
+				Arabia and all the princes of 
+				<crossref let="f" cid="c26027021.1">
+				</crossref>
+				Kedar were your favored dealers 
+				<crossref let="f" cid="c26027021.2">
+				</crossref>
+				in lambs, rams, and goats; in these they did business with you.
+			</verse>
+			<marker class="begin-verse" mid="v26027022">
+			</marker>
+			<verse num="22">
+				The traders of 
+				<crossref let="g" cid="c26027022.1">
+				</crossref>
+				Sheba and 
+				<crossref let="g" cid="c26027022.2">
+				</crossref>
+				Raamah traded with you; they exchanged 
+				<crossref let="h" cid="c26027022.3">
+				</crossref>
+				for your wares 
+				<crossref let="i" cid="c26027022.4">
+				</crossref>
+				the best of all kinds of spices and all precious stones and gold.
+			</verse>
+			<marker class="begin-verse" mid="v26027023">
+			</marker>
+			<verse num="23">
+				<crossref let="j" cid="c26027023.1">
+				</crossref>
+				Haran, Canneh, 
+				<crossref let="j" cid="c26027023.2">
+				</crossref>
+				Eden, traders of Sheba, 
+				<crossref let="k" cid="c26027023.3">
+				</crossref>
+				Asshur, and Chilmad traded with you.
+			</verse>
+			<marker class="begin-verse" mid="v26027024">
+			</marker>
+			<verse num="24">
+				In your market these traded with you in choice garments, in clothes of 
+				<crossref let="l" cid="c26027024.1">
+				</crossref>
+				blue and 
+				<crossref let="l" cid="c26027024.2">
+				</crossref>
+				embroidered work, and in carpets of colored material, bound with cords and made secure.
+			</verse>
+			<marker class="begin-verse" mid="v26027025">
+			</marker>
+			<verse num="25">
+				<crossref let="m" cid="c26027025.1">
+				</crossref>
+				The ships of 
+				<crossref let="n" cid="c26027025.2">
+				</crossref>
+				Tarshish traveled for you with your merchandise. So you were filled and heavily laden 
+				<crossref let="o" cid="c26027025.3">
+				</crossref>
+				in the heart of the seas.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26027026">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Your rowers have brought you out
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				into the high seas.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c26027026.1">
+				</crossref>
+				The east wind has wrecked you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the heart of the seas.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				Your riches, your wares, your merchandise,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your mariners and 
+				<crossref let="q" cid="c26027027.1">
+				</crossref>
+				your pilots,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c26027027.2">
+				</crossref>
+				your caulkers, your dealers in merchandise,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all your men of war who are in you,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				with all your crew
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that is in your midst,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				sink into the heart of the seas
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c26027027.3">
+				</crossref>
+				on the day of your fall.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				At the sound of the cry of your pilots
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c26027028.1">
+				</crossref>
+				the countryside shakes,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				and down from their ships
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c26027029.1">
+				</crossref>
+				come all who handle the oar.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				The mariners and all the pilots of the sea
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				stand on the land
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c26027030.1">
+				</crossref>
+				and shout aloud over you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and cry out bitterly.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c26027030.2">
+				</crossref>
+				They cast dust on their heads
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c26027030.3">
+				</crossref>
+				and wallow in ashes;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027031">
+			</marker>
+			<verse num="31">
+				<begin-line
+					>
+				</begin-line>
+				they 
+				<crossref let="x" cid="c26027031.1">
+				</crossref>
+				make themselves bald for you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and put sackcloth on their waist,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and they weep over you in bitterness of soul,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with bitter mourning.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027032">
+			</marker>
+			<verse num="32">
+				<begin-line
+					>
+				</begin-line>
+				In their wailing they 
+				<crossref let="y" cid="c26027032.1">
+				</crossref>
+				raise a lamentation for you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and lament over you:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c26027032.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Who is like Tyre,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like one destroyed in the midst of the sea?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027033">
+			</marker>
+			<verse num="33">
+				<begin-line
+					>
+				</begin-line>
+				When your wares came from the seas,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c26027033.1">
+				</crossref>
+				you satisfied many peoples;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				with your abundant wealth and merchandise
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c26027033.2">
+				</crossref>
+				you enriched the kings of the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027034">
+			</marker>
+			<verse num="34">
+				<begin-line
+					>
+				</begin-line>
+				Now 
+				<crossref let="b" cid="c26027034.1">
+				</crossref>
+				you are wrecked by the seas,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the depths of the waters;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				your merchandise and all your crew in your midst
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				have sunk with you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027035">
+			</marker>
+			<verse num="35">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c26027035.1">
+				</crossref>
+				All the inhabitants of the coastlands
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				are appalled at you,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and 
+				<crossref let="d" cid="c26027035.2">
+				</crossref>
+				the hair of their kings bristles with horror;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				their faces are convulsed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26027036">
+			</marker>
+			<verse num="36">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c26027036.1">
+				</crossref>
+				The merchants among the peoples 
+				<crossref let="f" cid="c26027036.2">
+				</crossref>
+				hiss at you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="g" cid="c26027036.3">
+				</crossref>
+				you have come to a dreadful end
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and shall be no more forever.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

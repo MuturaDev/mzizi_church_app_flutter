@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01014001">
+		</marker>
+		<chapter num="14">
+			<heading
+				>
+				Abram Rescues Lot
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				In the days of Amraphel king of 
+				<crossref let="v" cid="c01014001.1">
+				</crossref>
+				Shinar, Arioch king of Ellasar, Chedorlaomer king of 
+				<crossref let="w" cid="c01014001.2">
+				</crossref>
+				Elam, and Tidal king of Goiim,
+			</verse>
+			<marker class="begin-verse" mid="v01014002">
+			</marker>
+			<verse num="2">
+				these kings made war with 
+				<crossref let="x" cid="c01014002.1">
+				</crossref>
+				Bera king of Sodom, Birsha king of Gomorrah, Shinab king of 
+				<crossref let="y" cid="c01014002.2">
+				</crossref>
+				Admah, Shemeber king of 
+				<crossref let="y" cid="c01014002.3">
+				</crossref>
+				Zeboiim, and the king of Bela (that is, Zoar).
+			</verse>
+			<marker class="begin-verse" mid="v01014003">
+			</marker>
+			<verse num="3">
+				And all these joined forces in the Valley of Siddim (
+				<crossref let="z" cid="c01014003.1">
+				</crossref>
+				that is, the Salt Sea).
+			</verse>
+			<marker class="begin-verse" mid="v01014004">
+			</marker>
+			<verse num="4">
+				Twelve years they had served Chedorlaomer, but in the thirteenth year they rebelled.
+			</verse>
+			<marker class="begin-verse" mid="v01014005">
+			</marker>
+			<verse num="5">
+				In the fourteenth year Chedorlaomer and the kings who were with him came and defeated the 
+				<crossref let="a" cid="c01014005.1">
+				</crossref>
+				Rephaim in 
+				<crossref let="b" cid="c01014005.2">
+				</crossref>
+				Ashteroth-karnaim, the 
+				<crossref let="c" cid="c01014005.3">
+				</crossref>
+				Zuzim in Ham, the 
+				<crossref let="d" cid="c01014005.4">
+				</crossref>
+				Emim in Shaveh-kiriathaim,
+			</verse>
+			<marker class="begin-verse" mid="v01014006">
+			</marker>
+			<verse num="6">
+				and the 
+				<crossref let="e" cid="c01014006.1">
+				</crossref>
+				Horites in their hill country of Seir as far as 
+				<crossref let="f" cid="c01014006.2">
+				</crossref>
+				El-paran on the border of the wilderness.
+			</verse>
+			<marker class="begin-verse" mid="v01014007">
+			</marker>
+			<verse num="7">
+				Then they turned back and came to En-mishpat (that is, 
+				<crossref let="g" cid="c01014007.1">
+				</crossref>
+				Kadesh) and defeated all the country of the Amalekites, and also the Amorites who were dwelling 
+				<crossref let="h" cid="c01014007.2">
+				</crossref>
+				in Hazazon-tamar.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01014008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Then the king of Sodom, the king of Gomorrah, the king of Admah, the king of Zeboiim, and the king of Bela (that is, Zoar) went out, and they joined battle in the Valley of Siddim
+			</verse>
+			<marker class="begin-verse" mid="v01014009">
+			</marker>
+			<verse num="9">
+				with Chedorlaomer king of Elam, Tidal king of Goiim, Amraphel king of Shinar, and Arioch king of Ellasar, four kings against five.
+			</verse>
+			<marker class="begin-verse" mid="v01014010">
+			</marker>
+			<verse num="10">
+				Now the Valley of Siddim was full of 
+				<crossref let="i" cid="c01014010.1">
+				</crossref>
+				bitumen pits, and as the kings of Sodom and Gomorrah fled, some fell into them, and the rest fled 
+				<crossref let="j" cid="c01014010.2">
+				</crossref>
+				to the hill country.
+			</verse>
+			<marker class="begin-verse" mid="v01014011">
+			</marker>
+			<verse num="11">
+				So the enemy took 
+				<crossref let="k" cid="c01014011.1">
+				</crossref>
+				all the possessions of Sodom and Gomorrah, and all their provisions, and went their way.
+			</verse>
+			<marker class="begin-verse" mid="v01014012">
+			</marker>
+			<verse num="12">
+				They also took Lot, 
+				<crossref let="l" cid="c01014012.1">
+				</crossref>
+				the son of Abram's brother, 
+				<crossref let="m" cid="c01014012.2">
+				</crossref>
+				who was dwelling in Sodom, and his possessions, and went their way.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01014013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				Then one who had escaped came and told Abram the Hebrew, 
+				<crossref let="n" cid="c01014013.1">
+				</crossref>
+				who was living by the 
+				<crossref let="o" cid="c01014013.2">
+				</crossref>
+				oaks
+				<note nid="n01014013.1">
+				</note>
+				 of Mamre the Amorite, brother of Eshcol and of Aner. These were allies of Abram.
+			</verse>
+			<marker class="begin-verse" mid="v01014014">
+			</marker>
+			<verse num="14">
+				When Abram heard that his kinsman had been taken captive, he led forth his trained men, 
+				<crossref let="p" cid="c01014014.1">
+				</crossref>
+				born in his house, 318 of them, and went in pursuit as far as 
+				<crossref let="q" cid="c01014014.2">
+				</crossref>
+				Dan.
+			</verse>
+			<marker class="begin-verse" mid="v01014015">
+			</marker>
+			<verse num="15">
+				And he divided his forces against them by night, he and his servants, and defeated them and pursued them to Hobah, north of Damascus.
+			</verse>
+			<marker class="begin-verse" mid="v01014016">
+			</marker>
+			<verse num="16">
+				Then he brought back all the possessions, and also brought back his kinsman Lot 
+				<crossref let="r" cid="c01014016.1">
+				</crossref>
+				with his possessions, and the women and the people.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01014017">
+			</marker>
+			<heading
+				>
+				Abram Blessed by Melchizedek
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				After his return from the defeat of Chedorlaomer and the kings who were with him, the king of Sodom went out to meet him at the Valley of Shaveh (that is, the 
+				<crossref let="s" cid="c01014017.1">
+				</crossref>
+				King's Valley).
+			</verse>
+			<marker class="begin-verse" mid="v01014018">
+			</marker>
+			<verse num="18">
+				And 
+				<crossref let="t" cid="c01014018.1">
+				</crossref>
+				Melchizedek king of Salem brought out bread and wine. (He was 
+				<crossref let="u" cid="c01014018.2">
+				</crossref>
+				priest of 
+				<crossref let="v" cid="c01014018.3">
+				</crossref>
+				God Most High.)
+			</verse>
+			<marker class="begin-verse" mid="v01014019">
+			</marker>
+			<verse num="19">
+				And he blessed him and said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c01014019.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Blessed be Abram by God Most High,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c01014019.2">
+				</crossref>
+				Possessor
+				<note nid="n01014019.1">
+				</note>
+				 of heaven and earth;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v01014020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				and blessed be God Most High,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who has delivered your enemies into your hand!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<end-block-indent
+					>
+				</end-block-indent>
+				<begin-paragraph class="same-paragraph">
+				</begin-paragraph>
+				And Abram gave him 
+				<crossref let="y" cid="c01014020.1">
+				</crossref>
+				a tenth of everything.
+
+			</verse>
+			<marker class="begin-verse" mid="v01014021">
+			</marker>
+			<verse num="21">
+				And the king of Sodom said to Abram, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give me the persons, but take the goods for yourself.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01014022">
+			</marker>
+			<verse num="22">
+				But Abram said to the king of Sodom, 
+				<crossref let="z" cid="c01014022.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have lifted my hand
+				<note nid="n01014022.1">
+				</note>
+				 to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, God Most High, Possessor of heaven and earth,
+			</verse>
+			<marker class="begin-verse" mid="v01014023">
+			</marker>
+			<verse num="23">
+				that 
+				<crossref let="a" cid="c01014023.1">
+				</crossref>
+				I would not take a thread or a sandal strap or anything that is yours, lest you should say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I have made Abram rich.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01014024">
+			</marker>
+			<verse num="24">
+				I will take nothing but what the young men have eaten, and the share of the men who went with me. Let 
+				<crossref let="b" cid="c01014024.1">
+				</crossref>
+				Aner, Eshcol, and Mamre take their share.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

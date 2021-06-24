@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ecclesiastes" num="20">
+		<marker class="begin-verse" mid="v21006001">
+		</marker>
+		<chapter num="6">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="n" cid="c21006001.1">
+				</crossref>
+				There is an evil that I have seen under the sun, and it lies heavy on mankind:
+			</verse>
+			<marker class="begin-verse" mid="v21006002">
+			</marker>
+			<verse num="2">
+				a man 
+				<crossref let="o" cid="c21006002.1">
+				</crossref>
+				to whom 
+				<crossref let="p" cid="c21006002.2">
+				</crossref>
+				God gives wealth, possessions, and honor, so that he 
+				<crossref let="q" cid="c21006002.3">
+				</crossref>
+				lacks nothing of all that he desires, yet God 
+				<crossref let="r" cid="c21006002.4">
+				</crossref>
+				does not give him power to enjoy them, but a stranger enjoys them. This is vanity; it is a grievous evil.
+			</verse>
+			<marker class="begin-verse" mid="v21006003">
+			</marker>
+			<verse num="3">
+				If a man fathers a hundred children and lives many years, so that 
+				<crossref let="s" cid="c21006003.1">
+				</crossref>
+				the days of his years are many, but his soul is not satisfied with life's 
+				<crossref let="t" cid="c21006003.2">
+				</crossref>
+				good things, and he also has no 
+				<crossref let="u" cid="c21006003.3">
+				</crossref>
+				burial, I say that 
+				<crossref let="v" cid="c21006003.4">
+				</crossref>
+				a stillborn child is better off than he.
+			</verse>
+			<marker class="begin-verse" mid="v21006004">
+			</marker>
+			<verse num="4">
+				For it comes in vanity and goes in darkness, and in darkness its name is covered.
+			</verse>
+			<marker class="begin-verse" mid="v21006005">
+			</marker>
+			<verse num="5">
+				Moreover, it has not 
+				<crossref let="w" cid="c21006005.1">
+				</crossref>
+				seen the sun or known anything, yet it finds 
+				<crossref let="x" cid="c21006005.2">
+				</crossref>
+				rest rather than he.
+			</verse>
+			<marker class="begin-verse" mid="v21006006">
+			</marker>
+			<verse num="6">
+				Even though he should live a thousand years twice over, yet enjoy
+				<note nid="n21006006.1">
+				</note>
+				 no goodùdo not all go to the one place?
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21006007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				<crossref let="y" cid="c21006007.1">
+				</crossref>
+				All the toil of man is for his mouth, yet his appetite is not satisfied.
+				<note nid="n21006007.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v21006008">
+			</marker>
+			<verse num="8">
+				For what advantage has the wise man 
+				<crossref let="z" cid="c21006008.1">
+				</crossref>
+				over the fool? And what does the poor man have who knows how to conduct himself before the living?
+			</verse>
+			<marker class="begin-verse" mid="v21006009">
+			</marker>
+			<verse num="9">
+				Better 
+				<crossref let="a" cid="c21006009.1">
+				</crossref>
+				is the sight of the eyes than the wandering of the appetite: this also is 
+				<crossref let="b" cid="c21006009.2">
+				</crossref>
+				vanity and a striving after wind.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21006010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				Whatever has come to be has 
+				<crossref let="c" cid="c21006010.1">
+				</crossref>
+				already been named, and it is known what man is, and that he is not able to 
+				<crossref let="d" cid="c21006010.2">
+				</crossref>
+				dispute with one stronger than he.
+			</verse>
+			<marker class="begin-verse" mid="v21006011">
+			</marker>
+			<verse num="11">
+				The more words, the more vanity, and what is the advantage to man?
+			</verse>
+			<marker class="begin-verse" mid="v21006012">
+			</marker>
+			<verse num="12">
+				For who knows what is good for man while he lives the few days of his 
+				<crossref let="e" cid="c21006012.1">
+				</crossref>
+				vain life, which he passes like 
+				<crossref let="f" cid="c21006012.2">
+				</crossref>
+				a shadow? For who can tell man what will be 
+				<crossref let="g" cid="c21006012.3">
+				</crossref>
+				after him under the sun?
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

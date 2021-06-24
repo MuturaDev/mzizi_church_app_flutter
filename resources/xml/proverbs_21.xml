@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Proverbs" num="19">
+		<marker class="begin-verse" mid="v20021001">
+		</marker>
+		<chapter num="21">
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				The king's heart is a stream of water in the hand of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="y" cid="c20021001.1">
+				</crossref>
+				turns it wherever he will.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c20021002.1">
+				</crossref>
+				Every way of a man is right in his own eyes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="a" cid="c20021002.2">
+				</crossref>
+				weighs the heart.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c20021003.1">
+				</crossref>
+				To do righteousness and justice
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is more acceptable to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 than sacrifice.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c20021004.1">
+				</crossref>
+				Haughty eyes and a proud heart,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c20021004.2">
+				</crossref>
+				the lamp
+				<note nid="n20021004.1">
+				</note>
+				 of the wicked, are sin.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				The plans of 
+				<crossref let="e" cid="c20021005.1">
+				</crossref>
+				the diligent lead surely to abundance,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but everyone who is 
+				<crossref let="f" cid="c20021005.2">
+				</crossref>
+				hasty comes 
+				<crossref let="g" cid="c20021005.3">
+				</crossref>
+				only to poverty.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c20021006.1">
+				</crossref>
+				The getting of treasures by a lying tongue
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is a 
+				<crossref let="i" cid="c20021006.2">
+				</crossref>
+				fleeting 
+				<crossref let="j" cid="c20021006.3">
+				</crossref>
+				vapor and a 
+				<crossref let="k" cid="c20021006.4">
+				</crossref>
+				snare of death.
+				<note nid="n20021006.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				The violence of the wicked will 
+				<crossref let="l" cid="c20021007.1">
+				</crossref>
+				sweep them away,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because they refuse to do what is just.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				The way of the guilty 
+				<crossref let="m" cid="c20021008.1">
+				</crossref>
+				is crooked,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the conduct of the pure is upright.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				It is 
+				<crossref let="n" cid="c20021009.1">
+				</crossref>
+				better to live in a corner of the housetop
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				than in a house shared with a quarrelsome wife.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				The soul of the wicked desires evil;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his neighbor finds no mercy in his eyes.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				When 
+				<crossref let="o" cid="c20021011.1">
+				</crossref>
+				a scoffer is punished, the simple becomes wise;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when a wise man is instructed, he gains knowledge.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				The Righteous One 
+				<crossref let="p" cid="c20021012.1">
+				</crossref>
+				observes the house of the wicked;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he throws the wicked down to ruin.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c20021013.1">
+				</crossref>
+				Whoever closes his ear to the cry of the poor
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				will himself call out and not be answered.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c20021014.1">
+				</crossref>
+				A gift in secret averts anger,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a concealed bribe,
+				<note nid="n20021014.1">
+				</note>
+				 strong wrath.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				When justice is done, it is a joy to the righteous
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c20021015.1">
+				</crossref>
+				but terror to evildoers.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				One who wanders from the way of good sense
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c20021016.1">
+				</crossref>
+				will rest in the assembly of the dead.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				Whoever loves pleasure will be a poor man;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he who loves wine and oil will not be rich.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c20021018.1">
+				</crossref>
+				The wicked is a 
+				<crossref let="v" cid="c20021018.2">
+				</crossref>
+				ransom for the righteous,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the traitor for the upright.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				It is 
+				<crossref let="w" cid="c20021019.1">
+				</crossref>
+				better to live in a desert land
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				than with a quarrelsome and fretful woman.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c20021020.1">
+				</crossref>
+				Precious treasure and oil are in a wise man's dwelling,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but a foolish man 
+				<crossref let="y" cid="c20021020.2">
+				</crossref>
+				devours it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				Whoever 
+				<crossref let="z" cid="c20021021.1">
+				</crossref>
+				pursues righteousness and kindness
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				will find 
+				<crossref let="a" cid="c20021021.2">
+				</crossref>
+				life, righteousness, and honor.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c20021022.1">
+				</crossref>
+				A wise man scales the city of the mighty
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and brings down the stronghold in which they trust.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c20021023.1">
+				</crossref>
+				Whoever keeps his mouth and his tongue
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c20021023.2">
+				</crossref>
+				keeps himself out of 
+				<crossref let="e" cid="c20021023.3">
+				</crossref>
+				trouble.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c20021024.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Scoffer
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 is the name of the arrogant, haughty man
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who acts with arrogant pride.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				The desire of 
+				<crossref let="g" cid="c20021025.1">
+				</crossref>
+				the sluggard kills him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for his hands refuse to labor.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				All day long he craves and craves,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the righteous 
+				<crossref let="h" cid="c20021026.1">
+				</crossref>
+				gives and does not hold back.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c20021027.1">
+				</crossref>
+				The sacrifice of the wicked is an abomination;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				how much more 
+				<crossref let="j" cid="c20021027.2">
+				</crossref>
+				when he brings it with evil intent.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c20021028.1">
+				</crossref>
+				A false witness will perish,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the word of a man who hears will endure.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				A wicked man puts on a bold face,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the upright 
+				<crossref let="l" cid="c20021029.1">
+				</crossref>
+				gives thought to
+				<note nid="n20021029.1">
+				</note>
+				 his ways.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c20021030.1">
+				</crossref>
+				No wisdom, no understanding, no counsel
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				can avail against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20021031">
+			</marker>
+			<verse num="31">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c20021031.1">
+				</crossref>
+				The horse is made ready for the day of battle,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="o" cid="c20021031.2">
+				</crossref>
+				the victory belongs to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+			</verse>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

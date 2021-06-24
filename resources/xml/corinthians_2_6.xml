@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Corinthians" num="46">
+		<marker class="begin-verse" mid="v47006001">
+		</marker>
+		<chapter num="6">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="t" cid="c47006001.1">
+				</crossref>
+				Working together with him, then, 
+				<crossref let="u" cid="c47006001.2">
+				</crossref>
+				we appeal to you 
+				<crossref let="v" cid="c47006001.3">
+				</crossref>
+				not to receive the grace of God in vain.
+			</verse>
+			<marker class="begin-verse" mid="v47006002">
+			</marker>
+			<verse num="2">
+				For he says,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c47006002.1">
+				</crossref>
+				<crossref cid="t47006002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				In a favorable time I listened to you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and in a day of salvation I have helped you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<end-block-indent
+					>
+				</end-block-indent>
+				<begin-paragraph class="same-paragraph">
+				</begin-paragraph>
+				Behold, 
+				<crossref let="x" cid="c47006002.2">
+				</crossref>
+				now is the 
+				<crossref let="y" cid="c47006002.3">
+				</crossref>
+				favorable time; behold, now is the day of salvation.
+
+			</verse>
+			<marker class="begin-verse" mid="v47006003">
+			</marker>
+			<verse num="3">
+				We 
+				<crossref let="z" cid="c47006003.1">
+				</crossref>
+				put no obstacle in anyone's way, so that no fault may be found with our ministry,
+			</verse>
+			<marker class="begin-verse" mid="v47006004">
+			</marker>
+			<verse num="4">
+				but 
+				<crossref let="a" cid="c47006004.1">
+				</crossref>
+				as servants of God we commend ourselves in every way: 
+				<crossref let="b" cid="c47006004.2">
+				</crossref>
+				by great endurance, 
+				<crossref let="c" cid="c47006004.3">
+				</crossref>
+				in afflictions, 
+				<crossref let="d" cid="c47006004.4">
+				</crossref>
+				hardships, calamities,
+			</verse>
+			<marker class="begin-verse" mid="v47006005">
+			</marker>
+			<verse num="5">
+				<crossref let="e" cid="c47006005.1">
+				</crossref>
+				beatings, imprisonments, 
+				<crossref let="f" cid="c47006005.2">
+				</crossref>
+				riots, labors, sleepless nights, hunger;
+			</verse>
+			<marker class="begin-verse" mid="v47006006">
+			</marker>
+			<verse num="6">
+				<crossref let="g" cid="c47006006.1">
+				</crossref>
+				by purity, 
+				<crossref let="h" cid="c47006006.2">
+				</crossref>
+				knowledge, patience, kindness, 
+				<crossref let="i" cid="c47006006.3">
+				</crossref>
+				the Holy Spirit, 
+				<crossref let="j" cid="c47006006.4">
+				</crossref>
+				genuine love;
+			</verse>
+			<marker class="begin-verse" mid="v47006007">
+			</marker>
+			<verse num="7">
+				by 
+				<crossref let="k" cid="c47006007.1">
+				</crossref>
+				truthful speech, and 
+				<crossref let="l" cid="c47006007.2">
+				</crossref>
+				the power of God; with 
+				<crossref let="m" cid="c47006007.3">
+				</crossref>
+				the weapons of righteousness for the right hand and for the left;
+			</verse>
+			<marker class="begin-verse" mid="v47006008">
+			</marker>
+			<verse num="8">
+				through honor and dishonor, 
+				<crossref let="n" cid="c47006008.1">
+				</crossref>
+				through slander and praise. We are treated as impostors, and yet are true;
+			</verse>
+			<marker class="begin-verse" mid="v47006009">
+			</marker>
+			<verse num="9">
+				as unknown, and 
+				<crossref let="o" cid="c47006009.1">
+				</crossref>
+				yet well known; 
+				<crossref let="p" cid="c47006009.2">
+				</crossref>
+				as dying, and behold, we live; 
+				<crossref let="q" cid="c47006009.3">
+				</crossref>
+				as punished, and yet not killed;
+			</verse>
+			<marker class="begin-verse" mid="v47006010">
+			</marker>
+			<verse num="10">
+				<crossref let="r" cid="c47006010.1">
+				</crossref>
+				as sorrowful, yet always rejoicing; 
+				<crossref let="s" cid="c47006010.2">
+				</crossref>
+				as poor, yet making many rich; 
+				<crossref let="t" cid="c47006010.3">
+				</crossref>
+				as having nothing, 
+				<crossref let="u" cid="c47006010.4">
+				</crossref>
+				yet possessing everything.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v47006011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				We have spoken freely to you,
+				<note nid="n47006011.1">
+				</note>
+				 Corinthians; 
+				<crossref let="v" cid="c47006011.1">
+				</crossref>
+				our heart is wide open.
+			</verse>
+			<marker class="begin-verse" mid="v47006012">
+			</marker>
+			<verse num="12">
+				You are not restricted by us, but 
+				<crossref let="w" cid="c47006012.1">
+				</crossref>
+				you are restricted in your own affections.
+			</verse>
+			<marker class="begin-verse" mid="v47006013">
+			</marker>
+			<verse num="13">
+				<crossref let="x" cid="c47006013.1">
+				</crossref>
+				In return (I speak 
+				<crossref let="y" cid="c47006013.2">
+				</crossref>
+				as to children) widen your hearts also.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v47006014">
+			</marker>
+			<heading
+				>
+				The Temple of the Living God
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				<crossref let="z" cid="c47006014.1">
+				</crossref>
+				Do not be unequally yoked with unbelievers. For 
+				<crossref let="a" cid="c47006014.2">
+				</crossref>
+				what partnership has righteousness with lawlessness? Or 
+				<crossref let="b" cid="c47006014.3">
+				</crossref>
+				what fellowship has light with darkness?
+			</verse>
+			<marker class="begin-verse" mid="v47006015">
+			</marker>
+			<verse num="15">
+				<crossref let="c" cid="c47006015.1">
+				</crossref>
+				What accord has Christ with Belial?
+				<note nid="n47006015.1">
+				</note>
+				 Or what portion does a believer share with an unbeliever?
+			</verse>
+			<marker class="begin-verse" mid="v47006016">
+			</marker>
+			<verse num="16">
+				What agreement has the temple of God with idols? For 
+				<crossref let="d" cid="c47006016.1">
+				</crossref>
+				we are the temple of the living God; as God said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c47006016.2">
+				</crossref>
+				<crossref cid="t47006016.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will make my dwelling among them and 
+				<crossref let="f" cid="c47006016.3">
+				</crossref>
+				walk among them,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="g" cid="c47006016.4">
+				</crossref>
+				I will be their God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and they shall be my people.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v47006017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				Therefore 
+				<crossref let="h" cid="c47006017.1">
+				</crossref>
+				<crossref cid="t47006017.1">
+				</crossref>
+				go out from their midst,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and be separate from them, says the Lord,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and touch no unclean thing;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				then I will welcome you,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v47006018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c47006018.1">
+				</crossref>
+				and I will be a father to you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you shall be sons and daughters to me,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				says the Lord Almighty.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

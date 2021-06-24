@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19082001">
+		</marker>
+		<chapter num="82">
+			<heading
+				>
+				Rescue the Weak and Needy
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm of 
+				<crossref let="l" cid="c19082001.1">
+				</crossref>
+				Asaph.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c19082001.2">
+				</crossref>
+				God 
+				<crossref let="n" cid="c19082001.3">
+				</crossref>
+				has taken his place in the divine council;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the midst of 
+				<crossref let="p" cid="c19082001.4">
+				</crossref>
+				the gods he 
+				<crossref let="q" cid="c19082001.5">
+				</crossref>
+				holds judgment:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19082002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How long will you judge unjustly
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="r" cid="c19082002.1">
+				</crossref>
+				show partiality to 
+				<crossref let="s" cid="c19082002.2">
+				</crossref>
+				the wicked? 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19082003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c19082003.1">
+				</crossref>
+				Give justice to 
+				<crossref let="u" cid="c19082003.2">
+				</crossref>
+				the weak and the fatherless;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="v" cid="c19082003.3">
+				</crossref>
+				maintain the right of the afflicted and the destitute.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19082004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c19082004.1">
+				</crossref>
+				Rescue the weak and the needy;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c19082004.2">
+				</crossref>
+				deliver them from the hand of the wicked.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19082005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c19082005.1">
+				</crossref>
+				They have neither knowledge nor understanding,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c19082005.2">
+				</crossref>
+				they walk about in darkness;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c19082005.3">
+				</crossref>
+				all the foundations of the earth are 
+				<crossref let="b" cid="c19082005.4">
+				</crossref>
+				shaken.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19082006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c19082006.1">
+				</crossref>
+				I said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are gods,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				sons of the Most High, all of you;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19082007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				nevertheless, like men 
+				<crossref let="d" cid="c19082007.1">
+				</crossref>
+				you shall die,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and fall like any prince.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n19082007.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19082008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c19082008.1">
+				</crossref>
+				Arise, O God, judge the earth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for you shall 
+				<crossref let="f" cid="c19082008.2">
+				</crossref>
+				inherit all the nations!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

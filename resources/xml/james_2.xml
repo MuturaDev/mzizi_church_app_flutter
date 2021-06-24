@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="James" num="58">
+		<marker class="begin-verse" mid="v59002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				The Sin of Partiality
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				My brothers,
+				<note nid="n59002001.1">
+				</note>
+				<crossref let="w" cid="c59002001.1">
+				</crossref>
+				show no partiality as you hold the faith in our Lord Jesus Christ, 
+				<crossref let="x" cid="c59002001.2">
+				</crossref>
+				the Lord of glory.
+			</verse>
+			<marker class="begin-verse" mid="v59002002">
+			</marker>
+			<verse num="2">
+				For if a man wearing a gold ring and fine clothing comes into your assembly, and a poor man in shabby clothing also comes in,
+			</verse>
+			<marker class="begin-verse" mid="v59002003">
+			</marker>
+			<verse num="3">
+				and if you pay attention to the one who wears the fine clothing and say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You sit here in a good place,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<crossref let="y" cid="c59002003.1">
+				</crossref>
+				while you say to the poor man, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You stand over there,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 or, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Sit down at my feet,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v59002004">
+			</marker>
+			<verse num="4">
+				have you not then made distinctions among yourselves and become 
+				<crossref let="z" cid="c59002004.1">
+				</crossref>
+				judges with evil thoughts?
+			</verse>
+			<marker class="begin-verse" mid="v59002005">
+			</marker>
+			<verse num="5">
+				Listen, my beloved brothers, 
+				<crossref let="a" cid="c59002005.1">
+				</crossref>
+				has not God chosen those who are poor in the world to be 
+				<crossref let="b" cid="c59002005.2">
+				</crossref>
+				rich in faith and heirs of 
+				<crossref let="c" cid="c59002005.3">
+				</crossref>
+				the kingdom, 
+				<crossref let="d" cid="c59002005.4">
+				</crossref>
+				which he has promised to those who love him?
+			</verse>
+			<marker class="begin-verse" mid="v59002006">
+			</marker>
+			<verse num="6">
+				But you 
+				<crossref let="e" cid="c59002006.1">
+				</crossref>
+				have dishonored the poor man. Are not the rich the ones who oppress you, and the ones who 
+				<crossref let="f" cid="c59002006.2">
+				</crossref>
+				drag you 
+				<crossref let="g" cid="c59002006.3">
+				</crossref>
+				into court?
+			</verse>
+			<marker class="begin-verse" mid="v59002007">
+			</marker>
+			<verse num="7">
+				Are they not the ones who blaspheme the honorable 
+				<crossref let="h" cid="c59002007.1">
+				</crossref>
+				name by which you were called?
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v59002008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				If you really fulfill the royal law according to the Scripture, 
+				<crossref let="i" cid="c59002008.1">
+				</crossref>
+				<crossref cid="t59002008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You shall love your neighbor as yourself,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 you are doing well.
+			</verse>
+			<marker class="begin-verse" mid="v59002009">
+			</marker>
+			<verse num="9">
+				But if you 
+				<crossref let="j" cid="c59002009.1">
+				</crossref>
+				show partiality, you are committing sin and are convicted by the law as transgressors.
+			</verse>
+			<marker class="begin-verse" mid="v59002010">
+			</marker>
+			<verse num="10">
+				For whoever keeps the whole law but fails in one point 
+				<crossref let="k" cid="c59002010.1">
+				</crossref>
+				has become accountable for all of it.
+			</verse>
+			<marker class="begin-verse" mid="v59002011">
+			</marker>
+			<verse num="11">
+				For he who said, 
+				<crossref let="l" cid="c59002011.1">
+				</crossref>
+				<crossref cid="t59002011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not commit adultery,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 also said, 
+				<crossref let="l" cid="c59002011.2">
+				</crossref>
+				<crossref cid="t59002011.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not murder.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 If you do not commit adultery but do murder, you have become a transgressor of the law.
+			</verse>
+			<marker class="begin-verse" mid="v59002012">
+			</marker>
+			<verse num="12">
+				So speak and so act as those who are to be judged under 
+				<crossref let="m" cid="c59002012.1">
+				</crossref>
+				the law of liberty.
+			</verse>
+			<marker class="begin-verse" mid="v59002013">
+			</marker>
+			<verse num="13">
+				For 
+				<crossref let="n" cid="c59002013.1">
+				</crossref>
+				judgment is without mercy to one who has shown no mercy. Mercy triumphs over judgment.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v59002014">
+			</marker>
+			<heading
+				>
+				Faith Without Works Is Dead
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				What good is it, my brothers, if someone says he has faith 
+				<crossref let="o" cid="c59002014.1">
+				</crossref>
+				but does not have works? Can that faith save him?
+			</verse>
+			<marker class="begin-verse" mid="v59002015">
+			</marker>
+			<verse num="15">
+				<crossref let="p" cid="c59002015.1">
+				</crossref>
+				If a brother or sister is poorly clothed and lacking in daily food,
+			</verse>
+			<marker class="begin-verse" mid="v59002016">
+			</marker>
+			<verse num="16">
+				<crossref let="q" cid="c59002016.1">
+				</crossref>
+				and one of you says to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go in peace, be warmed and filled,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 without giving them the things needed for the body, what good
+				<note nid="n59002016.1">
+				</note>
+				 is that?
+			</verse>
+			<marker class="begin-verse" mid="v59002017">
+			</marker>
+			<verse num="17">
+				So also faith by itself, if it does not have works, is dead.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v59002018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				But someone will say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You have faith and I have works.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Show me your faith 
+				<crossref let="r" cid="c59002018.1">
+				</crossref>
+				apart from your works, and I will show you my faith 
+				<crossref let="s" cid="c59002018.2">
+				</crossref>
+				by my works.
+			</verse>
+			<marker class="begin-verse" mid="v59002019">
+			</marker>
+			<verse num="19">
+				<crossref let="t" cid="c59002019.1">
+				</crossref>
+				You believe that God is one; you do well. Even 
+				<crossref let="u" cid="c59002019.2">
+				</crossref>
+				the demons believeùand shudder!
+			</verse>
+			<marker class="begin-verse" mid="v59002020">
+			</marker>
+			<verse num="20">
+				Do you want to be shown, you foolish person, that faith apart from works is useless?
+			</verse>
+			<marker class="begin-verse" mid="v59002021">
+			</marker>
+			<verse num="21">
+				<crossref let="v" cid="c59002021.1">
+				</crossref>
+				Was not Abraham our father justified by works when he offered up his son Isaac on the altar?
+			</verse>
+			<marker class="begin-verse" mid="v59002022">
+			</marker>
+			<verse num="22">
+				You see that 
+				<crossref let="w" cid="c59002022.1">
+				</crossref>
+				faith was active along with his works, and faith was completed 
+				<crossref let="x" cid="c59002022.2">
+				</crossref>
+				by his works;
+			</verse>
+			<marker class="begin-verse" mid="v59002023">
+			</marker>
+			<verse num="23">
+				and the Scripture was fulfilled that says, 
+				<crossref let="y" cid="c59002023.1">
+				</crossref>
+				<crossref cid="t59002023.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Abraham believed God, and it was counted to him as righteousness
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				ùand he was called a 
+				<crossref let="z" cid="c59002023.2">
+				</crossref>
+				friend of God.
+			</verse>
+			<marker class="begin-verse" mid="v59002024">
+			</marker>
+			<verse num="24">
+				You see that a person is justified by works and not by faith alone.
+			</verse>
+			<marker class="begin-verse" mid="v59002025">
+			</marker>
+			<verse num="25">
+				And in the same way was not also 
+				<crossref let="a" cid="c59002025.1">
+				</crossref>
+				Rahab the prostitute justified by works 
+				<crossref let="b" cid="c59002025.2">
+				</crossref>
+				when she received the messengers and sent them out by another way?
+			</verse>
+			<marker class="begin-verse" mid="v59002026">
+			</marker>
+			<verse num="26">
+				For as the body apart from the spirit is dead, so also faith apart from works is dead.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

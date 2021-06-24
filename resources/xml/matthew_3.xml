@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				John the Baptist Prepares the Way
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="h" cid="c40003001.1">
+				</crossref>
+				<crossref cid="t40003001.1">
+				</crossref>
+				In those days 
+				<crossref let="i" cid="c40003001.2">
+				</crossref>
+				John the Baptist came preaching in 
+				<crossref let="j" cid="c40003001.3">
+				</crossref>
+				the wilderness of Judea,
+			</verse>
+			<marker class="begin-verse" mid="v40003002">
+			</marker>
+			<verse num="2">
+				<crossref let="k" cid="c40003002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Repent, for 
+				<crossref let="l" cid="c40003002.2">
+				</crossref>
+				the kingdom of heaven is at hand.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40003003">
+			</marker>
+			<verse num="3">
+				For this is he who was spoken of by the prophet Isaiah when he said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c40003003.1">
+				</crossref>
+				<crossref cid="t40003003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The voice of one crying in the wilderness:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c40003003.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Prepare
+				<note nid="n40003003.1">
+				</note>
+				 the way of the Lord;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				make his paths straight.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v40003004">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="4">
+				Now John wore 
+				<crossref let="o" cid="c40003004.1">
+				</crossref>
+				a garment of camel's hair and a leather belt around his waist, and his food was 
+				<crossref let="p" cid="c40003004.2">
+				</crossref>
+				locusts and 
+				<crossref let="q" cid="c40003004.3">
+				</crossref>
+				wild honey.
+			</verse>
+			<marker class="begin-verse" mid="v40003005">
+			</marker>
+			<verse num="5">
+				Then Jerusalem and all Judea and all the region about the Jordan were going out to him,
+			</verse>
+			<marker class="begin-verse" mid="v40003006">
+			</marker>
+			<verse num="6">
+				and they were baptized by him in the river Jordan, 
+				<crossref let="r" cid="c40003006.1">
+				</crossref>
+				confessing their sins.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40003007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				But when he saw many of 
+				<crossref let="s" cid="c40003007.1">
+				</crossref>
+				the Pharisees and 
+				<crossref let="t" cid="c40003007.2">
+				</crossref>
+				Sadducees coming to his baptism, he said to them, 
+				<crossref let="u" cid="c40003007.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You brood of 
+				<crossref let="v" cid="c40003007.4">
+				</crossref>
+				vipers! Who warned you to flee from 
+				<crossref let="w" cid="c40003007.5">
+				</crossref>
+				the wrath to come?
+			</verse>
+			<marker class="begin-verse" mid="v40003008">
+			</marker>
+			<verse num="8">
+				Bear fruit 
+				<crossref let="x" cid="c40003008.1">
+				</crossref>
+				in keeping with repentance.
+			</verse>
+			<marker class="begin-verse" mid="v40003009">
+			</marker>
+			<verse num="9">
+				And do not presume to say to yourselves, 
+				<crossref let="y" cid="c40003009.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				We have Abraham as our father,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 for I tell you, God is able from 
+				<crossref let="z" cid="c40003009.2">
+				</crossref>
+				these stones to raise up children for Abraham.
+			</verse>
+			<marker class="begin-verse" mid="v40003010">
+			</marker>
+			<verse num="10">
+				Even now the axe is laid to the root of the trees. 
+				<crossref let="a" cid="c40003010.1">
+				</crossref>
+				Every tree therefore that does not bear good fruit is cut down and thrown into the fire.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40003011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				<crossref let="b" cid="c40003011.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				I baptize you with water 
+				<crossref let="c" cid="c40003011.2">
+				</crossref>
+				for repentance, but 
+				<crossref let="d" cid="c40003011.3">
+				</crossref>
+				he who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you 
+				<crossref let="e" cid="c40003011.4">
+				</crossref>
+				with the Holy Spirit and 
+				<crossref let="f" cid="c40003011.5">
+				</crossref>
+				fire.
+			</verse>
+			<marker class="begin-verse" mid="v40003012">
+			</marker>
+			<verse num="12">
+				His 
+				<crossref let="g" cid="c40003012.1">
+				</crossref>
+				winnowing fork is in his hand, and he will clear his threshing floor and 
+				<crossref let="h" cid="c40003012.2">
+				</crossref>
+				gather his wheat into the barn, 
+				<crossref let="i" cid="c40003012.3">
+				</crossref>
+				but the chaff he will burn with 
+				<crossref let="j" cid="c40003012.4">
+				</crossref>
+				unquenchable fire.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40003013">
+			</marker>
+			<heading
+				>
+				The Baptism of Jesus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				<crossref let="k" cid="c40003013.1">
+				</crossref>
+				<crossref cid="t40003013.1">
+				</crossref>
+				Then Jesus came 
+				<crossref let="l" cid="c40003013.2">
+				</crossref>
+				from Galilee to the Jordan to John, to be baptized by him.
+			</verse>
+			<marker class="begin-verse" mid="v40003014">
+			</marker>
+			<verse num="14">
+				<crossref let="m" cid="c40003014.1">
+				</crossref>
+				John would have prevented him, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I need to be baptized by you, and do you come to me?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40003015">
+			</marker>
+			<verse num="15">
+				But Jesus answered him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Let it be so now, for thus it is fitting for us to fulfill all righteousness.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 Then he consented.
+			</verse>
+			<marker class="begin-verse" mid="v40003016">
+			</marker>
+			<verse num="16">
+				And when Jesus was baptized, immediately he went up from the water, and behold, 
+				<crossref let="o" cid="c40003016.1">
+				</crossref>
+				the heavens were opened to him,
+				<note nid="n40003016.1">
+				</note>
+				 and he 
+				<crossref let="p" cid="c40003016.2">
+				</crossref>
+				saw the Spirit of God descending like a dove and coming to rest on him;
+			</verse>
+			<marker class="begin-verse" mid="v40003017">
+			</marker>
+			<verse num="17">
+				and behold, 
+				<crossref let="q" cid="c40003017.1">
+				</crossref>
+				a voice from heaven said, 
+				<crossref let="r" cid="c40003017.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is my beloved Son,
+				<note nid="n40003017.1">
+				</note>
+				 with whom I am well pleased.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

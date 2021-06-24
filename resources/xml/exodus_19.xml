@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02019001">
+		</marker>
+		<chapter num="19">
+			<heading
+				>
+				Israel at Mount Sinai
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				On the third new moon after the people of Israel had gone out of the land of Egypt, on that day they 
+				<crossref let="p" cid="c02019001.1">
+				</crossref>
+				came into the wilderness of Sinai.
+			</verse>
+			<marker class="begin-verse" mid="v02019002">
+			</marker>
+			<verse num="2">
+				They set out from 
+				<crossref let="q" cid="c02019002.1">
+				</crossref>
+				Rephidim and came into the wilderness of Sinai, and they encamped in the wilderness. There Israel encamped before 
+				<crossref let="r" cid="c02019002.2">
+				</crossref>
+				the mountain,
+			</verse>
+			<marker class="begin-verse" mid="v02019003">
+			</marker>
+			<verse num="3">
+				while 
+				<crossref let="s" cid="c02019003.1">
+				</crossref>
+				Moses went up to God. 
+				<crossref let="t" cid="c02019003.2">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 called to him out of the mountain, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus you shall say to the house of Jacob, and tell the people of Israel:
+			</verse>
+			<marker class="begin-verse" mid="v02019004">
+			</marker>
+			<verse num="4">
+				<crossref let="u" cid="c02019004.1">
+				</crossref>
+				You yourselves have seen what I did to the Egyptians, and how 
+				<crossref let="v" cid="c02019004.2">
+				</crossref>
+				I bore you on eagles' wings and brought you to myself.
+			</verse>
+			<marker class="begin-verse" mid="v02019005">
+			</marker>
+			<verse num="5">
+				Now therefore, if you will indeed obey my voice and keep my covenant, you shall be 
+				<crossref let="w" cid="c02019005.1">
+				</crossref>
+				my treasured possession among all peoples, for 
+				<crossref let="x" cid="c02019005.2">
+				</crossref>
+				all the earth is mine;
+			</verse>
+			<marker class="begin-verse" mid="v02019006">
+			</marker>
+			<verse num="6">
+				and you shall be to me a 
+				<crossref let="y" cid="c02019006.1">
+				</crossref>
+				kingdom of priests and 
+				<crossref let="z" cid="c02019006.2">
+				</crossref>
+				a holy nation. These are the words that you shall speak to the people of Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02019007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				So Moses came and called the elders of the people and set before them all these words that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had commanded him.
+			</verse>
+			<marker class="begin-verse" mid="v02019008">
+			</marker>
+			<verse num="8">
+				<crossref let="a" cid="c02019008.1">
+				</crossref>
+				All the people answered together and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				All that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has spoken we will do.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Moses reported the words of the people to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v02019009">
+			</marker>
+			<verse num="9">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I am coming to you 
+				<crossref let="b" cid="c02019009.1">
+				</crossref>
+				in a thick cloud, that 
+				<crossref let="c" cid="c02019009.2">
+				</crossref>
+				the people may hear when I speak with you, and may also 
+				<crossref let="d" cid="c02019009.3">
+				</crossref>
+				believe you forever.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				When Moses told the words of the people to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+
+			</verse>
+			<marker class="begin-verse" mid="v02019010">
+			</marker>
+			<verse num="10">
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go to the people and 
+				<crossref let="e" cid="c02019010.1">
+				</crossref>
+				consecrate them today and tomorrow, and let them 
+				<crossref let="f" cid="c02019010.2">
+				</crossref>
+				wash their garments
+			</verse>
+			<marker class="begin-verse" mid="v02019011">
+			</marker>
+			<verse num="11">
+				and be ready for the third day. For on the third day 
+				<crossref let="g" cid="c02019011.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will come down on Mount Sinai in the sight of all the people.
+			</verse>
+			<marker class="begin-verse" mid="v02019012">
+			</marker>
+			<verse num="12">
+				And you shall set limits for the people all around, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Take care not to go up into the mountain or touch the edge of it. 
+				<crossref let="h" cid="c02019012.1">
+				</crossref>
+				Whoever touches the mountain shall be put to death.
+			</verse>
+			<marker class="begin-verse" mid="v02019013">
+			</marker>
+			<verse num="13">
+				No hand shall touch him, but he shall be stoned or shot;
+				<note nid="n02019013.1">
+				</note>
+				 whether beast or man, he shall not live.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 When 
+				<crossref let="i" cid="c02019013.1">
+				</crossref>
+				the trumpet sounds a long blast, they shall come up to the mountain.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02019014">
+			</marker>
+			<verse num="14">
+				So Moses 
+				<crossref let="j" cid="c02019014.1">
+				</crossref>
+				went down from the mountain to the people and 
+				<crossref let="e" cid="c02019014.2">
+				</crossref>
+				consecrated the people; 
+				<crossref let="f" cid="c02019014.3">
+				</crossref>
+				and they washed their garments.
+			</verse>
+			<marker class="begin-verse" mid="v02019015">
+			</marker>
+			<verse num="15">
+				And he said to the people, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Be ready for the 
+				<crossref let="k" cid="c02019015.1">
+				</crossref>
+				third day; 
+				<crossref let="l" cid="c02019015.2">
+				</crossref>
+				do not go near a woman.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02019016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				On the morning of the 
+				<crossref let="k" cid="c02019016.1">
+				</crossref>
+				third day there were 
+				<crossref let="m" cid="c02019016.2">
+				</crossref>
+				thunders and lightnings and 
+				<crossref let="n" cid="c02019016.3">
+				</crossref>
+				a thick cloud on the mountain and a very loud 
+				<crossref let="o" cid="c02019016.4">
+				</crossref>
+				trumpet blast, so that all the people in the camp 
+				<crossref let="p" cid="c02019016.5">
+				</crossref>
+				trembled.
+			</verse>
+			<marker class="begin-verse" mid="v02019017">
+			</marker>
+			<verse num="17">
+				Then 
+				<crossref let="q" cid="c02019017.1">
+				</crossref>
+				Moses brought the people out of the camp to meet God, and they took their stand at the foot of the mountain.
+			</verse>
+			<marker class="begin-verse" mid="v02019018">
+			</marker>
+			<verse num="18">
+				Now 
+				<crossref let="r" cid="c02019018.1">
+				</crossref>
+				Mount Sinai was wrapped in smoke because the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had descended on it in fire. The smoke of it went up like the smoke of a kiln, and 
+				<crossref let="s" cid="c02019018.2">
+				</crossref>
+				the whole mountain trembled greatly.
+			</verse>
+			<marker class="begin-verse" mid="v02019019">
+			</marker>
+			<verse num="19">
+				And as the 
+				<crossref let="o" cid="c02019019.1">
+				</crossref>
+				sound of the trumpet grew louder and louder, Moses spoke, and 
+				<crossref let="t" cid="c02019019.2">
+				</crossref>
+				God answered him in thunder.
+			</verse>
+			<marker class="begin-verse" mid="v02019020">
+			</marker>
+			<verse num="20">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came down on Mount Sinai, to the top of the mountain. And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 called Moses to the top of the mountain, and Moses went up.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02019021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go down and warn the people, lest they break through to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="u" cid="c02019021.1">
+				</crossref>
+				to look and many of them perish.
+			</verse>
+			<marker class="begin-verse" mid="v02019022">
+			</marker>
+			<verse num="22">
+				Also let the priests who come near to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="v" cid="c02019022.1">
+				</crossref>
+				consecrate themselves, lest the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="w" cid="c02019022.2">
+				</crossref>
+				break out against them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02019023">
+			</marker>
+			<verse num="23">
+				And Moses said to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The people cannot come up to Mount Sinai, for you yourself warned us, saying, 
+				<crossref let="x" cid="c02019023.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Set limits around the mountain and consecrate it.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02019024">
+			</marker>
+			<verse num="24">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go down, and come up bringing Aaron with you. But do not let the priests and the people 
+				<crossref let="y" cid="c02019024.1">
+				</crossref>
+				break through to come up to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, lest he break out against them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02019025">
+			</marker>
+			<verse num="25">
+				So Moses went down to the people and told them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="John" num="42">
+		<marker class="begin-verse" mid="v43017001">
+		</marker>
+		<chapter num="17">
+			<heading
+				>
+				The High Priestly Prayer
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				When Jesus had spoken these words, 
+				<crossref let="m" cid="c43017001.1">
+				</crossref>
+				he lifted up his eyes to heaven, and said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Father, 
+					<crossref let="n" cid="c43017001.2">
+					</crossref>
+					the hour has come; 
+					<crossref let="o" cid="c43017001.3">
+					</crossref>
+					glorify your Son that the Son may 
+					<crossref let="p" cid="c43017001.4">
+					</crossref>
+					glorify you,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017002">
+			</marker>
+			<verse num="2" class="woc">
+				<woc
+					>
+					since 
+					<crossref let="q" cid="c43017002.1">
+					</crossref>
+					you have given him authority over all flesh, 
+					<crossref let="r" cid="c43017002.2">
+					</crossref>
+					to give eternal life to all 
+					<crossref let="s" cid="c43017002.3">
+					</crossref>
+					whom you have given him.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017003">
+			</marker>
+			<verse num="3" class="woc">
+				<woc
+					>
+					<crossref let="t" cid="c43017003.1">
+					</crossref>
+					And this is eternal life, 
+					<crossref let="u" cid="c43017003.2">
+					</crossref>
+					that they know you 
+					<crossref let="v" cid="c43017003.3">
+					</crossref>
+					the only 
+					<crossref let="w" cid="c43017003.4">
+					</crossref>
+					true God, and 
+					<crossref let="x" cid="c43017003.5">
+					</crossref>
+					Jesus Christ whom you have sent.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017004">
+			</marker>
+			<verse num="4" class="woc">
+				<woc
+					>
+					I 
+					<crossref let="y" cid="c43017004.1">
+					</crossref>
+					glorified you on earth, 
+					<crossref let="z" cid="c43017004.2">
+					</crossref>
+					having accomplished the work that you gave me to do.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017005">
+			</marker>
+			<verse num="5" class="woc">
+				<woc
+					>
+					And now, Father, 
+					<crossref let="a" cid="c43017005.1">
+					</crossref>
+					glorify me in your own presence with the glory 
+					<crossref let="b" cid="c43017005.2">
+					</crossref>
+					that I had with you 
+					<crossref let="c" cid="c43017005.3">
+					</crossref>
+					before the world existed.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43017006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6" class="woc">
+				<woc
+					>
+					<crossref let="d" cid="c43017006.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					I have manifested your name to the people 
+					<crossref let="e" cid="c43017006.2">
+					</crossref>
+					whom you gave me out of the world. 
+					<crossref let="f" cid="c43017006.3">
+					</crossref>
+					Yours they were, and you gave them to me, and they have kept your word.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017007">
+			</marker>
+			<verse num="7" class="woc">
+				<woc
+					>
+					Now they know that everything 
+					<crossref let="f" cid="c43017007.1">
+					</crossref>
+					that you have given me is from you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017008">
+			</marker>
+			<verse num="8" class="woc">
+				<woc
+					>
+					For I have given them 
+					<crossref let="g" cid="c43017008.1">
+					</crossref>
+					the words that you gave me, and they have received them and have come to know in truth that 
+					<crossref let="h" cid="c43017008.2">
+					</crossref>
+					I came from you; and 
+					<crossref let="i" cid="c43017008.3">
+					</crossref>
+					they have believed that you sent me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017009">
+			</marker>
+			<verse num="9" class="woc">
+				<woc
+					>
+					I am praying for them. 
+					<crossref let="j" cid="c43017009.1">
+					</crossref>
+					I am not praying for the world but for those 
+					<crossref let="k" cid="c43017009.2">
+					</crossref>
+					whom you have given me, for 
+					<crossref let="l" cid="c43017009.3">
+					</crossref>
+					they are yours.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					<crossref let="m" cid="c43017010.1">
+					</crossref>
+					All mine are yours, and yours are mine, and 
+					<crossref let="n" cid="c43017010.2">
+					</crossref>
+					I am glorified in them.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017011">
+			</marker>
+			<verse num="11" class="woc">
+				<woc
+					>
+					And I am no longer in the world, but 
+					<crossref let="o" cid="c43017011.1">
+					</crossref>
+					they are in the world, and 
+					<crossref let="p" cid="c43017011.2">
+					</crossref>
+					I am coming to you. 
+					<crossref let="q" cid="c43017011.3">
+					</crossref>
+					Holy Father, 
+					<crossref let="r" cid="c43017011.4">
+					</crossref>
+					keep them in your name, 
+					<crossref let="s" cid="c43017011.5">
+					</crossref>
+					which you have given me, 
+					<crossref let="t" cid="c43017011.6">
+					</crossref>
+					that they may be one, 
+					<crossref let="u" cid="c43017011.7">
+					</crossref>
+					even as we are one.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc
+					>
+					<crossref let="v" cid="c43017012.1">
+					</crossref>
+					While I was with them, I kept them in your name, which you have given me. I have 
+					<crossref let="w" cid="c43017012.2">
+					</crossref>
+					guarded them, and 
+					<crossref let="x" cid="c43017012.3">
+					</crossref>
+					not one of them has been lost except 
+					<crossref let="y" cid="c43017012.4">
+					</crossref>
+					the son of destruction, 
+					<crossref let="z" cid="c43017012.5">
+					</crossref>
+					that the Scripture might be fulfilled.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017013">
+			</marker>
+			<verse num="13" class="woc">
+				<woc
+					>
+					But now 
+					<crossref let="a" cid="c43017013.1">
+					</crossref>
+					I am coming to you, and these things I speak in the world, that they may have 
+					<crossref let="b" cid="c43017013.2">
+					</crossref>
+					my joy fulfilled in themselves.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017014">
+			</marker>
+			<verse num="14" class="woc">
+				<woc
+					>
+					<crossref let="c" cid="c43017014.1">
+					</crossref>
+					I have given them your word, and 
+					<crossref let="d" cid="c43017014.2">
+					</crossref>
+					the world has hated them 
+					<crossref let="e" cid="c43017014.3">
+					</crossref>
+					because they are not of the world, 
+					<crossref let="f" cid="c43017014.4">
+					</crossref>
+					just as I am not of the world.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017015">
+			</marker>
+			<verse num="15" class="woc">
+				<woc
+					>
+					I 
+					<crossref let="g" cid="c43017015.1">
+					</crossref>
+					do not ask that you 
+					<crossref let="h" cid="c43017015.2">
+					</crossref>
+					take them out of the world, but that you 
+					<crossref let="i" cid="c43017015.3">
+					</crossref>
+					keep them from 
+					<crossref let="j" cid="c43017015.4">
+					</crossref>
+					the evil one.
+					<note nid="n43017015.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc
+					>
+					<crossref let="k" cid="c43017016.1">
+					</crossref>
+					They are not of the world, just as I am not of the world.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017017">
+			</marker>
+			<verse num="17" class="woc">
+				<woc
+					>
+					<crossref let="l" cid="c43017017.1">
+					</crossref>
+					Sanctify them
+					<note nid="n43017017.1">
+					</note>
+					 in the truth; 
+					<crossref let="m" cid="c43017017.2">
+					</crossref>
+					your word is truth.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					<crossref let="n" cid="c43017018.1">
+					</crossref>
+					As you sent me into the world, so I have sent them into the world.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="o" cid="c43017019.1">
+					</crossref>
+					for their sake 
+					<crossref let="p" cid="c43017019.2">
+					</crossref>
+					I consecrate myself,
+					<note nid="n43017019.1">
+					</note>
+					 that they also 
+					<crossref let="q" cid="c43017019.3">
+					</crossref>
+					may be sanctified
+					<note nid="n43017019.2">
+					</note>
+					 in truth.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43017020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					I do not 
+					<crossref let="r" cid="c43017020.1">
+					</crossref>
+					ask for these only, but also for those 
+					<crossref let="s" cid="c43017020.2">
+					</crossref>
+					who will believe in me through their word,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017021">
+			</marker>
+			<verse num="21" class="woc">
+				<woc
+					>
+					<crossref let="t" cid="c43017021.1">
+					</crossref>
+					that they may all be one, just as you, Father, are in me, and I in you, that 
+					<crossref let="u" cid="c43017021.2">
+					</crossref>
+					they also may be in 
+					<crossref let="v" cid="c43017021.3">
+					</crossref>
+					us, so that the world 
+					<crossref let="w" cid="c43017021.4">
+					</crossref>
+					may believe that you have sent me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017022">
+			</marker>
+			<verse num="22" class="woc">
+				<woc
+					>
+					<crossref let="x" cid="c43017022.1">
+					</crossref>
+					The glory that you have given me 
+					<crossref let="y" cid="c43017022.2">
+					</crossref>
+					I have given to them, 
+					<crossref let="t" cid="c43017022.3">
+					</crossref>
+					that they may be one even as we are one,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017023">
+			</marker>
+			<verse num="23" class="woc">
+				<woc
+					>
+					<crossref let="z" cid="c43017023.1">
+					</crossref>
+					I in them and you in me, 
+					<crossref let="a" cid="c43017023.2">
+					</crossref>
+					that they may become perfectly one, 
+					<crossref let="b" cid="c43017023.3">
+					</crossref>
+					so that the world may know that you sent me and 
+					<crossref let="c" cid="c43017023.4">
+					</crossref>
+					loved them even as 
+					<crossref let="d" cid="c43017023.5">
+					</crossref>
+					you loved me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					Father, I desire that they also, whom you have given me, may be 
+					<crossref let="e" cid="c43017024.1">
+					</crossref>
+					with me 
+					<crossref let="f" cid="c43017024.2">
+					</crossref>
+					where I am, 
+					<crossref let="g" cid="c43017024.3">
+					</crossref>
+					to see my glory that you have given me because you loved me 
+					<crossref let="h" cid="c43017024.4">
+					</crossref>
+					before the foundation of the world.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017025">
+			</marker>
+			<verse num="25" class="woc">
+				<woc
+					>
+					<crossref let="i" cid="c43017025.1">
+					</crossref>
+					O righteous Father, even though 
+					<crossref let="j" cid="c43017025.2">
+					</crossref>
+					the world does not know you, I know you, and these know that you have sent me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43017026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					<crossref let="k" cid="c43017026.1">
+					</crossref>
+					I made known to them your name, and I will continue to make it known, that the love 
+					<crossref let="l" cid="c43017026.2">
+					</crossref>
+					with which you have loved me may be in them, and 
+					<crossref let="m" cid="c43017026.3">
+					</crossref>
+					I in them.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

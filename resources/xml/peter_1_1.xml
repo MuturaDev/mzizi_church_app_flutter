@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Peter" num="60">
+		<marker class="begin-verse" mid="v60001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Peter, an apostle of Jesus Christ,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				To those who are elect exiles of 
+				<crossref let="a" cid="c60001001.1">
+				</crossref>
+				the dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
+
+			</verse>
+			<marker class="begin-verse" mid="v60001002">
+			</marker>
+			<verse num="2">
+				according to 
+				<crossref let="b" cid="c60001002.1">
+				</crossref>
+				the foreknowledge of God the Father, 
+				<crossref let="c" cid="c60001002.2">
+				</crossref>
+				in the sanctification of the Spirit, for obedience to Jesus Christ and 
+				<crossref let="d" cid="c60001002.3">
+				</crossref>
+				for sprinkling with his blood:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				May 
+				<crossref let="e" cid="c60001002.4">
+				</crossref>
+				grace and 
+				<crossref let="f" cid="c60001002.5">
+				</crossref>
+				peace be multiplied to you.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v60001003">
+			</marker>
+			<heading
+				>
+				Born Again to a Living Hope
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="g" cid="c60001003.1">
+				</crossref>
+				Blessed be the God and Father of our Lord Jesus Christ! 
+				<crossref let="h" cid="c60001003.2">
+				</crossref>
+				According to his great mercy, 
+				<crossref let="i" cid="c60001003.3">
+				</crossref>
+				he has caused us to be born again to a living hope 
+				<crossref let="j" cid="c60001003.4">
+				</crossref>
+				through the resurrection of Jesus Christ from the dead,
+			</verse>
+			<marker class="begin-verse" mid="v60001004">
+			</marker>
+			<verse num="4">
+				to 
+				<crossref let="k" cid="c60001004.1">
+				</crossref>
+				an inheritance that is imperishable, undefiled, and 
+				<crossref let="l" cid="c60001004.2">
+				</crossref>
+				unfading, 
+				<crossref let="m" cid="c60001004.3">
+				</crossref>
+				kept in heaven for you,
+			</verse>
+			<marker class="begin-verse" mid="v60001005">
+			</marker>
+			<verse num="5">
+				who by God's power are being guarded 
+				<crossref let="n" cid="c60001005.1">
+				</crossref>
+				through faith for a salvation 
+				<crossref let="o" cid="c60001005.2">
+				</crossref>
+				ready to be revealed in the last time.
+			</verse>
+			<marker class="begin-verse" mid="v60001006">
+			</marker>
+			<verse num="6">
+				In this you rejoice, though now for a little while, if necessary, you have been grieved by 
+				<crossref let="p" cid="c60001006.1">
+				</crossref>
+				various trials,
+			</verse>
+			<marker class="begin-verse" mid="v60001007">
+			</marker>
+			<verse num="7">
+				so that 
+				<crossref let="q" cid="c60001007.1">
+				</crossref>
+				the tested genuineness of your faithùmore precious than gold that perishes 
+				<crossref let="r" cid="c60001007.2">
+				</crossref>
+				though it is tested by 
+				<crossref let="s" cid="c60001007.3">
+				</crossref>
+				fireùmay be found to result in 
+				<crossref let="t" cid="c60001007.4">
+				</crossref>
+				praise and glory and honor at the revelation of Jesus Christ.
+			</verse>
+			<marker class="begin-verse" mid="v60001008">
+			</marker>
+			<verse num="8">
+				<crossref let="u" cid="c60001008.1">
+				</crossref>
+				Though you have not seen him, you love him. 
+				<crossref let="v" cid="c60001008.2">
+				</crossref>
+				Though you do not now see him, you believe in him and rejoice with joy that is inexpressible and filled with glory,
+			</verse>
+			<marker class="begin-verse" mid="v60001009">
+			</marker>
+			<verse num="9">
+				obtaining 
+				<crossref let="w" cid="c60001009.1">
+				</crossref>
+				the outcome of your faith, the salvation of your souls.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v60001010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				Concerning this salvation, 
+				<crossref let="x" cid="c60001010.1">
+				</crossref>
+				the prophets who prophesied about the grace that was to be yours searched and inquired carefully,
+			</verse>
+			<marker class="begin-verse" mid="v60001011">
+			</marker>
+			<verse num="11">
+				inquiring 
+				<crossref let="y" cid="c60001011.1">
+				</crossref>
+				what person or time 
+				<crossref let="z" cid="c60001011.2">
+				</crossref>
+				the Spirit of Christ in them was indicating 
+				<crossref let="a" cid="c60001011.3">
+				</crossref>
+				when he predicted 
+				<crossref let="b" cid="c60001011.4">
+				</crossref>
+				the sufferings of Christ and the subsequent glories.
+			</verse>
+			<marker class="begin-verse" mid="v60001012">
+			</marker>
+			<verse num="12">
+				<crossref let="c" cid="c60001012.1">
+				</crossref>
+				It was revealed to them that 
+				<crossref let="d" cid="c60001012.2">
+				</crossref>
+				they were serving not themselves but you, in the things that have now been announced to you through those who preached the good news to you 
+				<crossref let="e" cid="c60001012.3">
+				</crossref>
+				by the Holy Spirit sent from heaven, 
+				<crossref let="f" cid="c60001012.4">
+				</crossref>
+				things into which angels long to look.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v60001013">
+			</marker>
+			<heading
+				>
+				Called to Be Holy
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				Therefore, 
+				<crossref let="g" cid="c60001013.1">
+				</crossref>
+				preparing your minds for action,
+				<note nid="n60001013.1">
+				</note>
+				 and 
+				<crossref let="h" cid="c60001013.2">
+				</crossref>
+				being sober-minded, set your hope fully on the grace that will be brought to you at the revelation of Jesus Christ.
+			</verse>
+			<marker class="begin-verse" mid="v60001014">
+			</marker>
+			<verse num="14">
+				As obedient children, 
+				<crossref let="i" cid="c60001014.1">
+				</crossref>
+				do not be conformed to the passions 
+				<crossref let="j" cid="c60001014.2">
+				</crossref>
+				of your former ignorance,
+			</verse>
+			<marker class="begin-verse" mid="v60001015">
+			</marker>
+			<verse num="15">
+				but 
+				<crossref let="k" cid="c60001015.1">
+				</crossref>
+				as he who called you is holy, you also be holy 
+				<crossref let="l" cid="c60001015.2">
+				</crossref>
+				in all your conduct,
+			</verse>
+			<marker class="begin-verse" mid="v60001016">
+			</marker>
+			<verse num="16">
+				since it is written, 
+				<crossref let="m" cid="c60001016.1">
+				</crossref>
+				<crossref cid="t60001016.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You shall be holy, for I am holy.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v60001017">
+			</marker>
+			<verse num="17">
+				And if you 
+				<crossref let="n" cid="c60001017.1">
+				</crossref>
+				call on him as Father who 
+				<crossref let="o" cid="c60001017.2">
+				</crossref>
+				judges 
+				<crossref let="p" cid="c60001017.3">
+				</crossref>
+				impartially according to each one's deeds, conduct yourselves 
+				<crossref let="q" cid="c60001017.4">
+				</crossref>
+				with fear throughout the time of your exile,
+			</verse>
+			<marker class="begin-verse" mid="v60001018">
+			</marker>
+			<verse num="18">
+				knowing that you 
+				<crossref let="r" cid="c60001018.1">
+				</crossref>
+				were ransomed from 
+				<crossref let="s" cid="c60001018.2">
+				</crossref>
+				the futile ways inherited from your forefathers, not with perishable things such as silver or gold,
+			</verse>
+			<marker class="begin-verse" mid="v60001019">
+			</marker>
+			<verse num="19">
+				but 
+				<crossref let="t" cid="c60001019.1">
+				</crossref>
+				with the precious blood of Christ, like that of 
+				<crossref let="u" cid="c60001019.2">
+				</crossref>
+				a lamb 
+				<crossref let="v" cid="c60001019.3">
+				</crossref>
+				without blemish or spot.
+			</verse>
+			<marker class="begin-verse" mid="v60001020">
+			</marker>
+			<verse num="20">
+				He was foreknown before the foundation of the world but 
+				<crossref let="w" cid="c60001020.1">
+				</crossref>
+				was made manifest 
+				<crossref let="x" cid="c60001020.2">
+				</crossref>
+				in the last times for the sake of you
+			</verse>
+			<marker class="begin-verse" mid="v60001021">
+			</marker>
+			<verse num="21">
+				<crossref let="y" cid="c60001021.1">
+				</crossref>
+				who through him are believers in God, 
+				<crossref let="z" cid="c60001021.2">
+				</crossref>
+				who raised him from the dead and 
+				<crossref let="a" cid="c60001021.3">
+				</crossref>
+				gave him glory, so that your faith and hope are in God.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v60001022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				Having purified your souls by your obedience to the truth for 
+				<crossref let="b" cid="c60001022.1">
+				</crossref>
+				a sincere brotherly love, 
+				<crossref let="c" cid="c60001022.2">
+				</crossref>
+				love one another earnestly from a pure heart,
+			</verse>
+			<marker class="begin-verse" mid="v60001023">
+			</marker>
+			<verse num="23">
+				<crossref let="d" cid="c60001023.1">
+				</crossref>
+				since you have been born again, 
+				<crossref let="e" cid="c60001023.2">
+				</crossref>
+				not of perishable seed but of imperishable, through 
+				<crossref let="f" cid="c60001023.3">
+				</crossref>
+				the living and abiding word of God;
+			</verse>
+			<marker class="begin-verse" mid="v60001024">
+			</marker>
+			<verse num="24">
+				for
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c60001024.1">
+				</crossref>
+				<crossref cid="t60001024.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				All flesh is like grass
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all its glory like the flower of grass.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				The grass withers,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the flower falls,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v60001025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c60001025.1">
+				</crossref>
+				but the word of the Lord remains forever.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<end-block-indent
+					>
+				</end-block-indent>
+				<begin-paragraph class="same-paragraph">
+				</begin-paragraph>
+				And this word 
+				<crossref let="i" cid="c60001025.2">
+				</crossref>
+				is the good news that was preached to you.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

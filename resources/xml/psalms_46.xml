@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19046001">
+		</marker>
+		<chapter num="46">
+			<heading
+				>
+				God Is Our Fortress
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. Of 
+				<crossref let="a" cid="c19046001.1">
+				</crossref>
+				the Sons of Korah. According to 
+				<crossref let="b" cid="c19046001.2">
+				</crossref>
+				Alamoth.
+				<note nid="n19046001.1">
+				</note>
+				 A Song.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				God is our 
+				<crossref let="c" cid="c19046001.3">
+				</crossref>
+				refuge and strength,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a very 
+				<crossref let="d" cid="c19046001.4">
+				</crossref>
+				present
+				<note nid="n19046001.2">
+				</note>
+				 help in 
+				<crossref let="e" cid="c19046001.5">
+				</crossref>
+				trouble.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19046002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Therefore we will not fear 
+				<crossref let="f" cid="c19046002.1">
+				</crossref>
+				though the earth gives way,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				though the mountains be moved into 
+				<crossref let="g" cid="c19046002.2">
+				</crossref>
+				the heart of the sea,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19046003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				though 
+				<crossref let="h" cid="c19046003.1">
+				</crossref>
+				its waters roar and foam,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				though the mountains tremble at its swelling. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19046004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				There is 
+				<crossref let="i" cid="c19046004.1">
+				</crossref>
+				a river whose streams make glad 
+				<crossref let="j" cid="c19046004.2">
+				</crossref>
+				the city of God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the holy 
+				<crossref let="k" cid="c19046004.3">
+				</crossref>
+				habitation of the Most High.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19046005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19046005.1">
+				</crossref>
+				God is in the midst of her; she shall not be moved;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				God will help her when morning dawns.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19046006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c19046006.1">
+				</crossref>
+				The nations rage, the kingdoms totter;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="n" cid="c19046006.2">
+				</crossref>
+				utters his voice, the earth 
+				<crossref let="o" cid="c19046006.3">
+				</crossref>
+				melts.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19046007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19046007.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts is with us;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the God of Jacob is our fortress. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19046008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c19046008.1">
+				</crossref>
+				Come, behold the works of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				how he has brought desolations on the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19046009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19046009.1">
+				</crossref>
+				He makes wars cease to the end of the earth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="s" cid="c19046009.2">
+				</crossref>
+				breaks the bow and shatters the spear;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c19046009.3">
+				</crossref>
+				he burns the chariots with fire.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19046010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19046010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Be still, and know that I am God.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="v" cid="c19046010.2">
+				</crossref>
+				I will be exalted among the nations,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will be exalted in the earth!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19046011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19046011.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts is with us;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the God of Jacob is our fortress. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

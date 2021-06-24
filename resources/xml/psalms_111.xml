@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19111001">
+		</marker>
+		<chapter num="111">
+			<heading
+				>
+				Great Are the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's Works
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<note nid="n19111001.1">
+				</note>
+				<crossref let="p" cid="c19111001.1">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="q" cid="c19111001.2">
+				</crossref>
+				will give thanks to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with my whole heart,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the company of 
+				<crossref let="r" cid="c19111001.3">
+				</crossref>
+				the upright, in the congregation.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19111002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Great are the 
+				<crossref let="s" cid="c19111002.1">
+				</crossref>
+				works of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c19111002.2">
+				</crossref>
+				studied by all who delight in them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19111003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19111003.1">
+				</crossref>
+				Full of splendor and majesty is his work,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his 
+				<crossref let="v" cid="c19111003.2">
+				</crossref>
+				righteousness endures forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19111004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				He has 
+				<crossref let="w" cid="c19111004.1">
+				</crossref>
+				caused his wondrous works to be remembered;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is gracious and merciful.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19111005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				He provides food for those who fear him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="x" cid="c19111005.1">
+				</crossref>
+				remembers his covenant forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19111006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				He has shown his people the power of his works,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in giving them the inheritance of the nations.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19111007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				The works of his hands are faithful and just;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all his precepts are 
+				<crossref let="y" cid="c19111007.1">
+				</crossref>
+				trustworthy;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19111008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				they are 
+				<crossref let="z" cid="c19111008.1">
+				</crossref>
+				established forever and ever,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to be performed with 
+				<crossref let="a" cid="c19111008.2">
+				</crossref>
+				faithfulness and uprightness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19111009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				He sent 
+				<crossref let="b" cid="c19111009.1">
+				</crossref>
+				redemption to his people;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he has 
+				<crossref let="c" cid="c19111009.2">
+				</crossref>
+				commanded his covenant forever.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c19111009.3">
+				</crossref>
+				Holy and awesome is his name!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19111010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c19111010.1">
+				</crossref>
+				The fear of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is the beginning of wisdom;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all those who practice it have 
+				<crossref let="f" cid="c19111010.2">
+				</crossref>
+				a good understanding.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				His 
+				<crossref let="g" cid="c19111010.3">
+				</crossref>
+				praise endures forever!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

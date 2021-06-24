@@ -1,0 +1,580 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18024001">
+		</marker>
+		<chapter num="24">
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Why are 
+				<crossref let="l" cid="c18024001.1">
+				</crossref>
+				not times of judgment 
+				<crossref let="m" cid="c18024001.2">
+				</crossref>
+				kept by the Almighty,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and why do those who know him never see his 
+				<crossref let="n" cid="c18024001.3">
+				</crossref>
+				days?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Some move 
+				<crossref let="o" cid="c18024002.1">
+				</crossref>
+				landmarks;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they seize flocks and pasture them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				They drive away the donkey of the fatherless;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they 
+				<crossref let="p" cid="c18024003.1">
+				</crossref>
+				take the widow's ox for a pledge.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				They 
+				<crossref let="q" cid="c18024004.1">
+				</crossref>
+				thrust the poor off the road;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the poor of the earth 
+				<crossref let="r" cid="c18024004.2">
+				</crossref>
+				all hide themselves.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Behold, like wild donkeys in the desert
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the poor
+				<note nid="n18024005.1">
+				</note>
+				<crossref let="s" cid="c18024005.1">
+				</crossref>
+				go out to their toil, 
+				<crossref let="t" cid="c18024005.2">
+				</crossref>
+				seeking game;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the wasteland yields food for their children.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				They gather their
+				<note nid="n18024006.1">
+				</note>
+				 fodder in the field,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and they glean the vineyard of the wicked man.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				They 
+				<crossref let="u" cid="c18024007.1">
+				</crossref>
+				lie all night naked, without clothing,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and have no covering in the cold.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				They are wet with the rain of the mountains
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="v" cid="c18024008.1">
+				</crossref>
+				cling to the rock for lack of shelter.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				(There are those who snatch the fatherless child from the breast,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and they take a pledge against the poor.)
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				They go about naked, without clothing;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				hungry, they 
+				<crossref let="w" cid="c18024010.1">
+				</crossref>
+				carry the sheaves;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				among the olive rows of the wicked
+				<note nid="n18024011.1">
+				</note>
+				 they make oil;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they tread the winepresses, but suffer thirst.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				From out of the city the dying groan,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the soul of 
+				<crossref let="x" cid="c18024012.1">
+				</crossref>
+				the wounded cries for help;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				yet God charges no one with 
+				<crossref let="y" cid="c18024012.2">
+				</crossref>
+				wrong.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18024013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				There are those who rebel 
+				<crossref let="z" cid="c18024013.1">
+				</crossref>
+				against the light,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who are not acquainted with its ways,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and do not stay in its paths.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				The murderer rises before it is light,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that he 
+				<crossref let="a" cid="c18024014.1">
+				</crossref>
+				may kill the poor and needy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and in the night he is like a thief.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				The eye of the adulterer also waits for 
+				<crossref let="b" cid="c18024015.1">
+				</crossref>
+				the twilight,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				No 
+				<crossref let="c" cid="c18024015.2">
+				</crossref>
+				eye will see me
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he veils his face.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				In the dark they 
+				<crossref let="d" cid="c18024016.1">
+				</crossref>
+				dig through houses;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				by day they shut themselves up;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they do not know the light.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="e" cid="c18024017.1">
+				</crossref>
+				deep darkness is morning to all of them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for they are friends with the terrors of deep darkness.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18024018">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You say, 
+				<crossref let="f" cid="c18024018.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Swift are they on the face of the waters;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				their portion is cursed in the land;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				no treader turns toward their vineyards.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				Drought and heat snatch away the snow waters;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so does 
+				<crossref let="g" cid="c18024019.1">
+				</crossref>
+				Sheol those who have sinned.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				The womb forgets them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the worm finds them sweet;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				they are 
+				<crossref let="h" cid="c18024020.1">
+				</crossref>
+				no longer remembered,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so wickedness is broken like 
+				<crossref let="i" cid="c18024020.2">
+				</crossref>
+				a tree.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18024021">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				They wrong the barren, childless woman,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and do no good to the widow.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				Yet God
+				<note nid="n18024022.1">
+				</note>
+				 prolongs the life of the mighty by his power;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they rise up when they despair of life.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				He gives them security, and they are supported,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his 
+				<crossref let="j" cid="c18024023.1">
+				</crossref>
+				eyes are upon their ways.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				They are exalted 
+				<crossref let="k" cid="c18024024.1">
+				</crossref>
+				a little while, and then 
+				<crossref let="l" cid="c18024024.2">
+				</crossref>
+				are gone;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they are brought low and gathered up like all others;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they are 
+				<crossref let="m" cid="c18024024.3">
+				</crossref>
+				cut off like the heads of grain.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18024025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				If it is 
+				<crossref let="n" cid="c18024025.1">
+				</crossref>
+				not so, who will prove me a liar
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and show that there is nothing in what I say?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

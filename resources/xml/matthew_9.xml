@@ -1,0 +1,617 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40009001">
+		</marker>
+		<chapter num="9">
+			<heading
+				>
+				Jesus Heals a Paralytic
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And getting into a boat he crossed over and came to 
+				<crossref let="v" cid="c40009001.1">
+				</crossref>
+				his own city.
+			</verse>
+			<marker class="begin-verse" mid="v40009002">
+			</marker>
+			<verse num="2">
+				<crossref let="w" cid="c40009002.1">
+				</crossref>
+				<crossref cid="t40009002.1">
+				</crossref>
+				And behold, some people brought to him a paralytic, lying on a bed. And when Jesus 
+				<crossref let="x" cid="c40009002.2">
+				</crossref>
+				saw their faith, he said to the paralytic, 
+				<woc
+					>
+					<crossref let="y" cid="c40009002.3">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Take heart, my son; 
+					<crossref let="z" cid="c40009002.4">
+					</crossref>
+					your sins are forgiven.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40009003">
+			</marker>
+			<verse num="3">
+				And behold, some of the scribes said to themselves, 
+				<crossref let="a" cid="c40009003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This man is blaspheming.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40009004">
+			</marker>
+			<verse num="4">
+				But Jesus, 
+				<crossref let="b" cid="c40009004.1">
+				</crossref>
+				knowing
+				<note nid="n40009004.1">
+				</note>
+				 their thoughts, said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Why do you think evil in your hearts?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40009005">
+			</marker>
+			<verse num="5" class="woc">
+				<woc
+					>
+					For which is easier, to say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Your sins are forgiven,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 or to say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Rise and walk
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40009006">
+			</marker>
+			<verse num="6" class="woc">
+				<woc
+					>
+					But that you may know that the Son of Man has authority on earth to forgive sins
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				ùhe then said to the paralyticù
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Rise, pick up your bed and go home.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40009007">
+			</marker>
+			<verse num="7">
+				And he rose and went home.
+			</verse>
+			<marker class="begin-verse" mid="v40009008">
+			</marker>
+			<verse num="8">
+				When the crowds saw it, 
+				<crossref let="c" cid="c40009008.1">
+				</crossref>
+				they were afraid, and 
+				<crossref let="c" cid="c40009008.2">
+				</crossref>
+				they glorified God, who had 
+				<crossref let="d" cid="c40009008.3">
+				</crossref>
+				given such authority to men.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40009009">
+			</marker>
+			<heading
+				>
+				Jesus Calls Matthew
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<crossref let="e" cid="c40009009.1">
+				</crossref>
+				<crossref cid="t40009009.1">
+				</crossref>
+				As Jesus passed on from there, he saw a man called 
+				<crossref let="f" cid="c40009009.2">
+				</crossref>
+				Matthew sitting at the tax booth, and he said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Follow me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And he rose and followed him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40009010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				And as Jesus
+				<note nid="n40009010.1">
+				</note>
+				 reclined at table in the house, behold, many 
+				<crossref let="g" cid="c40009010.1">
+				</crossref>
+				tax collectors and sinners came and were reclining with Jesus and his disciples.
+			</verse>
+			<marker class="begin-verse" mid="v40009011">
+			</marker>
+			<verse num="11">
+				And when the Pharisees saw this, they said to his disciples, 
+				<crossref let="h" cid="c40009011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why does your teacher eat with 
+				<crossref let="g" cid="c40009011.2">
+				</crossref>
+				tax collectors and sinners?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40009012">
+			</marker>
+			<verse num="12">
+				But when he heard it, he said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Those who are well have no need of a physician, but those who are sick.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40009013">
+			</marker>
+			<verse num="13" class="woc">
+				<woc
+					>
+					Go and learn 
+					<crossref let="i" cid="c40009013.1">
+					</crossref>
+					what this means, 
+					<crossref let="j" cid="c40009013.2">
+					</crossref>
+					<crossref cid="t40009013.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					I desire mercy, and not sacrifice.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 For 
+					<crossref let="k" cid="c40009013.3">
+					</crossref>
+					I came not to call the righteous, 
+					<crossref let="l" cid="c40009013.4">
+					</crossref>
+					but sinners.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40009014">
+			</marker>
+			<heading
+				>
+				A Question About Fasting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				Then 
+				<crossref let="m" cid="c40009014.1">
+				</crossref>
+				the disciples of John came to him, saying, 
+				<crossref let="n" cid="c40009014.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do we and 
+				<crossref let="o" cid="c40009014.3">
+				</crossref>
+				the Pharisees fast,
+				<note nid="n40009014.1">
+				</note>
+				 but your disciples do not fast?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40009015">
+			</marker>
+			<verse num="15">
+				And Jesus said to them, 
+				<woc
+					>
+					<crossref let="p" cid="c40009015.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Can the wedding guests mourn as long as the bridegroom is with them? 
+					<crossref let="q" cid="c40009015.2">
+					</crossref>
+					The days will come when the bridegroom is taken away from them, and 
+					<crossref let="r" cid="c40009015.3">
+					</crossref>
+					then they will fast.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40009016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc
+					>
+					No one puts a piece of unshrunk cloth on an old garment, for the patch tears away from the garment, and a worse tear is made.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40009017">
+			</marker>
+			<verse num="17" class="woc">
+				<woc
+					>
+					Neither is new wine put into old 
+					<crossref let="s" cid="c40009017.1">
+					</crossref>
+					wineskins. If it is, the skins burst and the wine is spilled and the skins are destroyed. But new wine is put into fresh wineskins, and so both are preserved.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40009018">
+			</marker>
+			<heading
+				>
+				A Girl Restored to Life and a Woman Healed
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				<crossref let="t" cid="c40009018.1">
+				</crossref>
+				<crossref cid="t40009018.1">
+				</crossref>
+				While he was saying these things to them, behold, a ruler came in and 
+				<crossref let="u" cid="c40009018.2">
+				</crossref>
+				knelt before him, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My daughter has just died, but come and lay your hand on her, and she will live.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40009019">
+			</marker>
+			<verse num="19">
+				And Jesus rose and followed him, with his disciples.
+			</verse>
+			<marker class="begin-verse" mid="v40009020">
+			</marker>
+			<verse num="20">
+				And behold, a woman 
+				<crossref let="v" cid="c40009020.1">
+				</crossref>
+				who had suffered from a discharge of blood for twelve years came up behind him and touched 
+				<crossref let="w" cid="c40009020.2">
+				</crossref>
+				the fringe of his garment,
+			</verse>
+			<marker class="begin-verse" mid="v40009021">
+			</marker>
+			<verse num="21">
+				for she said to herself, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If I only touch his garment, I will be made well.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40009022">
+			</marker>
+			<verse num="22">
+				Jesus turned, and seeing her he said, 
+				<woc
+					>
+					<crossref let="x" cid="c40009022.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Take heart, daughter; your faith has made you well.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				<crossref let="y" cid="c40009022.2">
+				</crossref>
+				And instantly
+				<note nid="n40009022.1">
+				</note>
+				 the woman was made well.
+			</verse>
+			<marker class="begin-verse" mid="v40009023">
+			</marker>
+			<verse num="23">
+				And when Jesus came to the ruler's house and saw 
+				<crossref let="z" cid="c40009023.1">
+				</crossref>
+				the flute players and the crowd making a commotion,
+			</verse>
+			<marker class="begin-verse" mid="v40009024">
+			</marker>
+			<verse num="24">
+				he said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go away, for 
+					<crossref let="a" cid="c40009024.1">
+					</crossref>
+					the girl is not dead but 
+					<crossref let="b" cid="c40009024.2">
+					</crossref>
+					sleeping.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And they laughed at him.
+			</verse>
+			<marker class="begin-verse" mid="v40009025">
+			</marker>
+			<verse num="25">
+				But 
+				<crossref let="c" cid="c40009025.1">
+				</crossref>
+				when the crowd had been put outside, he went in and 
+				<crossref let="d" cid="c40009025.2">
+				</crossref>
+				took her by the hand, and the girl arose.
+			</verse>
+			<marker class="begin-verse" mid="v40009026">
+			</marker>
+			<verse num="26">
+				And the report of this went through all that district.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40009027">
+			</marker>
+			<heading
+				>
+				Jesus Heals Two Blind Men
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				<crossref let="e" cid="c40009027.1">
+				</crossref>
+				And as Jesus passed on from there, two blind men followed him, crying aloud, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Have mercy on us, 
+				<crossref let="f" cid="c40009027.2">
+				</crossref>
+				Son of David.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40009028">
+			</marker>
+			<verse num="28">
+				When he entered the house, the blind men came to him, and Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Do you believe that I am able to do this?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 They said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Yes, Lord.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40009029">
+			</marker>
+			<verse num="29">
+				<crossref let="g" cid="c40009029.1">
+				</crossref>
+				Then he touched their eyes, saying, 
+				<woc
+					>
+					<crossref let="h" cid="c40009029.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					According to your faith be it done to you.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40009030">
+			</marker>
+			<verse num="30">
+				And their eyes were opened. And Jesus sternly warned them, 
+				<woc
+					>
+					<crossref let="i" cid="c40009030.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					See that no one knows about it.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40009031">
+			</marker>
+			<verse num="31">
+				<crossref let="j" cid="c40009031.1">
+				</crossref>
+				But they went away and spread his fame through all that district.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40009032">
+			</marker>
+			<heading
+				>
+				Jesus Heals a Man Unable to Speak
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="32">
+				As they were going away, behold, a 
+				<crossref let="k" cid="c40009032.1">
+				</crossref>
+				demon-oppressed man who was mute 
+				<crossref let="l" cid="c40009032.2">
+				</crossref>
+				was brought to him.
+			</verse>
+			<marker class="begin-verse" mid="v40009033">
+			</marker>
+			<verse num="33">
+				And when the demon had been cast out, the mute man spoke. And the crowds 
+				<crossref let="m" cid="c40009033.1">
+				</crossref>
+				marveled, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Never was anything like this seen in Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40009034">
+			</marker>
+			<verse num="34">
+				But the Pharisees said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He casts out demons by the prince of demons.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40009035">
+			</marker>
+			<heading
+				>
+				The Harvest Is Plentiful, the Laborers Few
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="35">
+				<crossref let="n" cid="c40009035.1">
+				</crossref>
+				And Jesus went throughout all the cities and villages, teaching in their synagogues and proclaiming the gospel of the kingdom and healing every disease and every affliction.
+			</verse>
+			<marker class="begin-verse" mid="v40009036">
+			</marker>
+			<verse num="36">
+				<crossref let="o" cid="c40009036.1">
+				</crossref>
+				When he saw the crowds, 
+				<crossref let="p" cid="c40009036.2">
+				</crossref>
+				he had compassion for them, because they were harassed and helpless, 
+				<crossref let="q" cid="c40009036.3">
+				</crossref>
+				like sheep without a shepherd.
+			</verse>
+			<marker class="begin-verse" mid="v40009037">
+			</marker>
+			<verse num="37">
+				<crossref let="r" cid="c40009037.1">
+				</crossref>
+				Then he said to his disciples, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					The harvest is plentiful, but the laborers are few;
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40009038">
+			</marker>
+			<verse num="38" class="woc">
+				<woc
+					>
+					therefore 
+					<crossref let="s" cid="c40009038.1">
+					</crossref>
+					pray earnestly to the Lord of the harvest to 
+					<crossref let="t" cid="c40009038.2">
+					</crossref>
+					send out laborers into his harvest.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

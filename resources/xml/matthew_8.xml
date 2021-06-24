@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40008001">
+		</marker>
+		<chapter num="8">
+			<heading
+				>
+				Jesus Cleanses a Leper
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				When he came down from the mountain, 
+				<crossref let="d" cid="c40008001.1">
+				</crossref>
+				great crowds followed him.
+			</verse>
+			<marker class="begin-verse" mid="v40008002">
+			</marker>
+			<verse num="2">
+				<crossref let="e" cid="c40008002.1">
+				</crossref>
+				<crossref cid="t40008002.1">
+				</crossref>
+				And behold, a leper
+				<note nid="n40008002.1">
+				</note>
+				 came to him and 
+				<crossref let="f" cid="c40008002.2">
+				</crossref>
+				knelt before him, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, if you will, you can make me clean.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40008003">
+			</marker>
+			<verse num="3">
+				And Jesus
+				<note nid="n40008003.1">
+				</note>
+				 stretched out his hand and touched him, saying, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I will; be clean.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And immediately his leprosy was cleansed.
+			</verse>
+			<marker class="begin-verse" mid="v40008004">
+			</marker>
+			<verse num="4">
+				And Jesus said to him, 
+				<woc
+					>
+					<crossref let="g" cid="c40008004.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					See that you say nothing to anyone, but go, 
+					<crossref let="h" cid="c40008004.2">
+					</crossref>
+					show yourself to the priest and 
+					<crossref let="i" cid="c40008004.3">
+					</crossref>
+					offer the gift that Moses commanded, 
+					<crossref let="j" cid="c40008004.4">
+					</crossref>
+					for a proof to them.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40008005">
+			</marker>
+			<heading
+				>
+				The Faith of a Centurion
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				<crossref let="k" cid="c40008005.1">
+				</crossref>
+				<crossref cid="t40008005.1">
+				</crossref>
+				When he entered Capernaum, a centurion came forward to him, appealing to him,
+			</verse>
+			<marker class="begin-verse" mid="v40008006">
+			</marker>
+			<verse num="6">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, my servant is lying paralyzed at home, suffering terribly.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40008007">
+			</marker>
+			<verse num="7">
+				And he said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I will come and heal him.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40008008">
+			</marker>
+			<verse num="8">
+				But the centurion replied, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, I am not worthy to have you come under my roof, but 
+				<crossref let="l" cid="c40008008.1">
+				</crossref>
+				only say the word, and my servant will be healed.
+			</verse>
+			<marker class="begin-verse" mid="v40008009">
+			</marker>
+			<verse num="9">
+				For I too am a man under authority, with soldiers under me. And I say to one, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Go,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 and he goes, and to another, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Come,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 and he comes, and to my servant,
+				<note nid="n40008009.1">
+				</note>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Do this,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 and he does it.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40008010">
+			</marker>
+			<verse num="10">
+				When Jesus heard this, 
+				<crossref let="m" cid="c40008010.1">
+				</crossref>
+				he marveled and said to those who followed him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Truly, I tell you, with 
+					<crossref let="n" cid="c40008010.2">
+					</crossref>
+					no one in Israel
+					<note nid="n40008010.1">
+					</note>
+					 have I found such faith.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40008011">
+			</marker>
+			<verse num="11" class="woc">
+				<woc
+					>
+					I tell you, 
+					<crossref let="o" cid="c40008011.1">
+					</crossref>
+					many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40008012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc
+					>
+					<crossref let="p" cid="c40008012.1">
+					</crossref>
+					while the sons of the kingdom 
+					<crossref let="q" cid="c40008012.2">
+					</crossref>
+					will be thrown into the outer darkness. In that place 
+					<crossref let="r" cid="c40008012.3">
+					</crossref>
+					there will be weeping and gnashing of teeth.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40008013">
+			</marker>
+			<verse num="13">
+				And to the centurion Jesus said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go; let it be done for you 
+					<crossref let="s" cid="c40008013.1">
+					</crossref>
+					as you have believed.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				<crossref let="t" cid="c40008013.2">
+				</crossref>
+				And the servant was healed at that very moment.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40008014">
+			</marker>
+			<heading
+				>
+				Jesus Heals Many
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				<crossref let="u" cid="c40008014.1">
+				</crossref>
+				<crossref cid="t40008014.1">
+				</crossref>
+				And when Jesus entered Peter's house, he saw 
+				<crossref let="v" cid="c40008014.2">
+				</crossref>
+				his mother-in-law lying sick with a fever.
+			</verse>
+			<marker class="begin-verse" mid="v40008015">
+			</marker>
+			<verse num="15">
+				He 
+				<crossref let="w" cid="c40008015.1">
+				</crossref>
+				touched her hand, and the fever left her, and she rose and began to serve him.
+			</verse>
+			<marker class="begin-verse" mid="v40008016">
+			</marker>
+			<verse num="16">
+				That evening they brought to him many who were 
+				<crossref let="x" cid="c40008016.1">
+				</crossref>
+				oppressed by demons, and he cast out the spirits 
+				<crossref let="y" cid="c40008016.2">
+				</crossref>
+				with a word and healed all who were sick.
+			</verse>
+			<marker class="begin-verse" mid="v40008017">
+			</marker>
+			<verse num="17">
+				<crossref let="z" cid="c40008017.1">
+				</crossref>
+				This was to fulfill what was spoken by the prophet Isaiah: 
+				<crossref let="a" cid="c40008017.2">
+				</crossref>
+				<crossref cid="t40008017.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He took our illnesses and bore our diseases.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40008018">
+			</marker>
+			<heading
+				>
+				The Cost of Following Jesus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				Now 
+				<crossref let="b" cid="c40008018.1">
+				</crossref>
+				when Jesus saw a crowd around him, 
+				<crossref let="c" cid="c40008018.2">
+				</crossref>
+				he gave orders to go over to the other side.
+			</verse>
+			<marker class="begin-verse" mid="v40008019">
+			</marker>
+			<verse num="19">
+				<crossref let="d" cid="c40008019.1">
+				</crossref>
+				<crossref cid="t40008019.1">
+				</crossref>
+				And a scribe came up and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Teacher, I will follow you wherever you go.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40008020">
+			</marker>
+			<verse num="20">
+				And Jesus said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Foxes have holes, and birds of the air have nests, but the Son of Man has nowhere to lay his head.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40008021">
+			</marker>
+			<verse num="21">
+				Another of the disciples said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, let me first go and bury my father.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40008022">
+			</marker>
+			<verse num="22">
+				And Jesus said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Follow me, and leave 
+					<crossref let="e" cid="c40008022.1">
+					</crossref>
+					the dead to bury their own dead.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40008023">
+			</marker>
+			<heading
+				>
+				Jesus Calms a Storm
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				<crossref let="f" cid="c40008023.1">
+				</crossref>
+				<crossref cid="t40008023.1">
+				</crossref>
+				And when he got into the boat, his disciples followed him.
+			</verse>
+			<marker class="begin-verse" mid="v40008024">
+			</marker>
+			<verse num="24">
+				And behold, there arose a great storm on the sea, so that the boat was being swamped by the waves; but 
+				<crossref let="g" cid="c40008024.1">
+				</crossref>
+				he was asleep.
+			</verse>
+			<marker class="begin-verse" mid="v40008025">
+			</marker>
+			<verse num="25">
+				And they went and woke him, saying, 
+				<crossref let="h" cid="c40008025.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Save us, Lord; we are perishing.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40008026">
+			</marker>
+			<verse num="26">
+				And he said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Why are you 
+					<crossref let="i" cid="c40008026.1">
+					</crossref>
+					afraid, 
+					<crossref let="j" cid="c40008026.2">
+					</crossref>
+					O you of little faith?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 Then he rose and 
+				<crossref let="k" cid="c40008026.3">
+				</crossref>
+				rebuked the winds and the sea, and 
+				<crossref let="l" cid="c40008026.4">
+				</crossref>
+				there was a great calm.
+			</verse>
+			<marker class="begin-verse" mid="v40008027">
+			</marker>
+			<verse num="27">
+				And the men 
+				<crossref let="m" cid="c40008027.1">
+				</crossref>
+				marveled, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What sort of man is this, that even 
+				<crossref let="n" cid="c40008027.2">
+				</crossref>
+				winds and sea obey him?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40008028">
+			</marker>
+			<heading
+				>
+				Jesus Heals Two Men with Demons
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				<crossref let="o" cid="c40008028.1">
+				</crossref>
+				<crossref cid="t40008028.1">
+				</crossref>
+				And when he came to the other side, to the country of the Gadarenes,
+				<note nid="n40008028.1">
+				</note>
+				 two 
+				<crossref let="p" cid="c40008028.2">
+				</crossref>
+				demon-possessed
+				<note nid="n40008028.2">
+				</note>
+				 men met him, coming out of the tombs, so fierce that no one could pass that way.
+			</verse>
+			<marker class="begin-verse" mid="v40008029">
+			</marker>
+			<verse num="29">
+				And behold, they 
+				<crossref let="q" cid="c40008029.1">
+				</crossref>
+				cried out, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What have you to do with us, 
+				<crossref let="r" cid="c40008029.2">
+				</crossref>
+				O Son of God? Have you come here to torment us 
+				<crossref let="s" cid="c40008029.3">
+				</crossref>
+				before the time?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40008030">
+			</marker>
+			<verse num="30">
+				Now a herd of many pigs was feeding at some distance from them.
+			</verse>
+			<marker class="begin-verse" mid="v40008031">
+			</marker>
+			<verse num="31">
+				And the demons begged him, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If you cast us out, send us away into the herd of pigs.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40008032">
+			</marker>
+			<verse num="32">
+				And he said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 So they came out and went into the pigs, and behold, the whole herd rushed down the steep bank into the sea and drowned in the waters.
+			</verse>
+			<marker class="begin-verse" mid="v40008033">
+			</marker>
+			<verse num="33">
+				The herdsmen fled, and going into the city they told everything, especially what had happened to the 
+				<crossref let="t" cid="c40008033.1">
+				</crossref>
+				demon-possessed men.
+			</verse>
+			<marker class="begin-verse" mid="v40008034">
+			</marker>
+			<verse num="34">
+				And behold, all the city came out to meet Jesus, and when they saw him, 
+				<crossref let="u" cid="c40008034.1">
+				</crossref>
+				they begged him to leave their region.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

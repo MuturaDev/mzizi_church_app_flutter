@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19076001">
+		</marker>
+		<chapter num="76">
+			<heading
+				>
+				Who Can Stand Before You?
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: with 
+				<crossref let="c" cid="c19076001.1">
+				</crossref>
+				stringed instruments. A Psalm of 
+				<crossref let="d" cid="c19076001.2">
+				</crossref>
+				Asaph. A Song.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				In Judah God is 
+				<crossref let="e" cid="c19076001.3">
+				</crossref>
+				known;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his name is great in Israel.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19076002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				His 
+				<crossref let="f" cid="c19076002.1">
+				</crossref>
+				abode has been established in 
+				<crossref let="g" cid="c19076002.2">
+				</crossref>
+				Salem,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his 
+				<crossref let="h" cid="c19076002.3">
+				</crossref>
+				dwelling place in Zion.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19076003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				There he 
+				<crossref let="i" cid="c19076003.1">
+				</crossref>
+				broke the flashing arrows,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the shield, the sword, and the weapons of war. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19076004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Glorious are you, more majestic
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c19076004.1">
+				</crossref>
+				than the mountains of 
+				<crossref let="k" cid="c19076004.2">
+				</crossref>
+				prey.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19076005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19076005.1">
+				</crossref>
+				The stouthearted were stripped of their spoil;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c19076005.2">
+				</crossref>
+				they sank into sleep;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				all the men of war
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				were unable to use their hands.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19076006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				At your rebuke, O God of Jacob,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				both 
+				<crossref let="n" cid="c19076006.1">
+				</crossref>
+				rider and horse lay stunned.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19076007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c19076007.1">
+				</crossref>
+				But you, you are to be feared!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Who can 
+				<crossref let="p" cid="c19076007.2">
+				</crossref>
+				stand before you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when once your anger is roused?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19076008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				From the heavens you uttered judgment;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c19076008.1">
+				</crossref>
+				the earth feared and was still,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19076009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				when God 
+				<crossref let="r" cid="c19076009.1">
+				</crossref>
+				arose to establish judgment,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to save all the humble of the earth. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19076010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Surely 
+				<crossref let="s" cid="c19076010.1">
+				</crossref>
+				the wrath of man shall praise you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the remnant
+				<note nid="n19076010.1">
+				</note>
+				 of wrath you will put on like a belt.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19076011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c19076011.1">
+				</crossref>
+				Make your vows to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God and perform them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let all around him 
+				<crossref let="u" cid="c19076011.2">
+				</crossref>
+				bring gifts
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to him who 
+				<crossref let="v" cid="c19076011.3">
+				</crossref>
+				is to be feared,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19076012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				who 
+				<crossref let="w" cid="c19076012.1">
+				</crossref>
+				cuts off the spirit of princes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="x" cid="c19076012.2">
+				</crossref>
+				is to be feared by the kings of the earth.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

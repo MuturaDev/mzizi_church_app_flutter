@@ -1,0 +1,642 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Numbers" num="3">
+		<marker class="begin-verse" mid="v04016001">
+		</marker>
+		<chapter num="16">
+			<heading
+				>
+				Korah's Rebellion
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now 
+				<crossref let="i" cid="c04016001.1">
+				</crossref>
+				Korah the son of Izhar, son of Kohath, son of Levi, and 
+				<crossref let="j" cid="c04016001.2">
+				</crossref>
+				Dathan and Abiram the sons of Eliab, and On the son of Peleth, sons of Reuben, took men.
+			</verse>
+			<marker class="begin-verse" mid="v04016002">
+			</marker>
+			<verse num="2">
+				And they rose up before Moses, with a number of the people of Israel, 250 chiefs of the congregation, chosen from the assembly, well-known men.
+			</verse>
+			<marker class="begin-verse" mid="v04016003">
+			</marker>
+			<verse num="3">
+				<crossref let="k" cid="c04016003.1">
+				</crossref>
+				They assembled themselves together against Moses and against Aaron and said to them, 
+				<crossref let="l" cid="c04016003.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You have gone too far! For 
+				<crossref let="m" cid="c04016003.3">
+				</crossref>
+				all in the congregation are holy, every one of them, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is among them. Why then do you exalt yourselves above the assembly of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04016004">
+			</marker>
+			<verse num="4">
+				When Moses heard it, 
+				<crossref let="n" cid="c04016004.1">
+				</crossref>
+				he fell on his face,
+			</verse>
+			<marker class="begin-verse" mid="v04016005">
+			</marker>
+			<verse num="5">
+				and he said to Korah and all his company, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				In the morning the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will show 
+				<crossref let="o" cid="c04016005.1">
+				</crossref>
+				who is his,
+				<note nid="n04016005.1">
+				</note>
+				 and who is 
+				<crossref let="p" cid="c04016005.2">
+				</crossref>
+				holy, and will bring him near to him. The one 
+				<crossref let="q" cid="c04016005.3">
+				</crossref>
+				whom he chooses he will 
+				<crossref let="r" cid="c04016005.4">
+				</crossref>
+				bring near to him.
+			</verse>
+			<marker class="begin-verse" mid="v04016006">
+			</marker>
+			<verse num="6">
+				Do this: take 
+				<crossref let="s" cid="c04016006.1">
+				</crossref>
+				censers, Korah and all his company;
+			</verse>
+			<marker class="begin-verse" mid="v04016007">
+			</marker>
+			<verse num="7">
+				put fire in them and put incense on them before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 tomorrow, and the man whom the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 chooses shall be the holy one. 
+				<crossref let="t" cid="c04016007.1">
+				</crossref>
+				You have gone too far, sons of Levi!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04016008">
+			</marker>
+			<verse num="8">
+				And Moses said to Korah, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hear now, you sons of Levi:
+			</verse>
+			<marker class="begin-verse" mid="v04016009">
+			</marker>
+			<verse num="9">
+				is it 
+				<crossref let="u" cid="c04016009.1">
+				</crossref>
+				too small a thing for you that the God of Israel has 
+				<crossref let="v" cid="c04016009.2">
+				</crossref>
+				separated you from the congregation of Israel, to bring you near to himself, to do service in the tabernacle of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and to stand before the congregation to minister to them,
+			</verse>
+			<marker class="begin-verse" mid="v04016010">
+			</marker>
+			<verse num="10">
+				and that he has brought you near him, and all your brothers the sons of Levi with you? And would you seek the priesthood also?
+			</verse>
+			<marker class="begin-verse" mid="v04016011">
+			</marker>
+			<verse num="11">
+				Therefore it is against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that you and all your company have gathered together. What is 
+				<crossref let="w" cid="c04016011.1">
+				</crossref>
+				Aaron that you grumble against him?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04016012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				And Moses sent to call Dathan and Abiram the sons of Eliab, and they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We will not come up.
+			</verse>
+			<marker class="begin-verse" mid="v04016013">
+			</marker>
+			<verse num="13">
+				Is it 
+				<crossref let="x" cid="c04016013.1">
+				</crossref>
+				a small thing that you have brought us up out of 
+				<crossref let="y" cid="c04016013.2">
+				</crossref>
+				a land flowing with milk and honey, to kill us in the wilderness, that you must also 
+				<crossref let="z" cid="c04016013.3">
+				</crossref>
+				make yourself a prince over us?
+			</verse>
+			<marker class="begin-verse" mid="v04016014">
+			</marker>
+			<verse num="14">
+				Moreover, you have not brought us into a land flowing with milk and honey, nor given us inheritance of fields and vineyards. Will you put out the eyes of these men? We will not come up.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04016015">
+			</marker>
+			<verse num="15">
+				And Moses was very angry and said to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="a" cid="c04016015.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not respect their offering. 
+				<crossref let="b" cid="c04016015.2">
+				</crossref>
+				I have not taken one donkey from them, and I have not harmed one of them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04016016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				And Moses said to Korah, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Be present, you and all your company, 
+				<crossref let="c" cid="c04016016.1">
+				</crossref>
+				before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, you and they, and Aaron, tomorrow.
+			</verse>
+			<marker class="begin-verse" mid="v04016017">
+			</marker>
+			<verse num="17">
+				And 
+				<crossref let="d" cid="c04016017.1">
+				</crossref>
+				let every one of you take his censer and put incense on it, and every one of you bring before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 his censer, 
+				<crossref let="e" cid="c04016017.2">
+				</crossref>
+				250 censers; you also, and Aaron, each his censer.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04016018">
+			</marker>
+			<verse num="18">
+				So every man took his censer and put fire in them and laid incense on them and stood at the entrance of the tent of meeting with Moses and Aaron.
+			</verse>
+			<marker class="begin-verse" mid="v04016019">
+			</marker>
+			<verse num="19">
+				Then Korah assembled all the congregation against them at the entrance of the tent of meeting. 
+				<crossref let="f" cid="c04016019.1">
+				</crossref>
+				And the glory of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 appeared to all the congregation.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04016020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses and to Aaron, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04016021">
+			</marker>
+			<verse num="21">
+				<crossref let="g" cid="c04016021.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Separate yourselves from among this congregation, that I may consume them 
+				<crossref let="h" cid="c04016021.2">
+				</crossref>
+				in a moment.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04016022">
+			</marker>
+			<verse num="22">
+				And they 
+				<crossref let="i" cid="c04016022.1">
+				</crossref>
+				fell on their faces and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O God, 
+				<crossref let="j" cid="c04016022.2">
+				</crossref>
+				the God of the spirits of all flesh, 
+				<crossref let="k" cid="c04016022.3">
+				</crossref>
+				shall one man sin, and will you be angry with all the congregation?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04016023">
+			</marker>
+			<verse num="23">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04016024">
+			</marker>
+			<verse num="24">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say to the congregation, Get away from the dwelling of Korah, Dathan, and Abiram.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04016025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				Then Moses rose and went to Dathan and Abiram, and the elders of Israel followed him.
+			</verse>
+			<marker class="begin-verse" mid="v04016026">
+			</marker>
+			<verse num="26">
+				And he spoke to the congregation, saying, 
+				<crossref let="l" cid="c04016026.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Depart, please, from the tents of these wicked men, and touch nothing of theirs, lest you be swept away with all their sins.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04016027">
+			</marker>
+			<verse num="27">
+				So they got away from the dwelling of Korah, Dathan, and Abiram. And Dathan and Abiram came out and stood 
+				<crossref let="m" cid="c04016027.1">
+				</crossref>
+				at the door of their tents, together with their wives, their sons, and their little ones.
+			</verse>
+			<marker class="begin-verse" mid="v04016028">
+			</marker>
+			<verse num="28">
+				And Moses said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hereby you shall know that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has sent me to do all these works, and that it has not been 
+				<crossref let="n" cid="c04016028.1">
+				</crossref>
+				of my own accord.
+			</verse>
+			<marker class="begin-verse" mid="v04016029">
+			</marker>
+			<verse num="29">
+				If these men die as all men die, or if they are visited by the fate of all mankind, 
+				<crossref let="o" cid="c04016029.1">
+				</crossref>
+				then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has not sent me.
+			</verse>
+			<marker class="begin-verse" mid="v04016030">
+			</marker>
+			<verse num="30">
+				But if the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 creates something new, and 
+				<crossref let="p" cid="c04016030.1">
+				</crossref>
+				the ground opens its mouth and swallows them up with all that belongs to them, and they 
+				<crossref let="q" cid="c04016030.2">
+				</crossref>
+				go down alive into Sheol, then you shall know that these men have despised the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04016031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				<crossref let="r" cid="c04016031.1">
+				</crossref>
+				And as soon as he had finished speaking all these words, the ground under them split apart.
+			</verse>
+			<marker class="begin-verse" mid="v04016032">
+			</marker>
+			<verse num="32">
+				And the earth opened its mouth and swallowed them up, with their households and 
+				<crossref let="s" cid="c04016032.1">
+				</crossref>
+				all the people who belonged to Korah and all their goods.
+			</verse>
+			<marker class="begin-verse" mid="v04016033">
+			</marker>
+			<verse num="33">
+				So they and all that belonged to them went down alive into Sheol, and the earth closed over them, and 
+				<crossref let="t" cid="c04016033.1">
+				</crossref>
+				they perished from the midst of the assembly.
+			</verse>
+			<marker class="begin-verse" mid="v04016034">
+			</marker>
+			<verse num="34">
+				And all Israel who were around them fled at their cry, for they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lest the earth swallow us up!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04016035">
+			</marker>
+			<verse num="35">
+				And 
+				<crossref let="u" cid="c04016035.1">
+				</crossref>
+				fire came out from the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and consumed 
+				<crossref let="v" cid="c04016035.2">
+				</crossref>
+				the 250 men offering the incense.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04016036">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="36">
+				<note nid="n04016036.1">
+				</note>
+				 Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04016037">
+			</marker>
+			<verse num="37">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tell Eleazar the son of Aaron the priest to take up the censers out of the blaze. Then scatter the fire far and wide, for they have become holy.
+			</verse>
+			<marker class="begin-verse" mid="v04016038">
+			</marker>
+			<verse num="38">
+				As for the censers of 
+				<crossref let="w" cid="c04016038.1">
+				</crossref>
+				these men who have sinned at the cost of their lives, let them be made into hammered plates as a covering for the altar, for they offered them before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and they became holy. 
+				<crossref let="x" cid="c04016038.2">
+				</crossref>
+				Thus they shall be a sign to the people of Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04016039">
+			</marker>
+			<verse num="39">
+				So Eleazar the priest took the bronze censers, which those who were burned had offered, and they were hammered out as a covering for the altar,
+			</verse>
+			<marker class="begin-verse" mid="v04016040">
+			</marker>
+			<verse num="40">
+				to be a reminder to the people of Israel, so 
+				<crossref let="y" cid="c04016040.1">
+				</crossref>
+				that no outsider, who is not of the descendants of Aaron, should draw near to burn incense before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, lest he become like Korah and his companyùas the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to him through Moses.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04016041">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="41">
+				But on the next day all the congregation of the people of Israel 
+				<crossref let="z" cid="c04016041.1">
+				</crossref>
+				grumbled against Moses and against Aaron, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You have killed the people of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04016042">
+			</marker>
+			<verse num="42">
+				And when the congregation had assembled against Moses and against Aaron, they turned toward the tent of meeting. And behold, 
+				<crossref let="a" cid="c04016042.1">
+				</crossref>
+				the cloud covered it, and 
+				<crossref let="b" cid="c04016042.2">
+				</crossref>
+				the glory of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 appeared.
+			</verse>
+			<marker class="begin-verse" mid="v04016043">
+			</marker>
+			<verse num="43">
+				And Moses and Aaron came to the front of the tent of meeting,
+			</verse>
+			<marker class="begin-verse" mid="v04016044">
+			</marker>
+			<verse num="44">
+				and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04016045">
+			</marker>
+			<verse num="45">
+				<crossref let="c" cid="c04016045.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Get away from the midst of this congregation, that I may consume them in a moment.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<crossref let="d" cid="c04016045.2">
+				</crossref>
+				And they fell on their faces.
+			</verse>
+			<marker class="begin-verse" mid="v04016046">
+			</marker>
+			<verse num="46">
+				And Moses said to Aaron, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take your censer, and put fire on it from off the altar and lay incense on it and carry it quickly to the congregation and make atonement for them, for 
+				<crossref let="e" cid="c04016046.1">
+				</crossref>
+				wrath has gone out from the 
+				<span class="divine-name">
+					Lord
+				</span>
+				; the plague has begun.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04016047">
+			</marker>
+			<verse num="47">
+				So Aaron took it as Moses said and ran into the midst of the assembly. And behold, the plague had already begun among the people. And he put on the incense and made atonement for the people.
+			</verse>
+			<marker class="begin-verse" mid="v04016048">
+			</marker>
+			<verse num="48">
+				And he stood between the dead and the living, and 
+				<crossref let="f" cid="c04016048.1">
+				</crossref>
+				the plague was stopped.
+			</verse>
+			<marker class="begin-verse" mid="v04016049">
+			</marker>
+			<verse num="49">
+				Now those who died in the plague were 14,700, 
+				<crossref let="g" cid="c04016049.1">
+				</crossref>
+				besides those who died in the affair of Korah.
+			</verse>
+			<marker class="begin-verse" mid="v04016050">
+			</marker>
+			<verse num="50">
+				And Aaron returned to Moses at the entrance of the tent of meeting, when the plague was stopped.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

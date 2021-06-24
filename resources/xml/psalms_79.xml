@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19079001">
+		</marker>
+		<chapter num="79">
+			<heading
+				>
+				How Long, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm of 
+				<crossref let="y" cid="c19079001.1">
+				</crossref>
+				Asaph.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				O God, 
+				<crossref let="z" cid="c19079001.2">
+				</crossref>
+				the nations have come into your 
+				<crossref let="a" cid="c19079001.3">
+				</crossref>
+				inheritance;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they have defiled your 
+				<crossref let="b" cid="c19079001.4">
+				</crossref>
+				holy temple;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they have 
+				<crossref let="c" cid="c19079001.5">
+				</crossref>
+				laid Jerusalem in ruins.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19079002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				They have given 
+				<crossref let="d" cid="c19079002.1">
+				</crossref>
+				the bodies of your servants
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the birds of the heavens for food,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the flesh of your 
+				<crossref let="e" cid="c19079002.2">
+				</crossref>
+				faithful to 
+				<crossref let="f" cid="c19079002.3">
+				</crossref>
+				the beasts of the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19079003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				They have poured out their blood like water
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all around Jerusalem,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and there was 
+				<crossref let="g" cid="c19079003.1">
+				</crossref>
+				no one to bury them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19079004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				We have become 
+				<crossref let="h" cid="c19079004.1">
+				</crossref>
+				a taunt to our neighbors,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c19079004.2">
+				</crossref>
+				mocked and derided by those around us.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19079005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19079005.1">
+				</crossref>
+				How long, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				? Will you be angry 
+				<crossref let="j" cid="c19079005.2">
+				</crossref>
+				forever?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Will your 
+				<crossref let="k" cid="c19079005.3">
+				</crossref>
+				jealousy 
+				<crossref let="l" cid="c19079005.4">
+				</crossref>
+				burn like fire?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19079006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c19079006.1">
+				</crossref>
+				Pour out your anger on the nations
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that 
+				<crossref let="n" cid="c19079006.2">
+				</crossref>
+				do not know you,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and on the kingdoms
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that 
+				<crossref let="o" cid="c19079006.3">
+				</crossref>
+				do not call upon your name!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19079007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				For they have devoured Jacob
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and laid waste his habitation.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19079008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19079008.1">
+				</crossref>
+				Do not remember against us 
+				<crossref let="q" cid="c19079008.2">
+				</crossref>
+				our former iniquities;
+				<note nid="n19079008.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let your compassion come speedily to meet us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for we are 
+				<crossref let="r" cid="c19079008.3">
+				</crossref>
+				brought very low.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19079009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19079009.1">
+				</crossref>
+				Help us, O God of our salvation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for the glory of your name;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				deliver us, and 
+				<crossref let="t" cid="c19079009.2">
+				</crossref>
+				atone for our sins,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for your 
+				<crossref let="u" cid="c19079009.3">
+				</crossref>
+				name's sake!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19079010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c19079010.1">
+				</crossref>
+				Why should the nations say,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where is their God?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Let 
+				<crossref let="w" cid="c19079010.2">
+				</crossref>
+				the avenging of the outpoured blood of your servants
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				be known among the nations before our eyes!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19079011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Let 
+				<crossref let="x" cid="c19079011.1">
+				</crossref>
+				the groans of the prisoners come before you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				according to your great power, preserve those 
+				<crossref let="y" cid="c19079011.2">
+				</crossref>
+				doomed to die!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19079012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Return 
+				<crossref let="z" cid="c19079012.1">
+				</crossref>
+				sevenfold into the 
+				<crossref let="a" cid="c19079012.2">
+				</crossref>
+				lap of our neighbors
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<crossref let="b" cid="c19079012.3">
+				</crossref>
+				taunts with which they have taunted you, O Lord!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19079013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				But we your people, the 
+				<crossref let="c" cid="c19079013.1">
+				</crossref>
+				sheep of your pasture,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				will 
+				<crossref let="d" cid="c19079013.2">
+				</crossref>
+				give thanks to you forever;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from generation to generation we will recount your praise.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

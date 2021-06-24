@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ezra" num="15">
+		<marker class="begin-verse" mid="v15001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				The Proclamation of Cyrus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="a" cid="c15001001.1">
+				</crossref>
+				In the first year of Cyrus king of Persia, 
+				<crossref let="b" cid="c15001001.2">
+				</crossref>
+				that the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 by the mouth of Jeremiah might be fulfilled, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 stirred up the spirit of Cyrus king of Persia, so 
+				<crossref let="c" cid="c15001001.3">
+				</crossref>
+				that he made a proclamation throughout all his kingdom and also put it in writing:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v15001002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus says Cyrus king of Persia: The 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of heaven, has given me all the kingdoms of the earth, and 
+				<crossref let="d" cid="c15001002.1">
+				</crossref>
+				he has charged me to build him a house at Jerusalem, which is in Judah.
+			</verse>
+			<marker class="begin-verse" mid="v15001003">
+			</marker>
+			<verse num="3">
+				Whoever is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and rebuild the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israelù
+				<crossref let="e" cid="c15001003.1">
+				</crossref>
+				he is the God who is in Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v15001004">
+			</marker>
+			<verse num="4">
+				And let each survivor, in whatever place he sojourns, be assisted by the men of his place with silver and gold, with goods and with beasts, besides freewill offerings for the house of God that is in Jerusalem.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v15001005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				Then rose up the heads of the fathers' houses of Judah and Benjamin, and the priests and the Levites, 
+				<crossref let="f" cid="c15001005.1">
+				</crossref>
+				everyone whose spirit 
+				<crossref let="g" cid="c15001005.2">
+				</crossref>
+				God had stirred to go up to rebuild the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that is in Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v15001006">
+			</marker>
+			<verse num="6">
+				And all who were about them 
+				<crossref let="h" cid="c15001006.1">
+				</crossref>
+				aided them with vessels of silver, with gold, with goods, with beasts, and with costly wares, besides all that was freely offered.
+			</verse>
+			<marker class="begin-verse" mid="v15001007">
+			</marker>
+			<verse num="7">
+				<crossref let="i" cid="c15001007.1">
+				</crossref>
+				Cyrus the king also brought out the vessels of the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that 
+				<crossref let="j" cid="c15001007.2">
+				</crossref>
+				Nebuchadnezzar had carried away from Jerusalem and placed in the house of his gods.
+			</verse>
+			<marker class="begin-verse" mid="v15001008">
+			</marker>
+			<verse num="8">
+				Cyrus king of Persia brought these out in the charge of 
+				<crossref let="k" cid="c15001008.1">
+				</crossref>
+				Mithredath the treasurer, who counted them out to 
+				<crossref let="l" cid="c15001008.2">
+				</crossref>
+				Sheshbazzar the prince of Judah.
+			</verse>
+			<marker class="begin-verse" mid="v15001009">
+			</marker>
+			<verse num="9">
+				And this was the number of them: 
+				<crossref let="m" cid="c15001009.1">
+				</crossref>
+				30 basins of gold, 1,000 basins of silver, 29 censers,
+			</verse>
+			<marker class="begin-verse" mid="v15001010">
+			</marker>
+			<verse num="10">
+				30 bowls of gold, 410 bowls of silver, and 1,000 other vessels;
+			</verse>
+			<marker class="begin-verse" mid="v15001011">
+			</marker>
+			<verse num="11">
+				all the vessels of gold and of silver were 5,400. All these did Sheshbazzar bring up, when the exiles were brought up from Babylonia to Jerusalem.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Esther" num="16">
+		<marker class="begin-verse" mid="v17010001">
+		</marker>
+		<chapter num="10">
+			<heading
+				>
+				The Greatness of Mordecai
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				King Ahasuerus imposed tax on the land and on 
+				<crossref let="y" cid="c17010001.1">
+				</crossref>
+				the coastlands of the sea.
+			</verse>
+			<marker class="begin-verse" mid="v17010002">
+			</marker>
+			<verse num="2">
+				And all the acts of his power and might, and the full account of the high honor of Mordecai, 
+				<crossref let="z" cid="c17010002.1">
+				</crossref>
+				to which the king advanced him, are they not written in 
+				<crossref let="a" cid="c17010002.2">
+				</crossref>
+				the Book of the Chronicles of the kings of Media and Persia?
+			</verse>
+			<marker class="begin-verse" mid="v17010003">
+			</marker>
+			<verse num="3">
+				For Mordecai the Jew was 
+				<crossref let="b" cid="c17010003.1">
+				</crossref>
+				second in rank to King Ahasuerus, and he was great among the Jews and popular with the multitude of his brothers, for he 
+				<crossref let="c" cid="c17010003.2">
+				</crossref>
+				sought the welfare of his people and spoke peace to all his people.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

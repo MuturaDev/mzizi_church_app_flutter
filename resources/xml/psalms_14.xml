@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19014001">
+		</marker>
+		<chapter num="14">
+			<heading
+				>
+				The Fool Says, There Is No God
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. Of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c19014001.1">
+				</crossref>
+				The 
+				<crossref let="h" cid="c19014001.2">
+				</crossref>
+				fool says in his heart, 
+				<crossref let="i" cid="c19014001.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				There is no God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				They are 
+				<crossref let="j" cid="c19014001.4">
+				</crossref>
+				corrupt, they do abominable deeds,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c19014001.5">
+				</crossref>
+				there is none who does good.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19014002">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="l" cid="c19014002.1">
+				</crossref>
+				looks down from heaven on the children of man,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to see if there are any who understand,
+				<note nid="n19014002.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="m" cid="c19014002.2">
+				</crossref>
+				seek after God.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19014003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				They have all turned aside; together they have become 
+				<crossref let="n" cid="c19014003.1">
+				</crossref>
+				corrupt;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				there is none who does good,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				not even one.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19014004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Have they no 
+				<crossref let="o" cid="c19014004.1">
+				</crossref>
+				knowledge, all the evildoers
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="p" cid="c19014004.2">
+				</crossref>
+				eat up my people as they eat bread
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="q" cid="c19014004.3">
+				</crossref>
+				do not call upon the 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19014005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				There they are in great terror,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for God is with 
+				<crossref let="r" cid="c19014005.1">
+				</crossref>
+				the generation of the righteous.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19014006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				You would shame the plans of the poor,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but
+				<note nid="n19014006.1">
+				</note>
+				 the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is his 
+				<crossref let="s" cid="c19014006.1">
+				</crossref>
+				refuge.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19014007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Oh, that salvation for Israel would come out of Zion!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				When the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="t" cid="c19014007.1">
+				</crossref>
+				restores the fortunes of his people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let Jacob rejoice, let Israel be glad.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

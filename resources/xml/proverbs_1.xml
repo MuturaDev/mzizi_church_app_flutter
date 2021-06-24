@@ -1,0 +1,728 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Proverbs" num="20">
+		<marker class="begin-verse" mid="v20001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				The Beginning of Knowledge
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="a" cid="c20001001.1">
+				</crossref>
+				The proverbs of Solomon, son of David, king of Israel:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20001002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				To know wisdom and instruction,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to understand words of insight,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				to receive instruction in wise dealing,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in 
+				<crossref let="b" cid="c20001003.1">
+				</crossref>
+				righteousness, justice, and equity;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				to give prudence to 
+				<crossref let="c" cid="c20001004.1">
+				</crossref>
+				the simple,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				knowledge and 
+				<crossref let="d" cid="c20001004.2">
+				</crossref>
+				discretion to the youthù
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Let the wise hear and 
+				<crossref let="e" cid="c20001005.1">
+				</crossref>
+				increase in learning,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the one who understands obtain guidance,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				to understand a proverb and a saying,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c20001006.1">
+				</crossref>
+				the words of the wise and their 
+				<crossref let="g" cid="c20001006.2">
+				</crossref>
+				riddles.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20001007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c20001007.1">
+				</crossref>
+				The fear of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is the beginning of knowledge;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				fools despise wisdom and instruction.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v20001008">
+			</marker>
+			<heading
+				>
+				The Enticement of Sinners
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c20001008.1">
+				</crossref>
+				Hear, my son, your father's instruction,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and forsake not your mother's teaching,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				for they are 
+				<crossref let="j" cid="c20001009.1">
+				</crossref>
+				a graceful garland for your head
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="k" cid="c20001009.2">
+				</crossref>
+				pendants for your neck.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				My son, if sinners 
+				<crossref let="l" cid="c20001010.1">
+				</crossref>
+				entice you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				do not consent.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				If they say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come with us, 
+				<crossref let="m" cid="c20001011.1">
+				</crossref>
+				let us lie in wait for blood;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c20001011.2">
+				</crossref>
+				let us ambush the innocent without reason;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				like Sheol let us 
+				<crossref let="o" cid="c20001012.1">
+				</crossref>
+				swallow them alive,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and whole, like 
+				<crossref let="p" cid="c20001012.2">
+				</crossref>
+				those who go down to the pit;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				we shall find all precious goods,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				we shall fill our houses with plunder;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				throw in your lot among us;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				we will all have one purse
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				ù
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				my son, 
+				<crossref let="q" cid="c20001015.1">
+				</crossref>
+				do not walk in the way with them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c20001015.2">
+				</crossref>
+				hold back your foot from their paths,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				for 
+				<crossref let="s" cid="c20001016.1">
+				</crossref>
+				their feet run to evil,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and they make haste to shed blood.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c20001017.1">
+				</crossref>
+				For in vain is a net spread
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the sight of any bird,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				but these men 
+				<crossref let="u" cid="c20001018.1">
+				</crossref>
+				lie in wait for their own blood;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they 
+				<crossref let="u" cid="c20001018.2">
+				</crossref>
+				set an ambush for their own lives.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c20001019.1">
+				</crossref>
+				Such are the ways of everyone who is 
+				<crossref let="w" cid="c20001019.2">
+				</crossref>
+				greedy for unjust gain;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c20001019.3">
+				</crossref>
+				it takes away the life of its possessors.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v20001020">
+			</marker>
+			<heading
+				>
+				The Call of Wisdom
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c20001020.1">
+				</crossref>
+				Wisdom cries aloud in the street,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the markets she raises her voice;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				at the head of the noisy streets she cries out;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				at 
+				<crossref let="z" cid="c20001021.1">
+				</crossref>
+				the entrance of the city gates she speaks:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How long, O 
+				<crossref let="a" cid="c20001022.1">
+				</crossref>
+				simple ones, will you love being simple?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				How long will 
+				<crossref let="b" cid="c20001022.2">
+				</crossref>
+				scoffers delight in their scoffing
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and fools 
+				<crossref let="c" cid="c20001022.3">
+				</crossref>
+				hate knowledge?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				If you turn at my reproof,
+				<note nid="n20001023.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				behold, I will 
+				<crossref let="d" cid="c20001023.1">
+				</crossref>
+				pour out my spirit to you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will make my words known to you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c20001024.1">
+				</crossref>
+				Because I have called and 
+				<crossref let="f" cid="c20001024.2">
+				</crossref>
+				you refused to listen,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				have 
+				<crossref let="g" cid="c20001024.3">
+				</crossref>
+				stretched out my hand and no one has heeded,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				because you have 
+				<crossref let="h" cid="c20001025.1">
+				</crossref>
+				ignored all my counsel
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="i" cid="c20001025.2">
+				</crossref>
+				would have none of my reproof,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				I also 
+				<crossref let="j" cid="c20001026.1">
+				</crossref>
+				will laugh at your calamity;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will mock when 
+				<crossref let="k" cid="c20001026.2">
+				</crossref>
+				terror strikes you,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				when terror strikes you like 
+				<crossref let="l" cid="c20001027.1">
+				</crossref>
+				a storm
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your calamity comes like a whirlwind,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when distress and anguish come upon you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c20001028.1">
+				</crossref>
+				Then they will call upon me, but I will not answer;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they will seek me diligently but will not find me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				Because they 
+				<crossref let="c" cid="c20001029.1">
+				</crossref>
+				hated knowledge
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="n" cid="c20001029.2">
+				</crossref>
+				did not choose the fear of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c20001030.1">
+				</crossref>
+				would have none of my counsel
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="i" cid="c20001030.2">
+				</crossref>
+				despised all my reproof,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001031">
+			</marker>
+			<verse num="31">
+				<begin-line
+					>
+				</begin-line>
+				therefore they shall eat 
+				<crossref let="o" cid="c20001031.1">
+				</crossref>
+				the fruit of their way,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and have 
+				<crossref let="p" cid="c20001031.2">
+				</crossref>
+				their fill of their own devices.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001032">
+			</marker>
+			<verse num="32">
+				<begin-line
+					>
+				</begin-line>
+				For the simple are killed by 
+				<crossref let="q" cid="c20001032.1">
+				</crossref>
+				their turning away,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="r" cid="c20001032.2">
+				</crossref>
+				the complacency of fools destroys them;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20001033">
+			</marker>
+			<verse num="33">
+				<begin-line
+					>
+				</begin-line>
+				but 
+				<crossref let="s" cid="c20001033.1">
+				</crossref>
+				whoever listens to me will dwell secure
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and will be 
+				<crossref let="t" cid="c20001033.2">
+				</crossref>
+				at ease, without dread of disaster.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

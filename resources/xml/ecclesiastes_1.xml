@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ecclesiastes" num="21">
+		<marker class="begin-verse" mid="v21001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				All Is Vanity
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The words of 
+				<crossref let="a" cid="c21001001.1">
+				</crossref>
+				the Preacher,
+				<note nid="n21001001.1">
+				</note>
+				 the son of David, 
+				<crossref let="b" cid="c21001001.2">
+				</crossref>
+				king in Jerusalem.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21001002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c21001002.1">
+				</crossref>
+				Vanity
+				<note nid="n21001002.1">
+				</note>
+				 of vanities, says 
+				<crossref let="a" cid="c21001002.2">
+				</crossref>
+				the Preacher,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c21001002.3">
+				</crossref>
+				vanity of vanities! 
+				<crossref let="d" cid="c21001002.4">
+				</crossref>
+				All is vanity.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21001003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c21001003.1">
+				</crossref>
+				What 
+				<crossref let="f" cid="c21001003.2">
+				</crossref>
+				does man gain by all the toil
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				at which he toils under the sun?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21001004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				A generation goes, and a generation comes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="g" cid="c21001004.1">
+				</crossref>
+				the earth remains forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21001005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c21001005.1">
+				</crossref>
+				The sun rises, and the sun goes down,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and hastens
+				<note nid="n21001005.1">
+				</note>
+				 to the place where it rises.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21001006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c21001006.1">
+				</crossref>
+				The wind blows to the south
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and goes around to the north;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				around and around goes the wind,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and on its circuits the wind returns.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21001007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				All 
+				<crossref let="j" cid="c21001007.1">
+				</crossref>
+				streams run to the sea,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the sea is not full;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				to the place where the streams flow,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				there they flow again.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21001008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				All things are full of weariness;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a man cannot utter it;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c21001008.1">
+				</crossref>
+				the eye is not satisfied with seeing,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor the ear filled with hearing.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21001009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c21001009.1">
+				</crossref>
+				What has been is what will be,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and what has been done is what will be done,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and there is nothing new under the sun.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21001010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Is there a thing of which it is said,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See, this is new
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				It has been 
+				<crossref let="m" cid="c21001010.1">
+				</crossref>
+				already
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the ages before us.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21001011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				There is no 
+				<crossref let="n" cid="c21001011.1">
+				</crossref>
+				remembrance of former things,
+				<note nid="n21001011.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor will there be any remembrance
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				of later things
+				<note nid="n21001011.2">
+				</note>
+				 yet to be
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				among those who come after.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v21001012">
+			</marker>
+			<heading
+				>
+				The Vanity of Wisdom
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				I 
+				<crossref let="o" cid="c21001012.1">
+				</crossref>
+				the Preacher have been king over Israel in Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v21001013">
+			</marker>
+			<verse num="13">
+				And I 
+				<crossref let="p" cid="c21001013.1">
+				</crossref>
+				applied my heart
+				<note nid="n21001013.1">
+				</note>
+				 to seek and to search out by wisdom all that is done under heaven. It is an unhappy 
+				<crossref let="q" cid="c21001013.2">
+				</crossref>
+				business that God has given to the children of man to be busy with.
+			</verse>
+			<marker class="begin-verse" mid="v21001014">
+			</marker>
+			<verse num="14">
+				I have seen everything that is done under the sun, and behold, all is 
+				<crossref let="r" cid="c21001014.1">
+				</crossref>
+				vanity and a striving after wind.
+				<note nid="n21001014.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21001015">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c21001015.1">
+				</crossref>
+				What is crooked cannot be made straight,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and what is lacking cannot be counted.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v21001016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				I said in my heart, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have acquired great 
+				<crossref let="t" cid="c21001016.1">
+				</crossref>
+				wisdom, surpassing all who were over Jerusalem before me, and my heart has had great experience of wisdom and knowledge.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v21001017">
+			</marker>
+			<verse num="17">
+				And I 
+				<crossref let="u" cid="c21001017.1">
+				</crossref>
+				applied my heart to know wisdom and to know 
+				<crossref let="v" cid="c21001017.2">
+				</crossref>
+				madness and folly. I perceived that this also is but 
+				<crossref let="r" cid="c21001017.3">
+				</crossref>
+				a striving after wind.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21001018">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="w" cid="c21001018.1">
+				</crossref>
+				in much wisdom is much vexation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he who increases knowledge increases sorrow.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

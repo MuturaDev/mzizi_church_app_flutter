@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Proverbs" num="19">
+		<marker class="begin-verse" mid="v20018001">
+		</marker>
+		<chapter num="18">
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Whoever 
+				<crossref let="y" cid="c20018001.1">
+				</crossref>
+				isolates himself seeks his own desire;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he breaks out against all sound judgment.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				A fool takes no pleasure in understanding,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but only 
+				<crossref let="z" cid="c20018002.1">
+				</crossref>
+				in expressing his opinion.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				When wickedness comes, contempt comes also,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and with dishonor comes disgrace.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				The words of a man's mouth are 
+				<crossref let="a" cid="c20018004.1">
+				</crossref>
+				deep waters;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the fountain of wisdom is a bubbling brook.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				It is not good to 
+				<crossref let="b" cid="c20018005.1">
+				</crossref>
+				be partial to
+				<note nid="n20018005.1">
+				</note>
+				 the wicked
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or to 
+				<crossref let="c" cid="c20018005.2">
+				</crossref>
+				deprive the righteous of justice.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				A fool's lips walk into a fight,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his mouth invites 
+				<crossref let="d" cid="c20018006.1">
+				</crossref>
+				a beating.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c20018007.1">
+				</crossref>
+				A fool's mouth is his ruin,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his lips are a snare to his soul.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c20018008.1">
+				</crossref>
+				The words of a whisperer are like delicious morsels;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they go down into 
+				<crossref let="g" cid="c20018008.2">
+				</crossref>
+				the inner parts of the body.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Whoever is slack in his work
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is a 
+				<crossref let="h" cid="c20018009.1">
+				</crossref>
+				brother to him who destroys.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c20018010.1">
+				</crossref>
+				The name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is 
+				<crossref let="j" cid="c20018010.2">
+				</crossref>
+				a strong tower;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the righteous man runs into it and 
+				<crossref let="k" cid="c20018010.3">
+				</crossref>
+				is safe.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c20018011.1">
+				</crossref>
+				A rich man's wealth is his strong city,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and like a high wall in his imagination.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c20018012.1">
+				</crossref>
+				Before destruction a man's heart is haughty,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="n" cid="c20018012.2">
+				</crossref>
+				humility comes before honor.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				If one gives an answer 
+				<crossref let="o" cid="c20018013.1">
+				</crossref>
+				before he hears,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it is his folly and shame.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				A man's spirit will endure sickness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="p" cid="c20018014.1">
+				</crossref>
+				a crushed spirit who can bear?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				An intelligent heart acquires knowledge,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the ear of the wise seeks knowledge.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				A man's 
+				<crossref let="q" cid="c20018016.1">
+				</crossref>
+				gift makes room for him
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and brings him before the great.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				The one who states his case first seems right,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				until the other comes and examines him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c20018018.1">
+				</crossref>
+				The lot puts an end to quarrels
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and decides between powerful contenders.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				A brother offended is more unyielding than a strong city,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and quarreling is like the bars of a castle.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c20018020.1">
+				</crossref>
+				From the fruit of a man's mouth his stomach is satisfied;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he is satisfied by the yield of his lips.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c20018021.1">
+				</crossref>
+				Death and life are in the power of the tongue,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and those who love it will eat its fruits.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				He who finds 
+				<crossref let="u" cid="c20018022.1">
+				</crossref>
+				a wife finds 
+				<crossref let="v" cid="c20018022.2">
+				</crossref>
+				a good thing
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="w" cid="c20018022.3">
+				</crossref>
+				obtains favor 
+				<crossref let="x" cid="c20018022.4">
+				</crossref>
+				from the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				The poor use entreaties,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="y" cid="c20018023.1">
+				</crossref>
+				the rich answer roughly.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20018024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				A man of many companions may come to ruin,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="z" cid="c20018024.1">
+				</crossref>
+				there is a friend who sticks closer than a brother.
+				<end-line class="br">
+				</end-line>
+			</verse>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

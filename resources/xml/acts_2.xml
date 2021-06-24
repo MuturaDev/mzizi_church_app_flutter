@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Acts" num="43">
+		<marker class="begin-verse" mid="v44002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				The Coming of the Holy Spirit
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="1">
+				When 
+				<crossref let="f" cid="c44002001.1">
+				</crossref>
+				the day of Pentecost arrived, they were all together in one place.
+			</verse>
+			<marker class="begin-verse" mid="v44002002">
+			</marker>
+			<verse num="2">
+				And suddenly there came from heaven a sound like 
+				<crossref let="g" cid="c44002002.1">
+				</crossref>
+				a mighty rushing wind, and 
+				<crossref let="h" cid="c44002002.2">
+				</crossref>
+				it filled the entire house where they were sitting.
+			</verse>
+			<marker class="begin-verse" mid="v44002003">
+			</marker>
+			<verse num="3">
+				And divided tongues 
+				<crossref let="i" cid="c44002003.1">
+				</crossref>
+				as of fire appeared to them and rested
+				<note nid="n44002003.1">
+				</note>
+				 on each one of them.
+			</verse>
+			<marker class="begin-verse" mid="v44002004">
+			</marker>
+			<verse num="4">
+				And they were all 
+				<crossref let="j" cid="c44002004.1">
+				</crossref>
+				filled with the Holy Spirit and began 
+				<crossref let="k" cid="c44002004.2">
+				</crossref>
+				to speak in other tongues 
+				<crossref let="l" cid="c44002004.3">
+				</crossref>
+				as the Spirit gave them utterance.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44002005">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="5">
+				Now there were dwelling in Jerusalem Jews, devout men from every nation under heaven.
+			</verse>
+			<marker class="begin-verse" mid="v44002006">
+			</marker>
+			<verse num="6">
+				And 
+				<crossref let="m" cid="c44002006.1">
+				</crossref>
+				at this sound the multitude came together, and they were bewildered, because each one was hearing them speak in his own language.
+			</verse>
+			<marker class="begin-verse" mid="v44002007">
+			</marker>
+			<verse num="7">
+				And 
+				<crossref let="n" cid="c44002007.1">
+				</crossref>
+				they were amazed and astonished, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Are not all these who are speaking 
+				<crossref let="o" cid="c44002007.2">
+				</crossref>
+				Galileans?
+			</verse>
+			<marker class="begin-verse" mid="v44002008">
+			</marker>
+			<verse num="8">
+				And how is it that we hear, each of us in his own native language?
+			</verse>
+			<marker class="begin-verse" mid="v44002009">
+			</marker>
+			<verse num="9">
+				Parthians and 
+				<crossref let="p" cid="c44002009.1">
+				</crossref>
+				Medes and 
+				<crossref let="q" cid="c44002009.2">
+				</crossref>
+				Elamites and residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia,
+			</verse>
+			<marker class="begin-verse" mid="v44002010">
+			</marker>
+			<verse num="10">
+				Phrygia and Pamphylia, Egypt and the parts of Libya belonging to Cyrene, and visitors from Rome,
+			</verse>
+			<marker class="begin-verse" mid="v44002011">
+			</marker>
+			<verse num="11">
+				both Jews and 
+				<crossref let="r" cid="c44002011.1">
+				</crossref>
+				proselytes, Cretans and Arabiansùwe hear them telling in our own tongues the mighty works of God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44002012">
+			</marker>
+			<verse num="12">
+				And 
+				<crossref let="s" cid="c44002012.1">
+				</crossref>
+				all were amazed and perplexed, saying to one another, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What does this mean?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44002013">
+			</marker>
+			<verse num="13">
+				But others 
+				<crossref let="t" cid="c44002013.1">
+				</crossref>
+				mocking said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				They are filled with new wine.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44002014">
+			</marker>
+			<heading>
+				Peter's Sermon at Pentecost
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="14">
+				But Peter, standing with the eleven, lifted up his voice and addressed them: 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Men of Judea and all who dwell in Jerusalem, let this be known to you, and give ear to my words.
+			</verse>
+			<marker class="begin-verse" mid="v44002015">
+			</marker>
+			<verse num="15">
+				For these people are not drunk, as you suppose, 
+				<crossref let="u" cid="c44002015.1">
+				</crossref>
+				since it is only the third hour of the day.
+				<note nid="n44002015.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v44002016">
+			</marker>
+			<verse num="16">
+				But this is what was uttered through the prophet Joel:
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44002017">
+			</marker>
+			<begin-block-indent>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="17">
+				<begin-line>
+				</begin-line>
+				<crossref let="v" cid="c44002017.1">
+				</crossref>
+				<crossref cid="t44002017.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				And in the last days it shall be, God declares,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				<crossref let="w" cid="c44002017.2">
+				</crossref>
+				that I will pour out my Spirit 
+				<crossref let="x" cid="c44002017.3">
+				</crossref>
+				on all flesh,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				and your sons and 
+				<crossref let="y" cid="c44002017.4">
+				</crossref>
+				your daughters shall prophesy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your young men shall see visions,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your old men shall dream dreams;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v44002018">
+			</marker>
+			<verse num="18">
+				<begin-line>
+				</begin-line>
+				even on my male servants
+				<note nid="n44002018.1">
+				</note>
+				 and female servants
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in those days I will pour out my Spirit, and 
+				<crossref let="z" cid="c44002018.1">
+				</crossref>
+				they shall prophesy.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v44002019">
+			</marker>
+			<verse num="19">
+				<begin-line>
+				</begin-line>
+				And I will show wonders in the heavens above
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and signs on the earth below,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				blood, and fire, and vapor of smoke;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v44002020">
+			</marker>
+			<verse num="20">
+				<begin-line>
+				</begin-line>
+				<crossref let="a" cid="c44002020.1">
+				</crossref>
+				the sun shall be turned to darkness
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the moon to blood,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				before 
+				<crossref let="b" cid="c44002020.2">
+				</crossref>
+				the day of the Lord comes, the great and magnificent day.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v44002021">
+			</marker>
+			<verse num="21">
+				<begin-line>
+				</begin-line>
+				And it shall come to pass that 
+				<crossref let="c" cid="c44002021.1">
+				</crossref>
+				everyone who calls upon the name of the Lord shall be saved.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v44002022">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="22">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Men of Israel, hear these words: Jesus of Nazareth, 
+				<crossref let="d" cid="c44002022.1">
+				</crossref>
+				a man attested to you by God 
+				<crossref let="e" cid="c44002022.2">
+				</crossref>
+				with 
+				<crossref let="f" cid="c44002022.3">
+				</crossref>
+				mighty works and wonders and signs that 
+				<crossref let="g" cid="c44002022.4">
+				</crossref>
+				God did through him in your midst, as you yourselves knowù
+			</verse>
+			<marker class="begin-verse" mid="v44002023">
+			</marker>
+			<verse num="23">
+				this Jesus, 
+				<crossref let="h" cid="c44002023.1">
+				</crossref>
+				delivered up according to 
+				<crossref let="i" cid="c44002023.2">
+				</crossref>
+				the definite plan and 
+				<crossref let="j" cid="c44002023.3">
+				</crossref>
+				foreknowledge of God, 
+				<crossref let="k" cid="c44002023.4">
+				</crossref>
+				you crucified and killed by the hands of lawless men.
+			</verse>
+			<marker class="begin-verse" mid="v44002024">
+			</marker>
+			<verse num="24">
+				<crossref let="l" cid="c44002024.1">
+				</crossref>
+				God raised him up, loosing the pangs of death, because 
+				<crossref let="m" cid="c44002024.2">
+				</crossref>
+				it was not possible for him to be held by it.
+			</verse>
+			<marker class="begin-verse" mid="v44002025">
+			</marker>
+			<verse num="25">
+				For David says concerning him,
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="n" cid="c44002025.1">
+				</crossref>
+				<crossref cid="t44002025.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I saw the Lord always before me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for he is at my right hand that I may not be shaken;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v44002026">
+			</marker>
+			<verse num="26">
+				<begin-line>
+				</begin-line>
+				therefore my heart was glad, and my tongue rejoiced;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my flesh also will dwell 
+				<crossref let="o" cid="c44002026.1">
+				</crossref>
+				in hope.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v44002027">
+			</marker>
+			<verse num="27">
+				<begin-line>
+				</begin-line>
+				For you will not abandon my soul to 
+				<crossref let="p" cid="c44002027.1">
+				</crossref>
+				Hades,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c44002027.2">
+				</crossref>
+				or let your 
+				<crossref let="r" cid="c44002027.3">
+				</crossref>
+				Holy One 
+				<crossref let="s" cid="c44002027.4">
+				</crossref>
+				see corruption.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v44002028">
+			</marker>
+			<verse num="28">
+				<begin-line>
+				</begin-line>
+				You have made known to me the paths of life;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you will make me full of gladness with your presence.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v44002029">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="29">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Brothers, I may say to you with confidence about 
+				<crossref let="t" cid="c44002029.1">
+				</crossref>
+				the patriarch David 
+				<crossref let="u" cid="c44002029.2">
+				</crossref>
+				that he both died and 
+				<crossref let="v" cid="c44002029.3">
+				</crossref>
+				was buried, and 
+				<crossref let="w" cid="c44002029.4">
+				</crossref>
+				his tomb is with us to this day.
+			</verse>
+			<marker class="begin-verse" mid="v44002030">
+			</marker>
+			<verse num="30">
+				<crossref let="x" cid="c44002030.1">
+				</crossref>
+				Being therefore a prophet, and knowing that 
+				<crossref let="y" cid="c44002030.2">
+				</crossref>
+				God had sworn with an oath to him that he would set one of his descendants on his throne,
+			</verse>
+			<marker class="begin-verse" mid="v44002031">
+			</marker>
+			<verse num="31">
+				he foresaw and spoke about the resurrection of the Christ, that 
+				<crossref let="z" cid="c44002031.1">
+				</crossref>
+				he was not abandoned to Hades, nor did his flesh see corruption.
+			</verse>
+			<marker class="begin-verse" mid="v44002032">
+			</marker>
+			<verse num="32">
+				This Jesus 
+				<crossref let="a" cid="c44002032.1">
+				</crossref>
+				God raised up, 
+				<crossref let="b" cid="c44002032.2">
+				</crossref>
+				and of that we all are witnesses.
+			</verse>
+			<marker class="begin-verse" mid="v44002033">
+			</marker>
+			<verse num="33">
+				<crossref let="c" cid="c44002033.1">
+				</crossref>
+				Being therefore 
+				<crossref let="d" cid="c44002033.2">
+				</crossref>
+				exalted at the right hand of God, and having received from 
+				<crossref let="e" cid="c44002033.3">
+				</crossref>
+				the Father 
+				<crossref let="f" cid="c44002033.4">
+				</crossref>
+				the promise of the Holy Spirit, 
+				<crossref let="g" cid="c44002033.5">
+				</crossref>
+				he has poured out this that you yourselves are seeing and hearing.
+			</verse>
+			<marker class="begin-verse" mid="v44002034">
+			</marker>
+			<verse num="34">
+				For 
+				<crossref let="h" cid="c44002034.1">
+				</crossref>
+				David did not ascend into the heavens, but he himself says,
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="i" cid="c44002034.2">
+				</crossref>
+				<crossref cid="t44002034.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The Lord said to my Lord,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				Sit at my right hand,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v44002035">
+			</marker>
+			<verse num="35">
+				<begin-line class="indent">
+				</begin-line>
+				until I make your enemies your footstool.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v44002036">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="36">
+				Let all the house of Israel therefore know for certain that 
+				<crossref let="j" cid="c44002036.1">
+				</crossref>
+				God has made him 
+				<crossref let="k" cid="c44002036.2">
+				</crossref>
+				both Lord and Christ, this Jesus 
+				<crossref let="l" cid="c44002036.3">
+				</crossref>
+				whom you crucified.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44002037">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="37">
+				Now when 
+				<crossref let="m" cid="c44002037.1">
+				</crossref>
+				they heard this they were cut to the heart, and said to Peter and the rest of the apostles, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Brothers, 
+				<crossref let="n" cid="c44002037.2">
+				</crossref>
+				what shall we do?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44002038">
+			</marker>
+			<verse num="38">
+				And Peter said to them, 
+				<crossref let="o" cid="c44002038.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Repent and 
+				<crossref let="p" cid="c44002038.2">
+				</crossref>
+				be baptized every one of you 
+				<crossref let="q" cid="c44002038.3">
+				</crossref>
+				in the name of Jesus Christ 
+				<crossref let="r" cid="c44002038.4">
+				</crossref>
+				for the forgiveness of your sins, and you will receive 
+				<crossref let="s" cid="c44002038.5">
+				</crossref>
+				the gift of the Holy Spirit.
+			</verse>
+			<marker class="begin-verse" mid="v44002039">
+			</marker>
+			<verse num="39">
+				For 
+				<crossref let="t" cid="c44002039.1">
+				</crossref>
+				the promise is for you and 
+				<crossref let="u" cid="c44002039.2">
+				</crossref>
+				for your children and for all 
+				<crossref let="v" cid="c44002039.3">
+				</crossref>
+				who are far off, everyone 
+				<crossref let="w" cid="c44002039.4">
+				</crossref>
+				whom the Lord our God calls to himself.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44002040">
+			</marker>
+			<verse num="40">
+				And with many other words he bore witness and continued to exhort them, saying, 
+				<crossref let="x" cid="c44002040.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Save yourselves from this 
+				<crossref let="y" cid="c44002040.2">
+				</crossref>
+				crooked generation.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44002041">
+			</marker>
+			<verse num="41">
+				So those who received his word were baptized, and 
+				<crossref let="z" cid="c44002041.1">
+				</crossref>
+				there were added that day about three thousand souls.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44002042">
+			</marker>
+			<heading>
+				The Fellowship of the Believers
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="42">
+				And 
+				<crossref let="a" cid="c44002042.1">
+				</crossref>
+				they devoted themselves to the apostles' 
+				<crossref let="b" cid="c44002042.2">
+				</crossref>
+				teaching and the 
+				<crossref let="c" cid="c44002042.3">
+				</crossref>
+				fellowship, to 
+				<crossref let="d" cid="c44002042.4">
+				</crossref>
+				the breaking of bread and the prayers.
+			</verse>
+			<marker class="begin-verse" mid="v44002043">
+			</marker>
+			<verse num="43">
+				And awe
+				<note nid="n44002043.1">
+				</note>
+				 came upon every soul, and 
+				<crossref let="e" cid="c44002043.1">
+				</crossref>
+				many wonders and signs were being done through the apostles.
+			</verse>
+			<marker class="begin-verse" mid="v44002044">
+			</marker>
+			<verse num="44">
+				And all who believed were together and 
+				<crossref let="f" cid="c44002044.1">
+				</crossref>
+				had all things in common.
+			</verse>
+			<marker class="begin-verse" mid="v44002045">
+			</marker>
+			<verse num="45">
+				And 
+				<crossref let="f" cid="c44002045.1">
+				</crossref>
+				they were selling their possessions and belongings and distributing the proceeds to all, as any had need.
+			</verse>
+			<marker class="begin-verse" mid="v44002046">
+			</marker>
+			<verse num="46">
+				And day by day, 
+				<crossref let="g" cid="c44002046.1">
+				</crossref>
+				attending the temple 
+				<crossref let="h" cid="c44002046.2">
+				</crossref>
+				together and 
+				<crossref let="i" cid="c44002046.3">
+				</crossref>
+				breaking bread in their homes, they received their food 
+				<crossref let="j" cid="c44002046.4">
+				</crossref>
+				with glad and generous hearts,
+			</verse>
+			<marker class="begin-verse" mid="v44002047">
+			</marker>
+			<verse num="47">
+				praising God and 
+				<crossref let="k" cid="c44002047.1">
+				</crossref>
+				having favor with all the people. And the Lord 
+				<crossref let="l" cid="c44002047.2">
+				</crossref>
+				added to their number 
+				<crossref let="m" cid="c44002047.3">
+				</crossref>
+				day by day those who 
+				<crossref let="n" cid="c44002047.4">
+				</crossref>
+				were being saved.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Jeremiah" num="23">
+		<marker class="begin-verse" mid="v24029001">
+		</marker>
+		<chapter num="29">
+			<heading
+				>
+				Jeremiah's Letter to the Exiles
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				These are the words of the letter that Jeremiah the prophet sent from Jerusalem to 
+				<crossref let="i" cid="c24029001.1">
+				</crossref>
+				the surviving elders of the exiles, and to 
+				<crossref let="j" cid="c24029001.2">
+				</crossref>
+				the priests, 
+				<crossref let="j" cid="c24029001.3">
+				</crossref>
+				the prophets, and 
+				<crossref let="j" cid="c24029001.4">
+				</crossref>
+				all the people, whom Nebuchadnezzar had taken into exile from Jerusalem to Babylon.
+			</verse>
+			<marker class="begin-verse" mid="v24029002">
+			</marker>
+			<verse num="2">
+				This was after 
+				<crossref let="k" cid="c24029002.1">
+				</crossref>
+				King Jeconiah and the queen mother, the eunuchs, the officials of Judah and Jerusalem, the craftsmen, and the metal workers had departed from Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v24029003">
+			</marker>
+			<verse num="3">
+				The letter was sent by the hand of Elasah the son of 
+				<crossref let="l" cid="c24029003.1">
+				</crossref>
+				Shaphan and Gemariah the son of 
+				<crossref let="m" cid="c24029003.2">
+				</crossref>
+				Hilkiah, whom Zedekiah king of Judah sent to Babylon to Nebuchadnezzar king of Babylon. It said:
+			</verse>
+			<marker class="begin-verse" mid="v24029004">
+			</marker>
+			<verse num="4">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts, the God of Israel, to all the exiles whom I have sent into exile from Jerusalem to Babylon:
+			</verse>
+			<marker class="begin-verse" mid="v24029005">
+			</marker>
+			<verse num="5">
+				<crossref let="n" cid="c24029005.1">
+				</crossref>
+				Build houses and live in them; plant gardens and eat their produce.
+			</verse>
+			<marker class="begin-verse" mid="v24029006">
+			</marker>
+			<verse num="6">
+				Take wives and have sons and daughters; take wives for your sons, and give your daughters in marriage, that they may bear sons and daughters; multiply there, and do not decrease.
+			</verse>
+			<marker class="begin-verse" mid="v24029007">
+			</marker>
+			<verse num="7">
+				But seek the welfare of the city where I have sent you into exile, and 
+				<crossref let="o" cid="c24029007.1">
+				</crossref>
+				pray to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 on its behalf, for in its welfare you will find your welfare.
+			</verse>
+			<marker class="begin-verse" mid="v24029008">
+			</marker>
+			<verse num="8">
+				For thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts, the God of Israel: 
+				<crossref let="p" cid="c24029008.1">
+				</crossref>
+				Do not let your prophets and 
+				<crossref let="q" cid="c24029008.2">
+				</crossref>
+				your diviners who are among you deceive you, and do not listen to the dreams that they dream,
+				<note nid="n24029008.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v24029009">
+			</marker>
+			<verse num="9">
+				for 
+				<crossref let="r" cid="c24029009.1">
+				</crossref>
+				it is a lie that they are prophesying to you in my name; 
+				<crossref let="s" cid="c24029009.2">
+				</crossref>
+				I did not send them, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v24029010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				For thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				: 
+				<crossref let="t" cid="c24029010.1">
+				</crossref>
+				When seventy years are completed for Babylon, 
+				<crossref let="u" cid="c24029010.2">
+				</crossref>
+				I will visit you, 
+				<crossref let="v" cid="c24029010.3">
+				</crossref>
+				and I will fulfill to you my promise 
+				<crossref let="v" cid="c24029010.4">
+				</crossref>
+				and bring you back to this place.
+			</verse>
+			<marker class="begin-verse" mid="v24029011">
+			</marker>
+			<verse num="11">
+				<crossref let="w" cid="c24029011.1">
+				</crossref>
+				For I know the plans I have for you, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, plans for welfare
+				<note nid="n24029011.1">
+				</note>
+				 and not for evil, 
+				<crossref let="x" cid="c24029011.2">
+				</crossref>
+				to give you a future and a hope.
+			</verse>
+			<marker class="begin-verse" mid="v24029012">
+			</marker>
+			<verse num="12">
+				<crossref let="y" cid="c24029012.1">
+				</crossref>
+				Then you will call upon me and come and pray to me, 
+				<crossref let="y" cid="c24029012.2">
+				</crossref>
+				and I will hear you.
+			</verse>
+			<marker class="begin-verse" mid="v24029013">
+			</marker>
+			<verse num="13">
+				<crossref let="z" cid="c24029013.1">
+				</crossref>
+				You will seek me and find me, when you seek me 
+				<crossref let="a" cid="c24029013.2">
+				</crossref>
+				with all your heart.
+			</verse>
+			<marker class="begin-verse" mid="v24029014">
+			</marker>
+			<verse num="14">
+				I will be found by you, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="b" cid="c24029014.1">
+				</crossref>
+				and I will restore your fortunes and 
+				<crossref let="c" cid="c24029014.2">
+				</crossref>
+				gather you from all the nations and all the places 
+				<crossref let="d" cid="c24029014.3">
+				</crossref>
+				where I have driven you, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and I will bring you back to the place from which I sent you into exile.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v24029015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Because you have said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has raised up prophets for us in Babylon,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v24029016">
+			</marker>
+			<verse num="16">
+				thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 concerning 
+				<crossref let="e" cid="c24029016.1">
+				</crossref>
+				the king who sits on the throne of David, and concerning all the people who dwell in this city, your kinsmen who did not go out with you into exile:
+			</verse>
+			<marker class="begin-verse" mid="v24029017">
+			</marker>
+			<verse num="17">
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts, behold, I am sending on them 
+				<crossref let="f" cid="c24029017.1">
+				</crossref>
+				sword, famine, and pestilence, and I will make them like 
+				<crossref let="g" cid="c24029017.2">
+				</crossref>
+				vile figs that are so rotten they cannot be eaten.
+			</verse>
+			<marker class="begin-verse" mid="v24029018">
+			</marker>
+			<verse num="18">
+				I will pursue them with 
+				<crossref let="f" cid="c24029018.1">
+				</crossref>
+				sword, famine, and pestilence, 
+				<crossref let="h" cid="c24029018.2">
+				</crossref>
+				and will make them a horror to all the kingdoms of the earth, 
+				<crossref let="i" cid="c24029018.3">
+				</crossref>
+				to be a curse, a terror, a hissing, and a reproach among all the nations 
+				<crossref let="d" cid="c24029018.4">
+				</crossref>
+				where I have driven them,
+			</verse>
+			<marker class="begin-verse" mid="v24029019">
+			</marker>
+			<verse num="19">
+				because they did not pay attention to my words, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="j" cid="c24029019.1">
+				</crossref>
+				that I persistently sent to you by my servants the prophets, but you would not listen, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v24029020">
+			</marker>
+			<verse num="20">
+				Hear the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, all you exiles 
+				<crossref let="k" cid="c24029020.1">
+				</crossref>
+				whom I sent away from Jerusalem to Babylon:
+			</verse>
+			<marker class="begin-verse" mid="v24029021">
+			</marker>
+			<verse num="21">
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts, the God of Israel, concerning Ahab the son of Kolaiah and Zedekiah the son of Maaseiah, 
+				<crossref let="l" cid="c24029021.1">
+				</crossref>
+				who are prophesying a lie to you in my name: Behold, I will deliver them into the hand of Nebuchadnezzar king of Babylon, and he shall strike them down before your eyes.
+			</verse>
+			<marker class="begin-verse" mid="v24029022">
+			</marker>
+			<verse num="22">
+				<crossref let="m" cid="c24029022.1">
+				</crossref>
+				Because of them 
+				<crossref let="n" cid="c24029022.2">
+				</crossref>
+				this curse shall be used by all the exiles from Judah in Babylon: 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 make you like Zedekiah and Ahab, 
+				<crossref let="o" cid="c24029022.3">
+				</crossref>
+				whom the king of Babylon roasted in the fire,
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v24029023">
+			</marker>
+			<verse num="23">
+				because they have done an outrageous thing in Israel, 
+				<crossref let="p" cid="c24029023.1">
+				</crossref>
+				they have committed adultery with their neighbors' wives, and 
+				<crossref let="p" cid="c24029023.2">
+				</crossref>
+				they have spoken in my name lying words that I did not command them. 
+				<crossref let="q" cid="c24029023.3">
+				</crossref>
+				I am the one who knows, 
+				<crossref let="q" cid="c24029023.4">
+				</crossref>
+				and I am witness, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v24029024">
+			</marker>
+			<heading
+				>
+				Shemaiah's False Prophecy
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				To 
+				<crossref let="r" cid="c24029024.1">
+				</crossref>
+				Shemaiah of Nehelam you shall say:
+			</verse>
+			<marker class="begin-verse" mid="v24029025">
+			</marker>
+			<verse num="25">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts, the God of Israel: You have sent letters in your name to all the people who are in Jerusalem, and to 
+				<crossref let="s" cid="c24029025.1">
+				</crossref>
+				Zephaniah the son of 
+				<crossref let="t" cid="c24029025.2">
+				</crossref>
+				Maaseiah the priest, and to all the priests, saying,
+			</verse>
+			<marker class="begin-verse" mid="v24029026">
+			</marker>
+			<verse num="26">
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has made you priest instead of Jehoiada the priest, to have 
+				<crossref let="u" cid="c24029026.1">
+				</crossref>
+				charge in the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="v" cid="c24029026.2">
+				</crossref>
+				over every madman who prophesies, to put him in 
+				<crossref let="w" cid="c24029026.3">
+				</crossref>
+				the stocks and neck irons.
+			</verse>
+			<marker class="begin-verse" mid="v24029027">
+			</marker>
+			<verse num="27">
+				Now why have you not rebuked Jeremiah 
+				<crossref let="x" cid="c24029027.1">
+				</crossref>
+				of Anathoth who is prophesying to you?
+			</verse>
+			<marker class="begin-verse" mid="v24029028">
+			</marker>
+			<verse num="28">
+				For he has sent to us in Babylon, saying, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				Your exile will be long; 
+				<crossref let="y" cid="c24029028.1">
+				</crossref>
+				build houses and live in them, and plant gardens and eat their produce.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v24029029">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				<crossref let="s" cid="c24029029.1">
+				</crossref>
+				Zephaniah the priest read this letter in the hearing of Jeremiah the prophet.
+			</verse>
+			<marker class="begin-verse" mid="v24029030">
+			</marker>
+			<verse num="30">
+				<crossref let="z" cid="c24029030.1">
+				</crossref>
+				Then the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to Jeremiah:
+			</verse>
+			<marker class="begin-verse" mid="v24029031">
+			</marker>
+			<verse num="31">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Send to all the exiles, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 concerning 
+				<crossref let="a" cid="c24029031.1">
+				</crossref>
+				Shemaiah of Nehelam: Because 
+				<crossref let="a" cid="c24029031.2">
+				</crossref>
+				Shemaiah had prophesied to you 
+				<crossref let="b" cid="c24029031.3">
+				</crossref>
+				when I did not send him, and has made you trust in a lie,
+			</verse>
+			<marker class="begin-verse" mid="v24029032">
+			</marker>
+			<verse num="32">
+				therefore thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				: Behold, I will punish 
+				<crossref let="a" cid="c24029032.1">
+				</crossref>
+				Shemaiah of Nehelam and his descendants. He shall not have anyone living among this people, 
+				<crossref let="c" cid="c24029032.2">
+				</crossref>
+				and he shall not see the good that I will do to my people, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="d" cid="c24029032.3">
+				</crossref>
+				for he has spoken rebellion against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

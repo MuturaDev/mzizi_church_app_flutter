@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18012001">
+		</marker>
+		<chapter num="12">
+			<heading
+				>
+				Job Replies: The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Has Done This
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then Job answered and said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18012002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No doubt you are the people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and wisdom will die with you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				But I have 
+				<crossref let="b" cid="c18012003.1">
+				</crossref>
+				understanding as well as you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I am not inferior to you.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Who does not know 
+				<crossref let="c" cid="c18012003.2">
+				</crossref>
+				such things as these?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				I am 
+				<crossref let="d" cid="c18012004.1">
+				</crossref>
+				a laughingstock to my friends;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I, who 
+				<crossref let="e" cid="c18012004.2">
+				</crossref>
+				called to God and he answered me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a just and blameless man, am a laughingstock.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				In the thought of one who is 
+				<crossref let="f" cid="c18012005.1">
+				</crossref>
+				at ease there is contempt for misfortune;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it is ready for those whose feet slip.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c18012006.1">
+				</crossref>
+				The tents of robbers are at peace,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and those who provoke God are secure,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who bring their god in their hand.
+				<note nid="n18012006.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18012007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				But ask the beasts, and they will teach you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the birds of the heavens, and they will tell you;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				or the bushes of the earth,
+				<note nid="n18012008.1">
+				</note>
+				 and they will teach you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the fish of the sea will declare to you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Who among all these does not know
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that 
+				<crossref let="h" cid="c18012009.1">
+				</crossref>
+				the hand of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has done this?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				In 
+				<crossref let="i" cid="c18012010.1">
+				</crossref>
+				his hand is the life of every living thing
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the breath of all mankind.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Does not 
+				<crossref let="j" cid="c18012011.1">
+				</crossref>
+				the ear test words
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as the palate tastes food?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Wisdom is with 
+				<crossref let="k" cid="c18012012.1">
+				</crossref>
+				the aged,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and understanding in length of days.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18012013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c18012013.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				With God
+				<note nid="n18012013.1">
+				</note>
+				 are wisdom and might;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he has counsel and understanding.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				If he tears down, none can rebuild;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				if he 
+				<crossref let="m" cid="c18012014.1">
+				</crossref>
+				shuts a man in, none can open.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				If he 
+				<crossref let="n" cid="c18012015.1">
+				</crossref>
+				withholds the waters, they dry up;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				if he 
+				<crossref let="o" cid="c18012015.2">
+				</crossref>
+				sends them out, they overwhelm the land.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				With him are strength and 
+				<crossref let="p" cid="c18012016.1">
+				</crossref>
+				sound wisdom;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the deceived and the deceiver are his.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				He leads 
+				<crossref let="q" cid="c18012017.1">
+				</crossref>
+				counselors away stripped,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="r" cid="c18012017.2">
+				</crossref>
+				judges he makes fools.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="s" cid="c18012018.1">
+				</crossref>
+				looses the bonds of kings
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and binds a waistcloth on their hips.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				He leads priests away stripped
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and overthrows the mighty.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				He deprives of speech those who are trusted
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c18012020.1">
+				</crossref>
+				and takes away the discernment of the elders.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="u" cid="c18012021.1">
+				</crossref>
+				pours contempt on princes
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and loosens the belt of the strong.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="v" cid="c18012022.1">
+				</crossref>
+				uncovers the deeps out of darkness
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and brings 
+				<crossref let="w" cid="c18012022.2">
+				</crossref>
+				deep darkness to light.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="x" cid="c18012023.1">
+				</crossref>
+				makes nations great, and he destroys them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he enlarges nations, and 
+				<crossref let="y" cid="c18012023.2">
+				</crossref>
+				leads them away.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				He takes away understanding from the chiefs of the people of the earth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="z" cid="c18012024.1">
+				</crossref>
+				makes them wander in a pathless waste.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18012025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				They 
+				<crossref let="a" cid="c18012025.1">
+				</crossref>
+				grope in the dark without light,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he makes them 
+				<crossref let="b" cid="c18012025.2">
+				</crossref>
+				stagger like a drunken man.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

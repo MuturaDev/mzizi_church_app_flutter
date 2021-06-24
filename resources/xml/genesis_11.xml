@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01011001">
+		</marker>
+		<chapter num="11">
+			<heading
+				>
+				The Tower of Babel
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now the whole earth had one language and the same words.
+			</verse>
+			<marker class="begin-verse" mid="v01011002">
+			</marker>
+			<verse num="2">
+				And as people migrated from the east, they found a plain in 
+				<crossref let="z" cid="c01011002.1">
+				</crossref>
+				the land of Shinar and settled there.
+			</verse>
+			<marker class="begin-verse" mid="v01011003">
+			</marker>
+			<verse num="3">
+				And they said to one another, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come, let us make bricks, and burn them thoroughly.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And they had brick for stone, 
+				<crossref let="a" cid="c01011003.1">
+				</crossref>
+				and bitumen for mortar.
+			</verse>
+			<marker class="begin-verse" mid="v01011004">
+			</marker>
+			<verse num="4">
+				Then they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come, let us build ourselves a city and a tower 
+				<crossref let="b" cid="c01011004.1">
+				</crossref>
+				with its top in the heavens, and let us make a name for ourselves, lest we be dispersed over the face of the whole earth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01011005">
+			</marker>
+			<verse num="5">
+				And 
+				<crossref let="c" cid="c01011005.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came down to see the city and the tower, which the children of man had built.
+			</verse>
+			<marker class="begin-verse" mid="v01011006">
+			</marker>
+			<verse num="6">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, they are one people, and they have all one language, and this is only the beginning of what they will do. And nothing that they propose to do will now be impossible for them.
+			</verse>
+			<marker class="begin-verse" mid="v01011007">
+			</marker>
+			<verse num="7">
+				Come, 
+				<crossref let="d" cid="c01011007.1">
+				</crossref>
+				let us go down and there confuse their language, so that they may not understand one another's speech.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01011008">
+			</marker>
+			<verse num="8">
+				So 
+				<crossref let="e" cid="c01011008.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 dispersed them from there over the face of all the earth, and they left off building the city.
+			</verse>
+			<marker class="begin-verse" mid="v01011009">
+			</marker>
+			<verse num="9">
+				Therefore its name was called 
+				<crossref let="f" cid="c01011009.1">
+				</crossref>
+				Babel, because there the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 confused
+				<note nid="n01011009.1">
+				</note>
+				 the language of all the earth. And from there the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 dispersed them over the face of all the earth.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01011010">
+			</marker>
+			<heading
+				>
+				Shem's Descendants
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				<crossref let="g" cid="c01011010.1">
+				</crossref>
+				These are the generations of Shem. When Shem was 100 years old, he fathered Arpachshad two years after the flood.
+			</verse>
+			<marker class="begin-verse" mid="v01011011">
+			</marker>
+			<verse num="11">
+				And Shem lived after he fathered Arpachshad 500 years and had other sons and daughters.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01011012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				When Arpachshad had lived 35 years, he fathered Shelah.
+			</verse>
+			<marker class="begin-verse" mid="v01011013">
+			</marker>
+			<verse num="13">
+				And Arpachshad lived after he fathered Shelah 403 years and had other sons and daughters.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01011014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				When Shelah had lived 30 years, he fathered Eber.
+			</verse>
+			<marker class="begin-verse" mid="v01011015">
+			</marker>
+			<verse num="15">
+				And Shelah lived after he fathered Eber 403 years and had other sons and daughters.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01011016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				When Eber had lived 34 years, he fathered Peleg.
+			</verse>
+			<marker class="begin-verse" mid="v01011017">
+			</marker>
+			<verse num="17">
+				And Eber lived after he fathered Peleg 430 years and had other sons and daughters.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01011018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				When Peleg had lived 30 years, he fathered Reu.
+			</verse>
+			<marker class="begin-verse" mid="v01011019">
+			</marker>
+			<verse num="19">
+				And Peleg lived after he fathered Reu 209 years and had other sons and daughters.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01011020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				When Reu had lived 32 years, he fathered Serug.
+			</verse>
+			<marker class="begin-verse" mid="v01011021">
+			</marker>
+			<verse num="21">
+				And Reu lived after he fathered Serug 207 years and had other sons and daughters.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01011022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				When Serug had lived 30 years, he fathered Nahor.
+			</verse>
+			<marker class="begin-verse" mid="v01011023">
+			</marker>
+			<verse num="23">
+				And Serug lived after he fathered Nahor 200 years and had other sons and daughters.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01011024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				When 
+				<crossref let="h" cid="c01011024.1">
+				</crossref>
+				Nahor had lived 29 years, he fathered Terah.
+			</verse>
+			<marker class="begin-verse" mid="v01011025">
+			</marker>
+			<verse num="25">
+				And Nahor lived after he fathered Terah 119 years and had other sons and daughters.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01011026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				When 
+				<crossref let="h" cid="c01011026.1">
+				</crossref>
+				Terah had lived 70 years, he fathered Abram, Nahor, and Haran.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01011027">
+			</marker>
+			<heading
+				>
+				Terah's Descendants
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				Now these are the generations of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot.
+			</verse>
+			<marker class="begin-verse" mid="v01011028">
+			</marker>
+			<verse num="28">
+				Haran died in the presence of his father Terah in the land of his kindred, in Ur of the Chaldeans.
+			</verse>
+			<marker class="begin-verse" mid="v01011029">
+			</marker>
+			<verse num="29">
+				And Abram and Nahor took wives. The name of Abram's wife was 
+				<crossref let="i" cid="c01011029.1">
+				</crossref>
+				Sarai, and the name of Nahor's wife, 
+				<crossref let="j" cid="c01011029.2">
+				</crossref>
+				Milcah, the daughter of Haran the father of Milcah and Iscah.
+			</verse>
+			<marker class="begin-verse" mid="v01011030">
+			</marker>
+			<verse num="30">
+				Now Sarai was barren; she had no child.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01011031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				Terah 
+				<crossref let="k" cid="c01011031.1">
+				</crossref>
+				took Abram his son and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram's wife, and they went forth together 
+				<crossref let="l" cid="c01011031.2">
+				</crossref>
+				from Ur of the Chaldeans to go into the land of Canaan, but when they came to Haran, they settled there.
+			</verse>
+			<marker class="begin-verse" mid="v01011032">
+			</marker>
+			<verse num="32">
+				The days of Terah were 205 years, and Terah died in Haran.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Samuel" num="9">
+		<marker class="begin-verse" mid="v10002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				David Anointed King of Judah
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				After this David 
+				<crossref let="e" cid="c10002001.1">
+				</crossref>
+				inquired of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Shall I go up into any of the cities of Judah?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go up.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 David said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				To which shall I go up?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				To 
+				<crossref let="f" cid="c10002001.2">
+				</crossref>
+				Hebron.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10002002">
+			</marker>
+			<verse num="2">
+				So David went up there, and 
+				<crossref let="g" cid="c10002002.1">
+				</crossref>
+				his two wives also, Ahinoam of Jezreel and Abigail the widow of Nabal of Carmel.
+			</verse>
+			<marker class="begin-verse" mid="v10002003">
+			</marker>
+			<verse num="3">
+				And David brought up 
+				<crossref let="h" cid="c10002003.1">
+				</crossref>
+				his men who were with him, everyone with his household, and they lived in the towns of Hebron.
+			</verse>
+			<marker class="begin-verse" mid="v10002004">
+			</marker>
+			<verse num="4">
+				And the men of Judah came, and there they anointed David 
+				<crossref let="i" cid="c10002004.1">
+				</crossref>
+				king over the house of Judah.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				When they told David, 
+				<crossref let="j" cid="c10002004.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It was the men of Jabesh-gilead who buried Saul,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10002005">
+			</marker>
+			<verse num="5">
+				David sent messengers to the men of Jabesh-gilead and said to them, 
+				<crossref let="k" cid="c10002005.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				May you be blessed by the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, because you showed this loyalty to Saul your lord and buried him.
+			</verse>
+			<marker class="begin-verse" mid="v10002006">
+			</marker>
+			<verse num="6">
+				Now may the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 show steadfast love and faithfulness to you. And I will do good to you because you have done this thing.
+			</verse>
+			<marker class="begin-verse" mid="v10002007">
+			</marker>
+			<verse num="7">
+				Now therefore let your hands be strong, and be valiant, for Saul your lord 
+				<crossref let="i" cid="c10002007.1">
+				</crossref>
+				is dead, and the house of Judah has anointed me king over them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10002008">
+			</marker>
+			<heading
+				>
+				Ish-bosheth Made King of Israel
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				But 
+				<crossref let="l" cid="c10002008.1">
+				</crossref>
+				Abner the son of Ner, commander of Saul's army, took Ish-bosheth the son of Saul and brought him over to 
+				<crossref let="m" cid="c10002008.2">
+				</crossref>
+				Mahanaim,
+			</verse>
+			<marker class="begin-verse" mid="v10002009">
+			</marker>
+			<verse num="9">
+				and he made him king over Gilead and the Ashurites and Jezreel and Ephraim and Benjamin and all Israel.
+			</verse>
+			<marker class="begin-verse" mid="v10002010">
+			</marker>
+			<verse num="10">
+				Ish-bosheth, Saul's son, was forty years old when he began to reign over Israel, and he reigned two years. But the house of Judah followed David.
+			</verse>
+			<marker class="begin-verse" mid="v10002011">
+			</marker>
+			<verse num="11">
+				<crossref let="n" cid="c10002011.1">
+				</crossref>
+				And the time that David was king in Hebron over 
+				<crossref let="i" cid="c10002011.2">
+				</crossref>
+				the house of Judah was seven years and six months.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10002012">
+			</marker>
+			<heading
+				>
+				The Battle of Gibeon
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				Abner the son of Ner, and the servants of Ish-bosheth the son of Saul, went out from Mahanaim to Gibeon.
+			</verse>
+			<marker class="begin-verse" mid="v10002013">
+			</marker>
+			<verse num="13">
+				And Joab the son of Zeruiah and the servants of David went out and met them at 
+				<crossref let="o" cid="c10002013.1">
+				</crossref>
+				the pool of Gibeon. And they sat down, the one on the one side of the pool, and the other on the other side of the pool.
+			</verse>
+			<marker class="begin-verse" mid="v10002014">
+			</marker>
+			<verse num="14">
+				And Abner said to Joab, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let the young men arise and compete before us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Joab said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let them arise.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10002015">
+			</marker>
+			<verse num="15">
+				Then they arose and passed over by number, twelve for Benjamin and Ish-bosheth the son of Saul, and twelve of the servants of David.
+			</verse>
+			<marker class="begin-verse" mid="v10002016">
+			</marker>
+			<verse num="16">
+				And each caught his opponent by the head and thrust his sword in his opponent's side, so they fell down together. Therefore that place was called Helkath-hazzurim,
+				<note nid="n10002016.1">
+				</note>
+				 which is at Gibeon.
+			</verse>
+			<marker class="begin-verse" mid="v10002017">
+			</marker>
+			<verse num="17">
+				And the battle was very fierce that day. And Abner and the men of Israel were beaten before the servants of David.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10002018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				And the 
+				<crossref let="p" cid="c10002018.1">
+				</crossref>
+				three sons of Zeruiah were there, Joab, Abishai, and Asahel. Now Asahel was 
+				<crossref let="q" cid="c10002018.2">
+				</crossref>
+				as swift of foot as a wild gazelle.
+			</verse>
+			<marker class="begin-verse" mid="v10002019">
+			</marker>
+			<verse num="19">
+				And Asahel pursued Abner, and as he went, he turned neither to the right hand nor to the left from following Abner.
+			</verse>
+			<marker class="begin-verse" mid="v10002020">
+			</marker>
+			<verse num="20">
+				Then Abner looked behind him and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is it you, Asahel?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is I.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10002021">
+			</marker>
+			<verse num="21">
+				Abner said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Turn aside to your right hand or to your left, and seize one of the young men and take his spoil.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But Asahel would not turn aside from following him.
+			</verse>
+			<marker class="begin-verse" mid="v10002022">
+			</marker>
+			<verse num="22">
+				And Abner said again to Asahel, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Turn aside from following me. Why should I strike you to the ground? How then could I lift up my face to your brother Joab?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10002023">
+			</marker>
+			<verse num="23">
+				But he refused to turn aside. Therefore Abner struck him 
+				<crossref let="r" cid="c10002023.1">
+				</crossref>
+				in the stomach with the butt of his spear, so that the spear came out at his back. And he fell there and died where he was. And all who came to the place where Asahel had fallen and died, stood still.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10002024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				But Joab and Abishai pursued Abner. And as the sun was going down they came to the hill of Ammah, which lies before Giah on the way to the wilderness of Gibeon.
+			</verse>
+			<marker class="begin-verse" mid="v10002025">
+			</marker>
+			<verse num="25">
+				And the people of Benjamin gathered themselves together behind Abner and became one group and took their stand on the top of a hill.
+			</verse>
+			<marker class="begin-verse" mid="v10002026">
+			</marker>
+			<verse num="26">
+				Then Abner called to Joab, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Shall the sword devour forever? Do you not know that the end will be bitter? How long will it be before you tell your people to turn from the pursuit of their brothers?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10002027">
+			</marker>
+			<verse num="27">
+				And Joab said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As God lives, if 
+				<crossref let="s" cid="c10002027.1">
+				</crossref>
+				you had not spoken, surely the men would not have given up the pursuit of their brothers until the morning.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10002028">
+			</marker>
+			<verse num="28">
+				So Joab blew the trumpet, and all the men stopped and pursued Israel no more, nor did they fight anymore.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10002029">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				And Abner and his men went all that night through 
+				<crossref let="t" cid="c10002029.1">
+				</crossref>
+				the Arabah. They crossed the Jordan, and marching the whole morning, they came to 
+				<crossref let="u" cid="c10002029.2">
+				</crossref>
+				Mahanaim.
+			</verse>
+			<marker class="begin-verse" mid="v10002030">
+			</marker>
+			<verse num="30">
+				Joab returned from the pursuit of Abner. And when he had gathered all the people together, there were missing from David's servants nineteen men besides Asahel.
+			</verse>
+			<marker class="begin-verse" mid="v10002031">
+			</marker>
+			<verse num="31">
+				But the servants of David had struck down of Benjamin 360 of Abner's men.
+			</verse>
+			<marker class="begin-verse" mid="v10002032">
+			</marker>
+			<verse num="32">
+				And they took up Asahel and buried him in the tomb of his father, which was at Bethlehem. And Joab and his men marched all night, and the day broke upon them at Hebron.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

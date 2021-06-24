@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Kings" num="10">
+		<marker class="begin-verse" mid="v11021001">
+		</marker>
+		<chapter num="21">
+			<heading
+				>
+				Naboth's Vineyard
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now Naboth the Jezreelite had a vineyard in 
+				<crossref let="q" cid="c11021001.1">
+				</crossref>
+				Jezreel, beside the palace of Ahab king of Samaria.
+			</verse>
+			<marker class="begin-verse" mid="v11021002">
+			</marker>
+			<verse num="2">
+				And after this Ahab said to Naboth, 
+				<crossref let="r" cid="c11021002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give me your vineyard, that I may have it for a vegetable garden, because it is near my house, and I will give you a better vineyard for it; or, if it seems good to you, I will give you its value in money.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11021003">
+			</marker>
+			<verse num="3">
+				But Naboth said to Ahab, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 forbid 
+				<crossref let="s" cid="c11021003.1">
+				</crossref>
+				that I should give you the inheritance of my fathers.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11021004">
+			</marker>
+			<verse num="4">
+				And Ahab 
+				<crossref let="t" cid="c11021004.1">
+				</crossref>
+				went into his house vexed and sullen because of what Naboth the Jezreelite had said to him, for he had said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will not give you the inheritance of my fathers.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he lay down on his bed and turned away his face and would eat no food.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v11021005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				But Jezebel his wife came to him and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why is your spirit so vexed that you eat no food?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11021006">
+			</marker>
+			<verse num="6">
+				And he said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because I spoke to Naboth the Jezreelite and said to him, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Give me your vineyard for money, or else, if it please you, I will give you another vineyard for it.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 And he answered, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will not give you my vineyard.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11021007">
+			</marker>
+			<verse num="7">
+				And Jezebel his wife said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do you now govern Israel? Arise and eat bread and let your heart be cheerful; I will give you the vineyard of Naboth the Jezreelite.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v11021008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				<crossref let="u" cid="c11021008.1">
+				</crossref>
+				So she wrote letters in Ahab's name and sealed them with his seal, and she sent the letters to 
+				<crossref let="v" cid="c11021008.2">
+				</crossref>
+				the elders and the leaders who lived with Naboth in his city.
+			</verse>
+			<marker class="begin-verse" mid="v11021009">
+			</marker>
+			<verse num="9">
+				And she wrote in the letters, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Proclaim a fast, and set Naboth at the head of the people.
+			</verse>
+			<marker class="begin-verse" mid="v11021010">
+			</marker>
+			<verse num="10">
+				And set two 
+				<crossref let="w" cid="c11021010.1">
+				</crossref>
+				worthless men opposite him, and let them bring a charge against him, saying, 
+				<crossref let="x" cid="c11021010.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You have cursed
+				<note nid="n11021010.1">
+				</note>
+				 God and the king.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 Then take him out and stone him to death.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11021011">
+			</marker>
+			<verse num="11">
+				And the men of his city, 
+				<crossref let="v" cid="c11021011.1">
+				</crossref>
+				the elders and the leaders who lived in his city, did as Jezebel had sent word to them. As it was written in the letters that she had sent to them,
+			</verse>
+			<marker class="begin-verse" mid="v11021012">
+			</marker>
+			<verse num="12">
+				<crossref let="y" cid="c11021012.1">
+				</crossref>
+				they proclaimed a fast and set Naboth at the head of the people.
+			</verse>
+			<marker class="begin-verse" mid="v11021013">
+			</marker>
+			<verse num="13">
+				And the two worthless men came in and sat opposite him. And the worthless men brought a charge against Naboth in the presence of the people, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Naboth cursed God and the king.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So they took him outside the city and stoned him to death with stones.
+			</verse>
+			<marker class="begin-verse" mid="v11021014">
+			</marker>
+			<verse num="14">
+				Then they sent to Jezebel, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Naboth has been stoned; he is dead.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v11021015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				As soon as Jezebel heard that Naboth had been stoned and was dead, Jezebel said to Ahab, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give you for money, for Naboth is not alive, but dead.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11021016">
+			</marker>
+			<verse num="16">
+				And as soon as Ahab heard that Naboth was dead, Ahab arose to go down to the vineyard of Naboth the Jezreelite, to take possession of it.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v11021017">
+			</marker>
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Condemns Ahab
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				<crossref let="z" cid="c11021017.1">
+				</crossref>
+				Then the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to Elijah the Tishbite, saying,
+			</verse>
+			<marker class="begin-verse" mid="v11021018">
+			</marker>
+			<verse num="18">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Arise, go down to meet Ahab king of Israel, who is in 
+				<crossref let="a" cid="c11021018.1">
+				</crossref>
+				Samaria; behold, he is in the vineyard of Naboth, where he has gone to take possession.
+			</verse>
+			<marker class="begin-verse" mid="v11021019">
+			</marker>
+			<verse num="19">
+				And you shall say to him, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				Have you killed and also taken possession?
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 And you shall say to him, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				: 
+				<crossref let="b" cid="c11021019.1">
+				</crossref>
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				In the place where dogs licked up the blood of Naboth shall dogs lick your own blood.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v11021020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				Ahab said to Elijah, 
+				<crossref let="c" cid="c11021020.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Have you found me, O my enemy?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have found you, because 
+				<crossref let="d" cid="c11021020.2">
+				</crossref>
+				you have sold yourself to do what is evil in the sight of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v11021021">
+			</marker>
+			<verse num="21">
+				Behold, I will bring disaster upon you. I will utterly burn you up, and 
+				<crossref let="e" cid="c11021021.1">
+				</crossref>
+				will cut off from Ahab every male, bond or free, in Israel.
+			</verse>
+			<marker class="begin-verse" mid="v11021022">
+			</marker>
+			<verse num="22">
+				And I will make your house like 
+				<crossref let="f" cid="c11021022.1">
+				</crossref>
+				the house of Jeroboam the son of Nebat, and like 
+				<crossref let="g" cid="c11021022.2">
+				</crossref>
+				the house of Baasha the son of Ahijah, for the anger to which you have provoked me, and because you 
+				<crossref let="h" cid="c11021022.3">
+				</crossref>
+				have made Israel to sin.
+			</verse>
+			<marker class="begin-verse" mid="v11021023">
+			</marker>
+			<verse num="23">
+				And of Jezebel the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 also said, 
+				<crossref let="i" cid="c11021023.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The dogs shall eat Jezebel within 
+				<crossref let="j" cid="c11021023.2">
+				</crossref>
+				the walls of Jezreel.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11021024">
+			</marker>
+			<verse num="24">
+				<crossref let="k" cid="c11021024.1">
+				</crossref>
+				Anyone belonging to Ahab who dies in the city the dogs shall eat, and anyone of his who dies in the open country the birds of the heavens shall eat.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v11021025">
+			</marker>
+			<heading
+				>
+				Ahab's Repentance
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				(
+				<crossref let="l" cid="c11021025.1">
+				</crossref>
+				There was none who sold himself to do what was evil in the sight of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 like Ahab, whom Jezebel his wife incited.
+			</verse>
+			<marker class="begin-verse" mid="v11021026">
+			</marker>
+			<verse num="26">
+				He acted very abominably in going after 
+				<crossref let="m" cid="c11021026.1">
+				</crossref>
+				idols, as 
+				<crossref let="n" cid="c11021026.2">
+				</crossref>
+				the Amorites had done, whom the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 cast out before the people of Israel.)
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v11021027">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				And when Ahab heard those words, he 
+				<crossref let="o" cid="c11021027.1">
+				</crossref>
+				tore his clothes and 
+				<crossref let="p" cid="c11021027.2">
+				</crossref>
+				put sackcloth on his flesh and 
+				<crossref let="q" cid="c11021027.3">
+				</crossref>
+				fasted and lay in sackcloth and went about dejectedly.
+			</verse>
+			<marker class="begin-verse" mid="v11021028">
+			</marker>
+			<verse num="28">
+				And the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to Elijah the Tishbite, saying,
+			</verse>
+			<marker class="begin-verse" mid="v11021029">
+			</marker>
+			<verse num="29">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Have you seen how Ahab has humbled himself before me? Because he has humbled himself before me, I will not bring the disaster in his days; 
+				<crossref let="r" cid="c11021029.1">
+				</crossref>
+				but in his son's days I will bring the disaster upon his house.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,669 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23059001">
+		</marker>
+		<chapter num="59">
+			<heading
+				>
+				Evil and Oppression
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Behold, 
+				<crossref let="b" cid="c23059001.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's hand is not shortened, that it cannot save,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or his ear dull, that it cannot hear;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c23059002.1">
+				</crossref>
+				but your iniquities have made a separation
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				between you and your God,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and your sins have hidden his face from you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so that he does not hear.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c23059003.1">
+				</crossref>
+				For your hands are defiled with blood
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your fingers with iniquity;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				your lips have spoken lies;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your tongue mutters wickedness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c23059004.1">
+				</crossref>
+				No one enters suit justly;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				no one goes to law honestly;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				they rely on empty pleas, they speak lies,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c23059004.2">
+				</crossref>
+				they conceive mischief and give birth to iniquity.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				They hatch adders' eggs;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they weave the spider's web;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				he who eats their eggs dies,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and from one that is crushed a viper is hatched.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c23059006.1">
+				</crossref>
+				Their webs will not serve as clothing;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				men will not cover themselves with what they make.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Their works are works of iniquity,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and deeds of violence are in their hands.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c23059007.1">
+				</crossref>
+				Their feet run to evil,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and they are swift to shed innocent blood;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				their thoughts are thoughts of iniquity;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				desolation and destruction are in their highways.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				The way of peace they do not know,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and there is no justice in their paths;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				they have made their roads crooked;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c23059008.1">
+				</crossref>
+				no one who treads on them knows peace.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23059009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Therefore justice is far from us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and righteousness does not overtake us;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c23059009.1">
+				</crossref>
+				we hope for light, and behold, darkness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and for brightness, but we walk in gloom.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c23059010.1">
+				</crossref>
+				We grope for the wall like the blind;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				we grope like those who have no eyes;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				we stumble at noon as in the twilight,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="l" cid="c23059010.2">
+				</crossref>
+				among those in full vigor we are like dead men.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				We all growl like bears;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c23059011.1">
+				</crossref>
+				we moan and moan like doves;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c23059011.2">
+				</crossref>
+				we hope for justice, but there is none;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for salvation, but it is far from us.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				For our transgressions are multiplied before you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and our sins testify against us;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for our transgressions are with us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and we know our iniquities:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				transgressing, and denying the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and turning back from following our God,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c23059013.1">
+				</crossref>
+				speaking oppression and revolt,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				conceiving and uttering from the heart lying words.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c23059014.1">
+				</crossref>
+				Justice is turned back,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and righteousness stands far away;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for truth has stumbled in the public squares,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and uprightness cannot enter.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				Truth is lacking,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he who departs from evil makes himself a prey.
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<end-block-indent
+					>
+				</end-block-indent>
+				<heading
+					>
+					Judgment and Redemption
+				</heading>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 saw it, and it displeased him
+				<note nid="n23059015.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that there was no justice.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c23059016.1">
+				</crossref>
+				He saw that there was no man,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and wondered that there was no one to intercede;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				then his own arm brought him salvation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his righteousness upheld him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c23059017.1">
+				</crossref>
+				He put on righteousness as a breastplate,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a helmet of salvation on his head;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				he put on garments of vengeance for clothing,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and wrapped himself in 
+				<crossref let="s" cid="c23059017.2">
+				</crossref>
+				zeal as a cloak.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c23059018.1">
+				</crossref>
+				According to their deeds, so will he repay,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				wrath to his adversaries, repayment to his enemies;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c23059018.2">
+				</crossref>
+				to the coastlands he will render repayment.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23059019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c23059019.1">
+				</crossref>
+				So they shall fear the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 from the west,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his glory from the rising of the sun;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c23059019.2">
+				</crossref>
+				for he will come like a rushing stream,
+				<note nid="n23059019.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				which the wind of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 drives.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23059020">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c23059020.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				And 
+				<crossref let="y" cid="c23059020.2">
+				</crossref>
+				a Redeemer will come to Zion,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to those in Jacob who turn from transgression,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23059021">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="21">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				And as for me, 
+				<crossref let="z" cid="c23059021.1">
+				</crossref>
+				this is my covenant with them,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				: 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My Spirit that is upon you, 
+				<crossref let="a" cid="c23059021.2">
+				</crossref>
+				and my words that I have put in your mouth, shall not depart out of your mouth, or out of the mouth of your offspring, or out of the mouth of your children's offspring,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				from this time forth and forevermore.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

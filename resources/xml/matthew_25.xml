@@ -1,0 +1,719 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40025001">
+		</marker>
+		<chapter num="25">
+			<heading
+				>
+				The Parable of the Ten Virgins
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Then the kingdom of heaven will be like 
+					<crossref let="d" cid="c40025001.1">
+					</crossref>
+					ten virgins who took their lamps
+					<note nid="n40025001.1">
+					</note>
+					 and went to meet 
+					<crossref let="e" cid="c40025001.2">
+					</crossref>
+					the bridegroom.
+					<note nid="n40025001.2">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025002">
+			</marker>
+			<verse num="2" class="woc">
+				<woc
+					>
+					Five of them were foolish, and five were 
+					<crossref let="w" cid="c40025002.1">
+					</crossref>
+					wise.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025003">
+			</marker>
+			<verse num="3" class="woc">
+				<woc
+					>
+					For when the foolish took their lamps, they took no oil with them,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025004">
+			</marker>
+			<verse num="4" class="woc">
+				<woc
+					>
+					but the wise took flasks of oil with their lamps.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025005">
+			</marker>
+			<verse num="5" class="woc">
+				<woc
+					>
+					As the bridegroom 
+					<crossref let="f" cid="c40025005.1">
+					</crossref>
+					was delayed, they all became drowsy and slept.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025006">
+			</marker>
+			<verse num="6" class="woc">
+				<woc
+					>
+					But 
+					<crossref let="g" cid="c40025006.1">
+					</crossref>
+					at midnight there was a cry, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Here is the bridegroom! Come out to meet him.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025007">
+			</marker>
+			<verse num="7" class="woc">
+				<woc
+					>
+					Then all those virgins rose and 
+					<crossref let="h" cid="c40025007.1">
+					</crossref>
+					trimmed their lamps.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025008">
+			</marker>
+			<verse num="8" class="woc">
+				<woc
+					>
+					And the foolish said to the wise, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Give us some of your oil, for our lamps are going out.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025009">
+			</marker>
+			<verse num="9" class="woc">
+				<woc
+					>
+					But the wise answered, saying, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Since there will not be enough for us and for you, go rather to the dealers and buy for yourselves.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					And while they were going to buy, the bridegroom came, and 
+					<crossref let="i" cid="c40025010.1">
+					</crossref>
+					those who were ready went in with him to 
+					<crossref let="j" cid="c40025010.2">
+					</crossref>
+					the marriage feast, and 
+					<crossref let="k" cid="c40025010.3">
+					</crossref>
+					the door was shut.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025011">
+			</marker>
+			<verse num="11" class="woc">
+				<woc
+					>
+					Afterward the other virgins came also, saying, 
+					<crossref let="l" cid="c40025011.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Lord, lord, open to us.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc
+					>
+					<crossref let="l" cid="c40025012.1">
+					</crossref>
+					But he answered, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Truly, I say to you, 
+					<crossref let="m" cid="c40025012.2">
+					</crossref>
+					I do not know you.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025013">
+			</marker>
+			<verse num="13" class="woc">
+				<woc
+					>
+					<crossref let="n" cid="c40025013.1">
+					</crossref>
+					Watch therefore, for you 
+					<crossref let="o" cid="c40025013.2">
+					</crossref>
+					know neither the day nor the hour.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40025014">
+			</marker>
+			<heading
+				>
+				The Parable of the Talents
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14" class="woc">
+				<woc
+					>
+					<crossref let="p" cid="c40025014.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					For 
+					<crossref let="q" cid="c40025014.2">
+					</crossref>
+					it will be like a man 
+					<crossref let="r" cid="c40025014.3">
+					</crossref>
+					going on a journey, who called his servants
+					<note nid="n40025014.1">
+					</note>
+					 and entrusted to them his property.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025015">
+			</marker>
+			<verse num="15" class="woc">
+				<woc
+					>
+					To one he gave five 
+					<crossref let="s" cid="c40025015.1">
+					</crossref>
+					talents,
+					<note nid="n40025015.1">
+					</note>
+					 to another two, to another one, 
+					<crossref let="t" cid="c40025015.2">
+					</crossref>
+					to each according to his ability. Then he 
+					<crossref let="r" cid="c40025015.3">
+					</crossref>
+					went away.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc
+					>
+					He who had received the five talents went at once and traded with them, and he made five talents more.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025017">
+			</marker>
+			<verse num="17" class="woc">
+				<woc
+					>
+					So also he who had the two talents made two talents more.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					But he who had received the one talent went and 
+					<crossref let="u" cid="c40025018.1">
+					</crossref>
+					dug in the ground and hid his master's money.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					Now 
+					<crossref let="v" cid="c40025019.1">
+					</crossref>
+					after a long time the master of those servants came and 
+					<crossref let="w" cid="c40025019.2">
+					</crossref>
+					settled accounts with them.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025020">
+			</marker>
+			<verse num="20" class="woc">
+				<woc
+					>
+					And he who had received the five talents came forward, bringing five talents more, saying, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Master, you delivered to me five talents; here I have made five talents more.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025021">
+			</marker>
+			<verse num="21" class="woc">
+				<woc
+					>
+					His master said to him, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Well done, good and 
+					<crossref let="x" cid="c40025021.1">
+					</crossref>
+					faithful servant.
+					<note nid="n40025021.1">
+					</note>
+					<crossref let="y" cid="c40025021.2">
+					</crossref>
+					You have been faithful over a little; 
+					<crossref let="z" cid="c40025021.3">
+					</crossref>
+					I will set you over much. Enter into 
+					<crossref let="a" cid="c40025021.4">
+					</crossref>
+					the joy of your master.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025022">
+			</marker>
+			<verse num="22" class="woc">
+				<woc
+					>
+					And he also who had the two talents came forward, saying, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Master, you delivered to me two talents; here I have made two talents more.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025023">
+			</marker>
+			<verse num="23" class="woc">
+				<woc
+					>
+					His master said to him, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					He also who had received the one talent came forward, saying, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Master, I knew you to be 
+					<crossref let="b" cid="c40025024.1">
+					</crossref>
+					a hard man, reaping 
+					<crossref let="c" cid="c40025024.2">
+					</crossref>
+					where you did not sow, and gathering where you scattered no seed,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025025">
+			</marker>
+			<verse num="25" class="woc">
+				<woc
+					>
+					so I was afraid, and I went and hid your talent in the ground. Here 
+					<crossref let="d" cid="c40025025.1">
+					</crossref>
+					you have what is yours.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					But his master answered him, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					You 
+					<crossref let="e" cid="c40025026.1">
+					</crossref>
+					wicked and 
+					<crossref let="e" cid="c40025026.2">
+					</crossref>
+					slothful servant! You knew that I reap where I have not sown and gather where I scattered no seed?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025027">
+			</marker>
+			<verse num="27" class="woc">
+				<woc
+					>
+					Then you ought to have invested my money with the bankers, and at my coming I should have received what was my own with interest.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025028">
+			</marker>
+			<verse num="28" class="woc">
+				<woc
+					>
+					So take the talent from him and give it to him who has the ten talents.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025029">
+			</marker>
+			<verse num="29" class="woc">
+				<woc
+					>
+					<crossref let="f" cid="c40025029.1">
+					</crossref>
+					For to everyone who has will more be given, and he will have an abundance. But from the one who has not, even what he has will be taken away.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025030">
+			</marker>
+			<verse num="30" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="g" cid="c40025030.1">
+					</crossref>
+					cast 
+					<crossref let="h" cid="c40025030.2">
+					</crossref>
+					the worthless servant into the outer darkness. In that place 
+					<crossref let="g" cid="c40025030.3">
+					</crossref>
+					there will be weeping and gnashing of teeth.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40025031">
+			</marker>
+			<heading
+				>
+				The Final Judgment
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31" class="woc">
+				<woc
+					>
+					<crossref let="i" cid="c40025031.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					When the Son of Man comes in his glory, and all the angels with him, 
+					<crossref let="j" cid="c40025031.2">
+					</crossref>
+					then he will sit on his glorious throne.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025032">
+			</marker>
+			<verse num="32" class="woc">
+				<woc
+					>
+					Before him 
+					<crossref let="k" cid="c40025032.1">
+					</crossref>
+					will be gathered 
+					<crossref let="l" cid="c40025032.2">
+					</crossref>
+					all the nations, and 
+					<crossref let="m" cid="c40025032.3">
+					</crossref>
+					he will separate people one from another as a shepherd separates 
+					<crossref let="n" cid="c40025032.4">
+					</crossref>
+					the sheep from the goats.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025033">
+			</marker>
+			<verse num="33" class="woc">
+				<woc
+					>
+					And he will place the sheep on his right, but the goats on the left.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025034">
+			</marker>
+			<verse num="34" class="woc">
+				<woc
+					>
+					Then 
+					<crossref let="o" cid="c40025034.1">
+					</crossref>
+					the King will say to 
+					<crossref let="p" cid="c40025034.2">
+					</crossref>
+					those on his right, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Come, you 
+					<crossref let="q" cid="c40025034.3">
+					</crossref>
+					who are blessed by my Father, 
+					<crossref let="r" cid="c40025034.4">
+					</crossref>
+					inherit 
+					<crossref let="s" cid="c40025034.5">
+					</crossref>
+					the kingdom 
+					<crossref let="t" cid="c40025034.6">
+					</crossref>
+					prepared for you 
+					<crossref let="u" cid="c40025034.7">
+					</crossref>
+					from the foundation of the world.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025035">
+			</marker>
+			<verse num="35" class="woc">
+				<woc
+					>
+					For 
+					<crossref let="v" cid="c40025035.1">
+					</crossref>
+					I was hungry and you gave me food, I was thirsty and you 
+					<crossref let="w" cid="c40025035.2">
+					</crossref>
+					gave me drink, 
+					<crossref let="x" cid="c40025035.3">
+					</crossref>
+					I was a stranger and you welcomed me,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025036">
+			</marker>
+			<verse num="36" class="woc">
+				<woc
+					>
+					<crossref let="v" cid="c40025036.1">
+					</crossref>
+					I was naked and you clothed me, 
+					<crossref let="y" cid="c40025036.2">
+					</crossref>
+					I was sick and you 
+					<crossref let="z" cid="c40025036.3">
+					</crossref>
+					visited me, 
+					<crossref let="a" cid="c40025036.4">
+					</crossref>
+					I was in prison and you came to me.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025037">
+			</marker>
+			<verse num="37" class="woc">
+				<woc
+					>
+					Then the righteous will answer him, saying, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Lord, when did we see you hungry and feed you, or thirsty and give you drink?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025038">
+			</marker>
+			<verse num="38" class="woc">
+				<woc
+					>
+					And when did we see you a stranger and welcome you, or naked and clothe you?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025039">
+			</marker>
+			<verse num="39" class="woc">
+				<woc
+					>
+					And when did we see you sick or in prison and visit you?
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025040">
+			</marker>
+			<verse num="40" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="b" cid="c40025040.1">
+					</crossref>
+					the King will answer them, 
+					<crossref let="c" cid="c40025040.2">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Truly, I say to you, as you did it to one of the least of these 
+					<crossref let="d" cid="c40025040.3">
+					</crossref>
+					my brothers,
+					<note nid="n40025040.1">
+					</note>
+					 you did it to me.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40025041">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="41" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Then he will say to those on his left, 
+					<crossref let="e" cid="c40025041.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Depart from me, you 
+					<crossref let="f" cid="c40025041.2">
+					</crossref>
+					cursed, into 
+					<crossref let="g" cid="c40025041.3">
+					</crossref>
+					the eternal fire prepared for 
+					<crossref let="h" cid="c40025041.4">
+					</crossref>
+					the devil and his angels.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025042">
+			</marker>
+			<verse num="42" class="woc">
+				<woc
+					>
+					For 
+					<crossref let="i" cid="c40025042.1">
+					</crossref>
+					I was hungry and you gave me no food, I was thirsty and you gave me no drink,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025043">
+			</marker>
+			<verse num="43" class="woc">
+				<woc
+					>
+					I was a stranger and you did not welcome me, naked and you did not clothe me, sick and in prison and you did not visit me.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025044">
+			</marker>
+			<verse num="44" class="woc">
+				<woc
+					>
+					Then they also will answer, saying, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Lord, when did we see you hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to you?
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025045">
+			</marker>
+			<verse num="45" class="woc">
+				<woc
+					>
+					Then he will answer them, saying, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Truly, I say to you, as you did not do it to one of the least of these, 
+					<crossref let="j" cid="c40025045.1">
+					</crossref>
+					you did not do it to me.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40025046">
+			</marker>
+			<verse num="46" class="woc">
+				<woc
+					>
+					And these will go away 
+					<crossref let="k" cid="c40025046.1">
+					</crossref>
+					into eternal punishment, but the righteous 
+					<crossref let="k" cid="c40025046.2">
+					</crossref>
+					into 
+					<crossref let="l" cid="c40025046.3">
+					</crossref>
+					eternal life.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

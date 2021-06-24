@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Mark" num="40">
+		<marker class="begin-verse" mid="v41016001">
+		</marker>
+		<chapter num="16">
+			<heading
+				>
+				The Resurrection
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossrefs
+					>
+					<crossref let="u" cid="c41016001.1">
+					</crossref>
+					<crossref let="v" cid="c41016001.2">
+					</crossref>
+				</crossrefs>
+				<crossref cid="t41016001.1">
+				</crossref>
+				When the Sabbath was past, 
+				<crossref let="w" cid="c41016001.3">
+				</crossref>
+				Mary Magdalene and 
+				<crossref let="w" cid="c41016001.4">
+				</crossref>
+				Mary the mother of James and 
+				<crossref let="i" cid="c41016001.5">
+				</crossref>
+				Salome 
+				<crossref let="x" cid="c41016001.6">
+				</crossref>
+				bought spices, so that they might go and anoint him.
+			</verse>
+			<marker class="begin-verse" mid="v41016002">
+			</marker>
+			<verse num="2">
+				And very early on the first day of the week, when the sun had risen, they went to the tomb.
+			</verse>
+			<marker class="begin-verse" mid="v41016003">
+			</marker>
+			<verse num="3">
+				And they were saying to one another, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who will roll away 
+				<crossref let="y" cid="c41016003.1">
+				</crossref>
+				the stone for us from the entrance of the tomb?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41016004">
+			</marker>
+			<verse num="4">
+				And looking up, they saw that the stone had been rolled backù
+				<crossref let="z" cid="c41016004.1">
+				</crossref>
+				it was very large.
+			</verse>
+			<marker class="begin-verse" mid="v41016005">
+			</marker>
+			<verse num="5">
+				And 
+				<crossref let="a" cid="c41016005.1">
+				</crossref>
+				entering the tomb, they saw a young man sitting on the right side, 
+				<crossref let="b" cid="c41016005.2">
+				</crossref>
+				dressed in 
+				<crossref let="c" cid="c41016005.3">
+				</crossref>
+				a white robe, and 
+				<crossref let="d" cid="c41016005.4">
+				</crossref>
+				they were alarmed.
+			</verse>
+			<marker class="begin-verse" mid="v41016006">
+			</marker>
+			<verse num="6">
+				And he said to them, 
+				<crossref let="d" cid="c41016006.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him.
+			</verse>
+			<marker class="begin-verse" mid="v41016007">
+			</marker>
+			<verse num="7">
+				But go, tell his disciples and Peter that 
+				<crossref let="e" cid="c41016007.1">
+				</crossref>
+				he is going before you to Galilee. There you will see him, 
+				<crossref let="e" cid="c41016007.2">
+				</crossref>
+				just as he told you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v41016008">
+			</marker>
+			<verse num="8">
+				And they went out and fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41016009">
+			</marker>
+			<subheading class="textual-note">
+				[Some of the earliest manuscripts do not include 16:9-20.]
+				<note nid="n41016009.1">
+				</note>
+			</subheading>
+			<heading
+				>
+				Jesus Appears to Mary Magdalene
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				[[Now when he rose early on the first day of the week, 
+				<crossref let="f" cid="c41016009.1">
+				</crossref>
+				he appeared first to 
+				<crossref let="g" cid="c41016009.2">
+				</crossref>
+				Mary Magdalene, 
+				<crossref let="g" cid="c41016009.3">
+				</crossref>
+				from whom he had cast out seven demons.
+			</verse>
+			<marker class="begin-verse" mid="v41016010">
+			</marker>
+			<verse num="10">
+				<crossref let="h" cid="c41016010.1">
+				</crossref>
+				She went and told those who had been with him, 
+				<crossref let="i" cid="c41016010.2">
+				</crossref>
+				as they 
+				<crossref let="j" cid="c41016010.3">
+				</crossref>
+				mourned and wept.
+			</verse>
+			<marker class="begin-verse" mid="v41016011">
+			</marker>
+			<verse num="11">
+				But when they heard that he was alive and had been seen by her, they 
+				<crossref let="k" cid="c41016011.1">
+				</crossref>
+				would not believe it.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41016012">
+			</marker>
+			<heading
+				>
+				Jesus Appears to Two Disciples
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				<crossref let="l" cid="c41016012.1">
+				</crossref>
+				After these things 
+				<crossref let="m" cid="c41016012.2">
+				</crossref>
+				he appeared in 
+				<crossref let="n" cid="c41016012.3">
+				</crossref>
+				another form to two of them, as they were walking into the country.
+			</verse>
+			<marker class="begin-verse" mid="v41016013">
+			</marker>
+			<verse num="13">
+				<crossref let="o" cid="c41016013.1">
+				</crossref>
+				And they went back and told the rest, but they did not believe them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41016014">
+			</marker>
+			<heading
+				>
+				The Great Commission
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				Afterward 
+				<crossref let="m" cid="c41016014.1">
+				</crossref>
+				he appeared 
+				<crossref let="p" cid="c41016014.2">
+				</crossref>
+				to the eleven themselves as they were reclining at table, and he rebuked them for their 
+				<crossref let="q" cid="c41016014.3">
+				</crossref>
+				unbelief and 
+				<crossref let="r" cid="c41016014.4">
+				</crossref>
+				hardness of heart, because 
+				<crossref let="s" cid="c41016014.5">
+				</crossref>
+				they had not believed those who saw him after he had risen.
+			</verse>
+			<marker class="begin-verse" mid="v41016015">
+			</marker>
+			<verse num="15">
+				And he said to them, 
+				<woc
+					>
+					<crossref let="t" cid="c41016015.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Go into all the world and 
+					<crossref let="u" cid="c41016015.2">
+					</crossref>
+					proclaim the gospel to 
+					<crossref let="v" cid="c41016015.3">
+					</crossref>
+					the whole creation.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41016016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc
+					>
+					<crossref let="w" cid="c41016016.1">
+					</crossref>
+					Whoever believes and is 
+					<crossref let="x" cid="c41016016.2">
+					</crossref>
+					baptized 
+					<crossref let="y" cid="c41016016.3">
+					</crossref>
+					will be saved, but 
+					<crossref let="z" cid="c41016016.4">
+					</crossref>
+					whoever 
+					<crossref let="w" cid="c41016016.5">
+					</crossref>
+					does not believe will be condemned.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41016017">
+			</marker>
+			<verse num="17" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="a" cid="c41016017.1">
+					</crossref>
+					these signs will accompany those who believe: 
+					<crossref let="b" cid="c41016017.2">
+					</crossref>
+					in my name they will cast out demons; 
+					<crossref let="c" cid="c41016017.3">
+					</crossref>
+					they will speak in new tongues;
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v41016018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					<crossref let="d" cid="c41016018.1">
+					</crossref>
+					they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; 
+					<crossref let="e" cid="c41016018.2">
+					</crossref>
+					they will lay their hands 
+					<crossref let="f" cid="c41016018.3">
+					</crossref>
+					on the sick, and they will recover.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v41016019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				So then the Lord Jesus, 
+				<crossref let="g" cid="c41016019.1">
+				</crossref>
+				after he had spoken to them, 
+				<crossref let="h" cid="c41016019.2">
+				</crossref>
+				was taken up into heaven and 
+				<crossref let="i" cid="c41016019.3">
+				</crossref>
+				sat down at the right hand of God.
+			</verse>
+			<marker class="begin-verse" mid="v41016020">
+			</marker>
+			<verse num="20">
+				And they went out and preached everywhere, while 
+				<crossref let="j" cid="c41016020.1">
+				</crossref>
+				the Lord worked with them and confirmed 
+				<crossref let="k" cid="c41016020.2">
+				</crossref>
+				the message 
+				<crossref let="l" cid="c41016020.3">
+				</crossref>
+				by accompanying signs.]]
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

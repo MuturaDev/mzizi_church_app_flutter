@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ecclesiastes" num="20">
+		<marker class="begin-verse" mid="v21010001">
+		</marker>
+		<chapter num="10">
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Dead flies make 
+				<crossref let="g" cid="c21010001.1">
+				</crossref>
+				the perfumer's ointment give off a stench;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so a little folly outweighs wisdom and honor.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21010002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c21010002.1">
+				</crossref>
+				A wise man's heart inclines him to the right,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but a fool's heart to the left.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21010003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Even when the fool walks on the road, he lacks sense,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he 
+				<crossref let="i" cid="c21010003.1">
+				</crossref>
+				says to everyone that he is a fool.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21010004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				If the anger of the ruler rises against you, 
+				<crossref let="j" cid="c21010004.1">
+				</crossref>
+				do not leave your place,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c21010004.2">
+				</crossref>
+				for calmness
+				<note nid="n21010004.1">
+				</note>
+				 will lay great offenses to rest.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v21010005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				There is an evil that I have seen under the sun, as it were 
+				<crossref let="l" cid="c21010005.1">
+				</crossref>
+				an error proceeding from the ruler:
+			</verse>
+			<marker class="begin-verse" mid="v21010006">
+			</marker>
+			<verse num="6">
+				<crossref let="m" cid="c21010006.1">
+				</crossref>
+				folly is set in many high places, and the rich sit in a low place.
+			</verse>
+			<marker class="begin-verse" mid="v21010007">
+			</marker>
+			<verse num="7">
+				<crossref let="n" cid="c21010007.1">
+				</crossref>
+				I have seen slaves 
+				<crossref let="o" cid="c21010007.2">
+				</crossref>
+				on horses, and princes walking on the ground like slaves.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21010008">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				He who 
+				<crossref let="p" cid="c21010008.1">
+				</crossref>
+				digs a pit will fall into it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="q" cid="c21010008.2">
+				</crossref>
+				a serpent will bite him who breaks through a wall.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21010009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c21010009.1">
+				</crossref>
+				He who quarries stones is hurt by them,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he who 
+				<crossref let="s" cid="c21010009.2">
+				</crossref>
+				splits logs is endangered by them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21010010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				If the iron is blunt, and one does not sharpen the edge,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he must use more strength,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but wisdom helps one to succeed.
+				<note nid="n21010010.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21010011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				If the serpent bites before it is 
+				<crossref let="t" cid="c21010011.1">
+				</crossref>
+				charmed,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				there is no advantage to the charmer.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21010012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				The words of a wise man's mouth 
+				<crossref let="u" cid="c21010012.1">
+				</crossref>
+				win him favor,
+				<note nid="n21010012.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="v" cid="c21010012.2">
+				</crossref>
+				the lips of a fool consume him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21010013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				The beginning of the words of his mouth is foolishness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the end of his talk is evil madness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21010014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c21010014.1">
+				</crossref>
+				A fool multiplies words,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				though no man knows what is to be,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and who can tell him 
+				<crossref let="x" cid="c21010014.2">
+				</crossref>
+				what will be after him?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21010015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				The toil of a fool wearies him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for he does not know 
+				<crossref let="y" cid="c21010015.1">
+				</crossref>
+				the way to the city.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21010016">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c21010016.1">
+				</crossref>
+				Woe to you, O land, when your king is a child,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your princes feast in the morning!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21010017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				Happy are you, O land, when your king is the son of the nobility,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your princes feast at the proper time,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for strength, and not for 
+				<crossref let="a" cid="c21010017.1">
+				</crossref>
+				drunkenness!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21010018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				Through sloth the roof sinks in,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and through indolence the house leaks.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21010019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				Bread is made for laughter,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="b" cid="c21010019.1">
+				</crossref>
+				wine gladdens life,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="c" cid="c21010019.2">
+				</crossref>
+				money answers everything.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21010020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				Even in your thoughts, 
+				<crossref let="d" cid="c21010020.1">
+				</crossref>
+				do not curse the king,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor in your 
+				<crossref let="e" cid="c21010020.2">
+				</crossref>
+				bedroom curse the rich,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for a bird of the air will carry your voice,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or some winged creature tell the matter.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

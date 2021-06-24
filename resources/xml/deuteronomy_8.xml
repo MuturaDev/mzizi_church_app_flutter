@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Deuteronomy" num="4">
+		<marker class="begin-verse" mid="v05008001">
+		</marker>
+		<chapter num="8">
+			<heading
+				>
+				Remember the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Your God
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				The whole commandment that I command you today 
+				<crossref let="v" cid="c05008001.1">
+				</crossref>
+				you shall be careful to do, that you may live and multiply, and go in and possess the land that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 swore to give to your fathers.
+			</verse>
+			<marker class="begin-verse" mid="v05008002">
+			</marker>
+			<verse num="2">
+				And you shall remember the whole way that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God has led you 
+				<crossref let="w" cid="c05008002.1">
+				</crossref>
+				these forty years in the wilderness, that he might humble you, 
+				<crossref let="x" cid="c05008002.2">
+				</crossref>
+				testing you 
+				<crossref let="y" cid="c05008002.3">
+				</crossref>
+				to know what was in your heart, 
+				<crossref let="z" cid="c05008002.4">
+				</crossref>
+				whether you would keep his commandments or not.
+			</verse>
+			<marker class="begin-verse" mid="v05008003">
+			</marker>
+			<verse num="3">
+				And he humbled you and 
+				<crossref let="a" cid="c05008003.1">
+				</crossref>
+				let you hunger and 
+				<crossref let="b" cid="c05008003.2">
+				</crossref>
+				fed you with manna, which you did not know, nor did your fathers know, that he might make you know that 
+				<crossref let="c" cid="c05008003.3">
+				</crossref>
+				man does not live by bread alone, but man lives by every word
+				<note nid="n05008003.1">
+				</note>
+				 that comes from the mouth of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v05008004">
+			</marker>
+			<verse num="4">
+				<crossref let="d" cid="c05008004.1">
+				</crossref>
+				Your clothing did not wear out on you and your foot did not swell these forty years.
+			</verse>
+			<marker class="begin-verse" mid="v05008005">
+			</marker>
+			<verse num="5">
+				Know then in your heart that, 
+				<crossref let="e" cid="c05008005.1">
+				</crossref>
+				as a man disciplines his son, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God disciplines you.
+			</verse>
+			<marker class="begin-verse" mid="v05008006">
+			</marker>
+			<verse num="6">
+				So you shall keep the commandments of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God by walking in his ways and by fearing him.
+			</verse>
+			<marker class="begin-verse" mid="v05008007">
+			</marker>
+			<verse num="7">
+				For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God is bringing you into a good land, 
+				<crossref let="f" cid="c05008007.1">
+				</crossref>
+				a land of brooks of water, of fountains and springs, flowing out in the valleys and hills,
+			</verse>
+			<marker class="begin-verse" mid="v05008008">
+			</marker>
+			<verse num="8">
+				a land of wheat and barley, 
+				<crossref let="g" cid="c05008008.1">
+				</crossref>
+				of vines and fig trees and pomegranates, a land of olive trees and honey,
+			</verse>
+			<marker class="begin-verse" mid="v05008009">
+			</marker>
+			<verse num="9">
+				a land in which you will eat bread without scarcity, in which you will lack nothing, a land whose stones are iron, and out of whose hills you can dig copper.
+			</verse>
+			<marker class="begin-verse" mid="v05008010">
+			</marker>
+			<verse num="10">
+				And you shall eat and be full, and you shall bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God for the good land he has given you.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05008011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Take care lest you forget the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God by not keeping his commandments and his rules and his statutes, which I command you today,
+			</verse>
+			<marker class="begin-verse" mid="v05008012">
+			</marker>
+			<verse num="12">
+				<crossref let="h" cid="c05008012.1">
+				</crossref>
+				lest, when you have eaten and are full and have built good houses and live in them,
+			</verse>
+			<marker class="begin-verse" mid="v05008013">
+			</marker>
+			<verse num="13">
+				and when your herds and flocks multiply and your silver and gold is multiplied and all that you have is multiplied,
+			</verse>
+			<marker class="begin-verse" mid="v05008014">
+			</marker>
+			<verse num="14">
+				<crossref let="i" cid="c05008014.1">
+				</crossref>
+				then your heart be lifted up, and you 
+				<crossref let="j" cid="c05008014.2">
+				</crossref>
+				forget the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God, who brought you out of the land of Egypt, out of the house of slavery,
+			</verse>
+			<marker class="begin-verse" mid="v05008015">
+			</marker>
+			<verse num="15">
+				who 
+				<crossref let="k" cid="c05008015.1">
+				</crossref>
+				led you through the great and terrifying wilderness, 
+				<crossref let="l" cid="c05008015.2">
+				</crossref>
+				with its fiery serpents and scorpions 
+				<crossref let="m" cid="c05008015.3">
+				</crossref>
+				and thirsty ground where there was no water, 
+				<crossref let="n" cid="c05008015.4">
+				</crossref>
+				who brought you water out of the flinty rock,
+			</verse>
+			<marker class="begin-verse" mid="v05008016">
+			</marker>
+			<verse num="16">
+				who fed you in the wilderness with 
+				<crossref let="o" cid="c05008016.1">
+				</crossref>
+				manna that your fathers did not know, that he might humble you and test you, 
+				<crossref let="p" cid="c05008016.2">
+				</crossref>
+				to do you good in the end.
+			</verse>
+			<marker class="begin-verse" mid="v05008017">
+			</marker>
+			<verse num="17">
+				Beware 
+				<crossref let="q" cid="c05008017.1">
+				</crossref>
+				lest you say in your heart, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				My power and the might of my hand have gotten me this wealth.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05008018">
+			</marker>
+			<verse num="18">
+				You shall remember the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God, for 
+				<crossref let="r" cid="c05008018.1">
+				</crossref>
+				it is he who gives you power to get wealth, 
+				<crossref let="s" cid="c05008018.2">
+				</crossref>
+				that he may confirm his covenant that he swore to your fathers, as it is this day.
+			</verse>
+			<marker class="begin-verse" mid="v05008019">
+			</marker>
+			<verse num="19">
+				And if you forget the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God and go after other gods and serve them and worship them, 
+				<crossref let="t" cid="c05008019.1">
+				</crossref>
+				I solemnly warn you today that you shall surely perish.
+			</verse>
+			<marker class="begin-verse" mid="v05008020">
+			</marker>
+			<verse num="20">
+				Like the nations that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 makes to perish before you, 
+				<crossref let="u" cid="c05008020.1">
+				</crossref>
+				so shall you perish, because you would not obey the voice of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

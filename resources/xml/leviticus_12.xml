@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Leviticus" num="2">
+		<marker class="begin-verse" mid="v03012001">
+		</marker>
+		<chapter num="12">
+			<heading
+				>
+				Purification After Childbirth
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v03012002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Speak to the people of Israel, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				If a woman conceives and bears a male child, then 
+				<crossref let="u" cid="c03012002.1">
+				</crossref>
+				she shall be unclean seven days. 
+				<crossref let="v" cid="c03012002.2">
+				</crossref>
+				As at the time of her menstruation, she shall be unclean.
+			</verse>
+			<marker class="begin-verse" mid="v03012003">
+			</marker>
+			<verse num="3">
+				And on the 
+				<crossref let="w" cid="c03012003.1">
+				</crossref>
+				eighth day the flesh of his foreskin shall be circumcised.
+			</verse>
+			<marker class="begin-verse" mid="v03012004">
+			</marker>
+			<verse num="4">
+				Then she shall continue for thirty-three days in the blood of her purifying. She shall not touch anything holy, nor come into the sanctuary, until the days of her purifying are completed.
+			</verse>
+			<marker class="begin-verse" mid="v03012005">
+			</marker>
+			<verse num="5">
+				But if she bears a female child, then she shall be unclean two weeks, as in her menstruation. And she shall continue in the blood of her purifying for sixty-six days.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v03012006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<crossref let="u" cid="c03012006.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="continue-single" qid="" from="" to="">
+				</q>
+				And when the days of her purifying are completed, whether for a son or for a daughter, she shall bring to the priest at the entrance of the tent of meeting a lamb a year old for a burnt offering, and a pigeon or a turtledove for a sin offering,
+			</verse>
+			<marker class="begin-verse" mid="v03012007">
+			</marker>
+			<verse num="7">
+				and he shall offer it before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and make atonement for her. Then she shall be clean from the flow of her blood. This is the law for her who bears a child, either male or female.
+			</verse>
+			<marker class="begin-verse" mid="v03012008">
+			</marker>
+			<verse num="8">
+				And if she cannot afford a lamb, then she shall take 
+				<crossref let="x" cid="c03012008.1">
+				</crossref>
+				two turtledoves or two pigeons,
+				<note nid="n03012008.1">
+				</note>
+				<crossref let="y" cid="c03012008.2">
+				</crossref>
+				one for a burnt offering and the other for a sin offering. 
+				<crossref let="z" cid="c03012008.3">
+				</crossref>
+				And the priest shall make atonement for her, and she shall be clean.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

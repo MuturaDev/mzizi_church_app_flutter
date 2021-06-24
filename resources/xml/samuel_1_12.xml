@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09012001">
+		</marker>
+		<chapter num="12">
+			<heading
+				>
+				Samuel's Farewell Address
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And Samuel said to all Israel, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I have obeyed 
+				<crossref let="n" cid="c09012001.1">
+				</crossref>
+				your voice in all that you have said to me 
+				<crossref let="o" cid="c09012001.2">
+				</crossref>
+				and have made a king over you.
+			</verse>
+			<marker class="begin-verse" mid="v09012002">
+			</marker>
+			<verse num="2">
+				And now, behold, the king 
+				<crossref let="p" cid="c09012002.1">
+				</crossref>
+				walks before you, 
+				<crossref let="q" cid="c09012002.2">
+				</crossref>
+				and I am old and gray; and behold, my sons are with you. I have walked before you from my youth until this day.
+			</verse>
+			<marker class="begin-verse" mid="v09012003">
+			</marker>
+			<verse num="3">
+				Here I am; testify against me before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and before 
+				<crossref let="r" cid="c09012003.1">
+				</crossref>
+				his anointed. 
+				<crossref let="s" cid="c09012003.2">
+				</crossref>
+				Whose ox have I taken? Or whose donkey have I taken? Or whom have I defrauded? Whom have I oppressed? Or from whose hand have I taken a bribe to blind my eyes with it? Testify against me
+				<note nid="n09012003.1">
+				</note>
+				 and I will restore it to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09012004">
+			</marker>
+			<verse num="4">
+				They said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You have not defrauded us or oppressed us or taken anything from any man's hand.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09012005">
+			</marker>
+			<verse num="5">
+				And he said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is witness against you, and 
+				<crossref let="r" cid="c09012005.1">
+				</crossref>
+				his anointed is witness this day, that you have not found anything 
+				<crossref let="t" cid="c09012005.2">
+				</crossref>
+				in my hand.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He is witness.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09012006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				And Samuel said to the people, 
+				<crossref let="u" cid="c09012006.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is witness,
+				<note nid="n09012006.1">
+				</note>
+				 who appointed Moses and Aaron and brought your fathers up out of the land of Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v09012007">
+			</marker>
+			<verse num="7">
+				Now therefore stand still that I may plead with you before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 concerning all the righteous deeds of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that he performed for you and for your fathers.
+			</verse>
+			<marker class="begin-verse" mid="v09012008">
+			</marker>
+			<verse num="8">
+				<crossref let="v" cid="c09012008.1">
+				</crossref>
+				When Jacob went into Egypt, and the Egyptians oppressed them,
+				<note nid="n09012008.1">
+				</note>
+				<crossref let="w" cid="c09012008.2">
+				</crossref>
+				then your fathers cried out to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and 
+				<crossref let="x" cid="c09012008.3">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 sent Moses and Aaron, 
+				<crossref let="y" cid="c09012008.4">
+				</crossref>
+				who brought your fathers out of Egypt and made them dwell in this place.
+			</verse>
+			<marker class="begin-verse" mid="v09012009">
+			</marker>
+			<verse num="9">
+				But 
+				<crossref let="z" cid="c09012009.1">
+				</crossref>
+				they forgot the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 their God. 
+				<crossref let="a" cid="c09012009.2">
+				</crossref>
+				And he sold them into the hand of Sisera, commander of the army of Hazor,
+				<note nid="n09012009.1">
+				</note>
+				<crossref let="b" cid="c09012009.3">
+				</crossref>
+				and into the hand of the Philistines, 
+				<crossref let="c" cid="c09012009.4">
+				</crossref>
+				and into the hand of the king of Moab. And they fought against them.
+			</verse>
+			<marker class="begin-verse" mid="v09012010">
+			</marker>
+			<verse num="10">
+				<crossref let="d" cid="c09012010.1">
+				</crossref>
+				And they cried out to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				We have sinned, because we have forsaken the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="e" cid="c09012010.2">
+				</crossref>
+				and have served the Baals and the Ashtaroth. But now 
+				<crossref let="f" cid="c09012010.3">
+				</crossref>
+				deliver us out of the hand of our enemies, that we may serve you.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09012011">
+			</marker>
+			<verse num="11">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 sent 
+				<crossref let="g" cid="c09012011.1">
+				</crossref>
+				Jerubbaal 
+				<crossref let="h" cid="c09012011.2">
+				</crossref>
+				and Barak
+				<note nid="n09012011.1">
+				</note>
+				<crossref let="i" cid="c09012011.3">
+				</crossref>
+				and Jephthah and 
+				<crossref let="j" cid="c09012011.4">
+				</crossref>
+				Samuel and delivered you out of the hand of your enemies on every side, and you lived in safety.
+			</verse>
+			<marker class="begin-verse" mid="v09012012">
+			</marker>
+			<verse num="12">
+				And when you saw that 
+				<crossref let="k" cid="c09012012.1">
+				</crossref>
+				Nahash the king of the Ammonites came against you, 
+				<crossref let="l" cid="c09012012.2">
+				</crossref>
+				you said to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				No, but a king shall reign over us,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<crossref let="m" cid="c09012012.3">
+				</crossref>
+				when the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God was your king.
+			</verse>
+			<marker class="begin-verse" mid="v09012013">
+			</marker>
+			<verse num="13">
+				And now 
+				<crossref let="n" cid="c09012013.1">
+				</crossref>
+				behold the king whom you have chosen, for whom you have asked; behold, 
+				<crossref let="o" cid="c09012013.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has set a king over you.
+			</verse>
+			<marker class="begin-verse" mid="v09012014">
+			</marker>
+			<verse num="14">
+				If you will 
+				<crossref let="p" cid="c09012014.1">
+				</crossref>
+				fear the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and serve him and obey his voice and not rebel against the commandment of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and if both you and the king who reigns over you will follow the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God, it will be well.
+			</verse>
+			<marker class="begin-verse" mid="v09012015">
+			</marker>
+			<verse num="15">
+				But 
+				<crossref let="q" cid="c09012015.1">
+				</crossref>
+				if you will not obey the voice of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, but rebel against the commandment of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, then 
+				<crossref let="r" cid="c09012015.2">
+				</crossref>
+				the hand of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will be against you and 
+				<crossref let="s" cid="c09012015.3">
+				</crossref>
+				your king.
+				<note nid="n09012015.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v09012016">
+			</marker>
+			<verse num="16">
+				Now therefore 
+				<crossref let="t" cid="c09012016.1">
+				</crossref>
+				stand still and see this great thing that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will do before your eyes.
+			</verse>
+			<marker class="begin-verse" mid="v09012017">
+			</marker>
+			<verse num="17">
+				<crossref let="u" cid="c09012017.1">
+				</crossref>
+				Is it not wheat harvest today? 
+				<crossref let="v" cid="c09012017.2">
+				</crossref>
+				I will call upon the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, that he may send thunder and rain. And you shall know and see that 
+				<crossref let="w" cid="c09012017.3">
+				</crossref>
+				your wickedness is great, which you have done in the sight of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, in asking for yourselves a king.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09012018">
+			</marker>
+			<verse num="18">
+				So Samuel called upon the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 sent thunder and rain that day, 
+				<crossref let="x" cid="c09012018.1">
+				</crossref>
+				and all the people greatly feared the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and Samuel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09012019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				And all the people said to Samuel, 
+				<crossref let="y" cid="c09012019.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Pray for your servants to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God, that we may not die, for we have added to all our sins this evil, to ask for ourselves a king.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09012020">
+			</marker>
+			<verse num="20">
+				And Samuel said to the people, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not be afraid; you have done all this evil. Yet 
+				<crossref let="z" cid="c09012020.1">
+				</crossref>
+				do not turn aside from following the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, but serve the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with all your heart.
+			</verse>
+			<marker class="begin-verse" mid="v09012021">
+			</marker>
+			<verse num="21">
+				And 
+				<crossref let="z" cid="c09012021.1">
+				</crossref>
+				do not turn aside after 
+				<crossref let="a" cid="c09012021.2">
+				</crossref>
+				empty things that cannot profit or deliver, for they are empty.
+			</verse>
+			<marker class="begin-verse" mid="v09012022">
+			</marker>
+			<verse num="22">
+				<crossref let="b" cid="c09012022.1">
+				</crossref>
+				For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will not forsake his people, 
+				<crossref let="c" cid="c09012022.2">
+				</crossref>
+				for his great name's sake, because 
+				<crossref let="d" cid="c09012022.3">
+				</crossref>
+				it has pleased the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 to make you a people for himself.
+			</verse>
+			<marker class="begin-verse" mid="v09012023">
+			</marker>
+			<verse num="23">
+				Moreover, as for me, far be it from me that I should sin against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 by ceasing 
+				<crossref let="e" cid="c09012023.1">
+				</crossref>
+				to pray for you, 
+				<crossref let="f" cid="c09012023.2">
+				</crossref>
+				and I will instruct you in the good and the right way.
+			</verse>
+			<marker class="begin-verse" mid="v09012024">
+			</marker>
+			<verse num="24">
+				<crossref let="g" cid="c09012024.1">
+				</crossref>
+				Only fear the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and serve him faithfully with all your heart. For consider 
+				<crossref let="h" cid="c09012024.2">
+				</crossref>
+				what great things he has done for you.
+			</verse>
+			<marker class="begin-verse" mid="v09012025">
+			</marker>
+			<verse num="25">
+				But if you still do wickedly, 
+				<crossref let="i" cid="c09012025.1">
+				</crossref>
+				you shall be swept away, 
+				<crossref let="j" cid="c09012025.2">
+				</crossref>
+				both you and your king.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

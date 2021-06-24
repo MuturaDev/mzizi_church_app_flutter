@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19080001">
+		</marker>
+		<chapter num="80">
+			<heading
+				>
+				Restore Us, O God
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: according to 
+				<crossref let="e" cid="c19080001.1">
+				</crossref>
+				Lilies. A Testimony. Of 
+				<crossref let="f" cid="c19080001.2">
+				</crossref>
+				Asaph, a Psalm.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Give ear, O Shepherd of Israel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you who lead 
+				<crossref let="g" cid="c19080001.3">
+				</crossref>
+				Joseph like 
+				<crossref let="h" cid="c19080001.4">
+				</crossref>
+				a flock!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				You who are 
+				<crossref let="i" cid="c19080001.5">
+				</crossref>
+				enthroned upon the cherubim, 
+				<crossref let="j" cid="c19080001.6">
+				</crossref>
+				shine forth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19080002">
+			</marker>
+			<verse num="2">
+				<begin-line class="indent">
+				</begin-line>
+				Before 
+				<crossref let="k" cid="c19080002.1">
+				</crossref>
+				Ephraim and Benjamin and Manasseh,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19080002.2">
+				</crossref>
+				stir up your might
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="m" cid="c19080002.3">
+				</crossref>
+				come to save us!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19080003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c19080003.1">
+				</crossref>
+				Restore us,
+				<note nid="n19080003.1">
+				</note>
+				 O God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19080003.2">
+				</crossref>
+				let your face shine, that we may be saved!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19080004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<crossref let="p" cid="c19080004.1">
+				</crossref>
+				<span class="divine-name">
+					Lord
+				</span>
+				 God of hosts,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c19080004.2">
+				</crossref>
+				how long will you be angry with your people's prayers?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19080005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				You have fed them with 
+				<crossref let="r" cid="c19080005.1">
+				</crossref>
+				the bread of tears
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and given them tears to drink in full measure.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19080006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19080006.1">
+				</crossref>
+				You make us an object of contention for our 
+				<crossref let="s" cid="c19080006.2">
+				</crossref>
+				neighbors,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and our enemies laugh among themselves.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19080007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c19080007.1">
+				</crossref>
+				Restore us, O God of hosts;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let your face shine, that we may be saved!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19080008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				You brought 
+				<crossref let="t" cid="c19080008.1">
+				</crossref>
+				a vine out of Egypt;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="u" cid="c19080008.2">
+				</crossref>
+				drove out the nations and planted it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19080009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				You 
+				<crossref let="v" cid="c19080009.1">
+				</crossref>
+				cleared the ground for it;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it took deep root and filled the land.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19080010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				The mountains were covered with its shade,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the mighty cedars with its branches.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19080011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				It sent out its branches to 
+				<crossref let="w" cid="c19080011.1">
+				</crossref>
+				the sea
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and its shoots to 
+				<crossref let="w" cid="c19080011.2">
+				</crossref>
+				the River.
+				<note nid="n19080011.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19080012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Why then have you 
+				<crossref let="x" cid="c19080012.1">
+				</crossref>
+				broken down its walls,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so that all who pass along the way pluck its fruit?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19080013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c19080013.1">
+				</crossref>
+				The boar from the forest ravages it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all that move in the field feed on it.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19080014">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				Turn again, O God of hosts!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c19080014.1">
+				</crossref>
+				Look down from heaven, and see;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				have regard for this vine,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19080015">
+			</marker>
+			<verse num="15">
+				<begin-line class="indent">
+				</begin-line>
+				the stock that your right hand planted,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and for the son whom you made strong for yourself.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19080016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				They have 
+				<crossref let="a" cid="c19080016.1">
+				</crossref>
+				burned it with fire; they have 
+				<crossref let="a" cid="c19080016.2">
+				</crossref>
+				cut it down;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				may they perish at 
+				<crossref let="b" cid="c19080016.3">
+				</crossref>
+				the rebuke of your face!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19080017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				But 
+				<crossref let="c" cid="c19080017.1">
+				</crossref>
+				let your hand be on the man of your right hand,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the son of man whom you have made strong for yourself!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19080018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				Then we shall not turn back from you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c19080018.1">
+				</crossref>
+				give us life, and we will call upon your name!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19080019">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c19080019.1">
+				</crossref>
+				Restore us, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God of hosts!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Let your face shine, that we may be saved!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Kings" num="11">
+		<marker class="begin-verse" mid="v12022001">
+		</marker>
+		<chapter num="22">
+			<heading
+				>
+				Josiah Reigns in Judah
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="a" cid="c12022001.1">
+				</crossref>
+				Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem. His mother's name was Jedidah the daughter of Adaiah of 
+				<crossref let="b" cid="c12022001.2">
+				</crossref>
+				Bozkath.
+			</verse>
+			<marker class="begin-verse" mid="v12022002">
+			</marker>
+			<verse num="2">
+				And he did what was right in the eyes of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and walked in all the way of David his father, 
+				<crossref let="c" cid="c12022002.1">
+				</crossref>
+				and he did not turn aside to the right or to the left.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v12022003">
+			</marker>
+			<heading
+				>
+				Josiah Repairs the Temple
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				In the eighteenth year of King Josiah, the king sent Shaphan the son of Azaliah, son of Meshullam, the secretary, to the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, saying,
+			</verse>
+			<marker class="begin-verse" mid="v12022004">
+			</marker>
+			<verse num="4">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go up to 
+				<crossref let="d" cid="c12022004.1">
+				</crossref>
+				Hilkiah the high priest, that he may count the money 
+				<crossref let="e" cid="c12022004.2">
+				</crossref>
+				that has been brought into the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, which 
+				<crossref let="f" cid="c12022004.3">
+				</crossref>
+				the keepers of the threshold have collected from the people.
+			</verse>
+			<marker class="begin-verse" mid="v12022005">
+			</marker>
+			<verse num="5">
+				<crossref let="g" cid="c12022005.1">
+				</crossref>
+				And let it be given into the hand of the workmen who have the oversight of the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and let them give it to the workmen who are at the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, repairing the house
+			</verse>
+			<marker class="begin-verse" mid="v12022006">
+			</marker>
+			<verse num="6">
+				(that is, to the carpenters, and to the builders, and to the masons), and let them use it for buying timber and quarried stone to repair the house.
+			</verse>
+			<marker class="begin-verse" mid="v12022007">
+			</marker>
+			<verse num="7">
+				But 
+				<crossref let="h" cid="c12022007.1">
+				</crossref>
+				no accounting shall be asked from them for the money that is delivered into their hand, for they deal honestly.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v12022008">
+			</marker>
+			<heading
+				>
+				Hilkiah Finds the Book of the Law
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				And Hilkiah the high priest said to Shaphan the secretary, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have found 
+				<crossref let="i" cid="c12022008.1">
+				</crossref>
+				the Book of the Law in the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Hilkiah gave the book to Shaphan, and he read it.
+			</verse>
+			<marker class="begin-verse" mid="v12022009">
+			</marker>
+			<verse num="9">
+				And Shaphan the secretary came to the king, and reported to the king, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your servants have emptied out the money that was found in the house and have delivered it into the hand of the workmen who have the oversight of the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v12022010">
+			</marker>
+			<verse num="10">
+				Then Shaphan the secretary told the king, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hilkiah the priest has given me a book.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Shaphan read it before the king.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v12022011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				When the king heard the words of the Book of the Law, 
+				<crossref let="j" cid="c12022011.1">
+				</crossref>
+				he tore his clothes.
+			</verse>
+			<marker class="begin-verse" mid="v12022012">
+			</marker>
+			<verse num="12">
+				And the king commanded Hilkiah the priest, and 
+				<crossref let="k" cid="c12022012.1">
+				</crossref>
+				Ahikam the son of Shaphan, and 
+				<crossref let="l" cid="c12022012.2">
+				</crossref>
+				Achbor the son of 
+				<crossref let="l" cid="c12022012.3">
+				</crossref>
+				Micaiah, and Shaphan the secretary, and Asaiah the king's servant, saying,
+			</verse>
+			<marker class="begin-verse" mid="v12022013">
+			</marker>
+			<verse num="13">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go, inquire of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 for me, and for the people, and for all Judah, concerning the words of this book that has been found. For great is 
+				<crossref let="m" cid="c12022013.1">
+				</crossref>
+				the wrath of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that is kindled against us, because our fathers have not obeyed the words of this book, to do according to all that is written concerning us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v12022014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asaiah went to Huldah the prophetess, the wife of Shallum the son of 
+				<crossref let="n" cid="c12022014.1">
+				</crossref>
+				Tikvah, son of 
+				<crossref let="n" cid="c12022014.2">
+				</crossref>
+				Harhas, keeper of the wardrobe (now she lived in Jerusalem in 
+				<crossref let="o" cid="c12022014.3">
+				</crossref>
+				the Second Quarter), and they talked with her.
+			</verse>
+			<marker class="begin-verse" mid="v12022015">
+			</marker>
+			<verse num="15">
+				And she said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel: 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Tell the man who sent you to me,
+			</verse>
+			<marker class="begin-verse" mid="v12022016">
+			</marker>
+			<verse num="16">
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, Behold, I will bring disaster upon this place and upon its inhabitants, all the words of the book that the king of Judah has read.
+			</verse>
+			<marker class="begin-verse" mid="v12022017">
+			</marker>
+			<verse num="17">
+				<crossref let="p" cid="c12022017.1">
+				</crossref>
+				Because they have forsaken me and have made offerings to other gods, that they might provoke me to anger with all the work of their hands, therefore 
+				<crossref let="m" cid="c12022017.2">
+				</crossref>
+				my wrath will be kindled against this place, and it will not be quenched.
+			</verse>
+			<marker class="begin-verse" mid="v12022018">
+			</marker>
+			<verse num="18">
+				But to the king of Judah, who sent you to inquire of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, thus shall you say to him, Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel: Regarding the words that you have heard,
+			</verse>
+			<marker class="begin-verse" mid="v12022019">
+			</marker>
+			<verse num="19">
+				<crossref let="q" cid="c12022019.1">
+				</crossref>
+				because your heart was penitent, and you 
+				<crossref let="r" cid="c12022019.2">
+				</crossref>
+				humbled yourself before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, when you heard how I spoke against this place and against its inhabitants, that they should become 
+				<crossref let="s" cid="c12022019.3">
+				</crossref>
+				a desolation and 
+				<crossref let="t" cid="c12022019.4">
+				</crossref>
+				a curse, and you 
+				<crossref let="u" cid="c12022019.5">
+				</crossref>
+				have torn your clothes and wept before me, I also have heard you, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v12022020">
+			</marker>
+			<verse num="20">
+				Therefore, behold, I will gather you to your fathers, and 
+				<crossref let="v" cid="c12022020.1">
+				</crossref>
+				you shall be gathered to your grave in peace, and your eyes shall not see all the disaster that I will bring upon this place.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And they brought back word to the king.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

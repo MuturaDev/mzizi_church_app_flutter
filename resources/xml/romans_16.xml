@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Romans" num="44">
+		<marker class="begin-verse" mid="v45016001">
+		</marker>
+		<chapter num="16">
+			<heading
+				>
+				Personal Greetings
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				I commend to you our sister Phoebe, a servant
+				<note nid="n45016001.1">
+				</note>
+				 of the church at 
+				<crossref let="p" cid="c45016001.1">
+				</crossref>
+				Cenchreae,
+			</verse>
+			<marker class="begin-verse" mid="v45016002">
+			</marker>
+			<verse num="2">
+				that you 
+				<crossref let="q" cid="c45016002.1">
+				</crossref>
+				may welcome her in the Lord in a way worthy of the saints, and help her in whatever she may need from you, for she has been a patron of many and of myself as well.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45016003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				Greet 
+				<crossref let="r" cid="c45016003.1">
+				</crossref>
+				Prisca and Aquila, my fellow workers in Christ Jesus,
+			</verse>
+			<marker class="begin-verse" mid="v45016004">
+			</marker>
+			<verse num="4">
+				who risked their necks for my life, to whom not only I give thanks but all the churches of the Gentiles give thanks as well.
+			</verse>
+			<marker class="begin-verse" mid="v45016005">
+			</marker>
+			<verse num="5">
+				Greet also 
+				<crossref let="s" cid="c45016005.1">
+				</crossref>
+				the church in their house. Greet my beloved Epaenetus, who was 
+				<crossref let="t" cid="c45016005.2">
+				</crossref>
+				the first convert
+				<note nid="n45016005.1">
+				</note>
+				 to Christ in Asia.
+			</verse>
+			<marker class="begin-verse" mid="v45016006">
+			</marker>
+			<verse num="6">
+				Greet Mary, who has worked hard for you.
+			</verse>
+			<marker class="begin-verse" mid="v45016007">
+			</marker>
+			<verse num="7">
+				Greet Andronicus and Junia,
+				<note nid="n45016007.1">
+				</note>
+				 my kinsmen and my 
+				<crossref let="u" cid="c45016007.1">
+				</crossref>
+				fellow prisoners. They are well known to the apostles,
+				<note nid="n45016007.2">
+				</note>
+				 and they were in Christ before me.
+			</verse>
+			<marker class="begin-verse" mid="v45016008">
+			</marker>
+			<verse num="8">
+				Greet Ampliatus, my beloved in the Lord.
+			</verse>
+			<marker class="begin-verse" mid="v45016009">
+			</marker>
+			<verse num="9">
+				Greet Urbanus, our fellow worker in Christ, and my beloved Stachys.
+			</verse>
+			<marker class="begin-verse" mid="v45016010">
+			</marker>
+			<verse num="10">
+				Greet Apelles, who is approved in Christ. Greet those 
+				<crossref let="v" cid="c45016010.1">
+				</crossref>
+				who belong to the family of Aristobulus.
+			</verse>
+			<marker class="begin-verse" mid="v45016011">
+			</marker>
+			<verse num="11">
+				Greet my kinsman Herodion. Greet those in the Lord who belong to the family of Narcissus.
+			</verse>
+			<marker class="begin-verse" mid="v45016012">
+			</marker>
+			<verse num="12">
+				Greet those workers in the Lord, Tryphaena and Tryphosa. Greet the beloved Persis, who has worked hard in the Lord.
+			</verse>
+			<marker class="begin-verse" mid="v45016013">
+			</marker>
+			<verse num="13">
+				Greet Rufus, chosen in the Lord; also his mother, who has been a mother to me as well.
+			</verse>
+			<marker class="begin-verse" mid="v45016014">
+			</marker>
+			<verse num="14">
+				Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers
+				<note nid="n45016014.1">
+				</note>
+				 who are with them.
+			</verse>
+			<marker class="begin-verse" mid="v45016015">
+			</marker>
+			<verse num="15">
+				Greet Philologus, Julia, Nereus and his sister, and Olympas, and all the saints who are with them.
+			</verse>
+			<marker class="begin-verse" mid="v45016016">
+			</marker>
+			<verse num="16">
+				<crossref let="w" cid="c45016016.1">
+				</crossref>
+				Greet one another with a holy kiss. All the churches of Christ greet you.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45016017">
+			</marker>
+			<heading
+				>
+				Final Instructions and Greetings
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				I appeal to you, brothers, to watch out for those who cause divisions and create obstacles 
+				<crossref let="x" cid="c45016017.1">
+				</crossref>
+				contrary to the doctrine that you have been taught; 
+				<crossref let="y" cid="c45016017.2">
+				</crossref>
+				avoid them.
+			</verse>
+			<marker class="begin-verse" mid="v45016018">
+			</marker>
+			<verse num="18">
+				For such persons do not serve our Lord Christ, but 
+				<crossref let="z" cid="c45016018.1">
+				</crossref>
+				their own appetites,
+				<note nid="n45016018.1">
+				</note>
+				 and 
+				<crossref let="a" cid="c45016018.2">
+				</crossref>
+				by smooth talk and flattery they deceive the hearts of the naive.
+			</verse>
+			<marker class="begin-verse" mid="v45016019">
+			</marker>
+			<verse num="19">
+				For 
+				<crossref let="b" cid="c45016019.1">
+				</crossref>
+				your obedience is known to all, so that I rejoice over you, but I want you 
+				<crossref let="c" cid="c45016019.2">
+				</crossref>
+				to be wise as to what is good and innocent as to what is evil.
+			</verse>
+			<marker class="begin-verse" mid="v45016020">
+			</marker>
+			<verse num="20">
+				<crossref let="d" cid="c45016020.1">
+				</crossref>
+				The God of peace 
+				<crossref let="e" cid="c45016020.2">
+				</crossref>
+				will soon crush Satan under your feet. 
+				<crossref let="f" cid="c45016020.3">
+				</crossref>
+				The grace of our Lord Jesus Christ be with you.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45016021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<crossref let="g" cid="c45016021.1">
+				</crossref>
+				Timothy, my fellow worker, greets you; so do Lucius and Jason and Sosipater, my kinsmen.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45016022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				I Tertius, 
+				<crossref let="h" cid="c45016022.1">
+				</crossref>
+				who wrote this letter, greet you in the Lord.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45016023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				<crossref let="i" cid="c45016023.1">
+				</crossref>
+				Gaius, who is host to me and to the whole church, greets you. Erastus, the city treasurer, and our brother Quartus, greet you.
+				<note nid="n45016023.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45016025">
+			</marker>
+			<heading
+				>
+				Doxology
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				<crossref let="j" cid="c45016025.1">
+				</crossref>
+				Now to him who is able to strengthen you 
+				<crossref let="k" cid="c45016025.2">
+				</crossref>
+				according to my gospel and the preaching of Jesus Christ, 
+				<crossref let="l" cid="c45016025.3">
+				</crossref>
+				according to the revelation of the mystery 
+				<crossref let="m" cid="c45016025.4">
+				</crossref>
+				that was kept secret for 
+				<crossref let="n" cid="c45016025.5">
+				</crossref>
+				long ages
+			</verse>
+			<marker class="begin-verse" mid="v45016026">
+			</marker>
+			<verse num="26">
+				but 
+				<crossref let="o" cid="c45016026.1">
+				</crossref>
+				has now been disclosed and through the prophetic writings has been made known to all nations, according to the command of the eternal God, 
+				<crossref let="p" cid="c45016026.2">
+				</crossref>
+				to bring about the obedience of faithù
+			</verse>
+			<marker class="begin-verse" mid="v45016027">
+			</marker>
+			<verse num="27">
+				to 
+				<crossref let="q" cid="c45016027.1">
+				</crossref>
+				the only wise God 
+				<crossref let="r" cid="c45016027.2">
+				</crossref>
+				be glory forevermore through Jesus Christ! Amen.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

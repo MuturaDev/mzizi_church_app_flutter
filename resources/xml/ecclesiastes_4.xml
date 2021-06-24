@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ecclesiastes" num="20">
+		<marker class="begin-verse" mid="v21004001">
+		</marker>
+		<chapter num="4">
+			<heading
+				>
+				Evil Under the Sun
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="u" cid="c21004001.1">
+				</crossref>
+				Again I 
+				<crossref let="v" cid="c21004001.2">
+				</crossref>
+				saw all 
+				<crossref let="w" cid="c21004001.3">
+				</crossref>
+				the oppressions that are done under the sun. And behold, the tears of the oppressed, and they had 
+				<crossref let="x" cid="c21004001.4">
+				</crossref>
+				no one to comfort them! On the side of their oppressors there was power, and there was no one to comfort them.
+			</verse>
+			<marker class="begin-verse" mid="v21004002">
+			</marker>
+			<verse num="2">
+				And I 
+				<crossref let="y" cid="c21004002.1">
+				</crossref>
+				thought the dead who are already dead more fortunate than the living who are still alive.
+			</verse>
+			<marker class="begin-verse" mid="v21004003">
+			</marker>
+			<verse num="3">
+				But 
+				<crossref let="z" cid="c21004003.1">
+				</crossref>
+				better than both is he who has not yet been and has not seen the evil deeds that are done under the sun.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21004004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				Then I saw that all toil and all skill in work come from a man's envy of his neighbor. This also is 
+				<crossref let="a" cid="c21004004.1">
+				</crossref>
+				vanity and a striving after wind.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21004005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				The fool 
+				<crossref let="b" cid="c21004005.1">
+				</crossref>
+				folds his hands and 
+				<crossref let="c" cid="c21004005.2">
+				</crossref>
+				eats his own flesh.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21004006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<crossref let="d" cid="c21004006.1">
+				</crossref>
+				Better is a handful of 
+				<crossref let="e" cid="c21004006.2">
+				</crossref>
+				quietness than two hands full of toil and a striving after wind.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21004007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				<crossref let="u" cid="c21004007.1">
+				</crossref>
+				Again, I saw vanity under the sun:
+			</verse>
+			<marker class="begin-verse" mid="v21004008">
+			</marker>
+			<verse num="8">
+				one person who has no other, either son or brother, yet there is no end to all his toil, and his 
+				<crossref let="f" cid="c21004008.1">
+				</crossref>
+				eyes are never satisfied with riches, so that he never asks, 
+				<crossref let="g" cid="c21004008.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				For whom am I toiling and depriving myself of pleasure?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 This also is vanity and an unhappy 
+				<crossref let="h" cid="c21004008.3">
+				</crossref>
+				business.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21004009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				Two are better than one, because they have a good reward for their toil.
+			</verse>
+			<marker class="begin-verse" mid="v21004010">
+			</marker>
+			<verse num="10">
+				For if they fall, one will lift up his fellow. But woe to him who is alone when he falls and has not another to lift him up!
+			</verse>
+			<marker class="begin-verse" mid="v21004011">
+			</marker>
+			<verse num="11">
+				Again, if two lie together, they keep warm, 
+				<crossref let="i" cid="c21004011.1">
+				</crossref>
+				but how can one keep warm alone?
+			</verse>
+			<marker class="begin-verse" mid="v21004012">
+			</marker>
+			<verse num="12">
+				And though a man might prevail against one who is alone, two will withstand himùa threefold cord is not quickly broken.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21004013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				Better was 
+				<crossref let="j" cid="c21004013.1">
+				</crossref>
+				a poor and wise youth than an old and foolish king who no longer knew how 
+				<crossref let="k" cid="c21004013.2">
+				</crossref>
+				to take advice.
+			</verse>
+			<marker class="begin-verse" mid="v21004014">
+			</marker>
+			<verse num="14">
+				For he went 
+				<crossref let="l" cid="c21004014.1">
+				</crossref>
+				from prison to the throne, though in his own kingdom he had been born poor.
+			</verse>
+			<marker class="begin-verse" mid="v21004015">
+			</marker>
+			<verse num="15">
+				I saw all the living who move about under the sun, along with that
+				<note nid="n21004015.1">
+				</note>
+				 youth who was to stand in the king's
+				<note nid="n21004015.2">
+				</note>
+				 place.
+			</verse>
+			<marker class="begin-verse" mid="v21004016">
+			</marker>
+			<verse num="16">
+				There was no end of all the people, all of whom he led. Yet those who come later will not rejoice in him. Surely this also is 
+				<crossref let="m" cid="c21004016.1">
+				</crossref>
+				vanity and a striving after wind.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19013001">
+		</marker>
+		<chapter num="13">
+			<heading
+				>
+				How Long, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c19013001.1">
+				</crossref>
+				How long, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				? Will you 
+				<crossref let="w" cid="c19013001.2">
+				</crossref>
+				forget me forever?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				How long will you 
+				<crossref let="x" cid="c19013001.3">
+				</crossref>
+				hide your face from me?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19013002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				How long must I take 
+				<crossref let="y" cid="c19013002.1">
+				</crossref>
+				counsel in my soul
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and have sorrow in my heart all the day?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				How long shall my enemy be exalted over me?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19013003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c19013003.1">
+				</crossref>
+				Consider and answer me, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				 my God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c19013003.2">
+				</crossref>
+				light up my eyes, lest 
+				<crossref let="b" cid="c19013003.3">
+				</crossref>
+				I sleep the sleep of death,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19013004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c19013004.1">
+				</crossref>
+				lest my enemy say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have prevailed over him,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				lest my foes rejoice because I am 
+				<crossref let="d" cid="c19013004.2">
+				</crossref>
+				shaken.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19013005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				But I have 
+				<crossref let="e" cid="c19013005.1">
+				</crossref>
+				trusted in your steadfast love;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my heart shall 
+				<crossref let="f" cid="c19013005.2">
+				</crossref>
+				rejoice in your salvation.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19013006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				I will sing to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because he has dealt bountifully with me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

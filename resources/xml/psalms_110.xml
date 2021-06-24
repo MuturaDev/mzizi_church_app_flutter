@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19110001">
+		</marker>
+		<chapter num="110">
+			<heading
+				>
+				Sit at My Right Hand
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c19110001.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 says to my Lord:
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c19110001.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Sit at my right hand,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19110001.3">
+				</crossref>
+				until I make your enemies your 
+				<crossref let="t" cid="c19110001.4">
+				</crossref>
+				footstool.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19110002">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 sends forth 
+				<crossref let="u" cid="c19110002.1">
+				</crossref>
+				from Zion
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="v" cid="c19110002.2">
+				</crossref>
+				your mighty scepter.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c19110002.3">
+				</crossref>
+				Rule in the midst of your enemies!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19110003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19110003.1">
+				</crossref>
+				Your people will 
+				<crossref let="y" cid="c19110003.2">
+				</crossref>
+				offer themselves freely
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on the day of your 
+				<crossref let="z" cid="c19110003.3">
+				</crossref>
+				power,
+				<note nid="n19110003.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in 
+				<crossref let="a" cid="c19110003.4">
+				</crossref>
+				holy garments;
+				<note nid="n19110003.2">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				from the womb of the morning,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the dew of your youth will be yours.
+				<note nid="n19110003.3">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19110004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c19110004.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has 
+				<crossref let="c" cid="c19110004.2">
+				</crossref>
+				sworn
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and will 
+				<crossref let="d" cid="c19110004.3">
+				</crossref>
+				not change his mind,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c19110004.4">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are 
+				<crossref let="f" cid="c19110004.5">
+				</crossref>
+				a priest 
+				<crossref let="g" cid="c19110004.6">
+				</crossref>
+				forever
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				after the order of 
+				<crossref let="h" cid="c19110004.7">
+				</crossref>
+				Melchizedek.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19110005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				The Lord is at your 
+				<crossref let="i" cid="c19110005.1">
+				</crossref>
+				right hand;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he will 
+				<crossref let="j" cid="c19110005.2">
+				</crossref>
+				shatter kings on 
+				<crossref let="k" cid="c19110005.3">
+				</crossref>
+				the day of his wrath.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19110006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				He will 
+				<crossref let="l" cid="c19110006.1">
+				</crossref>
+				execute judgment among the nations,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c19110006.2">
+				</crossref>
+				filling them with corpses;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				he will 
+				<crossref let="n" cid="c19110006.3">
+				</crossref>
+				shatter chiefs
+				<note nid="n19110006.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				over the wide earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19110007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				He will 
+				<crossref let="o" cid="c19110007.1">
+				</crossref>
+				drink from the brook by the way;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				therefore he will lift up his head.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

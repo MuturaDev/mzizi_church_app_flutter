@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Song of Solomon" num="21">
+		<marker class="begin-verse" mid="v22007001">
+		</marker>
+		<chapter num="7">
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				How beautiful are your feet in sandals,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<crossref let="t" cid="c22007001.1">
+				</crossref>
+				noble daughter!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Your rounded thighs are like 
+				<crossref let="u" cid="c22007001.2">
+				</crossref>
+				jewels,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the work of 
+				<crossref let="v" cid="c22007001.3">
+				</crossref>
+				a master hand.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22007002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Your navel is a rounded bowl
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that never lacks mixed wine.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Your belly is a heap of wheat,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				encircled with 
+				<crossref let="w" cid="c22007002.1">
+				</crossref>
+				lilies.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22007003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c22007003.1">
+				</crossref>
+				Your two breasts are like two fawns,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				twins of a gazelle.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22007004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Your 
+				<crossref let="y" cid="c22007004.1">
+				</crossref>
+				neck is like an ivory tower.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Your 
+				<crossref let="z" cid="c22007004.2">
+				</crossref>
+				eyes are pools in 
+				<crossref let="a" cid="c22007004.3">
+				</crossref>
+				Heshbon,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				by the gate of Bath-rabbim.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Your nose is like a tower of 
+				<crossref let="b" cid="c22007004.4">
+				</crossref>
+				Lebanon,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				which looks toward 
+				<crossref let="c" cid="c22007004.5">
+				</crossref>
+				Damascus.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22007005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Your head crowns you like 
+				<crossref let="e" cid="c22007005.1">
+				</crossref>
+				Carmel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your 
+				<crossref let="f" cid="c22007005.2">
+				</crossref>
+				flowing locks are like purple;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a king is held captive in the tresses.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v22007006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c22007006.1">
+				</crossref>
+				How beautiful and 
+				<crossref let="h" cid="c22007006.2">
+				</crossref>
+				pleasant you are,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O loved one, with all your delights!
+				<note nid="n22007006.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22007007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Your stature is like a palm tree,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your breasts are like its clusters.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22007008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				I say I will climb the palm tree
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and lay hold of its fruit.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Oh may your breasts be like 
+				<crossref let="i" cid="c22007008.1">
+				</crossref>
+				clusters of the vine,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the scent of your breath like apples,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22007009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				and your 
+				<crossref let="j" cid="c22007009.1">
+				</crossref>
+				mouth
+				<note nid="n22007009.1">
+				</note>
+				 like the best wine.
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<subheading class="speaker">
+					She
+				</subheading>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				It goes down smoothly for my beloved,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				gliding over lips and teeth.
+				<note nid="n22007009.2">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v22007010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c22007010.1">
+				</crossref>
+				I am my beloved's,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="l" cid="c22007010.2">
+				</crossref>
+				and his desire is for me.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v22007011">
+			</marker>
+			<heading
+				>
+				The Bride Gives Her Love
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c22007011.1">
+				</crossref>
+				Come, my beloved,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let us go out into the fields
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and lodge in the villages;
+				<note nid="n22007011.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22007012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				let us go out early to the vineyards
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c22007012.1">
+				</crossref>
+				and see whether the vines have budded,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				whether 
+				<crossref let="o" cid="c22007012.2">
+				</crossref>
+				the grape blossoms have opened
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the pomegranates are in bloom.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				There I will give you my love.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22007013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c22007013.1">
+				</crossref>
+				The mandrakes give forth fragrance,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and beside our doors are all choice fruits,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c22007013.2">
+				</crossref>
+				new as well as old,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				which I have laid up for you, O my beloved.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

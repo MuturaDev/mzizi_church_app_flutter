@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19098001">
+		</marker>
+		<chapter num="98">
+			<heading
+				>
+				Make a Joyful Noise to the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Oh sing to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="y" cid="c19098001.1">
+				</crossref>
+				a new song,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for he has done 
+				<crossref let="z" cid="c19098001.2">
+				</crossref>
+				marvelous things!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				His 
+				<crossref let="a" cid="c19098001.3">
+				</crossref>
+				right hand and his holy arm
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				have worked salvation for him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19098002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has 
+				<crossref let="b" cid="c19098002.1">
+				</crossref>
+				made known his salvation;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he has 
+				<crossref let="c" cid="c19098002.2">
+				</crossref>
+				revealed his righteousness in 
+				<crossref let="d" cid="c19098002.3">
+				</crossref>
+				the sight of the nations.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19098003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				He has 
+				<crossref let="e" cid="c19098003.1">
+				</crossref>
+				remembered his 
+				<crossref let="f" cid="c19098003.2">
+				</crossref>
+				steadfast love and faithfulness
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the house of Israel.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				All 
+				<crossref let="g" cid="c19098003.3">
+				</crossref>
+				the ends of the earth have seen
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c19098003.4">
+				</crossref>
+				the salvation of our God.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19098004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19098004.1">
+				</crossref>
+				Make a joyful noise to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, all the earth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c19098004.2">
+				</crossref>
+				break forth into joyous song and sing praises!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19098005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Sing praises to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with the lyre,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with the lyre and the 
+				<crossref let="k" cid="c19098005.1">
+				</crossref>
+				sound of melody!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19098006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				With 
+				<crossref let="l" cid="c19098006.1">
+				</crossref>
+				trumpets and the sound of 
+				<crossref let="m" cid="c19098006.2">
+				</crossref>
+				the horn
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c19098006.3">
+				</crossref>
+				make a joyful noise before the King, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19098007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c19098007.1">
+				</crossref>
+				Let the sea roar, and 
+				<crossref let="o" cid="c19098007.2">
+				</crossref>
+				all that fills it;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19098007.3">
+				</crossref>
+				the world and those who dwell in it!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19098008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Let the rivers 
+				<crossref let="p" cid="c19098008.1">
+				</crossref>
+				clap their hands;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let 
+				<crossref let="q" cid="c19098008.2">
+				</crossref>
+				the hills sing for joy together
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19098009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, for he comes
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to 
+				<crossref let="r" cid="c19098009.1">
+				</crossref>
+				judge the earth.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				He will judge the world with righteousness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the peoples with equity.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

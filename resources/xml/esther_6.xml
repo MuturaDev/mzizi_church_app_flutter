@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Esther" num="16">
+		<marker class="begin-verse" mid="v17006001">
+		</marker>
+		<chapter num="6">
+			<heading
+				>
+				The King Honors Mordecai
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				On that night the king could not sleep. And he gave orders to bring 
+				<crossref let="o" cid="c17006001.1">
+				</crossref>
+				the book of memorable deeds, the chronicles, and they were read before the king.
+			</verse>
+			<marker class="begin-verse" mid="v17006002">
+			</marker>
+			<verse num="2">
+				And it was found written how 
+				<crossref let="p" cid="c17006002.1">
+				</crossref>
+				Mordecai had told about 
+				<crossref let="q" cid="c17006002.2">
+				</crossref>
+				Bigthana and 
+				<crossref let="r" cid="c17006002.3">
+				</crossref>
+				Teresh, two of the king's eunuchs, who guarded the threshold, and who had sought to lay hands on King Ahasuerus.
+			</verse>
+			<marker class="begin-verse" mid="v17006003">
+			</marker>
+			<verse num="3">
+				And the king said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What honor or distinction has been bestowed on Mordecai for this?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 The king's young men who attended him said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Nothing has been done for him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17006004">
+			</marker>
+			<verse num="4">
+				And the king said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who is in the court?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Now Haman had just entered 
+				<crossref let="s" cid="c17006004.1">
+				</crossref>
+				the outer court of the king's palace to speak to the king about having Mordecai hanged on 
+				<crossref let="t" cid="c17006004.2">
+				</crossref>
+				the gallows
+				<note nid="n17006004.1">
+				</note>
+				 that he had prepared for him.
+			</verse>
+			<marker class="begin-verse" mid="v17006005">
+			</marker>
+			<verse num="5">
+				And the king's young men told him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Haman is there, standing in the court.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And the king said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let him come in.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17006006">
+			</marker>
+			<verse num="6">
+				So Haman came in, and the king said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What should be done to the man 
+				<crossref let="u" cid="c17006006.1">
+				</crossref>
+				whom the king delights to honor?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Haman said to himself, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whom would the king delight to honor more than me?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17006007">
+			</marker>
+			<verse num="7">
+				And Haman said to the king, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				For the man whom the king delights to honor,
+			</verse>
+			<marker class="begin-verse" mid="v17006008">
+			</marker>
+			<verse num="8">
+				let royal robes be brought, which the king has worn, 
+				<crossref let="v" cid="c17006008.1">
+				</crossref>
+				and the horse that the king has ridden, and on whose head 
+				<crossref let="w" cid="c17006008.2">
+				</crossref>
+				a royal crown
+				<note nid="n17006008.1">
+				</note>
+				 is set.
+			</verse>
+			<marker class="begin-verse" mid="v17006009">
+			</marker>
+			<verse num="9">
+				And let the robes and the horse be handed over to one of the king's most noble officials. Let them dress the man whom the king delights to honor, and let them lead him on the horse through the square of the city, 
+				<crossref let="x" cid="c17006009.1">
+				</crossref>
+				proclaiming before him: 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus shall it be done to the man whom the king delights to honor.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17006010">
+			</marker>
+			<verse num="10">
+				Then the king said to Haman, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hurry; take the robes and the horse, as you have said, and do so to Mordecai the Jew, who sits 
+				<crossref let="y" cid="c17006010.1">
+				</crossref>
+				at the king's gate. Leave out nothing that you have mentioned.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17006011">
+			</marker>
+			<verse num="11">
+				So Haman took the robes and the horse, and he dressed Mordecai and led him through the square of the city, proclaiming before him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus shall it be done to the man whom the king delights to honor.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v17006012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				Then Mordecai returned to the king's gate. But Haman hurried to his house, mourning 
+				<crossref let="z" cid="c17006012.1">
+				</crossref>
+				and with his head covered.
+			</verse>
+			<marker class="begin-verse" mid="v17006013">
+			</marker>
+			<verse num="13">
+				And Haman told 
+				<crossref let="a" cid="c17006013.1">
+				</crossref>
+				his wife Zeresh and all his friends everything that had happened to him. Then his wise men and his wife Zeresh said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If Mordecai, before whom you have begun to fall, is of the Jewish people, you will not overcome him but will surely fall before him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v17006014">
+			</marker>
+			<heading
+				>
+				Esther Reveals Haman's Plot
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				While they were yet talking with him, the king's eunuchs arrived and hurried to bring Haman 
+				<crossref let="b" cid="c17006014.1">
+				</crossref>
+				to the feast that Esther had prepared.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

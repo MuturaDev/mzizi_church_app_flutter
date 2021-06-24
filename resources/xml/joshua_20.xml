@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Joshua" num="5">
+		<marker class="begin-verse" mid="v06020001">
+		</marker>
+		<chapter num="20">
+			<heading
+				>
+				The Cities of Refuge
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Joshua,
+			</verse>
+			<marker class="begin-verse" mid="v06020002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say to the people of Israel, 
+				<crossref let="j" cid="c06020002.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Appoint the cities of refuge, of which I spoke to you through Moses,
+			</verse>
+			<marker class="begin-verse" mid="v06020003">
+			</marker>
+			<verse num="3">
+				that the manslayer who strikes any person without intent or unknowingly may flee there. They shall be for you a refuge from the avenger of blood.
+			</verse>
+			<marker class="begin-verse" mid="v06020004">
+			</marker>
+			<verse num="4">
+				He shall flee to one of these cities and shall stand 
+				<crossref let="k" cid="c06020004.1">
+				</crossref>
+				at the entrance of the gate of the city and explain his case to the elders of that city. Then they shall take him into the city and give him a place, and he shall remain with them.
+			</verse>
+			<marker class="begin-verse" mid="v06020005">
+			</marker>
+			<verse num="5">
+				And if the avenger of blood pursues him, they shall not give up the manslayer into his hand, because he struck his neighbor unknowingly, and did not hate him in the past.
+			</verse>
+			<marker class="begin-verse" mid="v06020006">
+			</marker>
+			<verse num="6">
+				And he shall remain in that city 
+				<crossref let="l" cid="c06020006.1">
+				</crossref>
+				until he has stood before the congregation for judgment, until the death of him who is high priest at the time. Then the manslayer may return to his own town and his own home, to the town from which he fled.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06020007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				So they set apart 
+				<crossref let="m" cid="c06020007.1">
+				</crossref>
+				Kedesh in Galilee in the hill country of Naphtali, and 
+				<crossref let="n" cid="c06020007.2">
+				</crossref>
+				Shechem in the hill country of Ephraim, and 
+				<crossref let="o" cid="c06020007.3">
+				</crossref>
+				Kiriath-arba (that is, Hebron) 
+				<crossref let="p" cid="c06020007.4">
+				</crossref>
+				in the hill country of Judah.
+			</verse>
+			<marker class="begin-verse" mid="v06020008">
+			</marker>
+			<verse num="8">
+				And beyond the Jordan east of Jericho, they appointed 
+				<crossref let="q" cid="c06020008.1">
+				</crossref>
+				Bezer in the wilderness on the tableland, from the tribe of Reuben, and 
+				<crossref let="r" cid="c06020008.2">
+				</crossref>
+				Ramoth in Gilead, from the tribe of Gad, and 
+				<crossref let="s" cid="c06020008.3">
+				</crossref>
+				Golan in Bashan, from the tribe of Manasseh.
+			</verse>
+			<marker class="begin-verse" mid="v06020009">
+			</marker>
+			<verse num="9">
+				These were the cities designated for all the people of Israel and 
+				<crossref let="t" cid="c06020009.1">
+				</crossref>
+				for the stranger sojourning among them, that anyone who killed a person without intent could flee there, so that he might not die by the hand of the avenger of blood, till he stood before the congregation.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

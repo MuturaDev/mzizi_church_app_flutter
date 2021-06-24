@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02014001">
+		</marker>
+		<chapter num="14">
+			<heading
+				>
+				Crossing the Red Sea
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses,
+			</verse>
+			<marker class="begin-verse" mid="v02014002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tell the people of Israel to 
+				<crossref let="t" cid="c02014002.1">
+				</crossref>
+				turn back and encamp in front of Pi-hahiroth, between 
+				<crossref let="u" cid="c02014002.2">
+				</crossref>
+				Migdol and the sea, in front of Baal-zephon; you shall encamp facing it, by the sea.
+			</verse>
+			<marker class="begin-verse" mid="v02014003">
+			</marker>
+			<verse num="3">
+				For Pharaoh will say of the people of Israel, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				They are wandering in the land; the wilderness has shut them in.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02014004">
+			</marker>
+			<verse num="4">
+				And 
+				<crossref let="v" cid="c02014004.1">
+				</crossref>
+				I will harden Pharaoh's heart, and he will pursue them, and I will 
+				<crossref let="w" cid="c02014004.2">
+				</crossref>
+				get glory over Pharaoh and all his host, 
+				<crossref let="x" cid="c02014004.3">
+				</crossref>
+				and the Egyptians shall know that I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And they did so.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02014005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				When the king of Egypt was told that the people had fled, the 
+				<crossref let="y" cid="c02014005.1">
+				</crossref>
+				mind of Pharaoh and his servants was changed toward the people, and they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is this we have done, that we have let Israel go from serving us?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02014006">
+			</marker>
+			<verse num="6">
+				So he made ready his chariot and took his army with him,
+			</verse>
+			<marker class="begin-verse" mid="v02014007">
+			</marker>
+			<verse num="7">
+				and took 
+				<crossref let="z" cid="c02014007.1">
+				</crossref>
+				six hundred chosen chariots and all the other chariots of Egypt with officers over all of them.
+			</verse>
+			<marker class="begin-verse" mid="v02014008">
+			</marker>
+			<verse num="8">
+				And 
+				<crossref let="v" cid="c02014008.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 hardened the heart of Pharaoh king of Egypt, and he pursued the people of Israel while 
+				<crossref let="a" cid="c02014008.2">
+				</crossref>
+				the people of Israel were going out defiantly.
+			</verse>
+			<marker class="begin-verse" mid="v02014009">
+			</marker>
+			<verse num="9">
+				The 
+				<crossref let="b" cid="c02014009.1">
+				</crossref>
+				Egyptians pursued them, all Pharaoh's horses and chariots and his horsemen and his army, and overtook them 
+				<crossref let="c" cid="c02014009.2">
+				</crossref>
+				encamped at the sea, by Pi-hahiroth, in front of Baal-zephon.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02014010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				When Pharaoh drew near, the people of Israel lifted up their eyes, and behold, the Egyptians were marching after them, and they feared greatly. And the people of Israel 
+				<crossref let="d" cid="c02014010.1">
+				</crossref>
+				cried out to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v02014011">
+			</marker>
+			<verse num="11">
+				They 
+				<crossref let="e" cid="c02014011.1">
+				</crossref>
+				said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is it because there are no graves in Egypt that you have taken us away to die in the wilderness? What have you done to us in bringing us out of Egypt?
+			</verse>
+			<marker class="begin-verse" mid="v02014012">
+			</marker>
+			<verse num="12">
+				Is not this what 
+				<crossref let="f" cid="c02014012.1">
+				</crossref>
+				we said to you in Egypt: 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Leave us alone that we may serve the Egyptians
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				? For it would have been better for us to serve the Egyptians than to die in the wilderness.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02014013">
+			</marker>
+			<verse num="13">
+				And Moses said to the people, 
+				<crossref let="g" cid="c02014013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Fear not, stand firm, and see the salvation of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, which he will work for you today. For 
+				<crossref let="h" cid="c02014013.2">
+				</crossref>
+				the Egyptians whom you see today, you shall never see again.
+			</verse>
+			<marker class="begin-verse" mid="v02014014">
+			</marker>
+			<verse num="14">
+				<crossref let="i" cid="c02014014.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will fight for you, and you have only 
+				<crossref let="j" cid="c02014014.2">
+				</crossref>
+				to be silent.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02014015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do you cry to me? Tell the people of Israel to go forward.
+			</verse>
+			<marker class="begin-verse" mid="v02014016">
+			</marker>
+			<verse num="16">
+				<crossref let="k" cid="c02014016.1">
+				</crossref>
+				Lift up your staff, and 
+				<crossref let="k" cid="c02014016.2">
+				</crossref>
+				stretch out your hand over the sea and divide it, that the people of Israel may go through the sea on dry ground.
+			</verse>
+			<marker class="begin-verse" mid="v02014017">
+			</marker>
+			<verse num="17">
+				And 
+				<crossref let="l" cid="c02014017.1">
+				</crossref>
+				I will harden the hearts of the Egyptians so that they shall go in after them, and 
+				<crossref let="m" cid="c02014017.2">
+				</crossref>
+				I will get glory over Pharaoh and all his host, his chariots, and his horsemen.
+			</verse>
+			<marker class="begin-verse" mid="v02014018">
+			</marker>
+			<verse num="18">
+				And the Egyptians 
+				<crossref let="n" cid="c02014018.1">
+				</crossref>
+				shall know that I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="m" cid="c02014018.2">
+				</crossref>
+				when I have gotten glory over Pharaoh, his chariots, and his horsemen.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02014019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				<crossref let="o" cid="c02014019.1">
+				</crossref>
+				Then the angel of God who was going before the host of Israel moved and went behind them, and the pillar of cloud moved from before them and stood behind them,
+			</verse>
+			<marker class="begin-verse" mid="v02014020">
+			</marker>
+			<verse num="20">
+				coming between the host of Egypt and the host of Israel. And there was the cloud and the darkness. And it lit up the night
+				<note nid="n02014020.1">
+				</note>
+				 without one coming near the other all night.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02014021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				Then Moses 
+				<crossref let="k" cid="c02014021.1">
+				</crossref>
+				stretched out his hand over the sea, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 drove the sea back by 
+				<crossref let="p" cid="c02014021.2">
+				</crossref>
+				a strong east wind all night and 
+				<crossref let="q" cid="c02014021.3">
+				</crossref>
+				made the sea dry land, and the waters were 
+				<crossref let="r" cid="c02014021.4">
+				</crossref>
+				divided.
+			</verse>
+			<marker class="begin-verse" mid="v02014022">
+			</marker>
+			<verse num="22">
+				And 
+				<crossref let="s" cid="c02014022.1">
+				</crossref>
+				the people of Israel went into the midst of the sea on dry ground, the waters being 
+				<crossref let="t" cid="c02014022.2">
+				</crossref>
+				a wall to them on their right hand and on their left.
+			</verse>
+			<marker class="begin-verse" mid="v02014023">
+			</marker>
+			<verse num="23">
+				The Egyptians pursued and went in after them into the midst of the sea, all Pharaoh's horses, his chariots, and his horsemen.
+			</verse>
+			<marker class="begin-verse" mid="v02014024">
+			</marker>
+			<verse num="24">
+				And in the morning watch the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 in the pillar of fire and of cloud looked down on the Egyptian forces and threw the Egyptian forces into a panic,
+			</verse>
+			<marker class="begin-verse" mid="v02014025">
+			</marker>
+			<verse num="25">
+				clogging
+				<note nid="n02014025.1">
+				</note>
+				 their chariot wheels so that they drove heavily. And the Egyptians said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let us flee from before Israel, for the 
+				<crossref let="u" cid="c02014025.1">
+				</crossref>
+				<span class="divine-name">
+					Lord
+				</span>
+				 fights for them against the Egyptians.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02014026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<crossref let="v" cid="c02014026.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Stretch out your hand over the sea, that the water may come back upon the Egyptians, upon their chariots, and upon their horsemen.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02014027">
+			</marker>
+			<verse num="27">
+				<crossref let="w" cid="c02014027.1">
+				</crossref>
+				So Moses stretched out his hand over the sea, and the sea 
+				<crossref let="x" cid="c02014027.2">
+				</crossref>
+				returned to its normal course when the morning appeared. And as the Egyptians fled into it, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="y" cid="c02014027.3">
+				</crossref>
+				threw
+				<note nid="n02014027.1">
+				</note>
+				 the Egyptians into the midst of the sea.
+			</verse>
+			<marker class="begin-verse" mid="v02014028">
+			</marker>
+			<verse num="28">
+				The 
+				<crossref let="z" cid="c02014028.1">
+				</crossref>
+				waters returned and covered the chariots and the horsemen; of all the host of Pharaoh that had followed them into the sea, 
+				<crossref let="a" cid="c02014028.2">
+				</crossref>
+				not one of them remained.
+			</verse>
+			<marker class="begin-verse" mid="v02014029">
+			</marker>
+			<verse num="29">
+				But the 
+				<crossref let="b" cid="c02014029.1">
+				</crossref>
+				people of Israel walked on dry ground through the sea, the waters being a wall to them on their right hand and on their left.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02014030">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="30">
+				Thus the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="c" cid="c02014030.1">
+				</crossref>
+				saved Israel that day from the hand of the Egyptians, and Israel saw the Egyptians dead on the seashore.
+			</verse>
+			<marker class="begin-verse" mid="v02014031">
+			</marker>
+			<verse num="31">
+				<crossref let="d" cid="c02014031.1">
+				</crossref>
+				Israel saw the great power that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 used against the Egyptians, so the people feared the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and they 
+				<crossref let="e" cid="c02014031.2">
+				</crossref>
+				believed in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and in his servant Moses.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

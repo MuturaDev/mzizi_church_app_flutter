@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Numbers" num="3">
+		<marker class="begin-verse" mid="v04004001">
+		</marker>
+		<chapter num="4">
+			<heading
+				>
+				Duties of the Kohathites
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses and Aaron, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04004002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take a census of the sons of Kohath from among the sons of Levi, by their clans and their fathers' houses,
+			</verse>
+			<marker class="begin-verse" mid="v04004003">
+			</marker>
+			<verse num="3">
+				<crossref let="b" cid="c04004003.1">
+				</crossref>
+				from thirty years old up to fifty years old, all who can come on duty, to do the work in the tent of meeting.
+			</verse>
+			<marker class="begin-verse" mid="v04004004">
+			</marker>
+			<verse num="4">
+				This is the service of the sons of Kohath in the tent of meeting: 
+				<crossref let="c" cid="c04004004.1">
+				</crossref>
+				the most holy things.
+			</verse>
+			<marker class="begin-verse" mid="v04004005">
+			</marker>
+			<verse num="5">
+				When the camp is to set out, Aaron and his sons shall go in and take down 
+				<crossref let="d" cid="c04004005.1">
+				</crossref>
+				the veil of the screen and cover 
+				<crossref let="e" cid="c04004005.2">
+				</crossref>
+				the ark of the testimony with it.
+			</verse>
+			<marker class="begin-verse" mid="v04004006">
+			</marker>
+			<verse num="6">
+				Then they shall put on it a covering of goatskin
+				<note nid="n04004006.1">
+				</note>
+				 and spread on top of that a cloth all of blue, and shall put in its 
+				<crossref let="f" cid="c04004006.1">
+				</crossref>
+				poles.
+			</verse>
+			<marker class="begin-verse" mid="v04004007">
+			</marker>
+			<verse num="7">
+				And over the 
+				<crossref let="g" cid="c04004007.1">
+				</crossref>
+				table of the bread of the Presence they shall spread a cloth of blue and put on it the plates, the dishes for incense, the bowls, and the flagons for the drink offering; 
+				<crossref let="h" cid="c04004007.2">
+				</crossref>
+				the regular showbread also shall be on it.
+			</verse>
+			<marker class="begin-verse" mid="v04004008">
+			</marker>
+			<verse num="8">
+				Then they shall spread over them a cloth of scarlet and cover the same with a covering of goatskin, and shall 
+				<crossref let="i" cid="c04004008.1">
+				</crossref>
+				put in its poles.
+			</verse>
+			<marker class="begin-verse" mid="v04004009">
+			</marker>
+			<verse num="9">
+				And they shall take a cloth of blue and cover 
+				<crossref let="j" cid="c04004009.1">
+				</crossref>
+				the lampstand for the light, with its lamps, its tongs, its trays, and all the vessels for oil with which it is supplied.
+			</verse>
+			<marker class="begin-verse" mid="v04004010">
+			</marker>
+			<verse num="10">
+				And they shall put it with all its utensils in a covering of goatskin and put it on the carrying frame.
+			</verse>
+			<marker class="begin-verse" mid="v04004011">
+			</marker>
+			<verse num="11">
+				And over 
+				<crossref let="k" cid="c04004011.1">
+				</crossref>
+				the golden altar they shall spread a cloth of blue and cover it with a covering of goatskin, and shall put in its poles.
+			</verse>
+			<marker class="begin-verse" mid="v04004012">
+			</marker>
+			<verse num="12">
+				And they shall take all 
+				<crossref let="l" cid="c04004012.1">
+				</crossref>
+				the vessels of the service that are used in the sanctuary and put them in a cloth of blue and cover them with a covering of goatskin and put them on the carrying frame.
+			</verse>
+			<marker class="begin-verse" mid="v04004013">
+			</marker>
+			<verse num="13">
+				And they shall take away the ashes from the altar and spread a purple cloth over it.
+			</verse>
+			<marker class="begin-verse" mid="v04004014">
+			</marker>
+			<verse num="14">
+				And they shall put on it all the utensils of the altar, which are used for the service there, the fire pans, the forks, the shovels, and the basins, all the utensils of the altar; and they shall spread on it a covering of goatskin, and shall put in its poles.
+			</verse>
+			<marker class="begin-verse" mid="v04004015">
+			</marker>
+			<verse num="15">
+				And when Aaron and his sons have finished covering the sanctuary and all the furnishings of the sanctuary, as the camp sets out, after that 
+				<crossref let="m" cid="c04004015.1">
+				</crossref>
+				the sons of Kohath shall come to carry these, 
+				<crossref let="n" cid="c04004015.2">
+				</crossref>
+				but they must not touch the holy things, lest they die. These are the things of the tent of meeting that the sons of Kohath are to carry.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04004016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				And Eleazar the son of Aaron the priest shall have charge of 
+				<crossref let="o" cid="c04004016.1">
+				</crossref>
+				the oil for the light, the 
+				<crossref let="p" cid="c04004016.2">
+				</crossref>
+				fragrant incense, 
+				<crossref let="q" cid="c04004016.3">
+				</crossref>
+				the regular grain offering, and 
+				<crossref let="r" cid="c04004016.4">
+				</crossref>
+				the anointing oil, with the oversight of the whole tabernacle and all that is in it, of the sanctuary and its vessels.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04004017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses and Aaron, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04004018">
+			</marker>
+			<verse num="18">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let not the tribe of the clans of the Kohathites be destroyed from among the Levites,
+			</verse>
+			<marker class="begin-verse" mid="v04004019">
+			</marker>
+			<verse num="19">
+				but deal thus with them, that they may live and not die when they come near to 
+				<crossref let="s" cid="c04004019.1">
+				</crossref>
+				the most holy things: Aaron and his sons shall go in and appoint them each to his task and to his burden,
+			</verse>
+			<marker class="begin-verse" mid="v04004020">
+			</marker>
+			<verse num="20">
+				<crossref let="t" cid="c04004020.1">
+				</crossref>
+				but they shall not go in to look on the holy things even for a moment, lest they die.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04004021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04004022">
+			</marker>
+			<verse num="22">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take a census of the sons of Gershon also, by their fathers' houses and by their clans.
+			</verse>
+			<marker class="begin-verse" mid="v04004023">
+			</marker>
+			<verse num="23">
+				<crossref let="u" cid="c04004023.1">
+				</crossref>
+				From thirty years old up to fifty years old, you shall list them, all who can 
+				<crossref let="v" cid="c04004023.2">
+				</crossref>
+				come to do duty, to do service in the tent of meeting.
+			</verse>
+			<marker class="begin-verse" mid="v04004024">
+			</marker>
+			<verse num="24">
+				This is the service of the clans of the Gershonites, in serving and bearing burdens:
+			</verse>
+			<marker class="begin-verse" mid="v04004025">
+			</marker>
+			<verse num="25">
+				<crossref let="w" cid="c04004025.1">
+				</crossref>
+				they shall carry 
+				<crossref let="x" cid="c04004025.2">
+				</crossref>
+				the curtains of the tabernacle and the tent of meeting with 
+				<crossref let="y" cid="c04004025.3">
+				</crossref>
+				its covering and the covering of goatskin that is on top of it and the screen for the entrance of the tent of meeting
+			</verse>
+			<marker class="begin-verse" mid="v04004026">
+			</marker>
+			<verse num="26">
+				and the hangings of the court and the screen for the entrance of the gate of the court that is around the tabernacle and the altar, and their cords and all the equipment for their service. And they shall do all that needs to be done with regard to them.
+			</verse>
+			<marker class="begin-verse" mid="v04004027">
+			</marker>
+			<verse num="27">
+				All the service of the sons of the Gershonites shall be at the command of Aaron and his sons, in all that they are to carry and in all that they have to do. And you shall assign to their charge all that they are to carry.
+			</verse>
+			<marker class="begin-verse" mid="v04004028">
+			</marker>
+			<verse num="28">
+				This is the service of the clans of the sons of the Gershonites in the tent of meeting, and their guard duty is to be 
+				<crossref let="z" cid="c04004028.1">
+				</crossref>
+				under the direction of Ithamar the son of Aaron the priest.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04004029">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				As for the sons of Merari, you shall list them by their clans and their fathers' houses.
+			</verse>
+			<marker class="begin-verse" mid="v04004030">
+			</marker>
+			<verse num="30">
+				<crossref let="u" cid="c04004030.1">
+				</crossref>
+				From thirty years old up to fifty years old, you shall list them, everyone who can come on duty, to do the service of the tent of meeting.
+			</verse>
+			<marker class="begin-verse" mid="v04004031">
+			</marker>
+			<verse num="31">
+				And 
+				<crossref let="a" cid="c04004031.1">
+				</crossref>
+				this is what they are charged to carry, as the whole of their service in the tent of meeting: the frames of the tabernacle, with its bars, pillars, and bases,
+			</verse>
+			<marker class="begin-verse" mid="v04004032">
+			</marker>
+			<verse num="32">
+				and the pillars around the court with their bases, pegs, and cords, with all their equipment and all their accessories. And you shall 
+				<crossref let="b" cid="c04004032.1">
+				</crossref>
+				list by name the objects that they are required to carry.
+			</verse>
+			<marker class="begin-verse" mid="v04004033">
+			</marker>
+			<verse num="33">
+				This is the service of the clans of the sons of Merari, the whole of their service in the tent of meeting, 
+				<crossref let="c" cid="c04004033.1">
+				</crossref>
+				under the direction of Ithamar the son of Aaron the priest.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04004034">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="34">
+				And Moses and Aaron and the chiefs of the congregation listed the sons of the Kohathites, by their clans and their fathers' houses,
+			</verse>
+			<marker class="begin-verse" mid="v04004035">
+			</marker>
+			<verse num="35">
+				<crossref let="u" cid="c04004035.1">
+				</crossref>
+				from thirty years old up to fifty years old, everyone who could come on duty, for service in the tent of meeting;
+			</verse>
+			<marker class="begin-verse" mid="v04004036">
+			</marker>
+			<verse num="36">
+				and those listed by clans were 2,750.
+			</verse>
+			<marker class="begin-verse" mid="v04004037">
+			</marker>
+			<verse num="37">
+				<crossref let="d" cid="c04004037.1">
+				</crossref>
+				This was the list of the clans of the Kohathites, all who served in the tent of meeting, whom Moses and Aaron listed according to the commandment of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 by Moses.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04004038">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="38">
+				Those listed of the sons of Gershon, by their clans and their fathers' houses,
+			</verse>
+			<marker class="begin-verse" mid="v04004039">
+			</marker>
+			<verse num="39">
+				<crossref let="u" cid="c04004039.1">
+				</crossref>
+				from thirty years old up to fifty years old, everyone who could come on duty for service in the tent of meetingù
+			</verse>
+			<marker class="begin-verse" mid="v04004040">
+			</marker>
+			<verse num="40">
+				those listed by their clans and their fathers' houses were 2,630.
+			</verse>
+			<marker class="begin-verse" mid="v04004041">
+			</marker>
+			<verse num="41">
+				<crossref let="e" cid="c04004041.1">
+				</crossref>
+				This was the list of the clans of the sons of Gershon, all who served in the tent of meeting, whom Moses and Aaron listed according to the commandment of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04004042">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="42">
+				Those listed of the clans of the sons of Merari, by their clans and their fathers' houses,
+			</verse>
+			<marker class="begin-verse" mid="v04004043">
+			</marker>
+			<verse num="43">
+				<crossref let="u" cid="c04004043.1">
+				</crossref>
+				from thirty years old up to fifty years old, everyone who could come on duty, for service in the tent of meetingù
+			</verse>
+			<marker class="begin-verse" mid="v04004044">
+			</marker>
+			<verse num="44">
+				those listed by clans were 3,200.
+			</verse>
+			<marker class="begin-verse" mid="v04004045">
+			</marker>
+			<verse num="45">
+				<crossref let="f" cid="c04004045.1">
+				</crossref>
+				This was the list of the clans of the sons of Merari, whom Moses and Aaron listed according to the commandment of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 by Moses.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04004046">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="46">
+				All those who were listed of the Levites, whom Moses and Aaron and the chiefs of Israel listed, by their clans and their fathers' houses,
+			</verse>
+			<marker class="begin-verse" mid="v04004047">
+			</marker>
+			<verse num="47">
+				<crossref let="u" cid="c04004047.1">
+				</crossref>
+				from thirty years old up to fifty years old, everyone who could come to do the service of ministry and the service of bearing burdens in the tent of meeting,
+			</verse>
+			<marker class="begin-verse" mid="v04004048">
+			</marker>
+			<verse num="48">
+				those listed were 8,580.
+			</verse>
+			<marker class="begin-verse" mid="v04004049">
+			</marker>
+			<verse num="49">
+				According to the commandment of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 through Moses they were listed, 
+				<crossref let="g" cid="c04004049.1">
+				</crossref>
+				each one with his task of serving or carrying. Thus they were listed by him, 
+				<crossref let="h" cid="c04004049.2">
+				</crossref>
+				as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded Moses.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

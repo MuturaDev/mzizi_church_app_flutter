@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="2">
+		<marker class="begin-verse" mid="v02001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Israel Increases Greatly in Egypt
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="a" cid="c02001001.1">
+				</crossref>
+				These are the names of the sons of Israel who came to Egypt with Jacob, each with his household:
+			</verse>
+			<marker class="begin-verse" mid="v02001002">
+			</marker>
+			<verse num="2">
+				Reuben, Simeon, Levi, and Judah,
+			</verse>
+			<marker class="begin-verse" mid="v02001003">
+			</marker>
+			<verse num="3">
+				Issachar, Zebulun, and Benjamin,
+			</verse>
+			<marker class="begin-verse" mid="v02001004">
+			</marker>
+			<verse num="4">
+				Dan and Naphtali, Gad and Asher.
+			</verse>
+			<marker class="begin-verse" mid="v02001005">
+			</marker>
+			<verse num="5">
+				All the descendants of Jacob were 
+				<crossref let="b" cid="c02001005.1">
+				</crossref>
+				seventy persons; Joseph was already in Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v02001006">
+			</marker>
+			<verse num="6">
+				Then 
+				<crossref let="c" cid="c02001006.1">
+				</crossref>
+				Joseph died, and all his brothers and all that generation.
+			</verse>
+			<marker class="begin-verse" mid="v02001007">
+			</marker>
+			<verse num="7">
+				<crossref let="d" cid="c02001007.1">
+				</crossref>
+				But the people of Israel were fruitful and increased greatly; they multiplied and grew exceedingly strong, so that the land was filled with them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02001008">
+			</marker>
+			<heading
+				>
+				Pharaoh Oppresses Israel
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Now there arose a new king over Egypt, 
+				<crossref let="e" cid="c02001008.1">
+				</crossref>
+				who did not know Joseph.
+			</verse>
+			<marker class="begin-verse" mid="v02001009">
+			</marker>
+			<verse num="9">
+				And he said to his people, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, 
+				<crossref let="f" cid="c02001009.1">
+				</crossref>
+				the people of Israel are too many and too mighty for us.
+			</verse>
+			<marker class="begin-verse" mid="v02001010">
+			</marker>
+			<verse num="10">
+				<crossref let="g" cid="c02001010.1">
+				</crossref>
+				Come, 
+				<crossref let="h" cid="c02001010.2">
+				</crossref>
+				let us deal shrewdly with them, lest they multiply, and, if war breaks out, they join our enemies and fight against us and escape from the land.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02001011">
+			</marker>
+			<verse num="11">
+				Therefore they set taskmasters over them 
+				<crossref let="i" cid="c02001011.1">
+				</crossref>
+				to afflict them with heavy 
+				<crossref let="j" cid="c02001011.2">
+				</crossref>
+				burdens. They built for Pharaoh 
+				<crossref let="k" cid="c02001011.3">
+				</crossref>
+				store cities, Pithom and 
+				<crossref let="l" cid="c02001011.4">
+				</crossref>
+				Raamses.
+			</verse>
+			<marker class="begin-verse" mid="v02001012">
+			</marker>
+			<verse num="12">
+				But the more they were oppressed, the more they multiplied and the more they spread abroad. And the Egyptians were in dread of the people of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v02001013">
+			</marker>
+			<verse num="13">
+				So they ruthlessly made the people of Israel 
+				<crossref let="m" cid="c02001013.1">
+				</crossref>
+				work as slaves
+			</verse>
+			<marker class="begin-verse" mid="v02001014">
+			</marker>
+			<verse num="14">
+				and 
+				<crossref let="n" cid="c02001014.1">
+				</crossref>
+				made their lives bitter with hard service, in mortar and brick, and in all kinds of work in the field. In all their work they ruthlessly made them work as slaves.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02001015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				Then the king of Egypt said to the Hebrew midwives, one of whom was named Shiphrah and the other Puah,
+			</verse>
+			<marker class="begin-verse" mid="v02001016">
+			</marker>
+			<verse num="16">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				When you serve as midwife to the Hebrew women and see them on the birthstool, if it is a son, you shall kill him, but if it is a daughter, she shall live.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02001017">
+			</marker>
+			<verse num="17">
+				But the midwives 
+				<crossref let="o" cid="c02001017.1">
+				</crossref>
+				feared God and did not do as the king of Egypt commanded them, but let the male children live.
+			</verse>
+			<marker class="begin-verse" mid="v02001018">
+			</marker>
+			<verse num="18">
+				So the king of Egypt called the midwives and said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have you done this, and let the male children live?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02001019">
+			</marker>
+			<verse num="19">
+				The midwives said to Pharaoh, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because the Hebrew women are not like the Egyptian women, for they are vigorous and give birth before the midwife comes to them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02001020">
+			</marker>
+			<verse num="20">
+				<crossref let="p" cid="c02001020.1">
+				</crossref>
+				So God dealt well with the midwives. And the people multiplied and grew very strong.
+			</verse>
+			<marker class="begin-verse" mid="v02001021">
+			</marker>
+			<verse num="21">
+				And because the midwives feared God, 
+				<crossref let="q" cid="c02001021.1">
+				</crossref>
+				he gave them families.
+			</verse>
+			<marker class="begin-verse" mid="v02001022">
+			</marker>
+			<verse num="22">
+				Then Pharaoh commanded all his people, 
+				<crossref let="r" cid="c02001022.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Every son that is born to the Hebrews
+				<note nid="n02001022.1">
+				</note>
+				 you shall cast into 
+				<crossref let="s" cid="c02001022.2">
+				</crossref>
+				the Nile, but you shall let every daughter live.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

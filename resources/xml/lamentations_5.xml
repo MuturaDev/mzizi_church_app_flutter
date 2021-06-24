@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Lamentations" num="24">
+		<marker class="begin-verse" mid="v25005001">
+		</marker>
+		<chapter num="5">
+			<heading
+				>
+				Restore Us to Yourself, O 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c25005001.1">
+				</crossref>
+				Remember, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, what has befallen us;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				look, and see 
+				<crossref let="d" cid="c25005001.2">
+				</crossref>
+				our disgrace!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c25005002.1">
+				</crossref>
+				Our inheritance has been turned over to strangers,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				our homes to foreigners.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				We have become orphans, fatherless;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				our mothers are like widows.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				We must pay for the water we drink;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the wood we get must be bought.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c25005005.1">
+				</crossref>
+				Our pursuers are at our necks;
+				<note nid="n25005005.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				we are weary; we are given no rest.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				We have given the hand to 
+				<crossref let="g" cid="c25005006.1">
+				</crossref>
+				Egypt, and to 
+				<crossref let="g" cid="c25005006.2">
+				</crossref>
+				Assyria,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to get bread enough.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Our fathers sinned, and are no more;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c25005007.1">
+				</crossref>
+				and we bear their iniquities.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c25005008.1">
+				</crossref>
+				Slaves rule over us;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				there is none to deliver us from their hand.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c25005009.1">
+				</crossref>
+				We get our bread at the peril of our lives,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because of the sword in the wilderness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c25005010.1">
+				</crossref>
+				Our skin is hot as an oven
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with 
+				<crossref let="l" cid="c25005010.2">
+				</crossref>
+				the burning heat of famine.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Women are raped in Zion,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				young women in the towns of Judah.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c25005012.1">
+				</crossref>
+				Princes are hung up by their hands;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c25005012.2">
+				</crossref>
+				no respect is shown to the elders.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				Young men are compelled to 
+				<crossref let="o" cid="c25005013.1">
+				</crossref>
+				grind at the mill,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and boys stagger 
+				<crossref let="p" cid="c25005013.2">
+				</crossref>
+				under loads of wood.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c25005014.1">
+				</crossref>
+				The old men have left the city gate,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the young men 
+				<crossref let="q" cid="c25005014.2">
+				</crossref>
+				their music.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c25005015.1">
+				</crossref>
+				The joy of our hearts has ceased;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c25005015.2">
+				</crossref>
+				our dancing has been turned to mourning.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c25005016.1">
+				</crossref>
+				The crown has fallen from our head;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				woe to us, for we have sinned!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				For this 
+				<crossref let="t" cid="c25005017.1">
+				</crossref>
+				our heart has become sick,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for these things 
+				<crossref let="u" cid="c25005017.2">
+				</crossref>
+				our eyes have grown dim,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				for Mount Zion which lies desolate;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="v" cid="c25005018.1">
+				</crossref>
+				jackals prowl over it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c25005019.1">
+				</crossref>
+				But you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, reign forever;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your throne endures to all generations.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c25005020.1">
+				</crossref>
+				Why do you forget us forever,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				why do you forsake us for so many days?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c25005021.1">
+				</crossref>
+				Restore us to yourself, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, that we may be restored!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Renew our days as of oldù
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v25005022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c25005022.1">
+				</crossref>
+				unless you have utterly rejected us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you remain exceedingly angry with us.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

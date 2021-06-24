@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				The Seventh Day, God Rests
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Thus the heavens and the earth were finished, and 
+				<crossref let="w" cid="c01002001.1">
+				</crossref>
+				all the host of them.
+			</verse>
+			<marker class="begin-verse" mid="v01002002">
+			</marker>
+			<verse num="2">
+				And 
+				<crossref let="x" cid="c01002002.1">
+				</crossref>
+				on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done.
+			</verse>
+			<marker class="begin-verse" mid="v01002003">
+			</marker>
+			<verse num="3">
+				So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01002004">
+			</marker>
+			<heading
+				>
+				The Creation of Man and Woman
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c01002004.1">
+				</crossref>
+				These are the generations
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				of the heavens and the earth when they were created,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				in the day that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God made the earth and the heavens.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v01002005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				When no 
+				<crossref let="z" cid="c01002005.1">
+				</crossref>
+				bush of the field
+				<note nid="n01002005.1">
+				</note>
+				 was yet in the land
+				<note nid="n01002005.2">
+				</note>
+				 and no small plant of the field had yet sprung upùfor the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God had not caused it to rain on the land, and there was no man 
+				<crossref let="a" cid="c01002005.2">
+				</crossref>
+				to work the ground,
+			</verse>
+			<marker class="begin-verse" mid="v01002006">
+			</marker>
+			<verse num="6">
+				and a mist
+				<note nid="n01002006.1">
+				</note>
+				 was going up from the land and was watering the whole face of the groundù
+			</verse>
+			<marker class="begin-verse" mid="v01002007">
+			</marker>
+			<verse num="7">
+				then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God formed the man of 
+				<crossref let="b" cid="c01002007.1">
+				</crossref>
+				dust from the ground and 
+				<crossref let="c" cid="c01002007.2">
+				</crossref>
+				breathed into his 
+				<crossref let="d" cid="c01002007.3">
+				</crossref>
+				nostrils the breath of life, and 
+				<crossref let="e" cid="c01002007.4">
+				</crossref>
+				the man became a living creature.
+			</verse>
+			<marker class="begin-verse" mid="v01002008">
+			</marker>
+			<verse num="8">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God planted a 
+				<crossref let="f" cid="c01002008.1">
+				</crossref>
+				garden in Eden, in the east, and there he put the man whom he had formed.
+			</verse>
+			<marker class="begin-verse" mid="v01002009">
+			</marker>
+			<verse num="9">
+				And out of the ground the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God made to spring up every tree that is pleasant to the sight and good for food. 
+				<crossref let="g" cid="c01002009.1">
+				</crossref>
+				The tree of life was in the midst of the garden, 
+				<crossref let="h" cid="c01002009.2">
+				</crossref>
+				and the tree of the knowledge of good and evil.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01002010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				A river flowed out of Eden to water the garden, and there it divided and became four rivers.
+			</verse>
+			<marker class="begin-verse" mid="v01002011">
+			</marker>
+			<verse num="11">
+				The name of the first is the Pishon. It is the one that flowed around the whole land of 
+				<crossref let="i" cid="c01002011.1">
+				</crossref>
+				Havilah, where there is gold.
+			</verse>
+			<marker class="begin-verse" mid="v01002012">
+			</marker>
+			<verse num="12">
+				And the gold of that land is good; bdellium and onyx stone are there.
+			</verse>
+			<marker class="begin-verse" mid="v01002013">
+			</marker>
+			<verse num="13">
+				The name of the second river is the Gihon. It is the one that flowed around the whole land of Cush.
+			</verse>
+			<marker class="begin-verse" mid="v01002014">
+			</marker>
+			<verse num="14">
+				And the name of the third river is the 
+				<crossref let="j" cid="c01002014.1">
+				</crossref>
+				Tigris, which flows east of Assyria. And the fourth river is the Euphrates.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01002015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God took the man 
+				<crossref let="k" cid="c01002015.1">
+				</crossref>
+				and put him in the garden of Eden to work it and keep it.
+			</verse>
+			<marker class="begin-verse" mid="v01002016">
+			</marker>
+			<verse num="16">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God commanded the man, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You may surely eat of every tree of the garden,
+			</verse>
+			<marker class="begin-verse" mid="v01002017">
+			</marker>
+			<verse num="17">
+				but of the tree of the knowledge of good and evil 
+				<crossref let="l" cid="c01002017.1">
+				</crossref>
+				you shall not eat, for in the day that you eat
+				<note nid="n01002017.1">
+				</note>
+				 of it you 
+				<crossref let="m" cid="c01002017.2">
+				</crossref>
+				shall surely die.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01002018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is not good that the man should be alone; 
+				<crossref let="n" cid="c01002018.1">
+				</crossref>
+				I will make him a helper fit for
+				<note nid="n01002018.1">
+				</note>
+				 him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01002019">
+			</marker>
+			<verse num="19">
+				<crossref let="o" cid="c01002019.1">
+				</crossref>
+				Now out of the ground the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God had formed
+				<note nid="n01002019.1">
+				</note>
+				 every beast of the field and every bird of the heavens and 
+				<crossref let="p" cid="c01002019.2">
+				</crossref>
+				brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name.
+			</verse>
+			<marker class="begin-verse" mid="v01002020">
+			</marker>
+			<verse num="20">
+				The man gave names to all livestock and to the birds of the heavens and to every beast of the field. But for Adam
+				<note nid="n01002020.1">
+				</note>
+				 there was not found a helper fit for him.
+			</verse>
+			<marker class="begin-verse" mid="v01002021">
+			</marker>
+			<verse num="21">
+				So the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God caused a 
+				<crossref let="q" cid="c01002021.1">
+				</crossref>
+				deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place with flesh.
+			</verse>
+			<marker class="begin-verse" mid="v01002022">
+			</marker>
+			<verse num="22">
+				And the rib that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God had taken from the man he made
+				<note nid="n01002022.1">
+				</note>
+				 into a woman and brought her to the man.
+			</verse>
+			<marker class="begin-verse" mid="v01002023">
+			</marker>
+			<verse num="23">
+				Then the man said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This at last is 
+				<crossref let="r" cid="c01002023.1">
+				</crossref>
+				bone of my bones
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and flesh of my flesh;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				she shall be called Woman,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because she was 
+				<crossref let="s" cid="c01002023.2">
+				</crossref>
+				taken out of Man.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n01002023.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v01002024">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="24">
+				<crossref let="t" cid="c01002024.1">
+				</crossref>
+				Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh.
+			</verse>
+			<marker class="begin-verse" mid="v01002025">
+			</marker>
+			<verse num="25">
+				And the man and his wife were both naked and were not ashamed.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

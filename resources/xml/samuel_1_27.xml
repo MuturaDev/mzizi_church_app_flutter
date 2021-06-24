@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09027001">
+		</marker>
+		<chapter num="27">
+			<heading
+				>
+				David Flees to the Philistines
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then David said in his heart, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Now I shall perish one day by the hand of Saul. There is nothing better for me than that I should escape to the land of the Philistines. Then Saul will despair of seeking me any longer within the borders of Israel, and I shall escape out of his hand.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09027002">
+			</marker>
+			<verse num="2">
+				So David arose and went over, he and 
+				<crossref let="u" cid="c09027002.1">
+				</crossref>
+				the six hundred men who were with him, 
+				<crossref let="v" cid="c09027002.2">
+				</crossref>
+				to Achish the son of Maoch, king of Gath.
+			</verse>
+			<marker class="begin-verse" mid="v09027003">
+			</marker>
+			<verse num="3">
+				And David lived with Achish at Gath, he and his men, every man with his household, and David with 
+				<crossref let="w" cid="c09027003.1">
+				</crossref>
+				his two wives, Ahinoam of Jezreel, and Abigail of Carmel, Nabal's widow.
+			</verse>
+			<marker class="begin-verse" mid="v09027004">
+			</marker>
+			<verse num="4">
+				And when it was told Saul that David had fled to Gath, he no longer sought him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09027005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				Then David said to Achish, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If 
+				<crossref let="x" cid="c09027005.1">
+				</crossref>
+				I have found favor in your eyes, let a place be given me in one of the country towns, that I may dwell there. For why should your servant dwell in the royal city with you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09027006">
+			</marker>
+			<verse num="6">
+				So that day Achish gave him 
+				<crossref let="y" cid="c09027006.1">
+				</crossref>
+				Ziklag. Therefore Ziklag has belonged to the kings of Judah to this day.
+			</verse>
+			<marker class="begin-verse" mid="v09027007">
+			</marker>
+			<verse num="7">
+				<crossref let="z" cid="c09027007.1">
+				</crossref>
+				And the number of the days that David lived in the country of the Philistines was a year and four months.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09027008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Now David 
+				<crossref let="a" cid="c09027008.1">
+				</crossref>
+				and his men went up and made raids against 
+				<crossref let="b" cid="c09027008.2">
+				</crossref>
+				the Geshurites, 
+				<crossref let="c" cid="c09027008.3">
+				</crossref>
+				the Girzites, and 
+				<crossref let="d" cid="c09027008.4">
+				</crossref>
+				the Amalekites, for these were the inhabitants of the land from of old, 
+				<crossref let="e" cid="c09027008.5">
+				</crossref>
+				as far as Shur, to the land of Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v09027009">
+			</marker>
+			<verse num="9">
+				And David would strike the land and would leave neither man nor woman alive, but would take away the sheep, the oxen, the donkeys, the camels, and the garments, and come back to Achish.
+			</verse>
+			<marker class="begin-verse" mid="v09027010">
+			</marker>
+			<verse num="10">
+				When Achish asked, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where have you 
+				<crossref let="f" cid="c09027010.1">
+				</crossref>
+				made a raid today?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 David would say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Against the Negeb of Judah,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 or, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Against the Negeb of 
+				<crossref let="g" cid="c09027010.2">
+				</crossref>
+				the Jerahmeelites,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 or, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Against the Negeb of 
+				<crossref let="h" cid="c09027010.3">
+				</crossref>
+				the Kenites.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09027011">
+			</marker>
+			<verse num="11">
+				And David would leave neither man nor woman alive to bring news to Gath, thinking, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				lest they should tell about us and say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				So David has done.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Such was his custom all the while he lived in the country of the Philistines.
+			</verse>
+			<marker class="begin-verse" mid="v09027012">
+			</marker>
+			<verse num="12">
+				And Achish trusted David, thinking, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He has made himself an utter stench to his people Israel; therefore he shall always be my servant.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

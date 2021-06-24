@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ecclesiastes" num="20">
+		<marker class="begin-verse" mid="v21011001">
+		</marker>
+		<chapter num="11">
+			<heading
+				>
+				Cast Your Bread upon the Waters
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c21011001.1">
+				</crossref>
+				Cast your bread upon the waters,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="g" cid="c21011001.2">
+				</crossref>
+				for you will find it after many days.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21011002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c21011002.1">
+				</crossref>
+				Give a portion to 
+				<crossref let="i" cid="c21011002.2">
+				</crossref>
+				seven, or even to eight,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c21011002.3">
+				</crossref>
+				for you know not what disaster may happen on earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21011003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				If the clouds are full of rain,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they empty themselves on the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and if a tree falls to the south or to the north,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the place where the tree falls, there it will lie.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v21011004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				He who observes the wind will not sow,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he who regards the clouds will not reap.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v21011005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				As you do not know the way 
+				<crossref let="k" cid="c21011005.1">
+				</crossref>
+				the spirit comes to 
+				<crossref let="l" cid="c21011005.2">
+				</crossref>
+				the bones in the womb
+				<note nid="n21011005.1">
+				</note>
+				 of a woman with child, so you do not know the work of God who makes everything.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21011006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				In the morning sow your seed, and at evening 
+				<crossref let="m" cid="c21011006.1">
+				</crossref>
+				withhold not your hand, for you do not know which will prosper, this or that, or whether both alike will be good.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21011007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				Light is sweet, and it is pleasant for the eyes to 
+				<crossref let="n" cid="c21011007.1">
+				</crossref>
+				see the sun.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21011008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				So if a person lives many years, let him rejoice in them all; but let him remember 
+				<crossref let="o" cid="c21011008.1">
+				</crossref>
+				that the days of darkness will be many. All that comes is 
+				<crossref let="p" cid="c21011008.2">
+				</crossref>
+				vanity.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21011009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<crossref let="q" cid="c21011009.1">
+				</crossref>
+				Rejoice, O young man, in your youth, and let your heart cheer you in the days of your youth. 
+				<crossref let="r" cid="c21011009.2">
+				</crossref>
+				Walk in the ways of your heart and 
+				<crossref let="s" cid="c21011009.3">
+				</crossref>
+				the sight of your eyes. But know that for all these things 
+				<crossref let="t" cid="c21011009.4">
+				</crossref>
+				God will bring you into judgment.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v21011010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				Remove vexation from your heart, and 
+				<crossref let="u" cid="c21011010.1">
+				</crossref>
+				put away pain
+				<note nid="n21011010.1">
+				</note>
+				 from your body, for youth and the dawn of life are vanity.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

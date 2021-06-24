@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Revelation" num="65">
+		<marker class="begin-verse" mid="v66003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				To the Church in Sardis
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					And to the angel of the church in Sardis write: 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					The words of him 
+					<crossref let="i" cid="c66003001.1">
+					</crossref>
+					who has the seven spirits of God and the seven stars.
+				</woc>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					<q class="continue-single" qid="" from="" to="">
+					</q>
+					I know your works. You have the reputation 
+					<crossref let="j" cid="c66003001.2">
+					</crossref>
+					of being alive, 
+					<crossref let="k" cid="c66003001.3">
+					</crossref>
+					but you are dead.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003002">
+			</marker>
+			<verse num="2" class="woc">
+				<woc
+					>
+					Wake up, and strengthen what remains and is about to die, for I have not found your works 
+					<crossref let="l" cid="c66003002.1">
+					</crossref>
+					complete in the sight of my God.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003003">
+			</marker>
+			<verse num="3" class="woc">
+				<woc
+					>
+					<crossref let="m" cid="c66003003.1">
+					</crossref>
+					Remember, then, what you received and heard. Keep it, and repent. If you will not wake up, 
+					<crossref let="n" cid="c66003003.2">
+					</crossref>
+					I will come 
+					<crossref let="o" cid="c66003003.3">
+					</crossref>
+					like a thief, and you will not know at what hour I will come against you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003004">
+			</marker>
+			<verse num="4" class="woc">
+				<woc
+					>
+					Yet you have still a few names in Sardis, people who have not 
+					<crossref let="p" cid="c66003004.1">
+					</crossref>
+					soiled their garments, and they will walk with me 
+					<crossref let="q" cid="c66003004.2">
+					</crossref>
+					in white, for they are 
+					<crossref let="r" cid="c66003004.3">
+					</crossref>
+					worthy.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003005">
+			</marker>
+			<verse num="5" class="woc">
+				<woc
+					>
+					<crossref let="s" cid="c66003005.1">
+					</crossref>
+					The one who conquers will be clothed thus in white garments, and I will never 
+					<crossref let="t" cid="c66003005.2">
+					</crossref>
+					blot his name out of 
+					<crossref let="u" cid="c66003005.3">
+					</crossref>
+					the book of life. 
+					<crossref let="v" cid="c66003005.4">
+					</crossref>
+					I will confess his name before my Father and before his angels.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003006">
+			</marker>
+			<verse num="6" class="woc">
+				<woc
+					>
+					<crossref let="p" cid="c66003006.1">
+					</crossref>
+					He who has an ear, let him hear what the Spirit says to the churches.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v66003007">
+			</marker>
+			<heading
+				>
+				To the Church in Philadelphia
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					And to the angel of the church in Philadelphia write: 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					The words of 
+					<crossref let="w" cid="c66003007.1">
+					</crossref>
+					the holy one, 
+					<crossref let="x" cid="c66003007.2">
+					</crossref>
+					the true one, 
+					<crossref let="y" cid="c66003007.3">
+					</crossref>
+					who has the key of David, 
+					<crossref let="z" cid="c66003007.4">
+					</crossref>
+					who opens and no one will shut, who shuts and no one opens.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v66003008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					<q class="continue-single" qid="" from="" to="">
+					</q>
+					I know your works. Behold, I have set before you 
+					<crossref let="a" cid="c66003008.1">
+					</crossref>
+					an open door, which no one is able to shut. I know that you have but little power, and yet you have kept my word and have not denied my name.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003009">
+			</marker>
+			<verse num="9" class="woc">
+				<woc
+					>
+					Behold, I will make those of 
+					<crossref let="b" cid="c66003009.1">
+					</crossref>
+					the synagogue of Satan who say that they are Jews and are not, but lieùbehold, 
+					<crossref let="c" cid="c66003009.2">
+					</crossref>
+					I will make them come and bow down before your feet and they will learn that 
+					<crossref let="d" cid="c66003009.3">
+					</crossref>
+					I have loved you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					<crossref let="e" cid="c66003010.1">
+					</crossref>
+					Because you have kept my word about patient endurance, I will keep you from the hour of trial that is coming on the whole world, to try 
+					<crossref let="f" cid="c66003010.2">
+					</crossref>
+					those who dwell on the earth.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003011">
+			</marker>
+			<verse num="11" class="woc">
+				<woc
+					>
+					<crossref let="g" cid="c66003011.1">
+					</crossref>
+					I am coming soon. 
+					<crossref let="h" cid="c66003011.2">
+					</crossref>
+					Hold fast what you have, so that no one may seize 
+					<crossref let="i" cid="c66003011.3">
+					</crossref>
+					your crown.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc
+					>
+					<crossref let="j" cid="c66003012.1">
+					</crossref>
+					The one who conquers, I will make him 
+					<crossref let="k" cid="c66003012.2">
+					</crossref>
+					a pillar in the temple of my God. Never shall he go out of it, and I will write on him 
+					<crossref let="l" cid="c66003012.3">
+					</crossref>
+					the name of my God, and 
+					<crossref let="m" cid="c66003012.4">
+					</crossref>
+					the name of the city of my God, 
+					<crossref let="m" cid="c66003012.5">
+					</crossref>
+					the new Jerusalem, 
+					<crossref let="n" cid="c66003012.6">
+					</crossref>
+					which comes down from my God out of heaven, and my own 
+					<crossref let="o" cid="c66003012.7">
+					</crossref>
+					new name.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003013">
+			</marker>
+			<verse num="13" class="woc">
+				<woc
+					>
+					<crossref let="p" cid="c66003013.1">
+					</crossref>
+					He who has an ear, let him hear what the Spirit says to the churches.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v66003014">
+			</marker>
+			<heading
+				>
+				To the Church in Laodicea
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					And to the angel of the church in Laodicea write: 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					The words of the 
+					<crossref let="p" cid="c66003014.1">
+					</crossref>
+					Amen, 
+					<crossref let="q" cid="c66003014.2">
+					</crossref>
+					the faithful and true witness, 
+					<crossref let="r" cid="c66003014.3">
+					</crossref>
+					the beginning of God's creation.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v66003015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					<q class="continue-single" qid="" from="" to="">
+					</q>
+					I know your works: you are neither cold nor hot. 
+					<crossref let="s" cid="c66003015.1">
+					</crossref>
+					Would that you were either cold or hot!
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc
+					>
+					So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003017">
+			</marker>
+			<verse num="17" class="woc">
+				<woc
+					>
+					<crossref let="t" cid="c66003017.1">
+					</crossref>
+					For you say, I am rich, I have prospered, and I need nothing, not realizing that you are wretched, pitiable, poor, 
+					<crossref let="u" cid="c66003017.2">
+					</crossref>
+					blind, and naked.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					I counsel you 
+					<crossref let="v" cid="c66003018.1">
+					</crossref>
+					to buy from me gold refined by fire, so that you may be rich, and 
+					<crossref let="w" cid="c66003018.2">
+					</crossref>
+					white garments so that you may clothe yourself and 
+					<crossref let="x" cid="c66003018.3">
+					</crossref>
+					the shame of your nakedness may not be seen, and salve to anoint your eyes, 
+					<crossref let="u" cid="c66003018.4">
+					</crossref>
+					so that you may see.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					<crossref let="y" cid="c66003019.1">
+					</crossref>
+					Those whom I love, I reprove and discipline, so be zealous and repent.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003020">
+			</marker>
+			<verse num="20" class="woc">
+				<woc
+					>
+					Behold, I stand at the door and 
+					<crossref let="z" cid="c66003020.1">
+					</crossref>
+					knock. 
+					<crossref let="a" cid="c66003020.2">
+					</crossref>
+					If anyone hears my voice and opens the door, 
+					<crossref let="b" cid="c66003020.3">
+					</crossref>
+					I will come in to him and eat with him, and he with me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003021">
+			</marker>
+			<verse num="21" class="woc">
+				<woc
+					>
+					<crossref let="c" cid="c66003021.1">
+					</crossref>
+					The one who conquers, 
+					<crossref let="d" cid="c66003021.2">
+					</crossref>
+					I will grant him to sit with me on my throne, as 
+					<crossref let="e" cid="c66003021.3">
+					</crossref>
+					I also conquered and sat down with my Father on his throne.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v66003022">
+			</marker>
+			<verse num="22" class="woc">
+				<woc
+					>
+					<crossref let="p" cid="c66003022.1">
+					</crossref>
+					He who has an ear, let him hear what the Spirit says to the churches.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

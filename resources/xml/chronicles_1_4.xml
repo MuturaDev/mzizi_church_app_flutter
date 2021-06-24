@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Chronicles" num="12">
+		<marker class="begin-verse" mid="v13004001">
+		</marker>
+		<chapter num="4">
+			<heading
+				>
+				Descendants of Judah
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="y" cid="c13004001.1">
+				</crossref>
+				The sons of Judah: 
+				<crossref let="z" cid="c13004001.2">
+				</crossref>
+				Perez, Hezron, 
+				<crossref let="a" cid="c13004001.3">
+				</crossref>
+				Carmi, Hur, and Shobal.
+			</verse>
+			<marker class="begin-verse" mid="v13004002">
+			</marker>
+			<verse num="2">
+				<crossref let="b" cid="c13004002.1">
+				</crossref>
+				Reaiah the son of Shobal fathered Jahath, and Jahath fathered Ahumai and Lahad. These were the clans of the 
+				<crossref let="c" cid="c13004002.2">
+				</crossref>
+				Zorathites.
+			</verse>
+			<marker class="begin-verse" mid="v13004003">
+			</marker>
+			<verse num="3">
+				These were the sons
+				<note nid="n13004003.1">
+				</note>
+				 of Etam: Jezreel, Ishma, and Idbash; and the name of their sister was Hazzelelponi,
+			</verse>
+			<marker class="begin-verse" mid="v13004004">
+			</marker>
+			<verse num="4">
+				and 
+				<crossref let="d" cid="c13004004.1">
+				</crossref>
+				Penuel fathered 
+				<crossref let="e" cid="c13004004.2">
+				</crossref>
+				Gedor, and Ezer fathered Hushah. These were the sons of Hur, the firstborn of 
+				<crossref let="f" cid="c13004004.3">
+				</crossref>
+				Ephrathah, the father of Bethlehem.
+			</verse>
+			<marker class="begin-verse" mid="v13004005">
+			</marker>
+			<verse num="5">
+				<crossref let="g" cid="c13004005.1">
+				</crossref>
+				Ashhur, the father of Tekoa, had two wives, Helah and Naarah;
+			</verse>
+			<marker class="begin-verse" mid="v13004006">
+			</marker>
+			<verse num="6">
+				Naarah bore him Ahuzzam, Hepher, Temeni, and Haahashtari. These were the sons of Naarah.
+			</verse>
+			<marker class="begin-verse" mid="v13004007">
+			</marker>
+			<verse num="7">
+				The sons of Helah: Zereth, Izhar, and Ethnan.
+			</verse>
+			<marker class="begin-verse" mid="v13004008">
+			</marker>
+			<verse num="8">
+				Koz fathered Anub, Zobebah, and the clans of Aharhel, the son of Harum.
+			</verse>
+			<marker class="begin-verse" mid="v13004009">
+			</marker>
+			<verse num="9">
+				Jabez was 
+				<crossref let="h" cid="c13004009.1">
+				</crossref>
+				more honorable than his brothers; and his mother called his name Jabez, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because I bore him in pain.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n13004009.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v13004010">
+			</marker>
+			<verse num="10">
+				Jabez called upon the God of Israel, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Oh that you would bless me and enlarge my border, and that your hand might be with me, and that you would keep me from harm
+				<note nid="n13004010.1">
+				</note>
+				 so that it might not bring me pain!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And God granted what he asked.
+			</verse>
+			<marker class="begin-verse" mid="v13004011">
+			</marker>
+			<verse num="11">
+				Chelub, the brother of Shuhah, fathered Mehir, who fathered Eshton.
+			</verse>
+			<marker class="begin-verse" mid="v13004012">
+			</marker>
+			<verse num="12">
+				Eshton fathered Beth-rapha, Paseah, and Tehinnah, the father of Ir-nahash. These are the men of Recah.
+			</verse>
+			<marker class="begin-verse" mid="v13004013">
+			</marker>
+			<verse num="13">
+				The sons of 
+				<crossref let="i" cid="c13004013.1">
+				</crossref>
+				Kenaz: 
+				<crossref let="j" cid="c13004013.2">
+				</crossref>
+				Othniel and Seraiah; and the sons of Othniel: Hathath and Meonothai.
+				<note nid="n13004013.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v13004014">
+			</marker>
+			<verse num="14">
+				Meonothai fathered Ophrah; and Seraiah fathered Joab, the father of Ge-harashim,
+				<note nid="n13004014.1">
+				</note>
+				 so-called because they were craftsmen.
+			</verse>
+			<marker class="begin-verse" mid="v13004015">
+			</marker>
+			<verse num="15">
+				The sons of 
+				<crossref let="k" cid="c13004015.1">
+				</crossref>
+				Caleb the son of Jephunneh: Iru, Elah, and Naam; and the son
+				<note nid="n13004015.1">
+				</note>
+				 of Elah: Kenaz.
+			</verse>
+			<marker class="begin-verse" mid="v13004016">
+			</marker>
+			<verse num="16">
+				The sons of Jehallelel: Ziph, Ziphah, Tiria, and Asarel.
+			</verse>
+			<marker class="begin-verse" mid="v13004017">
+			</marker>
+			<verse num="17">
+				The sons of Ezrah: Jether, Mered, Epher, and Jalon. These are the sons of Bithiah, the daughter of Pharaoh, whom Mered married;
+				<note nid="n13004017.1">
+				</note>
+				 and she conceived and bore
+				<note nid="n13004017.2">
+				</note>
+				 Miriam, Shammai, and Ishbah, the father of Eshtemoa.
+			</verse>
+			<marker class="begin-verse" mid="v13004018">
+			</marker>
+			<verse num="18">
+				And his Judahite wife bore 
+				<crossref let="l" cid="c13004018.1">
+				</crossref>
+				Jered the father of Gedor, Heber the father of Soco, and Jekuthiel the father of Zanoah.
+			</verse>
+			<marker class="begin-verse" mid="v13004019">
+			</marker>
+			<verse num="19">
+				The sons of the wife of Hodiah, the sister of Naham, were the fathers of Keilah the Garmite and Eshtemoa the Maacathite.
+			</verse>
+			<marker class="begin-verse" mid="v13004020">
+			</marker>
+			<verse num="20">
+				The sons of Shimon: Amnon, Rinnah, Ben-hanan, and Tilon. The sons of Ishi: Zoheth and Ben-zoheth.
+			</verse>
+			<marker class="begin-verse" mid="v13004021">
+			</marker>
+			<verse num="21">
+				The sons of 
+				<crossref let="m" cid="c13004021.1">
+				</crossref>
+				Shelah the son of Judah: Er the father of Lecah, Laadah the father of Mareshah, and the clans of the house of linen workers at Beth-ashbea;
+			</verse>
+			<marker class="begin-verse" mid="v13004022">
+			</marker>
+			<verse num="22">
+				and Jokim, and the men of Cozeba, and Joash, and Saraph, who ruled in Moab and returned to Lehem
+				<note nid="n13004022.1">
+				</note>
+				 (now the records
+				<note nid="n13004022.2">
+				</note>
+				 are ancient).
+			</verse>
+			<marker class="begin-verse" mid="v13004023">
+			</marker>
+			<verse num="23">
+				These were the potters who were inhabitants of Netaim and Gederah. They lived there in the king's service.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13004024">
+			</marker>
+			<heading
+				>
+				Descendants of Simeon
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				<crossref let="n" cid="c13004024.1">
+				</crossref>
+				The sons of Simeon: Nemuel, Jamin, Jarib, Zerah, Shaul;
+			</verse>
+			<marker class="begin-verse" mid="v13004025">
+			</marker>
+			<verse num="25">
+				Shallum was his son, Mibsam his son, Mishma his son.
+			</verse>
+			<marker class="begin-verse" mid="v13004026">
+			</marker>
+			<verse num="26">
+				The sons of Mishma: Hammuel his son, Zaccur his son, Shimei his son.
+			</verse>
+			<marker class="begin-verse" mid="v13004027">
+			</marker>
+			<verse num="27">
+				Shimei had sixteen sons and six daughters; but his brothers did not have many children, 
+				<crossref let="o" cid="c13004027.1">
+				</crossref>
+				nor did all their clan multiply 
+				<crossref let="p" cid="c13004027.2">
+				</crossref>
+				like the men of Judah.
+			</verse>
+			<marker class="begin-verse" mid="v13004028">
+			</marker>
+			<verse num="28">
+				<crossref let="q" cid="c13004028.1">
+				</crossref>
+				They lived in Beersheba, Moladah, Hazar-shual,
+			</verse>
+			<marker class="begin-verse" mid="v13004029">
+			</marker>
+			<verse num="29">
+				<crossref let="r" cid="c13004029.1">
+				</crossref>
+				Bilhah, Ezem, 
+				<crossref let="s" cid="c13004029.2">
+				</crossref>
+				Tolad,
+			</verse>
+			<marker class="begin-verse" mid="v13004030">
+			</marker>
+			<verse num="30">
+				<crossref let="s" cid="c13004030.1">
+				</crossref>
+				Bethuel, Hormah, Ziklag,
+			</verse>
+			<marker class="begin-verse" mid="v13004031">
+			</marker>
+			<verse num="31">
+				Beth-marcaboth, 
+				<crossref let="t" cid="c13004031.1">
+				</crossref>
+				Hazar-susim, 
+				<crossref let="t" cid="c13004031.2">
+				</crossref>
+				Beth-biri, and 
+				<crossref let="t" cid="c13004031.3">
+				</crossref>
+				Shaaraim. These were their cities until David reigned.
+			</verse>
+			<marker class="begin-verse" mid="v13004032">
+			</marker>
+			<verse num="32">
+				And their villages were Etam, Ain, Rimmon, Tochen, and Ashan, five cities,
+			</verse>
+			<marker class="begin-verse" mid="v13004033">
+			</marker>
+			<verse num="33">
+				along with all their villages that were around these cities as far as 
+				<crossref let="u" cid="c13004033.1">
+				</crossref>
+				Baal. These were their settlements, and they kept a genealogical record.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13004034">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="34">
+				Meshobab, Jamlech, Joshah the son of Amaziah,
+			</verse>
+			<marker class="begin-verse" mid="v13004035">
+			</marker>
+			<verse num="35">
+				Joel, Jehu the son of Joshibiah, son of Seraiah, son of Asiel,
+			</verse>
+			<marker class="begin-verse" mid="v13004036">
+			</marker>
+			<verse num="36">
+				Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah,
+			</verse>
+			<marker class="begin-verse" mid="v13004037">
+			</marker>
+			<verse num="37">
+				Ziza the son of Shiphi, son of Allon, son of Jedaiah, son of Shimri, son of Shemaiahù
+			</verse>
+			<marker class="begin-verse" mid="v13004038">
+			</marker>
+			<verse num="38">
+				these mentioned by name were princes in their clans, 
+				<crossref let="v" cid="c13004038.1">
+				</crossref>
+				and their fathers' houses increased greatly.
+			</verse>
+			<marker class="begin-verse" mid="v13004039">
+			</marker>
+			<verse num="39">
+				They journeyed to the entrance of 
+				<crossref let="w" cid="c13004039.1">
+				</crossref>
+				Gedor, to the east side of the valley, to seek pasture for their flocks,
+			</verse>
+			<marker class="begin-verse" mid="v13004040">
+			</marker>
+			<verse num="40">
+				where they found rich, good pasture, and the land was very broad, 
+				<crossref let="x" cid="c13004040.1">
+				</crossref>
+				quiet, and peaceful, for the former inhabitants there belonged to Ham.
+			</verse>
+			<marker class="begin-verse" mid="v13004041">
+			</marker>
+			<verse num="41">
+				<crossref let="y" cid="c13004041.1">
+				</crossref>
+				These, registered by name, came in the days of Hezekiah, king of Judah, and destroyed their tents and the Meunites who were found there, and marked them for destruction to this day, 
+				<crossref let="z" cid="c13004041.2">
+				</crossref>
+				and settled in their place, because there was pasture there for their flocks.
+			</verse>
+			<marker class="begin-verse" mid="v13004042">
+			</marker>
+			<verse num="42">
+				And some of them, five hundred men of the Simeonites, went to 
+				<crossref let="a" cid="c13004042.1">
+				</crossref>
+				Mount Seir, having as their leaders Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi.
+			</verse>
+			<marker class="begin-verse" mid="v13004043">
+			</marker>
+			<verse num="43">
+				And they defeated 
+				<crossref let="b" cid="c13004043.1">
+				</crossref>
+				the remnant of the Amalekites who had escaped, and they have lived there to this day.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

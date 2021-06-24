@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09025001">
+		</marker>
+		<chapter num="25">
+			<heading
+				>
+				The Death of Samuel
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="u" cid="c09025001.1">
+				</crossref>
+				Now Samuel died. And all Israel assembled 
+				<crossref let="v" cid="c09025001.2">
+				</crossref>
+				and mourned for him, and they buried him 
+				<crossref let="w" cid="c09025001.3">
+				</crossref>
+				in his house at 
+				<crossref let="x" cid="c09025001.4">
+				</crossref>
+				Ramah.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<heading
+					>
+					David and Abigail
+				</heading>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				 Then David rose and went down to 
+				<crossref let="y" cid="c09025001.5">
+				</crossref>
+				the wilderness of Paran.
+			</verse>
+			<marker class="begin-verse" mid="v09025002">
+			</marker>
+			<verse num="2">
+				And there was a man in 
+				<crossref let="z" cid="c09025002.1">
+				</crossref>
+				Maon whose business was in 
+				<crossref let="a" cid="c09025002.2">
+				</crossref>
+				Carmel. The man was very rich; he had three thousand sheep and a thousand goats. 
+				<crossref let="b" cid="c09025002.3">
+				</crossref>
+				He was shearing his sheep in Carmel.
+			</verse>
+			<marker class="begin-verse" mid="v09025003">
+			</marker>
+			<verse num="3">
+				Now the name of the man was Nabal, and the name of his wife Abigail. The woman was discerning and beautiful, but the man was harsh and badly behaved; 
+				<crossref let="c" cid="c09025003.1">
+				</crossref>
+				he was a Calebite.
+			</verse>
+			<marker class="begin-verse" mid="v09025004">
+			</marker>
+			<verse num="4">
+				David heard in the wilderness that Nabal 
+				<crossref let="b" cid="c09025004.1">
+				</crossref>
+				was shearing his sheep.
+			</verse>
+			<marker class="begin-verse" mid="v09025005">
+			</marker>
+			<verse num="5">
+				So David sent ten young men. And David said to the young men, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go up to Carmel, and go to Nabal and greet him in my name.
+			</verse>
+			<marker class="begin-verse" mid="v09025006">
+			</marker>
+			<verse num="6">
+				And thus you shall greet him: 
+				<crossref let="d" cid="c09025006.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Peace be to you, and peace be to your house, and peace be to all that you have.
+			</verse>
+			<marker class="begin-verse" mid="v09025007">
+			</marker>
+			<verse num="7">
+				I hear that you have shearers. Now your shepherds have been with us, and we did them no harm, 
+				<crossref let="e" cid="c09025007.1">
+				</crossref>
+				and they missed nothing all the time they were in Carmel.
+			</verse>
+			<marker class="begin-verse" mid="v09025008">
+			</marker>
+			<verse num="8">
+				Ask your young men, and they will tell you. Therefore let my young men find favor in your eyes, for we come 
+				<crossref let="f" cid="c09025008.1">
+				</crossref>
+				on a feast day. Please give whatever you have at hand to your servants and to your son David.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09025009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				When David's young men came, they said all this to Nabal in the name of David, and then they waited.
+			</verse>
+			<marker class="begin-verse" mid="v09025010">
+			</marker>
+			<verse num="10">
+				And Nabal answered David's servants, 
+				<crossref let="g" cid="c09025010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who is David? Who is the son of Jesse? 
+				<crossref let="h" cid="c09025010.2">
+				</crossref>
+				There are many servants these days who are breaking away from their masters.
+			</verse>
+			<marker class="begin-verse" mid="v09025011">
+			</marker>
+			<verse num="11">
+				Shall I take 
+				<crossref let="i" cid="c09025011.1">
+				</crossref>
+				my bread and my water and my meat that I have killed for my shearers and give it to 
+				<crossref let="j" cid="c09025011.2">
+				</crossref>
+				men who come from I do not know where?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09025012">
+			</marker>
+			<verse num="12">
+				So David's young men turned away and came back and told him all this.
+			</verse>
+			<marker class="begin-verse" mid="v09025013">
+			</marker>
+			<verse num="13">
+				And David said to his men, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Every man strap on his sword!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And every man of them strapped on his sword. David also strapped on his sword. And 
+				<crossref let="k" cid="c09025013.1">
+				</crossref>
+				about four hundred men went up after David, 
+				<crossref let="k" cid="c09025013.2">
+				</crossref>
+				while two hundred 
+				<crossref let="l" cid="c09025013.3">
+				</crossref>
+				remained with the baggage.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09025014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				But one of the young men told Abigail, Nabal's wife, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, David sent messengers out of the wilderness to greet our master, and he railed at them.
+			</verse>
+			<marker class="begin-verse" mid="v09025015">
+			</marker>
+			<verse num="15">
+				Yet the men were very good to us, and we suffered no harm, 
+				<crossref let="n" cid="c09025015.1">
+				</crossref>
+				and we did not miss anything when we were in the fields, as long as we went with them.
+			</verse>
+			<marker class="begin-verse" mid="v09025016">
+			</marker>
+			<verse num="16">
+				They were 
+				<crossref let="o" cid="c09025016.1">
+				</crossref>
+				a wall to us both by night and by day, all the while we were with them keeping the sheep.
+			</verse>
+			<marker class="begin-verse" mid="v09025017">
+			</marker>
+			<verse num="17">
+				Now therefore know this and consider what you should do, 
+				<crossref let="p" cid="c09025017.1">
+				</crossref>
+				for harm is determined against our master and against all his house, and he is such 
+				<crossref let="q" cid="c09025017.2">
+				</crossref>
+				a worthless man that one cannot speak to him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09025018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				Then Abigail made haste and took two hundred loaves and two skins of wine and five sheep already prepared and five seahs
+				<note nid="n09025018.1">
+				</note>
+				 of parched grain and a hundred clusters of raisins and two hundred cakes of figs, and laid them on donkeys.
+			</verse>
+			<marker class="begin-verse" mid="v09025019">
+			</marker>
+			<verse num="19">
+				And she said to her young men, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go on before me; behold, I come after you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But she did not tell her husband Nabal.
+			</verse>
+			<marker class="begin-verse" mid="v09025020">
+			</marker>
+			<verse num="20">
+				And as she rode on the donkey and came down under cover of the mountain, behold, David and his men came down toward her, and she met them.
+			</verse>
+			<marker class="begin-verse" mid="v09025021">
+			</marker>
+			<verse num="21">
+				Now David had said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Surely in vain have I guarded all that this fellow has in the wilderness, 
+				<crossref let="r" cid="c09025021.1">
+				</crossref>
+				so that nothing was missed of all that belonged to him, and he has 
+				<crossref let="s" cid="c09025021.2">
+				</crossref>
+				returned me evil for good.
+			</verse>
+			<marker class="begin-verse" mid="v09025022">
+			</marker>
+			<verse num="22">
+				<crossref let="t" cid="c09025022.1">
+				</crossref>
+				God do so to the enemies of David
+				<note nid="n09025022.1">
+				</note>
+				 and more also, if by morning I leave so much as one male of all who belong to him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09025023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				When Abigail saw David, she hurried 
+				<crossref let="u" cid="c09025023.1">
+				</crossref>
+				and got down from the donkey 
+				<crossref let="v" cid="c09025023.2">
+				</crossref>
+				and fell before David on her face and bowed to the ground.
+			</verse>
+			<marker class="begin-verse" mid="v09025024">
+			</marker>
+			<verse num="24">
+				She fell at his feet and said, 
+				<crossref let="w" cid="c09025024.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				On me alone, my lord, be the guilt. Please let your servant speak in your ears, and hear the words of your servant.
+			</verse>
+			<marker class="begin-verse" mid="v09025025">
+			</marker>
+			<verse num="25">
+				Let not my lord regard 
+				<crossref let="q" cid="c09025025.1">
+				</crossref>
+				this worthless fellow, Nabal, for as his name is, so is he. Nabal
+				<note nid="n09025025.1">
+				</note>
+				 is his name, and folly is with him. But I your servant did not see the young men of my lord, whom you sent.
+			</verse>
+			<marker class="begin-verse" mid="v09025026">
+			</marker>
+			<verse num="26">
+				Now then, my lord, 
+				<crossref let="x" cid="c09025026.1">
+				</crossref>
+				as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 lives, and as your soul lives, because 
+				<crossref let="y" cid="c09025026.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has restrained you from bloodguilt and from 
+				<crossref let="z" cid="c09025026.3">
+				</crossref>
+				saving with your own hand, now then 
+				<crossref let="a" cid="c09025026.4">
+				</crossref>
+				let your enemies and those who seek to do evil to my lord be as Nabal.
+			</verse>
+			<marker class="begin-verse" mid="v09025027">
+			</marker>
+			<verse num="27">
+				And now let this 
+				<crossref let="b" cid="c09025027.1">
+				</crossref>
+				present that your servant has brought to my lord be given to the young men who follow my lord.
+			</verse>
+			<marker class="begin-verse" mid="v09025028">
+			</marker>
+			<verse num="28">
+				Please forgive the trespass of your servant. For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will certainly make my lord 
+				<crossref let="c" cid="c09025028.1">
+				</crossref>
+				a sure house, because my lord 
+				<crossref let="d" cid="c09025028.2">
+				</crossref>
+				is fighting the battles of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and evil shall not be found in you so long as you live.
+			</verse>
+			<marker class="begin-verse" mid="v09025029">
+			</marker>
+			<verse num="29">
+				If men rise up to pursue you and to seek your life, the life of my lord shall be bound in the bundle of the living in the care of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God. And the lives of your enemies 
+				<crossref let="e" cid="c09025029.1">
+				</crossref>
+				he shall sling out as from the hollow of a sling.
+			</verse>
+			<marker class="begin-verse" mid="v09025030">
+			</marker>
+			<verse num="30">
+				And when the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has done to my lord according to all the good that he has spoken concerning you and has appointed you prince over Israel,
+			</verse>
+			<marker class="begin-verse" mid="v09025031">
+			</marker>
+			<verse num="31">
+				my lord shall have no cause of grief or pangs of conscience for having shed blood without cause or for my lord 
+				<crossref let="z" cid="c09025031.1">
+				</crossref>
+				taking vengeance himself. And when the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has dealt well with my lord, then remember your servant.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09025032">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="32">
+				And David said to Abigail, 
+				<crossref let="f" cid="c09025032.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Blessed be the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel, who sent you this day to meet me!
+			</verse>
+			<marker class="begin-verse" mid="v09025033">
+			</marker>
+			<verse num="33">
+				Blessed be your discretion, and blessed be you, 
+				<crossref let="y" cid="c09025033.1">
+				</crossref>
+				who have kept me this day from bloodguilt 
+				<crossref let="z" cid="c09025033.2">
+				</crossref>
+				and from avenging myself with my own hand!
+			</verse>
+			<marker class="begin-verse" mid="v09025034">
+			</marker>
+			<verse num="34">
+				For as surely 
+				<crossref let="g" cid="c09025034.1">
+				</crossref>
+				as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel, lives, 
+				<crossref let="y" cid="c09025034.2">
+				</crossref>
+				who has restrained me from hurting you, unless you had hurried and come to meet me, truly by morning there had not been left to Nabal so much as one male.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09025035">
+			</marker>
+			<verse num="35">
+				Then David received from her hand what she had brought him. And he said to her, 
+				<crossref let="h" cid="c09025035.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go up in peace to your house. See, I have obeyed your voice, and I have granted your petition.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09025036">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="36">
+				And Abigail came to Nabal, and behold, 
+				<crossref let="i" cid="c09025036.1">
+				</crossref>
+				he was holding a feast in his house, like the feast of a king. And Nabal's heart 
+				<crossref let="j" cid="c09025036.2">
+				</crossref>
+				was merry within him, for he was very drunk. So she told him nothing 
+				<crossref let="k" cid="c09025036.3">
+				</crossref>
+				at all until the morning light.
+			</verse>
+			<marker class="begin-verse" mid="v09025037">
+			</marker>
+			<verse num="37">
+				In the morning, when the wine had gone out of Nabal, his wife told him these things, and his heart died within him, and he became as a stone.
+			</verse>
+			<marker class="begin-verse" mid="v09025038">
+			</marker>
+			<verse num="38">
+				And about ten days later 
+				<crossref let="l" cid="c09025038.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 struck Nabal, and he died.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09025039">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="39">
+				When David heard that Nabal was dead, he said, 
+				<crossref let="f" cid="c09025039.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Blessed be the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 who has 
+				<crossref let="m" cid="c09025039.2">
+				</crossref>
+				avenged the insult I received at the hand of Nabal, 
+				<crossref let="n" cid="c09025039.3">
+				</crossref>
+				and has kept back his servant from wrongdoing. 
+				<crossref let="o" cid="c09025039.4">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has returned the evil of Nabal on his own head.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Then David sent and 
+				<crossref let="p" cid="c09025039.5">
+				</crossref>
+				spoke to Abigail, to take her as his wife.
+			</verse>
+			<marker class="begin-verse" mid="v09025040">
+			</marker>
+			<verse num="40">
+				When the servants of David came to Abigail at Carmel, they said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				David has sent us to you to take you to him as his wife.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09025041">
+			</marker>
+			<verse num="41">
+				And she rose 
+				<crossref let="q" cid="c09025041.1">
+				</crossref>
+				and bowed with her face to the ground and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, your handmaid is a servant to wash the feet of the servants of my lord.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09025042">
+			</marker>
+			<verse num="42">
+				And Abigail hurried and rose and mounted a donkey, and her five young women attended her. She followed the messengers of David and became his wife.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09025043">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="43">
+				David also took Ahinoam of 
+				<crossref let="r" cid="c09025043.1">
+				</crossref>
+				Jezreel, 
+				<crossref let="s" cid="c09025043.2">
+				</crossref>
+				and both of them became his wives.
+			</verse>
+			<marker class="begin-verse" mid="v09025044">
+			</marker>
+			<verse num="44">
+				Saul had given Michal his daughter, David's wife, to Palti the son of Laish, who was of Gallim.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

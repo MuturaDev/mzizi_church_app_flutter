@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Esther" num="16">
+		<marker class="begin-verse" mid="v17007001">
+		</marker>
+		<chapter num="7">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				So the king and Haman went in to feast with Queen Esther.
+			</verse>
+			<marker class="begin-verse" mid="v17007002">
+			</marker>
+			<verse num="2">
+				And on the second day, as they were drinking wine after the feast, the king again said to Esther, 
+				<crossref let="c" cid="c17007002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is your wish, Queen Esther? It shall be granted you. And what is your request? 
+				<crossref let="d" cid="c17007002.2">
+				</crossref>
+				Even to the half of my kingdom, it shall be fulfilled.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17007003">
+			</marker>
+			<verse num="3">
+				Then Queen Esther answered, 
+				<crossref let="e" cid="c17007003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If I have found favor in your sight, O king, and if it please the king, let my life be granted me for my wish, and my people for my request.
+			</verse>
+			<marker class="begin-verse" mid="v17007004">
+			</marker>
+			<verse num="4">
+				<crossref let="f" cid="c17007004.1">
+				</crossref>
+				For we have been sold, I and my people, 
+				<crossref let="g" cid="c17007004.2">
+				</crossref>
+				to be destroyed, to be killed, and to be annihilated. If we had been sold merely as slaves, men and women, I would have been silent, for our affliction is not to be compared with the loss to the king.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17007005">
+			</marker>
+			<verse num="5">
+				Then King Ahasuerus said to Queen Esther, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who is he, and where is he, who has dared
+				<note nid="n17007005.1">
+				</note>
+				 to do this?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17007006">
+			</marker>
+			<verse num="6">
+				And Esther said, 
+				<crossref let="h" cid="c17007006.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				A foe and enemy! This wicked Haman!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Then Haman was terrified before the king and the queen.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v17007007">
+			</marker>
+			<heading
+				>
+				Haman Is Hanged
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				And the king arose in his wrath from the wine-drinking and went into 
+				<crossref let="i" cid="c17007007.1">
+				</crossref>
+				the palace garden, but Haman stayed to beg for his life from Queen Esther, for he saw that harm was determined against him by the king.
+			</verse>
+			<marker class="begin-verse" mid="v17007008">
+			</marker>
+			<verse num="8">
+				And the king returned from 
+				<crossref let="i" cid="c17007008.1">
+				</crossref>
+				the palace garden to the place where they were drinking wine, as Haman was falling on 
+				<crossref let="j" cid="c17007008.2">
+				</crossref>
+				the couch where Esther was. And the king said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Will he even assault the queen in my presence, in my own house?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 As the word left the mouth of the king, they covered Haman's face.
+			</verse>
+			<marker class="begin-verse" mid="v17007009">
+			</marker>
+			<verse num="9">
+				Then 
+				<crossref let="k" cid="c17007009.1">
+				</crossref>
+				Harbona, one of the eunuchs in attendance on the king, said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Moreover, 
+				<crossref let="l" cid="c17007009.2">
+				</crossref>
+				the gallows
+				<note nid="n17007009.1">
+				</note>
+				 that Haman has prepared for Mordecai, 
+				<crossref let="m" cid="c17007009.3">
+				</crossref>
+				whose word saved the king, is standing at Haman's house, fifty cubits
+				<note nid="n17007009.2">
+				</note>
+				 high.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17007010">
+			</marker>
+			<verse num="10">
+				And the king said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hang him on that.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<crossref let="n" cid="c17007010.1">
+				</crossref>
+				So they hanged Haman on the gallows that he had prepared for Mordecai. 
+				<crossref let="o" cid="c17007010.2">
+				</crossref>
+				Then the wrath of the king abated.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

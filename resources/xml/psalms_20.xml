@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19020001">
+		</marker>
+		<chapter num="20">
+			<heading
+				>
+				Trust in the Name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Our God
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				May the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="l" cid="c19020001.1">
+				</crossref>
+				answer you in the day of trouble!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				May 
+				<crossref let="m" cid="c19020001.2">
+				</crossref>
+				the name of the God of Jacob 
+				<crossref let="n" cid="c19020001.3">
+				</crossref>
+				protect you!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19020002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				May he send you help from 
+				<crossref let="o" cid="c19020002.1">
+				</crossref>
+				the sanctuary
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and give you support from 
+				<crossref let="p" cid="c19020002.2">
+				</crossref>
+				Zion!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19020003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				May he 
+				<crossref let="q" cid="c19020003.1">
+				</crossref>
+				remember all your offerings
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and regard with favor your burnt sacrifices! 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19020004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				May he 
+				<crossref let="r" cid="c19020004.1">
+				</crossref>
+				grant you your heart's desire
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and fulfill all your plans!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19020005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				May we shout for joy over 
+				<crossref let="s" cid="c19020005.1">
+				</crossref>
+				your salvation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and in the name of our God set up our 
+				<crossref let="t" cid="c19020005.2">
+				</crossref>
+				banners!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				May the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 fulfill all your petitions!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19020006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Now I know that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 saves his anointed;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he will answer him from his holy heaven
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with 
+				<crossref let="u" cid="c19020006.1">
+				</crossref>
+				the saving might of his right hand.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19020007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Some trust in 
+				<crossref let="v" cid="c19020007.1">
+				</crossref>
+				chariots and some in 
+				<crossref let="w" cid="c19020007.2">
+				</crossref>
+				horses,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c19020007.3">
+				</crossref>
+				but we trust in the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19020008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				They collapse and fall,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but we rise and stand upright.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19020009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, save 
+				<crossref let="y" cid="c19020009.1">
+				</crossref>
+				the king!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				May he answer us when we call.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

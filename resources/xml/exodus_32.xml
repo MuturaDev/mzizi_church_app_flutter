@@ -1,0 +1,535 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02032001">
+		</marker>
+		<chapter num="32">
+			<heading
+				>
+				The Golden Calf
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				When the people saw that Moses 
+				<crossref let="v" cid="c02032001.1">
+				</crossref>
+				delayed to come down from the mountain, the people gathered themselves together to Aaron and said to him, 
+				<crossref let="w" cid="c02032001.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Up, make us gods who shall 
+				<crossref let="x" cid="c02032001.3">
+				</crossref>
+				go before us. As for this Moses, the man who brought us up out of the land of Egypt, we do not know what has become of him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02032002">
+			</marker>
+			<verse num="2">
+				So Aaron said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take off the 
+				<crossref let="y" cid="c02032002.1">
+				</crossref>
+				rings of gold that are in the ears of your wives, your sons, and your daughters, and bring them to me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02032003">
+			</marker>
+			<verse num="3">
+				So all the people took off the rings of gold that were in their ears and brought them to Aaron.
+			</verse>
+			<marker class="begin-verse" mid="v02032004">
+			</marker>
+			<verse num="4">
+				<crossref let="z" cid="c02032004.1">
+				</crossref>
+				And he received the gold from their hand and fashioned it with a graving tool and made a golden
+				<note nid="n02032004.1">
+				</note>
+				 calf. And they said, 
+				<crossref let="a" cid="c02032004.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				These are your gods, O Israel, who brought you up out of the land of Egypt!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02032005">
+			</marker>
+			<verse num="5">
+				When Aaron saw this, he built an altar before it. And Aaron 
+				<crossref let="b" cid="c02032005.1">
+				</crossref>
+				made proclamation and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tomorrow shall be a feast to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02032006">
+			</marker>
+			<verse num="6">
+				And they rose up early the next day and offered burnt offerings and brought peace offerings. And 
+				<crossref let="c" cid="c02032006.1">
+				</crossref>
+				the people sat down to eat and drink and rose up 
+				<crossref let="d" cid="c02032006.2">
+				</crossref>
+				to play.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02032007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<crossref let="e" cid="c02032007.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go down, for your people, whom you brought up out of the land of Egypt, have 
+				<crossref let="f" cid="c02032007.2">
+				</crossref>
+				corrupted themselves.
+			</verse>
+			<marker class="begin-verse" mid="v02032008">
+			</marker>
+			<verse num="8">
+				They have turned aside quickly out of the way that 
+				<crossref let="g" cid="c02032008.1">
+				</crossref>
+				I commanded them. They have made for themselves a golden calf and have worshiped it and sacrificed to it and said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				These are your gods, O Israel, who brought you up out of the land of Egypt!
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02032009">
+			</marker>
+			<verse num="9">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have seen this people, and behold, 
+				<crossref let="h" cid="c02032009.1">
+				</crossref>
+				it is a stiff-necked people.
+			</verse>
+			<marker class="begin-verse" mid="v02032010">
+			</marker>
+			<verse num="10">
+				Now therefore 
+				<crossref let="i" cid="c02032010.1">
+				</crossref>
+				let me alone, that 
+				<crossref let="j" cid="c02032010.2">
+				</crossref>
+				my wrath may burn hot against them and 
+				<crossref let="k" cid="c02032010.3">
+				</crossref>
+				I may consume them, in order that 
+				<crossref let="l" cid="c02032010.4">
+				</crossref>
+				I may make a great nation of you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02032011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				But 
+				<crossref let="m" cid="c02032011.1">
+				</crossref>
+				Moses implored the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 his God and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, why does your wrath burn hot against your people, whom you have brought out of the land of Egypt with great power and with a mighty hand?
+			</verse>
+			<marker class="begin-verse" mid="v02032012">
+			</marker>
+			<verse num="12">
+				<crossref let="n" cid="c02032012.1">
+				</crossref>
+				Why should the Egyptians say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				With evil intent did he bring them out, to kill them in the mountains and to consume them from the face of the earth
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				? Turn from your burning anger and 
+				<crossref let="o" cid="c02032012.2">
+				</crossref>
+				relent from this disaster against your people.
+			</verse>
+			<marker class="begin-verse" mid="v02032013">
+			</marker>
+			<verse num="13">
+				Remember Abraham, Isaac, and Israel, your servants, to whom you 
+				<crossref let="p" cid="c02032013.1">
+				</crossref>
+				swore by your own self, and said to them, 
+				<crossref let="q" cid="c02032013.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will multiply your offspring as the stars of heaven, and all this land that I have promised I will give to your offspring, and they shall inherit it forever.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02032014">
+			</marker>
+			<verse num="14">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="r" cid="c02032014.1">
+				</crossref>
+				relented from the disaster that he had spoken of bringing on his people.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02032015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				Then 
+				<crossref let="s" cid="c02032015.1">
+				</crossref>
+				Moses turned and went down from the mountain with the 
+				<crossref let="t" cid="c02032015.2">
+				</crossref>
+				two tablets of the testimony in his hand, tablets that were written on both sides; on the front and on the back they were written.
+			</verse>
+			<marker class="begin-verse" mid="v02032016">
+			</marker>
+			<verse num="16">
+				<crossref let="u" cid="c02032016.1">
+				</crossref>
+				The tablets were the work of God, and the writing was the writing of God, engraved on the tablets.
+			</verse>
+			<marker class="begin-verse" mid="v02032017">
+			</marker>
+			<verse num="17">
+				When 
+				<crossref let="v" cid="c02032017.1">
+				</crossref>
+				Joshua heard the noise of the people as they shouted, he said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				There is a noise of war in the camp.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02032018">
+			</marker>
+			<verse num="18">
+				But he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is not the sound of 
+				<crossref let="w" cid="c02032018.1">
+				</crossref>
+				shouting for victory, or the sound of the cry of defeat, but the sound of singing that I hear.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02032019">
+			</marker>
+			<verse num="19">
+				And as soon as he came near the camp and 
+				<crossref let="x" cid="c02032019.1">
+				</crossref>
+				saw the calf and the dancing, Moses' anger burned hot, and he threw the tablets out of his hands and broke them at the foot of the mountain.
+			</verse>
+			<marker class="begin-verse" mid="v02032020">
+			</marker>
+			<verse num="20">
+				He took the calf that they had made and burned it with fire and ground it to powder and scattered it on the water and made the people of Israel drink it.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02032021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				And Moses said to Aaron, 
+				<crossref let="y" cid="c02032021.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What did this people do to you that you have brought such a great sin upon them?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02032022">
+			</marker>
+			<verse num="22">
+				And Aaron said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let not the anger of my lord burn hot. 
+				<crossref let="z" cid="c02032022.1">
+				</crossref>
+				You know the people, that they are set on evil.
+			</verse>
+			<marker class="begin-verse" mid="v02032023">
+			</marker>
+			<verse num="23">
+				For 
+				<crossref let="a" cid="c02032023.1">
+				</crossref>
+				they said to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Make us gods who shall go before us. As for this Moses, the man who brought us up out of the land of Egypt, we do not know what has become of him.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02032024">
+			</marker>
+			<verse num="24">
+				So 
+				<crossref let="b" cid="c02032024.1">
+				</crossref>
+				I said to them, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Let any who have gold take it off.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 So they gave it to me, and I threw it into the fire, and out came this calf.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02032025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				And when Moses saw that the people had broken loose (for Aaron had let them break loose, 
+				<crossref let="c" cid="c02032025.1">
+				</crossref>
+				to the derision of their enemies),
+			</verse>
+			<marker class="begin-verse" mid="v02032026">
+			</marker>
+			<verse num="26">
+				then Moses stood in the gate of the camp and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who is on the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's side? Come to me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And all the sons of Levi gathered around him.
+			</verse>
+			<marker class="begin-verse" mid="v02032027">
+			</marker>
+			<verse num="27">
+				And he said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God of Israel, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Put your sword on your side each of you, and go to and fro from gate to gate throughout the camp, and each of you 
+				<crossref let="d" cid="c02032027.1">
+				</crossref>
+				kill his brother and his companion and his neighbor.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02032028">
+			</marker>
+			<verse num="28">
+				And the sons of Levi did according to the word of Moses. And that day about three thousand men of the people fell.
+			</verse>
+			<marker class="begin-verse" mid="v02032029">
+			</marker>
+			<verse num="29">
+				And Moses said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Today you have been 
+				<crossref let="e" cid="c02032029.1">
+				</crossref>
+				ordained for the service of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, each one at the cost of his son and of his brother, so that he might bestow a blessing upon you this day.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02032030">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="30">
+				The next day Moses said to the people, 
+				<crossref let="f" cid="c02032030.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You have sinned a great sin. And now I will go up to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				; 
+				<crossref let="g" cid="c02032030.2">
+				</crossref>
+				perhaps I can make atonement for your sin.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02032031">
+			</marker>
+			<verse num="31">
+				So Moses returned to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Alas, 
+				<crossref let="f" cid="c02032031.1">
+				</crossref>
+				this people has sinned a great sin. They have 
+				<crossref let="h" cid="c02032031.2">
+				</crossref>
+				made for themselves gods of gold.
+			</verse>
+			<marker class="begin-verse" mid="v02032032">
+			</marker>
+			<verse num="32">
+				But now, if 
+				<crossref let="i" cid="c02032032.1">
+				</crossref>
+				you will forgive their sinùbut if not, please 
+				<crossref let="j" cid="c02032032.2">
+				</crossref>
+				blot me out of 
+				<crossref let="k" cid="c02032032.3">
+				</crossref>
+				your book that you have written.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02032033">
+			</marker>
+			<verse num="33">
+				But the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<crossref let="l" cid="c02032033.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whoever has sinned against me, I will blot out of my book.
+			</verse>
+			<marker class="begin-verse" mid="v02032034">
+			</marker>
+			<verse num="34">
+				<crossref let="m" cid="c02032034.1">
+				</crossref>
+				But now go, lead the people to the place about which I have spoken to you; 
+				<crossref let="n" cid="c02032034.2">
+				</crossref>
+				behold, my angel shall go before you. Nevertheless, in the day when I visit, I will visit their sin upon them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02032035">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="35">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 sent a plague on the people, because they made the calf, the one that Aaron made.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

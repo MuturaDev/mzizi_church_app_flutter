@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19127001">
+		</marker>
+		<chapter num="127">
+			<heading
+				>
+				Unless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Builds the House
+			</heading>
+			<subheading class="psalm-title">
+				A Song of 
+				<crossref let="m" cid="c19127001.1">
+				</crossref>
+				Ascents. Of Solomon.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Unless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 builds the house,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				those who build it labor in vain.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Unless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="x" cid="c19127001.2">
+				</crossref>
+				watches over the city,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the watchman stays awake in vain.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19127002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				It is in vain that you rise up early
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and go late to rest,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				eating the bread of anxious 
+				<crossref let="y" cid="c19127002.1">
+				</crossref>
+				toil;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for he gives to his 
+				<crossref let="z" cid="c19127002.2">
+				</crossref>
+				beloved 
+				<crossref let="a" cid="c19127002.3">
+				</crossref>
+				sleep.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19127003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Behold, 
+				<crossref let="b" cid="c19127003.1">
+				</crossref>
+				children are a heritage from the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c19127003.2">
+				</crossref>
+				the fruit of the womb a reward.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19127004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Like arrows in the hand of 
+				<crossref let="d" cid="c19127004.1">
+				</crossref>
+				a warrior
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				are the children
+				<note nid="n19127004.1">
+				</note>
+				 of one's youth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19127005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Blessed is the man
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who fills his quiver with them!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				He shall not be put to shame
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when he speaks with his enemies 
+				<crossref let="e" cid="c19127005.1">
+				</crossref>
+				in the gate.
+				<note nid="n19127005.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="18">
+		<marker class="begin-verse" mid="v18001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Job's Character and Wealth
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				There was a man in the land of 
+				<crossref let="a" cid="c18001001.1">
+				</crossref>
+				Uz whose name was 
+				<crossref let="b" cid="c18001001.2">
+				</crossref>
+				Job, and that man was 
+				<crossref let="c" cid="c18001001.3">
+				</crossref>
+				blameless and upright, one who 
+				<crossref let="d" cid="c18001001.4">
+				</crossref>
+				feared God and 
+				<crossref let="e" cid="c18001001.5">
+				</crossref>
+				turned away from evil.
+			</verse>
+			<marker class="begin-verse" mid="v18001002">
+			</marker>
+			<verse num="2">
+				There were born to him 
+				<crossref let="f" cid="c18001002.1">
+				</crossref>
+				seven sons and three daughters.
+			</verse>
+			<marker class="begin-verse" mid="v18001003">
+			</marker>
+			<verse num="3">
+				He possessed 7,000 sheep, 3,000 camels, 500 yoke of oxen, and 500 female donkeys, and very many servants, so that this man was the greatest of all 
+				<crossref let="g" cid="c18001003.1">
+				</crossref>
+				the people of the east.
+			</verse>
+			<marker class="begin-verse" mid="v18001004">
+			</marker>
+			<verse num="4">
+				His sons used to go and hold a feast in the house of each one on his day, and they would send and invite their three sisters to eat and drink with them.
+			</verse>
+			<marker class="begin-verse" mid="v18001005">
+			</marker>
+			<verse num="5">
+				And when the days of the feast had run their course, Job would send and 
+				<crossref let="h" cid="c18001005.1">
+				</crossref>
+				consecrate them, and he would rise early in the morning and 
+				<crossref let="i" cid="c18001005.2">
+				</crossref>
+				offer burnt offerings according to the number of them all. For Job said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It may be that my children have sinned, and 
+				<crossref let="j" cid="c18001005.3">
+				</crossref>
+				cursed
+				<note nid="n18001005.1">
+				</note>
+				 God in their hearts.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Thus Job did continually.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18001006">
+			</marker>
+			<heading
+				>
+				Satan Allowed to Test Job
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				Now there was a day when 
+				<crossref let="k" cid="c18001006.1">
+				</crossref>
+				the sons of God came to present themselves before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and 
+				<crossref let="l" cid="c18001006.2">
+				</crossref>
+				Satan
+				<note nid="n18001006.1">
+				</note>
+				 also came among them.
+			</verse>
+			<marker class="begin-verse" mid="v18001007">
+			</marker>
+			<verse num="7">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Satan, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				From where have you come?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Satan answered the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				From 
+				<crossref let="m" cid="c18001007.1">
+				</crossref>
+				going to and fro on the earth, and from walking up and down on it.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v18001008">
+			</marker>
+			<verse num="8">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Satan, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Have you 
+				<crossref let="n" cid="c18001008.1">
+				</crossref>
+				considered my 
+				<crossref let="o" cid="c18001008.2">
+				</crossref>
+				servant Job, that there is none like him on the earth, 
+				<crossref let="p" cid="c18001008.3">
+				</crossref>
+				a blameless and upright man, who fears God and turns away from evil?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v18001009">
+			</marker>
+			<verse num="9">
+				Then Satan answered the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Does Job fear God for no reason?
+			</verse>
+			<marker class="begin-verse" mid="v18001010">
+			</marker>
+			<verse num="10">
+				Have you not put 
+				<crossref let="q" cid="c18001010.1">
+				</crossref>
+				a hedge around him and his house and all that he has, on every side? You have 
+				<crossref let="r" cid="c18001010.2">
+				</crossref>
+				blessed the work of his hands, and his possessions have increased in the land.
+			</verse>
+			<marker class="begin-verse" mid="v18001011">
+			</marker>
+			<verse num="11">
+				But 
+				<crossref let="s" cid="c18001011.1">
+				</crossref>
+				stretch out your hand and 
+				<crossref let="t" cid="c18001011.2">
+				</crossref>
+				touch all that he has, and he will 
+				<crossref let="u" cid="c18001011.3">
+				</crossref>
+				curse you 
+				<crossref let="v" cid="c18001011.4">
+				</crossref>
+				to your face.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v18001012">
+			</marker>
+			<verse num="12">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Satan, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, all that he has is in your hand. Only against him do not stretch out your hand.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So Satan went out from the presence of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18001013">
+			</marker>
+			<heading
+				>
+				Satan Takes Job's Property and Children
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				Now there was a day when his sons and daughters were eating and drinking wine in their oldest brother's house,
+			</verse>
+			<marker class="begin-verse" mid="v18001014">
+			</marker>
+			<verse num="14">
+				and there came a messenger to Job and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The oxen were plowing and the donkeys feeding beside them,
+			</verse>
+			<marker class="begin-verse" mid="v18001015">
+			</marker>
+			<verse num="15">
+				and 
+				<crossref let="w" cid="c18001015.1">
+				</crossref>
+				the Sabeans fell upon them and took them and struck down the servants
+				<note nid="n18001015.1">
+				</note>
+				 with the edge of the sword, and I alone have escaped to tell you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v18001016">
+			</marker>
+			<verse num="16">
+				While he was yet speaking, there came another and said, 
+				<crossref let="x" cid="c18001016.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The fire of God fell from heaven and burned up the sheep and the servants and consumed them, and I alone have escaped to tell you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v18001017">
+			</marker>
+			<verse num="17">
+				While he was yet speaking, there came another and said, 
+				<crossref let="y" cid="c18001017.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The Chaldeans formed 
+				<crossref let="z" cid="c18001017.2">
+				</crossref>
+				three groups and made a raid on the camels and took them and struck down the servants with the edge of the sword, and I alone have escaped to tell you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v18001018">
+			</marker>
+			<verse num="18">
+				While he was yet speaking, there came another and said, 
+				<crossref let="a" cid="c18001018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your sons and daughters were eating and drinking wine in their oldest brother's house,
+			</verse>
+			<marker class="begin-verse" mid="v18001019">
+			</marker>
+			<verse num="19">
+				and behold, a great wind came across 
+				<crossref let="b" cid="c18001019.1">
+				</crossref>
+				the wilderness and struck the four corners of the house, and it fell upon the young people, and they are dead, and I alone have escaped to tell you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18001020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				Then Job arose and 
+				<crossref let="c" cid="c18001020.1">
+				</crossref>
+				tore his 
+				<crossref let="d" cid="c18001020.2">
+				</crossref>
+				robe and 
+				<crossref let="e" cid="c18001020.3">
+				</crossref>
+				shaved his head 
+				<crossref let="f" cid="c18001020.4">
+				</crossref>
+				and fell on the ground and worshiped.
+			</verse>
+			<marker class="begin-verse" mid="v18001021">
+			</marker>
+			<verse num="21">
+				And he said, 
+				<crossref let="g" cid="c18001021.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Naked I came from my mother's womb, and naked shall I 
+				<crossref let="h" cid="c18001021.2">
+				</crossref>
+				return. The 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="i" cid="c18001021.3">
+				</crossref>
+				gave, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has taken away; 
+				<crossref let="j" cid="c18001021.4">
+				</crossref>
+				blessed be the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18001022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				<crossref let="k" cid="c18001022.1">
+				</crossref>
+				In all this Job did not sin or charge God with 
+				<crossref let="l" cid="c18001022.2">
+				</crossref>
+				wrong.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

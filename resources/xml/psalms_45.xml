@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19045001">
+		</marker>
+		<chapter num="45">
+			<heading
+				>
+				Your Throne, O God, Is Forever
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: according to Lilies. A Maskil
+				<note nid="n19045001.1">
+				</note>
+				 of 
+				<crossref let="v" cid="c19045001.1">
+				</crossref>
+				the Sons of Korah; a love song.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				My heart overflows with a pleasing theme;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I address my verses to the king;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my tongue is like the pen of 
+				<crossref let="w" cid="c19045001.2">
+				</crossref>
+				a ready scribe.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19045002">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				You are 
+				<crossref let="x" cid="c19045002.1">
+				</crossref>
+				the most handsome of the sons of men;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="y" cid="c19045002.2">
+				</crossref>
+				grace is poured upon your lips;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				therefore God has blessed you forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19045003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c19045003.1">
+				</crossref>
+				Gird your 
+				<crossref let="a" cid="c19045003.2">
+				</crossref>
+				sword on your thigh, O 
+				<crossref let="b" cid="c19045003.3">
+				</crossref>
+				mighty one,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in 
+				<crossref let="c" cid="c19045003.4">
+				</crossref>
+				your splendor and majesty!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19045004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				In your majesty 
+				<crossref let="d" cid="c19045004.1">
+				</crossref>
+				ride out victoriously
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for the cause of truth and meekness and righteousness;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let your right hand teach you 
+				<crossref let="e" cid="c19045004.2">
+				</crossref>
+				awesome deeds!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19045005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Your arrows are sharp
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the heart of the king's enemies;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the peoples fall under you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19045006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c19045006.1">
+				</crossref>
+				Your throne, O God, is forever and ever.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				The 
+				<crossref let="g" cid="c19045006.2">
+				</crossref>
+				scepter of your kingdom is a scepter of uprightness;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19045007">
+			</marker>
+			<verse num="7">
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c19045007.1">
+				</crossref>
+				you have loved righteousness and hated wickedness.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Therefore 
+				<crossref let="i" cid="c19045007.2">
+				</crossref>
+				God, your God, has 
+				<crossref let="j" cid="c19045007.3">
+				</crossref>
+				anointed you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with the oil of 
+				<crossref let="k" cid="c19045007.4">
+				</crossref>
+				gladness 
+				<crossref let="l" cid="c19045007.5">
+				</crossref>
+				beyond your companions;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19045008">
+			</marker>
+			<verse num="8">
+				<begin-line class="indent">
+				</begin-line>
+				your robes are all fragrant with 
+				<crossref let="m" cid="c19045008.1">
+				</crossref>
+				myrrh and aloes and cassia.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				From ivory palaces 
+				<crossref let="n" cid="c19045008.2">
+				</crossref>
+				stringed instruments make you glad;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19045009">
+			</marker>
+			<verse num="9">
+				<begin-line class="indent">
+				</begin-line>
+				daughters of kings are among your ladies of honor;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19045009.1">
+				</crossref>
+				at your right hand stands the queen in 
+				<crossref let="p" cid="c19045009.2">
+				</crossref>
+				gold of Ophir.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19045010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Hear, O daughter, and consider, and incline your ear:
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				forget your people and your father's house,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19045011">
+			</marker>
+			<verse num="11">
+				<begin-line class="indent">
+				</begin-line>
+				and the king will desire your beauty.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Since he is your 
+				<crossref let="q" cid="c19045011.1">
+				</crossref>
+				lord, 
+				<crossref let="r" cid="c19045011.2">
+				</crossref>
+				bow to him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19045012">
+			</marker>
+			<verse num="12">
+				<begin-line class="indent">
+				</begin-line>
+				The people
+				<note nid="n19045012.1">
+				</note>
+				 of Tyre will 
+				<crossref let="s" cid="c19045012.1">
+				</crossref>
+				seek your favor with 
+				<crossref let="t" cid="c19045012.2">
+				</crossref>
+				gifts,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c19045012.3">
+				</crossref>
+				the richest of the people.
+				<note nid="n19045012.2">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19045013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				All glorious is 
+				<crossref let="v" cid="c19045013.1">
+				</crossref>
+				the princess in her chamber, with robes interwoven with gold.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19045014">
+			</marker>
+			<verse num="14">
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c19045014.1">
+				</crossref>
+				In many-colored robes 
+				<crossref let="x" cid="c19045014.2">
+				</crossref>
+				she is led to the king,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with her virgin companions following behind her.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19045015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				With joy and gladness they are led along
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as they enter the palace of the king.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19045016">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				In place of your fathers shall be your sons;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you will make them 
+				<crossref let="y" cid="c19045016.1">
+				</crossref>
+				princes in all the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19045017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c19045017.1">
+				</crossref>
+				I will cause your name to be remembered in all generations;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				therefore nations will praise you forever and ever.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

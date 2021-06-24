@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19032001">
+		</marker>
+		<chapter num="32">
+			<heading
+				>
+				Blessed Are the Forgiven
+			</heading>
+			<subheading class="psalm-title">
+				A Maskil
+				<note nid="n19032001.1">
+				</note>
+				 of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c19032001.1">
+				</crossref>
+				Blessed is the one whose 
+				<crossref let="k" cid="c19032001.2">
+				</crossref>
+				transgression is forgiven,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				whose sin is covered.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19032002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Blessed is the man against whom the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="l" cid="c19032002.1">
+				</crossref>
+				counts no iniquity,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and in whose spirit 
+				<crossref let="m" cid="c19032002.2">
+				</crossref>
+				there is no deceit.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19032003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				For when I kept silent, my 
+				<crossref let="n" cid="c19032003.1">
+				</crossref>
+				bones wasted away
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				through my 
+				<crossref let="o" cid="c19032003.2">
+				</crossref>
+				groaning all day long.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19032004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				For day and night your 
+				<crossref let="p" cid="c19032004.1">
+				</crossref>
+				hand was heavy upon me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my strength was dried up
+				<note nid="n19032004.1">
+				</note>
+				 as by the heat of summer. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19032005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="q" cid="c19032005.1">
+				</crossref>
+				acknowledged my sin to you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and I did not cover my iniquity;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I 
+				<crossref let="r" cid="c19032005.2">
+				</crossref>
+				will confess my transgressions to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you forgave the iniquity of my sin. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19032006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Therefore let everyone who is 
+				<crossref let="s" cid="c19032006.1">
+				</crossref>
+				godly
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				offer prayer to you at a time when you 
+				<crossref let="t" cid="c19032006.2">
+				</crossref>
+				may be found;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				surely in the rush of 
+				<crossref let="u" cid="c19032006.3">
+				</crossref>
+				great waters,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they shall not reach him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19032007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				You are a 
+				<crossref let="v" cid="c19032007.1">
+				</crossref>
+				hiding place for me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you preserve me from 
+				<crossref let="w" cid="c19032007.2">
+				</crossref>
+				trouble;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you surround me with 
+				<crossref let="x" cid="c19032007.3">
+				</crossref>
+				shouts of deliverance. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19032008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				I will 
+				<crossref let="y" cid="c19032008.1">
+				</crossref>
+				instruct you and teach you in the way you should go;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will 
+				<crossref let="z" cid="c19032008.2">
+				</crossref>
+				counsel you with my eye upon you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19032009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19032009.1">
+				</crossref>
+				Be not like a horse or a mule, without understanding,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				which must be curbed with 
+				<crossref let="b" cid="c19032009.2">
+				</crossref>
+				bit and bridle,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or it will not stay near you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19032010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c19032010.1">
+				</crossref>
+				Many are the sorrows of the wicked,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but steadfast love surrounds the one who 
+				<crossref let="d" cid="c19032010.2">
+				</crossref>
+				trusts in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19032011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c19032011.1">
+				</crossref>
+				Be glad in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and rejoice, O righteous,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="f" cid="c19032011.2">
+				</crossref>
+				shout for joy, all you 
+				<crossref let="g" cid="c19032011.3">
+				</crossref>
+				upright in heart!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

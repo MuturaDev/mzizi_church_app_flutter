@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19072001">
+		</marker>
+		<chapter num="72">
+			<heading
+				>
+				Give the King Your Justice
+			</heading>
+			<subheading class="psalm-title">
+				Of 
+				<crossref let="q" cid="c19072001.1">
+				</crossref>
+				Solomon.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Give the king your 
+				<crossref let="r" cid="c19072001.2">
+				</crossref>
+				justice, O God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your righteousness to the royal son!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19072002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				May he 
+				<crossref let="s" cid="c19072002.1">
+				</crossref>
+				judge your people with righteousness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your poor with justice!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19072003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Let the mountains bear 
+				<crossref let="t" cid="c19072003.1">
+				</crossref>
+				prosperity for the people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the hills, in righteousness!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19072004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				May he defend the cause of the poor of the people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				give deliverance to the children of the needy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and crush the oppressor!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19072005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				May they fear you
+				<note nid="n19072005.1">
+				</note>
+				 while 
+				<crossref let="u" cid="c19072005.1">
+				</crossref>
+				the sun endures,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and as long as the moon, 
+				<crossref let="v" cid="c19072005.2">
+				</crossref>
+				throughout all generations!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19072006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				May he be like 
+				<crossref let="w" cid="c19072006.1">
+				</crossref>
+				rain that falls on 
+				<crossref let="x" cid="c19072006.2">
+				</crossref>
+				the mown grass,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like 
+				<crossref let="y" cid="c19072006.3">
+				</crossref>
+				showers that water the earth!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19072007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				In his days may 
+				<crossref let="z" cid="c19072007.1">
+				</crossref>
+				the righteous flourish,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="a" cid="c19072007.2">
+				</crossref>
+				peace abound, till the moon be no more!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19072008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				May he have dominion from 
+				<crossref let="b" cid="c19072008.1">
+				</crossref>
+				sea to sea,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and from 
+				<crossref let="b" cid="c19072008.2">
+				</crossref>
+				the River
+				<note nid="n19072008.1">
+				</note>
+				 to the 
+				<crossref let="c" cid="c19072008.3">
+				</crossref>
+				ends of the earth!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19072009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				May desert tribes 
+				<crossref let="d" cid="c19072009.1">
+				</crossref>
+				bow down before him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his enemies 
+				<crossref let="e" cid="c19072009.2">
+				</crossref>
+				lick the dust!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19072010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				May the kings of 
+				<crossref let="f" cid="c19072010.1">
+				</crossref>
+				Tarshish and of 
+				<crossref let="g" cid="c19072010.2">
+				</crossref>
+				the coastlands
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				render him 
+				<crossref let="h" cid="c19072010.3">
+				</crossref>
+				tribute;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				may the kings of 
+				<crossref let="i" cid="c19072010.4">
+				</crossref>
+				Sheba and 
+				<crossref let="j" cid="c19072010.5">
+				</crossref>
+				Seba
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				bring gifts!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19072011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				May all kings 
+				<crossref let="k" cid="c19072011.1">
+				</crossref>
+				fall down before him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all nations serve him!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19072012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				For he delivers 
+				<crossref let="l" cid="c19072012.1">
+				</crossref>
+				the needy when he calls,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the poor and him who has no helper.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19072013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				He has pity on the weak and the needy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and saves the lives of the needy.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19072014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				From oppression and violence he redeems their life,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="m" cid="c19072014.1">
+				</crossref>
+				precious is their blood in his sight.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19072015">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				Long may he live;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				may 
+				<crossref let="n" cid="c19072015.1">
+				</crossref>
+				gold of Sheba be given to him!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				May prayer be made 
+				<crossref let="o" cid="c19072015.2">
+				</crossref>
+				for him continually,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and blessings invoked for him all the day!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19072016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				May there be abundance of grain in the land;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on the tops of the mountains may it wave;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				may its fruit be like Lebanon;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and may people 
+				<crossref let="p" cid="c19072016.1">
+				</crossref>
+				blossom in the cities
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like the 
+				<crossref let="q" cid="c19072016.2">
+				</crossref>
+				grass of the field!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19072017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19072017.1">
+				</crossref>
+				May his name endure forever,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his fame continue as long as the sun!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19072017.2">
+				</crossref>
+				May people be blessed in him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c19072017.3">
+				</crossref>
+				all nations call him blessed!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19072018">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19072018.1">
+				</crossref>
+				Blessed be the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who alone does 
+				<crossref let="v" cid="c19072018.2">
+				</crossref>
+				wondrous things.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19072019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				Blessed be his 
+				<crossref let="w" cid="c19072019.1">
+				</crossref>
+				glorious name forever;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				may 
+				<crossref let="x" cid="c19072019.2">
+				</crossref>
+				the whole earth be filled with his glory!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="psalm-doxology">
+				</begin-line>
+				<crossref let="y" cid="c19072019.3">
+				</crossref>
+				Amen and Amen!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19072020">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c19072020.1">
+				</crossref>
+				The prayers of 
+				<crossref let="a" cid="c19072020.2">
+				</crossref>
+				David, the son of Jesse, are ended.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,905 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01024001">
+		</marker>
+		<chapter num="24">
+			<heading
+				>
+				Isaac and Rebekah
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now Abraham was old, well advanced in years. And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="m" cid="c01024001.1">
+				</crossref>
+				had blessed Abraham in all things.
+			</verse>
+			<marker class="begin-verse" mid="v01024002">
+			</marker>
+			<verse num="2">
+				And Abraham said to his servant, 
+				<crossref let="n" cid="c01024002.1">
+				</crossref>
+				the oldest of his household, who had charge of all that he had, 
+				<crossref let="o" cid="c01024002.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Put your hand under my thigh,
+			</verse>
+			<marker class="begin-verse" mid="v01024003">
+			</marker>
+			<verse num="3">
+				that I may make you swear by the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of heaven and God of the earth, that 
+				<crossref let="p" cid="c01024003.1">
+				</crossref>
+				you will not take a wife for my son from the daughters of the Canaanites, among whom I dwell,
+			</verse>
+			<marker class="begin-verse" mid="v01024004">
+			</marker>
+			<verse num="4">
+				<crossref let="q" cid="c01024004.1">
+				</crossref>
+				but will go to my country and to my kindred, and take a wife for my son Isaac.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024005">
+			</marker>
+			<verse num="5">
+				The servant said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Perhaps the woman may not be willing to follow me to this land. Must I then take your son back to the land from which you came?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024006">
+			</marker>
+			<verse num="6">
+				Abraham said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See to it that you do not take my son back there.
+			</verse>
+			<marker class="begin-verse" mid="v01024007">
+			</marker>
+			<verse num="7">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of heaven, 
+				<crossref let="r" cid="c01024007.1">
+				</crossref>
+				who took me from my father's house and from the land of my kindred, and who spoke to me and swore to me, 
+				<crossref let="s" cid="c01024007.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				To your offspring I will give this land,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<crossref let="t" cid="c01024007.3">
+				</crossref>
+				he will send his angel before you, and you shall take a wife for my son from there.
+			</verse>
+			<marker class="begin-verse" mid="v01024008">
+			</marker>
+			<verse num="8">
+				But if the woman is not willing to follow you, then 
+				<crossref let="u" cid="c01024008.1">
+				</crossref>
+				you will be free from this oath of mine; only you must not take my son back there.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024009">
+			</marker>
+			<verse num="9">
+				So the servant 
+				<crossref let="v" cid="c01024009.1">
+				</crossref>
+				put his hand under the thigh of Abraham his master and swore to him concerning this matter.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01024010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				Then the servant took ten of his master's camels and departed, taking all sorts of choice gifts from his master; and he arose and went to 
+				<crossref let="w" cid="c01024010.1">
+				</crossref>
+				Mesopotamia
+				<note nid="n01024010.1">
+				</note>
+				 to the city of Nahor.
+			</verse>
+			<marker class="begin-verse" mid="v01024011">
+			</marker>
+			<verse num="11">
+				And he made the camels kneel down outside the city by the well of water at the time of evening, the time when 
+				<crossref let="x" cid="c01024011.1">
+				</crossref>
+				women go out to draw water.
+			</verse>
+			<marker class="begin-verse" mid="v01024012">
+			</marker>
+			<verse num="12">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="y" cid="c01024012.1">
+				</crossref>
+				God of my master Abraham, 
+				<crossref let="z" cid="c01024012.2">
+				</crossref>
+				please grant me success today and show steadfast love to my master Abraham.
+			</verse>
+			<marker class="begin-verse" mid="v01024013">
+			</marker>
+			<verse num="13">
+				Behold, 
+				<crossref let="a" cid="c01024013.1">
+				</crossref>
+				I am standing by the spring of water, and the daughters of the men of the city are coming out to draw water.
+			</verse>
+			<marker class="begin-verse" mid="v01024014">
+			</marker>
+			<verse num="14">
+				Let the young woman to whom I shall say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Please let down your jar that I may drink,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 and who shall say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Drink, and I will water your camels
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				ùlet her be the one whom you have appointed for your servant Isaac. 
+				<crossref let="b" cid="c01024014.1">
+				</crossref>
+				By this
+				<note nid="n01024014.1">
+				</note>
+				 I shall know that you have shown steadfast love to my master.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01024015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				Before he had finished speaking, behold, Rebekah, who was born to Bethuel the son of 
+				<crossref let="c" cid="c01024015.1">
+				</crossref>
+				Milcah, the wife of Nahor, Abraham's brother, came out with her water jar on her shoulder.
+			</verse>
+			<marker class="begin-verse" mid="v01024016">
+			</marker>
+			<verse num="16">
+				The young woman 
+				<crossref let="d" cid="c01024016.1">
+				</crossref>
+				was very attractive in appearance, a maiden
+				<note nid="n01024016.1">
+				</note>
+				 whom no man had known. She went down to the spring and filled her jar and came up.
+			</verse>
+			<marker class="begin-verse" mid="v01024017">
+			</marker>
+			<verse num="17">
+				Then the servant ran to meet her and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please give me a little water to drink from your jar.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024018">
+			</marker>
+			<verse num="18">
+				She said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Drink, my lord.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And she quickly let down her jar upon her hand and gave him a drink.
+			</verse>
+			<marker class="begin-verse" mid="v01024019">
+			</marker>
+			<verse num="19">
+				When she had finished giving him a drink, she said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will draw water for your camels also, until they have finished drinking.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024020">
+			</marker>
+			<verse num="20">
+				So she quickly emptied her jar into the trough and ran again to the well to draw water, and she drew for all his camels.
+			</verse>
+			<marker class="begin-verse" mid="v01024021">
+			</marker>
+			<verse num="21">
+				The man gazed at her in silence to learn whether the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had prospered his journey or not.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01024022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				When the camels had finished drinking, the man took a gold ring weighing a half shekel,
+				<note nid="n01024022.1">
+				</note>
+				 and two bracelets for her arms weighing ten gold shekels,
+			</verse>
+			<marker class="begin-verse" mid="v01024023">
+			</marker>
+			<verse num="23">
+				and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Please tell me whose daughter you are. Is there room in your father's house for us to spend the night?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024024">
+			</marker>
+			<verse num="24">
+				She said to him, 
+				<crossref let="e" cid="c01024024.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am the daughter of Bethuel the son of Milcah, whom she bore to Nahor.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024025">
+			</marker>
+			<verse num="25">
+				She added, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We have plenty of both straw and fodder, and room to spend the night.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024026">
+			</marker>
+			<verse num="26">
+				<crossref let="f" cid="c01024026.1">
+				</crossref>
+				The man bowed his head and worshiped the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</verse>
+			<marker class="begin-verse" mid="v01024027">
+			</marker>
+			<verse num="27">
+				and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Blessed be the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="g" cid="c01024027.1">
+				</crossref>
+				the God of my master Abraham, who has not forsaken 
+				<crossref let="h" cid="c01024027.2">
+				</crossref>
+				his steadfast love and his faithfulness toward my master. As for me, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="i" cid="c01024027.3">
+				</crossref>
+				has led me in the way to the house of my master's kinsmen.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024028">
+			</marker>
+			<verse num="28">
+				Then the young woman ran and told her mother's household about these things.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01024029">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				Rebekah had a brother whose name was 
+				<crossref let="j" cid="c01024029.1">
+				</crossref>
+				Laban. Laban ran out toward the man, to the spring.
+			</verse>
+			<marker class="begin-verse" mid="v01024030">
+			</marker>
+			<verse num="30">
+				As soon as he saw the ring and the bracelets on his sister's arms, and heard the words of Rebekah his sister, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus the man spoke to me,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 he went to the man. And behold, he was standing by the camels at the spring.
+			</verse>
+			<marker class="begin-verse" mid="v01024031">
+			</marker>
+			<verse num="31">
+				He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come in, 
+				<crossref let="k" cid="c01024031.1">
+				</crossref>
+				O blessed of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. Why do you stand outside? For I have prepared the house and a place for the camels.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024032">
+			</marker>
+			<verse num="32">
+				So the man came to the house and unharnessed the camels, and gave 
+				<crossref let="l" cid="c01024032.1">
+				</crossref>
+				straw and fodder to the camels, and there was 
+				<crossref let="m" cid="c01024032.2">
+				</crossref>
+				water to wash his feet and the feet of the men who were with him.
+			</verse>
+			<marker class="begin-verse" mid="v01024033">
+			</marker>
+			<verse num="33">
+				Then food was set before him to eat. But he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will not eat until I have said what I have to say.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Speak on.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01024034">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="34">
+				So he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am Abraham's servant.
+			</verse>
+			<marker class="begin-verse" mid="v01024035">
+			</marker>
+			<verse num="35">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="n" cid="c01024035.1">
+				</crossref>
+				has greatly blessed my master, and he has become great. He has given him flocks and herds, silver and gold, male servants and female servants, camels and donkeys.
+			</verse>
+			<marker class="begin-verse" mid="v01024036">
+			</marker>
+			<verse num="36">
+				And Sarah my master's wife 
+				<crossref let="o" cid="c01024036.1">
+				</crossref>
+				bore a son to my master when she was old, and 
+				<crossref let="p" cid="c01024036.2">
+				</crossref>
+				to him he has given all that he has.
+			</verse>
+			<marker class="begin-verse" mid="v01024037">
+			</marker>
+			<verse num="37">
+				<crossref let="q" cid="c01024037.1">
+				</crossref>
+				My master made me swear, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You shall not take a wife for my son from the daughters of the Canaanites, in whose land I dwell,
+			</verse>
+			<marker class="begin-verse" mid="v01024038">
+			</marker>
+			<verse num="38">
+				but you shall go to my father's house and to my clan and take a wife for my son.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024039">
+			</marker>
+			<verse num="39">
+				I said to my master, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Perhaps the woman will not follow me.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024040">
+			</marker>
+			<verse num="40">
+				But he said to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="r" cid="c01024040.1">
+				</crossref>
+				before whom I have walked, will send his angel with you and 
+				<crossref let="s" cid="c01024040.2">
+				</crossref>
+				prosper your way. You shall take a wife for my son from my clan and from my father's house.
+			</verse>
+			<marker class="begin-verse" mid="v01024041">
+			</marker>
+			<verse num="41">
+				Then you will be free from my oath, when you come to my clan. And if they will not give her to you, you will be free from my oath.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01024042">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="42">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				I came today to the spring and said, 
+				<crossref let="t" cid="c01024042.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of my master Abraham, if now you 
+				<crossref let="s" cid="c01024042.2">
+				</crossref>
+				are prospering the way that I go,
+			</verse>
+			<marker class="begin-verse" mid="v01024043">
+			</marker>
+			<verse num="43">
+				behold, I am standing 
+				<crossref let="u" cid="c01024043.1">
+				</crossref>
+				by the spring of water. Let the virgin who comes out to draw water, to whom I shall say, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				Please give me a little water from your jar to drink,
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024044">
+			</marker>
+			<verse num="44">
+				<crossref let="v" cid="c01024044.1">
+				</crossref>
+				and who will say to me, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				Drink, and I will draw for your camels also,
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				 let her be the woman whom the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has appointed for my master's son.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01024045">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="45">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Before I had finished 
+				<crossref let="w" cid="c01024045.1">
+				</crossref>
+				speaking in my heart, behold, Rebekah came out with her water jar on her shoulder, and she went down to the spring and drew water. I said to her, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Please let me drink.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024046">
+			</marker>
+			<verse num="46">
+				She quickly let down her jar from her shoulder and said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Drink, and I will give your camels drink also.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 So I drank, and she gave the camels drink also.
+			</verse>
+			<marker class="begin-verse" mid="v01024047">
+			</marker>
+			<verse num="47">
+				Then I asked her, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Whose daughter are you?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 She said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				The daughter of Bethuel, Nahor's son, whom Milcah bore to him.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<crossref let="x" cid="c01024047.1">
+				</crossref>
+				So I put the ring on her nose and the bracelets on her arms.
+			</verse>
+			<marker class="begin-verse" mid="v01024048">
+			</marker>
+			<verse num="48">
+				<crossref let="y" cid="c01024048.1">
+				</crossref>
+				Then I bowed my head and worshiped the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and blessed the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="t" cid="c01024048.2">
+				</crossref>
+				the God of my master Abraham, who had led me by the right way
+				<note nid="n01024048.1">
+				</note>
+				 to take 
+				<crossref let="z" cid="c01024048.3">
+				</crossref>
+				the daughter of my master's kinsman for his son.
+			</verse>
+			<marker class="begin-verse" mid="v01024049">
+			</marker>
+			<verse num="49">
+				Now then, if you are going to 
+				<crossref let="a" cid="c01024049.1">
+				</crossref>
+				show steadfast love and faithfulness to my master, tell me; and if not, tell me, that I may turn to the right hand or to the left.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01024050">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="50">
+				Then Laban and Bethuel answered and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The thing has come from the 
+				<span class="divine-name">
+					Lord
+				</span>
+				; we cannot 
+				<crossref let="b" cid="c01024050.1">
+				</crossref>
+				speak to you bad or good.
+			</verse>
+			<marker class="begin-verse" mid="v01024051">
+			</marker>
+			<verse num="51">
+				Behold, Rebekah is before you; take her and go, and let her be the wife of your master's son, 
+				<crossref let="c" cid="c01024051.1">
+				</crossref>
+				as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has spoken.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01024052">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="52">
+				When Abraham's servant heard their words, 
+				<crossref let="y" cid="c01024052.1">
+				</crossref>
+				he bowed himself to the earth before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v01024053">
+			</marker>
+			<verse num="53">
+				And the servant brought out jewelry of silver and of gold, and garments, and gave them to Rebekah. He also gave to her brother and to her mother costly ornaments.
+			</verse>
+			<marker class="begin-verse" mid="v01024054">
+			</marker>
+			<verse num="54">
+				And he and the men who were with him ate and drank, and they spent the night there. When they arose in the morning, he said, 
+				<crossref let="d" cid="c01024054.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Send me away to my master.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024055">
+			</marker>
+			<verse num="55">
+				Her brother and her mother said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let the young woman remain with us a while, at least ten days; after that she may go.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024056">
+			</marker>
+			<verse num="56">
+				But he said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not delay me, since the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has prospered my way. Send me away that I may go to my master.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024057">
+			</marker>
+			<verse num="57">
+				They said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let us call the young woman and ask her.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024058">
+			</marker>
+			<verse num="58">
+				And they called Rebekah and said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Will you go with this man?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 She said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will go.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01024059">
+			</marker>
+			<verse num="59">
+				So they sent away Rebekah their sister and 
+				<crossref let="e" cid="c01024059.1">
+				</crossref>
+				her nurse, and Abraham's servant and his men.
+			</verse>
+			<marker class="begin-verse" mid="v01024060">
+			</marker>
+			<verse num="60">
+				And they blessed Rebekah and said to her,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Our sister, may you 
+				<crossref let="f" cid="c01024060.1">
+				</crossref>
+				become
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				thousands of ten thousands,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and 
+				<crossref let="g" cid="c01024060.2">
+				</crossref>
+				may your offspring possess
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the gate of those who hate him!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n01024060.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v01024061">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="61">
+				Then Rebekah and her young women arose and rode on the camels and followed the man. Thus the servant took Rebekah and went his way.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01024062">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="62">
+				Now Isaac had returned from 
+				<crossref let="h" cid="c01024062.1">
+				</crossref>
+				Beer-lahai-roi and was dwelling in the Negeb.
+			</verse>
+			<marker class="begin-verse" mid="v01024063">
+			</marker>
+			<verse num="63">
+				And Isaac went out 
+				<crossref let="i" cid="c01024063.1">
+				</crossref>
+				to meditate in the field toward evening. And he lifted up his eyes and saw, and behold, there were camels coming.
+			</verse>
+			<marker class="begin-verse" mid="v01024064">
+			</marker>
+			<verse num="64">
+				And Rebekah lifted up her eyes, and when she saw Isaac, she dismounted from the camel
+			</verse>
+			<marker class="begin-verse" mid="v01024065">
+			</marker>
+			<verse num="65">
+				and said to the servant, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who is that man, walking in the field to meet us?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 The servant said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is my master.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So she took her veil and covered herself.
+			</verse>
+			<marker class="begin-verse" mid="v01024066">
+			</marker>
+			<verse num="66">
+				And the servant told Isaac all the things that he had done.
+			</verse>
+			<marker class="begin-verse" mid="v01024067">
+			</marker>
+			<verse num="67">
+				Then Isaac brought her into the tent of Sarah his mother and took Rebekah, and she became his wife, and he loved her. So Isaac was 
+				<crossref let="j" cid="c01024067.1">
+				</crossref>
+				comforted after his mother's 
+				<crossref let="k" cid="c01024067.2">
+				</crossref>
+				death.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18025001">
+		</marker>
+		<chapter num="25">
+			<heading
+				>
+				Bildad Speaks: Man Cannot Be Righteous
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then 
+				<crossref let="o" cid="c18025001.1">
+				</crossref>
+				Bildad the Shuhite answered and said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18025002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Dominion and fear are with God;
+				<note nid="n18025002.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he makes peace in his high heaven.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18025003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Is there any number to his 
+				<crossref let="p" cid="c18025003.1">
+				</crossref>
+				armies?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Upon whom does his 
+				<crossref let="q" cid="c18025003.2">
+				</crossref>
+				light not arise?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18025004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				How then can man be 
+				<crossref let="r" cid="c18025004.1">
+				</crossref>
+				in the right before God?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				How can he who is 
+				<crossref let="s" cid="c18025004.2">
+				</crossref>
+				born of woman be 
+				<crossref let="t" cid="c18025004.3">
+				</crossref>
+				pure?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18025005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Behold, even the moon is not bright,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the stars are not pure in his eyes;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18025006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c18025006.1">
+				</crossref>
+				how much less man, who is 
+				<crossref let="v" cid="c18025006.2">
+				</crossref>
+				a maggot,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="w" cid="c18025006.3">
+				</crossref>
+				the son of man, who is a worm!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

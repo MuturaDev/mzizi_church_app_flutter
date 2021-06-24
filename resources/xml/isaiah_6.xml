@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23006001">
+		</marker>
+		<chapter num="6">
+			<heading
+				>
+				Isaiah's Vision of the Lord
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				In the year that 
+				<crossref let="s" cid="c23006001.1">
+				</crossref>
+				King Uzziah died I 
+				<crossref let="t" cid="c23006001.2">
+				</crossref>
+				saw the Lord sitting upon a throne, high and lifted up; and the train
+				<note nid="n23006001.1">
+				</note>
+				 of his robe filled the temple.
+			</verse>
+			<marker class="begin-verse" mid="v23006002">
+			</marker>
+			<verse num="2">
+				Above him stood the seraphim. Each had 
+				<crossref let="u" cid="c23006002.1">
+				</crossref>
+				six wings: with two he covered his face, and with two he covered his feet, and with two he flew.
+			</verse>
+			<marker class="begin-verse" mid="v23006003">
+			</marker>
+			<verse num="3">
+				And one called to another and said:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c23006003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Holy, holy, holy is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c23006003.2">
+				</crossref>
+				the whole earth is full of his glory!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n23006003.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23006004">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="4">
+				And 
+				<crossref let="w" cid="c23006004.1">
+				</crossref>
+				the foundations of the thresholds shook at the voice of him who called, and 
+				<crossref let="x" cid="c23006004.2">
+				</crossref>
+				the house was filled with smoke.
+			</verse>
+			<marker class="begin-verse" mid="v23006005">
+			</marker>
+			<verse num="5">
+				And I said: 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Woe is me! 
+				<crossref let="y" cid="c23006005.1">
+				</crossref>
+				For I am lost; 
+				<crossref let="z" cid="c23006005.2">
+				</crossref>
+				for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the 
+				<crossref let="a" cid="c23006005.3">
+				</crossref>
+				King, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23006006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				Then one of the seraphim flew to me, having in his hand a burning coal that he had taken with tongs from the altar.
+			</verse>
+			<marker class="begin-verse" mid="v23006007">
+			</marker>
+			<verse num="7">
+				And he 
+				<crossref let="b" cid="c23006007.1">
+				</crossref>
+				touched my mouth and said: 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, this has touched your lips; your guilt is taken away, and your sin atoned for.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23006008">
+			</marker>
+			<heading
+				>
+				Isaiah's Commission from the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				And I heard the voice of the Lord saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whom shall I send, and who will go for 
+				<crossref let="c" cid="c23006008.1">
+				</crossref>
+				us?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Then I said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Here am I! Send me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v23006009">
+			</marker>
+			<verse num="9">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go, and say to this people:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c23006009.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Keep on hearing,
+				<note nid="n23006009.1">
+				</note>
+				 but do not understand;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				keep on seeing,
+				<note nid="n23006009.2">
+				</note>
+				 but do not perceive.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23006010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c23006010.1">
+				</crossref>
+				Make the heart of this people 
+				<crossref let="f" cid="c23006010.2">
+				</crossref>
+				dull,
+				<note nid="n23006010.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and their ears heavy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and blind their eyes;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c23006010.3">
+				</crossref>
+				lest they see with their eyes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and hear with their ears,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and understand with their hearts,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and turn and be healed.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23006011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Then I said, 
+				<crossref let="h" cid="c23006011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How long, O Lord?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				And he said:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Until 
+				<crossref let="i" cid="c23006011.2">
+				</crossref>
+				cities lie waste
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				without inhabitant,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and houses without people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the land is a desolate waste,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23006012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 removes people far away,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the forsaken places are many in the midst of the land.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23006013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c23006013.1">
+				</crossref>
+				And though a tenth remain in it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it will be burned
+				<note nid="n23006013.1">
+				</note>
+				 again,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				like a terebinth or an oak,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				whose stump 
+				<crossref let="k" cid="c23006013.2">
+				</crossref>
+				remains
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when it is felled.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c23006013.3">
+				</crossref>
+				The holy seed
+				<note nid="n23006013.2">
+				</note>
+				 is its stump.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09013001">
+		</marker>
+		<chapter num="13">
+			<heading
+				>
+				Saul Fights the Philistines
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Saul was
+				<note nid="n09013001.1">
+				</note>
+				 years old when he began to reign, and he reigned and two
+				<note nid="n09013001.2">
+				</note>
+				 years over Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09013002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				Saul chose three thousand men of Israel. Two thousand were with Saul in 
+				<crossref let="k" cid="c09013002.1">
+				</crossref>
+				Michmash and the hill country of Bethel, and a thousand were with Jonathan in 
+				<crossref let="l" cid="c09013002.2">
+				</crossref>
+				Gibeah of Benjamin. The rest of the people he sent home, every man to his tent.
+			</verse>
+			<marker class="begin-verse" mid="v09013003">
+			</marker>
+			<verse num="3">
+				Jonathan defeated 
+				<crossref let="m" cid="c09013003.1">
+				</crossref>
+				the garrison of the Philistines that was 
+				<crossref let="n" cid="c09013003.2">
+				</crossref>
+				at Geba, and the Philistines heard of it. And Saul 
+				<crossref let="o" cid="c09013003.3">
+				</crossref>
+				blew the trumpet throughout all the land, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let the Hebrews hear.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09013004">
+			</marker>
+			<verse num="4">
+				And all Israel heard it said that Saul had defeated the garrison of the Philistines, and also that Israel had become a stench to the Philistines. And the people were called out to join Saul at Gilgal.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09013005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				And the Philistines mustered to fight with Israel, thirty thousand chariots and six thousand horsemen and troops 
+				<crossref let="p" cid="c09013005.1">
+				</crossref>
+				like the sand on the seashore in multitude. They came up and encamped in Michmash, to the east of 
+				<crossref let="q" cid="c09013005.2">
+				</crossref>
+				Beth-aven.
+			</verse>
+			<marker class="begin-verse" mid="v09013006">
+			</marker>
+			<verse num="6">
+				When the men of Israel saw that they were in trouble (for the people were hard pressed), the people hid themselves 
+				<crossref let="r" cid="c09013006.1">
+				</crossref>
+				in caves and in holes and in rocks and in tombs and in cisterns,
+			</verse>
+			<marker class="begin-verse" mid="v09013007">
+			</marker>
+			<verse num="7">
+				and some Hebrews crossed the fords of the Jordan to the land of Gad and Gilead. Saul was still at Gilgal, and all the people followed him trembling.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09013008">
+			</marker>
+			<heading
+				>
+				Saul's Unlawful Sacrifice
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				<crossref let="s" cid="c09013008.1">
+				</crossref>
+				He waited seven days, the time appointed by Samuel. But Samuel did not come to Gilgal, and the people were scattering from him.
+			</verse>
+			<marker class="begin-verse" mid="v09013009">
+			</marker>
+			<verse num="9">
+				So Saul said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Bring the burnt offering here to me, and the peace offerings.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he offered the burnt offering.
+			</verse>
+			<marker class="begin-verse" mid="v09013010">
+			</marker>
+			<verse num="10">
+				As soon as he had finished offering the burnt offering, behold, Samuel came. And Saul went out to meet him and greet him.
+			</verse>
+			<marker class="begin-verse" mid="v09013011">
+			</marker>
+			<verse num="11">
+				Samuel said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What have you done?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Saul said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				When I saw that the people were scattering from me, and that you did not come within the days appointed, and that the Philistines had mustered at Michmash,
+			</verse>
+			<marker class="begin-verse" mid="v09013012">
+			</marker>
+			<verse num="12">
+				I said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Now the Philistines will come down against me at Gilgal, and I have not sought the favor of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 So I forced myself, and offered the burnt offering.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09013013">
+			</marker>
+			<verse num="13">
+				And Samuel said to Saul, 
+				<crossref let="t" cid="c09013013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You have done foolishly. 
+				<crossref let="u" cid="c09013013.2">
+				</crossref>
+				You have not kept the command of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God, with which he commanded you. For then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 would have established your kingdom over Israel forever.
+			</verse>
+			<marker class="begin-verse" mid="v09013014">
+			</marker>
+			<verse num="14">
+				But now 
+				<crossref let="v" cid="c09013014.1">
+				</crossref>
+				your kingdom shall not continue. The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has sought out a man 
+				<crossref let="w" cid="c09013014.2">
+				</crossref>
+				after his own heart, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has commanded him to be prince over his people, because you have not kept what the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09013015">
+			</marker>
+			<verse num="15">
+				And Samuel arose and went up from Gilgal. The rest of the people went up after Saul to meet the army; they went up from Gilgal
+				<note nid="n09013015.1">
+				</note>
+				 to 
+				<crossref let="x" cid="c09013015.1">
+				</crossref>
+				Gibeah of Benjamin.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				And Saul numbered the people who were present with him, 
+				<crossref let="y" cid="c09013015.2">
+				</crossref>
+				about six hundred men.
+
+			</verse>
+			<marker class="begin-verse" mid="v09013016">
+			</marker>
+			<verse num="16">
+				And Saul and Jonathan his son and the people who were present with them stayed in 
+				<crossref let="z" cid="c09013016.1">
+				</crossref>
+				Geba of Benjamin, but the Philistines encamped in Michmash.
+			</verse>
+			<marker class="begin-verse" mid="v09013017">
+			</marker>
+			<verse num="17">
+				And 
+				<crossref let="a" cid="c09013017.1">
+				</crossref>
+				raiders came out of the camp of the Philistines in three companies. One company turned toward Ophrah, to the land of Shual;
+			</verse>
+			<marker class="begin-verse" mid="v09013018">
+			</marker>
+			<verse num="18">
+				another company turned toward 
+				<crossref let="b" cid="c09013018.1">
+				</crossref>
+				Beth-horon; and another company turned toward the border that looks down on the Valley of 
+				<crossref let="c" cid="c09013018.2">
+				</crossref>
+				Zeboim toward the wilderness.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09013019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				<crossref let="d" cid="c09013019.1">
+				</crossref>
+				Now there was no blacksmith to be found throughout all the land of Israel, for the Philistines said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lest the Hebrews make themselves swords or spears.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09013020">
+			</marker>
+			<verse num="20">
+				But every one of the Israelites went down to the Philistines to sharpen his plowshare, his mattock, his axe, or his sickle,
+				<note nid="n09013020.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v09013021">
+			</marker>
+			<verse num="21">
+				and the charge was two-thirds of a shekel
+				<note nid="n09013021.1">
+				</note>
+				 for the plowshares and for the mattocks, and a third of a shekel
+				<note nid="n09013021.2">
+				</note>
+				 for sharpening the axes and for setting the goads.
+				<note nid="n09013021.3">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v09013022">
+			</marker>
+			<verse num="22">
+				So on the day of the battle 
+				<crossref let="e" cid="c09013022.1">
+				</crossref>
+				there was neither sword nor spear found in the hand of any of the people with Saul and Jonathan, but Saul and Jonathan his son had them.
+			</verse>
+			<marker class="begin-verse" mid="v09013023">
+			</marker>
+			<verse num="23">
+				And 
+				<crossref let="f" cid="c09013023.1">
+				</crossref>
+				the garrison of the Philistines went out to the 
+				<crossref let="g" cid="c09013023.2">
+				</crossref>
+				pass of 
+				<crossref let="h" cid="c09013023.3">
+				</crossref>
+				Michmash.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02023001">
+		</marker>
+		<chapter num="23">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="d" cid="c02023001.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall not spread a false report. You shall not join hands with a wicked man to be a 
+				<crossref let="e" cid="c02023001.2">
+				</crossref>
+				malicious witness.
+			</verse>
+			<marker class="begin-verse" mid="v02023002">
+			</marker>
+			<verse num="2">
+				You shall not fall in with the many to do evil, nor shall you bear witness in a lawsuit, siding with the many, so as to pervert justice,
+			</verse>
+			<marker class="begin-verse" mid="v02023003">
+			</marker>
+			<verse num="3">
+				<crossref let="f" cid="c02023003.1">
+				</crossref>
+				nor shall you be partial to a poor man in his lawsuit.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02023004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				<crossref let="g" cid="c02023004.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If you meet your enemy's ox or his donkey going astray, you shall bring it back to him.
+			</verse>
+			<marker class="begin-verse" mid="v02023005">
+			</marker>
+			<verse num="5">
+				If you see the donkey of one who hates you lying down under its burden, you shall refrain from leaving him with it; you shall rescue it with him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02023006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<crossref let="h" cid="c02023006.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall not pervert the justice due to your poor in his lawsuit.
+			</verse>
+			<marker class="begin-verse" mid="v02023007">
+			</marker>
+			<verse num="7">
+				<crossref let="d" cid="c02023007.1">
+				</crossref>
+				Keep far from a false charge, and 
+				<crossref let="i" cid="c02023007.2">
+				</crossref>
+				do not kill the innocent and righteous, for 
+				<crossref let="j" cid="c02023007.3">
+				</crossref>
+				I will not acquit the wicked.
+			</verse>
+			<marker class="begin-verse" mid="v02023008">
+			</marker>
+			<verse num="8">
+				<crossref let="k" cid="c02023008.1">
+				</crossref>
+				And you shall take no bribe, for a bribe blinds the clear-sighted and subverts the cause of those who are in the right.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02023009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<crossref let="l" cid="c02023009.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall not oppress a sojourner. You know the heart of a sojourner, for you were sojourners in the land of Egypt.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02023010">
+			</marker>
+			<heading
+				>
+				Laws About the Sabbath and Festivals
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				<crossref let="m" cid="c02023010.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				For six years you shall sow your land and gather in its yield,
+			</verse>
+			<marker class="begin-verse" mid="v02023011">
+			</marker>
+			<verse num="11">
+				but the seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave the beasts of the field may eat. You shall do likewise with your vineyard, and with your olive orchard.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02023012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				<crossref let="n" cid="c02023012.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Six days you shall do your work, but on the seventh day you shall rest; that your ox and your donkey may have rest, and the son of your servant woman, and the alien, may be refreshed.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02023013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				<crossref let="o" cid="c02023013.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Pay attention to all that I have said to you, and make no mention of the names of other gods, nor let it be heard on your lips.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02023014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				<crossref let="p" cid="c02023014.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Three times in the year you shall keep a feast to me.
+			</verse>
+			<marker class="begin-verse" mid="v02023015">
+			</marker>
+			<verse num="15">
+				<crossref let="q" cid="c02023015.1">
+				</crossref>
+				You shall keep the Feast of Unleavened Bread. As I commanded you, you shall eat unleavened bread for seven days at the appointed time in the month of 
+				<crossref let="r" cid="c02023015.2">
+				</crossref>
+				Abib, for in it you came out of Egypt. 
+				<crossref let="s" cid="c02023015.3">
+				</crossref>
+				None shall appear before me empty-handed.
+			</verse>
+			<marker class="begin-verse" mid="v02023016">
+			</marker>
+			<verse num="16">
+				You shall keep 
+				<crossref let="t" cid="c02023016.1">
+				</crossref>
+				the Feast of Harvest, of the firstfruits of your labor, of what you sow in the field. You shall keep the 
+				<crossref let="u" cid="c02023016.2">
+				</crossref>
+				Feast of Ingathering at the end of the year, when you gather in from the field the fruit of your labor.
+			</verse>
+			<marker class="begin-verse" mid="v02023017">
+			</marker>
+			<verse num="17">
+				<crossref let="p" cid="c02023017.1">
+				</crossref>
+				Three times in the year shall all your males appear before the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02023018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				<crossref let="v" cid="c02023018.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall not offer the blood of my sacrifice with anything leavened, or let the fat of my feast remain until the morning.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02023019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				The best of the 
+				<crossref let="w" cid="c02023019.1">
+				</crossref>
+				firstfruits of your ground you shall bring into the house of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				<crossref let="x" cid="c02023019.2">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall not boil a young goat in its mother's milk.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02023020">
+			</marker>
+			<heading
+				>
+				Conquest of Canaan Promised
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				<crossref let="y" cid="c02023020.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Behold, I send an angel before you to guard you on the way and to bring you to the place that I have prepared.
+			</verse>
+			<marker class="begin-verse" mid="v02023021">
+			</marker>
+			<verse num="21">
+				Pay careful attention to him and obey his voice; 
+				<crossref let="z" cid="c02023021.1">
+				</crossref>
+				do not rebel against him, 
+				<crossref let="a" cid="c02023021.2">
+				</crossref>
+				for he will not pardon your transgression, for my name is in him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02023022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				But if you carefully obey his voice and do all that I say, then 
+				<crossref let="b" cid="c02023022.1">
+				</crossref>
+				I will be an enemy to your enemies and an adversary to your adversaries.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02023023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				<crossref let="y" cid="c02023023.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				When my angel goes before you and brings you 
+				<crossref let="c" cid="c02023023.2">
+				</crossref>
+				to the Amorites and the Hittites and the Perizzites and the Canaanites, the Hivites and the Jebusites, and I blot them out,
+			</verse>
+			<marker class="begin-verse" mid="v02023024">
+			</marker>
+			<verse num="24">
+				you shall 
+				<crossref let="d" cid="c02023024.1">
+				</crossref>
+				not bow down to their gods nor serve them, 
+				<crossref let="e" cid="c02023024.2">
+				</crossref>
+				nor do as they do, but 
+				<crossref let="f" cid="c02023024.3">
+				</crossref>
+				you shall utterly overthrow them and break their 
+				<crossref let="g" cid="c02023024.4">
+				</crossref>
+				pillars in pieces.
+			</verse>
+			<marker class="begin-verse" mid="v02023025">
+			</marker>
+			<verse num="25">
+				You 
+				<crossref let="h" cid="c02023025.1">
+				</crossref>
+				shall serve the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God, and 
+				<crossref let="i" cid="c02023025.2">
+				</crossref>
+				he
+				<note nid="n02023025.1">
+				</note>
+				 will bless your bread and your water, and 
+				<crossref let="j" cid="c02023025.3">
+				</crossref>
+				I will take sickness away from among you.
+			</verse>
+			<marker class="begin-verse" mid="v02023026">
+			</marker>
+			<verse num="26">
+				<crossref let="k" cid="c02023026.1">
+				</crossref>
+				None shall miscarry or be barren in your land; I will fulfill the 
+				<crossref let="l" cid="c02023026.2">
+				</crossref>
+				number of your days.
+			</verse>
+			<marker class="begin-verse" mid="v02023027">
+			</marker>
+			<verse num="27">
+				I will send 
+				<crossref let="m" cid="c02023027.1">
+				</crossref>
+				my terror before you and will throw into 
+				<crossref let="n" cid="c02023027.2">
+				</crossref>
+				confusion all the people against whom you shall come, and I will make all your enemies turn their backs to you.
+			</verse>
+			<marker class="begin-verse" mid="v02023028">
+			</marker>
+			<verse num="28">
+				And 
+				<crossref let="o" cid="c02023028.1">
+				</crossref>
+				I will send hornets before you, which shall drive out the Hivites, the Canaanites, and the Hittites from before you.
+			</verse>
+			<marker class="begin-verse" mid="v02023029">
+			</marker>
+			<verse num="29">
+				<crossref let="p" cid="c02023029.1">
+				</crossref>
+				I will not drive them out from before you in one year, lest the land become desolate and the wild beasts multiply against you.
+			</verse>
+			<marker class="begin-verse" mid="v02023030">
+			</marker>
+			<verse num="30">
+				Little by little I will drive them out from before you, until you have increased and possess the land.
+			</verse>
+			<marker class="begin-verse" mid="v02023031">
+			</marker>
+			<verse num="31">
+				<crossref let="q" cid="c02023031.1">
+				</crossref>
+				And I will set your border from the Red Sea to the Sea of the Philistines, and from the wilderness to the Euphrates, for 
+				<crossref let="r" cid="c02023031.2">
+				</crossref>
+				I will give the inhabitants of the land into your hand, and you shall drive them out before you.
+			</verse>
+			<marker class="begin-verse" mid="v02023032">
+			</marker>
+			<verse num="32">
+				<crossref let="s" cid="c02023032.1">
+				</crossref>
+				You shall make no covenant with them and their gods.
+			</verse>
+			<marker class="begin-verse" mid="v02023033">
+			</marker>
+			<verse num="33">
+				They shall not dwell in your land, lest they make you sin against me; for if you serve their gods, 
+				<crossref let="t" cid="c02023033.1">
+				</crossref>
+				it will surely be a snare to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

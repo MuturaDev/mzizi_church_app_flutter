@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Song of Solomon" num="21">
+		<marker class="begin-verse" mid="v22006001">
+		</marker>
+		<chapter num="6">
+			<subheading class="speaker">
+				Others
+			</subheading>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Where has your beloved gone,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<crossref let="c" cid="c22006001.1">
+				</crossref>
+				most beautiful among women?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Where has your beloved turned,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that we may seek him with you?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v22006002">
+			</marker>
+			<heading
+				>
+				Together in the Garden of Love
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<subheading class="speaker">
+				She
+			</subheading>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				My beloved has gone down to his 
+				<crossref let="q" cid="c22006002.1">
+				</crossref>
+				garden
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to 
+				<crossref let="r" cid="c22006002.2">
+				</crossref>
+				the beds of spices,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				to 
+				<crossref let="s" cid="c22006002.3">
+				</crossref>
+				graze
+				<note nid="n22006002.1">
+				</note>
+				 in the gardens
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and to gather 
+				<crossref let="t" cid="c22006002.4">
+				</crossref>
+				lilies.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22006003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c22006003.1">
+				</crossref>
+				I am my beloved's and my beloved is mine;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he grazes among the lilies.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v22006004">
+			</marker>
+			<heading
+				>
+				Solomon and His Bride Delight in Each Other
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<subheading class="speaker">
+				He
+			</subheading>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				You are beautiful as 
+				<crossref let="v" cid="c22006004.1">
+				</crossref>
+				Tirzah, 
+				<crossref let="w" cid="c22006004.2">
+				</crossref>
+				my love,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c22006004.3">
+				</crossref>
+				lovely as 
+				<crossref let="y" cid="c22006004.4">
+				</crossref>
+				Jerusalem,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c22006004.5">
+				</crossref>
+				awesome as an army with banners.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22006005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Turn away your eyes from me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for they overwhelm meù
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c22006005.1">
+				</crossref>
+				Your hair is like a flock of goats
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				leaping down the slopes of Gilead.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22006006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c22006006.1">
+				</crossref>
+				Your teeth are like a flock of ewes
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that have come up from the washing;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				all of them bear twins;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				not one among them has lost its young.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22006007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c22006007.1">
+				</crossref>
+				Your cheeks are like halves of a pomegranate
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				behind your veil.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22006008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				There are 
+				<crossref let="d" cid="c22006008.1">
+				</crossref>
+				sixty 
+				<crossref let="e" cid="c22006008.2">
+				</crossref>
+				queens and eighty 
+				<crossref let="e" cid="c22006008.3">
+				</crossref>
+				concubines,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="f" cid="c22006008.4">
+				</crossref>
+				virgins without number.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22006009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				My 
+				<crossref let="g" cid="c22006009.1">
+				</crossref>
+				dove, my 
+				<crossref let="h" cid="c22006009.2">
+				</crossref>
+				perfect one, is the only one,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the only one of her mother,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				pure to 
+				<crossref let="i" cid="c22006009.3">
+				</crossref>
+				her who bore her.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c22006009.4">
+				</crossref>
+				The young women saw her and called her blessed;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c22006009.5">
+				</crossref>
+				the queens and 
+				<crossref let="e" cid="c22006009.6">
+				</crossref>
+				concubines also, and they praised her.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v22006010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c22006010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who is this who looks down like the dawn,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				beautiful as the moon, bright as the sun,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="l" cid="c22006010.2">
+				</crossref>
+				awesome as an army with banners?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v22006011">
+			</marker>
+			<subheading class="speaker">
+				She
+			</subheading>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				I went down to the nut orchard
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to look at 
+				<crossref let="m" cid="c22006011.1">
+				</crossref>
+				the blossoms of the valley,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c22006011.2">
+				</crossref>
+				to see whether the vines had budded,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				whether the pomegranates were in bloom.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22006012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c22006012.1">
+				</crossref>
+				Before I was aware, my desire set me
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				among 
+				<crossref let="p" cid="c22006012.2">
+				</crossref>
+				the chariots of my kinsman, a prince.
+				<note nid="n22006012.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v22006013">
+			</marker>
+			<subheading class="speaker">
+				Others
+			</subheading>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<note nid="n22006013.1">
+				</note>
+				 Return, return, O 
+				<crossref let="q" cid="c22006013.1">
+				</crossref>
+				Shulammite,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				return, return, that we may look upon you.
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<subheading class="speaker">
+					He
+				</subheading>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				Why should you look upon 
+				<crossref let="q" cid="c22006013.2">
+				</crossref>
+				the Shulammite,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as upon 
+				<crossref let="r" cid="c22006013.3">
+				</crossref>
+				a dance before 
+				<crossref let="s" cid="c22006013.4">
+				</crossref>
+				two armies?
+				<note nid="n22006013.2">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ezekiel" num="25">
+		<marker class="begin-verse" mid="v26019001">
+		</marker>
+		<chapter num="19">
+			<heading
+				>
+				A Lament for the Princes of Israel
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And you, 
+				<crossref let="x" cid="c26019001.1">
+				</crossref>
+				take up a lamentation for the princes of Israel,
+			</verse>
+			<marker class="begin-verse" mid="v26019002">
+			</marker>
+			<verse num="2">
+				and say:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				What was your mother? 
+				<crossref let="y" cid="c26019002.1">
+				</crossref>
+				A lioness!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Among lions she crouched;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				in the midst of young lions
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she reared her cubs.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26019003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				And she brought up one of her cubs;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c26019003.1">
+				</crossref>
+				he became a young lion,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c26019003.2">
+				</crossref>
+				and he learned to catch prey;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he devoured men.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26019004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				The nations heard about him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c26019004.1">
+				</crossref>
+				he was caught in their pit,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c26019004.2">
+				</crossref>
+				and they brought him with hooks
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the land of Egypt.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26019005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				When she saw that she waited in vain,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that her hope was lost,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c26019005.1">
+				</crossref>
+				she took another of her cubs
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and made him a young lion.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26019006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				He prowled among the lions;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he became a young lion,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and he learned to catch prey;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he devoured men,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26019007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				and seized
+				<note nid="n26019007.1">
+				</note>
+				 their widows.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				He laid waste their cities,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and the land was appalled and all who were in it
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				at the sound of his roaring.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26019008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c26019008.1">
+				</crossref>
+				Then the nations set against him
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from provinces on every side;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c26019008.2">
+				</crossref>
+				they spread their net over him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c26019008.3">
+				</crossref>
+				he was taken in their pit.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26019009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				With hooks 
+				<crossref let="e" cid="c26019009.1">
+				</crossref>
+				they put him in a cage
+				<note nid="n26019009.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="g" cid="c26019009.2">
+				</crossref>
+				brought him to the king of Babylon;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they brought him into custody,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				that his voice should no more be heard
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on 
+				<crossref let="h" cid="c26019009.3">
+				</crossref>
+				the mountains of Israel.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26019010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Your mother was 
+				<crossref let="i" cid="c26019010.1">
+				</crossref>
+				like a vine in a vineyard
+				<note nid="n26019010.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				planted by the water,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c26019010.2">
+				</crossref>
+				fruitful and full of branches
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c26019010.3">
+				</crossref>
+				by reason of abundant water.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26019011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Its strong stems became
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				rulers' scepters;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				it towered aloft
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				among the thick boughs;
+				<note nid="n26019011.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				it was seen in its height
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with the mass of its branches.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26019012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				But the vine was plucked up in fury,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				cast down to the ground;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c26019012.1">
+				</crossref>
+				the east wind dried up its fruit;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they were stripped off and withered.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				As for its strong stem,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				fire consumed it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26019013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c26019013.1">
+				</crossref>
+				Now it is planted in the wilderness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in a dry and thirsty land.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26019014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c26019014.1">
+				</crossref>
+				And fire has gone out from the stem of its shoots,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				has consumed its fruit,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c26019014.2">
+				</crossref>
+				so that there remains in it no strong stem,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				no scepter for ruling.
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<end-block-indent
+					>
+				</end-block-indent>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				This is 
+				<crossref let="p" cid="c26019014.3">
+				</crossref>
+				a lamentation and has become a lamentation.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

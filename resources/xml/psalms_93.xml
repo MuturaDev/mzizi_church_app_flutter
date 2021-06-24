@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19093001">
+		</marker>
+		<chapter num="93">
+			<heading
+				>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Reigns
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c19093001.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 reigns; he is 
+				<crossref let="d" cid="c19093001.2">
+				</crossref>
+				robed in majesty;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is 
+				<crossref let="e" cid="c19093001.3">
+				</crossref>
+				robed; he has 
+				<crossref let="f" cid="c19093001.4">
+				</crossref>
+				put on strength as his belt.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c19093001.5">
+				</crossref>
+				Yes, the world is established; 
+				<crossref let="h" cid="c19093001.6">
+				</crossref>
+				it shall never be moved.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19093002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19093002.1">
+				</crossref>
+				Your throne is established from of old;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c19093002.2">
+				</crossref>
+				you are from everlasting.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19093003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c19093003.1">
+				</crossref>
+				The floods have lifted up, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the floods have lifted up their voice;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the floods lift up their roaring.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19093004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Mightier than the thunders of many waters,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				mightier than the waves of the sea,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="l" cid="c19093004.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="m" cid="c19093004.2">
+				</crossref>
+				on high is mighty!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19093005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Your 
+				<crossref let="n" cid="c19093005.1">
+				</crossref>
+				decrees are very trustworthy;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19093005.2">
+				</crossref>
+				holiness befits your house,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, forevermore.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

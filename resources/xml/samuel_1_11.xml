@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09011001">
+		</marker>
+		<chapter num="11">
+			<heading
+				>
+				Saul Defeats the Ammonites
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="o" cid="c09011001.1">
+				</crossref>
+				Then Nahash the Ammonite went up and besieged 
+				<crossref let="p" cid="c09011001.2">
+				</crossref>
+				Jabesh-gilead, and all the men of Jabesh said to Nahash, 
+				<crossref let="q" cid="c09011001.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Make a treaty with us, and we will serve you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09011002">
+			</marker>
+			<verse num="2">
+				But Nahash the Ammonite said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				On this condition I will make a treaty with you, 
+				<crossref let="r" cid="c09011002.1">
+				</crossref>
+				that I gouge out all your right eyes, and thus 
+				<crossref let="s" cid="c09011002.2">
+				</crossref>
+				bring disgrace on all Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09011003">
+			</marker>
+			<verse num="3">
+				The elders of Jabesh said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give us seven days' respite that we may send messengers through all the territory of Israel. Then, if there is no one to save us, we will give ourselves up to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09011004">
+			</marker>
+			<verse num="4">
+				When the messengers came to 
+				<crossref let="t" cid="c09011004.1">
+				</crossref>
+				Gibeah of Saul, they reported the matter in the ears of the people, 
+				<crossref let="u" cid="c09011004.2">
+				</crossref>
+				and all the people wept aloud.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09011005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				Now, behold, Saul was coming from the field behind the oxen. And Saul said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is wrong with the people, that they are weeping?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So they told him the news of the men of Jabesh.
+			</verse>
+			<marker class="begin-verse" mid="v09011006">
+			</marker>
+			<verse num="6">
+				<crossref let="v" cid="c09011006.1">
+				</crossref>
+				And the Spirit of God rushed upon Saul when he heard these words, and his anger was greatly kindled.
+			</verse>
+			<marker class="begin-verse" mid="v09011007">
+			</marker>
+			<verse num="7">
+				He took a yoke of oxen 
+				<crossref let="w" cid="c09011007.1">
+				</crossref>
+				and cut them in pieces and sent them throughout all the territory of Israel by the hand of messengers, saying, 
+				<crossref let="x" cid="c09011007.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whoever does not come out after Saul and Samuel, so shall it be done to his oxen!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Then the dread of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 fell upon the people, and they came out 
+				<crossref let="y" cid="c09011007.3">
+				</crossref>
+				as one man.
+			</verse>
+			<marker class="begin-verse" mid="v09011008">
+			</marker>
+			<verse num="8">
+				When he mustered them at 
+				<crossref let="z" cid="c09011008.1">
+				</crossref>
+				Bezek, 
+				<crossref let="a" cid="c09011008.2">
+				</crossref>
+				the people of Israel were three hundred thousand, and the men of Judah thirty thousand.
+			</verse>
+			<marker class="begin-verse" mid="v09011009">
+			</marker>
+			<verse num="9">
+				And they said to the messengers who had come, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus shall you say to the men of Jabesh-gilead: 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Tomorrow, by the time the sun is hot, you shall have 
+				<crossref let="b" cid="c09011009.1">
+				</crossref>
+				deliverance.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 When the messengers came and told the men of Jabesh, they were glad.
+			</verse>
+			<marker class="begin-verse" mid="v09011010">
+			</marker>
+			<verse num="10">
+				Therefore the men of Jabesh said, 
+				<crossref let="c" cid="c09011010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tomorrow we will give ourselves up to you, and you may do to us whatever seems good to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09011011">
+			</marker>
+			<verse num="11">
+				<crossref let="d" cid="c09011011.1">
+				</crossref>
+				And the next day Saul put the people 
+				<crossref let="e" cid="c09011011.2">
+				</crossref>
+				in three companies. And they came into the midst of the camp in the morning watch and struck down the Ammonites until the heat of the day. And those who survived were scattered, so that no two of them were left together.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09011012">
+			</marker>
+			<heading
+				>
+				The Kingdom Is Renewed
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				Then the people said to Samuel, 
+				<crossref let="f" cid="c09011012.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who is it that said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Shall Saul reign over us?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<crossref let="g" cid="c09011012.2">
+				</crossref>
+				Bring the men, that we may put them to death.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09011013">
+			</marker>
+			<verse num="13">
+				But Saul said, 
+				<crossref let="h" cid="c09011013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Not a man shall be put to death this day, for today 
+				<crossref let="i" cid="c09011013.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has worked 
+				<crossref let="j" cid="c09011013.3">
+				</crossref>
+				salvation in Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09011014">
+			</marker>
+			<verse num="14">
+				Then Samuel said to the people, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come, let us go to Gilgal and there renew the kingdom.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09011015">
+			</marker>
+			<verse num="15">
+				So all the people went to 
+				<crossref let="k" cid="c09011015.1">
+				</crossref>
+				Gilgal, and there they made Saul king 
+				<crossref let="l" cid="c09011015.2">
+				</crossref>
+				before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 in Gilgal. There 
+				<crossref let="m" cid="c09011015.3">
+				</crossref>
+				they sacrificed peace offerings before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and there Saul and all the men of Israel rejoiced greatly.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

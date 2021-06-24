@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Deuteronomy" num="4">
+		<marker class="begin-verse" mid="v05034001">
+		</marker>
+		<chapter num="34">
+			<heading
+				>
+				The Death of Moses
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then Moses went up from the plains of Moab 
+				<crossref let="a" cid="c05034001.1">
+				</crossref>
+				to Mount Nebo, to the top of Pisgah, which is opposite Jericho. And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 showed him all the land, Gilead as far as Dan,
+			</verse>
+			<marker class="begin-verse" mid="v05034002">
+			</marker>
+			<verse num="2">
+				all Naphtali, the land of Ephraim and Manasseh, all the land of Judah 
+				<crossref let="b" cid="c05034002.1">
+				</crossref>
+				as far as the western sea,
+			</verse>
+			<marker class="begin-verse" mid="v05034003">
+			</marker>
+			<verse num="3">
+				<crossref let="c" cid="c05034003.1">
+				</crossref>
+				the Negeb, and 
+				<crossref let="d" cid="c05034003.2">
+				</crossref>
+				the Plain, that is, the Valley of Jericho 
+				<crossref let="e" cid="c05034003.3">
+				</crossref>
+				the city of palm trees, as far as 
+				<crossref let="f" cid="c05034003.4">
+				</crossref>
+				Zoar.
+			</verse>
+			<marker class="begin-verse" mid="v05034004">
+			</marker>
+			<verse num="4">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to him, 
+				<crossref let="g" cid="c05034004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is the land of which I swore to Abraham, to Isaac, and to Jacob, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will give it to your offspring.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<crossref let="h" cid="c05034004.2">
+				</crossref>
+				I have let you see it with your eyes, but 
+				<crossref let="i" cid="c05034004.3">
+				</crossref>
+				you shall not go over there.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05034005">
+			</marker>
+			<verse num="5">
+				So Moses the servant of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 died there in the land of Moab, according to the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+			</verse>
+			<marker class="begin-verse" mid="v05034006">
+			</marker>
+			<verse num="6">
+				and he buried him in the valley in the land of Moab opposite Beth-peor; but 
+				<crossref let="j" cid="c05034006.1">
+				</crossref>
+				no one knows the place of his burial to this day.
+			</verse>
+			<marker class="begin-verse" mid="v05034007">
+			</marker>
+			<verse num="7">
+				<crossref let="k" cid="c05034007.1">
+				</crossref>
+				Moses was 120 years old when he died. 
+				<crossref let="l" cid="c05034007.2">
+				</crossref>
+				His eye was undimmed, and his vigor unabated.
+			</verse>
+			<marker class="begin-verse" mid="v05034008">
+			</marker>
+			<verse num="8">
+				And the people of Israel 
+				<crossref let="m" cid="c05034008.1">
+				</crossref>
+				wept for Moses in the plains of Moab thirty days. Then the days of weeping and mourning for Moses were ended.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05034009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				And Joshua the son of Nun was full of 
+				<crossref let="n" cid="c05034009.1">
+				</crossref>
+				the spirit of wisdom, for 
+				<crossref let="o" cid="c05034009.2">
+				</crossref>
+				Moses had laid his hands on him. So 
+				<crossref let="p" cid="c05034009.3">
+				</crossref>
+				the people of Israel obeyed him and did as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had commanded Moses.
+			</verse>
+			<marker class="begin-verse" mid="v05034010">
+			</marker>
+			<verse num="10">
+				And there has not 
+				<crossref let="q" cid="c05034010.1">
+				</crossref>
+				arisen a prophet since in Israel like Moses, 
+				<crossref let="r" cid="c05034010.2">
+				</crossref>
+				whom the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 knew face to face,
+			</verse>
+			<marker class="begin-verse" mid="v05034011">
+			</marker>
+			<verse num="11">
+				none like him for all 
+				<crossref let="s" cid="c05034011.1">
+				</crossref>
+				the signs and the wonders that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 sent him to do in the land of Egypt, to Pharaoh and to all his servants and to all his land,
+			</verse>
+			<marker class="begin-verse" mid="v05034012">
+			</marker>
+			<verse num="12">
+				and for all the mighty power and all the great deeds of terror that Moses did in the sight of all Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

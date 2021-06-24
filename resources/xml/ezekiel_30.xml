@@ -1,0 +1,777 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ezekiel" num="25">
+		<marker class="begin-verse" mid="v26030001">
+		</marker>
+		<chapter num="30">
+			<heading
+				>
+				A Lament for Egypt
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me:
+			</verse>
+			<marker class="begin-verse" mid="v26030002">
+			</marker>
+			<verse num="2">
+				<crossref let="v" cid="c26030002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Son of man, prophesy, and say, Thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c26030002.2">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Wail, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Alas for the day!
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26030003">
+			</marker>
+			<verse num="3">
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c26030003.1">
+				</crossref>
+				For the day is near,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c26030003.2">
+				</crossref>
+				the day of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is near;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				it will be 
+				<crossref let="y" cid="c26030003.3">
+				</crossref>
+				a day of clouds,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a time of doom for
+				<note nid="n26030003.1">
+				</note>
+				 the nations.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26030004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c26030004.1">
+				</crossref>
+				A sword shall come upon Egypt,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c26030004.2">
+				</crossref>
+				and anguish shall be in 
+				<crossref let="b" cid="c26030004.3">
+				</crossref>
+				Cush,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				when the slain fall in Egypt,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="c" cid="c26030004.4">
+				</crossref>
+				her wealth
+				<note nid="n26030004.1">
+				</note>
+				 is carried away,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="d" cid="c26030004.5">
+				</crossref>
+				her foundations are torn down.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v26030005">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="5">
+				<crossref let="b" cid="c26030005.1">
+				</crossref>
+				Cush, and 
+				<crossref let="e" cid="c26030005.2">
+				</crossref>
+				Put, and Lud, and 
+				<crossref let="f" cid="c26030005.3">
+				</crossref>
+				all Arabia, and Libya,
+				<note nid="n26030005.1">
+				</note>
+				 and the people of the land that is in league,
+				<note nid="n26030005.2">
+				</note>
+				 shall fall with them by the sword.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26030006">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c26030006.1">
+				</crossref>
+				Those who support Egypt shall fall,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="h" cid="c26030006.2">
+				</crossref>
+				her proud might shall come down;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c26030006.3">
+				</crossref>
+				from Migdol to Syene
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they shall fall within her by the sword,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				declares the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26030007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c26030007.1">
+				</crossref>
+				And they shall be desolated in the midst of desolated countries,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and their cities shall be in the midst of cities that are laid waste.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26030008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c26030008.1">
+				</crossref>
+				Then they will know that I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when 
+				<crossref let="l" cid="c26030008.2">
+				</crossref>
+				I have set fire to Egypt,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="g" cid="c26030008.3">
+				</crossref>
+				all her helpers are broken.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v26030009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				On that day 
+				<crossref let="m" cid="c26030009.1">
+				</crossref>
+				messengers shall go out from me in ships to terrify the unsuspecting 
+				<crossref let="b" cid="c26030009.2">
+				</crossref>
+				people of Cush, and 
+				<crossref let="a" cid="c26030009.3">
+				</crossref>
+				anguish shall come upon them on the day of Egypt's doom;
+				<note nid="n26030009.1">
+				</note>
+				 for, behold, it comes!
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v26030010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c26030010.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				I will put an end to the wealth of Egypt,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				by the hand of Nebuchadnezzar king of Babylon.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26030011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				He and his people with him, 
+				<crossref let="o" cid="c26030011.1">
+				</crossref>
+				the most ruthless of nations,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall be brought in to destroy the land,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c26030011.2">
+				</crossref>
+				and they shall draw their swords against Egypt
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and fill the land with the slain.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26030012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				And 
+				<crossref let="p" cid="c26030012.1">
+				</crossref>
+				I will 
+				<crossref let="q" cid="c26030012.2">
+				</crossref>
+				dry up the Nile
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and will sell the land into the hand of 
+				<crossref let="r" cid="c26030012.3">
+				</crossref>
+				evildoers;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c26030012.4">
+				</crossref>
+				I will bring desolation upon the land and everything in it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				by the hand of 
+				<crossref let="t" cid="c26030012.5">
+				</crossref>
+				foreigners;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c26030012.6">
+				</crossref>
+				I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				; I have spoken.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v26030013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c26030013.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				I will destroy the idols
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and put an end to the images in 
+				<crossref let="w" cid="c26030013.2">
+				</crossref>
+				Memphis;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c26030013.3">
+				</crossref>
+				there shall no longer be a prince from the land of Egypt;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so 
+				<crossref let="y" cid="c26030013.4">
+				</crossref>
+				I will put fear in the land of Egypt.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26030014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				I will make 
+				<crossref let="z" cid="c26030014.1">
+				</crossref>
+				Pathros a desolation
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and will set fire to 
+				<crossref let="a" cid="c26030014.2">
+				</crossref>
+				Zoan
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c26030014.3">
+				</crossref>
+				and will execute judgments on 
+				<crossref let="c" cid="c26030014.4">
+				</crossref>
+				Thebes.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26030015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				And I will pour out my wrath on Pelusium,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the stronghold of Egypt,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and cut off the multitude
+				<note nid="n26030015.1">
+				</note>
+				 of Thebes.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26030016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				And I will set fire to Egypt;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Pelusium shall be in great agony;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Thebes shall be breached,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="w" cid="c26030016.1">
+				</crossref>
+				Memphis shall face enemies
+				<note nid="n26030016.1">
+				</note>
+				 by day.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26030017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				The young men of On and of Pi-beseth shall fall by the sword,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the women
+				<note nid="n26030017.1">
+				</note>
+				 shall go into captivity.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26030018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				At 
+				<crossref let="d" cid="c26030018.1">
+				</crossref>
+				Tehaphnehes 
+				<crossref let="e" cid="c26030018.2">
+				</crossref>
+				the day shall be dark,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when I break there the yoke bars of Egypt,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and 
+				<crossref let="f" cid="c26030018.3">
+				</crossref>
+				her proud might shall come to an end in her;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she shall be covered by a cloud,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and her daughters shall go into captivity.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v26030019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				Thus 
+				<crossref let="g" cid="c26030019.1">
+				</crossref>
+				I will execute judgments on Egypt.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c26030019.2">
+				</crossref>
+				Then they will know that I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v26030020">
+			</marker>
+			<heading
+				>
+				Egypt Shall Fall to Babylon
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				<crossref let="i" cid="c26030020.1">
+				</crossref>
+				In the eleventh year, in the first month, on the seventh day of the month, the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 came to me:
+			</verse>
+			<marker class="begin-verse" mid="v26030021">
+			</marker>
+			<verse num="21">
+				<crossref let="j" cid="c26030021.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Son of man, 
+				<crossref let="k" cid="c26030021.2">
+				</crossref>
+				I have broken the arm of Pharaoh king of Egypt, and behold, 
+				<crossref let="l" cid="c26030021.3">
+				</crossref>
+				it has not been bound up, to heal it by binding it with a bandage, so that it may become strong to wield the sword.
+			</verse>
+			<marker class="begin-verse" mid="v26030022">
+			</marker>
+			<verse num="22">
+				Therefore thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				: Behold, I am against Pharaoh king of Egypt and 
+				<crossref let="m" cid="c26030022.1">
+				</crossref>
+				will break his arms, both the strong arm and the one that was broken, and I will make the sword fall from his hand.
+			</verse>
+			<marker class="begin-verse" mid="v26030023">
+			</marker>
+			<verse num="23">
+				<crossref let="n" cid="c26030023.1">
+				</crossref>
+				I will scatter the Egyptians among the nations and disperse them through the countries.
+			</verse>
+			<marker class="begin-verse" mid="v26030024">
+			</marker>
+			<verse num="24">
+				And 
+				<crossref let="o" cid="c26030024.1">
+				</crossref>
+				I will strengthen the arms of the king of Babylon and put 
+				<crossref let="p" cid="c26030024.2">
+				</crossref>
+				my sword in his hand, but I will break the arms of Pharaoh, and he will groan before him 
+				<crossref let="q" cid="c26030024.3">
+				</crossref>
+				like a man mortally wounded.
+			</verse>
+			<marker class="begin-verse" mid="v26030025">
+			</marker>
+			<verse num="25">
+				I will strengthen the arms of the king of Babylon, but the arms of Pharaoh shall fall. 
+				<crossref let="r" cid="c26030025.1">
+				</crossref>
+				Then they shall know that I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="s" cid="c26030025.2">
+				</crossref>
+				when I put my sword into the hand of the king of Babylon and he stretches it out against the land of Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v26030026">
+			</marker>
+			<verse num="26">
+				And I will scatter the Egyptians among the nations and disperse them throughout the countries. Then they will know that I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

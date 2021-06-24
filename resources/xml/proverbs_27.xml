@@ -1,0 +1,535 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Proverbs" num="19">
+		<marker class="begin-verse" mid="v20027001">
+		</marker>
+		<chapter num="27">
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Do not boast about tomorrow,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="y" cid="c20027001.1">
+				</crossref>
+				for you do not know what a day may bring.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Let 
+				<crossref let="z" cid="c20027002.1">
+				</crossref>
+				another praise you, and not your own mouth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a stranger, and not your own lips.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				A stone is heavy, and sand is weighty,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="a" cid="c20027003.1">
+				</crossref>
+				a fool's provocation is heavier than both.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Wrath is cruel, anger is overwhelming,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but who can stand before 
+				<crossref let="b" cid="c20027004.1">
+				</crossref>
+				jealousy?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c20027005.1">
+				</crossref>
+				Better is open rebuke
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				than hidden love.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Faithful are 
+				<crossref let="d" cid="c20027006.1">
+				</crossref>
+				the wounds of a friend;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				profuse are the kisses of an enemy.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				One who is full loathes 
+				<crossref let="e" cid="c20027007.1">
+				</crossref>
+				honey,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but to one who is hungry everything bitter is sweet.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Like 
+				<crossref let="f" cid="c20027008.1">
+				</crossref>
+				a bird that strays from its nest
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is a man who strays from his home.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c20027009.1">
+				</crossref>
+				Oil and perfume make the heart glad,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the sweetness of a friend comes from his earnest counsel.
+				<note nid="n20027009.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Do not forsake your friend and 
+				<crossref let="h" cid="c20027010.1">
+				</crossref>
+				your father's friend,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and do not go to your brother's house in the day of your calamity.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c20027010.2">
+				</crossref>
+				Better is a neighbor who is near
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				than a brother who is far away.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c20027011.1">
+				</crossref>
+				Be wise, 
+				<crossref let="k" cid="c20027011.2">
+				</crossref>
+				my son, and 
+				<crossref let="l" cid="c20027011.3">
+				</crossref>
+				make my heart glad,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that I may 
+				<crossref let="m" cid="c20027011.4">
+				</crossref>
+				answer him who reproaches me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c20027012.1">
+				</crossref>
+				The prudent sees danger and hides himself,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="o" cid="c20027012.2">
+				</crossref>
+				the simple go on and suffer for it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c20027013.1">
+				</crossref>
+				Take a man's garment when he has put up security for a stranger,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and hold it in pledge when he puts up security for an adulteress.
+				<note nid="n20027013.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				Whoever blesses his neighbor with a loud voice,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				rising early in the morning,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				will be counted as cursing.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c20027015.1">
+				</crossref>
+				A continual dripping on a rainy day
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a quarrelsome wife are alike;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				to restrain her is to restrain the wind
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or to grasp
+				<note nid="n20027016.1">
+				</note>
+				 oil in one's right hand.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				Iron sharpens iron,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and one man sharpens another.
+				<note nid="n20027017.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c20027018.1">
+				</crossref>
+				Whoever tends a fig tree will eat its fruit,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he who 
+				<crossref let="s" cid="c20027018.2">
+				</crossref>
+				guards his master will be honored.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				As in water face reflects face,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so the heart of man reflects the man.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c20027020.1">
+				</crossref>
+				Sheol and Abaddon are 
+				<crossref let="u" cid="c20027020.2">
+				</crossref>
+				never satisfied,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="v" cid="c20027020.3">
+				</crossref>
+				never satisfied are the eyes of man.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c20027021.1">
+				</crossref>
+				The crucible is for silver, and the furnace is for gold,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a man is tested by his praise.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c20027022.1">
+				</crossref>
+				Crush a fool in a mortar with a pestle
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				along with crushed grain,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				yet his folly will not depart from him.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20027023">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c20027023.1">
+				</crossref>
+				Know well the condition of your flocks,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="y" cid="c20027023.2">
+				</crossref>
+				give attention to your herds,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				for 
+				<crossref let="z" cid="c20027024.1">
+				</crossref>
+				riches do not last forever;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and does a crown endure to all generations?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c20027025.1">
+				</crossref>
+				When the grass is gone and the new growth appears
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the vegetation of the mountains is gathered,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c20027026.1">
+				</crossref>
+				the lambs will provide your clothing,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the goats the price of a field.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20027027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c20027027.1">
+				</crossref>
+				There will be enough goats' milk for your food,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for the food of your household
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and maintenance for your girls.
+				<end-line class="br">
+				</end-line>
+			</verse>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

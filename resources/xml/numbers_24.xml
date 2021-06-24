@@ -1,0 +1,686 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Numbers" num="3">
+		<marker class="begin-verse" mid="v04024001">
+		</marker>
+		<chapter num="24">
+			<heading
+				>
+				Balaam's Third Oracle
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				When Balaam saw that it pleased the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 to bless Israel, he did not go, as at 
+				<crossref let="s" cid="c04024001.1">
+				</crossref>
+				other times, to look for omens, but set his face toward the wilderness.
+			</verse>
+			<marker class="begin-verse" mid="v04024002">
+			</marker>
+			<verse num="2">
+				And Balaam lifted up his eyes and saw Israel 
+				<crossref let="t" cid="c04024002.1">
+				</crossref>
+				camping tribe by tribe. And 
+				<crossref let="u" cid="c04024002.2">
+				</crossref>
+				the Spirit of God came upon him,
+			</verse>
+			<marker class="begin-verse" mid="v04024003">
+			</marker>
+			<verse num="3">
+				and he 
+				<crossref let="v" cid="c04024003.1">
+				</crossref>
+				took up his discourse and said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The oracle of Balaam the son of Beor,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the oracle of the man whose eye is opened,
+				<note nid="n04024003.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04024004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				the oracle of him who hears the words of God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who sees the vision of the Almighty,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c04024004.1">
+				</crossref>
+				falling down with his eyes uncovered:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04024005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				How lovely are your tents, O Jacob,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your encampments, O Israel!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04024006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Like palm groves
+				<note nid="n04024006.1">
+				</note>
+				 that stretch afar,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like gardens beside a river,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c04024006.1">
+				</crossref>
+				like aloes 
+				<crossref let="y" cid="c04024006.2">
+				</crossref>
+				that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has planted,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like cedar trees beside the waters.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04024007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Water shall flow from his buckets,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his seed shall be 
+				<crossref let="z" cid="c04024007.1">
+				</crossref>
+				in many waters;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				his king shall be higher than 
+				<crossref let="a" cid="c04024007.2">
+				</crossref>
+				Agag,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="b" cid="c04024007.3">
+				</crossref>
+				his kingdom shall be exalted.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04024008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				God brings him out of Egypt
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and is for him like the 
+				<crossref let="c" cid="c04024008.1">
+				</crossref>
+				horns of the wild ox;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				he shall 
+				<crossref let="d" cid="c04024008.2">
+				</crossref>
+				eat up the nations, his adversaries,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and shall 
+				<crossref let="e" cid="c04024008.3">
+				</crossref>
+				break their bones in pieces
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="f" cid="c04024008.4">
+				</crossref>
+				pierce them through with his arrows.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04024009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				He crouched, he lay down like a lion
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="g" cid="c04024009.1">
+				</crossref>
+				like a lioness; who will rouse him up?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c04024009.2">
+				</crossref>
+				Blessed are those who bless you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and cursed are those who curse you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v04024010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				And Balak's anger was kindled against Balaam, and he 
+				<crossref let="i" cid="c04024010.1">
+				</crossref>
+				struck his hands together. And Balak said to Balaam, 
+				<crossref let="j" cid="c04024010.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I called you to curse my enemies, and behold, you have blessed them these three times.
+			</verse>
+			<marker class="begin-verse" mid="v04024011">
+			</marker>
+			<verse num="11">
+				Therefore now flee to your own place. I said, 
+				<crossref let="k" cid="c04024011.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will certainly honor you,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 but the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has held you back from honor.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04024012">
+			</marker>
+			<verse num="12">
+				And Balaam said to Balak, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Did I not tell your messengers whom you sent to me,
+			</verse>
+			<marker class="begin-verse" mid="v04024013">
+			</marker>
+			<verse num="13">
+				<crossref let="l" cid="c04024013.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				If Balak should give me his house full of silver and gold, I would not be able to go beyond the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, to do either good or bad 
+				<crossref let="m" cid="c04024013.2">
+				</crossref>
+				of my own will. What the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 speaks, that will I speak
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				?
+			</verse>
+			<marker class="begin-verse" mid="v04024014">
+			</marker>
+			<verse num="14">
+				And now, behold, I am going to my people. Come, 
+				<crossref let="n" cid="c04024014.1">
+				</crossref>
+				I will let you know what this people will do to your people 
+				<crossref let="o" cid="c04024014.2">
+				</crossref>
+				in the latter days.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04024015">
+			</marker>
+			<heading
+				>
+				Balaam's Final Oracle
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				<crossref let="p" cid="c04024015.1">
+				</crossref>
+				And he took up his discourse and said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The oracle of Balaam the son of Beor,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the oracle of the man whose eye is opened,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04024016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				the oracle of him who hears the words of God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and knows the knowledge of 
+				<crossref let="q" cid="c04024016.1">
+				</crossref>
+				the Most High,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				who sees the vision of the Almighty,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c04024016.2">
+				</crossref>
+				falling down with his eyes uncovered:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04024017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c04024017.1">
+				</crossref>
+				I see him, but not now;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I behold him, but not near:
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c04024017.2">
+				</crossref>
+				a star shall come out of Jacob,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="u" cid="c04024017.3">
+				</crossref>
+				a scepter shall rise out of Israel;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				it shall 
+				<crossref let="v" cid="c04024017.4">
+				</crossref>
+				crush the forehead
+				<note nid="n04024017.1">
+				</note>
+				 of Moab
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and break down all the sons of Sheth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04024018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c04024018.1">
+				</crossref>
+				Edom shall be dispossessed;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c04024018.2">
+				</crossref>
+				Seir also, his enemies, shall be dispossessed.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Israel is doing valiantly.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04024019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				And one from Jacob shall exercise dominion
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and destroy the survivors of cities!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v04024020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				Then he looked on Amalek and 
+				<crossref let="y" cid="c04024020.1">
+				</crossref>
+				took up his discourse and said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Amalek was the first among the nations,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c04024020.2">
+				</crossref>
+				but its end is utter destruction.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v04024021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				And he looked on the Kenite, and took up his discourse and said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Enduring is your dwelling place,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your nest is set in the rock.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04024022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				Nevertheless, Kain shall be burned
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when Asshur takes you away captive.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v04024023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				And he took up his discourse and said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Alas, who shall live when God does this?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v04024024">
+			</marker>
+			<verse num="24">
+				<begin-line class="indent">
+				</begin-line>
+				But ships shall come from 
+				<crossref let="a" cid="c04024024.1">
+				</crossref>
+				Kittim
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and shall afflict Asshur and 
+				<crossref let="b" cid="c04024024.2">
+				</crossref>
+				Eber;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he too 
+				<crossref let="c" cid="c04024024.3">
+				</crossref>
+				shall come to utter destruction.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v04024025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				Then Balaam rose and 
+				<crossref let="d" cid="c04024025.1">
+				</crossref>
+				went back to his place. And Balak also went his way.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

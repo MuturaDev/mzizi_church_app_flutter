@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Samuel" num="9">
+		<marker class="begin-verse" mid="v10020001">
+		</marker>
+		<chapter num="20">
+			<heading
+				>
+				The Rebellion of Sheba
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now there happened to be there 
+				<crossref let="d" cid="c10020001.1">
+				</crossref>
+				a worthless man, whose name was Sheba, the son of Bichri, a Benjaminite. And he blew the trumpet and said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c10020001.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We have no portion in David,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				and we have no inheritance in the son of Jesse;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c10020001.3">
+				</crossref>
+				every man to his tents, O Israel!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v10020002">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="2">
+				So all the men of Israel withdrew from David and followed Sheba the son of Bichri. But the men of Judah followed their king steadfastly from the Jordan to Jerusalem.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10020003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				And David came to his house at Jerusalem. And the king took 
+				<crossref let="g" cid="c10020003.1">
+				</crossref>
+				the ten concubines whom he had left to care for the house and put them in a house under guard and provided for them, but did not go in to them. So they were shut up until the day of their death, living as if in widowhood.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10020004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				Then the king said to 
+				<crossref let="h" cid="c10020004.1">
+				</crossref>
+				Amasa, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Call the men of Judah together to me within three days, and be here yourself.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10020005">
+			</marker>
+			<verse num="5">
+				So Amasa went to summon Judah, but he delayed beyond the set time that had been appointed him.
+			</verse>
+			<marker class="begin-verse" mid="v10020006">
+			</marker>
+			<verse num="6">
+				And David said to Abishai, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Now Sheba the son of Bichri will do us more harm than Absalom. Take 
+				<crossref let="i" cid="c10020006.1">
+				</crossref>
+				your lord's servants and pursue him, lest he get himself to fortified cities and escape from us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n10020006.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v10020007">
+			</marker>
+			<verse num="7">
+				And there went out after him Joab's men and the 
+				<crossref let="j" cid="c10020007.1">
+				</crossref>
+				Cherethites and the Pelethites, and all the mighty men. They went out from Jerusalem to pursue Sheba the son of Bichri.
+			</verse>
+			<marker class="begin-verse" mid="v10020008">
+			</marker>
+			<verse num="8">
+				When they were at the great stone that is in Gibeon, Amasa came to meet them. Now Joab was wearing a soldier's garment, and over it was a belt with a sword in its sheath fastened on his thigh, and as he went forward it fell out.
+			</verse>
+			<marker class="begin-verse" mid="v10020009">
+			</marker>
+			<verse num="9">
+				And Joab said to Amasa, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is it well with you, my brother?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Joab took Amasa by the beard with his right hand 
+				<crossref let="k" cid="c10020009.1">
+				</crossref>
+				to kiss him.
+			</verse>
+			<marker class="begin-verse" mid="v10020010">
+			</marker>
+			<verse num="10">
+				But Amasa did not observe the sword that was in Joab's hand. 
+				<crossref let="l" cid="c10020010.1">
+				</crossref>
+				So Joab struck him with it 
+				<crossref let="m" cid="c10020010.2">
+				</crossref>
+				in the stomach and spilled his entrails to the ground without striking a second blow, and he died.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				Then Joab and Abishai his brother pursued Sheba the son of Bichri.
+
+			</verse>
+			<marker class="begin-verse" mid="v10020011">
+			</marker>
+			<verse num="11">
+				And one of Joab's young men took his stand by Amasa and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whoever favors Joab, and whoever is for David, let him follow Joab.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10020012">
+			</marker>
+			<verse num="12">
+				And Amasa lay wallowing in his blood in the highway. And anyone who came by, seeing him, stopped. And when the man saw that all the people stopped, he carried Amasa out of the highway into the field and threw a garment over him.
+			</verse>
+			<marker class="begin-verse" mid="v10020013">
+			</marker>
+			<verse num="13">
+				When he was taken out of the highway, all the people went on after Joab to pursue Sheba the son of Bichri.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10020014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				And Sheba passed through all the tribes of Israel to 
+				<crossref let="n" cid="c10020014.1">
+				</crossref>
+				Abel of 
+				<crossref let="n" cid="c10020014.2">
+				</crossref>
+				Beth-maacah,
+				<note nid="n10020014.1">
+				</note>
+				 and all 
+				<crossref let="o" cid="c10020014.3">
+				</crossref>
+				the Bichrites
+				<note nid="n10020014.2">
+				</note>
+				 assembled and followed him in.
+			</verse>
+			<marker class="begin-verse" mid="v10020015">
+			</marker>
+			<verse num="15">
+				And all the men who were with Joab came and besieged him in 
+				<crossref let="n" cid="c10020015.1">
+				</crossref>
+				Abel of Beth-maacah. 
+				<crossref let="p" cid="c10020015.2">
+				</crossref>
+				They cast up a mound against the city, and it stood against the rampart, and they were battering the wall to throw it down.
+			</verse>
+			<marker class="begin-verse" mid="v10020016">
+			</marker>
+			<verse num="16">
+				Then a wise woman called from the city, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Listen! Listen! Tell Joab, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Come here, that I may speak to you.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10020017">
+			</marker>
+			<verse num="17">
+				And he came near her, and the woman said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Are you Joab?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Then she said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Listen to the words of your servant.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am listening.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10020018">
+			</marker>
+			<verse num="18">
+				Then she said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				They used to say in former times, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Let them but ask counsel at 
+				<crossref let="n" cid="c10020018.1">
+				</crossref>
+				Abel,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 and so they settled a matter.
+			</verse>
+			<marker class="begin-verse" mid="v10020019">
+			</marker>
+			<verse num="19">
+				I am one of those who are peaceable and faithful in Israel. You seek to destroy a city that is a mother in Israel. Why will you 
+				<crossref let="q" cid="c10020019.1">
+				</crossref>
+				swallow up 
+				<crossref let="r" cid="c10020019.2">
+				</crossref>
+				the heritage of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10020020">
+			</marker>
+			<verse num="20">
+				Joab answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Far be it from me, far be it, that I should 
+				<crossref let="q" cid="c10020020.1">
+				</crossref>
+				swallow up or destroy!
+			</verse>
+			<marker class="begin-verse" mid="v10020021">
+			</marker>
+			<verse num="21">
+				That is not true. But a man of 
+				<crossref let="s" cid="c10020021.1">
+				</crossref>
+				the hill country of Ephraim, called Sheba the son of Bichri, has lifted up his hand against King David. Give up him alone, and I will withdraw from the city.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And the woman said to Joab, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, his head shall be thrown to you over the wall.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10020022">
+			</marker>
+			<verse num="22">
+				Then the woman went to all the people 
+				<crossref let="t" cid="c10020022.1">
+				</crossref>
+				in her wisdom. And they cut off the head of Sheba the son of Bichri and threw it out to Joab. So he blew the trumpet, and they dispersed from the city, 
+				<crossref let="u" cid="c10020022.2">
+				</crossref>
+				every man to his home. And Joab returned to Jerusalem to the king.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10020023">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				<crossref let="v" cid="c10020023.1">
+				</crossref>
+				Now Joab was in command of all the army of Israel; and Benaiah the son of Jehoiada was in command of the Cherethites and the Pelethites;
+			</verse>
+			<marker class="begin-verse" mid="v10020024">
+			</marker>
+			<verse num="24">
+				and 
+				<crossref let="w" cid="c10020024.1">
+				</crossref>
+				Adoram was in charge of the forced labor; and Jehoshaphat the son of Ahilud was the recorder;
+			</verse>
+			<marker class="begin-verse" mid="v10020025">
+			</marker>
+			<verse num="25">
+				and Sheva was secretary; and 
+				<crossref let="x" cid="c10020025.1">
+				</crossref>
+				Zadok and Abiathar were priests;
+			</verse>
+			<marker class="begin-verse" mid="v10020026">
+			</marker>
+			<verse num="26">
+				and 
+				<crossref let="y" cid="c10020026.1">
+				</crossref>
+				Ira the Jairite was also David's priest.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

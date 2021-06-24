@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23061001">
+		</marker>
+		<chapter num="61">
+			<heading
+				>
+				The Year of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's Favor
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c23061001.1">
+				</crossref>
+				The Spirit of the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				 is upon me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has 
+				<crossref let="t" cid="c23061001.2">
+				</crossref>
+				anointed me
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				to bring good news to the poor;
+				<note nid="n23061001.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he has sent me to bind up the brokenhearted,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				to proclaim liberty to the captives,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="u" cid="c23061001.3">
+				</crossref>
+				the opening of the prison to those who are bound;
+				<note nid="n23061001.2">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23061002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c23061002.1">
+				</crossref>
+				to proclaim the year of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's favor,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c23061002.2">
+				</crossref>
+				and the day of vengeance of our God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to comfort all who mourn;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23061003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				to grant to those who mourn in Zionù
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c23061003.1">
+				</crossref>
+				to give them a beautiful headdress instead of ashes,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c23061003.2">
+				</crossref>
+				the oil of gladness instead of mourning,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the garment of praise instead of a faint spirit;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c23061003.3">
+				</crossref>
+				that they may be called oaks of righteousness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the planting of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="a" cid="c23061003.4">
+				</crossref>
+				that he may be glorified.
+				<note nid="n23061003.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23061004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c23061004.1">
+				</crossref>
+				They shall build up the ancient ruins;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they shall raise up the former devastations;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				they shall repair the ruined cities,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the devastations of many generations.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23061005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c23061005.1">
+				</crossref>
+				Strangers shall stand and tend your flocks;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				foreigners shall be your plowmen and vinedressers;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23061006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c23061006.1">
+				</crossref>
+				but you shall be called the priests of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they shall speak of you as the ministers of our God;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c23061006.2">
+				</crossref>
+				you shall eat the wealth of the nations,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and in their glory you shall boast.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23061007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c23061007.1">
+				</crossref>
+				Instead of your shame there shall be a double portion;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				instead of dishonor they shall rejoice in their lot;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				therefore in their land they shall possess a double portion;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they shall have everlasting joy.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23061008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c23061008.1">
+				</crossref>
+				For I the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 love justice;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I hate robbery and wrong;
+				<note nid="n23061008.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c23061008.2">
+				</crossref>
+				I will faithfully give them their recompense,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c23061008.3">
+				</crossref>
+				and I will make an everlasting covenant with them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23061009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Their offspring shall be known among the nations,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and their descendants in the midst of the peoples;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				all who see them shall acknowledge them,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that they are an offspring the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has blessed.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23061010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c23061010.1">
+				</crossref>
+				I will greatly rejoice in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my soul shall exult in my God,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c23061010.2">
+				</crossref>
+				for he has clothed me with the garments of salvation;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he has covered me with the robe of righteousness,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				as a bridegroom decks himself 
+				<crossref let="l" cid="c23061010.3">
+				</crossref>
+				like a priest with a beautiful headdress,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c23061010.4">
+				</crossref>
+				and as a bride adorns herself with her jewels.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23061011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				For as the earth brings forth its sprouts,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and as a garden causes what is sown in it to sprout up,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				so the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				 will cause 
+				<crossref let="n" cid="c23061011.1">
+				</crossref>
+				righteousness and praise
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to sprout up before all the nations.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

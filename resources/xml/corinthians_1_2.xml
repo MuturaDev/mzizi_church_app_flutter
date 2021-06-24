@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Corinthians" num="45">
+		<marker class="begin-verse" mid="v46002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				Proclaiming Christ Crucified
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And I, when I came to you, brothers,
+				<note nid="n46002001.1">
+				</note>
+				<crossref let="x" cid="c46002001.1">
+				</crossref>
+				did not come proclaiming to you 
+				<crossref let="y" cid="c46002001.2">
+				</crossref>
+				the testimony
+				<note nid="n46002001.2">
+				</note>
+				 of God with lofty speech or wisdom.
+			</verse>
+			<marker class="begin-verse" mid="v46002002">
+			</marker>
+			<verse num="2">
+				For I decided to know nothing among you except 
+				<crossref let="z" cid="c46002002.1">
+				</crossref>
+				Jesus Christ and him crucified.
+			</verse>
+			<marker class="begin-verse" mid="v46002003">
+			</marker>
+			<verse num="3">
+				And 
+				<crossref let="a" cid="c46002003.1">
+				</crossref>
+				I was with you 
+				<crossref let="b" cid="c46002003.2">
+				</crossref>
+				in weakness and in fear and much trembling,
+			</verse>
+			<marker class="begin-verse" mid="v46002004">
+			</marker>
+			<verse num="4">
+				and my speech and my message were not in plausible words of wisdom, but in demonstration of 
+				<crossref let="c" cid="c46002004.1">
+				</crossref>
+				the Spirit and of power,
+			</verse>
+			<marker class="begin-verse" mid="v46002005">
+			</marker>
+			<verse num="5">
+				that your faith might not rest in the wisdom of men but 
+				<crossref let="d" cid="c46002005.1">
+				</crossref>
+				in the power of God.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v46002006">
+			</marker>
+			<heading
+				>
+				Wisdom from the Spirit
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				Yet among 
+				<crossref let="e" cid="c46002006.1">
+				</crossref>
+				the mature we do impart wisdom, although it is not 
+				<crossref let="f" cid="c46002006.2">
+				</crossref>
+				a wisdom of this age or of the rulers of this age, 
+				<crossref let="g" cid="c46002006.3">
+				</crossref>
+				who are doomed to pass away.
+			</verse>
+			<marker class="begin-verse" mid="v46002007">
+			</marker>
+			<verse num="7">
+				But we impart a secret and hidden wisdom of God, 
+				<crossref let="h" cid="c46002007.1">
+				</crossref>
+				which God decreed before the ages for our glory.
+			</verse>
+			<marker class="begin-verse" mid="v46002008">
+			</marker>
+			<verse num="8">
+				None of 
+				<crossref let="i" cid="c46002008.1">
+				</crossref>
+				the rulers of this age understood this, for 
+				<crossref let="j" cid="c46002008.2">
+				</crossref>
+				if they had, they would not have crucified 
+				<crossref let="k" cid="c46002008.3">
+				</crossref>
+				the Lord of glory.
+			</verse>
+			<marker class="begin-verse" mid="v46002009">
+			</marker>
+			<verse num="9">
+				But, as it is written,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c46002009.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What no eye has seen, nor ear heard,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor the heart of man imagined,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				what God has 
+				<crossref let="m" cid="c46002009.2">
+				</crossref>
+				prepared 
+				<crossref let="n" cid="c46002009.3">
+				</crossref>
+				for those who love him
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				ù
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v46002010">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="10">
+				these things 
+				<crossref let="o" cid="c46002010.1">
+				</crossref>
+				God has revealed to us through the Spirit. For the Spirit searches everything, even 
+				<crossref let="p" cid="c46002010.2">
+				</crossref>
+				the depths of God.
+			</verse>
+			<marker class="begin-verse" mid="v46002011">
+			</marker>
+			<verse num="11">
+				For who knows a person's thoughts 
+				<crossref let="q" cid="c46002011.1">
+				</crossref>
+				except the spirit of that person, which is in him? So also no one comprehends the thoughts of God except the Spirit of God.
+			</verse>
+			<marker class="begin-verse" mid="v46002012">
+			</marker>
+			<verse num="12">
+				Now 
+				<crossref let="r" cid="c46002012.1">
+				</crossref>
+				we have received not 
+				<crossref let="s" cid="c46002012.2">
+				</crossref>
+				the spirit of the world, but the Spirit who is from God, that we might understand the things freely given us by God.
+			</verse>
+			<marker class="begin-verse" mid="v46002013">
+			</marker>
+			<verse num="13">
+				And we impart this 
+				<crossref let="t" cid="c46002013.1">
+				</crossref>
+				in words not taught by human wisdom but taught by the Spirit, 
+				<crossref let="u" cid="c46002013.2">
+				</crossref>
+				interpreting spiritual truths to those who are spiritual.
+				<note nid="n46002013.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v46002014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				The natural person does not accept the things of the Spirit of God, for they are 
+				<crossref let="v" cid="c46002014.1">
+				</crossref>
+				folly to him, and 
+				<crossref let="w" cid="c46002014.2">
+				</crossref>
+				he is not able to understand them because they are spiritually discerned.
+			</verse>
+			<marker class="begin-verse" mid="v46002015">
+			</marker>
+			<verse num="15">
+				The 
+				<crossref let="x" cid="c46002015.1">
+				</crossref>
+				spiritual person judges all things, but is himself to be judged by no one.
+			</verse>
+			<marker class="begin-verse" mid="v46002016">
+			</marker>
+			<verse num="16">
+				<crossref let="y" cid="c46002016.1">
+				</crossref>
+				<crossref cid="t46002016.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				For who has understood the mind of the Lord so as to instruct him?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But 
+				<crossref let="z" cid="c46002016.2">
+				</crossref>
+				we have the mind of Christ.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

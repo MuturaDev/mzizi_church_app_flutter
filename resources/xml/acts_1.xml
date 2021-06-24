@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<crossway-bible>
+	<book title="Acts" num="44">
+		<marker class="begin-verse" mid="v44001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				The Promise of the Holy Spirit
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="1">
+				In the first book, O 
+				<crossref let="a" cid="c44001001.1">
+				</crossref>
+				Theophilus, I have dealt with all that Jesus began 
+				<crossref let="b" cid="c44001001.2">
+				</crossref>
+				to do and teach,
+			</verse>
+			<marker class="begin-verse" mid="v44001002">
+			</marker>
+			<verse num="2">
+				until the day when 
+				<crossref let="c" cid="c44001002.1">
+				</crossref>
+				he was taken up, after he 
+				<crossref let="d" cid="c44001002.2">
+				</crossref>
+				had given commands 
+				<crossref let="e" cid="c44001002.3">
+				</crossref>
+				through the Holy Spirit to the apostles whom he had chosen.
+			</verse>
+			<marker class="begin-verse" mid="v44001003">
+			</marker>
+			<verse num="3">
+				<crossref let="f" cid="c44001003.1">
+				</crossref>
+				He presented himself alive to them after his suffering by many proofs, appearing to them during forty days and speaking about the kingdom of God.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44001004">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="4">
+				And while staying
+				<note nid="n44001004.1">
+				</note>
+				 with them 
+				<crossref let="g" cid="c44001004.1">
+				</crossref>
+				he ordered them not to depart from Jerusalem, but to wait for the promise of the Father, which, he said, 
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					you heard from me;
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44001005">
+			</marker>
+			<verse num="5" class="woc">
+				<woc>
+					for 
+					<crossref let="h" cid="c44001005.1">
+					</crossref>
+					John baptized with water, 
+					<crossref let="h" cid="c44001005.2">
+					</crossref>
+					but you will be baptized 
+					<crossref let="i" cid="c44001005.3">
+					</crossref>
+					with
+					<note nid="n44001005.1">
+					</note>
+					 the Holy Spirit not many days from now.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44001006">
+			</marker>
+			<heading>
+				The Ascension
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="6">
+				So when they had come together, they asked him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, 
+				<crossref let="j" cid="c44001006.1">
+				</crossref>
+				will you at this time 
+				<crossref let="k" cid="c44001006.2">
+				</crossref>
+				restore the kingdom to Israel?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44001007">
+			</marker>
+			<verse num="7">
+				He said to them, 
+				<woc>
+					<crossref let="l" cid="c44001007.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					It is not for you to know 
+					<crossref let="m" cid="c44001007.2">
+					</crossref>
+					times or seasons that the Father has fixed by his own authority.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44001008">
+			</marker>
+			<verse num="8" class="woc">
+				<woc>
+					But you will receive 
+					<crossref let="n" cid="c44001008.1">
+					</crossref>
+					power 
+					<crossref let="o" cid="c44001008.2">
+					</crossref>
+					when the Holy Spirit has come upon you, and 
+					<crossref let="p" cid="c44001008.3">
+					</crossref>
+					you will be 
+					<crossref let="q" cid="c44001008.4">
+					</crossref>
+					my witnesses in Jerusalem and in all Judea and 
+					<crossref let="r" cid="c44001008.5">
+					</crossref>
+					Samaria, and 
+					<crossref let="s" cid="c44001008.6">
+					</crossref>
+					to the end of the earth.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44001009">
+			</marker>
+			<verse num="9">
+				And when he had said these things, as they were looking on, 
+				<crossref let="t" cid="c44001009.1">
+				</crossref>
+				he was lifted up, and 
+				<crossref let="u" cid="c44001009.2">
+				</crossref>
+				a cloud took him out of their sight.
+			</verse>
+			<marker class="begin-verse" mid="v44001010">
+			</marker>
+			<verse num="10">
+				And while they were gazing into heaven as he went, behold, 
+				<crossref let="v" cid="c44001010.1">
+				</crossref>
+				two 
+				<crossref let="w" cid="c44001010.2">
+				</crossref>
+				men stood by them in 
+				<crossref let="x" cid="c44001010.3">
+				</crossref>
+				white robes,
+			</verse>
+			<marker class="begin-verse" mid="v44001011">
+			</marker>
+			<verse num="11">
+				and said, 
+				<crossref let="y" cid="c44001011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Men of Galilee, why do you stand looking into heaven? This Jesus, who was taken up from you into heaven, 
+				<crossref let="z" cid="c44001011.2">
+				</crossref>
+				will 
+				<crossref let="a" cid="c44001011.3">
+				</crossref>
+				come in the same way as you saw him go into heaven.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44001012">
+			</marker>
+			<heading>
+				Matthias Chosen to Replace Judas
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="12">
+				Then 
+				<crossref let="b" cid="c44001012.1">
+				</crossref>
+				they returned to Jerusalem from the mount called Olivet, which is near Jerusalem, a Sabbath day's journey away.
+			</verse>
+			<marker class="begin-verse" mid="v44001013">
+			</marker>
+			<verse num="13">
+				And when they had entered, they went up to 
+				<crossref let="c" cid="c44001013.1">
+				</crossref>
+				the upper room, where they were staying, 
+				<crossref let="d" cid="c44001013.2">
+				</crossref>
+				Peter and John and James and Andrew, Philip and Thomas, Bartholomew and Matthew, James the son of Alphaeus and Simon 
+				<crossref let="e" cid="c44001013.3">
+				</crossref>
+				the Zealot and Judas the son of James.
+			</verse>
+			<marker class="begin-verse" mid="v44001014">
+			</marker>
+			<verse num="14">
+				All these 
+				<crossref let="f" cid="c44001014.1">
+				</crossref>
+				with one accord 
+				<crossref let="g" cid="c44001014.2">
+				</crossref>
+				were devoting themselves to prayer, together with 
+				<crossref let="h" cid="c44001014.3">
+				</crossref>
+				the women and Mary the mother of Jesus, and 
+				<crossref let="i" cid="c44001014.4">
+				</crossref>
+				his brothers.
+				<note nid="n44001014.1">
+				</note>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44001015">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="15">
+				In those days Peter stood up among 
+				<crossref let="j" cid="c44001015.1">
+				</crossref>
+				the brothers (the company of persons was in all about 120) and said,
+			</verse>
+			<marker class="begin-verse" mid="v44001016">
+			</marker>
+			<verse num="16">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Brothers, 
+				<crossref let="k" cid="c44001016.1">
+				</crossref>
+				the Scripture had to be fulfilled, which the Holy Spirit spoke beforehand by the mouth of David concerning Judas, 
+				<crossref let="l" cid="c44001016.2">
+				</crossref>
+				who became a guide to those who arrested Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v44001017">
+			</marker>
+			<verse num="17">
+				For 
+				<crossref let="m" cid="c44001017.1">
+				</crossref>
+				he was numbered among us and was allotted his share in 
+				<crossref let="n" cid="c44001017.2">
+				</crossref>
+				this ministry.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44001018">
+			</marker>
+			<verse num="18">
+				(Now this man 
+				<crossref let="o" cid="c44001018.1">
+				</crossref>
+				acquired a field with 
+				<crossref let="p" cid="c44001018.2">
+				</crossref>
+				the reward of his wickedness, and falling headlong
+				<note nid="n44001018.1">
+				</note>
+				 he burst open in the middle and all his bowels gushed out.
+			</verse>
+			<marker class="begin-verse" mid="v44001019">
+			</marker>
+			<verse num="19">
+				And it became known to all the inhabitants of Jerusalem, so that the field was called 
+				<crossref let="q" cid="c44001019.1">
+				</crossref>
+				in their own language Akeldama, that is, Field of Blood.)
+			</verse>
+			<marker class="begin-verse" mid="v44001020">
+			</marker>
+			<verse num="20">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				For it is written in the Book of Psalms,
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="r" cid="c44001020.1">
+				</crossref>
+				<crossref cid="t44001020.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				May his camp become desolate,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and let there be no one to dwell in it
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				;
+				<end-line>
+				</end-line>
+				<end-paragraph>
+				</end-paragraph>
+				<end-block-indent>
+				</end-block-indent>
+				<begin-paragraph class="same-paragraph">
+				</begin-paragraph>
+				and
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="s" cid="c44001020.2">
+				</crossref>
+				<crossref cid="t44001020.2">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Let another take his office.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v44001021">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="21">
+				So one of the men who have accompanied us during 
+				<crossref let="t" cid="c44001021.1">
+				</crossref>
+				all the time that the Lord Jesus 
+				<crossref let="u" cid="c44001021.2">
+				</crossref>
+				went in and out among us,
+			</verse>
+			<marker class="begin-verse" mid="v44001022">
+			</marker>
+			<verse num="22">
+				<crossref let="v" cid="c44001022.1">
+				</crossref>
+				beginning from the baptism of John until the day when 
+				<crossref let="w" cid="c44001022.2">
+				</crossref>
+				he was taken up from usùone of these men must become with us 
+				<crossref let="x" cid="c44001022.3">
+				</crossref>
+				a witness to his resurrection.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44001023">
+			</marker>
+			<verse num="23">
+				And they put forward two, Joseph called 
+				<crossref let="y" cid="c44001023.1">
+				</crossref>
+				Barsabbas, who was also called 
+				<crossref let="z" cid="c44001023.2">
+				</crossref>
+				Justus, and 
+				<crossref let="a" cid="c44001023.3">
+				</crossref>
+				Matthias.
+			</verse>
+			<marker class="begin-verse" mid="v44001024">
+			</marker>
+			<verse num="24">
+				And 
+				<crossref let="b" cid="c44001024.1">
+				</crossref>
+				they prayed and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You, Lord, 
+				<crossref let="c" cid="c44001024.2">
+				</crossref>
+				who know the hearts of all, show which one of these two you have chosen
+			</verse>
+			<marker class="begin-verse" mid="v44001025">
+			</marker>
+			<verse num="25">
+				to take the place in 
+				<crossref let="d" cid="c44001025.1">
+				</crossref>
+				this ministry and 
+				<crossref let="e" cid="c44001025.2">
+				</crossref>
+				apostleship from which Judas turned aside to go to his own place.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44001026">
+			</marker>
+			<verse num="26">
+				And they cast lots for them, and the lot fell on Matthias, and he was numbered with the eleven apostles.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

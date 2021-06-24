@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02022001">
+		</marker>
+		<chapter num="22">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<note nid="n02022001.1">
+				</note>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If a man steals an ox or a sheep, and kills it or sells it, he shall repay five oxen for an ox, and 
+				<crossref let="c" cid="c02022001.1">
+				</crossref>
+				four sheep for a sheep.
+			</verse>
+			<marker class="begin-verse" mid="v02022002">
+			</marker>
+			<verse num="2">
+				<note nid="n02022002.1">
+				</note>
+				 If a thief is found 
+				<crossref let="d" cid="c02022002.1">
+				</crossref>
+				breaking in and is struck so that he dies, there shall be no bloodguilt for him,
+			</verse>
+			<marker class="begin-verse" mid="v02022003">
+			</marker>
+			<verse num="3">
+				but if the sun has risen on him, there shall be bloodguilt for him. He shall surely pay. If he has nothing, then 
+				<crossref let="e" cid="c02022003.1">
+				</crossref>
+				he shall be sold for his theft.
+			</verse>
+			<marker class="begin-verse" mid="v02022004">
+			</marker>
+			<verse num="4">
+				If the stolen beast 
+				<crossref let="f" cid="c02022004.1">
+				</crossref>
+				is found alive in his possession, whether it is an ox or a donkey or a sheep, 
+				<crossref let="g" cid="c02022004.2">
+				</crossref>
+				he shall pay double.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If a man causes a field or vineyard to be grazed over, or lets his beast loose and it feeds in another man's field, he shall make restitution from the best in his own field and in his own vineyard.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If fire breaks out and catches in thorns so that the stacked grain or the standing grain or the field is consumed, he who started the fire shall make full restitution.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If a man gives to his neighbor money or goods to keep safe, and it is stolen from the man's house, then, if the thief is found, 
+				<crossref let="g" cid="c02022007.1">
+				</crossref>
+				he shall pay double.
+			</verse>
+			<marker class="begin-verse" mid="v02022008">
+			</marker>
+			<verse num="8">
+				If the thief is not found, the owner of the house shall come near to God to show whether or not he has put his hand to his neighbor's property.
+			</verse>
+			<marker class="begin-verse" mid="v02022009">
+			</marker>
+			<verse num="9">
+				For every breach of trust, whether it is for an ox, for a donkey, for a sheep, for a cloak, or for any kind of lost thing, of which one says, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				This is it,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 the case of both parties shall come before God. The one whom God condemns shall pay double to his neighbor.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If a man gives to his neighbor a donkey or an ox or a sheep or any beast to keep safe, and it dies or is injured or is driven away, without anyone seeing it,
+			</verse>
+			<marker class="begin-verse" mid="v02022011">
+			</marker>
+			<verse num="11">
+				<crossref let="h" cid="c02022011.1">
+				</crossref>
+				an oath by the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 shall be between them both to see whether or not he has put his hand to his neighbor's property. The owner shall accept the oath, and he shall not make restitution.
+			</verse>
+			<marker class="begin-verse" mid="v02022012">
+			</marker>
+			<verse num="12">
+				But if 
+				<crossref let="i" cid="c02022012.1">
+				</crossref>
+				it is stolen from him, he shall make restitution to its owner.
+			</verse>
+			<marker class="begin-verse" mid="v02022013">
+			</marker>
+			<verse num="13">
+				If it is torn by beasts, let him bring it as evidence. He shall not make restitution for what has been torn.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If a man borrows anything of his neighbor, and it is injured or dies, the owner not being with it, he shall make full restitution.
+			</verse>
+			<marker class="begin-verse" mid="v02022015">
+			</marker>
+			<verse num="15">
+				If the owner was with it, he shall not make restitution; if it was hired, it came for its hiring fee.
+				<note nid="n02022015.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022016">
+			</marker>
+			<heading
+				>
+				Laws About Social Justice
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				<crossref let="j" cid="c02022016.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If a man seduces a virgin
+				<note nid="n02022016.1">
+				</note>
+				 who is not betrothed and lies with her, he shall give the bride-price
+				<note nid="n02022016.2">
+				</note>
+				 for her and make her his wife.
+			</verse>
+			<marker class="begin-verse" mid="v02022017">
+			</marker>
+			<verse num="17">
+				If her father utterly refuses to give her to him, 
+				<crossref let="j" cid="c02022017.1">
+				</crossref>
+				he shall pay money equal to the 
+				<crossref let="k" cid="c02022017.2">
+				</crossref>
+				bride-price for virgins.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				<crossref let="l" cid="c02022018.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall not permit a sorceress to live.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				<crossref let="m" cid="c02022019.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Whoever lies with an animal shall be put to death.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				<crossref let="n" cid="c02022020.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Whoever sacrifices to any god, other than the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 alone, shall be devoted to destruction.
+				<note nid="n02022020.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<crossref let="o" cid="c02022021.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall not wrong a sojourner or oppress him, for you were sojourners in the land of Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v02022022">
+			</marker>
+			<verse num="22">
+				<crossref let="p" cid="c02022022.1">
+				</crossref>
+				You shall not mistreat any widow or fatherless child.
+			</verse>
+			<marker class="begin-verse" mid="v02022023">
+			</marker>
+			<verse num="23">
+				If you do mistreat them, and they 
+				<crossref let="q" cid="c02022023.1">
+				</crossref>
+				cry out to me, I will surely 
+				<crossref let="r" cid="c02022023.2">
+				</crossref>
+				hear their cry,
+			</verse>
+			<marker class="begin-verse" mid="v02022024">
+			</marker>
+			<verse num="24">
+				and my wrath will burn, and I will kill you with the sword, and 
+				<crossref let="s" cid="c02022024.1">
+				</crossref>
+				your wives shall become widows and your children fatherless.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				<crossref let="t" cid="c02022025.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				If you lend money to any of my people with you who is poor, you shall not be like a moneylender to him, and you shall not exact interest from him.
+			</verse>
+			<marker class="begin-verse" mid="v02022026">
+			</marker>
+			<verse num="26">
+				<crossref let="u" cid="c02022026.1">
+				</crossref>
+				If ever you take your neighbor's cloak in pledge, you shall return it to him before the sun goes down,
+			</verse>
+			<marker class="begin-verse" mid="v02022027">
+			</marker>
+			<verse num="27">
+				for that is his only covering, and it is his cloak for his body; in what else shall he sleep? And if he 
+				<crossref let="q" cid="c02022027.1">
+				</crossref>
+				cries to me, I will hear, for I am 
+				<crossref let="v" cid="c02022027.2">
+				</crossref>
+				compassionate.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				<crossref let="w" cid="c02022028.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall not revile God, nor 
+				<crossref let="w" cid="c02022028.2">
+				</crossref>
+				curse a ruler of your people.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022029">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall not delay to offer from the fullness of your harvest and from the outflow of your presses. 
+				<crossref let="x" cid="c02022029.1">
+				</crossref>
+				The firstborn of your sons you shall give to me.
+			</verse>
+			<marker class="begin-verse" mid="v02022030">
+			</marker>
+			<verse num="30">
+				<crossref let="y" cid="c02022030.1">
+				</crossref>
+				You shall do the same with your oxen and with your sheep: 
+				<crossref let="z" cid="c02022030.2">
+				</crossref>
+				seven days it shall be with its mother; on the eighth day you shall give it to me.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02022031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				<crossref let="a" cid="c02022031.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall be consecrated to me. Therefore 
+				<crossref let="b" cid="c02022031.2">
+				</crossref>
+				you shall not eat any flesh that is torn by beasts in the field; 
+				<crossref let="c" cid="c02022031.3">
+				</crossref>
+				you shall throw it to the dogs.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

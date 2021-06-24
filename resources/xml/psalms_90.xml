@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19090001">
+		</marker>
+		<heading class="psalm-book">
+			Book Four
+		</heading>
+		<chapter num="90">
+			<heading
+				>
+				From Everlasting to Everlasting
+			</heading>
+			<subheading class="psalm-title">
+				A 
+				<crossref let="s" cid="c19090001.1">
+				</crossref>
+				Prayer of Moses, the 
+				<crossref let="t" cid="c19090001.2">
+				</crossref>
+				man of God.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Lord, you have been our 
+				<crossref let="u" cid="c19090001.3">
+				</crossref>
+				dwelling place
+				<note nid="n19090001.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in all generations.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19090002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c19090002.1">
+				</crossref>
+				Before the 
+				<crossref let="w" cid="c19090002.2">
+				</crossref>
+				mountains were brought forth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or ever you had formed the earth and the world,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c19090002.3">
+				</crossref>
+				from everlasting to everlasting you are God.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19090003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				You return man to dust
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and say, 
+				<crossref let="y" cid="c19090003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Return, 
+				<crossref let="z" cid="c19090003.2">
+				</crossref>
+				O children of man!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n19090003.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19090004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="a" cid="c19090004.1">
+				</crossref>
+				a thousand years in your sight
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				are but as 
+				<crossref let="b" cid="c19090004.2">
+				</crossref>
+				yesterday when it is past,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or as 
+				<crossref let="c" cid="c19090004.3">
+				</crossref>
+				a watch in the night.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19090005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				You 
+				<crossref let="d" cid="c19090005.1">
+				</crossref>
+				sweep them away as with a flood; they are like 
+				<crossref let="e" cid="c19090005.2">
+				</crossref>
+				a dream,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like 
+				<crossref let="f" cid="c19090005.3">
+				</crossref>
+				grass that is renewed in the morning:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19090006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				in 
+				<crossref let="i" cid="c19090006.1">
+				</crossref>
+				the morning it flourishes and is renewed;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the evening it 
+				<crossref let="j" cid="c19090006.2">
+				</crossref>
+				fades and 
+				<crossref let="k" cid="c19090006.3">
+				</crossref>
+				withers.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19090007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				For we are brought to an end by your anger;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				by your wrath we are dismayed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19090008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				You have 
+				<crossref let="l" cid="c19090008.1">
+				</crossref>
+				set our iniquities before you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				our 
+				<crossref let="m" cid="c19090008.2">
+				</crossref>
+				secret sins in the light of your presence.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19090009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				For all our days pass away under your wrath;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				we bring our years to an end like a sigh.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19090010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				The years of our life are seventy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or even by reason of strength eighty;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				yet their span
+				<note nid="n19090010.1">
+				</note>
+				 is but toil and trouble;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they are soon gone, and we fly away.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19090011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Who considers the power of your anger,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your wrath according to the fear of you?
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19090012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c19090012.1">
+				</crossref>
+				So teach us to number our days
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that we may get a heart of wisdom.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19090013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c19090013.1">
+				</crossref>
+				Return, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				! 
+				<crossref let="p" cid="c19090013.2">
+				</crossref>
+				How long?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Have 
+				<crossref let="q" cid="c19090013.3">
+				</crossref>
+				pity on your servants!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19090014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				Satisfy us in the 
+				<crossref let="s" cid="c19090014.1">
+				</crossref>
+				morning with your steadfast love,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that we may 
+				<crossref let="t" cid="c19090014.2">
+				</crossref>
+				rejoice and be glad all our days.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19090015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				Make us glad for as many days as you have 
+				<crossref let="u" cid="c19090015.1">
+				</crossref>
+				afflicted us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and for as many years as we have seen evil.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19090016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Let your 
+				<crossref let="v" cid="c19090016.1">
+				</crossref>
+				work be shown to your servants,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your glorious power to their children.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19090017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				Let the 
+				<crossref let="x" cid="c19090017.1">
+				</crossref>
+				favor
+				<note nid="n19090017.1">
+				</note>
+				 of the Lord our God be upon us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and establish 
+				<crossref let="y" cid="c19090017.2">
+				</crossref>
+				the work of our hands upon us;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				yes, establish the work of our hands!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

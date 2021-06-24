@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?> xmlns:android="http://schemas.android.com/apk/res/android"
+<searchable android:label="@7F09000E" android:hint="@7F090062" android:searchMode="" android:inputType="" android:voiceSearchMode="" android:searchSettingsDescription="@7F090063">
+</searchable>
+

@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Joshua" num="5">
+		<marker class="begin-verse" mid="v06024001">
+		</marker>
+		<chapter num="24">
+			<heading
+				>
+				The Covenant Renewal at Shechem
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Joshua gathered all the tribes of Israel 
+				<crossref let="c" cid="c06024001.1">
+				</crossref>
+				to Shechem and 
+				<crossref let="d" cid="c06024001.2">
+				</crossref>
+				summoned the elders, the heads, the judges, and the officers of Israel. And 
+				<crossref let="e" cid="c06024001.3">
+				</crossref>
+				they presented themselves before God.
+			</verse>
+			<marker class="begin-verse" mid="v06024002">
+			</marker>
+			<verse num="2">
+				And Joshua said to all the people, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Long ago, 
+				<crossref let="f" cid="c06024002.1">
+				</crossref>
+				your fathers lived beyond the Euphrates, Terah, the father of Abraham and of Nahor; and 
+				<crossref let="g" cid="c06024002.2">
+				</crossref>
+				they served other gods.
+			</verse>
+			<marker class="begin-verse" mid="v06024003">
+			</marker>
+			<verse num="3">
+				<crossref let="h" cid="c06024003.1">
+				</crossref>
+				Then I took your father Abraham from beyond the River and 
+				<crossref let="i" cid="c06024003.2">
+				</crossref>
+				led him through all the land of Canaan, and made his offspring many. 
+				<crossref let="j" cid="c06024003.3">
+				</crossref>
+				I gave him Isaac.
+			</verse>
+			<marker class="begin-verse" mid="v06024004">
+			</marker>
+			<verse num="4">
+				And to Isaac I gave 
+				<crossref let="k" cid="c06024004.1">
+				</crossref>
+				Jacob and Esau. 
+				<crossref let="l" cid="c06024004.2">
+				</crossref>
+				And I gave Esau the hill country of Seir to possess, 
+				<crossref let="m" cid="c06024004.3">
+				</crossref>
+				but Jacob and his children went down to Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v06024005">
+			</marker>
+			<verse num="5">
+				<crossref let="n" cid="c06024005.1">
+				</crossref>
+				And I sent Moses and Aaron, 
+				<crossref let="o" cid="c06024005.2">
+				</crossref>
+				and I plagued Egypt with what I did in the midst of it, and 
+				<crossref let="p" cid="c06024005.3">
+				</crossref>
+				afterward I brought you out.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06024006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="continue-single" qid="" from="" to="">
+				</q>
+				Then 
+				<crossref let="p" cid="c06024006.1">
+				</crossref>
+				I brought your fathers out of Egypt, and 
+				<crossref let="q" cid="c06024006.2">
+				</crossref>
+				you came to the sea. 
+				<crossref let="r" cid="c06024006.3">
+				</crossref>
+				And the Egyptians pursued your fathers with chariots and horsemen to the Red Sea.
+			</verse>
+			<marker class="begin-verse" mid="v06024007">
+			</marker>
+			<verse num="7">
+				<crossref let="s" cid="c06024007.1">
+				</crossref>
+				And when they cried to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="t" cid="c06024007.2">
+				</crossref>
+				he put darkness between you and the Egyptians 
+				<crossref let="u" cid="c06024007.3">
+				</crossref>
+				and made the sea come upon them and cover them; 
+				<crossref let="v" cid="c06024007.4">
+				</crossref>
+				and your eyes saw what I did in Egypt. 
+				<crossref let="w" cid="c06024007.5">
+				</crossref>
+				And you lived in the wilderness a long time.
+			</verse>
+			<marker class="begin-verse" mid="v06024008">
+			</marker>
+			<verse num="8">
+				Then I brought you to the land of the Amorites, who lived on the other side of the Jordan. 
+				<crossref let="x" cid="c06024008.1">
+				</crossref>
+				They fought with you, and I gave them into your hand, and you took possession of their land, and I destroyed them before you.
+			</verse>
+			<marker class="begin-verse" mid="v06024009">
+			</marker>
+			<verse num="9">
+				<crossref let="y" cid="c06024009.1">
+				</crossref>
+				Then Balak the son of Zippor, king of Moab, arose and fought against Israel. 
+				<crossref let="z" cid="c06024009.2">
+				</crossref>
+				And he sent and invited Balaam the son of Beor to curse you,
+			</verse>
+			<marker class="begin-verse" mid="v06024010">
+			</marker>
+			<verse num="10">
+				<crossref let="a" cid="c06024010.1">
+				</crossref>
+				but I would not listen to Balaam. 
+				<crossref let="a" cid="c06024010.2">
+				</crossref>
+				Indeed, he blessed you. So I delivered you out of his hand.
+			</verse>
+			<marker class="begin-verse" mid="v06024011">
+			</marker>
+			<verse num="11">
+				<crossref let="b" cid="c06024011.1">
+				</crossref>
+				And you went over the Jordan and came to Jericho, 
+				<crossref let="c" cid="c06024011.2">
+				</crossref>
+				and the leaders of Jericho fought against you, and also 
+				<crossref let="c" cid="c06024011.3">
+				</crossref>
+				the Amorites, the Perizzites, the Canaanites, the Hittites, the Girgashites, the Hivites, and the Jebusites. And I gave them into your hand.
+			</verse>
+			<marker class="begin-verse" mid="v06024012">
+			</marker>
+			<verse num="12">
+				And I sent 
+				<crossref let="d" cid="c06024012.1">
+				</crossref>
+				the hornet before you, which drove them out before you, the two kings of the Amorites; it was 
+				<crossref let="e" cid="c06024012.2">
+				</crossref>
+				not by your sword or by your bow.
+			</verse>
+			<marker class="begin-verse" mid="v06024013">
+			</marker>
+			<verse num="13">
+				I gave you a land on which you had not labored 
+				<crossref let="f" cid="c06024013.1">
+				</crossref>
+				and cities that you had not built, and you dwell in them. You eat the fruit of vineyards and olive orchards that you did not plant.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06024014">
+			</marker>
+			<heading
+				>
+				Choose Whom You Will Serve
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				<crossref let="g" cid="c06024014.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Now therefore fear the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and serve him in sincerity and in faithfulness. 
+				<crossref let="h" cid="c06024014.2">
+				</crossref>
+				Put away the gods that your fathers served beyond the River and in Egypt, and serve the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v06024015">
+			</marker>
+			<verse num="15">
+				<crossref let="i" cid="c06024015.1">
+				</crossref>
+				And if it is evil in your eyes to serve the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="j" cid="c06024015.2">
+				</crossref>
+				choose this day whom you will serve, whether 
+				<crossref let="h" cid="c06024015.3">
+				</crossref>
+				the gods your fathers served in the region beyond the River, or 
+				<crossref let="k" cid="c06024015.4">
+				</crossref>
+				the gods of the Amorites in whose land you dwell. 
+				<crossref let="l" cid="c06024015.5">
+				</crossref>
+				But as for me and my house, we will serve the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06024016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				Then the people answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Far be it from us that we should forsake the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 to serve other gods,
+			</verse>
+			<marker class="begin-verse" mid="v06024017">
+			</marker>
+			<verse num="17">
+				for it is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God who brought us and our fathers up from the land of Egypt, out of the house of slavery, and who did those great signs in our sight and preserved us in all the way that we went, and among all the peoples through whom we passed.
+			</verse>
+			<marker class="begin-verse" mid="v06024018">
+			</marker>
+			<verse num="18">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 drove out before us all the peoples, the Amorites who lived in the land. Therefore we also will serve the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, for he is our God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06024019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				But Joshua said to the people, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are not able to serve the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, for he is 
+				<crossref let="m" cid="c06024019.1">
+				</crossref>
+				a holy God. He is 
+				<crossref let="n" cid="c06024019.2">
+				</crossref>
+				a jealous God; 
+				<crossref let="o" cid="c06024019.3">
+				</crossref>
+				he will not forgive your transgressions or your sins.
+			</verse>
+			<marker class="begin-verse" mid="v06024020">
+			</marker>
+			<verse num="20">
+				<crossref let="p" cid="c06024020.1">
+				</crossref>
+				If you forsake the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and serve foreign gods, then 
+				<crossref let="q" cid="c06024020.2">
+				</crossref>
+				he will turn and do you harm and consume you, after having done you good.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06024021">
+			</marker>
+			<verse num="21">
+				And the people said to Joshua, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No, but we will serve the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06024022">
+			</marker>
+			<verse num="22">
+				Then Joshua said to the people, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are witnesses against yourselves that 
+				<crossref let="r" cid="c06024022.1">
+				</crossref>
+				you have chosen the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, to serve him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We are witnesses.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06024023">
+			</marker>
+			<verse num="23">
+				He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Then 
+				<crossref let="s" cid="c06024023.1">
+				</crossref>
+				put away the foreign gods that are among you, and incline your heart to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06024024">
+			</marker>
+			<verse num="24">
+				And the people said to Joshua, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God we will serve, and his voice we will obey.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06024025">
+			</marker>
+			<verse num="25">
+				So Joshua 
+				<crossref let="t" cid="c06024025.1">
+				</crossref>
+				made a covenant with the people that day, and put in place 
+				<crossref let="u" cid="c06024025.2">
+				</crossref>
+				statutes and rules for them at Shechem.
+			</verse>
+			<marker class="begin-verse" mid="v06024026">
+			</marker>
+			<verse num="26">
+				And Joshua 
+				<crossref let="v" cid="c06024026.1">
+				</crossref>
+				wrote these words in the Book of the Law of God. And 
+				<crossref let="w" cid="c06024026.2">
+				</crossref>
+				he took a large stone and set it up there 
+				<crossref let="x" cid="c06024026.3">
+				</crossref>
+				under the terebinth that was by the sanctuary of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v06024027">
+			</marker>
+			<verse num="27">
+				And Joshua said to all the people, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, 
+				<crossref let="y" cid="c06024027.1">
+				</crossref>
+				this stone shall be a witness against us, for 
+				<crossref let="z" cid="c06024027.2">
+				</crossref>
+				it has heard all the words of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that he spoke to us. Therefore it shall be a witness against you, lest you deal falsely with your God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06024028">
+			</marker>
+			<verse num="28">
+				So Joshua 
+				<crossref let="a" cid="c06024028.1">
+				</crossref>
+				sent the people away, every man to his inheritance.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06024029">
+			</marker>
+			<heading
+				>
+				Joshua's Death and Burial
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				<crossref let="b" cid="c06024029.1">
+				</crossref>
+				After these things Joshua the son of Nun, the servant of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, died, being 110 years old.
+			</verse>
+			<marker class="begin-verse" mid="v06024030">
+			</marker>
+			<verse num="30">
+				And they buried him in his own inheritance at 
+				<crossref let="c" cid="c06024030.1">
+				</crossref>
+				Timnath-serah, which is in the hill country of Ephraim, north of the mountain of Gaash.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06024031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				<crossref let="d" cid="c06024031.1">
+				</crossref>
+				Israel served the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 all the days of Joshua, and all the days of the elders who outlived Joshua 
+				<crossref let="e" cid="c06024031.2">
+				</crossref>
+				and had known all the work that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 did for Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06024032">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="32">
+				<crossref let="f" cid="c06024032.1">
+				</crossref>
+				As for the bones of Joseph, which the people of Israel brought up from Egypt, they buried them at Shechem, in the piece of land 
+				<crossref let="g" cid="c06024032.2">
+				</crossref>
+				that Jacob bought from the sons of Hamor the father of Shechem for a hundred pieces of money.
+				<note nid="n06024032.1">
+				</note>
+				 It became an inheritance of the descendants of Joseph.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06024033">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="33">
+				And Eleazar the son of Aaron died, and they buried him at Gibeah, the town of 
+				<crossref let="h" cid="c06024033.1">
+				</crossref>
+				Phinehas his son, which had been given him in 
+				<crossref let="i" cid="c06024033.2">
+				</crossref>
+				the hill country of Ephraim.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

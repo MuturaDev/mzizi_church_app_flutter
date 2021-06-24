@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Nehemiah" num="15">
+		<marker class="begin-verse" mid="v16009001">
+		</marker>
+		<chapter num="9">
+			<heading
+				>
+				The People of Israel Confess Their Sin
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now on the twenty-fourth day of 
+				<crossref let="v" cid="c16009001.1">
+				</crossref>
+				this month the people of Israel were assembled 
+				<crossref let="w" cid="c16009001.2">
+				</crossref>
+				with fasting 
+				<crossref let="x" cid="c16009001.3">
+				</crossref>
+				and in sackcloth, 
+				<crossref let="y" cid="c16009001.4">
+				</crossref>
+				and with earth on their heads.
+			</verse>
+			<marker class="begin-verse" mid="v16009002">
+			</marker>
+			<verse num="2">
+				<crossref let="z" cid="c16009002.1">
+				</crossref>
+				And the Israelites separated themselves from all foreigners and stood and confessed their sins and the iniquities of their fathers.
+			</verse>
+			<marker class="begin-verse" mid="v16009003">
+			</marker>
+			<verse num="3">
+				<crossref let="a" cid="c16009003.1">
+				</crossref>
+				And they stood up in their place and read from the Book of the Law of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 their God for a quarter of the day; for another quarter of it they made confession and worshiped the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 their God.
+			</verse>
+			<marker class="begin-verse" mid="v16009004">
+			</marker>
+			<verse num="4">
+				On the stairs of the Levites stood 
+				<crossref let="b" cid="c16009004.1">
+				</crossref>
+				Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani; and they cried with a loud voice to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 their God.
+			</verse>
+			<marker class="begin-verse" mid="v16009005">
+			</marker>
+			<verse num="5">
+				Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Stand up and bless the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God from everlasting to everlasting. 
+				<crossref let="c" cid="c16009005.1">
+				</crossref>
+				Blessed be your glorious name, which is exalted above all blessing and praise.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16009006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<note nid="n16009006.1">
+				</note>
+				<crossref let="d" cid="c16009006.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You are the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, you alone. 
+				<crossref let="e" cid="c16009006.2">
+				</crossref>
+				You have made heaven, 
+				<crossref let="f" cid="c16009006.3">
+				</crossref>
+				the heaven of heavens, 
+				<crossref let="g" cid="c16009006.4">
+				</crossref>
+				with all their host, 
+				<crossref let="e" cid="c16009006.5">
+				</crossref>
+				the earth and all that is on it, the seas and all that is in them; 
+				<crossref let="h" cid="c16009006.6">
+				</crossref>
+				and you preserve all of them; and the host of heaven worships you.
+			</verse>
+			<marker class="begin-verse" mid="v16009007">
+			</marker>
+			<verse num="7">
+				You are the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God 
+				<crossref let="i" cid="c16009007.1">
+				</crossref>
+				who chose Abram and brought him out of 
+				<crossref let="j" cid="c16009007.2">
+				</crossref>
+				Ur of the Chaldeans 
+				<crossref let="k" cid="c16009007.3">
+				</crossref>
+				and gave him the name Abraham.
+			</verse>
+			<marker class="begin-verse" mid="v16009008">
+			</marker>
+			<verse num="8">
+				<crossref let="l" cid="c16009008.1">
+				</crossref>
+				You found his heart faithful before you, 
+				<crossref let="m" cid="c16009008.2">
+				</crossref>
+				and made with him the covenant to give to his offspring 
+				<crossref let="n" cid="c16009008.3">
+				</crossref>
+				the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite. 
+				<crossref let="o" cid="c16009008.4">
+				</crossref>
+				And you have kept your promise, for you are righteous.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16009009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<crossref let="p" cid="c16009009.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				And you saw the affliction of our fathers in Egypt and heard 
+				<crossref let="q" cid="c16009009.2">
+				</crossref>
+				their cry at the Red Sea,
+			</verse>
+			<marker class="begin-verse" mid="v16009010">
+			</marker>
+			<verse num="10">
+				<crossref let="r" cid="c16009010.1">
+				</crossref>
+				and performed signs and wonders against Pharaoh and all his servants and all the people of his land, for you knew that 
+				<crossref let="s" cid="c16009010.2">
+				</crossref>
+				they acted arrogantly against our fathers. And 
+				<crossref let="t" cid="c16009010.3">
+				</crossref>
+				you made a name for yourself, as it is to this day.
+			</verse>
+			<marker class="begin-verse" mid="v16009011">
+			</marker>
+			<verse num="11">
+				<crossref let="u" cid="c16009011.1">
+				</crossref>
+				And you divided the sea before them, so that they went through the midst of the sea on dry land, and you cast their pursuers into the depths, 
+				<crossref let="v" cid="c16009011.2">
+				</crossref>
+				as a stone into mighty waters.
+			</verse>
+			<marker class="begin-verse" mid="v16009012">
+			</marker>
+			<verse num="12">
+				By 
+				<crossref let="w" cid="c16009012.1">
+				</crossref>
+				a pillar of cloud you led them in the day, and by a pillar of fire in the night to light for them the way in which they should go.
+			</verse>
+			<marker class="begin-verse" mid="v16009013">
+			</marker>
+			<verse num="13">
+				<crossref let="x" cid="c16009013.1">
+				</crossref>
+				You came down on Mount Sinai 
+				<crossref let="y" cid="c16009013.2">
+				</crossref>
+				and spoke with them from heaven and gave them 
+				<crossref let="z" cid="c16009013.3">
+				</crossref>
+				right rules and true laws, good statutes and commandments,
+			</verse>
+			<marker class="begin-verse" mid="v16009014">
+			</marker>
+			<verse num="14">
+				<crossref let="a" cid="c16009014.1">
+				</crossref>
+				and you made known to them your holy Sabbath and commanded them commandments and statutes and a law by Moses your servant.
+			</verse>
+			<marker class="begin-verse" mid="v16009015">
+			</marker>
+			<verse num="15">
+				<crossref let="b" cid="c16009015.1">
+				</crossref>
+				You gave them bread from heaven for their hunger and 
+				<crossref let="c" cid="c16009015.2">
+				</crossref>
+				brought water for them out of the rock for their thirst, and you 
+				<crossref let="d" cid="c16009015.3">
+				</crossref>
+				told them to go in to possess the land that you had sworn to give them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16009016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				But they and our fathers 
+				<crossref let="e" cid="c16009016.1">
+				</crossref>
+				acted presumptuously and stiffened their neck and did not obey your commandments.
+			</verse>
+			<marker class="begin-verse" mid="v16009017">
+			</marker>
+			<verse num="17">
+				They refused to obey 
+				<crossref let="f" cid="c16009017.1">
+				</crossref>
+				and were not mindful of the wonders that you performed among them, but they stiffened their neck and appointed a leader to return to their slavery in Egypt. But you are a God ready to forgive, 
+				<crossref let="g" cid="c16009017.2">
+				</crossref>
+				gracious and merciful, slow to anger and abounding in steadfast love, and did not forsake them.
+			</verse>
+			<marker class="begin-verse" mid="v16009018">
+			</marker>
+			<verse num="18">
+				Even 
+				<crossref let="h" cid="c16009018.1">
+				</crossref>
+				when they had made for themselves a golden
+				<note nid="n16009018.1">
+				</note>
+				 calf and said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				This is your God who brought you up out of Egypt,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<crossref let="i" cid="c16009018.2">
+				</crossref>
+				and had committed great blasphemies,
+			</verse>
+			<marker class="begin-verse" mid="v16009019">
+			</marker>
+			<verse num="19">
+				you 
+				<crossref let="j" cid="c16009019.1">
+				</crossref>
+				in your great mercies did not forsake them in the wilderness. 
+				<crossref let="k" cid="c16009019.2">
+				</crossref>
+				The pillar of cloud to lead them in the way did not depart from them by day, 
+				<crossref let="k" cid="c16009019.3">
+				</crossref>
+				nor the pillar of fire by night to light for them the way by which they should go.
+			</verse>
+			<marker class="begin-verse" mid="v16009020">
+			</marker>
+			<verse num="20">
+				<crossref let="l" cid="c16009020.1">
+				</crossref>
+				You gave your good Spirit to instruct them 
+				<crossref let="m" cid="c16009020.2">
+				</crossref>
+				and did not withhold your manna from their mouth and gave them water for their thirst.
+			</verse>
+			<marker class="begin-verse" mid="v16009021">
+			</marker>
+			<verse num="21">
+				<crossref let="n" cid="c16009021.1">
+				</crossref>
+				Forty years you sustained them in the wilderness, and they lacked nothing. Their clothes did not wear out and their feet did not swell.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16009022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				And you gave them kingdoms and peoples and allotted to them every corner. 
+				<crossref let="o" cid="c16009022.1">
+				</crossref>
+				So they took possession of the land of Sihon king of Heshbon 
+				<crossref let="p" cid="c16009022.2">
+				</crossref>
+				and the land of Og king of Bashan.
+			</verse>
+			<marker class="begin-verse" mid="v16009023">
+			</marker>
+			<verse num="23">
+				You multiplied their children 
+				<crossref let="q" cid="c16009023.1">
+				</crossref>
+				as the stars of heaven, and you brought them into the land that you had told their fathers to enter and possess.
+			</verse>
+			<marker class="begin-verse" mid="v16009024">
+			</marker>
+			<verse num="24">
+				<crossref let="r" cid="c16009024.1">
+				</crossref>
+				So the descendants went in and possessed the land, 
+				<crossref let="s" cid="c16009024.2">
+				</crossref>
+				and you subdued before them the inhabitants of the land, the Canaanites, and gave them into their hand, with their kings and the peoples of the land, that they might do with them as they would.
+			</verse>
+			<marker class="begin-verse" mid="v16009025">
+			</marker>
+			<verse num="25">
+				And they captured 
+				<crossref let="t" cid="c16009025.1">
+				</crossref>
+				fortified cities and 
+				<crossref let="u" cid="c16009025.2">
+				</crossref>
+				a rich land, and took possession of 
+				<crossref let="v" cid="c16009025.3">
+				</crossref>
+				houses full of all good things, cisterns already hewn, vineyards, olive orchards and fruit trees in abundance. So they ate and were filled 
+				<crossref let="w" cid="c16009025.4">
+				</crossref>
+				and became fat and delighted themselves in 
+				<crossref let="x" cid="c16009025.5">
+				</crossref>
+				your great goodness.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16009026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				<crossref let="y" cid="c16009026.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Nevertheless, they were disobedient and rebelled against you 
+				<crossref let="z" cid="c16009026.2">
+				</crossref>
+				and cast your law behind their back 
+				<crossref let="a" cid="c16009026.3">
+				</crossref>
+				and killed your prophets, who 
+				<crossref let="b" cid="c16009026.4">
+				</crossref>
+				had warned them in order to turn them back to you, 
+				<crossref let="c" cid="c16009026.5">
+				</crossref>
+				and they committed great blasphemies.
+			</verse>
+			<marker class="begin-verse" mid="v16009027">
+			</marker>
+			<verse num="27">
+				<crossref let="d" cid="c16009027.1">
+				</crossref>
+				Therefore you gave them into the hand of their enemies, who made them suffer. 
+				<crossref let="e" cid="c16009027.2">
+				</crossref>
+				And in the time of their suffering they cried out to you and you heard them from heaven, and according to your great mercies you gave them 
+				<crossref let="f" cid="c16009027.3">
+				</crossref>
+				saviors who saved them from the hand of their enemies.
+			</verse>
+			<marker class="begin-verse" mid="v16009028">
+			</marker>
+			<verse num="28">
+				<crossref let="g" cid="c16009028.1">
+				</crossref>
+				But after they had rest they did evil again before you, and you abandoned them to the hand of their enemies, so that they had dominion over them. Yet when they turned and cried to you, you heard from heaven, 
+				<crossref let="h" cid="c16009028.2">
+				</crossref>
+				and many times you delivered them according to your mercies.
+			</verse>
+			<marker class="begin-verse" mid="v16009029">
+			</marker>
+			<verse num="29">
+				<crossref let="b" cid="c16009029.1">
+				</crossref>
+				And you warned them in order to turn them back to your law. Yet 
+				<crossref let="i" cid="c16009029.2">
+				</crossref>
+				they acted presumptuously and did not obey your commandments, but sinned against your rules, 
+				<crossref let="j" cid="c16009029.3">
+				</crossref>
+				which if a person does them, he shall live by them, 
+				<crossref let="k" cid="c16009029.4">
+				</crossref>
+				and they turned a stubborn shoulder 
+				<crossref let="l" cid="c16009029.5">
+				</crossref>
+				and stiffened their neck and would not obey.
+			</verse>
+			<marker class="begin-verse" mid="v16009030">
+			</marker>
+			<verse num="30">
+				Many years 
+				<crossref let="m" cid="c16009030.1">
+				</crossref>
+				you bore with them 
+				<crossref let="n" cid="c16009030.2">
+				</crossref>
+				and warned them 
+				<crossref let="o" cid="c16009030.3">
+				</crossref>
+				by your Spirit through your prophets. 
+				<crossref let="p" cid="c16009030.4">
+				</crossref>
+				Yet they would not give ear. 
+				<crossref let="q" cid="c16009030.5">
+				</crossref>
+				Therefore you gave them into the hand of the peoples of the lands.
+			</verse>
+			<marker class="begin-verse" mid="v16009031">
+			</marker>
+			<verse num="31">
+				Nevertheless, 
+				<crossref let="r" cid="c16009031.1">
+				</crossref>
+				in your great mercies 
+				<crossref let="s" cid="c16009031.2">
+				</crossref>
+				you did not make an end of them or forsake them, 
+				<crossref let="t" cid="c16009031.3">
+				</crossref>
+				for you are a gracious and merciful God.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16009032">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="32">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Now, therefore, our God, 
+				<crossref let="u" cid="c16009032.1">
+				</crossref>
+				the great, the mighty, and the awesome God, who keeps covenant and steadfast love, let not all the hardship seem little to you that has come upon us, upon our kings, our princes, our priests, our prophets, our fathers, and all your people, 
+				<crossref let="v" cid="c16009032.2">
+				</crossref>
+				since the time of the kings of Assyria until this day.
+			</verse>
+			<marker class="begin-verse" mid="v16009033">
+			</marker>
+			<verse num="33">
+				<crossref let="w" cid="c16009033.1">
+				</crossref>
+				Yet you have been righteous in all that has come upon us, for you have dealt faithfully 
+				<crossref let="x" cid="c16009033.2">
+				</crossref>
+				and we have acted wickedly.
+			</verse>
+			<marker class="begin-verse" mid="v16009034">
+			</marker>
+			<verse num="34">
+				Our kings, our princes, our priests, and our fathers have not kept your law or paid attention to your commandments and your warnings that you gave them.
+			</verse>
+			<marker class="begin-verse" mid="v16009035">
+			</marker>
+			<verse num="35">
+				Even in their own kingdom, 
+				<crossref let="y" cid="c16009035.1">
+				</crossref>
+				and amid your great goodness that you gave them, and in the large and 
+				<crossref let="y" cid="c16009035.2">
+				</crossref>
+				rich land that you set before them, 
+				<crossref let="z" cid="c16009035.3">
+				</crossref>
+				they did not serve you or turn from their wicked works.
+			</verse>
+			<marker class="begin-verse" mid="v16009036">
+			</marker>
+			<verse num="36">
+				Behold, 
+				<crossref let="a" cid="c16009036.1">
+				</crossref>
+				we are slaves this day; in the land that you gave to our fathers to enjoy its fruit and its good gifts, behold, we are slaves.
+			</verse>
+			<marker class="begin-verse" mid="v16009037">
+			</marker>
+			<verse num="37">
+				<crossref let="b" cid="c16009037.1">
+				</crossref>
+				And its rich yield goes to the kings whom you have set over us because of our sins. They rule over our bodies and over our livestock as they please, and we are in great distress.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v16009038">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="38">
+				<note nid="n16009038.1">
+				</note>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Because of all this 
+				<crossref let="c" cid="c16009038.1">
+				</crossref>
+				we make a firm covenant in writing; on 
+				<crossref let="d" cid="c16009038.2">
+				</crossref>
+				the sealed document are the names of
+				<note nid="n16009038.2">
+				</note>
+				 our princes, our Levites, and our priests.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

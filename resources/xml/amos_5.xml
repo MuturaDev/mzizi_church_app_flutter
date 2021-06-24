@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Amos" num="29">
+		<marker class="begin-verse" mid="v30005001">
+		</marker>
+		<chapter num="5">
+			<heading>
+				Seek the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and Live
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="1">
+				Hear this word that I 
+				<crossref let="k" cid="c30005001.1">
+				</crossref>
+				take up over you in lamentation, O house of Israel:
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v30005002">
+			</marker>
+			<begin-block-indent>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Fallen, no more to rise,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is 
+				<crossref let="l" cid="c30005002.1">
+				</crossref>
+				the virgin Israel;
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				forsaken on her land,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with none to raise her up.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v30005003">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="3">
+				For thus says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				:
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The city that went out a thousand
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall have a hundred left,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				and that which went out a hundred
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall have ten left
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the house of Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v30005004">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="4">
+				For thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 to the house of Israel:
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="m" cid="c30005004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Seek me and live;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30005005">
+			</marker>
+			<verse num="5">
+				<begin-line class="indent">
+				</begin-line>
+				but do not seek 
+				<crossref let="n" cid="c30005005.1">
+				</crossref>
+				Bethel,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				and do not enter into 
+				<crossref let="n" cid="c30005005.2">
+				</crossref>
+				Gilgal
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or cross over to 
+				<crossref let="o" cid="c30005005.3">
+				</crossref>
+				Beersheba;
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				for 
+				<crossref let="n" cid="c30005005.4">
+				</crossref>
+				Gilgal shall surely go into exile,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="n" cid="c30005005.5">
+				</crossref>
+				Bethel shall come to nothing.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v30005006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line>
+				</begin-line>
+				<crossref let="m" cid="c30005006.1">
+				</crossref>
+				Seek the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and live,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="p" cid="c30005006.2">
+				</crossref>
+				lest he break out like fire in the house of Joseph,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and it devour, with none to quench it for 
+				<crossref let="n" cid="c30005006.3">
+				</crossref>
+				Bethel,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30005007">
+			</marker>
+			<verse num="7">
+				<begin-line>
+				</begin-line>
+				O 
+				<crossref let="q" cid="c30005007.1">
+				</crossref>
+				you who turn justice to wormwood
+				<note nid="n30005007.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and cast down righteousness to the earth!
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v30005008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line>
+				</begin-line>
+				He who made the 
+				<crossref let="r" cid="c30005008.1">
+				</crossref>
+				Pleiades and Orion,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and turns deep darkness into the morning
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="s" cid="c30005008.2">
+				</crossref>
+				darkens the day into night,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				who 
+				<crossref let="t" cid="c30005008.3">
+				</crossref>
+				calls for the waters of the sea
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="t" cid="c30005008.4">
+				</crossref>
+				and pours them out on the surface of the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				<crossref let="u" cid="c30005008.5">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is his name;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30005009">
+			</marker>
+			<verse num="9">
+				<begin-line>
+				</begin-line>
+				<crossref let="v" cid="c30005009.1">
+				</crossref>
+				who makes destruction flash forth against the strong,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so that destruction comes upon the fortress.
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v30005010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line>
+				</begin-line>
+				<crossref let="w" cid="c30005010.1">
+				</crossref>
+				They hate him who reproves 
+				<crossref let="x" cid="c30005010.2">
+				</crossref>
+				in the gate,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and they 
+				<crossref let="y" cid="c30005010.3">
+				</crossref>
+				abhor him who speaks the truth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30005011">
+			</marker>
+			<verse num="11">
+				<begin-line>
+				</begin-line>
+				Therefore because you 
+				<crossref let="z" cid="c30005011.1">
+				</crossref>
+				trample on
+				<note nid="n30005011.1">
+				</note>
+				 the poor
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you exact taxes of grain from him,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				<crossref let="a" cid="c30005011.2">
+				</crossref>
+				you have built houses of hewn stone,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but you shall not dwell in them;
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				<crossref let="a" cid="c30005011.3">
+				</crossref>
+				you have planted pleasant vineyards,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but you shall not drink their wine.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30005012">
+			</marker>
+			<verse num="12">
+				<begin-line>
+				</begin-line>
+				For I know how many are your transgressions
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and how great are your sinsù
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				you who afflict the righteous, who 
+				<crossref let="b" cid="c30005012.1">
+				</crossref>
+				take a bribe,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="c" cid="c30005012.2">
+				</crossref>
+				turn aside the needy 
+				<crossref let="x" cid="c30005012.3">
+				</crossref>
+				in the gate.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30005013">
+			</marker>
+			<verse num="13">
+				<begin-line>
+				</begin-line>
+				Therefore he who is prudent will 
+				<crossref let="d" cid="c30005013.1">
+				</crossref>
+				keep silent in such a time,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c30005013.2">
+				</crossref>
+				for it is an evil time.
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v30005014">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="14">
+				<begin-line>
+				</begin-line>
+				<crossref let="f" cid="c30005014.1">
+				</crossref>
+				Seek good, and not evil,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that you may live;
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				and so the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="g" cid="c30005014.2">
+				</crossref>
+				the God of hosts, will be with you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as you have said.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30005015">
+			</marker>
+			<verse num="15">
+				<begin-line>
+				</begin-line>
+				<crossref let="h" cid="c30005015.1">
+				</crossref>
+				Hate evil, and love good,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and establish justice 
+				<crossref let="x" cid="c30005015.2">
+				</crossref>
+				in the gate;
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				<crossref let="i" cid="c30005015.3">
+				</crossref>
+				it may be that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of hosts,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				will be gracious to the remnant of Joseph.
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v30005016">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="16">
+				Therefore thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="g" cid="c30005016.1">
+				</crossref>
+				the God of hosts, the Lord:
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				In all the squares 
+				<crossref let="j" cid="c30005016.2">
+				</crossref>
+				there shall be wailing,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and in all the streets they shall say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Alas! Alas!
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				They shall call the farmers to mourning
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="j" cid="c30005016.3">
+				</crossref>
+				to wailing those who are skilled in lamentation,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30005017">
+			</marker>
+			<verse num="17">
+				<begin-line>
+				</begin-line>
+				and in all vineyards there shall be wailing,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="k" cid="c30005017.1">
+				</crossref>
+				I will pass through your midst,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="declares">
+				</begin-line>
+				says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v30005018">
+			</marker>
+			<heading>
+				Let Justice Roll Down
+			</heading>
+			<begin-block-indent>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="18">
+				<begin-line>
+				</begin-line>
+				Woe to you who desire 
+				<crossref let="l" cid="c30005018.1">
+				</crossref>
+				the day of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Why would you have the day of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				<crossref let="m" cid="c30005018.2">
+				</crossref>
+				It is darkness, and not light,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30005019">
+			</marker>
+			<verse num="19">
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c30005019.1">
+				</crossref>
+				as if a man fled from a lion,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a bear met him,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				or went into the house and leaned his hand against the wall,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a serpent bit him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30005020">
+			</marker>
+			<verse num="20">
+				<begin-line>
+				</begin-line>
+				<crossref let="m" cid="c30005020.1">
+				</crossref>
+				Is not the day of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 darkness, and not light,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and gloom with no brightness in it?
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v30005021">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="21">
+				<begin-line>
+				</begin-line>
+				<crossref let="o" cid="c30005021.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I hate, I despise your feasts,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and I take no delight in your solemn assemblies.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30005022">
+			</marker>
+			<verse num="22">
+				<begin-line>
+				</begin-line>
+				<crossref let="p" cid="c30005022.1">
+				</crossref>
+				Even though you offer me your burnt offerings and grain offerings,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will not accept them;
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				and the peace offerings of your fattened animals,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will not look upon them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30005023">
+			</marker>
+			<verse num="23">
+				<begin-line>
+				</begin-line>
+				Take away from me the noise of your songs;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to 
+				<crossref let="q" cid="c30005023.1">
+				</crossref>
+				the melody of your harps I will not listen.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30005024">
+			</marker>
+			<verse num="24">
+				<begin-line>
+				</begin-line>
+				But let justice roll down like waters,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and righteousness like an ever-flowing stream.
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v30005025">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="25">
+				<crossref let="r" cid="c30005025.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Did you bring to me sacrifices and offerings during the forty years in the wilderness, O house of Israel?
+			</verse>
+			<marker class="begin-verse" mid="v30005026">
+			</marker>
+			<verse num="26">
+				<crossref let="s" cid="c30005026.1">
+				</crossref>
+				You 
+				<crossref let="t" cid="c30005026.2">
+				</crossref>
+				shall take up Sikkuth your king, and Kiyyun your star-godùyour images that you made for yourselves,
+			</verse>
+			<marker class="begin-verse" mid="v30005027">
+			</marker>
+			<verse num="27">
+				<crossref let="u" cid="c30005027.1">
+				</crossref>
+				and I will send you into exile beyond Damascus,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, whose name is 
+				<crossref let="g" cid="c30005027.2">
+				</crossref>
+				the God of hosts.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

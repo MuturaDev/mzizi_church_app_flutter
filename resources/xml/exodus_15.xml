@@ -1,0 +1,732 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02015001">
+		</marker>
+		<chapter num="15">
+			<heading
+				>
+				The Song of Moses
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then Moses and the people of Israel 
+				<crossref let="f" cid="c02015001.1">
+				</crossref>
+				sang this song to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, saying,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c02015001.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will sing to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, for he has triumphed gloriously;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the horse and his rider
+				<note nid="n02015001.1">
+				</note>
+				 he has thrown into the sea.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c02015002.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is my strength and my 
+				<crossref let="i" cid="c02015002.2">
+				</crossref>
+				song,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he has become 
+				<crossref let="j" cid="c02015002.3">
+				</crossref>
+				my salvation;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				this is my God, and I will praise him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c02015002.4">
+				</crossref>
+				my father's God, and 
+				<crossref let="l" cid="c02015002.5">
+				</crossref>
+				I will exalt him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is 
+				<crossref let="m" cid="c02015003.1">
+				</crossref>
+				a man of war;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="n" cid="c02015003.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is his name.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02015004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c02015004.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Pharaoh's chariots and his host he cast into the sea,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his chosen 
+				<crossref let="p" cid="c02015004.2">
+				</crossref>
+				officers were sunk in the Red Sea.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<crossref let="q" cid="c02015005.1">
+				</crossref>
+				floods covered them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they 
+				<crossref let="r" cid="c02015005.2">
+				</crossref>
+				went down into the depths like a stone.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c02015006.1">
+				</crossref>
+				Your right hand, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, glorious in power,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your right hand, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="t" cid="c02015006.2">
+				</crossref>
+				shatters the enemy.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				In the 
+				<crossref let="u" cid="c02015007.1">
+				</crossref>
+				greatness of your majesty you overthrow your adversaries;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you send out your fury; it 
+				<crossref let="v" cid="c02015007.2">
+				</crossref>
+				consumes them like stubble.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				At the 
+				<crossref let="w" cid="c02015008.1">
+				</crossref>
+				blast of your nostrils the waters piled up;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<crossref let="x" cid="c02015008.2">
+				</crossref>
+				floods stood up in a heap;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the deeps congealed in the heart of the sea.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				The enemy said, 
+				<crossref let="y" cid="c02015009.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will pursue, I will overtake,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I 
+				<crossref let="z" cid="c02015009.2">
+				</crossref>
+				will divide the spoil, my desire shall have its fill of them.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will draw my sword; my hand shall destroy them.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				You 
+				<crossref let="a" cid="c02015010.1">
+				</crossref>
+				blew with your wind; the 
+				<crossref let="b" cid="c02015010.2">
+				</crossref>
+				sea covered them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they sank like lead in the mighty waters.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02015011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c02015011.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Who is like you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, among the gods?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Who is like you, majestic in holiness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				awesome in 
+				<crossref let="d" cid="c02015011.2">
+				</crossref>
+				glorious deeds, 
+				<crossref let="e" cid="c02015011.3">
+				</crossref>
+				doing wonders?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				You stretched out 
+				<crossref let="f" cid="c02015012.1">
+				</crossref>
+				your right hand;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the earth swallowed them.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02015013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You have 
+				<crossref let="g" cid="c02015013.1">
+				</crossref>
+				led in your steadfast love the people whom 
+				<crossref let="h" cid="c02015013.2">
+				</crossref>
+				you have redeemed;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have 
+				<crossref let="i" cid="c02015013.3">
+				</crossref>
+				guided them by your strength to your holy abode.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c02015014.1">
+				</crossref>
+				The peoples have heard; they tremble;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				pangs have seized the inhabitants of Philistia.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				Now are the chiefs of Edom 
+				<crossref let="k" cid="c02015015.1">
+				</crossref>
+				dismayed;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				trembling seizes the leaders of 
+				<crossref let="l" cid="c02015015.2">
+				</crossref>
+				Moab;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c02015015.3">
+				</crossref>
+				all the inhabitants of Canaan have melted away.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Terror and 
+				<crossref let="n" cid="c02015016.1">
+				</crossref>
+				dread fall upon them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because of the greatness of your arm, they are still 
+				<crossref let="o" cid="c02015016.2">
+				</crossref>
+				as a stone,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				till your people, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, pass by,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				till the people pass by whom 
+				<crossref let="p" cid="c02015016.3">
+				</crossref>
+				you have purchased.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				You will bring them in and 
+				<crossref let="q" cid="c02015017.1">
+				</crossref>
+				plant them on your own mountain,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the place, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, which you have made for your abode,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c02015017.2">
+				</crossref>
+				the sanctuary, O Lord, which your hands have established.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v02015018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c02015018.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will reign forever and ever.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v02015019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				For when 
+				<crossref let="t" cid="c02015019.1">
+				</crossref>
+				the horses of Pharaoh with his chariots and his horsemen went into the sea, 
+				<crossref let="u" cid="c02015019.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 brought back the waters of the sea upon them, but the people of Israel walked on dry ground in the midst of the sea.
+			</verse>
+			<marker class="begin-verse" mid="v02015020">
+			</marker>
+			<verse num="20">
+				Then 
+				<crossref let="v" cid="c02015020.1">
+				</crossref>
+				Miriam 
+				<crossref let="w" cid="c02015020.2">
+				</crossref>
+				the prophetess, the 
+				<crossref let="x" cid="c02015020.3">
+				</crossref>
+				sister of Aaron, took a tambourine in her hand, and 
+				<crossref let="y" cid="c02015020.4">
+				</crossref>
+				all the women went out after her with tambourines and dancing.
+			</verse>
+			<marker class="begin-verse" mid="v02015021">
+			</marker>
+			<verse num="21">
+				And Miriam sang to them:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c02015021.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Sing to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, for he has triumphed gloriously;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				the horse and his rider he has thrown into the sea.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v02015022">
+			</marker>
+			<heading
+				>
+				Bitter Water Made Sweet
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				Then Moses made Israel set out from the Red Sea, and they went into the wilderness of 
+				<crossref let="a" cid="c02015022.1">
+				</crossref>
+				Shur. They went three days in the wilderness and found no water.
+			</verse>
+			<marker class="begin-verse" mid="v02015023">
+			</marker>
+			<verse num="23">
+				When they came to 
+				<crossref let="b" cid="c02015023.1">
+				</crossref>
+				Marah, they could not drink the water of Marah because it was bitter; therefore it was named Marah.
+				<note nid="n02015023.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v02015024">
+			</marker>
+			<verse num="24">
+				And the people 
+				<crossref let="c" cid="c02015024.1">
+				</crossref>
+				grumbled against Moses, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What shall we drink?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02015025">
+			</marker>
+			<verse num="25">
+				And he 
+				<crossref let="d" cid="c02015025.1">
+				</crossref>
+				cried to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 showed him a log,
+				<note nid="n02015025.1">
+				</note>
+				 and he 
+				<crossref let="e" cid="c02015025.2">
+				</crossref>
+				threw it into the water, and the water became sweet.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				There the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<note nid="n02015025.2">
+				</note>
+				 made for them a statute and a rule, and there he 
+				<crossref let="f" cid="c02015025.3">
+				</crossref>
+				tested them,
+
+			</verse>
+			<marker class="begin-verse" mid="v02015026">
+			</marker>
+			<verse num="26">
+				saying, 
+				<crossref let="g" cid="c02015026.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If you will diligently listen to the voice of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God, and do that which is right in his eyes, and give ear to his commandments and keep all his statutes, I will put none of the 
+				<crossref let="h" cid="c02015026.2">
+				</crossref>
+				diseases on you that I put on the Egyptians, for I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="i" cid="c02015026.3">
+				</crossref>
+				your healer.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02015027">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				Then 
+				<crossref let="j" cid="c02015027.1">
+				</crossref>
+				they came to Elim, where there were twelve springs of water and seventy palm trees, and they encamped there by the water.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

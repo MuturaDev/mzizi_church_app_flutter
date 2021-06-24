@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Kings" num="10">
+		<marker class="begin-verse" mid="v11012001">
+		</marker>
+		<chapter num="12">
+			<heading
+				>
+				Rehoboam's Folly
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="i" cid="c11012001.1">
+				</crossref>
+				Rehoboam went to 
+				<crossref let="j" cid="c11012001.2">
+				</crossref>
+				Shechem, for all Israel had come to Shechem to make him king.
+			</verse>
+			<marker class="begin-verse" mid="v11012002">
+			</marker>
+			<verse num="2">
+				And as soon as 
+				<crossref let="k" cid="c11012002.1">
+				</crossref>
+				Jeroboam the son of Nebat heard of it (for 
+				<crossref let="l" cid="c11012002.2">
+				</crossref>
+				he was still in Egypt, where he had fled from King Solomon), then Jeroboam returned from
+				<note nid="n11012002.1">
+				</note>
+				 Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v11012003">
+			</marker>
+			<verse num="3">
+				And they sent and called him, and Jeroboam and all the assembly of Israel came and said to Rehoboam,
+			</verse>
+			<marker class="begin-verse" mid="v11012004">
+			</marker>
+			<verse num="4">
+				<crossref let="m" cid="c11012004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your father made our yoke heavy. Now therefore lighten the hard service of your father and his heavy yoke on us, and we will serve you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11012005">
+			</marker>
+			<verse num="5">
+				He said to them, 
+				<crossref let="n" cid="c11012005.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go away for three days, then come again to me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So the people went away.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v11012006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				Then King Rehoboam took counsel with the old men, who had stood before Solomon his father while he was yet alive, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How do you advise me to answer this people?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11012007">
+			</marker>
+			<verse num="7">
+				And they said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If you will be a servant to this people today and serve them, and speak good words to them when you answer them, then they will be your servants forever.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11012008">
+			</marker>
+			<verse num="8">
+				But he abandoned the counsel that the old men gave him and took counsel with the young men who had grown up with him and stood before him.
+			</verse>
+			<marker class="begin-verse" mid="v11012009">
+			</marker>
+			<verse num="9">
+				And he said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What do you advise that we answer this people who have said to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Lighten the yoke that your father put on us
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11012010">
+			</marker>
+			<verse num="10">
+				And the young men who had grown up with him said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus shall you speak to this people who said to you, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Your father made our yoke heavy, but you lighten it for us,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 thus shall you say to them, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				My little finger is thicker than my father's thighs.
+			</verse>
+			<marker class="begin-verse" mid="v11012011">
+			</marker>
+			<verse num="11">
+				And now, whereas 
+				<crossref let="m" cid="c11012011.1">
+				</crossref>
+				my father laid on you a heavy yoke, I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v11012012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				So Jeroboam and all the people came to Rehoboam the third day, as the king said, 
+				<crossref let="o" cid="c11012012.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come to me again the third day.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11012013">
+			</marker>
+			<verse num="13">
+				And the king answered the people harshly, and forsaking the counsel that the old men had given him,
+			</verse>
+			<marker class="begin-verse" mid="v11012014">
+			</marker>
+			<verse num="14">
+				he spoke to them according to the counsel of the young men, saying, 
+				<crossref let="m" cid="c11012014.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My father made your yoke heavy, but I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11012015">
+			</marker>
+			<verse num="15">
+				So the king did not listen to the people, for 
+				<crossref let="p" cid="c11012015.1">
+				</crossref>
+				it was a turn of affairs brought about by the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that he might fulfill his word, which 
+				<crossref let="q" cid="c11012015.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke by Ahijah the Shilonite to Jeroboam the son of Nebat.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v11012016">
+			</marker>
+			<heading
+				>
+				The Kingdom Divided
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				And when all Israel saw that the king did not listen to them, the people answered the king, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What portion do we have in David? We have no inheritance in the son of Jesse. 
+				<crossref let="r" cid="c11012016.1">
+				</crossref>
+				To your tents, O Israel! Look now to your own house, David.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So Israel went to their tents.
+			</verse>
+			<marker class="begin-verse" mid="v11012017">
+			</marker>
+			<verse num="17">
+				But Rehoboam reigned over 
+				<crossref let="s" cid="c11012017.1">
+				</crossref>
+				the people of Israel who lived in the cities of Judah.
+			</verse>
+			<marker class="begin-verse" mid="v11012018">
+			</marker>
+			<verse num="18">
+				Then King Rehoboam sent 
+				<crossref let="t" cid="c11012018.1">
+				</crossref>
+				Adoram, who was taskmaster over the forced labor, and all Israel stoned him to death with stones. And King Rehoboam hurried to mount his chariot to flee to Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v11012019">
+			</marker>
+			<verse num="19">
+				<crossref let="u" cid="c11012019.1">
+				</crossref>
+				So Israel has been in rebellion against the house of David to this day.
+			</verse>
+			<marker class="begin-verse" mid="v11012020">
+			</marker>
+			<verse num="20">
+				And when all Israel heard that Jeroboam had returned, they sent and called him to the assembly and made him king over all Israel. There was none that followed the house of David but 
+				<crossref let="v" cid="c11012020.1">
+				</crossref>
+				the tribe of Judah only.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v11012021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<crossref let="w" cid="c11012021.1">
+				</crossref>
+				When Rehoboam came to Jerusalem, he assembled all the house of Judah and the tribe of Benjamin, 180,000 chosen warriors, to fight against the house of Israel, to restore the kingdom to Rehoboam the son of Solomon.
+			</verse>
+			<marker class="begin-verse" mid="v11012022">
+			</marker>
+			<verse num="22">
+				But the word of God came to 
+				<crossref let="x" cid="c11012022.1">
+				</crossref>
+				Shemaiah the man of God:
+			</verse>
+			<marker class="begin-verse" mid="v11012023">
+			</marker>
+			<verse num="23">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say to Rehoboam the son of Solomon, king of Judah, and to all the house of Judah and Benjamin, and to the 
+				<crossref let="y" cid="c11012023.1">
+				</crossref>
+				rest of the people,
+			</verse>
+			<marker class="begin-verse" mid="v11012024">
+			</marker>
+			<verse num="24">
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, You shall not go up or fight against your relatives the people of Israel. Every man return to his home, 
+				<crossref let="z" cid="c11012024.1">
+				</crossref>
+				for this thing is from me.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So they listened to the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and went home again, according to the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v11012025">
+			</marker>
+			<heading
+				>
+				Jeroboam's Golden Calves
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				Then Jeroboam 
+				<crossref let="a" cid="c11012025.1">
+				</crossref>
+				built Shechem in the hill country of Ephraim and lived there. And he went out from there and 
+				<crossref let="b" cid="c11012025.2">
+				</crossref>
+				built Penuel.
+			</verse>
+			<marker class="begin-verse" mid="v11012026">
+			</marker>
+			<verse num="26">
+				And Jeroboam said in his heart, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Now the kingdom will turn back to the house of David.
+			</verse>
+			<marker class="begin-verse" mid="v11012027">
+			</marker>
+			<verse num="27">
+				If this people 
+				<crossref let="c" cid="c11012027.1">
+				</crossref>
+				go up to offer sacrifices in the temple of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 at Jerusalem, then the heart of this people will turn again to their lord, to Rehoboam king of Judah, and they will kill me and return to Rehoboam king of Judah.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11012028">
+			</marker>
+			<verse num="28">
+				So the king took counsel and 
+				<crossref let="d" cid="c11012028.1">
+				</crossref>
+				made two calves of gold. And he said to the people, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You have gone up to Jerusalem long enough. 
+				<crossref let="e" cid="c11012028.2">
+				</crossref>
+				Behold your gods, O Israel, who brought you up out of the land of Egypt.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v11012029">
+			</marker>
+			<verse num="29">
+				And he set one in Bethel, and the other he put in Dan.
+			</verse>
+			<marker class="begin-verse" mid="v11012030">
+			</marker>
+			<verse num="30">
+				Then 
+				<crossref let="f" cid="c11012030.1">
+				</crossref>
+				this thing became a sin, for the people went as far as Dan to be before one.
+				<note nid="n11012030.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v11012031">
+			</marker>
+			<verse num="31">
+				He also made 
+				<crossref let="g" cid="c11012031.1">
+				</crossref>
+				temples on high places and 
+				<crossref let="h" cid="c11012031.2">
+				</crossref>
+				appointed priests from among all the people, who were not of the Levites.
+			</verse>
+			<marker class="begin-verse" mid="v11012032">
+			</marker>
+			<verse num="32">
+				And Jeroboam appointed a feast on the fifteenth day of the eighth month like 
+				<crossref let="i" cid="c11012032.1">
+				</crossref>
+				the feast that was in Judah, and he offered sacrifices on the altar. So he did in Bethel, sacrificing to the calves that he made. And he placed in Bethel 
+				<crossref let="j" cid="c11012032.2">
+				</crossref>
+				the priests of the high places that he had made.
+			</verse>
+			<marker class="begin-verse" mid="v11012033">
+			</marker>
+			<verse num="33">
+				He went up to the altar that he had made in Bethel on the fifteenth day in the eighth month, in the month that he had devised from his own heart. And he instituted a feast for the people of Israel and went up to the altar 
+				<crossref let="k" cid="c11012033.1">
+				</crossref>
+				to make offerings.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

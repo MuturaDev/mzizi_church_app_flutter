@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Chronicles" num="12">
+		<marker class="begin-verse" mid="v13016001">
+		</marker>
+		<chapter num="16">
+			<heading>
+				The Ark Placed in a Tent
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="1">
+				And they brought in the ark of God and set it inside 
+				<crossref let="c" cid="c13016001.1">
+				</crossref>
+				the tent that David had pitched for it, and they offered burnt offerings and peace offerings before God.
+			</verse>
+			<marker class="begin-verse" mid="v13016002">
+			</marker>
+			<verse num="2">
+				And when David had finished offering the burnt offerings and the peace offerings, he blessed the people in the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</verse>
+			<marker class="begin-verse" mid="v13016003">
+			</marker>
+			<verse num="3">
+				and distributed to all Israel, both men and women, to each a loaf of bread, a portion of meat,
+				<note nid="n13016003.1">
+				</note>
+				 and a cake of raisins.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13016004">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="4">
+				Then he appointed some of the Levites as ministers before the ark of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, to invoke, to thank, and to praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v13016005">
+			</marker>
+			<verse num="5">
+				<crossref let="d" cid="c13016005.1">
+				</crossref>
+				Asaph was the chief, and second to him were Zechariah, Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-edom, and Jeiel, who were to play harps and lyres; Asaph was to sound the cymbals,
+			</verse>
+			<marker class="begin-verse" mid="v13016006">
+			</marker>
+			<verse num="6">
+				and Benaiah and Jahaziel the priests were to blow trumpets regularly before the ark of the covenant of God.
+			</verse>
+			<marker class="begin-verse" mid="v13016007">
+			</marker>
+			<verse num="7">
+				Then on that day 
+				<crossref let="e" cid="c13016007.1">
+				</crossref>
+				David first appointed that thanksgiving be sung to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 by Asaph and his brothers.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13016008">
+			</marker>
+			<heading>
+				David's Song of Thanks
+			</heading>
+			<begin-block-indent>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line>
+				</begin-line>
+				<crossref let="f" cid="c13016008.1">
+				</crossref>
+				Oh give thanks to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				; 
+				<crossref let="g" cid="c13016008.2">
+				</crossref>
+				call upon his name;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c13016008.3">
+				</crossref>
+				make known his deeds among the peoples!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016009">
+			</marker>
+			<verse num="9">
+				<begin-line>
+				</begin-line>
+				Sing to him; sing praises to him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				tell of all his wondrous works!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016010">
+			</marker>
+			<verse num="10">
+				<begin-line>
+				</begin-line>
+				Glory in his holy name;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let the hearts of those who seek the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 rejoice!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016011">
+			</marker>
+			<verse num="11">
+				<begin-line>
+				</begin-line>
+				<crossref let="i" cid="c13016011.1">
+				</crossref>
+				Seek the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and his strength;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				seek his presence continually!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016012">
+			</marker>
+			<verse num="12">
+				<begin-line>
+				</begin-line>
+				<crossref let="j" cid="c13016012.1">
+				</crossref>
+				Remember the wondrous works that he has done,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c13016012.2">
+				</crossref>
+				his miracles and the judgments he uttered,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016013">
+			</marker>
+			<verse num="13">
+				<begin-line>
+				</begin-line>
+				O offspring of Israel his servant,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				sons of Jacob, his chosen ones!
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13016014">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="14">
+				<begin-line>
+				</begin-line>
+				He is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="l" cid="c13016014.1">
+				</crossref>
+				his judgments are in all the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016015">
+			</marker>
+			<verse num="15">
+				<begin-line>
+				</begin-line>
+				Remember his covenant forever,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the word that he commanded, for a thousand generations,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016016">
+			</marker>
+			<verse num="16">
+				<begin-line>
+				</begin-line>
+				the covenant 
+				<crossref let="m" cid="c13016016.1">
+				</crossref>
+				that he made with Abraham,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his sworn promise to Isaac,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016017">
+			</marker>
+			<verse num="17">
+				<begin-line>
+				</begin-line>
+				which 
+				<crossref let="n" cid="c13016017.1">
+				</crossref>
+				he confirmed as a statute to Jacob,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as an everlasting covenant to Israel,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016018">
+			</marker>
+			<verse num="18">
+				<begin-line>
+				</begin-line>
+				saying, 
+				<crossref let="o" cid="c13016018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				To you I will give the land of Canaan,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as your portion for an inheritance.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13016019">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="19">
+				<begin-line>
+				</begin-line>
+				When you were 
+				<crossref let="p" cid="c13016019.1">
+				</crossref>
+				few in number,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and of little account, and 
+				<crossref let="q" cid="c13016019.2">
+				</crossref>
+				sojourners in it,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016020">
+			</marker>
+			<verse num="20">
+				<begin-line>
+				</begin-line>
+				wandering from nation to nation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from one kingdom to another people,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016021">
+			</marker>
+			<verse num="21">
+				<begin-line>
+				</begin-line>
+				he allowed no one to oppress them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="r" cid="c13016021.1">
+				</crossref>
+				rebuked kings on their account,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016022">
+			</marker>
+			<verse num="22">
+				<begin-line>
+				</begin-line>
+				saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Touch not my anointed ones,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				do my 
+				<crossref let="s" cid="c13016022.1">
+				</crossref>
+				prophets no harm!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13016023">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="23">
+				<begin-line>
+				</begin-line>
+				<crossref let="t" cid="c13016023.1">
+				</crossref>
+				Sing to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, all the earth!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Tell of his salvation from day to day.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016024">
+			</marker>
+			<verse num="24">
+				<begin-line>
+				</begin-line>
+				Declare his glory among the nations,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his marvelous works among all the peoples!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016025">
+			</marker>
+			<verse num="25">
+				<begin-line>
+				</begin-line>
+				For 
+				<crossref let="u" cid="c13016025.1">
+				</crossref>
+				great is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and greatly to be praised,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he is to be held in awe 
+				<crossref let="v" cid="c13016025.2">
+				</crossref>
+				above all gods.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016026">
+			</marker>
+			<verse num="26">
+				<begin-line>
+				</begin-line>
+				For all the gods of the peoples are idols,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c13016026.1">
+				</crossref>
+				but the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 made the heavens.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016027">
+			</marker>
+			<verse num="27">
+				<begin-line>
+				</begin-line>
+				Splendor and majesty are before him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				strength and joy are in his place.
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13016028">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="28">
+				<begin-line>
+				</begin-line>
+				Ascribe to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O clans of the peoples,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c13016028.1">
+				</crossref>
+				ascribe to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 glory and strength!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016029">
+			</marker>
+			<verse num="29">
+				<begin-line>
+				</begin-line>
+				Ascribe to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 the glory due his name;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				bring an offering and come before him!
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				<crossref let="y" cid="c13016029.1">
+				</crossref>
+				Worship the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 in the splendor of holiness;
+				<note nid="n13016029.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016030">
+			</marker>
+			<verse num="30">
+				<begin-line class="indent">
+				</begin-line>
+				tremble before him, all the earth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				yes, the world is established; it shall never be moved.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016031">
+			</marker>
+			<verse num="31">
+				<begin-line>
+				</begin-line>
+				<crossref let="z" cid="c13016031.1">
+				</crossref>
+				Let the heavens be glad, and let the earth rejoice,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and let them say among the nations, 
+				<crossref let="a" cid="c13016031.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 reigns!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016032">
+			</marker>
+			<verse num="32">
+				<begin-line>
+				</begin-line>
+				<crossref let="b" cid="c13016032.1">
+				</crossref>
+				Let the sea roar, and all that fills it;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let the field exult, and everything in it!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016033">
+			</marker>
+			<verse num="33">
+				<begin-line>
+				</begin-line>
+				Then shall the trees of the forest sing for joy
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, for he comes to judge the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016034">
+			</marker>
+			<verse num="34">
+				<begin-line>
+				</begin-line>
+				Oh give thanks to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, for he is good;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for his steadfast love endures forever!
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v13016035">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="35">
+				<crossref let="c" cid="c13016035.1">
+				</crossref>
+				Say also:
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Save us, O God of our salvation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and gather and deliver us from among the nations,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				that we may give thanks to your holy name,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and glory in your praise.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v13016036">
+			</marker>
+			<verse num="36">
+				<begin-line>
+				</begin-line>
+				<crossref let="d" cid="c13016036.1">
+				</crossref>
+				Blessed be the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from everlasting to everlasting!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+				<end-paragraph>
+				</end-paragraph>
+				<end-block-indent>
+				</end-block-indent>
+				<begin-paragraph class="same-paragraph">
+				</begin-paragraph>
+				<crossref let="e" cid="c13016036.2">
+				</crossref>
+				Then all the people said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Amen!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 and praised the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13016037">
+			</marker>
+			<heading>
+				Worship Before the Ark
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="37">
+				So David left Asaph and his brothers there 
+				<crossref let="f" cid="c13016037.1">
+				</crossref>
+				before the ark of the covenant of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 to minister regularly before the ark 
+				<crossref let="g" cid="c13016037.2">
+				</crossref>
+				as each day required,
+			</verse>
+			<marker class="begin-verse" mid="v13016038">
+			</marker>
+			<verse num="38">
+				and also 
+				<crossref let="h" cid="c13016038.1">
+				</crossref>
+				Obed-edom and his
+				<note nid="n13016038.1">
+				</note>
+				 sixty-eight brothers, while 
+				<crossref let="h" cid="c13016038.2">
+				</crossref>
+				Obed-edom, the son of Jeduthun, and 
+				<crossref let="i" cid="c13016038.3">
+				</crossref>
+				Hosah were to be gatekeepers.
+			</verse>
+			<marker class="begin-verse" mid="v13016039">
+			</marker>
+			<verse num="39">
+				And he left 
+				<crossref let="j" cid="c13016039.1">
+				</crossref>
+				Zadok the priest and his brothers the priests before the tabernacle of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="k" cid="c13016039.2">
+				</crossref>
+				in the high place that was at Gibeon
+			</verse>
+			<marker class="begin-verse" mid="v13016040">
+			</marker>
+			<verse num="40">
+				to offer burnt offerings to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="l" cid="c13016040.1">
+				</crossref>
+				on the altar of burnt offering 
+				<crossref let="m" cid="c13016040.2">
+				</crossref>
+				regularly morning and evening, to do all that is written in the Law of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that he commanded Israel.
+			</verse>
+			<marker class="begin-verse" mid="v13016041">
+			</marker>
+			<verse num="41">
+				With them were 
+				<crossref let="n" cid="c13016041.1">
+				</crossref>
+				Heman and Jeduthun 
+				<crossref let="o" cid="c13016041.2">
+				</crossref>
+				and the rest of those chosen and 
+				<crossref let="p" cid="c13016041.3">
+				</crossref>
+				expressly named to give thanks to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="q" cid="c13016041.4">
+				</crossref>
+				for his steadfast love endures forever.
+			</verse>
+			<marker class="begin-verse" mid="v13016042">
+			</marker>
+			<verse num="42">
+				Heman and Jeduthun had trumpets and cymbals for the music and instruments 
+				<crossref let="r" cid="c13016042.1">
+				</crossref>
+				for sacred song. The sons of Jeduthun were appointed to the gate.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13016043">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="43">
+				<crossref let="s" cid="c13016043.1">
+				</crossref>
+				Then all the people departed each to his house, and David went home to bless his household.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

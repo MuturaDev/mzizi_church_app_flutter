@@ -18,6 +18,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_events_screens
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_member_profile.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_photo_gallery_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_video_gallery_page.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/tabs/self_enroll_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/sermon_series_tab.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/settings_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/class_builder.dart';
@@ -62,7 +63,7 @@ class RouteController {
         if (controller == Controller.Screen)
           returnWidgetOptions = ClassBuilder.fromString('DashboardScreen');
         else if (controller == Controller.DashboardScreen)
-          returnWidgetOptions = PortalContributionsPage(
+          returnWidgetOptions = PortalChatPage(
             onMenuPressedHere: onMenuPressed,
           );
         else if (controller == Controller.Navigator)
@@ -76,6 +77,25 @@ class RouteController {
         return returnWidgetOptions;
         break;
       case 2:
+        dynamic returnWidgetOptions;
+
+        if (controller == Controller.Screen)
+          returnWidgetOptions = ClassBuilder.fromString('DashboardScreen');
+        else if (controller == Controller.DashboardScreen)
+          returnWidgetOptions = PortalContributionsPage(
+            onMenuPressedHere: onMenuPressed,
+          );
+        else if (controller == Controller.Navigator)
+          Navigator.push(
+              context,
+              MaterialPageRoute(
+                  builder: (context) => Screen(
+                        selectionIndex: selection,
+                      )));
+
+        return returnWidgetOptions;
+        break;
+      case 3:
         dynamic returnWidgetOptions;
 
         if (controller == Controller.Screen)
@@ -95,7 +115,7 @@ class RouteController {
         return returnWidgetOptions;
         break;
 
-      case 3:
+      case 4:
         dynamic returnWidgetOptions;
 
         if (controller == Controller.Screen)
@@ -114,7 +134,7 @@ class RouteController {
 
         return returnWidgetOptions;
         break;
-      case 4:
+      case 5:
         dynamic returnWidgetOptions;
 
         if (controller == Controller.Screen)
@@ -145,7 +165,7 @@ class RouteController {
 
       //   return returnWidgetOptions;
       //   break;
-      case 5:
+      case 6:
         dynamic returnWidgetOptions;
 
         if (controller == Controller.Screen)
@@ -165,25 +185,25 @@ class RouteController {
         return returnWidgetOptions;
 
         break;
-      case 6:
-        dynamic returnWidgetOptions;
+      // case 6:
+      // dynamic returnWidgetOptions;
 
-        if (controller == Controller.Screen)
-          returnWidgetOptions = ClassBuilder.fromString('DashboardScreen');
-        else if (controller == Controller.DashboardScreen)
-          returnWidgetOptions = CalendarPage(
-            onMenuPressedHere: onMenuPressed,
-          );
-        else if (controller == Controller.Navigator)
-          Navigator.push(
-              context,
-              MaterialPageRoute(
-                  builder: (context) => Screen(
-                        selectionIndex: selection,
-                      )));
+      // if (controller == Controller.Screen)
+      //   returnWidgetOptions = ClassBuilder.fromString('DashboardScreen');
+      // else if (controller == Controller.DashboardScreen)
+      //   returnWidgetOptions = CalendarPage(
+      //     onMenuPressedHere: onMenuPressed,
+      //   );
+      // else if (controller == Controller.Navigator)
+      //   Navigator.push(
+      //       context,
+      //       MaterialPageRoute(
+      //           builder: (context) => Screen(
+      //                 selectionIndex: selection,
+      //               )));
 
-        return returnWidgetOptions;
-        break;
+      // return returnWidgetOptions;
+      // break;
       case 7:
         dynamic returnWidgetOptions;
 
@@ -241,13 +261,14 @@ class RouteController {
 
         return returnWidgetOptions;
         break;
+
       case 10:
         dynamic returnWidgetOptions;
 
         if (controller == Controller.Screen)
           returnWidgetOptions = ClassBuilder.fromString('DashboardScreen');
         else if (controller == Controller.DashboardScreen)
-          returnWidgetOptions = PortalChatPage(
+          returnWidgetOptions = SelfEnrollPage(
             onMenuPressedHere: onMenuPressed,
           );
         else if (controller == Controller.Navigator)
@@ -260,6 +281,7 @@ class RouteController {
 
         return returnWidgetOptions;
         break;
+
       case 11:
         dynamic returnWidgetOptions;
 

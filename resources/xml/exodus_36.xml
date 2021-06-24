@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02036001">
+		</marker>
+		<chapter num="36">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Bezalel and Oholiab and 
+				<crossref let="i" cid="c02036001.1">
+				</crossref>
+				every craftsman in whom the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has put skill and intelligence to know how to do any work in the construction of the sanctuary shall work in accordance with all that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has commanded.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02036002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				And Moses called Bezalel and Oholiab and every craftsman in whose mind the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had put skill, everyone 
+				<crossref let="j" cid="c02036002.1">
+				</crossref>
+				whose heart stirred him up to come to do the work.
+			</verse>
+			<marker class="begin-verse" mid="v02036003">
+			</marker>
+			<verse num="3">
+				And they received from Moses all the 
+				<crossref let="k" cid="c02036003.1">
+				</crossref>
+				contribution that the people of Israel had brought for doing the work on the sanctuary. They still kept bringing him 
+				<crossref let="l" cid="c02036003.2">
+				</crossref>
+				freewill offerings every morning,
+			</verse>
+			<marker class="begin-verse" mid="v02036004">
+			</marker>
+			<verse num="4">
+				so that all the craftsmen who were doing every sort of task on the sanctuary came, each from the task that he was doing,
+			</verse>
+			<marker class="begin-verse" mid="v02036005">
+			</marker>
+			<verse num="5">
+				and said to Moses, 
+				<crossref let="m" cid="c02036005.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The people bring much more than enough for doing the work that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has commanded us to do.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02036006">
+			</marker>
+			<verse num="6">
+				So Moses gave command, and word was proclaimed throughout the camp, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let no man or woman do anything more for the 
+				<crossref let="n" cid="c02036006.1">
+				</crossref>
+				contribution for the sanctuary.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So the people were restrained from bringing,
+			</verse>
+			<marker class="begin-verse" mid="v02036007">
+			</marker>
+			<verse num="7">
+				for the material they had was sufficient to do all the work, and more.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02036008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				<crossref let="o" cid="c02036008.1">
+				</crossref>
+				And all the craftsmen among the workmen made the tabernacle with ten curtains. They were made of fine twined linen and blue and purple and scarlet yarns, with cherubim skillfully worked.
+			</verse>
+			<marker class="begin-verse" mid="v02036009">
+			</marker>
+			<verse num="9">
+				The length of each curtain was twenty-eight cubits,
+				<note nid="n02036009.1">
+				</note>
+				 and the breadth of each curtain four cubits. All the curtains were the same size.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02036010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				He coupled five curtains to one another, and the other five curtains he coupled to one another.
+			</verse>
+			<marker class="begin-verse" mid="v02036011">
+			</marker>
+			<verse num="11">
+				He made loops of blue on the edge of the outermost curtain of the first set. Likewise he made them on the edge of the outermost curtain of the second set.
+			</verse>
+			<marker class="begin-verse" mid="v02036012">
+			</marker>
+			<verse num="12">
+				He made fifty loops on the one curtain, and he made fifty loops on the edge of the curtain that was in the second set. The loops were opposite one another.
+			</verse>
+			<marker class="begin-verse" mid="v02036013">
+			</marker>
+			<verse num="13">
+				And he made fifty clasps of gold, and coupled the curtains one to the other with clasps. So the tabernacle was a single whole.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02036014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				He also made curtains of goats' hair for a tent over the tabernacle. He made eleven curtains.
+			</verse>
+			<marker class="begin-verse" mid="v02036015">
+			</marker>
+			<verse num="15">
+				The length of each curtain was thirty cubits, and the breadth of each curtain four cubits. The eleven curtains were the same size.
+			</verse>
+			<marker class="begin-verse" mid="v02036016">
+			</marker>
+			<verse num="16">
+				He coupled five curtains by themselves, and six curtains by themselves.
+			</verse>
+			<marker class="begin-verse" mid="v02036017">
+			</marker>
+			<verse num="17">
+				And he made fifty loops on the edge of the outermost curtain of the one set, and fifty loops on the edge of the other connecting curtain.
+			</verse>
+			<marker class="begin-verse" mid="v02036018">
+			</marker>
+			<verse num="18">
+				And he made fifty clasps of bronze to couple the tent together that it might be a single whole.
+			</verse>
+			<marker class="begin-verse" mid="v02036019">
+			</marker>
+			<verse num="19">
+				And he made for the tent a covering of tanned rams' skins and goatskins.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02036020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				<crossref let="p" cid="c02036020.1">
+				</crossref>
+				Then he made the upright frames for the tabernacle of 
+				<crossref let="q" cid="c02036020.2">
+				</crossref>
+				acacia wood.
+			</verse>
+			<marker class="begin-verse" mid="v02036021">
+			</marker>
+			<verse num="21">
+				Ten cubits was the length of a frame, and a cubit and a half the breadth of each frame.
+			</verse>
+			<marker class="begin-verse" mid="v02036022">
+			</marker>
+			<verse num="22">
+				Each frame had two tenons for fitting together. He did this for all the frames of the tabernacle.
+			</verse>
+			<marker class="begin-verse" mid="v02036023">
+			</marker>
+			<verse num="23">
+				The frames for the tabernacle he made thus: twenty frames for the south side.
+			</verse>
+			<marker class="begin-verse" mid="v02036024">
+			</marker>
+			<verse num="24">
+				And he made forty bases of silver under the twenty frames, two bases under one frame for its two tenons, and two bases under the next frame for its two tenons.
+			</verse>
+			<marker class="begin-verse" mid="v02036025">
+			</marker>
+			<verse num="25">
+				For the second side of the tabernacle, on the north side, he made twenty frames
+			</verse>
+			<marker class="begin-verse" mid="v02036026">
+			</marker>
+			<verse num="26">
+				and their forty bases of silver, two bases under one frame and two bases under the next frame.
+			</verse>
+			<marker class="begin-verse" mid="v02036027">
+			</marker>
+			<verse num="27">
+				For the rear of the tabernacle westward he made six frames.
+			</verse>
+			<marker class="begin-verse" mid="v02036028">
+			</marker>
+			<verse num="28">
+				He made two frames for corners of the tabernacle in the rear.
+			</verse>
+			<marker class="begin-verse" mid="v02036029">
+			</marker>
+			<verse num="29">
+				And they were separate beneath but joined at the top, at the first ring. He made two of them this way for the two corners.
+			</verse>
+			<marker class="begin-verse" mid="v02036030">
+			</marker>
+			<verse num="30">
+				There were eight frames with their bases of silver: sixteen bases, under every frame two bases.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02036031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				He made bars of acacia wood, five for the frames of the one side of the tabernacle,
+			</verse>
+			<marker class="begin-verse" mid="v02036032">
+			</marker>
+			<verse num="32">
+				and five bars for the frames of the other side of the tabernacle, and five bars for the frames of the tabernacle at the rear westward.
+			</verse>
+			<marker class="begin-verse" mid="v02036033">
+			</marker>
+			<verse num="33">
+				And he made the middle bar to run from end to end halfway up the frames.
+			</verse>
+			<marker class="begin-verse" mid="v02036034">
+			</marker>
+			<verse num="34">
+				And he overlaid the frames with gold, and made their rings of gold for holders for the bars, and overlaid the bars with gold.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02036035">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="35">
+				<crossref let="r" cid="c02036035.1">
+				</crossref>
+				He made the veil of blue and purple and scarlet yarns and fine twined linen; with cherubim skillfully worked into it he made it.
+			</verse>
+			<marker class="begin-verse" mid="v02036036">
+			</marker>
+			<verse num="36">
+				And for it he made four pillars of acacia and overlaid them with gold. Their hooks were of gold, and he cast for them four bases of silver.
+			</verse>
+			<marker class="begin-verse" mid="v02036037">
+			</marker>
+			<verse num="37">
+				He also made a screen for the entrance of the tent, of blue and purple and scarlet yarns and fine twined linen, embroidered with needlework,
+			</verse>
+			<marker class="begin-verse" mid="v02036038">
+			</marker>
+			<verse num="38">
+				and its five pillars with their hooks. He overlaid their capitals, and their fillets were of gold, but their five bases were of bronze.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

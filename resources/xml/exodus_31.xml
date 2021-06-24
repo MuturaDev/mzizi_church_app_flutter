@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02031001">
+		</marker>
+		<chapter num="31">
+			<heading
+				>
+				Oholiab and Bezalel
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses,
+			</verse>
+			<marker class="begin-verse" mid="v02031002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				See, I have called by name 
+				<crossref let="x" cid="c02031002.1">
+				</crossref>
+				Bezalel the son of Uri, son of 
+				<crossref let="y" cid="c02031002.2">
+				</crossref>
+				Hur, of the tribe of Judah,
+			</verse>
+			<marker class="begin-verse" mid="v02031003">
+			</marker>
+			<verse num="3">
+				and I have 
+				<crossref let="z" cid="c02031003.1">
+				</crossref>
+				filled him with the Spirit of God, with ability and intelligence, with knowledge and all craftsmanship,
+			</verse>
+			<marker class="begin-verse" mid="v02031004">
+			</marker>
+			<verse num="4">
+				to devise artistic designs, to work in gold, silver, and bronze,
+			</verse>
+			<marker class="begin-verse" mid="v02031005">
+			</marker>
+			<verse num="5">
+				in cutting stones for setting, and in carving wood, to work in every craft.
+			</verse>
+			<marker class="begin-verse" mid="v02031006">
+			</marker>
+			<verse num="6">
+				And behold, I have appointed with him 
+				<crossref let="a" cid="c02031006.1">
+				</crossref>
+				Oholiab, the son of Ahisamach, of the tribe of Dan. And I have given to all able men 
+				<crossref let="b" cid="c02031006.2">
+				</crossref>
+				ability, that they may make all that I have commanded you:
+			</verse>
+			<marker class="begin-verse" mid="v02031007">
+			</marker>
+			<verse num="7">
+				<crossref let="c" cid="c02031007.1">
+				</crossref>
+				the tent of meeting, and 
+				<crossref let="d" cid="c02031007.2">
+				</crossref>
+				the ark of the testimony, and 
+				<crossref let="e" cid="c02031007.3">
+				</crossref>
+				the mercy seat that is on it, and all the furnishings of the tent,
+			</verse>
+			<marker class="begin-verse" mid="v02031008">
+			</marker>
+			<verse num="8">
+				<crossref let="f" cid="c02031008.1">
+				</crossref>
+				the table and its utensils, and 
+				<crossref let="g" cid="c02031008.2">
+				</crossref>
+				the pure lampstand with all its utensils, and 
+				<crossref let="h" cid="c02031008.3">
+				</crossref>
+				the altar of incense,
+			</verse>
+			<marker class="begin-verse" mid="v02031009">
+			</marker>
+			<verse num="9">
+				and 
+				<crossref let="i" cid="c02031009.1">
+				</crossref>
+				the altar of burnt offering with all its utensils, and 
+				<crossref let="j" cid="c02031009.2">
+				</crossref>
+				the basin and its stand,
+			</verse>
+			<marker class="begin-verse" mid="v02031010">
+			</marker>
+			<verse num="10">
+				and 
+				<crossref let="k" cid="c02031010.1">
+				</crossref>
+				the finely worked garments,
+				<note nid="n02031010.1">
+				</note>
+				 the holy garments for Aaron the priest and the garments of his sons, for their service as priests,
+			</verse>
+			<marker class="begin-verse" mid="v02031011">
+			</marker>
+			<verse num="11">
+				and 
+				<crossref let="l" cid="c02031011.1">
+				</crossref>
+				the anointing oil and the fragrant 
+				<crossref let="m" cid="c02031011.2">
+				</crossref>
+				incense for the Holy Place. According to all that I have commanded you, they shall do.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02031012">
+			</marker>
+			<heading
+				>
+				The Sabbath
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses,
+			</verse>
+			<marker class="begin-verse" mid="v02031013">
+			</marker>
+			<verse num="13">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are to speak to the people of Israel and say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Above all you shall keep my Sabbaths, for this is a sign between me and you throughout your generations, that you may know that I, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, sanctify you.
+			</verse>
+			<marker class="begin-verse" mid="v02031014">
+			</marker>
+			<verse num="14">
+				You shall keep the Sabbath, because it is holy for you. Everyone who profanes it shall be put to death. 
+				<crossref let="n" cid="c02031014.1">
+				</crossref>
+				Whoever does any work on it, that soul shall be cut off from among his people.
+			</verse>
+			<marker class="begin-verse" mid="v02031015">
+			</marker>
+			<verse num="15">
+				<crossref let="o" cid="c02031015.1">
+				</crossref>
+				Six days shall work be done, but 
+				<crossref let="p" cid="c02031015.2">
+				</crossref>
+				the seventh day is a Sabbath of solemn rest, holy to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. 
+				<crossref let="n" cid="c02031015.3">
+				</crossref>
+				Whoever does any work on the Sabbath day shall be put to death.
+			</verse>
+			<marker class="begin-verse" mid="v02031016">
+			</marker>
+			<verse num="16">
+				Therefore the people of Israel shall keep the Sabbath, observing the Sabbath throughout their generations, as a covenant forever.
+			</verse>
+			<marker class="begin-verse" mid="v02031017">
+			</marker>
+			<verse num="17">
+				<crossref let="q" cid="c02031017.1">
+				</crossref>
+				It is a sign forever between me and the people of Israel that 
+				<crossref let="r" cid="c02031017.2">
+				</crossref>
+				in six days the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 made heaven and earth, and 
+				<crossref let="s" cid="c02031017.3">
+				</crossref>
+				on the seventh day he rested and was refreshed.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02031018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				And he gave to Moses, when he had finished speaking with him on Mount Sinai, the 
+				<crossref let="t" cid="c02031018.1">
+				</crossref>
+				two tablets of the testimony, tablets of stone, written with 
+				<crossref let="u" cid="c02031018.2">
+				</crossref>
+				the finger of God.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

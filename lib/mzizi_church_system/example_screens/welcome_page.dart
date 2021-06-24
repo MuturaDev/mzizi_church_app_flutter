@@ -6,8 +6,12 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/authenticate_user_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/login_page_example.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/signup_example.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system/flavour_config.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_authentication_response_model.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/screens/Screen.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_widgets.dart';
 
 class WelcomePage extends StatefulWidget {
   WelcomePage({Key key, this.title}) : super(key: key);
@@ -18,24 +22,10 @@ class WelcomePage extends StatefulWidget {
   _WelcomePageState createState() => _WelcomePageState();
 }
 
-class _WelcomePageState extends State<WelcomePage>
-    with SingleTickerProviderStateMixin {
-  AnimationController _animationController;
-  Animation<double> _animation;
-
+class _WelcomePageState extends State<WelcomePage> {
   @override
   void initState() {
     super.initState();
-
-    _animationController = AnimationController(
-      vsync: this,
-      duration: Duration(seconds: 5),
-    )..addListener(() => setState(() {}));
-
-    _animation =
-        Tween<double>(begin: 0.0, end: 1.0).animate(_animationController);
-
-    _animationController.forward();
   }
 
   Widget _submitButton() {
@@ -120,7 +110,13 @@ class _WelcomePageState extends State<WelcomePage>
     return RichText(
       textAlign: TextAlign.center,
       text: TextSpan(
-          text: 'Mzizi',
+          text: FlavourConfig.isBwmc()
+              ? 'The Bible '
+              : FlavourConfig.isDcik()
+                  ? 'Deliverance Church '
+                  : FlavourConfig.isJcc()
+                      ? 'Jubilee Christian '
+                      : FlavourConfig.isMzizicms() ? 'Mzizi' : 'Mzizi',
           style: GoogleFonts.portLligatSans(
             textStyle: Theme.of(context).textTheme.display1,
             fontSize: 30,
@@ -129,7 +125,13 @@ class _WelcomePageState extends State<WelcomePage>
           ),
           children: [
             TextSpan(
-              text: 'CMS',
+              text: FlavourConfig.isBwmc()
+                  ? ' Way Ministries'
+                  : FlavourConfig.isDcik()
+                      ? ' International Kasarani'
+                      : FlavourConfig.isJcc()
+                          ? ' Church'
+                          : FlavourConfig.isMzizicms() ? 'CMS' : 'CMS',
               style: TextStyle(color: Colors.black, fontSize: 30),
             ),
             TextSpan(
@@ -151,13 +153,19 @@ class _WelcomePageState extends State<WelcomePage>
     } catch (e) {
       throw (e);
     }
+
+    await UtilityFunctions.checkConnection(context: context);
+
     return isUserLoggedIn;
   }
 
   void navigationPage() async {
     if (await _isUserLoggedIn()) {
       Navigator.pushReplacement(
-          context, MaterialPageRoute(builder: (context) => Screen(selectionIndex: 0),));
+          context,
+          MaterialPageRoute(
+            builder: (context) => Screen(selectionIndex: 0),
+          ));
     }
   }
 
@@ -201,23 +209,11 @@ class _WelcomePageState extends State<WelcomePage>
             child: Stack(
               children: <Widget>[
                 Positioned(
-                  top: 100,
-                  right: 5,
-                  left: 5,
-                  //bottom: ,
-                  child: FadeTransition(
-                    opacity: _animation,
-                    child: Container(
-                      margin: EdgeInsets.only(left: 5.0, right: 5.0, top: 0.0),
-                      child: Image(
-                        height: 200,
-                        width: 200,
-                        image: AssetImage(
-                            'assets/images/member_app_assets/church_logo_no_bg2.png'),
-                      ),
-                    ),
-                  ),
-                ),
+                    top: 100,
+                    right: 5,
+                    left: 5,
+                    //bottom: ,
+                    child: AnimateImage()),
                 Positioned(
                   top: 90,
                   right: 5,
@@ -238,7 +234,6 @@ class _WelcomePageState extends State<WelcomePage>
                             Widget returnWidget;
 
                             if (data) {
-                              
                               startTime();
                               returnWidget = Container();
                             } else {

@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Luke" num="41">
+		<marker class="begin-verse" mid="v42020001">
+		</marker>
+		<chapter num="20">
+			<heading
+				>
+				The Authority of Jesus Challenged
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="h" cid="c42020001.1">
+				</crossref>
+				<crossref cid="t42020001.1">
+				</crossref>
+				One day, 
+				<crossref let="i" cid="c42020001.2">
+				</crossref>
+				as Jesus
+				<note nid="n42020001.1">
+				</note>
+				 was teaching the people in the temple and preaching the gospel, 
+				<crossref let="j" cid="c42020001.3">
+				</crossref>
+				the chief priests and the scribes with the elders came up
+			</verse>
+			<marker class="begin-verse" mid="v42020002">
+			</marker>
+			<verse num="2">
+				and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tell us 
+				<crossref let="k" cid="c42020002.1">
+				</crossref>
+				by what authority you do these things, or who it is that gave you this authority.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42020003">
+			</marker>
+			<verse num="3">
+				He answered them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I also will ask you a question. Now tell me,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020004">
+			</marker>
+			<verse num="4" class="woc">
+				<woc
+					>
+					was the baptism of John 
+					<crossref let="l" cid="c42020004.1">
+					</crossref>
+					from heaven or from man?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020005">
+			</marker>
+			<verse num="5">
+				And they discussed it with one another, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If we say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				From heaven,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 he will say, 
+				<crossref let="m" cid="c42020005.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Why did you not believe him?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42020006">
+			</marker>
+			<verse num="6">
+				But if we say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				From man,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 all the people will stone us to death, for they are convinced that John was 
+				<crossref let="n" cid="c42020006.1">
+				</crossref>
+				a prophet.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42020007">
+			</marker>
+			<verse num="7">
+				So they answered that they did not know where it came from.
+			</verse>
+			<marker class="begin-verse" mid="v42020008">
+			</marker>
+			<verse num="8">
+				And Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Neither will I tell you by what authority I do these things.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42020009">
+			</marker>
+			<heading
+				>
+				The Parable of the Wicked Tenants
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<crossref let="o" cid="c42020009.1">
+				</crossref>
+				<crossref cid="t42020009.1">
+				</crossref>
+				And he began to tell the people this parable: 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					A man planted 
+					<crossref let="p" cid="c42020009.2">
+					</crossref>
+					a vineyard and 
+					<crossref let="q" cid="c42020009.3">
+					</crossref>
+					let it out to tenants and 
+					<crossref let="r" cid="c42020009.4">
+					</crossref>
+					went into another country for a long while.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					When the time came, he sent a servant
+					<note nid="n42020010.1">
+					</note>
+					 to the tenants, so that 
+					<crossref let="q" cid="c42020010.1">
+					</crossref>
+					they would give him some of the fruit of the vineyard. 
+					<crossref let="s" cid="c42020010.2">
+					</crossref>
+					But the tenants beat him and sent him away empty-handed.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020011">
+			</marker>
+			<verse num="11" class="woc">
+				<woc
+					>
+					<crossref let="t" cid="c42020011.1">
+					</crossref>
+					And 
+					<crossref let="s" cid="c42020011.2">
+					</crossref>
+					he sent another servant. But they also beat and 
+					<crossref let="u" cid="c42020011.3">
+					</crossref>
+					treated him shamefully, and sent him away empty-handed.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc
+					>
+					<crossref let="s" cid="c42020012.1">
+					</crossref>
+					And he sent yet a third. This one also they wounded and cast out.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020013">
+			</marker>
+			<verse num="13" class="woc">
+				<woc
+					>
+					Then the owner of the vineyard said, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					What shall I do? I will send my 
+					<crossref let="v" cid="c42020013.1">
+					</crossref>
+					beloved son; perhaps they will respect him.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020014">
+			</marker>
+			<verse num="14" class="woc">
+				<woc
+					>
+					But when the tenants saw him, they said to themselves, 
+					<crossref let="w" cid="c42020014.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					This is the heir. 
+					<crossref let="x" cid="c42020014.2">
+					</crossref>
+					Let us kill him, so that the inheritance may be ours.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020015">
+			</marker>
+			<verse num="15" class="woc">
+				<woc
+					>
+					And they 
+					<crossref let="y" cid="c42020015.1">
+					</crossref>
+					threw him out of the vineyard and killed him. What then will the owner of the vineyard do to them?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc
+					>
+					<crossref let="z" cid="c42020016.1">
+					</crossref>
+					He will 
+					<crossref let="a" cid="c42020016.2">
+					</crossref>
+					come and destroy those tenants and 
+					<crossref let="b" cid="c42020016.3">
+					</crossref>
+					give the vineyard to others.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 When they heard this, they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Surely not!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42020017">
+			</marker>
+			<verse num="17">
+				But he 
+				<crossref let="c" cid="c42020017.1">
+				</crossref>
+				looked directly at them and said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What then is this that is written:
+				</woc>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<woc
+					>
+					<crossref let="d" cid="c42020017.2">
+					</crossref>
+					<crossref cid="t42020017.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					The stone that the builders rejected
+					<end-line class="br">
+					</end-line>
+					<begin-line class="indent">
+					</begin-line>
+					has become the cornerstone
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					?
+					<note nid="n42020017.1">
+					</note>
+				</woc>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v42020018">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="18" class="woc">
+				<woc
+					>
+					<crossref let="e" cid="c42020018.1">
+					</crossref>
+					Everyone who falls on that stone will be broken to pieces, and when it falls 
+					<crossref let="f" cid="c42020018.2">
+					</crossref>
+					on anyone, it will crush him.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42020019">
+			</marker>
+			<heading
+				>
+				Paying Taxes to Caesar
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				<crossref let="h" cid="c42020019.1">
+				</crossref>
+				The scribes and the chief priests sought to lay hands on him at that very hour, for they perceived that he had told this parable against them, but they feared the people.
+			</verse>
+			<marker class="begin-verse" mid="v42020020">
+			</marker>
+			<verse num="20">
+				<crossref let="i" cid="c42020020.1">
+				</crossref>
+				<crossref cid="t42020020.1">
+				</crossref>
+				So they 
+				<crossref let="j" cid="c42020020.2">
+				</crossref>
+				watched him and sent spies, who 
+				<crossref let="k" cid="c42020020.3">
+				</crossref>
+				pretended to be sincere, that they might 
+				<crossref let="l" cid="c42020020.4">
+				</crossref>
+				catch him in something he said, so as to deliver him up to the authority and jurisdiction of 
+				<crossref let="m" cid="c42020020.5">
+				</crossref>
+				the governor.
+			</verse>
+			<marker class="begin-verse" mid="v42020021">
+			</marker>
+			<verse num="21">
+				So they asked him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Teacher, we know that you speak and teach rightly, and 
+				<crossref let="o" cid="c42020021.1">
+				</crossref>
+				show no partiality,
+				<note nid="n42020021.1">
+				</note>
+				 but truly teach 
+				<crossref let="p" cid="c42020021.2">
+				</crossref>
+				the way of God.
+			</verse>
+			<marker class="begin-verse" mid="v42020022">
+			</marker>
+			<verse num="22">
+				Is it lawful for us to give 
+				<crossref let="q" cid="c42020022.1">
+				</crossref>
+				tribute to 
+				<crossref let="r" cid="c42020022.2">
+				</crossref>
+				Caesar, or not?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42020023">
+			</marker>
+			<verse num="23">
+				But he perceived their 
+				<crossref let="s" cid="c42020023.1">
+				</crossref>
+				craftiness, and said to them,
+			</verse>
+			<marker class="begin-verse" mid="v42020024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Show me 
+					<crossref let="t" cid="c42020024.1">
+					</crossref>
+					a denarius.
+					<note nid="n42020024.1">
+					</note>
+					 Whose likeness and inscription does it have?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 They said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Caesar's.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42020025">
+			</marker>
+			<verse num="25">
+				He said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Then 
+					<crossref let="u" cid="c42020025.1">
+					</crossref>
+					render to Caesar the things that are Caesar's, and to God the things that are God's.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020026">
+			</marker>
+			<verse num="26">
+				And they were not able in the presence of the people 
+				<crossref let="v" cid="c42020026.1">
+				</crossref>
+				to catch him in what he said, but marveling at his answer they became silent.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42020027">
+			</marker>
+			<heading
+				>
+				Sadducees Ask About the Resurrection
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				There came to him 
+				<crossref let="w" cid="c42020027.1">
+				</crossref>
+				some Sadducees, 
+				<crossref let="x" cid="c42020027.2">
+				</crossref>
+				those who deny that there is a resurrection,
+			</verse>
+			<marker class="begin-verse" mid="v42020028">
+			</marker>
+			<verse num="28">
+				and they asked him a question, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Teacher, Moses wrote for us 
+				<crossref let="y" cid="c42020028.1">
+				</crossref>
+				that if a man's brother dies, having a wife but no children, the man
+				<note nid="n42020028.1">
+				</note>
+				 must take the widow and raise up offspring for his brother.
+			</verse>
+			<marker class="begin-verse" mid="v42020029">
+			</marker>
+			<verse num="29">
+				Now there were seven brothers. The first took a wife, and died without children.
+			</verse>
+			<marker class="begin-verse" mid="v42020030">
+			</marker>
+			<verse num="30">
+				And the second
+			</verse>
+			<marker class="begin-verse" mid="v42020031">
+			</marker>
+			<verse num="31">
+				and the third took her, and likewise all seven left no children and died.
+			</verse>
+			<marker class="begin-verse" mid="v42020032">
+			</marker>
+			<verse num="32">
+				Afterward the woman also died.
+			</verse>
+			<marker class="begin-verse" mid="v42020033">
+			</marker>
+			<verse num="33">
+				In the resurrection, therefore, whose wife will the woman be? For the seven had her as wife.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42020034">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="34">
+				And Jesus said to them, 
+				<woc
+					>
+					<crossref let="z" cid="c42020034.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					The sons of this age 
+					<crossref let="a" cid="c42020034.2">
+					</crossref>
+					marry and 
+					<crossref let="a" cid="c42020034.3">
+					</crossref>
+					are given in marriage,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020035">
+			</marker>
+			<verse num="35" class="woc">
+				<woc
+					>
+					but those who are 
+					<crossref let="b" cid="c42020035.1">
+					</crossref>
+					considered worthy to attain to 
+					<crossref let="c" cid="c42020035.2">
+					</crossref>
+					that age and to the resurrection from the dead 
+					<crossref let="d" cid="c42020035.3">
+					</crossref>
+					neither marry 
+					<crossref let="d" cid="c42020035.4">
+					</crossref>
+					nor are given in marriage,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020036">
+			</marker>
+			<verse num="36" class="woc">
+				<woc
+					>
+					for 
+					<crossref let="e" cid="c42020036.1">
+					</crossref>
+					they cannot die anymore, because they are 
+					<crossref let="f" cid="c42020036.2">
+					</crossref>
+					equal to angels and 
+					<crossref let="g" cid="c42020036.3">
+					</crossref>
+					are 
+					<crossref let="h" cid="c42020036.4">
+					</crossref>
+					sons of God, being 
+					<crossref let="i" cid="c42020036.5">
+					</crossref>
+					sons
+					<note nid="n42020036.1">
+					</note>
+					 of the resurrection.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020037">
+			</marker>
+			<verse num="37" class="woc">
+				<woc
+					>
+					But that the dead are raised, 
+					<crossref let="j" cid="c42020037.1">
+					</crossref>
+					even Moses showed, in 
+					<crossref let="k" cid="c42020037.2">
+					</crossref>
+					the passage about the bush, where he calls 
+					<crossref let="l" cid="c42020037.3">
+					</crossref>
+					the Lord the God of Abraham and the God of Isaac and the God of Jacob.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020038">
+			</marker>
+			<verse num="38" class="woc">
+				<woc
+					>
+					Now he is not God of the dead, but of the living, for all 
+					<crossref let="m" cid="c42020038.1">
+					</crossref>
+					live to him.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020039">
+			</marker>
+			<verse num="39">
+				Then some of the scribes 
+				<crossref let="n" cid="c42020039.1">
+				</crossref>
+				answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Teacher, you have spoken well.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42020040">
+			</marker>
+			<verse num="40">
+				For 
+				<crossref let="o" cid="c42020040.1">
+				</crossref>
+				they no longer dared to ask him any question.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42020041">
+			</marker>
+			<heading
+				>
+				Whose Son Is the Christ?
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="41">
+				<crossref let="p" cid="c42020041.1">
+				</crossref>
+				<crossref cid="t42020041.1">
+				</crossref>
+				But he said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					How can they say that 
+					<crossref let="q" cid="c42020041.2">
+					</crossref>
+					the Christ is 
+					<crossref let="q" cid="c42020041.3">
+					</crossref>
+					David's son?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020042">
+			</marker>
+			<verse num="42" class="woc">
+				<woc
+					>
+					For David himself says in the Book of Psalms,
+				</woc>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<woc
+					>
+					<crossref let="r" cid="c42020042.1">
+					</crossref>
+					<crossref cid="t42020042.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					The Lord said to my Lord,
+					<end-line class="br">
+					</end-line>
+					<begin-line
+						>
+					</begin-line>
+					Sit at my right hand,
+				</woc>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v42020043">
+			</marker>
+			<verse num="43" class="woc">
+				<begin-line class="indent">
+				</begin-line>
+				<woc
+					>
+					until I make your enemies 
+					<crossref let="s" cid="c42020043.1">
+					</crossref>
+					your footstool.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v42020044">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="44" class="woc">
+				<woc
+					>
+					David thus calls him Lord, so 
+					<crossref let="t" cid="c42020044.1">
+					</crossref>
+					how is he his son?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42020045">
+			</marker>
+			<heading
+				>
+				Beware of the Scribes
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="45">
+				<crossref let="u" cid="c42020045.1">
+				</crossref>
+				<crossref cid="t42020045.1">
+				</crossref>
+				And in the hearing of all the people he said to his disciples,
+			</verse>
+			<marker class="begin-verse" mid="v42020046">
+			</marker>
+			<verse num="46" class="woc">
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Beware of the scribes, who like to walk around in long robes, and love greetings in the marketplaces and the best seats in the synagogues and 
+					<crossref let="v" cid="c42020046.1">
+					</crossref>
+					the places of honor at feasts,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42020047">
+			</marker>
+			<verse num="47" class="woc">
+				<woc
+					>
+					<crossref let="w" cid="c42020047.1">
+					</crossref>
+					who devour widows' houses and 
+					<crossref let="x" cid="c42020047.2">
+					</crossref>
+					for a pretense make long prayers. They will receive the greater condemnation.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

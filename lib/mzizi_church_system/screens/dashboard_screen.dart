@@ -3,6 +3,11 @@ import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 import 'package:line_icons/line_icons.dart';
+import 'package:mzizichurchsystem/mzizi_bible/Feature/Reader/bible_bloc.dart';
+import 'package:mzizichurchsystem/mzizi_bible/Feature/Settings/settings_bloc.dart';
+import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/MultiPartXmlBibleProvider.dart';
+import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/ReferenceProvider.dart';
+import 'package:mzizichurchsystem/mzizi_bible/main_bible.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/google_bottom_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/database/app_database.dart';
@@ -72,29 +77,24 @@ class _DashboardScreenState extends State<DashboardScreen> {
               left: 0,
               bottom: 0,
               child: EnhancedFutureBuilder(
-                future: UtilityFunctions.checkConnection(),
+                future: UtilityFunctions.checkConnection(context: context),
                 rememberFutureResult: false,
                 whenDone: (dynamic data) {
-                  return IgnorePointer(
-                    ignoring: !data,
-                    child: AnimatedOpacity(
-                      opacity: !data ? 1 : 0,
-                      duration: Duration(milliseconds: 500),
-                      child: Container(
-                        color: Colors.red,
+                  return !data
+                      ? Container(
+                          color: Colors.red,
                           height: 35,
                           child: Center(
                             child: Text(
-                              'No internet connection. Some services wont work',
+                              'No internet connection. Some services won\'t work.',
                               textAlign: TextAlign.center,
                               style: TextStyle(
                                   color: Colors.white,
                                   fontWeight: FontWeight.bold,
                                   fontSize: 12.0),
                             ),
-                          )),
-                    ),
-                  );
+                          ))
+                      : Container();
                 },
                 whenNotDone: Container(),
               ),
@@ -113,6 +113,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                   gap: 8,
                   activeColor: Colors.white,
                   iconSize: 24,
+                  //backgroundColor: Colors.red,
                   padding: EdgeInsets.symmetric(horizontal: 20, vertical: 5),
                   duration: Duration(milliseconds: 100),
                   tabBackgroundColor: Colors.grey[800],
@@ -120,6 +121,12 @@ class _DashboardScreenState extends State<DashboardScreen> {
                     GButton(
                       icon: Icons.home,
                       text: 'Home',
+                      backgroundColor: Color(0xFF487890),
+                    ),
+                    GButton(
+                      icon: FontAwesomeIcons.comments,
+                      iconSize: 20,
+                      text: 'Chat (request service)',
                       backgroundColor: Color(0xFF487890),
                     ),
                     GButton(
@@ -147,9 +154,14 @@ class _DashboardScreenState extends State<DashboardScreen> {
                   selectedIndex:
                       widget.selectedIndex == null ? 0 : widget.selectedIndex,
                   onTabChange: (index) {
-                    setState(() {
-                      widget.selectedIndex = index;
-                    });
+                    if (index == 0) {
+                      RouteController.routeMethod(0,
+                          controller: Controller.Navigator, context: context);
+                    } else {
+                      setState(() {
+                        widget.selectedIndex = index;
+                      });
+                    }
                   }),
             ),
           ),

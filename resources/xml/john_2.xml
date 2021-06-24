@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="John" num="42">
+		<marker class="begin-verse" mid="v43002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				The Wedding at Cana
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				On 
+				<crossref let="h" cid="c43002001.1">
+				</crossref>
+				the third day there was a wedding at 
+				<crossref let="i" cid="c43002001.2">
+				</crossref>
+				Cana in Galilee, and the mother of Jesus was there.
+			</verse>
+			<marker class="begin-verse" mid="v43002002">
+			</marker>
+			<verse num="2">
+				Jesus also was invited to the wedding with 
+				<crossref let="j" cid="c43002002.1">
+				</crossref>
+				his disciples.
+			</verse>
+			<marker class="begin-verse" mid="v43002003">
+			</marker>
+			<verse num="3">
+				When the wine ran out, the mother of Jesus said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				They have no wine.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43002004">
+			</marker>
+			<verse num="4">
+				And Jesus said to her, 
+				<woc
+					>
+					<crossref let="k" cid="c43002004.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Woman, 
+					<crossref let="l" cid="c43002004.2">
+					</crossref>
+					what does this have to do with me? 
+					<crossref let="m" cid="c43002004.3">
+					</crossref>
+					My hour has not yet come.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43002005">
+			</marker>
+			<verse num="5">
+				His mother said to the servants, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do whatever he tells you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43002006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				Now there were six stone water jars there 
+				<crossref let="n" cid="c43002006.1">
+				</crossref>
+				for the Jewish rites of purification, each holding twenty or thirty 
+				<crossref let="o" cid="c43002006.2">
+				</crossref>
+				gallons.
+				<note nid="n43002006.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v43002007">
+			</marker>
+			<verse num="7">
+				Jesus said to the servants, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Fill the jars with water.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And they filled them up to the brim.
+			</verse>
+			<marker class="begin-verse" mid="v43002008">
+			</marker>
+			<verse num="8">
+				And he said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Now draw some out and take it to the master of the feast.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 So they took it.
+			</verse>
+			<marker class="begin-verse" mid="v43002009">
+			</marker>
+			<verse num="9">
+				When the master of the feast tasted 
+				<crossref let="p" cid="c43002009.1">
+				</crossref>
+				the water now become wine, and did not know where it came from (though the servants who had drawn the water knew), the master of the feast called the bridegroom
+			</verse>
+			<marker class="begin-verse" mid="v43002010">
+			</marker>
+			<verse num="10">
+				and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Everyone serves the good wine first, and when people have drunk freely, then the poor wine. But you have kept the good wine until now.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43002011">
+			</marker>
+			<verse num="11">
+				This, the first of his signs, Jesus did at Cana in Galilee, and manifested 
+				<crossref let="q" cid="c43002011.1">
+				</crossref>
+				his glory. And 
+				<crossref let="r" cid="c43002011.2">
+				</crossref>
+				his disciples believed in him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43002012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				After this he went down to Capernaum, with his mother and 
+				<crossref let="s" cid="c43002012.1">
+				</crossref>
+				his brothers
+				<note nid="n43002012.1">
+				</note>
+				 and his disciples, and they stayed there for a few days.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43002013">
+			</marker>
+			<heading
+				>
+				Jesus Cleanses the Temple
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				<crossref let="t" cid="c43002013.1">
+				</crossref>
+				The Passover of the Jews was at hand, and Jesus 
+				<crossref let="u" cid="c43002013.2">
+				</crossref>
+				went up to Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v43002014">
+			</marker>
+			<verse num="14">
+				<crossref let="v" cid="c43002014.1">
+				</crossref>
+				In the temple he found those who were selling oxen and sheep and pigeons, and the money-changers sitting there.
+			</verse>
+			<marker class="begin-verse" mid="v43002015">
+			</marker>
+			<verse num="15">
+				And making a whip of cords, he drove them all out of the temple, with the sheep and oxen. And he poured out the coins of the money-changers and overturned their tables.
+			</verse>
+			<marker class="begin-verse" mid="v43002016">
+			</marker>
+			<verse num="16">
+				And he told those who sold the pigeons, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Take these things away; do not make 
+					<crossref let="w" cid="c43002016.1">
+					</crossref>
+					my Father's house a house of trade.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43002017">
+			</marker>
+			<verse num="17">
+				His disciples remembered that it was written, 
+				<crossref let="x" cid="c43002017.1">
+				</crossref>
+				<crossref cid="t43002017.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Zeal for your house will consume me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43002018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				So the Jews said to him, 
+				<crossref let="y" cid="c43002018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What sign do you show us for doing these things?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43002019">
+			</marker>
+			<verse num="19">
+				Jesus answered them, 
+				<woc
+					>
+					<crossref let="z" cid="c43002019.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Destroy this temple, and in three days 
+					<crossref let="a" cid="c43002019.2">
+					</crossref>
+					I will raise it up.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43002020">
+			</marker>
+			<verse num="20">
+				The Jews then said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It has taken forty-six years to build this temple, and will you raise it up in three days?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43002021">
+			</marker>
+			<verse num="21">
+				But he was speaking about 
+				<crossref let="b" cid="c43002021.1">
+				</crossref>
+				the temple of his body.
+			</verse>
+			<marker class="begin-verse" mid="v43002022">
+			</marker>
+			<verse num="22">
+				When therefore he was raised from the dead, 
+				<crossref let="c" cid="c43002022.1">
+				</crossref>
+				his disciples remembered that he had said this, and they believed 
+				<crossref let="d" cid="c43002022.2">
+				</crossref>
+				the Scripture and the word that Jesus had spoken.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43002023">
+			</marker>
+			<heading
+				>
+				Jesus Knows What Is in Man
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="23">
+				Now when he was in Jerusalem at the Passover Feast, many believed in his name 
+				<crossref let="e" cid="c43002023.1">
+				</crossref>
+				when they saw the signs that he was doing.
+			</verse>
+			<marker class="begin-verse" mid="v43002024">
+			</marker>
+			<verse num="24">
+				But Jesus 
+				<crossref let="f" cid="c43002024.1">
+				</crossref>
+				on his part did not entrust himself to them, because 
+				<crossref let="g" cid="c43002024.2">
+				</crossref>
+				he knew all people
+			</verse>
+			<marker class="begin-verse" mid="v43002025">
+			</marker>
+			<verse num="25">
+				and needed no one to bear witness about man, for 
+				<crossref let="g" cid="c43002025.1">
+				</crossref>
+				he himself knew what was in man.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

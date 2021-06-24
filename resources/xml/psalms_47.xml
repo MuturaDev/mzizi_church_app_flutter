@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19047001">
+		</marker>
+		<chapter num="47">
+			<heading
+				>
+				God Is King over All the Earth
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Psalm of 
+				<crossref let="w" cid="c19047001.1">
+				</crossref>
+				the Sons of Korah.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19047001.2">
+				</crossref>
+				Clap your hands, all peoples!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="y" cid="c19047001.3">
+				</crossref>
+				Shout to God with loud songs of joy!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19047002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the Most High, 
+				<crossref let="z" cid="c19047002.1">
+				</crossref>
+				is to be feared,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c19047002.2">
+				</crossref>
+				a great king over all the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19047003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="b" cid="c19047003.1">
+				</crossref>
+				subdued peoples under us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and nations under our feet.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19047004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				He chose our 
+				<crossref let="c" cid="c19047004.1">
+				</crossref>
+				heritage for us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="d" cid="c19047004.2">
+				</crossref>
+				the pride of Jacob whom he loves. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19047005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				God 
+				<crossref let="e" cid="c19047005.1">
+				</crossref>
+				has gone up with a shout,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with the sound of a trumpet.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19047006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Sing praises to God, sing praises!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Sing praises to our King, sing praises!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19047007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				For God is 
+				<crossref let="f" cid="c19047007.1">
+				</crossref>
+				the King of all the earth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				sing praises 
+				<crossref let="g" cid="c19047007.2">
+				</crossref>
+				with a psalm!
+				<note nid="n19047007.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19047008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				God 
+				<crossref let="h" cid="c19047008.1">
+				</crossref>
+				reigns over the nations;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				God sits on his holy throne.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19047009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19047009.1">
+				</crossref>
+				The princes of the peoples gather
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as the people of the God of Abraham.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="j" cid="c19047009.2">
+				</crossref>
+				the shields of the earth belong to God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he is highly exalted!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

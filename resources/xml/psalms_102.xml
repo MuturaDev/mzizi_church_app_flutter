@@ -1,0 +1,705 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19102001">
+		</marker>
+		<chapter num="102">
+			<heading
+				>
+				Do Not Hide Your Face from Me
+			</heading>
+			<subheading class="psalm-title">
+				A Prayer of one afflicted, when he is 
+				<crossref let="x" cid="c19102001.1">
+				</crossref>
+				faint and 
+				<crossref let="y" cid="c19102001.2">
+				</crossref>
+				pours out his complaint before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c19102001.3">
+				</crossref>
+				Hear my prayer, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				let my cry 
+				<crossref let="a" cid="c19102001.4">
+				</crossref>
+				come to you!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c19102002.1">
+				</crossref>
+				Do not hide your face from me
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in 
+				<crossref let="c" cid="c19102002.2">
+				</crossref>
+				the day of my distress!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c19102002.3">
+				</crossref>
+				Incline your ear to me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="e" cid="c19102002.4">
+				</crossref>
+				answer me speedily 
+				<crossref let="f" cid="c19102002.5">
+				</crossref>
+				in the day when I call!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19102003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				For my days 
+				<crossref let="g" cid="c19102003.1">
+				</crossref>
+				pass away like smoke,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my 
+				<crossref let="h" cid="c19102003.2">
+				</crossref>
+				bones burn like a furnace.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				My heart is 
+				<crossref let="i" cid="c19102004.1">
+				</crossref>
+				struck down like grass and 
+				<crossref let="j" cid="c19102004.2">
+				</crossref>
+				has withered;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I 
+				<crossref let="k" cid="c19102004.3">
+				</crossref>
+				forget to eat my bread.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Because of my loud groaning
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my 
+				<crossref let="l" cid="c19102005.1">
+				</crossref>
+				bones cling to my flesh.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				I am like 
+				<crossref let="m" cid="c19102006.1">
+				</crossref>
+				a desert owl of the wilderness,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				like an owl
+				<note nid="n19102006.1">
+				</note>
+				 of the waste places;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="n" cid="c19102007.1">
+				</crossref>
+				lie awake;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I am like a lonely sparrow on the housetop.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				All the day my enemies taunt me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				those who 
+				<crossref let="o" cid="c19102008.1">
+				</crossref>
+				deride me 
+				<crossref let="p" cid="c19102008.2">
+				</crossref>
+				use my name for a curse.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				For I eat ashes like bread
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="q" cid="c19102009.1">
+				</crossref>
+				mingle tears with my drink,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				because of your indignation and anger;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for you have 
+				<crossref let="r" cid="c19102010.1">
+				</crossref>
+				taken me up and 
+				<crossref let="s" cid="c19102010.2">
+				</crossref>
+				thrown me down.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				My days are like 
+				<crossref let="t" cid="c19102011.1">
+				</crossref>
+				an evening shadow;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I 
+				<crossref let="j" cid="c19102011.2">
+				</crossref>
+				wither away like grass.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19102012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				But you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, are 
+				<crossref let="u" cid="c19102012.1">
+				</crossref>
+				enthroned forever;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="v" cid="c19102012.2">
+				</crossref>
+				are remembered throughout all generations.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				You will 
+				<crossref let="w" cid="c19102013.1">
+				</crossref>
+				arise and have 
+				<crossref let="x" cid="c19102013.2">
+				</crossref>
+				pity on Zion;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it is the time to favor her;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="y" cid="c19102013.3">
+				</crossref>
+				the appointed time has come.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				For your servants hold her 
+				<crossref let="z" cid="c19102014.1">
+				</crossref>
+				stones dear
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and have pity on her dust.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				Nations will 
+				<crossref let="a" cid="c19102015.1">
+				</crossref>
+				fear the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all 
+				<crossref let="b" cid="c19102015.2">
+				</crossref>
+				the kings of the earth will fear your glory.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="c" cid="c19102016.1">
+				</crossref>
+				builds up Zion;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="d" cid="c19102016.2">
+				</crossref>
+				appears in his glory;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				he 
+				<crossref let="e" cid="c19102017.1">
+				</crossref>
+				regards the prayer of the destitute
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and does not despise their prayer.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19102018">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				Let this be 
+				<crossref let="f" cid="c19102018.1">
+				</crossref>
+				recorded for 
+				<crossref let="g" cid="c19102018.2">
+				</crossref>
+				a generation to come,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so that 
+				<crossref let="h" cid="c19102018.3">
+				</crossref>
+				a people yet to be created may praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				that he 
+				<crossref let="i" cid="c19102019.1">
+				</crossref>
+				looked down from his holy height;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from heaven the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 looked at the earth,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				to hear 
+				<crossref let="j" cid="c19102020.1">
+				</crossref>
+				the groans of the prisoners,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to set free 
+				<crossref let="k" cid="c19102020.2">
+				</crossref>
+				those who were doomed to die,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				that they may 
+				<crossref let="l" cid="c19102021.1">
+				</crossref>
+				declare in Zion the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and in Jerusalem his praise,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				when 
+				<crossref let="m" cid="c19102022.1">
+				</crossref>
+				peoples gather together,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and kingdoms, to worship the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19102023">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				He has broken my strength in midcourse;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="n" cid="c19102023.1">
+				</crossref>
+				has shortened my days.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O my God,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<crossref let="o" cid="c19102024.1">
+				</crossref>
+				I say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				take me not away
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the midst of my daysù
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19102024.2">
+				</crossref>
+				you whose years endure
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				throughout all generations!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19102025">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c19102025.1">
+				</crossref>
+				Of old you laid the foundation of the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="r" cid="c19102025.2">
+				</crossref>
+				the heavens are the work of your hands.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19102026.1">
+				</crossref>
+				They will perish, but 
+				<crossref let="t" cid="c19102026.2">
+				</crossref>
+				you will remain;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they will all wear out like a garment.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				You will change them like a robe, and they will pass away,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102027">
+			</marker>
+			<verse num="27">
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="u" cid="c19102027.1">
+				</crossref>
+				you are the same, and your years have no end.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19102028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c19102028.1">
+				</crossref>
+				The children of your servants 
+				<crossref let="w" cid="c19102028.2">
+				</crossref>
+				shall dwell secure;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c19102028.3">
+				</crossref>
+				their offspring shall be established before you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

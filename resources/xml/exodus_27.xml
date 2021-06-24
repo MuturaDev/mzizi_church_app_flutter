@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02027001">
+		</marker>
+		<chapter num="27">
+			<heading
+				>
+				The Bronze Altar
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall make the 
+				<crossref let="n" cid="c02027001.1">
+				</crossref>
+				altar of acacia wood, five cubits
+				<note nid="n02027001.1">
+				</note>
+				 long and five cubits broad. The altar shall be square, and its height shall be three cubits.
+			</verse>
+			<marker class="begin-verse" mid="v02027002">
+			</marker>
+			<verse num="2">
+				And you shall make 
+				<crossref let="o" cid="c02027002.1">
+				</crossref>
+				horns for it on its four corners; its horns shall be of one piece with it, and 
+				<crossref let="p" cid="c02027002.2">
+				</crossref>
+				you shall overlay it with bronze.
+			</verse>
+			<marker class="begin-verse" mid="v02027003">
+			</marker>
+			<verse num="3">
+				You shall make pots for it to receive its ashes, and shovels and basins and 
+				<crossref let="q" cid="c02027003.1">
+				</crossref>
+				forks and fire pans. You shall make all its utensils of bronze.
+			</verse>
+			<marker class="begin-verse" mid="v02027004">
+			</marker>
+			<verse num="4">
+				You shall also make for it a grating, a network of bronze, and on the net you shall make four bronze rings at its four corners.
+			</verse>
+			<marker class="begin-verse" mid="v02027005">
+			</marker>
+			<verse num="5">
+				And you shall set it under the ledge of the altar so that the net extends halfway down the altar.
+			</verse>
+			<marker class="begin-verse" mid="v02027006">
+			</marker>
+			<verse num="6">
+				And you shall make poles for the altar, poles of acacia wood, and overlay them with bronze.
+			</verse>
+			<marker class="begin-verse" mid="v02027007">
+			</marker>
+			<verse num="7">
+				And the poles shall be put through the rings, so that the poles are on the two sides of the altar when it is carried.
+			</verse>
+			<marker class="begin-verse" mid="v02027008">
+			</marker>
+			<verse num="8">
+				You shall make it hollow, with boards. 
+				<crossref let="r" cid="c02027008.1">
+				</crossref>
+				As it has been shown you on the mountain, so shall it be made.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02027009">
+			</marker>
+			<heading
+				>
+				The Court of the Tabernacle
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				<crossref let="s" cid="c02027009.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall make the court of the tabernacle. On the south side the court shall have hangings of fine twined linen a hundred cubits long for one side.
+			</verse>
+			<marker class="begin-verse" mid="v02027010">
+			</marker>
+			<verse num="10">
+				Its twenty pillars and their twenty bases shall be of bronze, but the hooks of the pillars and their fillets shall be of silver.
+			</verse>
+			<marker class="begin-verse" mid="v02027011">
+			</marker>
+			<verse num="11">
+				And likewise for its length on the north side there shall be hangings a hundred cubits long, its pillars twenty and their bases twenty, of bronze, but the hooks of the pillars and their fillets shall be of silver.
+			</verse>
+			<marker class="begin-verse" mid="v02027012">
+			</marker>
+			<verse num="12">
+				And for the breadth of the court on the west side there shall be hangings for fifty cubits, with ten pillars and ten bases.
+			</verse>
+			<marker class="begin-verse" mid="v02027013">
+			</marker>
+			<verse num="13">
+				The breadth of the court on the front to the east shall be fifty cubits.
+			</verse>
+			<marker class="begin-verse" mid="v02027014">
+			</marker>
+			<verse num="14">
+				The hangings for the one side of the gate shall be fifteen cubits, with their three pillars and three bases.
+			</verse>
+			<marker class="begin-verse" mid="v02027015">
+			</marker>
+			<verse num="15">
+				On the other side the hangings shall be fifteen cubits, with their three pillars and three bases.
+			</verse>
+			<marker class="begin-verse" mid="v02027016">
+			</marker>
+			<verse num="16">
+				For the gate of the court there shall be 
+				<crossref let="t" cid="c02027016.1">
+				</crossref>
+				a screen twenty cubits long, of blue and purple and scarlet yarns and fine twined linen, embroidered with needlework. It shall have four pillars and with them four bases.
+			</verse>
+			<marker class="begin-verse" mid="v02027017">
+			</marker>
+			<verse num="17">
+				All the pillars around the court shall be filleted with silver. Their hooks shall be of silver, and their bases of bronze.
+			</verse>
+			<marker class="begin-verse" mid="v02027018">
+			</marker>
+			<verse num="18">
+				The length of the court shall be a hundred cubits, the breadth fifty, and the height five cubits, with hangings of fine twined linen and bases of bronze.
+			</verse>
+			<marker class="begin-verse" mid="v02027019">
+			</marker>
+			<verse num="19">
+				All the utensils of the tabernacle for every use, and all its pegs and all the pegs of the court, shall be of bronze.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02027020">
+			</marker>
+			<heading
+				>
+				Oil for the Lamp
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				<crossref let="u" cid="c02027020.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall command the people of Israel that they bring to you pure beaten olive oil for the light, that a lamp may regularly be set up to burn.
+			</verse>
+			<marker class="begin-verse" mid="v02027021">
+			</marker>
+			<verse num="21">
+				<crossref let="v" cid="c02027021.1">
+				</crossref>
+				In the tent of meeting, 
+				<crossref let="w" cid="c02027021.2">
+				</crossref>
+				outside the veil that is before the testimony, Aaron and his sons shall tend it from evening to morning before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. It shall be a statute forever to be observed throughout their generations by the people of Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

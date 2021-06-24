@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Ruth" num="7">
+		<marker class="begin-verse" mid="v08002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				Ruth Meets Boaz
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now Naomi had 
+				<crossref let="t" cid="c08002001.1">
+				</crossref>
+				a relative of her husband's, a worthy man of the clan of Elimelech, whose name was 
+				<crossref let="u" cid="c08002001.2">
+				</crossref>
+				Boaz.
+			</verse>
+			<marker class="begin-verse" mid="v08002002">
+			</marker>
+			<verse num="2">
+				And Ruth the Moabite said to Naomi, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let me go to the field and 
+				<crossref let="v" cid="c08002002.1">
+				</crossref>
+				glean among the ears of grain after him 
+				<crossref let="w" cid="c08002002.2">
+				</crossref>
+				in whose sight I shall find favor.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And she said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go, my daughter.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v08002003">
+			</marker>
+			<verse num="3">
+				So she set out and went and gleaned in the field after the reapers, and she happened to come to the part of the field belonging to Boaz, who was of the clan of Elimelech.
+			</verse>
+			<marker class="begin-verse" mid="v08002004">
+			</marker>
+			<verse num="4">
+				And behold, Boaz came from Bethlehem. And he said to the reapers, 
+				<crossref let="x" cid="c08002004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 be with you!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And they answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 bless you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v08002005">
+			</marker>
+			<verse num="5">
+				Then Boaz said to his young man who was in charge of the reapers, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whose young woman is this?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v08002006">
+			</marker>
+			<verse num="6">
+				And the servant who was in charge of the reapers answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				She is the young Moabite woman, 
+				<crossref let="y" cid="c08002006.1">
+				</crossref>
+				who came back with Naomi from the country of Moab.
+			</verse>
+			<marker class="begin-verse" mid="v08002007">
+			</marker>
+			<verse num="7">
+				She said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Please let me glean and gather among the sheaves after the reapers.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 So she came, and she has continued from early morning until now, except for a short rest.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n08002007.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v08002008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Then Boaz said to Ruth, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Now, listen, my daughter, do not go to glean in another field or leave this one, but keep close to my young women.
+			</verse>
+			<marker class="begin-verse" mid="v08002009">
+			</marker>
+			<verse num="9">
+				Let your eyes be on the field that they are reaping, and go after them. Have I not charged the young men not to touch you? And when you are thirsty, go to the vessels and drink what the young men have drawn.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v08002010">
+			</marker>
+			<verse num="10">
+				Then 
+				<crossref let="z" cid="c08002010.1">
+				</crossref>
+				she fell on her face, bowing to the ground, and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have I found favor in your eyes, that you should 
+				<crossref let="a" cid="c08002010.2">
+				</crossref>
+				take notice of me, since I am a foreigner?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v08002011">
+			</marker>
+			<verse num="11">
+				But Boaz answered her, 
+				<crossref let="b" cid="c08002011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				All that you have done for your mother-in-law since the death of your husband has been fully told to me, and how you left your father and mother and your native land and came to a people that you did not know before.
+			</verse>
+			<marker class="begin-verse" mid="v08002012">
+			</marker>
+			<verse num="12">
+				<crossref let="c" cid="c08002012.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 repay you for what you have done, and a full reward be given you by the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel, under whose wings you have come to take refuge!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v08002013">
+			</marker>
+			<verse num="13">
+				Then she said, 
+				<crossref let="d" cid="c08002013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have found favor in your eyes, my lord, for you have comforted me and spoken kindly to your servant, though I am not one of your servants.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v08002014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				And at mealtime Boaz said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come here and eat some bread and dip your morsel in the wine.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So she sat beside the reapers, and he passed to her roasted grain. And she ate until 
+				<crossref let="e" cid="c08002014.1">
+				</crossref>
+				she was satisfied, and she had some left over.
+			</verse>
+			<marker class="begin-verse" mid="v08002015">
+			</marker>
+			<verse num="15">
+				When she rose to glean, Boaz instructed his young men, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let her glean even among the sheaves, and do not reproach her.
+			</verse>
+			<marker class="begin-verse" mid="v08002016">
+			</marker>
+			<verse num="16">
+				And also pull out some from the bundles for her and leave it for her to glean, and do not rebuke her.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v08002017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				So she gleaned in the field until evening. Then she beat out what she had gleaned, and it was about an ephah
+				<note nid="n08002017.1">
+				</note>
+				 of barley.
+			</verse>
+			<marker class="begin-verse" mid="v08002018">
+			</marker>
+			<verse num="18">
+				And she took it up and went into the city. Her mother-in-law saw what she had gleaned. She also brought out and gave her what food she had left over 
+				<crossref let="f" cid="c08002018.1">
+				</crossref>
+				after being satisfied.
+			</verse>
+			<marker class="begin-verse" mid="v08002019">
+			</marker>
+			<verse num="19">
+				And her mother-in-law said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where did you glean today? And where have you worked? Blessed be the man 
+				<crossref let="g" cid="c08002019.1">
+				</crossref>
+				who took notice of you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So she told her mother-in-law with whom she had worked and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The man's name with whom I worked today is Boaz.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v08002020">
+			</marker>
+			<verse num="20">
+				And Naomi said to her daughter-in-law, 
+				<crossref let="h" cid="c08002020.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				May he be blessed by the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, whose kindness has not forsaken 
+				<crossref let="i" cid="c08002020.2">
+				</crossref>
+				the living or the dead!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Naomi also said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The man is a close relative of ours, one of 
+				<crossref let="j" cid="c08002020.3">
+				</crossref>
+				our redeemers.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v08002021">
+			</marker>
+			<verse num="21">
+				And Ruth the Moabite said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Besides, he said to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You shall keep close by my young men until they have finished all my harvest.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v08002022">
+			</marker>
+			<verse num="22">
+				And Naomi said to Ruth, her daughter-in-law, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is good, my daughter, that you go out with his young women, lest in another field you be assaulted.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v08002023">
+			</marker>
+			<verse num="23">
+				So she kept close to the young women of Boaz, gleaning until the end of the barley and wheat harvests. And she lived with her mother-in-law.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

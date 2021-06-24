@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19004001">
+		</marker>
+		<chapter num="4">
+			<heading
+				>
+				Answer Me When I Call
+			</heading>
+			<subheading class="psalm-title">
+				To the 
+				<crossref let="e" cid="c19004001.1">
+				</crossref>
+				choirmaster: with 
+				<crossref let="e" cid="c19004001.2">
+				</crossref>
+				stringed instruments. A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Answer me when I call, O God of my 
+				<crossref let="f" cid="c19004001.3">
+				</crossref>
+				righteousness!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				You have 
+				<crossref let="g" cid="c19004001.4">
+				</crossref>
+				given me relief when I was in distress.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Be gracious to me and hear my prayer!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19004002">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				O men,
+				<note nid="n19004002.1">
+				</note>
+				 how long shall my honor be turned into shame?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				How long will you love vain words and seek after 
+				<crossref let="h" cid="c19004002.1">
+				</crossref>
+				lies? 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19004003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				But know that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has 
+				<crossref let="i" cid="c19004003.1">
+				</crossref>
+				set apart 
+				<crossref let="j" cid="c19004003.2">
+				</crossref>
+				the godly for himself;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 hears when I call to him.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19004004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c19004004.1">
+				</crossref>
+				Be angry,
+				<note nid="n19004004.1">
+				</note>
+				 and do not sin;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="l" cid="c19004004.2">
+				</crossref>
+				ponder in your own hearts 
+				<crossref let="m" cid="c19004004.3">
+				</crossref>
+				on your beds, and be silent. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19004005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Offer 
+				<crossref let="n" cid="c19004005.1">
+				</crossref>
+				right sacrifices,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and put your 
+				<crossref let="o" cid="c19004005.2">
+				</crossref>
+				trust in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19004006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				There are many who say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who will show us some good?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="p" cid="c19004006.1">
+				</crossref>
+				Lift up 
+				<crossref let="q" cid="c19004006.2">
+				</crossref>
+				the light of your face upon us, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19004007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				You have put 
+				<crossref let="r" cid="c19004007.1">
+				</crossref>
+				more joy in my heart
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				than they have when their grain and wine abound.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19004008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				In peace I will both 
+				<crossref let="s" cid="c19004008.1">
+				</crossref>
+				lie down and sleep;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for you alone, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, make me 
+				<crossref let="t" cid="c19004008.2">
+				</crossref>
+				dwell in safety.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

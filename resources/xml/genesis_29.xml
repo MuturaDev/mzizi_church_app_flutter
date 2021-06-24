@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01029001">
+		</marker>
+		<chapter num="29">
+			<heading
+				>
+				Jacob Marries Leah and Rachel
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Then Jacob went on his journey and came to 
+				<crossref let="k" cid="c01029001.1">
+				</crossref>
+				the land of the people of the east.
+			</verse>
+			<marker class="begin-verse" mid="v01029002">
+			</marker>
+			<verse num="2">
+				As he looked, he saw a well in the field, and behold, three flocks of sheep lying beside it, for out of that well the flocks were watered. The stone on the well's mouth was large,
+			</verse>
+			<marker class="begin-verse" mid="v01029003">
+			</marker>
+			<verse num="3">
+				and when all the flocks were gathered there, the shepherds would roll the stone from the mouth of the well and water the sheep, and put the stone back in its place over the mouth of the well.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01029004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				Jacob said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My brothers, where do you come from?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 They said, 
+				<crossref let="l" cid="c01029004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We are from Haran.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01029005">
+			</marker>
+			<verse num="5">
+				He said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do you know Laban the son of Nahor?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 They said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We know him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01029006">
+			</marker>
+			<verse num="6">
+				He said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is it well with him?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 They said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is well; and see, Rachel his daughter is coming with the sheep!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01029007">
+			</marker>
+			<verse num="7">
+				He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, it is still high day; it is not time for the livestock to be gathered together. Water the sheep and go, pasture them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01029008">
+			</marker>
+			<verse num="8">
+				But they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We cannot until all the flocks are gathered together and the stone is rolled from the mouth of the well; then we water the sheep.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01029009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				While he was still speaking with them, 
+				<crossref let="m" cid="c01029009.1">
+				</crossref>
+				Rachel came with her father's sheep, for she was a shepherdess.
+			</verse>
+			<marker class="begin-verse" mid="v01029010">
+			</marker>
+			<verse num="10">
+				Now as soon as Jacob saw Rachel the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, Jacob came near and rolled the stone from the well's mouth and watered the flock of Laban his mother's brother.
+			</verse>
+			<marker class="begin-verse" mid="v01029011">
+			</marker>
+			<verse num="11">
+				Then Jacob kissed Rachel and wept aloud.
+			</verse>
+			<marker class="begin-verse" mid="v01029012">
+			</marker>
+			<verse num="12">
+				And Jacob told Rachel that he was 
+				<crossref let="n" cid="c01029012.1">
+				</crossref>
+				her father's kinsman, and that he was Rebekah's son, 
+				<crossref let="o" cid="c01029012.2">
+				</crossref>
+				and she ran and told her father.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01029013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				As soon as Laban heard the news about Jacob, his sister's son, 
+				<crossref let="o" cid="c01029013.1">
+				</crossref>
+				he ran to meet him and embraced him and kissed him and brought him to his house. Jacob told Laban all these things,
+			</verse>
+			<marker class="begin-verse" mid="v01029014">
+			</marker>
+			<verse num="14">
+				and Laban said to him, 
+				<crossref let="p" cid="c01029014.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Surely you are my bone and my flesh!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he stayed with him a month.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01029015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				Then Laban said to Jacob, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because you are my kinsman, should you therefore serve me for nothing? Tell me, what shall your wages be?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01029016">
+			</marker>
+			<verse num="16">
+				Now Laban had two daughters. The name of the older was Leah, and the name of the younger was Rachel.
+			</verse>
+			<marker class="begin-verse" mid="v01029017">
+			</marker>
+			<verse num="17">
+				Leah's eyes were weak,
+				<note nid="n01029017.1">
+				</note>
+				 but Rachel was beautiful in form and appearance.
+			</verse>
+			<marker class="begin-verse" mid="v01029018">
+			</marker>
+			<verse num="18">
+				Jacob loved Rachel. And he said, 
+				<crossref let="q" cid="c01029018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will serve you seven years for your younger daughter Rachel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01029019">
+			</marker>
+			<verse num="19">
+				Laban said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is better that I give her to you than that I should give her to any other man; stay with me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01029020">
+			</marker>
+			<verse num="20">
+				So Jacob 
+				<crossref let="q" cid="c01029020.1">
+				</crossref>
+				served seven years for Rachel, and they seemed to him but a few days because of the love he had for her.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01029021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				Then Jacob said to Laban, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give me my wife that I may go in to her, for my time is completed.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01029022">
+			</marker>
+			<verse num="22">
+				So Laban gathered together all the people of the place and 
+				<crossref let="r" cid="c01029022.1">
+				</crossref>
+				made a feast.
+			</verse>
+			<marker class="begin-verse" mid="v01029023">
+			</marker>
+			<verse num="23">
+				But in the evening he took his daughter Leah and brought her to Jacob, and he went in to her.
+			</verse>
+			<marker class="begin-verse" mid="v01029024">
+			</marker>
+			<verse num="24">
+				(Laban gave
+				<note nid="n01029024.1">
+				</note>
+				<crossref let="s" cid="c01029024.1">
+				</crossref>
+				his female servant Zilpah to his daughter Leah to be her servant.)
+			</verse>
+			<marker class="begin-verse" mid="v01029025">
+			</marker>
+			<verse num="25">
+				And in the morning, behold, it was Leah! And Jacob said to Laban, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is this you have done to me? Did I not serve with you for Rachel? Why then have you deceived me?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01029026">
+			</marker>
+			<verse num="26">
+				Laban said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is not so done in our country, to give the younger before the firstborn.
+			</verse>
+			<marker class="begin-verse" mid="v01029027">
+			</marker>
+			<verse num="27">
+				<crossref let="t" cid="c01029027.1">
+				</crossref>
+				Complete the week of this one, and we will give you the other also in return for serving me another seven years.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01029028">
+			</marker>
+			<verse num="28">
+				Jacob did so, and completed her week. Then Laban gave him his daughter Rachel to be his wife.
+			</verse>
+			<marker class="begin-verse" mid="v01029029">
+			</marker>
+			<verse num="29">
+				(Laban gave 
+				<crossref let="u" cid="c01029029.1">
+				</crossref>
+				his female servant Bilhah to his daughter Rachel to be her servant.)
+			</verse>
+			<marker class="begin-verse" mid="v01029030">
+			</marker>
+			<verse num="30">
+				So Jacob went in to Rachel also, and he loved Rachel more than Leah, and served Laban 
+				<crossref let="v" cid="c01029030.1">
+				</crossref>
+				for another seven years.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01029031">
+			</marker>
+			<heading
+				>
+				Jacob's Children
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				When the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 saw that Leah was 
+				<crossref let="w" cid="c01029031.1">
+				</crossref>
+				hated, 
+				<crossref let="x" cid="c01029031.2">
+				</crossref>
+				he opened her womb, but Rachel was barren.
+			</verse>
+			<marker class="begin-verse" mid="v01029032">
+			</marker>
+			<verse num="32">
+				And Leah conceived and bore a son, and she called his name Reuben,
+				<note nid="n01029032.1">
+				</note>
+				 for she said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="y" cid="c01029032.1">
+				</crossref>
+				has looked upon my affliction; for now my husband will love me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01029033">
+			</marker>
+			<verse num="33">
+				She conceived again and bore a son, and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has heard that I am hated, he has given me this son also.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And she called his name Simeon.
+				<note nid="n01029033.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01029034">
+			</marker>
+			<verse num="34">
+				Again she conceived and bore a son, and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Now this time my husband will be 
+				<crossref let="z" cid="c01029034.1">
+				</crossref>
+				attached to me, because I have borne him three sons.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Therefore his name was called Levi.
+				<note nid="n01029034.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01029035">
+			</marker>
+			<verse num="35">
+				And she conceived again and bore a son, and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This time I will praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Therefore she called his name 
+				<crossref let="a" cid="c01029035.1">
+				</crossref>
+				Judah.
+				<note nid="n01029035.1">
+				</note>
+				 Then she ceased bearing.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

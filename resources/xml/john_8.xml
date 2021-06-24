@@ -1,0 +1,959 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="John" num="42">
+		<marker class="begin-verse" mid="v43008001">
+		</marker>
+		<chapter num="8">
+			<verse num="1">
+				but Jesus went to the Mount of Olives.
+			</verse>
+			<marker class="begin-verse" mid="v43008002">
+			</marker>
+			<verse num="2">
+				<crossref let="b" cid="c43008002.1">
+				</crossref>
+				Early in the morning he came again to the temple. All the people came to him, and 
+				<crossref let="c" cid="c43008002.2">
+				</crossref>
+				he sat down and taught them.
+			</verse>
+			<marker class="begin-verse" mid="v43008003">
+			</marker>
+			<verse num="3">
+				The scribes and the Pharisees brought a woman who had been caught in adultery, and placing her in the midst
+			</verse>
+			<marker class="begin-verse" mid="v43008004">
+			</marker>
+			<verse num="4">
+				they said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Teacher, this woman has been caught in the act of adultery.
+			</verse>
+			<marker class="begin-verse" mid="v43008005">
+			</marker>
+			<verse num="5">
+				Now 
+				<crossref let="d" cid="c43008005.1">
+				</crossref>
+				in the Law Moses commanded us 
+				<crossref let="e" cid="c43008005.2">
+				</crossref>
+				to stone such women. So what do you say?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43008006">
+			</marker>
+			<verse num="6">
+				This they said 
+				<crossref let="f" cid="c43008006.1">
+				</crossref>
+				to test him, 
+				<crossref let="g" cid="c43008006.2">
+				</crossref>
+				that they might have some charge to bring against him. Jesus bent down and wrote with his finger on the ground.
+			</verse>
+			<marker class="begin-verse" mid="v43008007">
+			</marker>
+			<verse num="7">
+				And as they continued to ask him, he stood up and said to them, 
+				<woc
+					>
+					<crossref let="h" cid="c43008007.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Let him who is without sin among you 
+					<crossref let="i" cid="c43008007.2">
+					</crossref>
+					be the first to throw a stone at her.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008008">
+			</marker>
+			<verse num="8">
+				And once more he bent down and wrote on the ground.
+			</verse>
+			<marker class="begin-verse" mid="v43008009">
+			</marker>
+			<verse num="9">
+				But when they heard it, they went away one by one, beginning with the older ones, and Jesus was left alone with the woman standing before him.
+			</verse>
+			<marker class="begin-verse" mid="v43008010">
+			</marker>
+			<verse num="10">
+				Jesus stood up and said to her, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Woman, where are they? Has no one condemned you?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008011">
+			</marker>
+			<verse num="11">
+				She said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No one, Lord.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Jesus said, 
+				<woc
+					>
+					<crossref let="j" cid="c43008011.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Neither do I condemn you; go, and from now on 
+					<crossref let="k" cid="c43008011.2">
+					</crossref>
+					sin no more.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				]]
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43008012">
+			</marker>
+			<heading
+				>
+				I Am the Light of the World
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				<crossref let="l" cid="c43008012.1">
+				</crossref>
+				Again Jesus spoke to them, saying, 
+				<woc
+					>
+					<crossref let="m" cid="c43008012.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I am the light of the world. Whoever 
+					<crossref let="n" cid="c43008012.3">
+					</crossref>
+					follows me will not 
+					<crossref let="o" cid="c43008012.4">
+					</crossref>
+					walk in darkness, but will have the light of life.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008013">
+			</marker>
+			<verse num="13">
+				So the Pharisees said to him, 
+				<crossref let="p" cid="c43008013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are bearing witness about yourself; your testimony is not true.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43008014">
+			</marker>
+			<verse num="14">
+				Jesus answered, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Even if I do bear witness about myself, 
+					<crossref let="q" cid="c43008014.1">
+					</crossref>
+					my testimony is true, for I know 
+					<crossref let="r" cid="c43008014.2">
+					</crossref>
+					where I came from and 
+					<crossref let="s" cid="c43008014.3">
+					</crossref>
+					where I am going, but 
+					<crossref let="t" cid="c43008014.4">
+					</crossref>
+					you do not know where I come from or where I am going.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008015">
+			</marker>
+			<verse num="15" class="woc">
+				<woc
+					>
+					<crossref let="u" cid="c43008015.1">
+					</crossref>
+					You judge according to the flesh; 
+					<crossref let="v" cid="c43008015.2">
+					</crossref>
+					I judge no one.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc
+					>
+					Yet even if I do judge, 
+					<crossref let="w" cid="c43008016.1">
+					</crossref>
+					my judgment is true, for 
+					<crossref let="x" cid="c43008016.2">
+					</crossref>
+					it is not I alone who judge, but I and the Father
+					<note nid="n43008016.1">
+					</note>
+					 who sent me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008017">
+			</marker>
+			<verse num="17" class="woc">
+				<woc
+					>
+					<crossref let="y" cid="c43008017.1">
+					</crossref>
+					In your Law it is written that the testimony of two people is true.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					I am the one who bears witness about myself, and 
+					<crossref let="z" cid="c43008018.1">
+					</crossref>
+					the Father who sent me bears witness about me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008019">
+			</marker>
+			<verse num="19">
+				They said to him therefore, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where is your Father?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Jesus answered, 
+				<woc
+					>
+					<crossref let="a" cid="c43008019.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You know neither me nor my Father. 
+					<crossref let="b" cid="c43008019.2">
+					</crossref>
+					If you knew me, you would know my Father also.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008020">
+			</marker>
+			<verse num="20">
+				These words he spoke in 
+				<crossref let="c" cid="c43008020.1">
+				</crossref>
+				the treasury, as he taught in the temple; but 
+				<crossref let="d" cid="c43008020.2">
+				</crossref>
+				no one arrested him, because 
+				<crossref let="e" cid="c43008020.3">
+				</crossref>
+				his hour had not yet come.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43008021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				So he said to them again, 
+				<woc
+					>
+					<crossref let="f" cid="c43008021.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I am going away, and 
+					<crossref let="g" cid="c43008021.2">
+					</crossref>
+					you will seek me, and 
+					<crossref let="h" cid="c43008021.3">
+					</crossref>
+					you will die in your sin. Where I am going, you cannot come.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008022">
+			</marker>
+			<verse num="22">
+				So the Jews said, 
+				<crossref let="i" cid="c43008022.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Will he kill himself, since he says, 
+				<woc
+					>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Where I am going, you cannot come
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43008023">
+			</marker>
+			<verse num="23">
+				He said to them, 
+				<woc
+					>
+					<crossref let="j" cid="c43008023.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You are from below; I am from above. 
+					<crossref let="k" cid="c43008023.2">
+					</crossref>
+					You are of this world; 
+					<crossref let="l" cid="c43008023.3">
+					</crossref>
+					I am not of this world.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					I told you that you 
+					<crossref let="m" cid="c43008024.1">
+					</crossref>
+					would die in your sins, for 
+					<crossref let="n" cid="c43008024.2">
+					</crossref>
+					unless you believe that 
+					<crossref let="o" cid="c43008024.3">
+					</crossref>
+					I am he you will die in your sins.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008025">
+			</marker>
+			<verse num="25">
+				So they said to him, 
+				<crossref let="p" cid="c43008025.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who are you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Just what I have been telling you from the beginning.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					I have much to say about you and much to judge, but 
+					<crossref let="q" cid="c43008026.1">
+					</crossref>
+					he who sent me is true, and I declare 
+					<crossref let="r" cid="c43008026.2">
+					</crossref>
+					to the world 
+					<crossref let="s" cid="c43008026.3">
+					</crossref>
+					what I have heard from him.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008027">
+			</marker>
+			<verse num="27">
+				They did not understand that 
+				<crossref let="t" cid="c43008027.1">
+				</crossref>
+				he had been speaking to them about the Father.
+			</verse>
+			<marker class="begin-verse" mid="v43008028">
+			</marker>
+			<verse num="28">
+				So Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					When you have 
+					<crossref let="u" cid="c43008028.1">
+					</crossref>
+					lifted up the Son of Man, 
+					<crossref let="v" cid="c43008028.2">
+					</crossref>
+					then you will know that 
+					<crossref let="w" cid="c43008028.3">
+					</crossref>
+					I am he, and that 
+					<crossref let="x" cid="c43008028.4">
+					</crossref>
+					I do nothing on my own authority, but 
+					<crossref let="y" cid="c43008028.5">
+					</crossref>
+					speak just as the Father taught me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008029">
+			</marker>
+			<verse num="29" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="z" cid="c43008029.1">
+					</crossref>
+					he who sent me is with me. 
+					<crossref let="z" cid="c43008029.2">
+					</crossref>
+					He has not left me alone, for 
+					<crossref let="a" cid="c43008029.3">
+					</crossref>
+					I always do the things that are pleasing to him.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008030">
+			</marker>
+			<verse num="30">
+				As he was saying these things, 
+				<crossref let="b" cid="c43008030.1">
+				</crossref>
+				many believed in him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43008031">
+			</marker>
+			<heading
+				>
+				The Truth Will Set You Free
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				So Jesus said to the Jews who had believed in him, 
+				<woc
+					>
+					<crossref let="c" cid="c43008031.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If you abide in my word, you are truly my disciples,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008032">
+			</marker>
+			<verse num="32" class="woc">
+				<woc
+					>
+					and you will 
+					<crossref let="d" cid="c43008032.1">
+					</crossref>
+					know the truth, and the truth 
+					<crossref let="e" cid="c43008032.2">
+					</crossref>
+					will set you free.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008033">
+			</marker>
+			<verse num="33">
+				They answered him, 
+				<crossref let="f" cid="c43008033.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We are offspring of Abraham and have never been enslaved to anyone. How is it that you say, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You will become free
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43008034">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="34">
+				Jesus answered them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Truly, truly, I say to you, 
+					<crossref let="g" cid="c43008034.1">
+					</crossref>
+					everyone who commits sin is a slave
+					<note nid="n43008034.1">
+					</note>
+					 to sin.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008035">
+			</marker>
+			<verse num="35" class="woc">
+				<woc
+					>
+					<crossref let="h" cid="c43008035.1">
+					</crossref>
+					The slave does not remain in the house forever; 
+					<crossref let="i" cid="c43008035.2">
+					</crossref>
+					the son remains forever.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008036">
+			</marker>
+			<verse num="36" class="woc">
+				<woc
+					>
+					So if the Son sets you free, you will be free indeed.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008037">
+			</marker>
+			<verse num="37" class="woc">
+				<woc
+					>
+					I know that you are offspring of Abraham; yet 
+					<crossref let="j" cid="c43008037.1">
+					</crossref>
+					you seek to kill me because my word finds no place in you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008038">
+			</marker>
+			<verse num="38" class="woc">
+				<woc
+					>
+					<crossref let="k" cid="c43008038.1">
+					</crossref>
+					I speak of what I have seen with my Father, and you do what you have heard 
+					<crossref let="l" cid="c43008038.2">
+					</crossref>
+					from your father.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43008039">
+			</marker>
+			<heading
+				>
+				You Are of Your Father the Devil
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="39">
+				They answered him, 
+				<crossref let="m" cid="c43008039.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Abraham is our father.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Jesus said to them, 
+				<woc
+					>
+					<crossref let="n" cid="c43008039.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If you were Abraham's children, you would be doing the works Abraham did,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008040">
+			</marker>
+			<verse num="40" class="woc">
+				<woc
+					>
+					but now 
+					<crossref let="o" cid="c43008040.1">
+					</crossref>
+					you seek to kill me, a man who has told you the truth 
+					<crossref let="p" cid="c43008040.2">
+					</crossref>
+					that I heard from God. This is not what Abraham did.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008041">
+			</marker>
+			<verse num="41" class="woc">
+				<woc
+					>
+					You are doing the works your father did.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 They said to him, 
+				<crossref let="q" cid="c43008041.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We were not born of sexual immorality. We have 
+				<crossref let="r" cid="c43008041.2">
+				</crossref>
+				one Fatherùeven God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43008042">
+			</marker>
+			<verse num="42">
+				Jesus said to them, 
+				<woc
+					>
+					<crossref let="s" cid="c43008042.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If God were your Father, you would love me, for 
+					<crossref let="t" cid="c43008042.2">
+					</crossref>
+					I came from God and 
+					<crossref let="u" cid="c43008042.3">
+					</crossref>
+					I am here. 
+					<crossref let="v" cid="c43008042.4">
+					</crossref>
+					I came not of my own accord, but 
+					<crossref let="w" cid="c43008042.5">
+					</crossref>
+					he sent me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008043">
+			</marker>
+			<verse num="43" class="woc">
+				<woc
+					>
+					<crossref let="x" cid="c43008043.1">
+					</crossref>
+					Why do you not understand what I say? It is because you cannot 
+					<crossref let="y" cid="c43008043.2">
+					</crossref>
+					bear to hear my word.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008044">
+			</marker>
+			<verse num="44" class="woc">
+				<woc
+					>
+					<crossref let="z" cid="c43008044.1">
+					</crossref>
+					You are of your father the devil, and your will is to do your father's desires. 
+					<crossref let="a" cid="c43008044.2">
+					</crossref>
+					He was a murderer from the beginning, and 
+					<crossref let="b" cid="c43008044.3">
+					</crossref>
+					has nothing to do with the truth, because there is no truth in him. 
+					<crossref let="c" cid="c43008044.4">
+					</crossref>
+					When he lies, he speaks out of his own character, for he is a liar and the father of lies.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008045">
+			</marker>
+			<verse num="45" class="woc">
+				<woc
+					>
+					But because I tell the truth, you do not believe me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008046">
+			</marker>
+			<verse num="46" class="woc">
+				<woc
+					>
+					Which one of you convicts me of sin? If I tell the truth, why do you not believe me?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008047">
+			</marker>
+			<verse num="47" class="woc">
+				<woc
+					>
+					<crossref let="d" cid="c43008047.1">
+					</crossref>
+					Whoever is of God hears the words of God. 
+					<crossref let="e" cid="c43008047.2">
+					</crossref>
+					The reason why you do not hear them is that 
+					<crossref let="f" cid="c43008047.3">
+					</crossref>
+					you are not of God.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43008048">
+			</marker>
+			<heading
+				>
+				Before Abraham Was, I Am
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="48">
+				The Jews answered him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Are we not right in saying that you are a Samaritan and 
+				<crossref let="g" cid="c43008048.1">
+				</crossref>
+				have a demon?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43008049">
+			</marker>
+			<verse num="49">
+				Jesus answered, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I do not have a demon, but 
+					<crossref let="h" cid="c43008049.1">
+					</crossref>
+					I honor my Father, and you dishonor me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008050">
+			</marker>
+			<verse num="50" class="woc">
+				<woc
+					>
+					Yet 
+					<crossref let="i" cid="c43008050.1">
+					</crossref>
+					I do not seek my own glory; there is One who seeks it, and he is the judge.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008051">
+			</marker>
+			<verse num="51" class="woc">
+				<woc
+					>
+					Truly, truly, 
+					<crossref let="j" cid="c43008051.1">
+					</crossref>
+					I say to you, if anyone keeps my word, he will never 
+					<crossref let="k" cid="c43008051.2">
+					</crossref>
+					see death.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008052">
+			</marker>
+			<verse num="52">
+				The Jews said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Now we know that you have a demon! 
+				<crossref let="l" cid="c43008052.1">
+				</crossref>
+				Abraham died, as did the prophets, yet 
+				<crossref let="m" cid="c43008052.2">
+				</crossref>
+				you say, 
+				<woc
+					>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					If anyone keeps my word, he will never 
+					<crossref let="n" cid="c43008052.3">
+					</crossref>
+					taste death.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008053">
+			</marker>
+			<verse num="53">
+				<crossref let="o" cid="c43008053.1">
+				</crossref>
+				Are you greater than our father Abraham, who died? And the prophets died! Who do you make yourself out to be?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43008054">
+			</marker>
+			<verse num="54">
+				Jesus answered, 
+				<woc
+					>
+					<crossref let="p" cid="c43008054.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If I glorify myself, my glory is nothing. 
+					<crossref let="q" cid="c43008054.2">
+					</crossref>
+					It is my Father who glorifies me, 
+					<crossref let="r" cid="c43008054.3">
+					</crossref>
+					of whom you say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					He is our God.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<note nid="n43008054.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008055">
+			</marker>
+			<verse num="55" class="woc">
+				<woc
+					>
+					But 
+					<crossref let="s" cid="c43008055.1">
+					</crossref>
+					you have not known him. 
+					<crossref let="t" cid="c43008055.2">
+					</crossref>
+					I know him. If I were to say that I do not know him, I would be 
+					<crossref let="u" cid="c43008055.3">
+					</crossref>
+					a liar 
+					<crossref let="v" cid="c43008055.4">
+					</crossref>
+					like you, but I do know him and I keep his word.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008056">
+			</marker>
+			<verse num="56" class="woc">
+				<woc
+					>
+					<crossref let="w" cid="c43008056.1">
+					</crossref>
+					Your father Abraham 
+					<crossref let="x" cid="c43008056.2">
+					</crossref>
+					rejoiced 
+					<crossref let="y" cid="c43008056.3">
+					</crossref>
+					that he would see my day. 
+					<crossref let="z" cid="c43008056.4">
+					</crossref>
+					He saw it and was glad.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008057">
+			</marker>
+			<verse num="57">
+				So the Jews said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are not yet fifty years old, and have you seen Abraham?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n43008057.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v43008058">
+			</marker>
+			<verse num="58">
+				Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Truly, truly, I say to you, before Abraham was, 
+					<crossref let="a" cid="c43008058.1">
+					</crossref>
+					I am.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43008059">
+			</marker>
+			<verse num="59">
+				So 
+				<crossref let="b" cid="c43008059.1">
+				</crossref>
+				they picked up stones to throw at him, but Jesus hid himself and went out of the temple.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

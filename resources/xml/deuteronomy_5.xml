@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Deuteronomy" num="4">
+		<marker class="begin-verse" mid="v05005001">
+		</marker>
+		<chapter num="5">
+			<heading
+				>
+				The Ten Commandments
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And Moses summoned all Israel and said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hear, O Israel, the statutes and the rules that I speak in your hearing today, and you shall learn them and be careful to do them.
+			</verse>
+			<marker class="begin-verse" mid="v05005002">
+			</marker>
+			<verse num="2">
+				<crossref let="x" cid="c05005002.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God made a covenant with us in Horeb.
+			</verse>
+			<marker class="begin-verse" mid="v05005003">
+			</marker>
+			<verse num="3">
+				<crossref let="y" cid="c05005003.1">
+				</crossref>
+				Not with our fathers did the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 make this covenant, but with us, who are all of us here alive today.
+			</verse>
+			<marker class="begin-verse" mid="v05005004">
+			</marker>
+			<verse num="4">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke with you 
+				<crossref let="z" cid="c05005004.1">
+				</crossref>
+				face to face at the mountain, out of the midst of the fire,
+			</verse>
+			<marker class="begin-verse" mid="v05005005">
+			</marker>
+			<verse num="5">
+				<crossref let="a" cid="c05005005.1">
+				</crossref>
+				while I stood between the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and you at that time, to declare to you the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. For 
+				<crossref let="b" cid="c05005005.2">
+				</crossref>
+				you were afraid because of the fire, and you did not go up into the mountain. He said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05005006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<crossref let="c" cid="c05005006.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God, who brought you out of the land of Egypt, out of the house of slavery.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05005007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="continue-single" qid="" from="" to="">
+				</q>
+				You shall have no other gods before
+				<note nid="n05005007.1">
+				</note>
+				 me.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05005008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="continue-single" qid="" from="" to="">
+				</q>
+				You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is on the earth beneath, or that is in the water under the earth.
+			</verse>
+			<marker class="begin-verse" mid="v05005009">
+			</marker>
+			<verse num="9">
+				You shall not bow down to them or serve them; for I the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate me,
+			</verse>
+			<marker class="begin-verse" mid="v05005010">
+			</marker>
+			<verse num="10">
+				but showing steadfast love to 
+				<crossref let="d" cid="c05005010.1">
+				</crossref>
+				thousands
+				<note nid="n05005010.1">
+				</note>
+				 of those who love me and keep my commandments.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05005011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="continue-single" qid="" from="" to="">
+				</q>
+				You shall not take the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God in vain, for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will not hold him guiltless who takes his name in vain.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05005012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="continue-single" qid="" from="" to="">
+				</q>
+				Observe the Sabbath day, to keep it holy, as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God commanded you.
+			</verse>
+			<marker class="begin-verse" mid="v05005013">
+			</marker>
+			<verse num="13">
+				Six days you shall labor and do all your work,
+			</verse>
+			<marker class="begin-verse" mid="v05005014">
+			</marker>
+			<verse num="14">
+				but 
+				<crossref let="e" cid="c05005014.1">
+				</crossref>
+				the seventh day is a Sabbath to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God. On it you shall not do any work, you or your son or your daughter or your male servant or your female servant, or your ox or your donkey or any of your livestock, or the sojourner who is within your gates, 
+				<crossref let="f" cid="c05005014.2">
+				</crossref>
+				that your male servant and your female servant may rest as well as you.
+			</verse>
+			<marker class="begin-verse" mid="v05005015">
+			</marker>
+			<verse num="15">
+				<crossref let="g" cid="c05005015.1">
+				</crossref>
+				You shall remember that you were a slave
+				<note nid="n05005015.1">
+				</note>
+				 in the land of Egypt, and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God brought you out from there 
+				<crossref let="h" cid="c05005015.2">
+				</crossref>
+				with a mighty hand and an outstretched arm. Therefore the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God commanded you to keep the Sabbath day.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05005016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="continue-single" qid="" from="" to="">
+				</q>
+				Honor your father and your mother, as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God commanded you, 
+				<crossref let="i" cid="c05005016.1">
+				</crossref>
+				that your days may be long, and that it may go well with you in the land that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God is giving you.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05005017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				<crossref let="j" cid="c05005017.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="continue-single" qid="" from="" to="">
+				</q>
+				You shall not murder.
+				<note nid="n05005017.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05005018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				<crossref let="j" cid="c05005018.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="continue-single" qid="" from="" to="">
+				</q>
+				And you shall not commit adultery.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05005019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="continue-single" qid="" from="" to="">
+				</q>
+				And you shall not steal.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05005020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="continue-single" qid="" from="" to="">
+				</q>
+				And you shall not bear false witness against your neighbor.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05005021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="continue-single" qid="" from="" to="">
+				</q>
+				And you shall not covet your neighbor's wife. And you shall not desire your neighbor's house, his field, or his male servant, or his female servant, his ox, or his donkey, or anything that is your neighbor's.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05005022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				These words the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to all your assembly 
+				<crossref let="k" cid="c05005022.1">
+				</crossref>
+				at the mountain out of the midst of the fire, the cloud, and the thick darkness, with a loud voice; and he added no more. And 
+				<crossref let="l" cid="c05005022.2">
+				</crossref>
+				he wrote them on two tablets of stone and gave them to me.
+			</verse>
+			<marker class="begin-verse" mid="v05005023">
+			</marker>
+			<verse num="23">
+				And 
+				<crossref let="m" cid="c05005023.1">
+				</crossref>
+				as soon as you heard the voice out of the midst of the darkness, while the mountain was burning with fire, you came near to me, all the heads of your tribes, and your elders.
+			</verse>
+			<marker class="begin-verse" mid="v05005024">
+			</marker>
+			<verse num="24">
+				And you said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Behold, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God has shown us his glory and 
+				<crossref let="n" cid="c05005024.1">
+				</crossref>
+				greatness, and 
+				<crossref let="o" cid="c05005024.2">
+				</crossref>
+				we have heard his voice out of the midst of the fire. This day we have seen God speak with man, and man 
+				<crossref let="p" cid="c05005024.3">
+				</crossref>
+				still live.
+			</verse>
+			<marker class="begin-verse" mid="v05005025">
+			</marker>
+			<verse num="25">
+				Now therefore why should we die? For this great fire will consume us. 
+				<crossref let="q" cid="c05005025.1">
+				</crossref>
+				If we hear the voice of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God any more, we shall die.
+			</verse>
+			<marker class="begin-verse" mid="v05005026">
+			</marker>
+			<verse num="26">
+				<crossref let="p" cid="c05005026.1">
+				</crossref>
+				For who is there of all flesh, that has heard the voice of the living God speaking out of the midst of fire as we have, and has still lived?
+			</verse>
+			<marker class="begin-verse" mid="v05005027">
+			</marker>
+			<verse num="27">
+				Go near and hear all that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God will say and 
+				<crossref let="r" cid="c05005027.1">
+				</crossref>
+				speak to us all that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God will speak to you, and we will hear and do it.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v05005028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 heard your words, when you spoke to me. And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to me, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I have heard the words of this people, which they have spoken to you. 
+				<crossref let="s" cid="c05005028.1">
+				</crossref>
+				They are right in all that they have spoken.
+			</verse>
+			<marker class="begin-verse" mid="v05005029">
+			</marker>
+			<verse num="29">
+				<crossref let="t" cid="c05005029.1">
+				</crossref>
+				Oh that they had such a mind as this always, to fear me and to keep all my commandments, 
+				<crossref let="u" cid="c05005029.2">
+				</crossref>
+				that it might go well with them and with their descendants
+				<note nid="n05005029.1">
+				</note>
+				 forever!
+			</verse>
+			<marker class="begin-verse" mid="v05005030">
+			</marker>
+			<verse num="30">
+				Go and say to them, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				Return to your tents.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05005031">
+			</marker>
+			<verse num="31">
+				But you, stand here by me, and 
+				<crossref let="v" cid="c05005031.1">
+				</crossref>
+				I will tell you the whole commandment and the statutes and the rules that you shall teach them, that they may do them in the land that I am giving them to possess.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v05005032">
+			</marker>
+			<verse num="32">
+				You shall be careful therefore to do as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God has commanded you. 
+				<crossref let="w" cid="c05005032.1">
+				</crossref>
+				You shall not turn aside to the right hand or to the left.
+			</verse>
+			<marker class="begin-verse" mid="v05005033">
+			</marker>
+			<verse num="33">
+				<crossref let="x" cid="c05005033.1">
+				</crossref>
+				You shall walk in all the way that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God has commanded you, that you may live, and 
+				<crossref let="y" cid="c05005033.2">
+				</crossref>
+				that it may go well with you, and that you may live long in the land that you shall possess.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

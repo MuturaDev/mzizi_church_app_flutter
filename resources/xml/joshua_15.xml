@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Joshua" num="5">
+		<marker class="begin-verse" mid="v06015001">
+		</marker>
+		<chapter num="15">
+			<heading
+				>
+				The Allotment for Judah
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The allotment for the tribe of the people of Judah according to their clans reached southward 
+				<crossref let="h" cid="c06015001.1">
+				</crossref>
+				to the boundary of Edom, to 
+				<crossref let="i" cid="c06015001.2">
+				</crossref>
+				the wilderness of Zin at the farthest south.
+			</verse>
+			<marker class="begin-verse" mid="v06015002">
+			</marker>
+			<verse num="2">
+				And their south boundary ran from the end of the 
+				<crossref let="h" cid="c06015002.1">
+				</crossref>
+				Salt Sea, from the bay that faces southward.
+			</verse>
+			<marker class="begin-verse" mid="v06015003">
+			</marker>
+			<verse num="3">
+				It goes out southward of 
+				<crossref let="j" cid="c06015003.1">
+				</crossref>
+				the ascent of Akrabbim, passes along to Zin, and goes up south of Kadesh-barnea, along by Hezron, up to Addar, turns about to Karka,
+			</verse>
+			<marker class="begin-verse" mid="v06015004">
+			</marker>
+			<verse num="4">
+				passes along to Azmon, goes out by 
+				<crossref let="k" cid="c06015004.1">
+				</crossref>
+				the Brook of Egypt, and comes to its end at the sea. This shall be your south boundary.
+			</verse>
+			<marker class="begin-verse" mid="v06015005">
+			</marker>
+			<verse num="5">
+				And the east boundary is the 
+				<crossref let="h" cid="c06015005.1">
+				</crossref>
+				Salt Sea, to the mouth of the Jordan. And the boundary on the north side runs from the bay of the sea at the mouth of the Jordan.
+			</verse>
+			<marker class="begin-verse" mid="v06015006">
+			</marker>
+			<verse num="6">
+				And the boundary goes up to 
+				<crossref let="l" cid="c06015006.1">
+				</crossref>
+				Beth-hoglah and passes along north of 
+				<crossref let="m" cid="c06015006.2">
+				</crossref>
+				Beth-arabah. And the boundary goes up to 
+				<crossref let="n" cid="c06015006.3">
+				</crossref>
+				the stone of Bohan the son of Reuben.
+			</verse>
+			<marker class="begin-verse" mid="v06015007">
+			</marker>
+			<verse num="7">
+				And the boundary goes up to Debir from 
+				<crossref let="o" cid="c06015007.1">
+				</crossref>
+				the Valley of Achor, and so northward, turning toward Gilgal, which is opposite 
+				<crossref let="p" cid="c06015007.2">
+				</crossref>
+				the ascent of Adummim, which is on the south side of the valley. And the boundary passes along to the waters of 
+				<crossref let="p" cid="c06015007.3">
+				</crossref>
+				En-shemesh and ends at 
+				<crossref let="q" cid="c06015007.4">
+				</crossref>
+				En-rogel.
+			</verse>
+			<marker class="begin-verse" mid="v06015008">
+			</marker>
+			<verse num="8">
+				Then the boundary goes up by 
+				<crossref let="r" cid="c06015008.1">
+				</crossref>
+				the Valley of the Son of Hinnom at the southern shoulder of the Jebusite (
+				<crossref let="s" cid="c06015008.2">
+				</crossref>
+				that is, Jerusalem). And the boundary goes up to the top of the mountain that lies over against the Valley of Hinnom, on the west, at the northern end of the Valley 
+				<crossref let="t" cid="c06015008.3">
+				</crossref>
+				of Rephaim.
+			</verse>
+			<marker class="begin-verse" mid="v06015009">
+			</marker>
+			<verse num="9">
+				Then the boundary extends from the top of the mountain 
+				<crossref let="u" cid="c06015009.1">
+				</crossref>
+				to the spring of the waters of Nephtoah, and from there to the cities of Mount Ephron. Then the boundary bends around to Baalah (
+				<crossref let="v" cid="c06015009.2">
+				</crossref>
+				that is, Kiriath-jearim).
+			</verse>
+			<marker class="begin-verse" mid="v06015010">
+			</marker>
+			<verse num="10">
+				And the boundary circles west of Baalah to Mount Seir, passes along to the northern shoulder of Mount Jearim (that is, Chesalon), and goes down to 
+				<crossref let="w" cid="c06015010.1">
+				</crossref>
+				Beth-shemesh and passes along by 
+				<crossref let="x" cid="c06015010.2">
+				</crossref>
+				Timnah.
+			</verse>
+			<marker class="begin-verse" mid="v06015011">
+			</marker>
+			<verse num="11">
+				The boundary goes out 
+				<crossref let="y" cid="c06015011.1">
+				</crossref>
+				to the shoulder of the hill north of Ekron, then the boundary bends around to Shikkeron and passes along to Mount 
+				<crossref let="z" cid="c06015011.2">
+				</crossref>
+				Baalah and goes out to Jabneel. Then the boundary comes to an end at the sea.
+			</verse>
+			<marker class="begin-verse" mid="v06015012">
+			</marker>
+			<verse num="12">
+				And the west boundary was 
+				<crossref let="a" cid="c06015012.1">
+				</crossref>
+				the Great Sea with its coastline. This is the boundary around the people of Judah according to their clans.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				According to the commandment of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 to Joshua, he gave to Caleb the son of Jephunneh a portion among the people of Judah, 
+				<crossref let="b" cid="c06015013.1">
+				</crossref>
+				Kiriath-arba, that is, 
+				<crossref let="b" cid="c06015013.2">
+				</crossref>
+				Hebron (Arba was the father of Anak).
+			</verse>
+			<marker class="begin-verse" mid="v06015014">
+			</marker>
+			<verse num="14">
+				And Caleb drove out from there the three sons of Anak, 
+				<crossref let="c" cid="c06015014.1">
+				</crossref>
+				Sheshai and Ahiman and Talmai, the descendants of Anak.
+			</verse>
+			<marker class="begin-verse" mid="v06015015">
+			</marker>
+			<verse num="15">
+				And he went up from there against the inhabitants of Debir. 
+				<crossref let="d" cid="c06015015.1">
+				</crossref>
+				Now the name of Debir formerly was Kiriath-sepher.
+			</verse>
+			<marker class="begin-verse" mid="v06015016">
+			</marker>
+			<verse num="16">
+				And Caleb said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whoever strikes Kiriath-sepher and captures it, to him will I give Achsah my daughter as wife.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06015017">
+			</marker>
+			<verse num="17">
+				<crossref let="e" cid="c06015017.1">
+				</crossref>
+				And Othniel the son of Kenaz, 
+				<crossref let="f" cid="c06015017.2">
+				</crossref>
+				the brother of Caleb, captured it. And he gave him Achsah his daughter as wife.
+			</verse>
+			<marker class="begin-verse" mid="v06015018">
+			</marker>
+			<verse num="18">
+				When she came to him, she urged him to ask her father for a field. And she got off her donkey, and Caleb said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What do you want?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v06015019">
+			</marker>
+			<verse num="19">
+				She said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Give me a blessing. Since you have given me the land of the Negeb, give me also springs of water.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And he gave her the upper springs and the lower springs.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				This is the inheritance of the tribe of the people of Judah according to their clans.
+			</verse>
+			<marker class="begin-verse" mid="v06015021">
+			</marker>
+			<verse num="21">
+				The cities belonging to the tribe of the people of Judah in the extreme south, toward the boundary of Edom, were Kabzeel, 
+				<crossref let="g" cid="c06015021.1">
+				</crossref>
+				Eder, Jagur,
+			</verse>
+			<marker class="begin-verse" mid="v06015022">
+			</marker>
+			<verse num="22">
+				Kinah, Dimonah, Adadah,
+			</verse>
+			<marker class="begin-verse" mid="v06015023">
+			</marker>
+			<verse num="23">
+				Kedesh, Hazor, Ithnan,
+			</verse>
+			<marker class="begin-verse" mid="v06015024">
+			</marker>
+			<verse num="24">
+				<crossref let="h" cid="c06015024.1">
+				</crossref>
+				Ziph, Telem, Bealoth,
+			</verse>
+			<marker class="begin-verse" mid="v06015025">
+			</marker>
+			<verse num="25">
+				Hazor-hadattah, Kerioth-hezron (that is, Hazor),
+			</verse>
+			<marker class="begin-verse" mid="v06015026">
+			</marker>
+			<verse num="26">
+				Amam, Shema, Moladah,
+			</verse>
+			<marker class="begin-verse" mid="v06015027">
+			</marker>
+			<verse num="27">
+				Hazar-gaddah, Heshmon, Beth-pelet,
+			</verse>
+			<marker class="begin-verse" mid="v06015028">
+			</marker>
+			<verse num="28">
+				Hazar-shual, 
+				<crossref let="i" cid="c06015028.1">
+				</crossref>
+				Beersheba, Biziothiah,
+			</verse>
+			<marker class="begin-verse" mid="v06015029">
+			</marker>
+			<verse num="29">
+				Baalah, Iim, Ezem,
+			</verse>
+			<marker class="begin-verse" mid="v06015030">
+			</marker>
+			<verse num="30">
+				Eltolad, Chesil, Hormah,
+			</verse>
+			<marker class="begin-verse" mid="v06015031">
+			</marker>
+			<verse num="31">
+				<crossref let="j" cid="c06015031.1">
+				</crossref>
+				Ziklag, Madmannah, Sansannah,
+			</verse>
+			<marker class="begin-verse" mid="v06015032">
+			</marker>
+			<verse num="32">
+				Lebaoth, Shilhim, Ain, and Rimmon: in all, twenty-nine cities with their villages.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015033">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="33">
+				And in the lowland, 
+				<crossref let="k" cid="c06015033.1">
+				</crossref>
+				Eshtaol, Zorah, Ashnah,
+			</verse>
+			<marker class="begin-verse" mid="v06015034">
+			</marker>
+			<verse num="34">
+				Zanoah, En-gannim, Tappuah, Enam,
+			</verse>
+			<marker class="begin-verse" mid="v06015035">
+			</marker>
+			<verse num="35">
+				<crossref let="l" cid="c06015035.1">
+				</crossref>
+				Jarmuth, 
+				<crossref let="m" cid="c06015035.2">
+				</crossref>
+				Adullam, 
+				<crossref let="n" cid="c06015035.3">
+				</crossref>
+				Socoh, 
+				<crossref let="n" cid="c06015035.4">
+				</crossref>
+				Azekah,
+			</verse>
+			<marker class="begin-verse" mid="v06015036">
+			</marker>
+			<verse num="36">
+				Shaaraim, Adithaim, Gederah, Gederothaim: fourteen cities with their villages.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015037">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="37">
+				Zenan, Hadashah, Migdal-gad,
+			</verse>
+			<marker class="begin-verse" mid="v06015038">
+			</marker>
+			<verse num="38">
+				Dilean, Mizpeh, Joktheel,
+			</verse>
+			<marker class="begin-verse" mid="v06015039">
+			</marker>
+			<verse num="39">
+				<crossref let="o" cid="c06015039.1">
+				</crossref>
+				Lachish, Bozkath, 
+				<crossref let="p" cid="c06015039.2">
+				</crossref>
+				Eglon,
+			</verse>
+			<marker class="begin-verse" mid="v06015040">
+			</marker>
+			<verse num="40">
+				Cabbon, Lahmam, Chitlish,
+			</verse>
+			<marker class="begin-verse" mid="v06015041">
+			</marker>
+			<verse num="41">
+				Gederoth, Beth-dagon, Naamah, and 
+				<crossref let="q" cid="c06015041.1">
+				</crossref>
+				Makkedah: sixteen cities with their villages.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015042">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="42">
+				<crossref let="r" cid="c06015042.1">
+				</crossref>
+				Libnah, Ether, Ashan,
+			</verse>
+			<marker class="begin-verse" mid="v06015043">
+			</marker>
+			<verse num="43">
+				Iphtah, Ashnah, Nezib,
+			</verse>
+			<marker class="begin-verse" mid="v06015044">
+			</marker>
+			<verse num="44">
+				<crossref let="s" cid="c06015044.1">
+				</crossref>
+				Keilah, Achzib, and Mareshah: nine cities with their villages.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015045">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="45">
+				<crossref let="t" cid="c06015045.1">
+				</crossref>
+				Ekron, with its towns and its villages;
+			</verse>
+			<marker class="begin-verse" mid="v06015046">
+			</marker>
+			<verse num="46">
+				from Ekron to the sea, all that were by the side of Ashdod, with their villages.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015047">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="47">
+				<crossref let="t" cid="c06015047.1">
+				</crossref>
+				Ashdod, its towns and its villages; 
+				<crossref let="t" cid="c06015047.2">
+				</crossref>
+				Gaza, its towns and its villages; to 
+				<crossref let="u" cid="c06015047.3">
+				</crossref>
+				the Brook of Egypt, and 
+				<crossref let="v" cid="c06015047.4">
+				</crossref>
+				the Great Sea with its coastline.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015048">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="48">
+				And in the hill country, Shamir, Jattir, Socoh,
+			</verse>
+			<marker class="begin-verse" mid="v06015049">
+			</marker>
+			<verse num="49">
+				Dannah, Kiriath-sannah (
+				<crossref let="w" cid="c06015049.1">
+				</crossref>
+				that is, Debir),
+			</verse>
+			<marker class="begin-verse" mid="v06015050">
+			</marker>
+			<verse num="50">
+				Anab, Eshtemoh, Anim,
+			</verse>
+			<marker class="begin-verse" mid="v06015051">
+			</marker>
+			<verse num="51">
+				<crossref let="x" cid="c06015051.1">
+				</crossref>
+				Goshen, Holon, and 
+				<crossref let="y" cid="c06015051.2">
+				</crossref>
+				Giloh: eleven cities with their villages.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015052">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="52">
+				Arab, Dumah, Eshan,
+			</verse>
+			<marker class="begin-verse" mid="v06015053">
+			</marker>
+			<verse num="53">
+				Janim, Beth-tappuah, Aphekah,
+			</verse>
+			<marker class="begin-verse" mid="v06015054">
+			</marker>
+			<verse num="54">
+				Humtah, 
+				<crossref let="z" cid="c06015054.1">
+				</crossref>
+				Kiriath-arba (that is, 
+				<crossref let="z" cid="c06015054.2">
+				</crossref>
+				Hebron), and Zior: nine cities with their villages.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015055">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="55">
+				<crossref let="a" cid="c06015055.1">
+				</crossref>
+				Maon, 
+				<crossref let="a" cid="c06015055.2">
+				</crossref>
+				Carmel, 
+				<crossref let="b" cid="c06015055.3">
+				</crossref>
+				Ziph, Juttah,
+			</verse>
+			<marker class="begin-verse" mid="v06015056">
+			</marker>
+			<verse num="56">
+				Jezreel, Jokdeam, Zanoah,
+			</verse>
+			<marker class="begin-verse" mid="v06015057">
+			</marker>
+			<verse num="57">
+				Kain, Gibeah, and 
+				<crossref let="c" cid="c06015057.1">
+				</crossref>
+				Timnah: ten cities with their villages.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015058">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="58">
+				Halhul, Beth-zur, Gedor,
+			</verse>
+			<marker class="begin-verse" mid="v06015059">
+			</marker>
+			<verse num="59">
+				Maarath, Beth-anoth, and Eltekon: six cities with their villages.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015060">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="60">
+				<crossref let="d" cid="c06015060.1">
+				</crossref>
+				Kiriath-baal (that is, Kiriath-jearim), and Rabbah: two cities with their villages.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015061">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="61">
+				In the wilderness, 
+				<crossref let="e" cid="c06015061.1">
+				</crossref>
+				Beth-arabah, Middin, Secacah,
+			</verse>
+			<marker class="begin-verse" mid="v06015062">
+			</marker>
+			<verse num="62">
+				Nibshan, the City of Salt, and 
+				<crossref let="f" cid="c06015062.1">
+				</crossref>
+				Engedi: six cities with their villages.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v06015063">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="63">
+				But the 
+				<crossref let="g" cid="c06015063.1">
+				</crossref>
+				Jebusites, the inhabitants of Jerusalem, 
+				<crossref let="h" cid="c06015063.2">
+				</crossref>
+				the people of Judah could not drive out, 
+				<crossref let="h" cid="c06015063.3">
+				</crossref>
+				so the Jebusites dwell with the people of Judah at Jerusalem to this day.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

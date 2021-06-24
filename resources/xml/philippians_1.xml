@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Philippians" num="50">
+		<marker class="begin-verse" mid="v50001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Paul and Timothy, servants
+				<note nid="n50001001.1">
+				</note>
+				 of Christ Jesus,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				To all the 
+				<crossref let="a" cid="c50001001.1">
+				</crossref>
+				saints in Christ Jesus who are at Philippi, with the 
+				<crossref let="b" cid="c50001001.2">
+				</crossref>
+				overseers
+				<note nid="n50001001.2">
+				</note>
+				 and 
+				<crossref let="c" cid="c50001001.3">
+				</crossref>
+				deacons:
+				<note nid="n50001001.3">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v50001002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				<crossref let="d" cid="c50001002.1">
+				</crossref>
+				Grace to you and peace from God our Father and the Lord Jesus Christ.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v50001003">
+			</marker>
+			<heading
+				>
+				Thanksgiving and Prayer
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="e" cid="c50001003.1">
+				</crossref>
+				I thank my God 
+				<crossref let="f" cid="c50001003.2">
+				</crossref>
+				in all my remembrance of you,
+			</verse>
+			<marker class="begin-verse" mid="v50001004">
+			</marker>
+			<verse num="4">
+				always in every prayer of mine for you all making my prayer with joy,
+			</verse>
+			<marker class="begin-verse" mid="v50001005">
+			</marker>
+			<verse num="5">
+				<crossref let="g" cid="c50001005.1">
+				</crossref>
+				because of your partnership in the gospel from the first day until now.
+			</verse>
+			<marker class="begin-verse" mid="v50001006">
+			</marker>
+			<verse num="6">
+				And I am sure of this, that he who began 
+				<crossref let="h" cid="c50001006.1">
+				</crossref>
+				a good work in you 
+				<crossref let="i" cid="c50001006.2">
+				</crossref>
+				will bring it to completion at 
+				<crossref let="j" cid="c50001006.3">
+				</crossref>
+				the day of Jesus Christ.
+			</verse>
+			<marker class="begin-verse" mid="v50001007">
+			</marker>
+			<verse num="7">
+				It is right for me to feel this way about you all, because I hold you 
+				<crossref let="k" cid="c50001007.1">
+				</crossref>
+				in my heart, for you are all 
+				<crossref let="l" cid="c50001007.2">
+				</crossref>
+				partakers with me of grace,
+				<note nid="n50001007.1">
+				</note>
+				 both 
+				<crossref let="m" cid="c50001007.3">
+				</crossref>
+				in my imprisonment and in 
+				<crossref let="n" cid="c50001007.4">
+				</crossref>
+				the defense and confirmation of the gospel.
+			</verse>
+			<marker class="begin-verse" mid="v50001008">
+			</marker>
+			<verse num="8">
+				For 
+				<crossref let="o" cid="c50001008.1">
+				</crossref>
+				God is my witness, 
+				<crossref let="p" cid="c50001008.2">
+				</crossref>
+				how I yearn for you all with the affection of Christ Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v50001009">
+			</marker>
+			<verse num="9">
+				And it is my prayer that 
+				<crossref let="q" cid="c50001009.1">
+				</crossref>
+				your love may abound more and more, 
+				<crossref let="r" cid="c50001009.2">
+				</crossref>
+				with knowledge and all discernment,
+			</verse>
+			<marker class="begin-verse" mid="v50001010">
+			</marker>
+			<verse num="10">
+				so that you may approve what is excellent, 
+				<crossref let="s" cid="c50001010.1">
+				</crossref>
+				and so be pure and blameless 
+				<crossref let="t" cid="c50001010.2">
+				</crossref>
+				for the day of Christ,
+			</verse>
+			<marker class="begin-verse" mid="v50001011">
+			</marker>
+			<verse num="11">
+				filled 
+				<crossref let="u" cid="c50001011.1">
+				</crossref>
+				with the fruit of righteousness that comes 
+				<crossref let="v" cid="c50001011.2">
+				</crossref>
+				through Jesus Christ, 
+				<crossref let="w" cid="c50001011.3">
+				</crossref>
+				to the glory and praise of God.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v50001012">
+			</marker>
+			<heading
+				>
+				The Advance of the Gospel
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				I want you to know, brothers,
+				<note nid="n50001012.1">
+				</note>
+				 that what has happened to me has really 
+				<crossref let="x" cid="c50001012.1">
+				</crossref>
+				served to advance the gospel,
+			</verse>
+			<marker class="begin-verse" mid="v50001013">
+			</marker>
+			<verse num="13">
+				so that it has become known throughout the whole imperial guard
+				<note nid="n50001013.1">
+				</note>
+				 and 
+				<crossref let="y" cid="c50001013.1">
+				</crossref>
+				to all the rest that 
+				<crossref let="z" cid="c50001013.2">
+				</crossref>
+				my imprisonment is for Christ.
+			</verse>
+			<marker class="begin-verse" mid="v50001014">
+			</marker>
+			<verse num="14">
+				And most of the brothers, having become confident in the Lord by my imprisonment, are much more bold 
+				<crossref let="a" cid="c50001014.1">
+				</crossref>
+				to speak the word
+				<note nid="n50001014.1">
+				</note>
+				 without fear.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v50001015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				<crossref let="b" cid="c50001015.1">
+				</crossref>
+				Some indeed preach Christ from envy and rivalry, but others from good will.
+			</verse>
+			<marker class="begin-verse" mid="v50001016">
+			</marker>
+			<verse num="16">
+				The latter do it out of love, 
+				<crossref let="c" cid="c50001016.1">
+				</crossref>
+				knowing that I am put here for 
+				<crossref let="d" cid="c50001016.2">
+				</crossref>
+				the defense of the gospel.
+			</verse>
+			<marker class="begin-verse" mid="v50001017">
+			</marker>
+			<verse num="17">
+				The former proclaim Christ 
+				<crossref let="e" cid="c50001017.1">
+				</crossref>
+				out of rivalry, not sincerely but thinking to afflict me in my imprisonment.
+			</verse>
+			<marker class="begin-verse" mid="v50001018">
+			</marker>
+			<verse num="18">
+				What then? Only that in every way, whether in pretense or in truth, Christ is proclaimed, and in that I rejoice.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<heading
+					>
+					To Live Is Christ
+				</heading>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				 Yes, and I will rejoice,
+			</verse>
+			<marker class="begin-verse" mid="v50001019">
+			</marker>
+			<verse num="19">
+				for I know that 
+				<crossref let="f" cid="c50001019.1">
+				</crossref>
+				through your prayers and 
+				<crossref let="g" cid="c50001019.2">
+				</crossref>
+				the help of 
+				<crossref let="h" cid="c50001019.3">
+				</crossref>
+				the Spirit of Jesus Christ this will turn out for my deliverance,
+			</verse>
+			<marker class="begin-verse" mid="v50001020">
+			</marker>
+			<verse num="20">
+				as it is my eager expectation and hope 
+				<crossref let="i" cid="c50001020.1">
+				</crossref>
+				that I will not be at all ashamed, but that with full 
+				<crossref let="j" cid="c50001020.2">
+				</crossref>
+				courage now as always Christ 
+				<crossref let="k" cid="c50001020.3">
+				</crossref>
+				will be honored in my body, 
+				<crossref let="l" cid="c50001020.4">
+				</crossref>
+				whether by life or by death.
+			</verse>
+			<marker class="begin-verse" mid="v50001021">
+			</marker>
+			<verse num="21">
+				For to me 
+				<crossref let="m" cid="c50001021.1">
+				</crossref>
+				to live is Christ, and to die is gain.
+			</verse>
+			<marker class="begin-verse" mid="v50001022">
+			</marker>
+			<verse num="22">
+				If I am to live in the flesh, that means fruitful labor for me. Yet which I shall choose I cannot tell.
+			</verse>
+			<marker class="begin-verse" mid="v50001023">
+			</marker>
+			<verse num="23">
+				<crossref let="n" cid="c50001023.1">
+				</crossref>
+				I am hard pressed between the two. My desire is 
+				<crossref let="o" cid="c50001023.2">
+				</crossref>
+				to depart and 
+				<crossref let="p" cid="c50001023.3">
+				</crossref>
+				be with Christ, for that is far better.
+			</verse>
+			<marker class="begin-verse" mid="v50001024">
+			</marker>
+			<verse num="24">
+				But to remain in the flesh is more necessary on your account.
+			</verse>
+			<marker class="begin-verse" mid="v50001025">
+			</marker>
+			<verse num="25">
+				<crossref let="q" cid="c50001025.1">
+				</crossref>
+				Convinced of this, 
+				<crossref let="r" cid="c50001025.2">
+				</crossref>
+				I know that I will remain and continue with you all, for your 
+				<crossref let="s" cid="c50001025.3">
+				</crossref>
+				progress and 
+				<crossref let="t" cid="c50001025.4">
+				</crossref>
+				joy in the faith,
+			</verse>
+			<marker class="begin-verse" mid="v50001026">
+			</marker>
+			<verse num="26">
+				so that in me 
+				<crossref let="u" cid="c50001026.1">
+				</crossref>
+				you may have ample cause to glory in Christ Jesus, because of my coming to you again.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v50001027">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				Only 
+				<crossref let="v" cid="c50001027.1">
+				</crossref>
+				let your manner of life be 
+				<crossref let="w" cid="c50001027.2">
+				</crossref>
+				worthy
+				<note nid="n50001027.1">
+				</note>
+				 of the gospel of Christ, so that whether I come and see you or am absent, I may hear of you 
+				<crossref let="x" cid="c50001027.3">
+				</crossref>
+				that you are standing firm in one spirit, with 
+				<crossref let="y" cid="c50001027.4">
+				</crossref>
+				one mind 
+				<crossref let="z" cid="c50001027.5">
+				</crossref>
+				striving side by side for the faith of the gospel,
+			</verse>
+			<marker class="begin-verse" mid="v50001028">
+			</marker>
+			<verse num="28">
+				and not frightened in anything by your opponents. This is 
+				<crossref let="a" cid="c50001028.1">
+				</crossref>
+				a clear sign to them of their destruction, but 
+				<crossref let="b" cid="c50001028.2">
+				</crossref>
+				of your salvation, and that from God.
+			</verse>
+			<marker class="begin-verse" mid="v50001029">
+			</marker>
+			<verse num="29">
+				For 
+				<crossref let="c" cid="c50001029.1">
+				</crossref>
+				it has been granted to you that for the sake of Christ you should not only believe in him but also 
+				<crossref let="b" cid="c50001029.2">
+				</crossref>
+				suffer for his sake,
+			</verse>
+			<marker class="begin-verse" mid="v50001030">
+			</marker>
+			<verse num="30">
+				engaged in the same 
+				<crossref let="d" cid="c50001030.1">
+				</crossref>
+				conflict that 
+				<crossref let="e" cid="c50001030.2">
+				</crossref>
+				you saw I had and now hear that I still have.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

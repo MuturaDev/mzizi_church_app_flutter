@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Numbers" num="3">
+		<marker class="begin-verse" mid="v04034001">
+		</marker>
+		<chapter num="34">
+			<heading
+				>
+				Boundaries of the Land
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04034002">
+			</marker>
+			<verse num="2">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Command the people of Israel, and say to them, When you enter 
+				<crossref let="a" cid="c04034002.1">
+				</crossref>
+				the land of Canaan 
+				<crossref let="b" cid="c04034002.2">
+				</crossref>
+				(this is the land that shall fall to you for an inheritance, the land of Canaan as defined by its borders),
+			</verse>
+			<marker class="begin-verse" mid="v04034003">
+			</marker>
+			<verse num="3">
+				<crossref let="c" cid="c04034003.1">
+				</crossref>
+				your south side shall be from the wilderness of Zin alongside Edom, and your southern border shall run from the end of 
+				<crossref let="d" cid="c04034003.2">
+				</crossref>
+				the Salt Sea on the east.
+			</verse>
+			<marker class="begin-verse" mid="v04034004">
+			</marker>
+			<verse num="4">
+				And your border shall turn south of 
+				<crossref let="e" cid="c04034004.1">
+				</crossref>
+				the ascent of Akrabbim, and cross to Zin, and its limit shall be south of Kadesh-barnea. Then it shall go on to 
+				<crossref let="e" cid="c04034004.2">
+				</crossref>
+				Hazar-addar, and pass along to Azmon.
+			</verse>
+			<marker class="begin-verse" mid="v04034005">
+			</marker>
+			<verse num="5">
+				And the border shall turn 
+				<crossref let="f" cid="c04034005.1">
+				</crossref>
+				from Azmon to 
+				<crossref let="g" cid="c04034005.2">
+				</crossref>
+				the Brook of Egypt, and its limit shall be at the sea.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04034006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				For the western border, you shall have the Great Sea and its
+				<note nid="n04034006.1">
+				</note>
+				 coast. This shall be your western border.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04034007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				This shall be your northern border: from the Great Sea you shall draw a line to 
+				<crossref let="h" cid="c04034007.1">
+				</crossref>
+				Mount Hor.
+			</verse>
+			<marker class="begin-verse" mid="v04034008">
+			</marker>
+			<verse num="8">
+				From Mount Hor you shall draw a line 
+				<crossref let="i" cid="c04034008.1">
+				</crossref>
+				to Lebo-hamath, and the limit of the border shall be at 
+				<crossref let="j" cid="c04034008.2">
+				</crossref>
+				Zedad.
+			</verse>
+			<marker class="begin-verse" mid="v04034009">
+			</marker>
+			<verse num="9">
+				Then the border shall extend to Ziphron, and its limit shall be at 
+				<crossref let="k" cid="c04034009.1">
+				</crossref>
+				Hazar-enan. This shall be your northern border.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04034010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				You shall draw a line for your eastern border from Hazar-enan to Shepham.
+			</verse>
+			<marker class="begin-verse" mid="v04034011">
+			</marker>
+			<verse num="11">
+				And the border shall go down from Shepham to 
+				<crossref let="l" cid="c04034011.1">
+				</crossref>
+				Riblah on the east side of Ain. And the border shall go down and reach to the shoulder of 
+				<crossref let="m" cid="c04034011.2">
+				</crossref>
+				the Sea of Chinnereth on the east.
+			</verse>
+			<marker class="begin-verse" mid="v04034012">
+			</marker>
+			<verse num="12">
+				And the border shall go down to the Jordan, and its limit shall be at 
+				<crossref let="n" cid="c04034012.1">
+				</crossref>
+				the Salt Sea. This shall be your land as defined by its borders all around.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04034013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				Moses commanded the people of Israel, saying, 
+				<crossref let="o" cid="c04034013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is the land that you shall inherit by lot, which the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has commanded to give to the nine tribes and to the half-tribe.
+			</verse>
+			<marker class="begin-verse" mid="v04034014">
+			</marker>
+			<verse num="14">
+				<crossref let="p" cid="c04034014.1">
+				</crossref>
+				For the tribe of the people of Reuben by fathers' houses and the tribe of the people of Gad by their fathers' houses have received their inheritance, and also the half-tribe of Manasseh.
+			</verse>
+			<marker class="begin-verse" mid="v04034015">
+			</marker>
+			<verse num="15">
+				The two tribes and the half-tribe have received their inheritance beyond the Jordan east of Jericho, toward the sunrise.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04034016">
+			</marker>
+			<heading
+				>
+				List of Tribal Chiefs
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04034017">
+			</marker>
+			<verse num="17">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				These are the names of the men who shall divide the land to you for inheritance: 
+				<crossref let="q" cid="c04034017.1">
+				</crossref>
+				Eleazar the priest and Joshua the son of Nun.
+			</verse>
+			<marker class="begin-verse" mid="v04034018">
+			</marker>
+			<verse num="18">
+				You shall take one 
+				<crossref let="r" cid="c04034018.1">
+				</crossref>
+				chief from every tribe to divide the land for inheritance.
+			</verse>
+			<marker class="begin-verse" mid="v04034019">
+			</marker>
+			<verse num="19">
+				These are the names of the men: Of the tribe of Judah, Caleb the son of Jephunneh.
+			</verse>
+			<marker class="begin-verse" mid="v04034020">
+			</marker>
+			<verse num="20">
+				Of the tribe of the people of Simeon, Shemuel the son of Ammihud.
+			</verse>
+			<marker class="begin-verse" mid="v04034021">
+			</marker>
+			<verse num="21">
+				Of the tribe of Benjamin, Elidad the son of Chislon.
+			</verse>
+			<marker class="begin-verse" mid="v04034022">
+			</marker>
+			<verse num="22">
+				Of the tribe of the people of Dan a chief, Bukki the son of Jogli.
+			</verse>
+			<marker class="begin-verse" mid="v04034023">
+			</marker>
+			<verse num="23">
+				Of the people of Joseph: of the tribe of the people of Manasseh a chief, Hanniel the son of Ephod.
+			</verse>
+			<marker class="begin-verse" mid="v04034024">
+			</marker>
+			<verse num="24">
+				And of the tribe of the people of Ephraim a chief, Kemuel the son of Shiphtan.
+			</verse>
+			<marker class="begin-verse" mid="v04034025">
+			</marker>
+			<verse num="25">
+				Of the tribe of the people of Zebulun a chief, Elizaphan the son of Parnach.
+			</verse>
+			<marker class="begin-verse" mid="v04034026">
+			</marker>
+			<verse num="26">
+				Of the tribe of the people of Issachar a chief, Paltiel the son of Azzan.
+			</verse>
+			<marker class="begin-verse" mid="v04034027">
+			</marker>
+			<verse num="27">
+				And of the tribe of the people of Asher a chief, Ahihud the son of Shelomi.
+			</verse>
+			<marker class="begin-verse" mid="v04034028">
+			</marker>
+			<verse num="28">
+				Of the tribe of the people of Naphtali a chief, Pedahel the son of Ammihud.
+			</verse>
+			<marker class="begin-verse" mid="v04034029">
+			</marker>
+			<verse num="29">
+				These are the men whom the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded to divide the inheritance for the people of Israel in the land of Canaan.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

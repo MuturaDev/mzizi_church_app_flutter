@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01040001">
+		</marker>
+		<chapter num="40">
+			<heading
+				>
+				Joseph Interprets Two Prisoners' Dreams
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Some time after this, the 
+				<crossref let="e" cid="c01040001.1">
+				</crossref>
+				cupbearer of the king of Egypt and his baker committed an offense against their lord the king of Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v01040002">
+			</marker>
+			<verse num="2">
+				And Pharaoh was angry with his two officers, the chief cupbearer and the chief baker,
+			</verse>
+			<marker class="begin-verse" mid="v01040003">
+			</marker>
+			<verse num="3">
+				<crossref let="f" cid="c01040003.1">
+				</crossref>
+				and he put them in custody in the house of the captain of the guard, in the prison where Joseph was confined.
+			</verse>
+			<marker class="begin-verse" mid="v01040004">
+			</marker>
+			<verse num="4">
+				The captain of the guard appointed Joseph to be with them, and he attended them. They continued for some time in custody.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01040005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				And one night they both dreamedùthe cupbearer and the baker of the king of Egypt, who were confined in the prisonùeach his own dream, and each dream with its own interpretation.
+			</verse>
+			<marker class="begin-verse" mid="v01040006">
+			</marker>
+			<verse num="6">
+				When Joseph came to them in the morning, he saw that they were troubled.
+			</verse>
+			<marker class="begin-verse" mid="v01040007">
+			</marker>
+			<verse num="7">
+				So he asked Pharaoh's officers who were with him in custody in his master's house, 
+				<crossref let="g" cid="c01040007.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why are your faces downcast today?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01040008">
+			</marker>
+			<verse num="8">
+				They said to him, 
+				<crossref let="h" cid="c01040008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We have had dreams, and there is no one to interpret them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Joseph said to them, 
+				<crossref let="i" cid="c01040008.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not interpretations belong to God? Please tell them to me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01040009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				So the chief cupbearer told his dream to Joseph and said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				In my dream there was a vine before me,
+			</verse>
+			<marker class="begin-verse" mid="v01040010">
+			</marker>
+			<verse num="10">
+				and on the vine there were three branches. As soon as it budded, its blossoms shot forth, and the clusters ripened into grapes.
+			</verse>
+			<marker class="begin-verse" mid="v01040011">
+			</marker>
+			<verse num="11">
+				Pharaoh's cup was in my hand, and I took the grapes and pressed them into Pharaoh's cup and placed the cup in Pharaoh's hand.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01040012">
+			</marker>
+			<verse num="12">
+				Then Joseph said to him, 
+				<crossref let="j" cid="c01040012.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is its interpretation: 
+				<crossref let="k" cid="c01040012.2">
+				</crossref>
+				the three branches are three days.
+			</verse>
+			<marker class="begin-verse" mid="v01040013">
+			</marker>
+			<verse num="13">
+				In three days Pharaoh will 
+				<crossref let="l" cid="c01040013.1">
+				</crossref>
+				lift up your head and restore you to your office, and you shall place Pharaoh's cup in his hand as formerly, when you were his cupbearer.
+			</verse>
+			<marker class="begin-verse" mid="v01040014">
+			</marker>
+			<verse num="14">
+				Only remember me, when it is well with you, and please do me the kindness to mention me to Pharaoh, and so get me out of this house.
+			</verse>
+			<marker class="begin-verse" mid="v01040015">
+			</marker>
+			<verse num="15">
+				For 
+				<crossref let="m" cid="c01040015.1">
+				</crossref>
+				I was indeed stolen out of the land of the Hebrews, and 
+				<crossref let="n" cid="c01040015.2">
+				</crossref>
+				here also I have done nothing that they should put me into the pit.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01040016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				When the chief baker saw that the interpretation was favorable, he said to Joseph, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I also had a dream: there were three cake baskets on my head,
+			</verse>
+			<marker class="begin-verse" mid="v01040017">
+			</marker>
+			<verse num="17">
+				and in the uppermost basket there were all sorts of baked food for Pharaoh, but the birds were eating it out of the basket on my head.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01040018">
+			</marker>
+			<verse num="18">
+				And Joseph answered and said, 
+				<crossref let="o" cid="c01040018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is its interpretation: the three baskets are three days.
+			</verse>
+			<marker class="begin-verse" mid="v01040019">
+			</marker>
+			<verse num="19">
+				<crossref let="p" cid="c01040019.1">
+				</crossref>
+				In three days Pharaoh will lift up your headùfrom you!ùand 
+				<crossref let="q" cid="c01040019.2">
+				</crossref>
+				hang you on a tree. And the birds will eat the flesh from you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01040020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				On the third day, which was Pharaoh's 
+				<crossref let="r" cid="c01040020.1">
+				</crossref>
+				birthday, he made a feast for all his servants and 
+				<crossref let="s" cid="c01040020.2">
+				</crossref>
+				lifted up the head of the chief cupbearer and the head of the chief baker among his servants.
+			</verse>
+			<marker class="begin-verse" mid="v01040021">
+			</marker>
+			<verse num="21">
+				<crossref let="t" cid="c01040021.1">
+				</crossref>
+				He restored the chief cupbearer to his position, and 
+				<crossref let="u" cid="c01040021.2">
+				</crossref>
+				he placed the cup in Pharaoh's hand.
+			</verse>
+			<marker class="begin-verse" mid="v01040022">
+			</marker>
+			<verse num="22">
+				But he 
+				<crossref let="v" cid="c01040022.1">
+				</crossref>
+				hanged the chief baker, as Joseph had interpreted to them.
+			</verse>
+			<marker class="begin-verse" mid="v01040023">
+			</marker>
+			<verse num="23">
+				Yet the chief cupbearer did not remember Joseph, but forgot him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

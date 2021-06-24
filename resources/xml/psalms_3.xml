@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				Save Me, O My God
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm of David, 
+				<crossref let="n" cid="c19003001.1">
+				</crossref>
+				when he fled from Absalom his son.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="o" cid="c19003001.2">
+				</crossref>
+				how many are my foes!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Many are 
+				<crossref let="p" cid="c19003001.3">
+				</crossref>
+				rising against me;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19003002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				many are saying of my soul,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c19003002.1">
+				</crossref>
+				there is no salvation for him in God. 
+				<selah
+					>
+					Selah
+				</selah>
+				<note nid="n19003002.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19003003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				But you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, are 
+				<crossref let="r" cid="c19003003.1">
+				</crossref>
+				a shield 
+				<crossref let="s" cid="c19003003.2">
+				</crossref>
+				about me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my glory, and 
+				<crossref let="t" cid="c19003003.3">
+				</crossref>
+				the lifter of my head.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19003004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="u" cid="c19003004.1">
+				</crossref>
+				cried aloud to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he 
+				<crossref let="v" cid="c19003004.2">
+				</crossref>
+				answered me from his 
+				<crossref let="w" cid="c19003004.3">
+				</crossref>
+				holy hill. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19003005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="x" cid="c19003005.1">
+				</crossref>
+				lay down and slept;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I woke again, for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 sustained me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19003006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="y" cid="c19003006.1">
+				</crossref>
+				will not be afraid of many thousands of people
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who have 
+				<crossref let="z" cid="c19003006.2">
+				</crossref>
+				set themselves against me all around.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19003007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19003007.1">
+				</crossref>
+				Arise, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Save me, O my God!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				For you 
+				<crossref let="b" cid="c19003007.2">
+				</crossref>
+				strike all my enemies on the cheek;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="c" cid="c19003007.3">
+				</crossref>
+				break the teeth of the wicked.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19003008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c19003008.1">
+				</crossref>
+				Salvation belongs to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your blessing be on your people! 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

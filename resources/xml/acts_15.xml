@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Acts" num="43">
+		<marker class="begin-verse" mid="v44015001">
+		</marker>
+		<chapter num="15">
+			<heading>
+				The Jerusalem Council
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="y" cid="c44015001.1">
+				</crossref>
+				But some men came down from Judea and were teaching 
+				<crossref let="z" cid="c44015001.2">
+				</crossref>
+				the brothers, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Unless you are 
+				<crossref let="a" cid="c44015001.3">
+				</crossref>
+				circumcised 
+				<crossref let="b" cid="c44015001.4">
+				</crossref>
+				according to the custom of Moses, you cannot be saved.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44015002">
+			</marker>
+			<verse num="2">
+				And after Paul and Barnabas had no small dissension and 
+				<crossref let="c" cid="c44015002.1">
+				</crossref>
+				debate with them, Paul and Barnabas and 
+				<crossref let="d" cid="c44015002.2">
+				</crossref>
+				some of the others were appointed to go up to Jerusalem to 
+				<crossref let="e" cid="c44015002.3">
+				</crossref>
+				the apostles and the elders about this question.
+			</verse>
+			<marker class="begin-verse" mid="v44015003">
+			</marker>
+			<verse num="3">
+				So, 
+				<crossref let="f" cid="c44015003.1">
+				</crossref>
+				being sent on their way by the church, they passed through both Phoenicia and Samaria, 
+				<crossref let="g" cid="c44015003.2">
+				</crossref>
+				describing in detail the conversion of the Gentiles, and 
+				<crossref let="h" cid="c44015003.3">
+				</crossref>
+				brought great joy to all 
+				<crossref let="i" cid="c44015003.4">
+				</crossref>
+				the brothers.
+				<note nid="n44015003.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v44015004">
+			</marker>
+			<verse num="4">
+				<crossref let="j" cid="c44015004.1">
+				</crossref>
+				When they came to Jerusalem, they were welcomed by the church and 
+				<crossref let="k" cid="c44015004.2">
+				</crossref>
+				the apostles and the elders, and 
+				<crossref let="g" cid="c44015004.3">
+				</crossref>
+				they declared all that God had done with them.
+			</verse>
+			<marker class="begin-verse" mid="v44015005">
+			</marker>
+			<verse num="5">
+				But some believers who belonged to 
+				<crossref let="l" cid="c44015005.1">
+				</crossref>
+				the party of the Pharisees rose up and said, 
+				<crossref let="m" cid="c44015005.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is necessary 
+				<crossref let="n" cid="c44015005.3">
+				</crossref>
+				to circumcise them and to order them to keep the law of Moses.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44015006">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="6">
+				<crossref let="o" cid="c44015006.1">
+				</crossref>
+				The 
+				<crossref let="k" cid="c44015006.2">
+				</crossref>
+				apostles and the elders were gathered together to consider this matter.
+			</verse>
+			<marker class="begin-verse" mid="v44015007">
+			</marker>
+			<verse num="7">
+				And after there had been much 
+				<crossref let="p" cid="c44015007.1">
+				</crossref>
+				debate, Peter stood up and said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Brothers, you know that in the early days God made a choice among you, 
+				<crossref let="q" cid="c44015007.2">
+				</crossref>
+				that by my mouth the Gentiles should hear 
+				<crossref let="r" cid="c44015007.3">
+				</crossref>
+				the word of 
+				<crossref let="s" cid="c44015007.4">
+				</crossref>
+				the gospel and believe.
+			</verse>
+			<marker class="begin-verse" mid="v44015008">
+			</marker>
+			<verse num="8">
+				And God, 
+				<crossref let="t" cid="c44015008.1">
+				</crossref>
+				who knows the heart, 
+				<crossref let="u" cid="c44015008.2">
+				</crossref>
+				bore witness to them, 
+				<crossref let="v" cid="c44015008.3">
+				</crossref>
+				by giving them the Holy Spirit just as he did to us,
+			</verse>
+			<marker class="begin-verse" mid="v44015009">
+			</marker>
+			<verse num="9">
+				and 
+				<crossref let="w" cid="c44015009.1">
+				</crossref>
+				he made no distinction between us and them, 
+				<crossref let="x" cid="c44015009.2">
+				</crossref>
+				having cleansed their hearts 
+				<crossref let="y" cid="c44015009.3">
+				</crossref>
+				by faith.
+			</verse>
+			<marker class="begin-verse" mid="v44015010">
+			</marker>
+			<verse num="10">
+				Now, therefore, why 
+				<crossref let="z" cid="c44015010.1">
+				</crossref>
+				are you putting God to the test 
+				<crossref let="a" cid="c44015010.2">
+				</crossref>
+				by placing a yoke on the neck of the disciples 
+				<crossref let="b" cid="c44015010.3">
+				</crossref>
+				that neither our fathers nor we have been able to bear?
+			</verse>
+			<marker class="begin-verse" mid="v44015011">
+			</marker>
+			<verse num="11">
+				But we 
+				<crossref let="c" cid="c44015011.1">
+				</crossref>
+				believe that we will be 
+				<crossref let="d" cid="c44015011.2">
+				</crossref>
+				saved through 
+				<crossref let="e" cid="c44015011.3">
+				</crossref>
+				the grace of the Lord Jesus, 
+				<crossref let="w" cid="c44015011.4">
+				</crossref>
+				just as they will.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44015012">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="12">
+				And all the assembly fell silent, and they listened to Barnabas and Paul 
+				<crossref let="f" cid="c44015012.1">
+				</crossref>
+				as they related what signs and wonders God had done through them among the Gentiles.
+			</verse>
+			<marker class="begin-verse" mid="v44015013">
+			</marker>
+			<verse num="13">
+				After they finished speaking, 
+				<crossref let="g" cid="c44015013.1">
+				</crossref>
+				James replied, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Brothers, listen to me.
+			</verse>
+			<marker class="begin-verse" mid="v44015014">
+			</marker>
+			<verse num="14">
+				<crossref let="h" cid="c44015014.1">
+				</crossref>
+				Simeon has related how God first visited the Gentiles, to take from them 
+				<crossref let="i" cid="c44015014.2">
+				</crossref>
+				a people for his name.
+			</verse>
+			<marker class="begin-verse" mid="v44015015">
+			</marker>
+			<verse num="15">
+				And with this the words of the prophets agree, just as it is written,
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44015016">
+			</marker>
+			<begin-block-indent>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line>
+				</begin-line>
+				<crossref let="j" cid="c44015016.1">
+				</crossref>
+				<crossref cid="t44015016.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				After this I will return,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				and I will rebuild the tent of David that has fallen;
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				I will rebuild its ruins,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				 and I will restore it,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v44015017">
+			</marker>
+			<verse num="17">
+				<begin-line>
+				</begin-line>
+				that the remnant
+				<note nid="n44015017.1">
+				</note>
+				 of mankind 
+				<crossref let="k" cid="c44015017.1">
+				</crossref>
+				may seek the Lord,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all the Gentiles 
+				<crossref let="l" cid="c44015017.2">
+				</crossref>
+				who are called by my name,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				 says the Lord, who makes these things
+
+			</verse>
+			<marker class="begin-verse" mid="v44015018">
+			</marker>
+			<verse num="18">
+				<crossref let="m" cid="c44015018.1">
+				</crossref>
+				known from of old.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v44015019">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="19">
+				Therefore 
+				<crossref let="n" cid="c44015019.1">
+				</crossref>
+				my judgment is that we should not trouble those of the Gentiles who 
+				<crossref let="o" cid="c44015019.2">
+				</crossref>
+				turn to God,
+			</verse>
+			<marker class="begin-verse" mid="v44015020">
+			</marker>
+			<verse num="20">
+				but should write to them 
+				<crossref let="p" cid="c44015020.1">
+				</crossref>
+				to abstain from 
+				<crossref let="q" cid="c44015020.2">
+				</crossref>
+				the things polluted by idols, and from 
+				<crossref let="r" cid="c44015020.3">
+				</crossref>
+				sexual immorality, and from 
+				<crossref let="s" cid="c44015020.4">
+				</crossref>
+				what has been strangled, and from 
+				<crossref let="s" cid="c44015020.5">
+				</crossref>
+				blood.
+			</verse>
+			<marker class="begin-verse" mid="v44015021">
+			</marker>
+			<verse num="21">
+				For from ancient generations Moses has had in every city those who proclaim him, 
+				<crossref let="t" cid="c44015021.1">
+				</crossref>
+				for he is read every Sabbath in the synagogues.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44015022">
+			</marker>
+			<heading>
+				The Council's Letter to Gentile Believers
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="22">
+				Then it seemed good to 
+				<crossref let="u" cid="c44015022.1">
+				</crossref>
+				the apostles and the elders, with the whole church, to choose men from among them and send them to Antioch with Paul and Barnabas. They sent Judas called 
+				<crossref let="v" cid="c44015022.2">
+				</crossref>
+				Barsabbas, and 
+				<crossref let="w" cid="c44015022.3">
+				</crossref>
+				Silas, leading men among 
+				<crossref let="x" cid="c44015022.4">
+				</crossref>
+				the brothers,
+			</verse>
+			<marker class="begin-verse" mid="v44015023">
+			</marker>
+			<verse num="23">
+				with the following letter: 
+				<crossref let="x" cid="c44015023.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The brothers, both 
+				<crossref let="u" cid="c44015023.2">
+				</crossref>
+				the apostles and the elders, to the brothers
+				<note nid="n44015023.1">
+				</note>
+				 who are of the Gentiles in Antioch and Syria and Cilicia, 
+				<crossref let="y" cid="c44015023.3">
+				</crossref>
+				greetings.
+			</verse>
+			<marker class="begin-verse" mid="v44015024">
+			</marker>
+			<verse num="24">
+				Since we have heard that 
+				<crossref let="z" cid="c44015024.1">
+				</crossref>
+				some persons have gone out from us and 
+				<crossref let="a" cid="c44015024.2">
+				</crossref>
+				troubled you
+				<note nid="n44015024.1">
+				</note>
+				 with words, unsettling your minds, although we gave them no instructions,
+			</verse>
+			<marker class="begin-verse" mid="v44015025">
+			</marker>
+			<verse num="25">
+				it has seemed good to us, having come 
+				<crossref let="b" cid="c44015025.1">
+				</crossref>
+				to one accord, to choose men and send them to you with our 
+				<crossref let="c" cid="c44015025.2">
+				</crossref>
+				beloved Barnabas and Paul,
+			</verse>
+			<marker class="begin-verse" mid="v44015026">
+			</marker>
+			<verse num="26">
+				<crossref let="d" cid="c44015026.1">
+				</crossref>
+				men who have 
+				<crossref let="e" cid="c44015026.2">
+				</crossref>
+				risked their lives for the sake of our Lord Jesus Christ.
+			</verse>
+			<marker class="begin-verse" mid="v44015027">
+			</marker>
+			<verse num="27">
+				We have therefore sent 
+				<crossref let="f" cid="c44015027.1">
+				</crossref>
+				Judas and Silas, who themselves will tell you the same things by word of mouth.
+			</verse>
+			<marker class="begin-verse" mid="v44015028">
+			</marker>
+			<verse num="28">
+				For it has seemed good 
+				<crossref let="g" cid="c44015028.1">
+				</crossref>
+				to the Holy Spirit and 
+				<crossref let="h" cid="c44015028.2">
+				</crossref>
+				to us 
+				<crossref let="i" cid="c44015028.3">
+				</crossref>
+				to lay on you no greater burden than these requirements:
+			</verse>
+			<marker class="begin-verse" mid="v44015029">
+			</marker>
+			<verse num="29">
+				<crossref let="j" cid="c44015029.1">
+				</crossref>
+				that you abstain from 
+				<crossref let="k" cid="c44015029.2">
+				</crossref>
+				what has been sacrificed to idols, and from blood, and from what has been strangled, and from sexual immorality. If you keep yourselves from these, you will do well. Farewell.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44015030">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="30">
+				So when they were sent off, they went down to Antioch, and having gathered the congregation together, they delivered the letter.
+			</verse>
+			<marker class="begin-verse" mid="v44015031">
+			</marker>
+			<verse num="31">
+				And when they had read it, they rejoiced because of its encouragement.
+			</verse>
+			<marker class="begin-verse" mid="v44015032">
+			</marker>
+			<verse num="32">
+				And Judas and Silas, who were themselves 
+				<crossref let="l" cid="c44015032.1">
+				</crossref>
+				prophets, encouraged and 
+				<crossref let="m" cid="c44015032.2">
+				</crossref>
+				strengthened 
+				<crossref let="n" cid="c44015032.3">
+				</crossref>
+				the brothers with many words.
+			</verse>
+			<marker class="begin-verse" mid="v44015033">
+			</marker>
+			<verse num="33">
+				And after they had spent some time, they were sent off 
+				<crossref let="o" cid="c44015033.1">
+				</crossref>
+				in peace by 
+				<crossref let="n" cid="c44015033.2">
+				</crossref>
+				the brothers to those who had sent them.
+				<note nid="n44015033.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v44015035">
+			</marker>
+			<verse num="35">
+				But 
+				<crossref let="p" cid="c44015035.1">
+				</crossref>
+				Paul and Barnabas remained in Antioch, teaching and preaching the word of the Lord, with many others also.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44015036">
+			</marker>
+			<heading>
+				Paul and Barnabas Separate
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="36">
+				And after some days Paul said to Barnabas, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let us return and visit 
+				<crossref let="n" cid="c44015036.1">
+				</crossref>
+				the brothers 
+				<crossref let="q" cid="c44015036.2">
+				</crossref>
+				in every city where we proclaimed the word of the Lord, and see how they are.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44015037">
+			</marker>
+			<verse num="37">
+				Now Barnabas wanted to take with them 
+				<crossref let="r" cid="c44015037.1">
+				</crossref>
+				John called Mark.
+			</verse>
+			<marker class="begin-verse" mid="v44015038">
+			</marker>
+			<verse num="38">
+				But Paul thought best not to take with them one 
+				<crossref let="s" cid="c44015038.1">
+				</crossref>
+				who had withdrawn from them in Pamphylia and had not gone with them to the work.
+			</verse>
+			<marker class="begin-verse" mid="v44015039">
+			</marker>
+			<verse num="39">
+				And there arose 
+				<crossref let="t" cid="c44015039.1">
+				</crossref>
+				a sharp disagreement, so that they separated from each other. 
+				<crossref let="u" cid="c44015039.2">
+				</crossref>
+				Barnabas took Mark with him and sailed away to Cyprus,
+			</verse>
+			<marker class="begin-verse" mid="v44015040">
+			</marker>
+			<verse num="40">
+				but Paul chose Silas and departed, 
+				<crossref let="v" cid="c44015040.1">
+				</crossref>
+				having been commended by 
+				<crossref let="w" cid="c44015040.2">
+				</crossref>
+				the brothers to 
+				<crossref let="x" cid="c44015040.3">
+				</crossref>
+				the grace of the Lord.
+			</verse>
+			<marker class="begin-verse" mid="v44015041">
+			</marker>
+			<verse num="41">
+				And he went through Syria and Cilicia, 
+				<crossref let="y" cid="c44015041.1">
+				</crossref>
+				strengthening the churches.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Thessalonians" num="53">
+		<marker class="begin-verse" mid="v53001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="a" cid="c53001001.1">
+				</crossref>
+				Paul, Silvanus, and Timothy,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v53001002">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				Grace to you and peace from God our Father and the Lord Jesus Christ.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v53001003">
+			</marker>
+			<heading
+				>
+				Thanksgiving
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				<crossref let="b" cid="c53001003.1">
+				</crossref>
+				We ought always to give thanks to God for you, brothers,
+				<note nid="n53001003.1">
+				</note>
+				 as is right, because your faith is growing abundantly, and the love of every one of you for one another is increasing.
+			</verse>
+			<marker class="begin-verse" mid="v53001004">
+			</marker>
+			<verse num="4">
+				Therefore 
+				<crossref let="c" cid="c53001004.1">
+				</crossref>
+				we ourselves boast about you 
+				<crossref let="d" cid="c53001004.2">
+				</crossref>
+				in the churches of God for your steadfastness and faith 
+				<crossref let="e" cid="c53001004.3">
+				</crossref>
+				in all your persecutions and in the afflictions that you are enduring.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v53001005">
+			</marker>
+			<heading
+				>
+				The Judgment at Christ's Coming
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				This is 
+				<crossref let="f" cid="c53001005.1">
+				</crossref>
+				evidence of the righteous judgment of God, that you may be 
+				<crossref let="g" cid="c53001005.2">
+				</crossref>
+				considered worthy of the kingdom of God, for which you are also sufferingù
+			</verse>
+			<marker class="begin-verse" mid="v53001006">
+			</marker>
+			<verse num="6">
+				since indeed God considers it 
+				<crossref let="h" cid="c53001006.1">
+				</crossref>
+				just 
+				<crossref let="i" cid="c53001006.2">
+				</crossref>
+				to repay with affliction those who afflict you,
+			</verse>
+			<marker class="begin-verse" mid="v53001007">
+			</marker>
+			<verse num="7">
+				and to grant 
+				<crossref let="j" cid="c53001007.1">
+				</crossref>
+				relief to you who are afflicted as well as to us, when 
+				<crossref let="k" cid="c53001007.2">
+				</crossref>
+				the Lord Jesus is revealed from heaven 
+				<crossref let="l" cid="c53001007.3">
+				</crossref>
+				with his mighty angels
+			</verse>
+			<marker class="begin-verse" mid="v53001008">
+			</marker>
+			<verse num="8">
+				<crossref let="m" cid="c53001008.1">
+				</crossref>
+				in flaming fire, inflicting vengeance on those 
+				<crossref let="n" cid="c53001008.2">
+				</crossref>
+				who do not know God and on those who 
+				<crossref let="o" cid="c53001008.3">
+				</crossref>
+				do not obey the gospel of our Lord Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v53001009">
+			</marker>
+			<verse num="9">
+				They will suffer the punishment of 
+				<crossref let="p" cid="c53001009.1">
+				</crossref>
+				eternal destruction, 
+				<crossref let="q" cid="c53001009.2">
+				</crossref>
+				away from
+				<note nid="n53001009.1">
+				</note>
+				 the presence of the Lord and from the glory of his might,
+			</verse>
+			<marker class="begin-verse" mid="v53001010">
+			</marker>
+			<verse num="10">
+				<crossref let="r" cid="c53001010.1">
+				</crossref>
+				when he comes on 
+				<crossref let="s" cid="c53001010.2">
+				</crossref>
+				that day 
+				<crossref let="t" cid="c53001010.3">
+				</crossref>
+				to be glorified in his saints, and to be marveled at among all who have believed, because our 
+				<crossref let="u" cid="c53001010.4">
+				</crossref>
+				testimony to you 
+				<crossref let="v" cid="c53001010.5">
+				</crossref>
+				was believed.
+			</verse>
+			<marker class="begin-verse" mid="v53001011">
+			</marker>
+			<verse num="11">
+				To this end we 
+				<crossref let="w" cid="c53001011.1">
+				</crossref>
+				always pray for you, that our God may 
+				<crossref let="x" cid="c53001011.2">
+				</crossref>
+				make you worthy of his calling and may fulfill every resolve for good and every 
+				<crossref let="y" cid="c53001011.3">
+				</crossref>
+				work of faith by his power,
+			</verse>
+			<marker class="begin-verse" mid="v53001012">
+			</marker>
+			<verse num="12">
+				so that the name of our Lord Jesus 
+				<crossref let="z" cid="c53001012.1">
+				</crossref>
+				may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="2 Samuel" num="9">
+		<marker class="begin-verse" mid="v10019001">
+		</marker>
+		<chapter num="19">
+			<heading
+				>
+				Joab Rebukes David
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				It was told Joab, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, the king is weeping and mourning for Absalom.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019002">
+			</marker>
+			<verse num="2">
+				So the victory that day was turned into mourning for all the people, for the people heard that day, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The king is grieving for his son.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019003">
+			</marker>
+			<verse num="3">
+				And the people stole into the city that day as people steal in who are ashamed when they flee in battle.
+			</verse>
+			<marker class="begin-verse" mid="v10019004">
+			</marker>
+			<verse num="4">
+				The king 
+				<crossref let="p" cid="c10019004.1">
+				</crossref>
+				covered his face, and the king cried with a loud voice, 
+				<crossref let="q" cid="c10019004.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O my son Absalom, O Absalom, my son, my son!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019005">
+			</marker>
+			<verse num="5">
+				Then Joab came into the house to the king and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You have today covered with shame the faces of all your servants, who have this day saved your life and the lives of your sons and your daughters and the lives of your wives and your concubines,
+			</verse>
+			<marker class="begin-verse" mid="v10019006">
+			</marker>
+			<verse num="6">
+				because you love those who hate you and hate those who love you. For you have made it clear today that commanders and servants are nothing to you, for today I know that if Absalom were alive and all of us were dead today, then you would be pleased.
+			</verse>
+			<marker class="begin-verse" mid="v10019007">
+			</marker>
+			<verse num="7">
+				Now therefore arise, go out and speak 
+				<crossref let="r" cid="c10019007.1">
+				</crossref>
+				kindly to your servants, for I swear by the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, if you do not go, not a man will stay with you this night, and this will be worse for you than all the evil that has come upon you from your youth until now.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019008">
+			</marker>
+			<verse num="8">
+				Then the king arose and took his 
+				<crossref let="s" cid="c10019008.1">
+				</crossref>
+				seat in the gate. And the people were all told, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, the king is sitting in the gate.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And all the people came before the king.
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<heading
+					>
+					David Returns to Jerusalem
+				</heading>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				 Now Israel had 
+				<crossref let="t" cid="c10019008.2">
+				</crossref>
+				fled every man to his own home.
+			</verse>
+			<marker class="begin-verse" mid="v10019009">
+			</marker>
+			<verse num="9">
+				And all the people were arguing throughout all the tribes of Israel, saying, 
+				<crossref let="u" cid="c10019009.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The king delivered us from the hand of our enemies and 
+				<crossref let="v" cid="c10019009.2">
+				</crossref>
+				saved us from the hand of the Philistines, and now 
+				<crossref let="w" cid="c10019009.3">
+				</crossref>
+				he has fled out of the land from Absalom.
+			</verse>
+			<marker class="begin-verse" mid="v10019010">
+			</marker>
+			<verse num="10">
+				But Absalom, whom we anointed over us, is dead in battle. Now therefore why do you say nothing about bringing the king back?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10019011">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				And King David sent this message to 
+				<crossref let="x" cid="c10019011.1">
+				</crossref>
+				Zadok and Abiathar the priests: 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say to the elders of Judah, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Why should you be the last to bring the king back to his house, when the word of all Israel has come to the king?
+				<note nid="n10019011.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v10019012">
+			</marker>
+			<verse num="12">
+				You are my brothers; 
+				<crossref let="y" cid="c10019012.1">
+				</crossref>
+				you are my bone and my flesh. Why then should you be the last to bring back the king?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019013">
+			</marker>
+			<verse num="13">
+				And say to Amasa, 
+				<crossref let="z" cid="c10019013.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Are you not my bone and my flesh? 
+				<crossref let="a" cid="c10019013.2">
+				</crossref>
+				God do so to me and more also, if you are not 
+				<crossref let="b" cid="c10019013.3">
+				</crossref>
+				commander of my army from now on in place of Joab.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019014">
+			</marker>
+			<verse num="14">
+				And he swayed the heart of all the men of Judah 
+				<crossref let="c" cid="c10019014.1">
+				</crossref>
+				as one man, so that they sent word to the king, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Return, both you and all your servants.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019015">
+			</marker>
+			<verse num="15">
+				So the king came back to the Jordan, and Judah came to Gilgal to meet the king and to bring the king over the Jordan.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10019016">
+			</marker>
+			<heading
+				>
+				David Pardons His Enemies
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				And 
+				<crossref let="d" cid="c10019016.1">
+				</crossref>
+				Shimei the son of Gera, the Benjaminite, from Bahurim, hurried to come down with the men of Judah to meet King David.
+			</verse>
+			<marker class="begin-verse" mid="v10019017">
+			</marker>
+			<verse num="17">
+				And with him were a thousand men from Benjamin. And 
+				<crossref let="e" cid="c10019017.1">
+				</crossref>
+				Ziba the servant of the house of Saul, with his fifteen sons and his twenty servants, rushed down to the Jordan before the king,
+			</verse>
+			<marker class="begin-verse" mid="v10019018">
+			</marker>
+			<verse num="18">
+				and they crossed the ford to bring over the king's household and to do his pleasure. And Shimei the son of Gera fell down before the king, as he was about to cross the Jordan,
+			</verse>
+			<marker class="begin-verse" mid="v10019019">
+			</marker>
+			<verse num="19">
+				and said to the king, 
+				<crossref let="f" cid="c10019019.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let not my lord hold me guilty or remember how your servant 
+				<crossref let="g" cid="c10019019.2">
+				</crossref>
+				did wrong on the day my lord the king left Jerusalem. Do not let the king take it to heart.
+			</verse>
+			<marker class="begin-verse" mid="v10019020">
+			</marker>
+			<verse num="20">
+				For your servant knows that I have sinned. Therefore, behold, I have come this day, the first 
+				<crossref let="h" cid="c10019020.1">
+				</crossref>
+				of all the house of Joseph to come down to meet my lord the king.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019021">
+			</marker>
+			<verse num="21">
+				Abishai the son of Zeruiah answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Shall not Shimei be put to death for this, because 
+				<crossref let="i" cid="c10019021.1">
+				</crossref>
+				he cursed the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's anointed?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019022">
+			</marker>
+			<verse num="22">
+				But David said, 
+				<crossref let="j" cid="c10019022.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What have I to do with you, you sons of Zeruiah, that you should this day be as an adversary to me? 
+				<crossref let="k" cid="c10019022.2">
+				</crossref>
+				Shall anyone be put to death in Israel this day? For do I not know that I am this day king over Israel?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019023">
+			</marker>
+			<verse num="23">
+				<crossref let="l" cid="c10019023.1">
+				</crossref>
+				And the king said to Shimei, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You shall not die.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And the king gave him his oath.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10019024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				And 
+				<crossref let="m" cid="c10019024.1">
+				</crossref>
+				Mephibosheth the son of Saul came down to meet the king. He had neither taken care of his feet nor trimmed his beard nor washed his clothes, from the day the king departed until the day he came back in safety.
+			</verse>
+			<marker class="begin-verse" mid="v10019025">
+			</marker>
+			<verse num="25">
+				And when he came to Jerusalem to meet the king, the king said to him, 
+				<crossref let="n" cid="c10019025.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why did you not go with me, Mephibosheth?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019026">
+			</marker>
+			<verse num="26">
+				He answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				My lord, O king, my servant deceived me, for your servant said to him, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will saddle a donkey for myself,
+				<note nid="n10019026.1">
+				</note>
+				 that I may ride on it and go with the king.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				 For 
+				<crossref let="o" cid="c10019026.1">
+				</crossref>
+				your servant is lame.
+			</verse>
+			<marker class="begin-verse" mid="v10019027">
+			</marker>
+			<verse num="27">
+				<crossref let="p" cid="c10019027.1">
+				</crossref>
+				He has slandered your servant to my lord the king. But my lord the king is 
+				<crossref let="q" cid="c10019027.2">
+				</crossref>
+				like the angel of God; do therefore what seems good to you.
+			</verse>
+			<marker class="begin-verse" mid="v10019028">
+			</marker>
+			<verse num="28">
+				For all my father's house were but men doomed to death before my lord the king, but 
+				<crossref let="r" cid="c10019028.1">
+				</crossref>
+				you set your servant among those who eat at your table. What further right have I, then, to cry to the king?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019029">
+			</marker>
+			<verse num="29">
+				And the king said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why speak any more of your affairs? I have decided: you and Ziba shall divide the land.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019030">
+			</marker>
+			<verse num="30">
+				And Mephibosheth said to the king, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Oh, let him take it all, since my lord the king has come safely home.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10019031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				Now 
+				<crossref let="s" cid="c10019031.1">
+				</crossref>
+				Barzillai the Gileadite had come down from Rogelim, and he went on with the king to the Jordan, to escort him over the Jordan.
+			</verse>
+			<marker class="begin-verse" mid="v10019032">
+			</marker>
+			<verse num="32">
+				Barzillai was a very aged man, eighty years old. 
+				<crossref let="t" cid="c10019032.1">
+				</crossref>
+				He had provided the king with food while he stayed at Mahanaim, for he was a very wealthy man.
+			</verse>
+			<marker class="begin-verse" mid="v10019033">
+			</marker>
+			<verse num="33">
+				And the king said to Barzillai, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come over with me, and I will provide for you with me in Jerusalem.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019034">
+			</marker>
+			<verse num="34">
+				But Barzillai said to the king, 
+				<crossref let="u" cid="c10019034.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How many years have I still to live, that I should go up with the king to Jerusalem?
+			</verse>
+			<marker class="begin-verse" mid="v10019035">
+			</marker>
+			<verse num="35">
+				I am this day 
+				<crossref let="v" cid="c10019035.1">
+				</crossref>
+				eighty years old. Can I discern what is pleasant and what is not? Can your servant taste what he eats or what he drinks? Can I still listen to the voice of singing men and singing women? Why then should your servant be 
+				<crossref let="w" cid="c10019035.2">
+				</crossref>
+				an added burden to my lord the king?
+			</verse>
+			<marker class="begin-verse" mid="v10019036">
+			</marker>
+			<verse num="36">
+				Your servant will go a little way over the Jordan with the king. Why should the king repay me with such a reward?
+			</verse>
+			<marker class="begin-verse" mid="v10019037">
+			</marker>
+			<verse num="37">
+				Please let your servant return, that I may die in my own city near the grave of my father and my mother. But here is your servant 
+				<crossref let="x" cid="c10019037.1">
+				</crossref>
+				Chimham. Let him go over with my lord the king, and do for him whatever seems good to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019038">
+			</marker>
+			<verse num="38">
+				And the king answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Chimham shall go over with me, and I will do for him whatever seems good to you, and all that you desire of me I will do for you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019039">
+			</marker>
+			<verse num="39">
+				Then all the people went over the Jordan, and the king went over. And 
+				<crossref let="y" cid="c10019039.1">
+				</crossref>
+				the king kissed Barzillai and blessed him, and he returned to his own home.
+			</verse>
+			<marker class="begin-verse" mid="v10019040">
+			</marker>
+			<verse num="40">
+				The king went on to Gilgal, and Chimham went on with him. All the people of Judah, and also half the people of Israel, brought the king on his way.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v10019041">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="41">
+				Then all the men of Israel came to the king and said to the king, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have our brothers the men of Judah stolen you away and 
+				<crossref let="z" cid="c10019041.1">
+				</crossref>
+				brought the king and his household over the Jordan, and all David's men with him?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019042">
+			</marker>
+			<verse num="42">
+				All the men of Judah answered the men of Israel, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because the king is 
+				<crossref let="a" cid="c10019042.1">
+				</crossref>
+				our close relative. Why then are you angry over this matter? Have we eaten at all at the king's expense? Or has he given us any gift?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v10019043">
+			</marker>
+			<verse num="43">
+				And the men of Israel answered the men of Judah, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We have 
+				<crossref let="b" cid="c10019043.1">
+				</crossref>
+				ten shares in the king, and in David also we have more than you. Why then did you despise us? Were we not the first to speak of bringing back our king?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<crossref let="c" cid="c10019043.2">
+				</crossref>
+				But the words of the men of Judah were fiercer than the words of the men of Israel.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

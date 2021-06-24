@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18035001">
+		</marker>
+		<chapter num="35">
+			<heading
+				>
+				Elihu Condemns Job
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And Elihu answered and said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18035002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do you think this to be just?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Do you say, 
+				<crossref let="v" cid="c18035002.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				It is my right before God,
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18035003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				that you ask, 
+				<crossref let="w" cid="c18035003.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				What advantage have I?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				How am I better off than if I had sinned?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18035004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				I will answer you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="x" cid="c18035004.1">
+				</crossref>
+				your friends with you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18035005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c18035005.1">
+				</crossref>
+				Look at the heavens, and see;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and behold the clouds, which are higher than you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18035006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				If you have sinned, 
+				<crossref let="z" cid="c18035006.1">
+				</crossref>
+				what do you accomplish against him?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				And if your transgressions are multiplied, what do you do to him?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18035007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c18035007.1">
+				</crossref>
+				If you are righteous, what do you give to him?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Or what does he receive from your hand?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18035008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Your wickedness concerns a man like yourself,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your righteousness 
+				<crossref let="b" cid="c18035008.1">
+				</crossref>
+				a son of man.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18035009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Because of the multitude of 
+				<crossref let="c" cid="c18035009.1">
+				</crossref>
+				oppressions people 
+				<crossref let="d" cid="c18035009.2">
+				</crossref>
+				cry out;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they call for help because of the arm of 
+				<crossref let="e" cid="c18035009.3">
+				</crossref>
+				the mighty.
+				<note nid="n18035009.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18035010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				But none says, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Where is God my 
+				<crossref let="f" cid="c18035010.1">
+				</crossref>
+				Maker,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who gives 
+				<crossref let="g" cid="c18035010.2">
+				</crossref>
+				songs in the night,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18035011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				who teaches us 
+				<crossref let="h" cid="c18035011.1">
+				</crossref>
+				more than the beasts of the earth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and makes us wiser than the birds of the heavens?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18035012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				There they 
+				<crossref let="i" cid="c18035012.1">
+				</crossref>
+				cry out, but he does not answer,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because of the pride of evil men.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18035013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				Surely God does not hear an empty cry,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor does the Almighty regard it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18035014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				How much less when you say that you 
+				<crossref let="j" cid="c18035014.1">
+				</crossref>
+				do not see him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that the case is before him, and you are 
+				<crossref let="k" cid="c18035014.2">
+				</crossref>
+				waiting for him!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18035015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				And now, because 
+				<crossref let="l" cid="c18035015.1">
+				</crossref>
+				his anger does not punish,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he does not take much note of transgression,
+				<note nid="n18035015.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18035016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Job opens his mouth in empty talk;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="m" cid="c18035016.1">
+				</crossref>
+				multiplies words 
+				<crossref let="n" cid="c18035016.2">
+				</crossref>
+				without knowledge.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,854 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Acts" num="43">
+		<marker class="begin-verse" mid="v44013001">
+		</marker>
+		<chapter num="13">
+			<heading>
+				Barnabas and Saul Sent Off
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="1">
+				Now there were in the church at Antioch 
+				<crossref let="n" cid="c44013001.1">
+				</crossref>
+				prophets and 
+				<crossref let="n" cid="c44013001.2">
+				</crossref>
+				teachers, 
+				<crossref let="o" cid="c44013001.3">
+				</crossref>
+				Barnabas, Simeon who was called Niger,
+				<note nid="n44013001.1">
+				</note>
+				 Lucius of Cyrene, Manaen a member of the court of 
+				<crossref let="p" cid="c44013001.4">
+				</crossref>
+				Herod the tetrarch, and Saul.
+			</verse>
+			<marker class="begin-verse" mid="v44013002">
+			</marker>
+			<verse num="2">
+				While they were worshiping the Lord and fasting, 
+				<crossref let="q" cid="c44013002.1">
+				</crossref>
+				the Holy Spirit said, 
+				<crossref let="r" cid="c44013002.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Set apart for me Barnabas and Saul 
+				<crossref let="s" cid="c44013002.3">
+				</crossref>
+				for the work to which I have called them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44013003">
+			</marker>
+			<verse num="3">
+				Then after fasting and 
+				<crossref let="t" cid="c44013003.1">
+				</crossref>
+				praying they laid their hands on them and 
+				<crossref let="u" cid="c44013003.2">
+				</crossref>
+				sent them off.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44013004">
+			</marker>
+			<heading>
+				Barnabas and Saul on Cyprus
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="4">
+				So, being sent out 
+				<crossref let="v" cid="c44013004.1">
+				</crossref>
+				by the Holy Spirit, they went down to Seleucia, and from there they sailed to Cyprus.
+			</verse>
+			<marker class="begin-verse" mid="v44013005">
+			</marker>
+			<verse num="5">
+				When they arrived at Salamis, they proclaimed the word of God 
+				<crossref let="w" cid="c44013005.1">
+				</crossref>
+				in the synagogues of the Jews. And they had 
+				<crossref let="x" cid="c44013005.2">
+				</crossref>
+				John to 
+				<crossref let="y" cid="c44013005.3">
+				</crossref>
+				assist them.
+			</verse>
+			<marker class="begin-verse" mid="v44013006">
+			</marker>
+			<verse num="6">
+				When they had gone through the whole island as far as Paphos, they came upon a certain 
+				<crossref let="z" cid="c44013006.1">
+				</crossref>
+				magician, 
+				<crossref let="a" cid="c44013006.2">
+				</crossref>
+				a Jewish false prophet named Bar-Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v44013007">
+			</marker>
+			<verse num="7">
+				He was with 
+				<crossref let="b" cid="c44013007.1">
+				</crossref>
+				the proconsul, Sergius Paulus, a man of intelligence, who summoned Barnabas and Saul and sought to hear the word of God.
+			</verse>
+			<marker class="begin-verse" mid="v44013008">
+			</marker>
+			<verse num="8">
+				But Elymas the 
+				<crossref let="z" cid="c44013008.1">
+				</crossref>
+				magician (for that is the meaning of his name) 
+				<crossref let="c" cid="c44013008.2">
+				</crossref>
+				opposed them, seeking to turn 
+				<crossref let="d" cid="c44013008.3">
+				</crossref>
+				the proconsul away from the faith.
+			</verse>
+			<marker class="begin-verse" mid="v44013009">
+			</marker>
+			<verse num="9">
+				But Saul, who was also called Paul, 
+				<crossref let="e" cid="c44013009.1">
+				</crossref>
+				filled with the Holy Spirit, looked intently at him
+			</verse>
+			<marker class="begin-verse" mid="v44013010">
+			</marker>
+			<verse num="10">
+				and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You 
+				<crossref let="f" cid="c44013010.1">
+				</crossref>
+				son of the devil, you enemy of all righteousness, full of all deceit and 
+				<crossref let="g" cid="c44013010.2">
+				</crossref>
+				villainy, will you not stop 
+				<crossref let="h" cid="c44013010.3">
+				</crossref>
+				making crooked 
+				<crossref let="i" cid="c44013010.4">
+				</crossref>
+				the straight paths of the Lord?
+			</verse>
+			<marker class="begin-verse" mid="v44013011">
+			</marker>
+			<verse num="11">
+				And now, behold, 
+				<crossref let="j" cid="c44013011.1">
+				</crossref>
+				the hand of the Lord is upon you, and you will be blind and unable to see the sun for a time.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Immediately mist and darkness fell upon him, and he went about seeking 
+				<crossref let="k" cid="c44013011.2">
+				</crossref>
+				people to lead him by the hand.
+			</verse>
+			<marker class="begin-verse" mid="v44013012">
+			</marker>
+			<verse num="12">
+				Then the proconsul believed, when he saw what had occurred, for he was astonished at 
+				<crossref let="l" cid="c44013012.1">
+				</crossref>
+				the teaching of the Lord.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44013013">
+			</marker>
+			<heading>
+				Paul and Barnabas at Antioch in Pisidia
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="13">
+				Now Paul and his companions set sail from Paphos and came to Perga in Pamphylia. And 
+				<crossref let="m" cid="c44013013.1">
+				</crossref>
+				John left them and returned 
+				<crossref let="n" cid="c44013013.2">
+				</crossref>
+				to Jerusalem,
+			</verse>
+			<marker class="begin-verse" mid="v44013014">
+			</marker>
+			<verse num="14">
+				but they went on from Perga and came to Antioch in Pisidia. And 
+				<crossref let="o" cid="c44013014.1">
+				</crossref>
+				on the Sabbath day 
+				<crossref let="p" cid="c44013014.2">
+				</crossref>
+				they went into the synagogue and sat down.
+			</verse>
+			<marker class="begin-verse" mid="v44013015">
+			</marker>
+			<verse num="15">
+				After 
+				<crossref let="q" cid="c44013015.1">
+				</crossref>
+				the reading from 
+				<crossref let="r" cid="c44013015.2">
+				</crossref>
+				the Law and the Prophets, 
+				<crossref let="s" cid="c44013015.3">
+				</crossref>
+				the rulers of the synagogue sent a message to them, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Brothers, if you have any 
+				<crossref let="t" cid="c44013015.4">
+				</crossref>
+				word of encouragement for the people, say it.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44013016">
+			</marker>
+			<verse num="16">
+				So Paul stood up, and 
+				<crossref let="u" cid="c44013016.1">
+				</crossref>
+				motioning with his hand said:
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-paragraph>
+				</begin-paragraph>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Men of Israel and 
+				<crossref let="v" cid="c44013016.2">
+				</crossref>
+				you who fear God, listen.
+
+			</verse>
+			<marker class="begin-verse" mid="v44013017">
+			</marker>
+			<verse num="17">
+				<crossref let="w" cid="c44013017.1">
+				</crossref>
+				The God of this people Israel 
+				<crossref let="x" cid="c44013017.2">
+				</crossref>
+				chose our fathers and 
+				<crossref let="y" cid="c44013017.3">
+				</crossref>
+				made the people great 
+				<crossref let="z" cid="c44013017.4">
+				</crossref>
+				during their stay in the land of Egypt, and 
+				<crossref let="a" cid="c44013017.5">
+				</crossref>
+				with uplifted arm he led them out of it.
+			</verse>
+			<marker class="begin-verse" mid="v44013018">
+			</marker>
+			<verse num="18">
+				And for about 
+				<crossref let="b" cid="c44013018.1">
+				</crossref>
+				forty years 
+				<crossref let="c" cid="c44013018.2">
+				</crossref>
+				he put up with
+				<note nid="n44013018.1">
+				</note>
+				 them in the wilderness.
+			</verse>
+			<marker class="begin-verse" mid="v44013019">
+			</marker>
+			<verse num="19">
+				And 
+				<crossref let="d" cid="c44013019.1">
+				</crossref>
+				after destroying 
+				<crossref let="e" cid="c44013019.2">
+				</crossref>
+				seven nations in the land of Canaan, 
+				<crossref let="f" cid="c44013019.3">
+				</crossref>
+				he gave them their land as an inheritance.
+			</verse>
+			<marker class="begin-verse" mid="v44013020">
+			</marker>
+			<verse num="20">
+				All this took about 450 years. And after that 
+				<crossref let="g" cid="c44013020.1">
+				</crossref>
+				he gave them judges until 
+				<crossref let="h" cid="c44013020.2">
+				</crossref>
+				Samuel the prophet.
+			</verse>
+			<marker class="begin-verse" mid="v44013021">
+			</marker>
+			<verse num="21">
+				Then 
+				<crossref let="i" cid="c44013021.1">
+				</crossref>
+				they asked for a king, and God gave them Saul 
+				<crossref let="j" cid="c44013021.2">
+				</crossref>
+				the son of Kish, a man of the tribe of Benjamin, for forty years.
+			</verse>
+			<marker class="begin-verse" mid="v44013022">
+			</marker>
+			<verse num="22">
+				And 
+				<crossref let="k" cid="c44013022.1">
+				</crossref>
+				when he had removed him, 
+				<crossref let="l" cid="c44013022.2">
+				</crossref>
+				he raised up David to be their king, of whom he testified and said, 
+				<crossref let="m" cid="c44013022.3">
+				</crossref>
+				<crossref cid="t44013022.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I have found in David the son of Jesse 
+				<crossref let="n" cid="c44013022.4">
+				</crossref>
+				<crossref cid="t44013022.2">
+				</crossref>
+				a man after my heart, 
+				<crossref let="o" cid="c44013022.5">
+				</crossref>
+				who will do all my will.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44013023">
+			</marker>
+			<verse num="23">
+				<crossref let="p" cid="c44013023.1">
+				</crossref>
+				Of this man's offspring God has brought to Israel 
+				<crossref let="q" cid="c44013023.2">
+				</crossref>
+				a Savior, Jesus, 
+				<crossref let="r" cid="c44013023.3">
+				</crossref>
+				as he promised.
+			</verse>
+			<marker class="begin-verse" mid="v44013024">
+			</marker>
+			<verse num="24">
+				Before his coming, 
+				<crossref let="s" cid="c44013024.1">
+				</crossref>
+				John had proclaimed 
+				<crossref let="t" cid="c44013024.2">
+				</crossref>
+				a baptism of repentance to all the people of Israel.
+			</verse>
+			<marker class="begin-verse" mid="v44013025">
+			</marker>
+			<verse num="25">
+				And as John was finishing his course, 
+				<crossref let="u" cid="c44013025.1">
+				</crossref>
+				he said, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				What do you suppose that I am? I am not he. No, but behold, after me one is coming, the sandals of whose feet I am not worthy to untie.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44013026">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="26">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Brothers, sons of the family of Abraham, and those among you 
+				<crossref let="v" cid="c44013026.1">
+				</crossref>
+				who fear God, to us has been sent 
+				<crossref let="w" cid="c44013026.2">
+				</crossref>
+				the message of 
+				<crossref let="x" cid="c44013026.3">
+				</crossref>
+				this salvation.
+			</verse>
+			<marker class="begin-verse" mid="v44013027">
+			</marker>
+			<verse num="27">
+				For those who live in Jerusalem and their rulers, because 
+				<crossref let="y" cid="c44013027.1">
+				</crossref>
+				they did not recognize him nor understand 
+				<crossref let="z" cid="c44013027.2">
+				</crossref>
+				the utterances of the prophets, which are read every Sabbath, 
+				<crossref let="a" cid="c44013027.3">
+				</crossref>
+				fulfilled them by condemning him.
+			</verse>
+			<marker class="begin-verse" mid="v44013028">
+			</marker>
+			<verse num="28">
+				And 
+				<crossref let="b" cid="c44013028.1">
+				</crossref>
+				though they found in him no guilt worthy of death, 
+				<crossref let="c" cid="c44013028.2">
+				</crossref>
+				they asked Pilate to have him executed.
+			</verse>
+			<marker class="begin-verse" mid="v44013029">
+			</marker>
+			<verse num="29">
+				And when 
+				<crossref let="d" cid="c44013029.1">
+				</crossref>
+				they had carried out all that was written of him, 
+				<crossref let="e" cid="c44013029.2">
+				</crossref>
+				they took him down from 
+				<crossref let="f" cid="c44013029.3">
+				</crossref>
+				the tree and laid him in a tomb.
+			</verse>
+			<marker class="begin-verse" mid="v44013030">
+			</marker>
+			<verse num="30">
+				But 
+				<crossref let="g" cid="c44013030.1">
+				</crossref>
+				God raised him from the dead,
+			</verse>
+			<marker class="begin-verse" mid="v44013031">
+			</marker>
+			<verse num="31">
+				and for many days 
+				<crossref let="h" cid="c44013031.1">
+				</crossref>
+				he appeared to those 
+				<crossref let="i" cid="c44013031.2">
+				</crossref>
+				who had come up with him 
+				<crossref let="j" cid="c44013031.3">
+				</crossref>
+				from Galilee to Jerusalem, 
+				<crossref let="k" cid="c44013031.4">
+				</crossref>
+				who are now 
+				<crossref let="l" cid="c44013031.5">
+				</crossref>
+				his witnesses to the people.
+			</verse>
+			<marker class="begin-verse" mid="v44013032">
+			</marker>
+			<verse num="32">
+				And we bring you the good news 
+				<crossref let="m" cid="c44013032.1">
+				</crossref>
+				that what God promised to the fathers,
+			</verse>
+			<marker class="begin-verse" mid="v44013033">
+			</marker>
+			<verse num="33">
+				<crossref let="n" cid="c44013033.1">
+				</crossref>
+				this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm,
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="o" cid="c44013033.2">
+				</crossref>
+				<crossref cid="t44013033.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You are my Son,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				today I have begotten you.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v44013034">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="34">
+				And as for the fact that he raised him from the dead, 
+				<crossrefs>
+					<crossref let="p" cid="c44013034.1">
+					</crossref>
+					<crossref let="q" cid="c44013034.2">
+					</crossref>
+				</crossrefs>
+				no more to return to corruption, he has spoken in this way,
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I will give you 
+				<crossref let="r" cid="c44013034.3">
+				</crossref>
+				<crossref cid="t44013034.1">
+				</crossref>
+				the holy and sure blessings of David.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v44013035">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="35">
+				Therefore he says also in another psalm,
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="s" cid="c44013035.1">
+				</crossref>
+				<crossref cid="t44013035.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				You will not let your Holy One see corruption.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v44013036">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="36">
+				For David, after he had 
+				<crossref let="t" cid="c44013036.1">
+				</crossref>
+				served the purpose of God in his own generation, 
+				<crossref let="u" cid="c44013036.2">
+				</crossref>
+				fell asleep and 
+				<crossref let="v" cid="c44013036.3">
+				</crossref>
+				was laid with his fathers and saw corruption,
+			</verse>
+			<marker class="begin-verse" mid="v44013037">
+			</marker>
+			<verse num="37">
+				but he whom 
+				<crossref let="w" cid="c44013037.1">
+				</crossref>
+				God raised up did not see corruption.
+			</verse>
+			<marker class="begin-verse" mid="v44013038">
+			</marker>
+			<verse num="38">
+				Let it be known to you therefore, brothers, 
+				<crossref let="x" cid="c44013038.1">
+				</crossref>
+				that through this man 
+				<crossref let="y" cid="c44013038.2">
+				</crossref>
+				forgiveness of sins is proclaimed to you,
+			</verse>
+			<marker class="begin-verse" mid="v44013039">
+			</marker>
+			<verse num="39">
+				and by him 
+				<crossref let="z" cid="c44013039.1">
+				</crossref>
+				everyone who believes is freed
+				<note nid="n44013039.1">
+				</note>
+				 from everything 
+				<crossref let="a" cid="c44013039.2">
+				</crossref>
+				from which you could not be freed by the law of Moses.
+			</verse>
+			<marker class="begin-verse" mid="v44013040">
+			</marker>
+			<verse num="40">
+				Beware, therefore, lest what is said in the Prophets should come about:
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44013041">
+			</marker>
+			<begin-block-indent>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="41">
+				<begin-line>
+				</begin-line>
+				<crossref let="b" cid="c44013041.1">
+				</crossref>
+				<crossref cid="t44013041.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Look, you scoffers,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				be astounded and perish;
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				for I am doing a work in your days,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a work that you will not believe, even if one tells it to you.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v44013042">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="42">
+				As they went out, the people begged that these things might be told them the next Sabbath.
+			</verse>
+			<marker class="begin-verse" mid="v44013043">
+			</marker>
+			<verse num="43">
+				And after the meeting of the synagogue broke up, many Jews and 
+				<crossref let="c" cid="c44013043.1">
+				</crossref>
+				devout 
+				<crossref let="d" cid="c44013043.2">
+				</crossref>
+				converts to Judaism followed Paul and Barnabas, who, as they spoke with them, urged them 
+				<crossref let="e" cid="c44013043.3">
+				</crossref>
+				to continue in 
+				<crossref let="f" cid="c44013043.4">
+				</crossref>
+				the grace of God.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44013044">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="44">
+				The next Sabbath almost the whole city gathered to hear the word of the Lord.
+			</verse>
+			<marker class="begin-verse" mid="v44013045">
+			</marker>
+			<verse num="45">
+				<crossref let="g" cid="c44013045.1">
+				</crossref>
+				But 
+				<crossref let="h" cid="c44013045.2">
+				</crossref>
+				when the Jews saw the crowds, they were filled with 
+				<crossref let="i" cid="c44013045.3">
+				</crossref>
+				jealousy and began to contradict what was spoken by Paul, 
+				<crossref let="j" cid="c44013045.4">
+				</crossref>
+				reviling him.
+			</verse>
+			<marker class="begin-verse" mid="v44013046">
+			</marker>
+			<verse num="46">
+				And Paul and Barnabas spoke out boldly, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It was necessary that the word of God 
+				<crossref let="k" cid="c44013046.1">
+				</crossref>
+				be spoken first to you. 
+				<crossref let="l" cid="c44013046.2">
+				</crossref>
+				Since you thrust it aside and judge yourselves 
+				<crossref let="m" cid="c44013046.3">
+				</crossref>
+				unworthy of eternal life, behold, we 
+				<crossref let="n" cid="c44013046.4">
+				</crossref>
+				are turning to the Gentiles.
+			</verse>
+			<marker class="begin-verse" mid="v44013047">
+			</marker>
+			<verse num="47">
+				<crossref let="o" cid="c44013047.1">
+				</crossref>
+				For so the Lord has commanded us, saying,
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="p" cid="c44013047.2">
+				</crossref>
+				<crossref cid="t44013047.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				I have made you 
+				<crossref let="q" cid="c44013047.3">
+				</crossref>
+				a light for the Gentiles,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that you may 
+				<crossref let="r" cid="c44013047.4">
+				</crossref>
+				bring salvation to the ends of the earth.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v44013048">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="48">
+				And when the Gentiles heard this, they began rejoicing and 
+				<crossref let="s" cid="c44013048.1">
+				</crossref>
+				glorifying the word of the Lord, and as many as were appointed to eternal life believed.
+			</verse>
+			<marker class="begin-verse" mid="v44013049">
+			</marker>
+			<verse num="49">
+				And the word of the Lord was spreading throughout the whole region.
+			</verse>
+			<marker class="begin-verse" mid="v44013050">
+			</marker>
+			<verse num="50">
+				<crossref let="t" cid="c44013050.1">
+				</crossref>
+				But the Jews incited the devout 
+				<crossref let="u" cid="c44013050.2">
+				</crossref>
+				women of high standing and the leading men of the city, 
+				<crossref let="v" cid="c44013050.3">
+				</crossref>
+				stirred up persecution against Paul and Barnabas, and 
+				<crossref let="w" cid="c44013050.4">
+				</crossref>
+				drove them out of their district.
+			</verse>
+			<marker class="begin-verse" mid="v44013051">
+			</marker>
+			<verse num="51">
+				But they 
+				<crossref let="x" cid="c44013051.1">
+				</crossref>
+				shook off the dust from their feet against them and went to Iconium.
+			</verse>
+			<marker class="begin-verse" mid="v44013052">
+			</marker>
+			<verse num="52">
+				And the disciples were filled 
+				<crossref let="y" cid="c44013052.1">
+				</crossref>
+				with joy and 
+				<crossref let="z" cid="c44013052.2">
+				</crossref>
+				with the Holy Spirit.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

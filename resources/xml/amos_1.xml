@@ -1,0 +1,616 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Amos" num="30">
+		<marker class="begin-verse" mid="v30001001">
+		</marker>
+		<chapter num="1">
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="1">
+				The words of Amos, who was among the 
+				<crossref let="a" cid="c30001001.1">
+				</crossref>
+				shepherds
+				<note nid="n30001001.1">
+				</note>
+				 of 
+				<crossref let="b" cid="c30001001.2">
+				</crossref>
+				Tekoa, which he saw concerning Israel 
+				<crossref let="c" cid="c30001001.3">
+				</crossref>
+				in the days of 
+				<crossref let="d" cid="c30001001.4">
+				</crossref>
+				Uzziah king of Judah and in the days of 
+				<crossref let="e" cid="c30001001.5">
+				</crossref>
+				Jeroboam the son of Joash, king of Israel, two years
+				<note nid="n30001001.2">
+				</note>
+				 before 
+				<crossref let="f" cid="c30001001.6">
+				</crossref>
+				the earthquake.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v30001002">
+			</marker>
+			<heading>
+				Judgment on Israel's Neighbors
+			</heading>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="2">
+				And he said:
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="g" cid="c30001002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 roars from Zion
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and utters his voice from Jerusalem;
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				<crossref let="h" cid="c30001002.2">
+				</crossref>
+				the pastures of the shepherds mourn,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the 
+				<crossref let="i" cid="c30001002.3">
+				</crossref>
+				top of 
+				<crossref let="j" cid="c30001002.4">
+				</crossref>
+				Carmel withers.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v30001003">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="3">
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				:
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="k" cid="c30001003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				For three transgressions of 
+				<crossref let="l" cid="c30001003.2">
+				</crossref>
+				Damascus,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and for four, 
+				<crossref let="l" cid="c30001003.3">
+				</crossref>
+				I will not revoke the punishment,
+				<note nid="n30001003.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				because they have threshed 
+				<crossref let="m" cid="c30001003.4">
+				</crossref>
+				Gilead
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with threshing sledges of iron.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30001004">
+			</marker>
+			<verse num="4">
+				<begin-line>
+				</begin-line>
+				<crossref let="n" cid="c30001004.1">
+				</crossref>
+				So I will send a fire upon the house of 
+				<crossref let="o" cid="c30001004.2">
+				</crossref>
+				Hazael,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and it shall devour the strongholds of 
+				<crossref let="o" cid="c30001004.3">
+				</crossref>
+				Ben-hadad.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30001005">
+			</marker>
+			<verse num="5">
+				<begin-line>
+				</begin-line>
+				I will 
+				<crossref let="p" cid="c30001005.1">
+				</crossref>
+				break the gate-bar of 
+				<crossref let="l" cid="c30001005.2">
+				</crossref>
+				Damascus,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and cut off the inhabitants from the Valley of 
+				<crossref let="q" cid="c30001005.3">
+				</crossref>
+				Aven,
+				<note nid="n30001005.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				and him who holds the scepter from 
+				<crossref let="r" cid="c30001005.4">
+				</crossref>
+				Beth-eden;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the people of 
+				<crossref let="s" cid="c30001005.5">
+				</crossref>
+				Syria shall go into exile to 
+				<crossref let="t" cid="c30001005.6">
+				</crossref>
+				Kir,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="declares">
+				</begin-line>
+				says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v30001006">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="6">
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				:
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="k" cid="c30001006.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				For three transgressions of 
+				<crossref let="u" cid="c30001006.2">
+				</crossref>
+				Gaza,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and for four, I will not revoke the punishment,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				because 
+				<crossref let="v" cid="c30001006.3">
+				</crossref>
+				they carried into exile a whole people
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to deliver them up to Edom.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30001007">
+			</marker>
+			<verse num="7">
+				<begin-line>
+				</begin-line>
+				So I will send a fire upon the wall of 
+				<crossref let="u" cid="c30001007.1">
+				</crossref>
+				Gaza,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and it shall devour her strongholds.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30001008">
+			</marker>
+			<verse num="8">
+				<begin-line>
+				</begin-line>
+				I will cut off the inhabitants from 
+				<crossref let="w" cid="c30001008.1">
+				</crossref>
+				Ashdod,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and him who holds the scepter from Ashkelon;
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				I will turn my hand against Ekron,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the remnant of the Philistines shall perish,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="declares">
+				</begin-line>
+				says the Lord 
+				<span class="divine-name">
+					God
+				</span>
+				.
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v30001009">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="9">
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				:
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="k" cid="c30001009.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				For three transgressions of 
+				<crossref let="x" cid="c30001009.2">
+				</crossref>
+				Tyre,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and for four, I will not revoke the punishment,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				because they delivered up a whole people to Edom,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and did not remember the covenant of brotherhood.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30001010">
+			</marker>
+			<verse num="10">
+				<begin-line>
+				</begin-line>
+				So I will send a fire upon the wall of 
+				<crossref let="x" cid="c30001010.1">
+				</crossref>
+				Tyre,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and it shall devour her strongholds.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v30001011">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="11">
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				:
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="k" cid="c30001011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				For three transgressions of 
+				<crossref let="y" cid="c30001011.2">
+				</crossref>
+				Edom,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and for four, I will not revoke the punishment,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				<crossref let="y" cid="c30001011.3">
+				</crossref>
+				because he pursued his brother with the sword
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c30001011.4">
+				</crossref>
+				and cast off all pity,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				<crossref let="a" cid="c30001011.5">
+				</crossref>
+				and his anger tore perpetually,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c30001011.6">
+				</crossref>
+				and he kept his wrath forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30001012">
+			</marker>
+			<verse num="12">
+				<begin-line>
+				</begin-line>
+				So I will send a fire upon 
+				<crossref let="b" cid="c30001012.1">
+				</crossref>
+				Teman,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and it shall devour the strongholds of 
+				<crossref let="c" cid="c30001012.2">
+				</crossref>
+				Bozrah.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v30001013">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="13">
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				:
+
+				<end-paragraph>
+				</end-paragraph>
+				<begin-block-indent>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line>
+				</begin-line>
+				<crossref let="k" cid="c30001013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				For three transgressions of the 
+				<crossref let="d" cid="c30001013.2">
+				</crossref>
+				Ammonites,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and for four, I will not revoke the punishment,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				because 
+				<crossref let="e" cid="c30001013.3">
+				</crossref>
+				they have ripped open pregnant women in 
+				<crossref let="f" cid="c30001013.4">
+				</crossref>
+				Gilead,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that they might enlarge their border.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30001014">
+			</marker>
+			<verse num="14">
+				<begin-line>
+				</begin-line>
+				So I will kindle a fire in the wall of 
+				<crossref let="g" cid="c30001014.1">
+				</crossref>
+				Rabbah,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c30001014.2">
+				</crossref>
+				and it shall devour her strongholds,
+				<end-line class="br">
+				</end-line>
+				<begin-line>
+				</begin-line>
+				with shouting on the day of battle,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c30001014.3">
+				</crossref>
+				with a tempest in the day of the whirlwind;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v30001015">
+			</marker>
+			<verse num="15">
+				<begin-line>
+				</begin-line>
+				and 
+				<crossref let="i" cid="c30001015.1">
+				</crossref>
+				their king shall go into exile,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he and his princes
+				<note nid="n30001015.1">
+				</note>
+				 together,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="declares">
+				</begin-line>
+				says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line>
+				</end-line>
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<end-block-indent>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09028001">
+		</marker>
+		<chapter num="28">
+			<heading
+				>
+				Saul and the Medium of En-dor
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				In those days 
+				<crossref let="i" cid="c09028001.1">
+				</crossref>
+				the Philistines gathered their forces for war, to fight against Israel. And Achish said to David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Understand that you and your men are to go out with me in the army.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09028002">
+			</marker>
+			<verse num="2">
+				David said to Achish, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Very well, you shall know what your servant can do.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Achish said to David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Very well, I will make you my bodyguard for life.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09028003">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="3">
+				Now 
+				<crossref let="j" cid="c09028003.1">
+				</crossref>
+				Samuel had died, and all Israel had mourned for him and buried him 
+				<crossref let="k" cid="c09028003.2">
+				</crossref>
+				in Ramah, his own city. And Saul had put 
+				<crossref let="l" cid="c09028003.3">
+				</crossref>
+				the mediums and the necromancers out of the land.
+			</verse>
+			<marker class="begin-verse" mid="v09028004">
+			</marker>
+			<verse num="4">
+				The Philistines assembled and came and encamped 
+				<crossref let="m" cid="c09028004.1">
+				</crossref>
+				at Shunem. And Saul gathered all Israel, and they encamped 
+				<crossref let="n" cid="c09028004.2">
+				</crossref>
+				at Gilboa.
+			</verse>
+			<marker class="begin-verse" mid="v09028005">
+			</marker>
+			<verse num="5">
+				When Saul saw the army of the Philistines, he was afraid, and his heart trembled greatly.
+			</verse>
+			<marker class="begin-verse" mid="v09028006">
+			</marker>
+			<verse num="6">
+				And when Saul inquired of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="o" cid="c09028006.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 did not answer him, either 
+				<crossref let="p" cid="c09028006.2">
+				</crossref>
+				by dreams, or 
+				<crossref let="q" cid="c09028006.3">
+				</crossref>
+				by Urim, or by prophets.
+			</verse>
+			<marker class="begin-verse" mid="v09028007">
+			</marker>
+			<verse num="7">
+				Then Saul said to his servants, 
+				<crossref let="r" cid="c09028007.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Seek out for me a woman who is a medium, that I may go to her and inquire of her.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And his servants said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, there is a medium at 
+				<crossref let="s" cid="c09028007.2">
+				</crossref>
+				En-dor.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09028008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				So Saul 
+				<crossref let="t" cid="c09028008.1">
+				</crossref>
+				disguised himself and put on other garments and went, he and two men with him. And they came to the woman by night. And he said, 
+				<crossref let="u" cid="c09028008.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Divine for me by a spirit and bring up for me whomever I shall name to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09028009">
+			</marker>
+			<verse num="9">
+				The woman said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Surely you know what Saul has done, 
+				<crossref let="l" cid="c09028009.1">
+				</crossref>
+				how he has cut off the mediums and the necromancers from the land. Why then are you laying a trap for my life to bring about my death?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09028010">
+			</marker>
+			<verse num="10">
+				But Saul swore to her by the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="v" cid="c09028010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 lives, no punishment shall come upon you for this thing.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09028011">
+			</marker>
+			<verse num="11">
+				Then the woman said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whom shall I bring up for you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 He said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Bring up Samuel for me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09028012">
+			</marker>
+			<verse num="12">
+				When the woman saw Samuel, she cried out with a loud voice. And the woman said to Saul, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have you deceived me? You are Saul.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09028013">
+			</marker>
+			<verse num="13">
+				The king said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not be afraid. What do you see?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And the woman said to Saul, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I see a god coming up out of the earth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09028014">
+			</marker>
+			<verse num="14">
+				He said to her, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is his appearance?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And she said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				An old man is coming up, and he is wrapped 
+				<crossref let="w" cid="c09028014.1">
+				</crossref>
+				in a robe.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Saul knew that it was Samuel, and he bowed with his face to the ground and paid homage.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09028015">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15">
+				Then Samuel said to Saul, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have you disturbed me by bringing me up?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Saul answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am in great distress, for the Philistines are warring against me, and 
+				<crossref let="x" cid="c09028015.1">
+				</crossref>
+				God has turned away from me and 
+				<crossref let="y" cid="c09028015.2">
+				</crossref>
+				answers me no more, either by prophets or by dreams. Therefore I have summoned you to tell me what I shall do.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09028016">
+			</marker>
+			<verse num="16">
+				And Samuel said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why then do you ask me, since the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has turned from you and become your enemy?
+			</verse>
+			<marker class="begin-verse" mid="v09028017">
+			</marker>
+			<verse num="17">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has done to you as he spoke by me, for 
+				<crossref let="z" cid="c09028017.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has torn the kingdom out of your hand and given it to your neighbor, David.
+			</verse>
+			<marker class="begin-verse" mid="v09028018">
+			</marker>
+			<verse num="18">
+				<crossref let="a" cid="c09028018.1">
+				</crossref>
+				Because you did not obey the voice of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and did not carry out his fierce wrath against Amalek, therefore the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has done this thing to you this day.
+			</verse>
+			<marker class="begin-verse" mid="v09028019">
+			</marker>
+			<verse num="19">
+				Moreover, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will give Israel also with you into the hand of the Philistines, and tomorrow you 
+				<crossref let="b" cid="c09028019.1">
+				</crossref>
+				and your sons shall be with me. The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will give the army of Israel also into the hand of the Philistines.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09028020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				Then Saul fell at once full length on the ground, filled with fear because of the words of Samuel. And there was no strength in him, for he had eaten nothing all day and all night.
+			</verse>
+			<marker class="begin-verse" mid="v09028021">
+			</marker>
+			<verse num="21">
+				And the woman came to Saul, and when she saw that he was terrified, she said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, your servant has obeyed you. 
+				<crossref let="c" cid="c09028021.1">
+				</crossref>
+				I have taken my life in my hand and have listened to what you have said to me.
+			</verse>
+			<marker class="begin-verse" mid="v09028022">
+			</marker>
+			<verse num="22">
+				Now therefore, you also obey your servant. Let me set a morsel of bread before you; and eat, that you may have strength when you go on your way.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09028023">
+			</marker>
+			<verse num="23">
+				He refused and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will not eat.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But his servants, together with the woman, urged him, and he listened to their words. So he arose from the earth and sat on the bed.
+			</verse>
+			<marker class="begin-verse" mid="v09028024">
+			</marker>
+			<verse num="24">
+				Now the woman had a fattened calf in the house, and she quickly killed it, and she took flour and kneaded it and baked unleavened bread of it,
+			</verse>
+			<marker class="begin-verse" mid="v09028025">
+			</marker>
+			<verse num="25">
+				and she put it before Saul and his servants, and they ate. Then they rose and went away that night.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

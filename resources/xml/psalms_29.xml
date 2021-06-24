@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19029001">
+		</marker>
+		<chapter num="29">
+			<heading
+				>
+				Ascribe to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 Glory
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Ascribe to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O heavenly beings,
+				<note nid="n19029001.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c19029001.1">
+				</crossref>
+				ascribe to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 glory and strength.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19029002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Ascribe to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 the glory due his name;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				worship the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 in 
+				<crossref let="d" cid="c19029002.1">
+				</crossref>
+				the splendor of holiness.
+				<note nid="n19029002.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19029003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				The voice of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is over 
+				<crossref let="e" cid="c19029003.1">
+				</crossref>
+				the waters;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the God of glory 
+				<crossref let="f" cid="c19029003.2">
+				</crossref>
+				thunders,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, over many waters.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19029004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				The voice of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is 
+				<crossref let="g" cid="c19029004.1">
+				</crossref>
+				powerful;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the voice of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is full of majesty.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19029005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				The voice of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 breaks the cedars;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 breaks 
+				<crossref let="h" cid="c19029005.1">
+				</crossref>
+				the cedars of Lebanon.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19029006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				He makes Lebanon to 
+				<crossref let="i" cid="c19029006.1">
+				</crossref>
+				skip like a calf,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="j" cid="c19029006.2">
+				</crossref>
+				Sirion like a young 
+				<crossref let="k" cid="c19029006.3">
+				</crossref>
+				wild ox.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19029007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				The voice of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 flashes forth flames of fire.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19029008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				The voice of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 shakes the wilderness;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 shakes the wilderness of 
+				<crossref let="l" cid="c19029008.1">
+				</crossref>
+				Kadesh.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19029009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				The voice of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 makes 
+				<crossref let="m" cid="c19029009.1">
+				</crossref>
+				the deer give birth
+				<note nid="n19029009.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and strips the forests bare,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and in his temple all cry, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Glory!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19029010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 sits enthroned over 
+				<crossref let="n" cid="c19029010.1">
+				</crossref>
+				the flood;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 sits enthroned 
+				<crossref let="o" cid="c19029010.2">
+				</crossref>
+				as king forever.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19029011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				May the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 give 
+				<crossref let="p" cid="c19029011.1">
+				</crossref>
+				strength to his people!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				May the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 bless
+				<note nid="n19029011.1">
+				</note>
+				 his people with 
+				<crossref let="q" cid="c19029011.2">
+				</crossref>
+				peace!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

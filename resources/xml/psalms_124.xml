@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19124001">
+		</marker>
+		<chapter num="124">
+			<heading
+				>
+				Our Help Is in the Name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<subheading class="psalm-title">
+				A Song of 
+				<crossref let="m" cid="c19124001.1">
+				</crossref>
+				Ascents. Of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19124001.2">
+				</crossref>
+				If it had not been the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 who was on our sideù
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="y" cid="c19124001.3">
+				</crossref>
+				let Israel now sayù
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19124002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				if it had not been the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 who was on our side
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when people rose up against us,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19124003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				then they would have 
+				<crossref let="z" cid="c19124003.1">
+				</crossref>
+				swallowed us up alive,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when their anger was kindled against us;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19124004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				then 
+				<crossref let="a" cid="c19124004.1">
+				</crossref>
+				the flood would have 
+				<crossref let="b" cid="c19124004.2">
+				</crossref>
+				swept us away,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the torrent would have gone 
+				<crossref let="c" cid="c19124004.3">
+				</crossref>
+				over us;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19124005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				then over us would have gone
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the raging waters.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19124006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Blessed be the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who has not given us
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as prey to their teeth!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19124007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				We have escaped like a bird
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from 
+				<crossref let="d" cid="c19124007.1">
+				</crossref>
+				the snare of the fowlers;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				the snare is broken,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and we have escaped!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19124008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c19124008.1">
+				</crossref>
+				Our help is in the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who made heaven and earth.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

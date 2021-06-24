@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Acts" num="43">
+		<marker class="begin-verse" mid="v44018001">
+		</marker>
+		<chapter num="18">
+			<heading>
+				Paul in Corinth
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="1">
+				After this Paul
+				<note nid="n44018001.1">
+				</note>
+				 left Athens and went to Corinth.
+			</verse>
+			<marker class="begin-verse" mid="v44018002">
+			</marker>
+			<verse num="2">
+				And he found a Jew named 
+				<crossref let="v" cid="c44018002.1">
+				</crossref>
+				Aquila, a native of Pontus, recently come from Italy with his wife 
+				<crossref let="v" cid="c44018002.2">
+				</crossref>
+				Priscilla, because 
+				<crossref let="w" cid="c44018002.3">
+				</crossref>
+				Claudius had commanded all the Jews to leave Rome. And he went to see them,
+			</verse>
+			<marker class="begin-verse" mid="v44018003">
+			</marker>
+			<verse num="3">
+				and 
+				<crossref let="x" cid="c44018003.1">
+				</crossref>
+				because he was of the same trade he stayed with them and worked, for they were tentmakers by trade.
+			</verse>
+			<marker class="begin-verse" mid="v44018004">
+			</marker>
+			<verse num="4">
+				And 
+				<crossref let="y" cid="c44018004.1">
+				</crossref>
+				he reasoned in the synagogue 
+				<crossref let="y" cid="c44018004.2">
+				</crossref>
+				every Sabbath, and tried to persuade Jews and Greeks.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44018005">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="5">
+				<crossref let="z" cid="c44018005.1">
+				</crossref>
+				When Silas and Timothy arrived from Macedonia, Paul 
+				<crossref let="a" cid="c44018005.2">
+				</crossref>
+				was occupied with the word, 
+				<crossref let="b" cid="c44018005.3">
+				</crossref>
+				testifying to the Jews that the Christ was 
+				<crossref let="c" cid="c44018005.4">
+				</crossref>
+				Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v44018006">
+			</marker>
+			<verse num="6">
+				And when they opposed and reviled him, 
+				<crossref let="d" cid="c44018006.1">
+				</crossref>
+				he shook out his garments and said to them, 
+				<crossref let="e" cid="c44018006.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your blood be on your own heads! 
+				<crossref let="f" cid="c44018006.3">
+				</crossref>
+				I am innocent. 
+				<crossref let="g" cid="c44018006.4">
+				</crossref>
+				From now on I will go to the Gentiles.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44018007">
+			</marker>
+			<verse num="7">
+				And he left there and went to the house of a man named Titius 
+				<crossref let="h" cid="c44018007.1">
+				</crossref>
+				Justus, 
+				<crossref let="i" cid="c44018007.2">
+				</crossref>
+				a worshiper of God. His house was next door to the synagogue.
+			</verse>
+			<marker class="begin-verse" mid="v44018008">
+			</marker>
+			<verse num="8">
+				<crossref let="j" cid="c44018008.1">
+				</crossref>
+				Crispus, the ruler of the synagogue, believed in the Lord, together 
+				<crossref let="k" cid="c44018008.2">
+				</crossref>
+				with his entire household. And many of the Corinthians hearing Paul believed and were baptized.
+			</verse>
+			<marker class="begin-verse" mid="v44018009">
+			</marker>
+			<verse num="9">
+				And the Lord said to Paul 
+				<crossref let="l" cid="c44018009.1">
+				</crossref>
+				one night in 
+				<crossref let="m" cid="c44018009.2">
+				</crossref>
+				a vision, 
+				<woc>
+					<crossref let="n" cid="c44018009.3">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Do not be afraid, but go on speaking and do not be silent,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44018010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc>
+					<crossref let="n" cid="c44018010.1">
+					</crossref>
+					for I am with you, and 
+					<crossref let="o" cid="c44018010.2">
+					</crossref>
+					no one will attack you to harm you, for 
+					<crossref let="p" cid="c44018010.3">
+					</crossref>
+					I have many in this city who are my people.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v44018011">
+			</marker>
+			<verse num="11">
+				And he stayed a year and six months, teaching the word of God among them.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44018012">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="12">
+				But when Gallio was 
+				<crossref let="q" cid="c44018012.1">
+				</crossref>
+				proconsul of Achaia, 
+				<crossref let="r" cid="c44018012.2">
+				</crossref>
+				the Jews made a united attack on Paul and 
+				<crossref let="s" cid="c44018012.3">
+				</crossref>
+				brought him before the tribunal,
+			</verse>
+			<marker class="begin-verse" mid="v44018013">
+			</marker>
+			<verse num="13">
+				saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This man is persuading people to worship God contrary to 
+				<crossref let="t" cid="c44018013.1">
+				</crossref>
+				the law.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44018014">
+			</marker>
+			<verse num="14">
+				But when Paul was about to open his mouth, Gallio said to the Jews, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				If it were a matter of wrongdoing or vicious 
+				<crossref let="u" cid="c44018014.1">
+				</crossref>
+				crime, O Jews, I would have reason to accept your complaint.
+			</verse>
+			<marker class="begin-verse" mid="v44018015">
+			</marker>
+			<verse num="15">
+				But 
+				<crossref let="v" cid="c44018015.1">
+				</crossref>
+				since it is a matter of questions about words and names and 
+				<crossref let="w" cid="c44018015.2">
+				</crossref>
+				your own law, see to it yourselves. I refuse to be a judge of these things.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v44018016">
+			</marker>
+			<verse num="16">
+				And he drove them from the tribunal.
+			</verse>
+			<marker class="begin-verse" mid="v44018017">
+			</marker>
+			<verse num="17">
+				And they all seized Sosthenes, the ruler of the synagogue, and beat him in front of the tribunal. But Gallio paid no attention to any of this.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44018018">
+			</marker>
+			<heading>
+				Paul Returns to Antioch
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="18">
+				After this, Paul stayed many days longer and then took leave of 
+				<crossref let="x" cid="c44018018.1">
+				</crossref>
+				the brothers
+				<note nid="n44018018.1">
+				</note>
+				 and set sail for Syria, and with him 
+				<crossref let="y" cid="c44018018.2">
+				</crossref>
+				Priscilla and Aquila. At 
+				<crossref let="z" cid="c44018018.3">
+				</crossref>
+				Cenchreae 
+				<crossref let="a" cid="c44018018.4">
+				</crossref>
+				he had cut his hair, for he was under a vow.
+			</verse>
+			<marker class="begin-verse" mid="v44018019">
+			</marker>
+			<verse num="19">
+				And they came to 
+				<crossref let="b" cid="c44018019.1">
+				</crossref>
+				Ephesus, and he left them there, but 
+				<crossref let="c" cid="c44018019.2">
+				</crossref>
+				he himself went into the synagogue and reasoned with the Jews.
+			</verse>
+			<marker class="begin-verse" mid="v44018020">
+			</marker>
+			<verse num="20">
+				When they asked him to stay for a longer period, he declined.
+			</verse>
+			<marker class="begin-verse" mid="v44018021">
+			</marker>
+			<verse num="21">
+				But on taking leave of them he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will return to you 
+				<crossref let="d" cid="c44018021.1">
+				</crossref>
+				if God wills,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 and he set sail from Ephesus.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44018022">
+			</marker>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="22">
+				When he had landed at Caesarea, he 
+				<crossref let="e" cid="c44018022.1">
+				</crossref>
+				went up and greeted the church, and then went down to Antioch.
+			</verse>
+			<marker class="begin-verse" mid="v44018023">
+			</marker>
+			<verse num="23">
+				After spending some time there, he departed and 
+				<crossref let="f" cid="c44018023.1">
+				</crossref>
+				went from one place to the next through the region of Galatia and Phrygia, 
+				<crossref let="g" cid="c44018023.2">
+				</crossref>
+				strengthening all the disciples.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v44018024">
+			</marker>
+			<heading>
+				Apollos Speaks Boldly in Ephesus
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<verse num="24">
+				Now a Jew named 
+				<crossref let="h" cid="c44018024.1">
+				</crossref>
+				Apollos, a native of Alexandria, came to Ephesus. He was an eloquent man, 
+				<crossref let="i" cid="c44018024.2">
+				</crossref>
+				competent in the Scriptures.
+			</verse>
+			<marker class="begin-verse" mid="v44018025">
+			</marker>
+			<verse num="25">
+				He had been instructed in 
+				<crossref let="j" cid="c44018025.1">
+				</crossref>
+				the way of the Lord. And 
+				<crossref let="k" cid="c44018025.2">
+				</crossref>
+				being fervent in spirit,
+				<note nid="n44018025.1">
+				</note>
+				 he spoke and taught accurately the things concerning Jesus, though he knew only 
+				<crossref let="l" cid="c44018025.3">
+				</crossref>
+				the baptism of John.
+			</verse>
+			<marker class="begin-verse" mid="v44018026">
+			</marker>
+			<verse num="26">
+				He began to speak boldly in the synagogue, but when 
+				<crossref let="m" cid="c44018026.1">
+				</crossref>
+				Priscilla and Aquila heard him, they took him and explained to him 
+				<crossref let="n" cid="c44018026.2">
+				</crossref>
+				the way of God more accurately.
+			</verse>
+			<marker class="begin-verse" mid="v44018027">
+			</marker>
+			<verse num="27">
+				And when he wished to cross to 
+				<crossref let="o" cid="c44018027.1">
+				</crossref>
+				Achaia, 
+				<crossref let="p" cid="c44018027.2">
+				</crossref>
+				the brothers encouraged him and 
+				<crossref let="q" cid="c44018027.3">
+				</crossref>
+				wrote to the disciples to welcome him. When he arrived, 
+				<crossref let="r" cid="c44018027.4">
+				</crossref>
+				he greatly helped those who through grace had believed,
+			</verse>
+			<marker class="begin-verse" mid="v44018028">
+			</marker>
+			<verse num="28">
+				for he powerfully refuted the Jews in public, showing by the Scriptures 
+				<crossref let="s" cid="c44018028.1">
+				</crossref>
+				that the Christ was Jesus.
+			</verse>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

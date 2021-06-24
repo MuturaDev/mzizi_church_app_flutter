@@ -1,0 +1,642 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02012001">
+		</marker>
+		<chapter num="12">
+			<heading
+				>
+				The Passover
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses and Aaron in the land of Egypt,
+			</verse>
+			<marker class="begin-verse" mid="v02012002">
+			</marker>
+			<verse num="2">
+				<crossref let="f" cid="c02012002.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This month shall be for you the beginning of months. It shall be the first month of the year for you.
+			</verse>
+			<marker class="begin-verse" mid="v02012003">
+			</marker>
+			<verse num="3">
+				Tell all the congregation of Israel that on the tenth day of this month every man shall take a lamb 
+				<crossref let="g" cid="c02012003.1">
+				</crossref>
+				according to their fathers' houses, a lamb for a household.
+			</verse>
+			<marker class="begin-verse" mid="v02012004">
+			</marker>
+			<verse num="4">
+				And if the household is too small for a lamb, then he and his nearest neighbor shall take according to the number of persons; according to what each can eat you shall make your count for the lamb.
+			</verse>
+			<marker class="begin-verse" mid="v02012005">
+			</marker>
+			<verse num="5">
+				Your lamb shall be 
+				<crossref let="h" cid="c02012005.1">
+				</crossref>
+				without blemish, a male a year old. You may take it from the sheep or from the goats,
+			</verse>
+			<marker class="begin-verse" mid="v02012006">
+			</marker>
+			<verse num="6">
+				and you shall keep it until the 
+				<crossref let="i" cid="c02012006.1">
+				</crossref>
+				fourteenth day of this month, when the whole assembly of the congregation of Israel shall kill their lambs at twilight.
+				<note nid="n02012006.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02012007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Then they shall take some of the blood and put it on the 
+				<crossref let="j" cid="c02012007.1">
+				</crossref>
+				two doorposts and the lintel of the houses in which they eat it.
+			</verse>
+			<marker class="begin-verse" mid="v02012008">
+			</marker>
+			<verse num="8">
+				They shall eat the flesh that night, roasted on the fire; with 
+				<crossref let="k" cid="c02012008.1">
+				</crossref>
+				unleavened bread and bitter herbs they shall eat it.
+			</verse>
+			<marker class="begin-verse" mid="v02012009">
+			</marker>
+			<verse num="9">
+				Do not eat any of it raw or boiled in water, but 
+				<crossref let="l" cid="c02012009.1">
+				</crossref>
+				roasted, its head with its legs and its inner parts.
+			</verse>
+			<marker class="begin-verse" mid="v02012010">
+			</marker>
+			<verse num="10">
+				And 
+				<crossref let="m" cid="c02012010.1">
+				</crossref>
+				you shall let none of it remain until the morning; anything that remains until the morning you shall burn.
+			</verse>
+			<marker class="begin-verse" mid="v02012011">
+			</marker>
+			<verse num="11">
+				In this manner you shall eat it: with 
+				<crossref let="n" cid="c02012011.1">
+				</crossref>
+				your belt fastened, your sandals on your feet, and your staff in your hand. And you shall eat it in haste. 
+				<crossref let="o" cid="c02012011.2">
+				</crossref>
+				It is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's Passover.
+			</verse>
+			<marker class="begin-verse" mid="v02012012">
+			</marker>
+			<verse num="12">
+				For 
+				<crossref let="p" cid="c02012012.1">
+				</crossref>
+				I will pass through the land of Egypt that night, and I will strike all the firstborn in the land of Egypt, both man and beast; and on 
+				<crossref let="q" cid="c02012012.2">
+				</crossref>
+				all the gods of Egypt I will execute judgments: 
+				<crossref let="r" cid="c02012012.3">
+				</crossref>
+				I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v02012013">
+			</marker>
+			<verse num="13">
+				<crossref let="s" cid="c02012013.1">
+				</crossref>
+				The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02012014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				This day shall be 
+				<crossref let="t" cid="c02012014.1">
+				</crossref>
+				for you a memorial day, and you shall keep it as a feast to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				; throughout your generations, as a 
+				<crossref let="u" cid="c02012014.2">
+				</crossref>
+				statute forever, you shall keep it as a feast.
+			</verse>
+			<marker class="begin-verse" mid="v02012015">
+			</marker>
+			<verse num="15">
+				<crossref let="v" cid="c02012015.1">
+				</crossref>
+				Seven days you shall eat unleavened bread. On the first day you shall remove leaven out of your houses, for if anyone eats what is leavened, from the first day until the seventh day, 
+				<crossref let="w" cid="c02012015.2">
+				</crossref>
+				that person shall be cut off from Israel.
+			</verse>
+			<marker class="begin-verse" mid="v02012016">
+			</marker>
+			<verse num="16">
+				On the first day you shall hold a 
+				<crossref let="x" cid="c02012016.1">
+				</crossref>
+				holy assembly, and on the seventh day a holy assembly. No work shall be done on those days. But what everyone needs to eat, that alone may be prepared by you.
+			</verse>
+			<marker class="begin-verse" mid="v02012017">
+			</marker>
+			<verse num="17">
+				And you shall observe the Feast of Unleavened Bread, for 
+				<crossref let="y" cid="c02012017.1">
+				</crossref>
+				on this very day I brought your 
+				<crossref let="z" cid="c02012017.2">
+				</crossref>
+				hosts out of the land of Egypt. Therefore you shall observe this day, throughout your generations, as a statute forever.
+			</verse>
+			<marker class="begin-verse" mid="v02012018">
+			</marker>
+			<verse num="18">
+				<crossref let="a" cid="c02012018.1">
+				</crossref>
+				In the first month, from the fourteenth day of the month at evening, you shall eat unleavened bread until the twenty-first day of the month at evening.
+			</verse>
+			<marker class="begin-verse" mid="v02012019">
+			</marker>
+			<verse num="19">
+				<crossref let="b" cid="c02012019.1">
+				</crossref>
+				For seven days no leaven is to be found in your houses. If anyone eats what is leavened, 
+				<crossref let="b" cid="c02012019.2">
+				</crossref>
+				that person will be cut off from the congregation of Israel, 
+				<crossref let="c" cid="c02012019.3">
+				</crossref>
+				whether he is a sojourner or a native of the land.
+			</verse>
+			<marker class="begin-verse" mid="v02012020">
+			</marker>
+			<verse num="20">
+				You shall eat nothing leavened; in all your dwelling places you shall eat unleavened bread.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02012021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				Then Moses called all the elders of Israel and said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go and select lambs for yourselves 
+				<crossref let="d" cid="c02012021.1">
+				</crossref>
+				according to your clans, and kill the Passover lamb.
+			</verse>
+			<marker class="begin-verse" mid="v02012022">
+			</marker>
+			<verse num="22">
+				Take a bunch of 
+				<crossref let="e" cid="c02012022.1">
+				</crossref>
+				hyssop and 
+				<crossref let="f" cid="c02012022.2">
+				</crossref>
+				dip it in the blood that is in the basin, and touch 
+				<crossref let="g" cid="c02012022.3">
+				</crossref>
+				the lintel and the two doorposts with the blood that is in the basin. 
+				<crossref let="h" cid="c02012022.4">
+				</crossref>
+				None of you shall go out of the door of his house until the morning.
+			</verse>
+			<marker class="begin-verse" mid="v02012023">
+			</marker>
+			<verse num="23">
+				<crossref let="i" cid="c02012023.1">
+				</crossref>
+				For the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will pass through to strike the Egyptians, and when he sees the blood on 
+				<crossref let="g" cid="c02012023.2">
+				</crossref>
+				the lintel and on the two doorposts, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will pass over the door and 
+				<crossref let="j" cid="c02012023.3">
+				</crossref>
+				will not allow the destroyer to enter your houses to strike you.
+			</verse>
+			<marker class="begin-verse" mid="v02012024">
+			</marker>
+			<verse num="24">
+				You shall observe this rite as a statute for you and for your sons forever.
+			</verse>
+			<marker class="begin-verse" mid="v02012025">
+			</marker>
+			<verse num="25">
+				And when you come to the land that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will give you, 
+				<crossref let="k" cid="c02012025.1">
+				</crossref>
+				as he has promised, you shall keep this service.
+			</verse>
+			<marker class="begin-verse" mid="v02012026">
+			</marker>
+			<verse num="26">
+				And 
+				<crossref let="l" cid="c02012026.1">
+				</crossref>
+				when your children say to you, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				What do you mean by this service?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02012027">
+			</marker>
+			<verse num="27">
+				you shall say, 
+				<crossref let="m" cid="c02012027.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				It is the sacrifice of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's Passover, for he passed over the houses of the people of Israel in Egypt, when he struck the Egyptians but spared our houses.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And the people 
+				<crossref let="n" cid="c02012027.2">
+				</crossref>
+				bowed their heads and worshiped.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02012028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				Then the people of Israel went and did so; as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had commanded Moses and Aaron, so they did.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02012029">
+			</marker>
+			<heading
+				>
+				The Tenth Plague: Death of the Firstborn
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				<crossref let="o" cid="c02012029.1">
+				</crossref>
+				At midnight the 
+				<crossref let="p" cid="c02012029.2">
+				</crossref>
+				<span class="divine-name">
+					Lord
+				</span>
+				 struck down all the firstborn in the land of Egypt, 
+				<crossref let="q" cid="c02012029.3">
+				</crossref>
+				from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon, and all the firstborn of the livestock.
+			</verse>
+			<marker class="begin-verse" mid="v02012030">
+			</marker>
+			<verse num="30">
+				And Pharaoh rose up in the night, he and all his servants and all the Egyptians. And there was 
+				<crossref let="r" cid="c02012030.1">
+				</crossref>
+				a great cry in Egypt, for there was not a house where someone was not dead.
+			</verse>
+			<marker class="begin-verse" mid="v02012031">
+			</marker>
+			<verse num="31">
+				Then he summoned Moses and Aaron by night and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Up, go out from among my people, 
+				<crossref let="s" cid="c02012031.1">
+				</crossref>
+				both you and the people of Israel; and go, serve the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, as you have said.
+			</verse>
+			<marker class="begin-verse" mid="v02012032">
+			</marker>
+			<verse num="32">
+				<crossref let="t" cid="c02012032.1">
+				</crossref>
+				Take your flocks and your herds, as you have said, and be gone, and bless me also!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02012033">
+			</marker>
+			<heading
+				>
+				The Exodus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="33">
+				<crossref let="u" cid="c02012033.1">
+				</crossref>
+				The Egyptians were urgent with the people to send them out of the land in haste. For they said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We shall all be dead.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02012034">
+			</marker>
+			<verse num="34">
+				So the people took their dough before it was leavened, their kneading bowls being bound up in their cloaks on their shoulders.
+			</verse>
+			<marker class="begin-verse" mid="v02012035">
+			</marker>
+			<verse num="35">
+				The people of Israel had also done as Moses told them, for they had 
+				<crossref let="v" cid="c02012035.1">
+				</crossref>
+				asked the Egyptians for silver and gold jewelry and for clothing.
+			</verse>
+			<marker class="begin-verse" mid="v02012036">
+			</marker>
+			<verse num="36">
+				<crossref let="w" cid="c02012036.1">
+				</crossref>
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had given the people favor in the sight of the Egyptians, so that 
+				<crossref let="x" cid="c02012036.2">
+				</crossref>
+				they let them have what they asked. Thus they plundered the Egyptians.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02012037">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="37">
+				And the 
+				<crossref let="y" cid="c02012037.1">
+				</crossref>
+				people of Israel journeyed from 
+				<crossref let="z" cid="c02012037.2">
+				</crossref>
+				Rameses to Succoth, 
+				<crossref let="a" cid="c02012037.3">
+				</crossref>
+				about six hundred thousand men on foot, besides women and children.
+			</verse>
+			<marker class="begin-verse" mid="v02012038">
+			</marker>
+			<verse num="38">
+				A 
+				<crossref let="b" cid="c02012038.1">
+				</crossref>
+				mixed multitude also went up with them, and very much livestock, both flocks and herds.
+			</verse>
+			<marker class="begin-verse" mid="v02012039">
+			</marker>
+			<verse num="39">
+				And they baked unleavened cakes of the dough that they had brought out of Egypt, for it was not leavened, because 
+				<crossref let="u" cid="c02012039.1">
+				</crossref>
+				they were thrust out of Egypt and 
+				<crossref let="c" cid="c02012039.2">
+				</crossref>
+				could not wait, nor had they prepared any provisions for themselves.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02012040">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="40">
+				The time that the people of Israel lived in Egypt was 430 years.
+			</verse>
+			<marker class="begin-verse" mid="v02012041">
+			</marker>
+			<verse num="41">
+				At the end of 
+				<crossref let="d" cid="c02012041.1">
+				</crossref>
+				430 years, on that very day, all the hosts of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 went out from the land of Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v02012042">
+			</marker>
+			<verse num="42">
+				It was a night of watching by the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, to bring them out of the land of Egypt; so this same night is a 
+				<crossref let="e" cid="c02012042.1">
+				</crossref>
+				night of watching kept to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 by all the people of Israel throughout their generations.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02012043">
+			</marker>
+			<heading
+				>
+				Institution of the Passover
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="43">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses and Aaron, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is the statute of the Passover: no foreigner shall eat of it,
+			</verse>
+			<marker class="begin-verse" mid="v02012044">
+			</marker>
+			<verse num="44">
+				but every slave that is 
+				<crossref let="f" cid="c02012044.1">
+				</crossref>
+				bought for money may eat of it after you have circumcised him.
+			</verse>
+			<marker class="begin-verse" mid="v02012045">
+			</marker>
+			<verse num="45">
+				<crossref let="g" cid="c02012045.1">
+				</crossref>
+				No foreigner or hired servant may eat of it.
+			</verse>
+			<marker class="begin-verse" mid="v02012046">
+			</marker>
+			<verse num="46">
+				It shall be eaten in one house; you shall not take any of the flesh outside the house, and 
+				<crossref let="h" cid="c02012046.1">
+				</crossref>
+				you shall not break any of its bones.
+			</verse>
+			<marker class="begin-verse" mid="v02012047">
+			</marker>
+			<verse num="47">
+				<crossref let="i" cid="c02012047.1">
+				</crossref>
+				All the congregation of Israel shall keep it.
+			</verse>
+			<marker class="begin-verse" mid="v02012048">
+			</marker>
+			<verse num="48">
+				<crossref let="j" cid="c02012048.1">
+				</crossref>
+				If a stranger shall sojourn with you and would keep the Passover to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, let all his males be circumcised. Then he may come near and keep it; he 
+				<crossref let="k" cid="c02012048.2">
+				</crossref>
+				shall be as a native of the land. But no uncircumcised person shall eat of it.
+			</verse>
+			<marker class="begin-verse" mid="v02012049">
+			</marker>
+			<verse num="49">
+				There shall be 
+				<crossref let="l" cid="c02012049.1">
+				</crossref>
+				one law for the native and for the 
+				<crossref let="j" cid="c02012049.2">
+				</crossref>
+				stranger who sojourns among you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02012050">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="50">
+				All the people of Israel did just as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded Moses and Aaron.
+			</verse>
+			<marker class="begin-verse" mid="v02012051">
+			</marker>
+			<verse num="51">
+				And on that very day the 
+				<crossref let="m" cid="c02012051.1">
+				</crossref>
+				<span class="divine-name">
+					Lord
+				</span>
+				 brought the people of Israel out of the land of Egypt by their 
+				<crossref let="n" cid="c02012051.2">
+				</crossref>
+				hosts.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

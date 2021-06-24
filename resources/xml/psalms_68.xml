@@ -1,0 +1,936 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19068001">
+		</marker>
+		<chapter num="68">
+			<heading
+				>
+				God Shall Scatter His Enemies
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Psalm of David. A Song.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c19068001.1">
+				</crossref>
+				God shall arise, his enemies shall be 
+				<crossref let="f" cid="c19068001.2">
+				</crossref>
+				scattered;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and those who hate him shall flee before him!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				As 
+				<crossref let="g" cid="c19068002.1">
+				</crossref>
+				smoke is driven away, so you shall drive them away;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c19068002.2">
+				</crossref>
+				as wax melts before fire,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so the wicked shall perish before God!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				But 
+				<crossref let="i" cid="c19068003.1">
+				</crossref>
+				the righteous shall be glad;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they shall exult before God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they shall be jubilant with joy!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19068004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Sing to God, 
+				<crossref let="j" cid="c19068004.1">
+				</crossref>
+				sing praises to his name;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c19068004.2">
+				</crossref>
+				lift up a song to him who 
+				<crossref let="l" cid="c19068004.3">
+				</crossref>
+				rides through 
+				<crossref let="m" cid="c19068004.4">
+				</crossref>
+				the deserts;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				his name is 
+				<crossref let="n" cid="c19068004.5">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				exult before him!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c19068005.1">
+				</crossref>
+				Father of the fatherless and 
+				<crossref let="p" cid="c19068005.2">
+				</crossref>
+				protector of widows
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is God in his holy habitation.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				God 
+				<crossref let="q" cid="c19068006.1">
+				</crossref>
+				settles the solitary in a home;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="r" cid="c19068006.2">
+				</crossref>
+				leads out the prisoners to prosperity,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="s" cid="c19068006.3">
+				</crossref>
+				the rebellious dwell in 
+				<crossref let="t" cid="c19068006.4">
+				</crossref>
+				a parched land.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19068007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				O God, when you 
+				<crossref let="u" cid="c19068007.1">
+				</crossref>
+				went out before your people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="v" cid="c19068007.2">
+				</crossref>
+				when you marched through 
+				<crossref let="w" cid="c19068007.3">
+				</crossref>
+				the wilderness, 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19068008.1">
+				</crossref>
+				the earth quaked, the heavens poured down rain,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				before God, the One of Sinai,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				before God, the God of Israel.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c19068009.1">
+				</crossref>
+				Rain in abundance, O God, you shed abroad;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you restored your inheritance as it languished;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				your flock
+				<note nid="n19068010.1">
+				</note>
+				 found a dwelling in it;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in your goodness, O God, you 
+				<crossref let="z" cid="c19068010.1">
+				</crossref>
+				provided for the needy.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19068011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				The Lord gives 
+				<crossref let="a" cid="c19068011.1">
+				</crossref>
+				the word;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="b" cid="c19068011.2">
+				</crossref>
+				the women who announce the news are a great host:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068012">
+			</marker>
+			<verse num="12">
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c19068012.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The kings of the armiesùthey flee, they flee!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				The women at home 
+				<crossref let="d" cid="c19068012.2">
+				</crossref>
+				divide the spoilù
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068013">
+			</marker>
+			<verse num="13">
+				<begin-line class="indent">
+				</begin-line>
+				though you men lie among 
+				<crossref let="e" cid="c19068013.1">
+				</crossref>
+				the sheepfoldsù
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				the wings of a dove covered with silver,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				its pinions with shimmering gold.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				When the Almighty scatters kings there,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let snow fall on 
+				<crossref let="f" cid="c19068014.1">
+				</crossref>
+				Zalmon.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19068015">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				O mountain of God, mountain of Bashan;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O many-peaked
+				<note nid="n19068015.1">
+				</note>
+				 mountain, mountain of Bashan!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Why do you look with hatred, O many-peaked mountain,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				at the mount that God 
+				<crossref let="g" cid="c19068016.1">
+				</crossref>
+				desired for his abode,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				yes, where the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will dwell forever?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c19068017.1">
+				</crossref>
+				The chariots of God are twice ten thousand,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				thousands upon thousands;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the Lord is among them; Sinai is now in the sanctuary.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19068018.1">
+				</crossref>
+				You ascended on high,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c19068018.2">
+				</crossref>
+				leading a host of captives in your train
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="k" cid="c19068018.3">
+				</crossref>
+				receiving gifts among men,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				even among 
+				<crossref let="l" cid="c19068018.4">
+				</crossref>
+				the rebellious, 
+				<crossref let="m" cid="c19068018.5">
+				</crossref>
+				that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 God may dwell there.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19068019">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				Blessed be the Lord,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who daily 
+				<crossref let="n" cid="c19068019.1">
+				</crossref>
+				bears us up;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				God is our salvation. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				Our God is a God of salvation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19068020.1">
+				</crossref>
+				and to 
+				<span class="divine-name">
+					God
+				</span>
+				, the Lord, belong deliverances from death.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c19068021.1">
+				</crossref>
+				But God will strike the heads of his enemies,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the hairy crown of him who walks in his guilty ways.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				The Lord said,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will bring them back 
+				<crossref let="q" cid="c19068022.1">
+				</crossref>
+				from Bashan,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19068022.2">
+				</crossref>
+				I will bring them back from the depths of the sea,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				that you may 
+				<crossref let="s" cid="c19068023.1">
+				</crossref>
+				strike your feet in their blood,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that 
+				<crossref let="t" cid="c19068023.2">
+				</crossref>
+				the tongues of your dogs may have their portion from the foe.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19068024">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				Your procession is
+				<note nid="n19068024.1">
+				</note>
+				 seen, O God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the procession of my God, my King, into the sanctuaryù
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19068025.1">
+				</crossref>
+				the singers in front, 
+				<crossref let="v" cid="c19068025.2">
+				</crossref>
+				the musicians last,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				between them 
+				<crossref let="w" cid="c19068025.3">
+				</crossref>
+				virgins playing tambourines:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19068026.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Bless God in the great congregation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O you
+				<note nid="n19068026.1">
+				</note>
+				 who are of 
+				<crossref let="y" cid="c19068026.2">
+				</crossref>
+				Israel's fountain!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				There is 
+				<crossref let="z" cid="c19068027.1">
+				</crossref>
+				Benjamin, the least of them, in the lead,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the princes of Judah in their throng,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the princes of 
+				<crossref let="a" cid="c19068027.2">
+				</crossref>
+				Zebulun, the princes of Naphtali.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19068028">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c19068028.1">
+				</crossref>
+				Summon your power, O God,
+				<note nid="n19068028.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the power, O God, by which you have worked for us.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				Because of your temple at Jerusalem
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				kings shall 
+				<crossref let="c" cid="c19068029.1">
+				</crossref>
+				bear gifts to you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				Rebuke 
+				<crossref let="d" cid="c19068030.1">
+				</crossref>
+				the beasts that dwell among the reeds,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the herd of 
+				<crossref let="e" cid="c19068030.2">
+				</crossref>
+				bulls with the calves of the peoples.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c19068030.3">
+				</crossref>
+				Trample underfoot those who lust after tribute;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				scatter the peoples who delight in war.
+				<note nid="n19068030.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068031">
+			</marker>
+			<verse num="31">
+				<begin-line
+					>
+				</begin-line>
+				Nobles shall come from 
+				<crossref let="g" cid="c19068031.1">
+				</crossref>
+				Egypt;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c19068031.2">
+				</crossref>
+				Cush shall hasten to 
+				<crossref let="i" cid="c19068031.3">
+				</crossref>
+				stretch out her hands to God.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19068032">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="32">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c19068032.1">
+				</crossref>
+				O kingdoms of the earth, sing to God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				sing praises to the Lord, 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068033">
+			</marker>
+			<verse num="33">
+				<begin-line
+					>
+				</begin-line>
+				to him 
+				<crossref let="k" cid="c19068033.1">
+				</crossref>
+				who rides in 
+				<crossref let="l" cid="c19068033.2">
+				</crossref>
+				the heavens, the ancient heavens;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				behold, he 
+				<crossref let="m" cid="c19068033.3">
+				</crossref>
+				sends out his voice, his mighty voice.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068034">
+			</marker>
+			<verse num="34">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c19068034.1">
+				</crossref>
+				Ascribe power to God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				whose majesty is over Israel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and whose 
+				<crossref let="o" cid="c19068034.2">
+				</crossref>
+				power is in 
+				<crossref let="p" cid="c19068034.3">
+				</crossref>
+				the skies.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19068035">
+			</marker>
+			<verse num="35">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c19068035.1">
+				</crossref>
+				Awesome is God from his
+				<note nid="n19068035.1">
+				</note>
+				<crossref let="r" cid="c19068035.2">
+				</crossref>
+				sanctuary;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the God of Israelùhe is the one who gives 
+				<crossref let="s" cid="c19068035.3">
+				</crossref>
+				power and strength to his people.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Blessed be God!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

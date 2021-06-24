@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19033001">
+		</marker>
+		<chapter num="33">
+			<heading
+				>
+				The Steadfast Love of the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c19033001.1">
+				</crossref>
+				Shout for joy in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O you righteous!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c19033001.2">
+				</crossref>
+				Praise befits the upright.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Give thanks to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 with the 
+				<crossref let="j" cid="c19033002.1">
+				</crossref>
+				lyre;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				make melody to him with 
+				<crossref let="j" cid="c19033002.2">
+				</crossref>
+				the harp of 
+				<crossref let="k" cid="c19033002.3">
+				</crossref>
+				ten strings!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Sing to him 
+				<crossref let="l" cid="c19033003.1">
+				</crossref>
+				a new song;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				play skillfully on the strings, with loud shouts.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19033004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				For the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is upright,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and all his work is done in 
+				<crossref let="m" cid="c19033004.1">
+				</crossref>
+				faithfulness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="n" cid="c19033005.1">
+				</crossref>
+				loves righteousness and justice;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19033005.2">
+				</crossref>
+				the earth is full of the steadfast love of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19033006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				By 
+				<crossref let="p" cid="c19033006.1">
+				</crossref>
+				the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 the heavens were made,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and by 
+				<crossref let="q" cid="c19033006.2">
+				</crossref>
+				the breath of his mouth all 
+				<crossref let="r" cid="c19033006.3">
+				</crossref>
+				their host.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				He gathers the waters of the sea as 
+				<crossref let="s" cid="c19033007.1">
+				</crossref>
+				a heap;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="t" cid="c19033007.2">
+				</crossref>
+				puts the deeps in storehouses.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19033008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Let all the earth fear the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let all the inhabitants of the world stand in awe of him!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				For 
+				<crossref let="u" cid="c19033009.1">
+				</crossref>
+				he spoke, and it came to be;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he commanded, and it stood firm.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19033010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="v" cid="c19033010.1">
+				</crossref>
+				brings the counsel of the nations to nothing;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he frustrates the plans of the peoples.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c19033011.1">
+				</crossref>
+				The counsel of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 stands forever,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the plans of his heart to all generations.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19033012.1">
+				</crossref>
+				Blessed is the nation whose God is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the people whom he has 
+				<crossref let="y" cid="c19033012.2">
+				</crossref>
+				chosen as his heritage!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19033013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="z" cid="c19033013.1">
+				</crossref>
+				looks down from heaven;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he sees all the children of man;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				from 
+				<crossref let="a" cid="c19033014.1">
+				</crossref>
+				where he sits enthroned he 
+				<crossref let="b" cid="c19033014.2">
+				</crossref>
+				looks out
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on all the inhabitants of the earth,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				he who fashions the hearts of them all
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and observes all their deeds.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c19033016.1">
+				</crossref>
+				The king is not saved by his great army;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a warrior is not delivered by his great strength.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c19033017.1">
+				</crossref>
+				The war horse is a false hope for salvation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and by its great might it cannot rescue.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19033018">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				Behold, 
+				<crossref let="e" cid="c19033018.1">
+				</crossref>
+				the eye of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is on those who fear him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c19033018.2">
+				</crossref>
+				on those who hope in his steadfast love,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				that he may 
+				<crossref let="g" cid="c19033019.1">
+				</crossref>
+				deliver their soul from death
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and keep them alive in 
+				<crossref let="h" cid="c19033019.2">
+				</crossref>
+				famine.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19033020">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				Our soul 
+				<crossref let="i" cid="c19033020.1">
+				</crossref>
+				waits for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he is our 
+				<crossref let="j" cid="c19033020.2">
+				</crossref>
+				help and 
+				<crossref let="k" cid="c19033020.3">
+				</crossref>
+				our shield.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				For our heart is 
+				<crossref let="l" cid="c19033021.1">
+				</crossref>
+				glad in him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				because we 
+				<crossref let="m" cid="c19033021.2">
+				</crossref>
+				trust in his holy name.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19033022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				Let your steadfast love, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, be upon us,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				even as we hope in you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

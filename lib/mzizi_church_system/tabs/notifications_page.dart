@@ -34,7 +34,7 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
         await new PortalNotificationDAO().deletePortalNotification(
             await new PortalNotificationDAO().getPortalNotification());
         Student student = await AuthenticateUserDAO().getStudent();
-       // Student student = new Student("1391", "1000");
+        // Student student = new Student("1391", "1000");
         if (student != null) {
           List<PortalNotification> notificationList =
               await new PortalNotificationDAO().getLastNotification();
@@ -213,6 +213,7 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
   }
+
   @override
   Widget build(BuildContext context) {
     return SafeArea(
@@ -244,6 +245,7 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
                   color: Colors.white,
                   fontSize: 20,
                 )),
+            centerTitle: true,
           ),
           body: Container(
             color: Color(0xFF487890),

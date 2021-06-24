@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Esther" num="16">
+		<marker class="begin-verse" mid="v17003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				Haman Plots Against the Jews
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				After these things King Ahasuerus 
+				<crossref let="q" cid="c17003001.1">
+				</crossref>
+				promoted Haman 
+				<crossref let="r" cid="c17003001.2">
+				</crossref>
+				the Agagite, the son of Hammedatha, 
+				<crossref let="s" cid="c17003001.3">
+				</crossref>
+				and advanced him and set his throne above all the officials who were with him.
+			</verse>
+			<marker class="begin-verse" mid="v17003002">
+			</marker>
+			<verse num="2">
+				And all the king's servants who were at the king's gate bowed down and paid homage to Haman, for the king had so commanded concerning him. 
+				<crossref let="t" cid="c17003002.1">
+				</crossref>
+				But Mordecai did not bow down or pay homage.
+			</verse>
+			<marker class="begin-verse" mid="v17003003">
+			</marker>
+			<verse num="3">
+				Then the king's servants who were 
+				<crossref let="u" cid="c17003003.1">
+				</crossref>
+				at the king's gate said to Mordecai, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do you transgress 
+				<crossref let="v" cid="c17003003.2">
+				</crossref>
+				the king's command?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17003004">
+			</marker>
+			<verse num="4">
+				And when they spoke to him day after day and he would not listen to them, they told Haman, in order to see whether Mordecai's words would stand, for he had told them that he was a Jew.
+			</verse>
+			<marker class="begin-verse" mid="v17003005">
+			</marker>
+			<verse num="5">
+				And when Haman saw that 
+				<crossref let="t" cid="c17003005.1">
+				</crossref>
+				Mordecai did not bow down or pay homage to him, Haman was 
+				<crossref let="w" cid="c17003005.2">
+				</crossref>
+				filled with fury.
+			</verse>
+			<marker class="begin-verse" mid="v17003006">
+			</marker>
+			<verse num="6">
+				But he disdained to lay hands on Mordecai alone. So, as they had made known to him the people of Mordecai, Haman sought to destroy all the Jews, the people of Mordecai, throughout the whole kingdom of Ahasuerus.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v17003007">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="7">
+				In the first month, which is the month of Nisan, in the twelfth year of King Ahasuerus, 
+				<crossref let="x" cid="c17003007.1">
+				</crossref>
+				they cast Pur (that is, they cast lots) before Haman day after day; and they cast it month after month till the twelfth month, which is 
+				<crossref let="y" cid="c17003007.2">
+				</crossref>
+				the month of Adar.
+			</verse>
+			<marker class="begin-verse" mid="v17003008">
+			</marker>
+			<verse num="8">
+				Then Haman said to King Ahasuerus, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				There is a certain people scattered abroad and dispersed among the peoples in all the provinces of your kingdom. 
+				<crossref let="z" cid="c17003008.1">
+				</crossref>
+				Their laws are different from those of every other people, and they do not keep the king's laws, so that it is not to the king's profit to tolerate them.
+			</verse>
+			<marker class="begin-verse" mid="v17003009">
+			</marker>
+			<verse num="9">
+				If it please the king, let it be decreed that they be destroyed, and I will pay 10,000 talents
+				<note nid="n17003009.1">
+				</note>
+				 of silver into the hands of those who have charge of the king's business, that they may put it into the king's treasuries.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v17003010">
+			</marker>
+			<verse num="10">
+				<crossref let="a" cid="c17003010.1">
+				</crossref>
+				So the king took his signet ring from his hand and gave it to Haman 
+				<crossref let="b" cid="c17003010.2">
+				</crossref>
+				the Agagite, the son of Hammedatha, 
+				<crossref let="c" cid="c17003010.3">
+				</crossref>
+				the enemy of the Jews.
+			</verse>
+			<marker class="begin-verse" mid="v17003011">
+			</marker>
+			<verse num="11">
+				And the king said to Haman, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The money is given to you, the people also, to do with them as it seems good to you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v17003012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				<crossref let="d" cid="c17003012.1">
+				</crossref>
+				Then the king's scribes were summoned on the thirteenth day of the first month, and an edict, according to all that Haman commanded, was written to the king's 
+				<crossref let="e" cid="c17003012.2">
+				</crossref>
+				satraps and to the governors over all the provinces and to the officials of all the peoples, 
+				<crossref let="f" cid="c17003012.3">
+				</crossref>
+				to every province in its own script and every people in its own language. It was written 
+				<crossref let="g" cid="c17003012.4">
+				</crossref>
+				in the name of King Ahasuerus 
+				<crossref let="h" cid="c17003012.5">
+				</crossref>
+				and sealed with the king's signet ring.
+			</verse>
+			<marker class="begin-verse" mid="v17003013">
+			</marker>
+			<verse num="13">
+				Letters were sent 
+				<crossref let="i" cid="c17003013.1">
+				</crossref>
+				by couriers to all the king's provinces with instruction 
+				<crossref let="j" cid="c17003013.2">
+				</crossref>
+				to destroy, to kill, and to annihilate all Jews, young and old, women and children, 
+				<crossref let="k" cid="c17003013.3">
+				</crossref>
+				in one day, the thirteenth day of the twelfth month, which is the month of Adar, 
+				<crossref let="l" cid="c17003013.4">
+				</crossref>
+				and to plunder their goods.
+			</verse>
+			<marker class="begin-verse" mid="v17003014">
+			</marker>
+			<verse num="14">
+				<crossref let="m" cid="c17003014.1">
+				</crossref>
+				A copy of the document was to be issued as a decree in every province by proclamation to all the peoples to be ready for that day.
+			</verse>
+			<marker class="begin-verse" mid="v17003015">
+			</marker>
+			<verse num="15">
+				<crossref let="i" cid="c17003015.1">
+				</crossref>
+				The couriers went out hurriedly by order of the king, and the decree was issued in Susa the citadel. And the king and Haman sat down to drink, 
+				<crossref let="n" cid="c17003015.2">
+				</crossref>
+				but the city of Susa was thrown into confusion.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

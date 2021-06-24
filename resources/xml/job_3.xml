@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				Job Laments His Birth
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				After this Job 
+				<crossref let="h" cid="c18003001.1">
+				</crossref>
+				opened his mouth and cursed the day of his birth.
+			</verse>
+			<marker class="begin-verse" mid="v18003002">
+			</marker>
+			<verse num="2">
+				And Job said:
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18003003">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c18003003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let the day perish on which I was born,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the night that said,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				A man is conceived.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Let that day be darkness!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				May God above not seek it,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor light shine upon it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Let gloom and 
+				<crossref let="j" cid="c18003005.1">
+				</crossref>
+				deep darkness claim it.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Let clouds dwell upon it;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let the blackness of the day terrify it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				That nightùlet thick darkness seize it!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Let it not rejoice among the days of the year;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let it not come into the number of the months.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Behold, let that night be barren;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let no joyful cry enter it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Let those curse it who curse the day,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who are ready to rouse up 
+				<crossref let="k" cid="c18003008.1">
+				</crossref>
+				Leviathan.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Let the stars of its dawn be dark;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let it hope for light, but have none,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor see 
+				<crossref let="l" cid="c18003009.1">
+				</crossref>
+				the eyelids of the morning,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				because it did not shut the doors of my mother's womb,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor hide trouble from my eyes.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18003011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Why 
+				<crossref let="m" cid="c18003011.1">
+				</crossref>
+				did I not die at birth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				come out from the womb and expire?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Why did 
+				<crossref let="n" cid="c18003012.1">
+				</crossref>
+				the knees receive me?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Or why the breasts, that I should nurse?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				For then I would have lain down and been quiet;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I would have slept; then I would have been at rest,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				with kings and counselors of the earth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="o" cid="c18003014.1">
+				</crossref>
+				rebuilt ruins for themselves,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				or with princes who had gold,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who filled their houses with silver.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Or why was I not as a hidden 
+				<crossref let="p" cid="c18003016.1">
+				</crossref>
+				stillborn child,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as infants who never see the light?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				There the wicked cease from troubling,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and there the weary are at 
+				<crossref let="q" cid="c18003017.1">
+				</crossref>
+				rest.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				There the prisoners are at ease together;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they hear not the voice of 
+				<crossref let="r" cid="c18003018.1">
+				</crossref>
+				the taskmaster.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				The small and the great are there,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the slave is free from his master.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18003020">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Why is light given to him who is in misery,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and life to 
+				<crossref let="s" cid="c18003020.1">
+				</crossref>
+				the bitter in soul,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				who 
+				<crossref let="t" cid="c18003021.1">
+				</crossref>
+				long for death, but it comes not,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and dig for it more than for 
+				<crossref let="u" cid="c18003021.2">
+				</crossref>
+				hidden treasures,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				who rejoice exceedingly
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and are glad when they find the grave?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				Why is light given to a man whose 
+				<crossref let="v" cid="c18003023.1">
+				</crossref>
+				way is hidden,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				whom God has 
+				<crossref let="w" cid="c18003023.2">
+				</crossref>
+				hedged in?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				For my sighing comes 
+				<crossref let="x" cid="c18003024.1">
+				</crossref>
+				instead of
+				<note nid="n18003024.1">
+				</note>
+				 my bread,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and my 
+				<crossref let="y" cid="c18003024.2">
+				</crossref>
+				groanings are poured out like water.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c18003025.1">
+				</crossref>
+				For the thing that I fear comes upon me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and what I dread befalls me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18003026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				I am not at ease, nor am I quiet;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I have no rest, but trouble comes.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

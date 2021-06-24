@@ -15,7 +15,8 @@ PortalSelfEnrollApplication _$PortalSelfEnrollApplicationFromJson(
       json['ChurchServiceID'] as String,
       json['OrganizationID'] as String,
       json['DateBooked'] as String,
-      json['StudentID'] as String);
+      json['StudentID'] as String,
+      json['AppCode'] as String);
 }
 
 Map<String, dynamic> _$PortalSelfEnrollApplicationToJson(
@@ -27,5 +28,6 @@ Map<String, dynamic> _$PortalSelfEnrollApplicationToJson(
       'ChurchServiceID': instance.ChurchServiceID,
       'OrganizationID': instance.OrganizationID,
       'DateBooked': instance.DateBooked,
-      'StudentID': instance.StudentID
+      'StudentID': instance.StudentID,
+      'AppCode': instance.AppCode
     };

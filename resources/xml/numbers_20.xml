@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Numbers" num="3">
+		<marker class="begin-verse" mid="v04020001">
+		</marker>
+		<chapter num="20">
+			<heading
+				>
+				The Death of Miriam
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And the people of Israel, the whole congregation, came 
+				<crossref let="k" cid="c04020001.1">
+				</crossref>
+				into the wilderness of Zin in the first month, and the people stayed in Kadesh. And 
+				<crossref let="l" cid="c04020001.2">
+				</crossref>
+				Miriam died there and was buried there.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04020002">
+			</marker>
+			<heading
+				>
+				The Waters of Meribah
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				<crossref let="m" cid="c04020002.1">
+				</crossref>
+				Now there was no water for the congregation. 
+				<crossref let="n" cid="c04020002.2">
+				</crossref>
+				And they assembled themselves together against Moses and against Aaron.
+			</verse>
+			<marker class="begin-verse" mid="v04020003">
+			</marker>
+			<verse num="3">
+				And the people 
+				<crossref let="o" cid="c04020003.1">
+				</crossref>
+				quarreled with Moses and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Would that we had perished 
+				<crossref let="p" cid="c04020003.2">
+				</crossref>
+				when our brothers perished before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+			</verse>
+			<marker class="begin-verse" mid="v04020004">
+			</marker>
+			<verse num="4">
+				Why have you brought the assembly of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 into this wilderness, that we should die here, both we and our cattle?
+			</verse>
+			<marker class="begin-verse" mid="v04020005">
+			</marker>
+			<verse num="5">
+				And 
+				<crossref let="q" cid="c04020005.1">
+				</crossref>
+				why have you made us come up out of Egypt to bring us to this evil place? It is no place for grain or figs or vines or pomegranates, and there is no water to drink.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04020006">
+			</marker>
+			<verse num="6">
+				Then Moses and Aaron went from the presence of the assembly to the entrance of the tent of meeting and 
+				<crossref let="r" cid="c04020006.1">
+				</crossref>
+				fell on their faces. 
+				<crossref let="s" cid="c04020006.2">
+				</crossref>
+				And the glory of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 appeared to them,
+			</verse>
+			<marker class="begin-verse" mid="v04020007">
+			</marker>
+			<verse num="7">
+				and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 spoke to Moses, saying,
+			</verse>
+			<marker class="begin-verse" mid="v04020008">
+			</marker>
+			<verse num="8">
+				<crossref let="t" cid="c04020008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take the staff, and assemble the congregation, you and Aaron your brother, and tell the rock before their eyes to yield its water. So 
+				<crossref let="u" cid="c04020008.2">
+				</crossref>
+				you shall bring water out of the rock for them and give drink to the congregation and their cattle.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04020009">
+			</marker>
+			<verse num="9">
+				And Moses took the staff 
+				<crossref let="v" cid="c04020009.1">
+				</crossref>
+				from before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, as he commanded him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04020010">
+			</marker>
+			<heading
+				>
+				Moses Strikes the Rock
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				Then Moses and Aaron gathered the assembly together before the rock, and he said to them, 
+				<crossref let="w" cid="c04020010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Hear now, you rebels: shall we bring water for you out of this rock?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04020011">
+			</marker>
+			<verse num="11">
+				And Moses lifted up his hand and struck the rock with his staff twice, 
+				<crossref let="u" cid="c04020011.1">
+				</crossref>
+				and water came out abundantly, and the congregation drank, and their livestock.
+			</verse>
+			<marker class="begin-verse" mid="v04020012">
+			</marker>
+			<verse num="12">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses and Aaron, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Because 
+				<crossref let="x" cid="c04020012.1">
+				</crossref>
+				you did not believe in me, 
+				<crossref let="y" cid="c04020012.2">
+				</crossref>
+				to uphold me as holy in the eyes of the people of Israel, therefore you shall not bring this assembly into the land that I have given them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04020013">
+			</marker>
+			<verse num="13">
+				<crossref let="z" cid="c04020013.1">
+				</crossref>
+				These are the waters of Meribah,
+				<note nid="n04020013.1">
+				</note>
+				 where the people of Israel quarreled with the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and through them he showed himself holy.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04020014">
+			</marker>
+			<heading
+				>
+				Edom Refuses Passage
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				<crossref let="a" cid="c04020014.1">
+				</crossref>
+				Moses sent messengers from Kadesh to 
+				<crossref let="b" cid="c04020014.2">
+				</crossref>
+				the king of Edom: 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Thus says 
+				<crossref let="c" cid="c04020014.3">
+				</crossref>
+				your brother Israel: You know all the hardship that we have met:
+			</verse>
+			<marker class="begin-verse" mid="v04020015">
+			</marker>
+			<verse num="15">
+				<crossref let="d" cid="c04020015.1">
+				</crossref>
+				how our fathers went down to Egypt, 
+				<crossref let="e" cid="c04020015.2">
+				</crossref>
+				and we lived in Egypt a long time. 
+				<crossref let="f" cid="c04020015.3">
+				</crossref>
+				And the Egyptians dealt harshly with us and our fathers.
+			</verse>
+			<marker class="begin-verse" mid="v04020016">
+			</marker>
+			<verse num="16">
+				And 
+				<crossref let="g" cid="c04020016.1">
+				</crossref>
+				when we cried to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, he heard our voice and 
+				<crossref let="h" cid="c04020016.2">
+				</crossref>
+				sent an angel and brought us out of Egypt. And here we are in Kadesh, a city on the edge of your territory.
+			</verse>
+			<marker class="begin-verse" mid="v04020017">
+			</marker>
+			<verse num="17">
+				<crossref let="i" cid="c04020017.1">
+				</crossref>
+				Please let us pass through your land. We will not pass through field or vineyard, 
+				<crossref let="j" cid="c04020017.2">
+				</crossref>
+				or drink water from a well. We will go along the King's Highway. We will not turn aside to the right hand or to the left until we have passed through your territory.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04020018">
+			</marker>
+			<verse num="18">
+				But Edom said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You shall not pass through, lest I come out with the sword against you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04020019">
+			</marker>
+			<verse num="19">
+				And the people of Israel said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We will go up by the highway, 
+				<crossref let="k" cid="c04020019.1">
+				</crossref>
+				and if we drink of your water, I and my livestock, 
+				<crossref let="l" cid="c04020019.2">
+				</crossref>
+				then I will pay for it. Let me only pass through on foot, nothing more.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04020020">
+			</marker>
+			<verse num="20">
+				But he said, 
+				<crossref let="m" cid="c04020020.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You shall not pass through.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Edom came out against them with a large army and with a strong force.
+			</verse>
+			<marker class="begin-verse" mid="v04020021">
+			</marker>
+			<verse num="21">
+				Thus Edom 
+				<crossref let="n" cid="c04020021.1">
+				</crossref>
+				refused to give Israel passage through his territory, so Israel 
+				<crossref let="o" cid="c04020021.2">
+				</crossref>
+				turned away from him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v04020022">
+			</marker>
+			<heading
+				>
+				The Death of Aaron
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				And they journeyed from 
+				<crossref let="p" cid="c04020022.1">
+				</crossref>
+				Kadesh, and the people of Israel, the whole congregation, came to 
+				<crossref let="q" cid="c04020022.2">
+				</crossref>
+				Mount Hor.
+			</verse>
+			<marker class="begin-verse" mid="v04020023">
+			</marker>
+			<verse num="23">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses and Aaron at Mount Hor, on the border of the land of Edom,
+			</verse>
+			<marker class="begin-verse" mid="v04020024">
+			</marker>
+			<verse num="24">
+				<crossref let="r" cid="c04020024.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let Aaron be gathered to his people, for he shall not enter the land that I have given to the people of Israel, because 
+				<crossref let="s" cid="c04020024.2">
+				</crossref>
+				you rebelled against my command at the waters of Meribah.
+			</verse>
+			<marker class="begin-verse" mid="v04020025">
+			</marker>
+			<verse num="25">
+				Take Aaron and Eleazar his son and bring them up to Mount Hor.
+			</verse>
+			<marker class="begin-verse" mid="v04020026">
+			</marker>
+			<verse num="26">
+				And strip Aaron of his garments and put them on Eleazar his son. And Aaron 
+				<crossref let="r" cid="c04020026.1">
+				</crossref>
+				shall be gathered to his people and shall die there.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v04020027">
+			</marker>
+			<verse num="27">
+				Moses did as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded. And they went up Mount Hor in the sight of all the congregation.
+			</verse>
+			<marker class="begin-verse" mid="v04020028">
+			</marker>
+			<verse num="28">
+				<crossref let="t" cid="c04020028.1">
+				</crossref>
+				And Moses stripped Aaron of his garments and put them on Eleazar his son. And Aaron died there 
+				<crossref let="u" cid="c04020028.2">
+				</crossref>
+				on the top of the mountain. Then Moses and Eleazar came down from the mountain.
+			</verse>
+			<marker class="begin-verse" mid="v04020029">
+			</marker>
+			<verse num="29">
+				And when all the congregation saw that Aaron had perished, 
+				<crossref let="v" cid="c04020029.1">
+				</crossref>
+				all the house of Israel wept for Aaron thirty days.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09026001">
+		</marker>
+		<chapter num="26">
+			<heading
+				>
+				David Spares Saul Again
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="t" cid="c09026001.1">
+				</crossref>
+				Then the Ziphites came to Saul at Gibeah, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is not David hiding himself on the hill of Hachilah, which is on the east of Jeshimon?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09026002">
+			</marker>
+			<verse num="2">
+				So Saul arose and went down to 
+				<crossref let="u" cid="c09026002.1">
+				</crossref>
+				the wilderness of Ziph with 
+				<crossref let="v" cid="c09026002.2">
+				</crossref>
+				three thousand chosen men of Israel to seek David in the wilderness of Ziph.
+			</verse>
+			<marker class="begin-verse" mid="v09026003">
+			</marker>
+			<verse num="3">
+				And Saul encamped on the hill of Hachilah, which is beside the road on the east of Jeshimon. But David remained in the wilderness. When he saw that Saul came after him into the wilderness,
+			</verse>
+			<marker class="begin-verse" mid="v09026004">
+			</marker>
+			<verse num="4">
+				David sent out spies and learned that Saul had come.
+			</verse>
+			<marker class="begin-verse" mid="v09026005">
+			</marker>
+			<verse num="5">
+				Then David rose and came to the place where Saul had encamped. And David saw the place where Saul lay, with 
+				<crossref let="w" cid="c09026005.1">
+				</crossref>
+				Abner the son of Ner, the commander of his army. Saul was lying within 
+				<crossref let="x" cid="c09026005.2">
+				</crossref>
+				the encampment, while the army was encamped around him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09026006">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="6">
+				Then David said to Ahimelech the Hittite, and to Joab's brother 
+				<crossref let="y" cid="c09026006.1">
+				</crossref>
+				Abishai the son of Zeruiah, 
+				<crossref let="z" cid="c09026006.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who will go down with me into the camp to Saul?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Abishai said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will go down with you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09026007">
+			</marker>
+			<verse num="7">
+				So David and Abishai went to the army by night. And there lay Saul sleeping within 
+				<crossref let="x" cid="c09026007.1">
+				</crossref>
+				the encampment, with his spear stuck in the ground 
+				<crossref let="a" cid="c09026007.2">
+				</crossref>
+				at his head, and Abner and the army lay around him.
+			</verse>
+			<marker class="begin-verse" mid="v09026008">
+			</marker>
+			<verse num="8">
+				Then said Abishai to David, 
+				<crossref let="b" cid="c09026008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				God has given your enemy into your hand this day. Now please let me pin him to the earth with one stroke of the spear, and I will not strike him twice.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09026009">
+			</marker>
+			<verse num="9">
+				But David said to Abishai, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not destroy him, for who can put out his hand 
+				<crossref let="c" cid="c09026009.1">
+				</crossref>
+				against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's anointed and be guiltless?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09026010">
+			</marker>
+			<verse num="10">
+				And David said, 
+				<crossref let="d" cid="c09026010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 lives, 
+				<crossref let="e" cid="c09026010.2">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will strike him, or 
+				<crossref let="f" cid="c09026010.3">
+				</crossref>
+				his day will come to die, 
+				<crossref let="g" cid="c09026010.4">
+				</crossref>
+				or he will go down into battle and perish.
+			</verse>
+			<marker class="begin-verse" mid="v09026011">
+			</marker>
+			<verse num="11">
+				<crossref let="h" cid="c09026011.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 forbid that I should put out my hand against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's anointed. But take now the spear that is 
+				<crossref let="i" cid="c09026011.2">
+				</crossref>
+				at his head and the jar of water, and let us go.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09026012">
+			</marker>
+			<verse num="12">
+				So David took the spear and the jar of water from Saul's head, and they went away. No man saw it or knew it, nor did any awake, for they were all asleep, because 
+				<crossref let="j" cid="c09026012.1">
+				</crossref>
+				a deep sleep from the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had fallen upon them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09026013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				Then David went over to the other side and stood far off on the top of the hill, with a great space between them.
+			</verse>
+			<marker class="begin-verse" mid="v09026014">
+			</marker>
+			<verse num="14">
+				And David called to the army, and to Abner the son of Ner, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Will you not answer, Abner?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Then Abner answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who are you who calls to the king?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09026015">
+			</marker>
+			<verse num="15">
+				And David said to Abner, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Are you not a man? Who is like you in Israel? Why then have you not kept watch over your lord the king? For one of the people came in to destroy the king your lord.
+			</verse>
+			<marker class="begin-verse" mid="v09026016">
+			</marker>
+			<verse num="16">
+				This thing that you have done is not good. 
+				<crossref let="k" cid="c09026016.1">
+				</crossref>
+				As the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 lives, you deserve to die, because you have not kept watch over your lord, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's anointed. And now see where the king's spear is and the jar of water that was 
+				<crossref let="l" cid="c09026016.2">
+				</crossref>
+				at his head.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09026017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				Saul recognized David's voice and said, 
+				<crossref let="m" cid="c09026017.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is this your voice, my son David?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And David said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is my voice, my lord, O king.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09026018">
+			</marker>
+			<verse num="18">
+				And he said, 
+				<crossref let="n" cid="c09026018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why does my lord pursue after his servant? For what have I done? What evil is on my hands?
+			</verse>
+			<marker class="begin-verse" mid="v09026019">
+			</marker>
+			<verse num="19">
+				Now therefore let my lord the king hear the words of his servant. If it is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 who has stirred you up against me, may he accept an offering, but if it is men, may they be cursed before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="o" cid="c09026019.1">
+				</crossref>
+				for they have driven me out this day that I should have no share in 
+				<crossref let="p" cid="c09026019.2">
+				</crossref>
+				the heritage of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, saying, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Go, serve other gods.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09026020">
+			</marker>
+			<verse num="20">
+				Now therefore, let not my blood fall to the earth away from the presence of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, for the king of Israel has come out to seek 
+				<crossref let="q" cid="c09026020.1">
+				</crossref>
+				a single flea like one who hunts a partridge in the mountains.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09026021">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="21">
+				Then Saul said, 
+				<crossref let="r" cid="c09026021.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have sinned. Return, my son David, for I will no more do you harm, because my life was precious in your eyes this day. Behold, I have acted foolishly, and have made a great mistake.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09026022">
+			</marker>
+			<verse num="22">
+				And David answered and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Here is the spear, O king! Let one of the young men come over and take it.
+			</verse>
+			<marker class="begin-verse" mid="v09026023">
+			</marker>
+			<verse num="23">
+				<crossref let="s" cid="c09026023.1">
+				</crossref>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 rewards every man for his righteousness and his faithfulness, for the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 gave you into my hand today, and I would not put out my hand against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's anointed.
+			</verse>
+			<marker class="begin-verse" mid="v09026024">
+			</marker>
+			<verse num="24">
+				Behold, as your life was precious this day in my sight, so may my life be precious in the sight of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and may he deliver me out of all tribulation.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09026025">
+			</marker>
+			<verse num="25">
+				Then Saul said to David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Blessed be you, my son David! You will do many things and will 
+				<crossref let="t" cid="c09026025.1">
+				</crossref>
+				succeed in them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So David went his way, and Saul returned to his place.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

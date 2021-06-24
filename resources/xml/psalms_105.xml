@@ -1,0 +1,998 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19105001">
+		</marker>
+		<chapter num="105">
+			<heading
+				>
+				Tell of All His Wonderful Works
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c19105001.1">
+				</crossref>
+				Oh give thanks to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				; 
+				<crossref let="u" cid="c19105001.2">
+				</crossref>
+				call upon his name;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="v" cid="c19105001.3">
+				</crossref>
+				make known his deeds among the peoples!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Sing to him, sing praises to him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c19105002.1">
+				</crossref>
+				tell of all his wondrous works!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Glory in his holy name;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let the hearts of those who seek the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 rejoice!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Seek the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 and his 
+				<crossref let="x" cid="c19105004.1">
+				</crossref>
+				strength;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="y" cid="c19105004.2">
+				</crossref>
+				seek his presence continually!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Remember the 
+				<crossref let="z" cid="c19105005.1">
+				</crossref>
+				wondrous works that he has done,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his miracles, and 
+				<crossref let="a" cid="c19105005.2">
+				</crossref>
+				the judgments he uttered,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				O offspring of 
+				<crossref let="b" cid="c19105006.1">
+				</crossref>
+				Abraham, his servant,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				children of Jacob, his 
+				<crossref let="c" cid="c19105006.2">
+				</crossref>
+				chosen ones!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19105007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				He is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his 
+				<crossref let="d" cid="c19105007.1">
+				</crossref>
+				judgments are in all the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="e" cid="c19105008.1">
+				</crossref>
+				remembers his covenant forever,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the word that he commanded, for 
+				<crossref let="f" cid="c19105008.2">
+				</crossref>
+				a thousand generations,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c19105009.1">
+				</crossref>
+				the covenant that he made with Abraham,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his 
+				<crossref let="h" cid="c19105009.2">
+				</crossref>
+				sworn promise to Isaac,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				which he confirmed to 
+				<crossref let="i" cid="c19105010.1">
+				</crossref>
+				Jacob as a statute,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to Israel as an everlasting covenant,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				saying, 
+				<crossref let="j" cid="c19105011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				To you I will give the land of Canaan
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as 
+				<crossref let="k" cid="c19105011.2">
+				</crossref>
+				your portion for an inheritance.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19105012">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				When they were 
+				<crossref let="l" cid="c19105012.1">
+				</crossref>
+				few in number,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				of little account, and 
+				<crossref let="m" cid="c19105012.2">
+				</crossref>
+				sojourners in it,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				wandering from nation to nation,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from one kingdom to another people,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				he 
+				<crossref let="n" cid="c19105014.1">
+				</crossref>
+				allowed no one to oppress them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he 
+				<crossref let="o" cid="c19105014.2">
+				</crossref>
+				rebuked kings on their account,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				saying, 
+				<crossref let="p" cid="c19105015.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Touch not my anointed ones,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				do my prophets no harm!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19105016">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				When he 
+				<crossref let="q" cid="c19105016.1">
+				</crossref>
+				summoned a famine on the land
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="r" cid="c19105016.2">
+				</crossref>
+				broke all supply
+				<note nid="n19105016.1">
+				</note>
+				 of bread,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				he had 
+				<crossref let="s" cid="c19105017.1">
+				</crossref>
+				sent a man ahead of them,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Joseph, who was 
+				<crossref let="t" cid="c19105017.2">
+				</crossref>
+				sold as a slave.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				His 
+				<crossref let="u" cid="c19105018.1">
+				</crossref>
+				feet were hurt with fetters;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his neck was put in a collar of iron;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				until 
+				<crossref let="v" cid="c19105019.1">
+				</crossref>
+				what he had said came to pass,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the word of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="w" cid="c19105019.2">
+				</crossref>
+				tested him.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19105020.1">
+				</crossref>
+				The king sent and 
+				<crossref let="y" cid="c19105020.2">
+				</crossref>
+				released him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the ruler of the peoples set him free;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				he 
+				<crossref let="z" cid="c19105021.1">
+				</crossref>
+				made him lord of his house
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and ruler of all his possessions,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				to bind
+				<note nid="n19105022.1">
+				</note>
+				 his princes at his pleasure
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and to teach his elders wisdom.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19105023">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				Then 
+				<crossref let="a" cid="c19105023.1">
+				</crossref>
+				Israel came to Egypt;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Jacob 
+				<crossref let="b" cid="c19105023.2">
+				</crossref>
+				sojourned in 
+				<crossref let="c" cid="c19105023.3">
+				</crossref>
+				the land of Ham.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="d" cid="c19105024.1">
+				</crossref>
+				made his people very fruitful
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and made them stronger than their foes.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="e" cid="c19105025.1">
+				</crossref>
+				turned their hearts to hate his people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to 
+				<crossref let="f" cid="c19105025.2">
+				</crossref>
+				deal craftily with his servants.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19105026">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="g" cid="c19105026.1">
+				</crossref>
+				sent Moses, his servant,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and Aaron, 
+				<crossref let="h" cid="c19105026.2">
+				</crossref>
+				whom he had chosen.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19105027.1">
+				</crossref>
+				They performed his signs among them
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and miracles in 
+				<crossref let="c" cid="c19105027.2">
+				</crossref>
+				the land of Ham.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="j" cid="c19105028.1">
+				</crossref>
+				sent darkness, and made the land dark;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they 
+				<crossref let="k" cid="c19105028.2">
+				</crossref>
+				did not rebel
+				<note nid="n19105028.1">
+				</note>
+				 against his words.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				He turned their waters into blood
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="l" cid="c19105029.1">
+				</crossref>
+				caused their fish to die.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105030">
+			</marker>
+			<verse num="30">
+				<begin-line
+					>
+				</begin-line>
+				Their land swarmed with frogs,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				even in 
+				<crossref let="m" cid="c19105030.1">
+				</crossref>
+				the chambers of their kings.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105031">
+			</marker>
+			<verse num="31">
+				<begin-line
+					>
+				</begin-line>
+				He spoke, and there came 
+				<crossref let="n" cid="c19105031.1">
+				</crossref>
+				swarms of flies,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19105031.2">
+				</crossref>
+				and gnats throughout their country.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105032">
+			</marker>
+			<verse num="32">
+				<begin-line
+					>
+				</begin-line>
+				He gave them hail for rain,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and fiery 
+				<crossref let="p" cid="c19105032.1">
+				</crossref>
+				lightning bolts through their land.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105033">
+			</marker>
+			<verse num="33">
+				<begin-line
+					>
+				</begin-line>
+				He struck down their vines and fig trees,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="q" cid="c19105033.1">
+				</crossref>
+				shattered the trees of their country.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105034">
+			</marker>
+			<verse num="34">
+				<begin-line
+					>
+				</begin-line>
+				He spoke, and the 
+				<crossref let="r" cid="c19105034.1">
+				</crossref>
+				locusts came,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				young locusts without number,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105035">
+			</marker>
+			<verse num="35">
+				<begin-line
+					>
+				</begin-line>
+				which devoured all the vegetation in their land
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and ate up the fruit of their ground.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105036">
+			</marker>
+			<verse num="36">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="s" cid="c19105036.1">
+				</crossref>
+				struck down all the firstborn in their land,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c19105036.2">
+				</crossref>
+				the firstfruits of all their strength.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19105037">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="37">
+				<begin-line
+					>
+				</begin-line>
+				Then he brought out Israel with 
+				<crossref let="t" cid="c19105037.1">
+				</crossref>
+				silver and gold,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and there was none among his tribes who stumbled.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105038">
+			</marker>
+			<verse num="38">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19105038.1">
+				</crossref>
+				Egypt was glad when they departed,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="v" cid="c19105038.2">
+				</crossref>
+				dread of them had fallen upon it.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19105039">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="39">
+				<begin-line
+					>
+				</begin-line>
+				He 
+				<crossref let="w" cid="c19105039.1">
+				</crossref>
+				spread a cloud for a covering,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and fire to give light by night.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105040">
+			</marker>
+			<verse num="40">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19105040.1">
+				</crossref>
+				They asked, and he 
+				<crossref let="y" cid="c19105040.2">
+				</crossref>
+				brought quail,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and gave them 
+				<crossref let="z" cid="c19105040.3">
+				</crossref>
+				bread from heaven in abundance.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105041">
+			</marker>
+			<verse num="41">
+				<begin-line
+					>
+				</begin-line>
+				He opened the rock, and 
+				<crossref let="a" cid="c19105041.1">
+				</crossref>
+				water gushed out;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it flowed through 
+				<crossref let="b" cid="c19105041.2">
+				</crossref>
+				the desert like a river.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105042">
+			</marker>
+			<verse num="42">
+				<begin-line
+					>
+				</begin-line>
+				For he 
+				<crossref let="c" cid="c19105042.1">
+				</crossref>
+				remembered his holy promise,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="d" cid="c19105042.2">
+				</crossref>
+				Abraham, his servant.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19105043">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="43">
+				<begin-line
+					>
+				</begin-line>
+				So he brought his people out with joy,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				his 
+				<crossref let="d" cid="c19105043.1">
+				</crossref>
+				chosen ones with 
+				<crossref let="e" cid="c19105043.2">
+				</crossref>
+				singing.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105044">
+			</marker>
+			<verse num="44">
+				<begin-line
+					>
+				</begin-line>
+				And he 
+				<crossref let="f" cid="c19105044.1">
+				</crossref>
+				gave them the lands of the nations,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and they took possession of the fruit of the peoples' toil,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19105045">
+			</marker>
+			<verse num="45">
+				<begin-line
+					>
+				</begin-line>
+				that they might 
+				<crossref let="g" cid="c19105045.1">
+				</crossref>
+				keep his statutes
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="h" cid="c19105045.2">
+				</crossref>
+				observe his laws.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19105045.3">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40020001">
+		</marker>
+		<chapter num="20">
+			<heading
+				>
+				Laborers in the Vineyard
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					For the kingdom of heaven is like a master of a house who went out early in the morning to hire laborers for his vineyard.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020002">
+			</marker>
+			<verse num="2" class="woc">
+				<woc
+					>
+					After agreeing with the laborers for a denarius
+					<note nid="n40020002.1">
+					</note>
+					 a day, he sent them into his vineyard.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020003">
+			</marker>
+			<verse num="3" class="woc">
+				<woc
+					>
+					And going out about the third hour he saw others standing idle in the marketplace,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020004">
+			</marker>
+			<verse num="4" class="woc">
+				<woc
+					>
+					and to them he said, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					You go into the vineyard too, and whatever is right I will give you.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020005">
+			</marker>
+			<verse num="5" class="woc">
+				<woc
+					>
+					So they went.
+				</woc>
+				<woc
+					>
+					Going out again about the sixth hour and the ninth hour, he did the same.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020006">
+			</marker>
+			<verse num="6" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="g" cid="c40020006.1">
+					</crossref>
+					about the eleventh hour he went out and found others standing. And he said to them, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Why do you stand here idle all day?
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020007">
+			</marker>
+			<verse num="7" class="woc">
+				<woc
+					>
+					They said to him, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Because no one has hired us.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 He said to them, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					You go into the vineyard too.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020008">
+			</marker>
+			<verse num="8" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="h" cid="c40020008.1">
+					</crossref>
+					when evening came, the owner of the vineyard said to his 
+					<crossref let="i" cid="c40020008.2">
+					</crossref>
+					foreman, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Call the laborers and pay them their wages, beginning with the last, up to the first.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020009">
+			</marker>
+			<verse num="9" class="woc">
+				<woc
+					>
+					And when those hired about the eleventh hour came, each of them received a denarius.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					Now when those hired first came, they thought they would receive more, but each of them also received a denarius.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020011">
+			</marker>
+			<verse num="11" class="woc">
+				<woc
+					>
+					And on receiving it they grumbled at the master of the house,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020012">
+			</marker>
+			<verse num="12" class="woc">
+				<woc
+					>
+					saying, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					These last worked only one hour, and you have made them equal to us who have borne the burden of the day and 
+					<crossref let="j" cid="c40020012.1">
+					</crossref>
+					the scorching heat.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020013">
+			</marker>
+			<verse num="13" class="woc">
+				<woc
+					>
+					But he replied to one of them, 
+					<crossref let="k" cid="c40020013.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Friend, I am doing you no wrong. Did you not agree with me for a denarius?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020014">
+			</marker>
+			<verse num="14" class="woc">
+				<woc
+					>
+					Take 
+					<crossref let="l" cid="c40020014.1">
+					</crossref>
+					what belongs to you and go. I choose to give to this last worker as I give to you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020015">
+			</marker>
+			<verse num="15" class="woc">
+				<woc
+					>
+					<crossref let="m" cid="c40020015.1">
+					</crossref>
+					Am I not allowed to do what I choose with what belongs to me? Or 
+					<crossref let="n" cid="c40020015.2">
+					</crossref>
+					do you begrudge my generosity?
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<note nid="n40020015.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc
+					>
+					So 
+					<crossref let="o" cid="c40020016.1">
+					</crossref>
+					the last will be first, and the first last.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40020017">
+			</marker>
+			<heading
+				>
+				Jesus Foretells His Death a Third Time
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				<crossref let="p" cid="c40020017.1">
+				</crossref>
+				<crossref cid="t40020017.1">
+				</crossref>
+				And as Jesus was going up to Jerusalem, he took the twelve disciples aside, and on the way he said to them,
+			</verse>
+			<marker class="begin-verse" mid="v40020018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					See, 
+					<crossref let="q" cid="c40020018.1">
+					</crossref>
+					we are going up to Jerusalem. And the Son of Man will be delivered over to the chief priests and scribes, and they will 
+					<crossref let="r" cid="c40020018.2">
+					</crossref>
+					condemn him to death
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					and 
+					<crossref let="s" cid="c40020019.1">
+					</crossref>
+					deliver him over to the Gentiles 
+					<crossref let="t" cid="c40020019.2">
+					</crossref>
+					to be mocked and flogged and 
+					<crossref let="u" cid="c40020019.3">
+					</crossref>
+					crucified, and he will be raised on 
+					<crossref let="v" cid="c40020019.4">
+					</crossref>
+					the third day.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40020020">
+			</marker>
+			<heading
+				>
+				A Mother's Request
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				<crossref let="w" cid="c40020020.1">
+				</crossref>
+				<crossref cid="t40020020.1">
+				</crossref>
+				Then 
+				<crossref let="x" cid="c40020020.2">
+				</crossref>
+				the mother of the sons of Zebedee came up to him with her sons, and 
+				<crossref let="y" cid="c40020020.3">
+				</crossref>
+				kneeling before him she asked him for something.
+			</verse>
+			<marker class="begin-verse" mid="v40020021">
+			</marker>
+			<verse num="21">
+				And he said to her, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What do you want?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 She said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say that these two sons of mine 
+				<crossref let="z" cid="c40020021.1">
+				</crossref>
+				are to sit, one at your right hand and one at your left, 
+				<crossref let="a" cid="c40020021.2">
+				</crossref>
+				in your kingdom.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40020022">
+			</marker>
+			<verse num="22">
+				Jesus answered, 
+				<woc
+					>
+					<crossref let="b" cid="c40020022.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You do not know what you are asking. Are you able 
+					<crossref let="c" cid="c40020022.2">
+					</crossref>
+					to drink the cup that I am to drink?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 They said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We are able.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40020023">
+			</marker>
+			<verse num="23">
+				He said to them, 
+				<woc
+					>
+					<crossref let="d" cid="c40020023.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You will drink 
+					<crossref let="e" cid="c40020023.2">
+					</crossref>
+					my cup, but to sit at my right hand and at my left is not mine to grant, 
+					<crossref let="f" cid="c40020023.3">
+					</crossref>
+					but it is for those for whom it has been 
+					<crossref let="g" cid="c40020023.4">
+					</crossref>
+					prepared by my Father.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020024">
+			</marker>
+			<verse num="24">
+				And when the ten heard it, they were indignant at the two brothers.
+			</verse>
+			<marker class="begin-verse" mid="v40020025">
+			</marker>
+			<verse num="25">
+				But Jesus called them to him and said, 
+				<woc
+					>
+					<crossref let="h" cid="c40020025.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You know that the rulers of the Gentiles 
+					<crossref let="i" cid="c40020025.2">
+					</crossref>
+					lord it over them, and their great ones exercise authority over them.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					<crossref let="j" cid="c40020026.1">
+					</crossref>
+					It shall not be so among you. But whoever would be great among you must be your servant,
+					<note nid="n40020026.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020027">
+			</marker>
+			<verse num="27" class="woc">
+				<woc
+					>
+					and whoever would be first among you must be your slave,
+					<note nid="n40020027.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020028">
+			</marker>
+			<verse num="28" class="woc">
+				<woc
+					>
+					even as the Son of Man came not to be served but 
+					<crossref let="k" cid="c40020028.1">
+					</crossref>
+					to serve, and 
+					<crossref let="l" cid="c40020028.2">
+					</crossref>
+					to give his life as a ransom for 
+					<crossref let="m" cid="c40020028.3">
+					</crossref>
+					many.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40020029">
+			</marker>
+			<heading
+				>
+				Jesus Heals Two Blind Men
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				<crossref let="n" cid="c40020029.1">
+				</crossref>
+				<crossref cid="t40020029.1">
+				</crossref>
+				And as they went out of Jericho, a great crowd followed him.
+			</verse>
+			<marker class="begin-verse" mid="v40020030">
+			</marker>
+			<verse num="30">
+				And behold, there were two blind men sitting by the roadside, and when they heard that Jesus was passing by, they cried out, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord,
+				<note nid="n40020030.1">
+				</note>
+				 have mercy on us, 
+				<crossref let="o" cid="c40020030.1">
+				</crossref>
+				Son of David!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40020031">
+			</marker>
+			<verse num="31">
+				The crowd 
+				<crossref let="p" cid="c40020031.1">
+				</crossref>
+				rebuked them, telling them to be silent, but they cried out all the more, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, have mercy on us, Son of David!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40020032">
+			</marker>
+			<verse num="32">
+				And stopping, Jesus called them and said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					What do you want me to do for you?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40020033">
+			</marker>
+			<verse num="33">
+				They said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, let our eyes be opened.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40020034">
+			</marker>
+			<verse num="34">
+				And Jesus in pity touched their eyes, and immediately they recovered their sight and followed him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

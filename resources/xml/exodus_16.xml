@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02016001">
+		</marker>
+		<chapter num="16">
+			<heading
+				>
+				Bread from Heaven
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				They 
+				<crossref let="k" cid="c02016001.1">
+				</crossref>
+				set out from Elim, and all the congregation of the people of Israel came to the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they had departed from the land of Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v02016002">
+			</marker>
+			<verse num="2">
+				And the whole congregation of the people of Israel 
+				<crossref let="l" cid="c02016002.1">
+				</crossref>
+				grumbled against Moses and Aaron in the wilderness,
+			</verse>
+			<marker class="begin-verse" mid="v02016003">
+			</marker>
+			<verse num="3">
+				and the people of Israel said to them, 
+				<crossref let="m" cid="c02016003.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Would that we had died by the hand of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 in the land of Egypt, 
+				<crossref let="n" cid="c02016003.2">
+				</crossref>
+				when we sat by the meat pots and ate bread to the full, for you have brought us out into this wilderness to kill this whole assembly with hunger.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02016004">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="4">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I am about to rain 
+				<crossref let="o" cid="c02016004.1">
+				</crossref>
+				bread from heaven for you, and the people shall go out and gather a day's portion every day, that I may 
+				<crossref let="p" cid="c02016004.2">
+				</crossref>
+				test them, whether they will walk in my law or not.
+			</verse>
+			<marker class="begin-verse" mid="v02016005">
+			</marker>
+			<verse num="5">
+				On the sixth day, when they prepare what they bring in, 
+				<crossref let="q" cid="c02016005.1">
+				</crossref>
+				it will be twice as much as they gather daily.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02016006">
+			</marker>
+			<verse num="6">
+				So Moses and Aaron said to all the people of Israel, 
+				<crossref let="r" cid="c02016006.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				At evening 
+				<crossref let="s" cid="c02016006.2">
+				</crossref>
+				you shall know that it was the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 who brought you out of the land of Egypt,
+			</verse>
+			<marker class="begin-verse" mid="v02016007">
+			</marker>
+			<verse num="7">
+				and in the morning you shall see the 
+				<crossref let="t" cid="c02016007.1">
+				</crossref>
+				glory of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, because he has heard your grumbling against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				. For 
+				<crossref let="u" cid="c02016007.2">
+				</crossref>
+				what are we, that you grumble against us?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02016008">
+			</marker>
+			<verse num="8">
+				And Moses said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				When the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 gives you in the evening meat to eat and in the morning bread to the full, because the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has heard your grumbling that you grumble against himù
+				<crossref let="v" cid="c02016008.1">
+				</crossref>
+				what are we? Your grumbling is not 
+				<crossref let="w" cid="c02016008.2">
+				</crossref>
+				against us but against the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02016009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				Then Moses 
+				<crossref let="x" cid="c02016009.1">
+				</crossref>
+				said to Aaron, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say to the whole congregation of the people of Israel, 
+				<crossref let="y" cid="c02016009.2">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Come near before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, for he has heard your grumbling.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02016010">
+			</marker>
+			<verse num="10">
+				And as soon as Aaron spoke to the whole congregation of the people of Israel, they looked toward the wilderness, and behold, the 
+				<crossref let="t" cid="c02016010.1">
+				</crossref>
+				glory of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 appeared in the cloud.
+			</verse>
+			<marker class="begin-verse" mid="v02016011">
+			</marker>
+			<verse num="11">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses,
+			</verse>
+			<marker class="begin-verse" mid="v02016012">
+			</marker>
+			<verse num="12">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I 
+				<crossref let="z" cid="c02016012.1">
+				</crossref>
+				have heard the grumbling of the people of Israel. Say to them, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				At 
+				<crossref let="a" cid="c02016012.2">
+				</crossref>
+				twilight you shall eat meat, and 
+				<crossref let="b" cid="c02016012.3">
+				</crossref>
+				in the morning you shall be filled with bread. Then you shall know that I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02016013">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="13">
+				In the evening 
+				<crossref let="c" cid="c02016013.1">
+				</crossref>
+				quail came up and covered the camp, and in the morning 
+				<crossref let="d" cid="c02016013.2">
+				</crossref>
+				dew lay around the camp.
+			</verse>
+			<marker class="begin-verse" mid="v02016014">
+			</marker>
+			<verse num="14">
+				And when the dew had gone up, there was on the face of the wilderness a fine, flake-like thing, fine as frost on the ground.
+			</verse>
+			<marker class="begin-verse" mid="v02016015">
+			</marker>
+			<verse num="15">
+				When the people of Israel saw it, they said to one another, 
+				<crossref let="e" cid="c02016015.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What is it?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n02016015.1">
+				</note>
+				 For they 
+				<crossref let="f" cid="c02016015.2">
+				</crossref>
+				did not know what it was. And Moses said to them, 
+				<crossref let="g" cid="c02016015.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is the bread that the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has given you to eat.
+			</verse>
+			<marker class="begin-verse" mid="v02016016">
+			</marker>
+			<verse num="16">
+				This is what the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has commanded: 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Gather of it, each one of you, as much as he can eat. You shall each take an 
+				<crossref let="h" cid="c02016016.1">
+				</crossref>
+				omer,
+				<note nid="n02016016.1">
+				</note>
+				 according to the number of the persons that each of you has in his tent.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02016017">
+			</marker>
+			<verse num="17">
+				And the people of Israel did so. They gathered, some more, some less.
+			</verse>
+			<marker class="begin-verse" mid="v02016018">
+			</marker>
+			<verse num="18">
+				But when they measured it with an omer, 
+				<crossref let="i" cid="c02016018.1">
+				</crossref>
+				whoever gathered much had nothing left over, and whoever gathered little had no lack. Each of them gathered as much as he could eat.
+			</verse>
+			<marker class="begin-verse" mid="v02016019">
+			</marker>
+			<verse num="19">
+				And Moses said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let no one leave any of it over till the morning.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02016020">
+			</marker>
+			<verse num="20">
+				But they did not listen to Moses. Some left part of it till the morning, and 
+				<crossref let="j" cid="c02016020.1">
+				</crossref>
+				it bred worms and stank. And Moses was angry with them.
+			</verse>
+			<marker class="begin-verse" mid="v02016021">
+			</marker>
+			<verse num="21">
+				Morning by morning they gathered it, each as much as he could eat; but when the sun grew hot, it melted.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02016022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				On 
+				<crossref let="k" cid="c02016022.1">
+				</crossref>
+				the sixth day they gathered twice as much bread, two omers each. And when all the leaders of the congregation came and told Moses,
+			</verse>
+			<marker class="begin-verse" mid="v02016023">
+			</marker>
+			<verse num="23">
+				he said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is what the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has commanded: 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Tomorrow is a day of 
+				<crossref let="l" cid="c02016023.1">
+				</crossref>
+				solemn rest, a holy Sabbath to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				; bake what you will bake and boil what you will boil, and all that is left over lay aside to be kept till the morning.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02016024">
+			</marker>
+			<verse num="24">
+				So they laid it aside till the morning, as Moses commanded them, and 
+				<crossref let="m" cid="c02016024.1">
+				</crossref>
+				it did not stink, and there were no worms in it.
+			</verse>
+			<marker class="begin-verse" mid="v02016025">
+			</marker>
+			<verse num="25">
+				Moses said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Eat it today, for 
+				<crossref let="l" cid="c02016025.1">
+				</crossref>
+				today is a Sabbath to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				; today you will not find it in the field.
+			</verse>
+			<marker class="begin-verse" mid="v02016026">
+			</marker>
+			<verse num="26">
+				Six days you shall gather it, but on the seventh day, which is a Sabbath, there will be none.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02016027">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				On the seventh day some of the people went out to gather, but they found none.
+			</verse>
+			<marker class="begin-verse" mid="v02016028">
+			</marker>
+			<verse num="28">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<crossref let="n" cid="c02016028.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How long will you refuse to keep my commandments and my laws?
+			</verse>
+			<marker class="begin-verse" mid="v02016029">
+			</marker>
+			<verse num="29">
+				See! The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has given you the Sabbath; therefore on the sixth day he gives you bread for two days. Remain each of you in his place; let no one go out of his place on the seventh day.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02016030">
+			</marker>
+			<verse num="30">
+				So the people 
+				<crossref let="o" cid="c02016030.1">
+				</crossref>
+				rested on the seventh day.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02016031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				Now the house of Israel called its name 
+				<crossref let="p" cid="c02016031.1">
+				</crossref>
+				manna. It was 
+				<crossref let="q" cid="c02016031.2">
+				</crossref>
+				like coriander seed, white, and the taste of it was like wafers made with honey.
+			</verse>
+			<marker class="begin-verse" mid="v02016032">
+			</marker>
+			<verse num="32">
+				Moses said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is what the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has commanded: 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Let an omer of it be kept throughout your generations, so that they may see the bread with which I fed you in the wilderness, when I brought you out of the land of Egypt.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02016033">
+			</marker>
+			<verse num="33">
+				And Moses said to Aaron, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take a 
+				<crossref let="r" cid="c02016033.1">
+				</crossref>
+				jar, and put an omer of manna in it, and place it before the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 to be kept throughout your generations.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02016034">
+			</marker>
+			<verse num="34">
+				As the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 commanded Moses, so Aaron placed it before 
+				<crossref let="s" cid="c02016034.1">
+				</crossref>
+				the testimony to be kept.
+			</verse>
+			<marker class="begin-verse" mid="v02016035">
+			</marker>
+			<verse num="35">
+				The people of Israel 
+				<crossref let="t" cid="c02016035.1">
+				</crossref>
+				ate the manna forty years, till they came to a habitable land. They ate the manna till 
+				<crossref let="u" cid="c02016035.2">
+				</crossref>
+				they came to the border of the land of Canaan.
+			</verse>
+			<marker class="begin-verse" mid="v02016036">
+			</marker>
+			<verse num="36">
+				(An omer is 
+				<crossref let="v" cid="c02016036.1">
+				</crossref>
+				the tenth part of an ephah.)
+				<note nid="n02016036.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

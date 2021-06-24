@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Exodus" num="1">
+		<marker class="begin-verse" mid="v02008001">
+		</marker>
+		<chapter num="8">
+			<heading
+				>
+				The Second Plague: Frogs
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<note nid="n02008001.1">
+				</note>
+				 Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go in to Pharaoh and say to him, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				Let my people go, that 
+				<crossref let="n" cid="c02008001.1">
+				</crossref>
+				they may serve me.
+			</verse>
+			<marker class="begin-verse" mid="v02008002">
+			</marker>
+			<verse num="2">
+				But if you 
+				<crossref let="o" cid="c02008002.1">
+				</crossref>
+				refuse to let them go, behold, I will plague all your country with 
+				<crossref let="p" cid="c02008002.2">
+				</crossref>
+				frogs.
+			</verse>
+			<marker class="begin-verse" mid="v02008003">
+			</marker>
+			<verse num="3">
+				The Nile shall swarm with frogs that shall come up into your house and into 
+				<crossref let="q" cid="c02008003.1">
+				</crossref>
+				your bedroom and on your bed and into the houses of your servants and your people,
+				<note nid="n02008003.1">
+				</note>
+				 and into your ovens and your kneading bowls.
+			</verse>
+			<marker class="begin-verse" mid="v02008004">
+			</marker>
+			<verse num="4">
+				The frogs shall come up on you and on your people and on all your servants.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02008005">
+			</marker>
+			<verse num="5">
+				<note nid="n02008005.1">
+				</note>
+				 And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say to Aaron, 
+				<crossref let="r" cid="c02008005.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Stretch out your hand with your staff over the rivers, over the canals and over the pools, and make frogs come up on the land of Egypt!
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02008006">
+			</marker>
+			<verse num="6">
+				So Aaron stretched out his hand over the waters of Egypt, and 
+				<crossref let="s" cid="c02008006.1">
+				</crossref>
+				the frogs came up and covered the land of Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v02008007">
+			</marker>
+			<verse num="7">
+				But 
+				<crossref let="t" cid="c02008007.1">
+				</crossref>
+				the magicians did the same by their secret arts and made frogs come up on the land of Egypt.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02008008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Then Pharaoh called Moses and Aaron and said, 
+				<crossref let="u" cid="c02008008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Plead with the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 to take away the frogs from me and from my people, and 
+				<crossref let="v" cid="c02008008.2">
+				</crossref>
+				I will let the people go to sacrifice to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02008009">
+			</marker>
+			<verse num="9">
+				Moses said to Pharaoh, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Be pleased to command me when 
+				<crossref let="u" cid="c02008009.1">
+				</crossref>
+				I am to plead for you and for your servants and for your people, that the frogs be cut off from you and your houses and be left only in the Nile.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02008010">
+			</marker>
+			<verse num="10">
+				And he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tomorrow.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 Moses said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Be it as you say, so 
+				<crossref let="w" cid="c02008010.1">
+				</crossref>
+				that you may know that 
+				<crossref let="x" cid="c02008010.2">
+				</crossref>
+				there is no one like the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God.
+			</verse>
+			<marker class="begin-verse" mid="v02008011">
+			</marker>
+			<verse num="11">
+				The frogs shall go away from you and your houses and your servants and your people. They shall be left only in the Nile.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02008012">
+			</marker>
+			<verse num="12">
+				So Moses and Aaron went out from Pharaoh, and Moses cried to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 about the frogs, as he had agreed with Pharaoh.
+				<note nid="n02008012.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v02008013">
+			</marker>
+			<verse num="13">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 did according to the word of Moses. The frogs died out in the houses, the courtyards, and the fields.
+			</verse>
+			<marker class="begin-verse" mid="v02008014">
+			</marker>
+			<verse num="14">
+				And they gathered them together in heaps, and the land stank.
+			</verse>
+			<marker class="begin-verse" mid="v02008015">
+			</marker>
+			<verse num="15">
+				But when Pharaoh saw that there was a 
+				<crossref let="y" cid="c02008015.1">
+				</crossref>
+				respite, he 
+				<crossref let="z" cid="c02008015.2">
+				</crossref>
+				hardened his heart and would not listen to them, as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had said.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02008016">
+			</marker>
+			<heading
+				>
+				The Third Plague: Gnats
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Say to Aaron, 
+				<crossref let="a" cid="c02008016.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Stretch out your staff and strike the dust of the earth, so that it may become gnats in all the land of Egypt.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02008017">
+			</marker>
+			<verse num="17">
+				And they did so. Aaron stretched out his hand with his staff and struck the dust of the earth, and 
+				<crossref let="b" cid="c02008017.1">
+				</crossref>
+				there were gnats on man and beast. All the dust of the earth became gnats in all the land of Egypt.
+			</verse>
+			<marker class="begin-verse" mid="v02008018">
+			</marker>
+			<verse num="18">
+				The 
+				<crossref let="c" cid="c02008018.1">
+				</crossref>
+				magicians tried by their secret arts to produce gnats, but they could not. So there were gnats on man and beast.
+			</verse>
+			<marker class="begin-verse" mid="v02008019">
+			</marker>
+			<verse num="19">
+				Then the magicians said to Pharaoh, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is 
+				<crossref let="d" cid="c02008019.1">
+				</crossref>
+				the finger of God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But Pharaoh's heart was hardened, and he would not listen to them, as the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 had said.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02008020">
+			</marker>
+			<heading
+				>
+				The Fourth Plague: Flies
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				Then the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 said to Moses, 
+				<crossref let="e" cid="c02008020.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Rise up early in the morning and present yourself to Pharaoh, as he goes out to the water, and say to him, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Thus says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="f" cid="c02008020.2">
+				</crossref>
+				<q class="begin-inner-double" qid="" from="" to="">
+				</q>
+				Let my people go, that they may serve me.
+			</verse>
+			<marker class="begin-verse" mid="v02008021">
+			</marker>
+			<verse num="21">
+				Or else, if you will not let my people go, behold, I will send swarms of flies on you and your servants and your people, and into your houses. And the houses of the Egyptians shall be filled with swarms of flies, and also the ground on which they stand.
+			</verse>
+			<marker class="begin-verse" mid="v02008022">
+			</marker>
+			<verse num="22">
+				But on that day 
+				<crossref let="g" cid="c02008022.1">
+				</crossref>
+				I will set apart the land of Goshen, where my people dwell, so that no swarms of flies shall be there, 
+				<crossref let="h" cid="c02008022.2">
+				</crossref>
+				that you may know that I am the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 in the midst of the earth.
+				<note nid="n02008022.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v02008023">
+			</marker>
+			<verse num="23">
+				Thus I will put a division
+				<note nid="n02008023.1">
+				</note>
+				 between my people and your people. Tomorrow this sign shall happen.
+				<q class="end-inner-double" qid="" from="" to="">
+				</q>
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02008024">
+			</marker>
+			<verse num="24">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 did so. 
+				<crossref let="i" cid="c02008024.1">
+				</crossref>
+				There came great swarms of flies into the house of Pharaoh and into his servants' houses. Throughout all the land of Egypt the land was ruined by the swarms of flies.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v02008025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				Then Pharaoh called Moses and Aaron and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go, sacrifice to your God within the land.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02008026">
+			</marker>
+			<verse num="26">
+				But Moses said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It would not be right to do so, for the offerings we shall sacrifice to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God are an 
+				<crossref let="j" cid="c02008026.1">
+				</crossref>
+				abomination to the Egyptians. If we sacrifice offerings 
+				<crossref let="j" cid="c02008026.2">
+				</crossref>
+				abominable to the Egyptians before their eyes, will they not stone us?
+			</verse>
+			<marker class="begin-verse" mid="v02008027">
+			</marker>
+			<verse num="27">
+				We must go 
+				<crossref let="k" cid="c02008027.1">
+				</crossref>
+				three days' journey into the wilderness and sacrifice to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 our God 
+				<crossref let="l" cid="c02008027.2">
+				</crossref>
+				as he tells us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02008028">
+			</marker>
+			<verse num="28">
+				So Pharaoh said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will let you go to sacrifice to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God in the wilderness; only you must not go very far away. 
+				<crossref let="m" cid="c02008028.1">
+				</crossref>
+				Plead for me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02008029">
+			</marker>
+			<verse num="29">
+				Then Moses said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, I am going out from you and I will plead with the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 that the swarms of flies may depart from Pharaoh, from his servants, and from his people, tomorrow. Only let not Pharaoh 
+				<crossref let="n" cid="c02008029.1">
+				</crossref>
+				cheat again by not letting the people go to sacrifice to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v02008030">
+			</marker>
+			<verse num="30">
+				So Moses went out from Pharaoh and prayed to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				.
+			</verse>
+			<marker class="begin-verse" mid="v02008031">
+			</marker>
+			<verse num="31">
+				And the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 did as Moses asked, and removed the swarms of flies from Pharaoh, from his servants, and from his people; not one remained.
+			</verse>
+			<marker class="begin-verse" mid="v02008032">
+			</marker>
+			<verse num="32">
+				But Pharaoh 
+				<crossref let="o" cid="c02008032.1">
+				</crossref>
+				hardened his heart this time also, and did not let the people go.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

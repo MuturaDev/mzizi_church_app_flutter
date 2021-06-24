@@ -1,0 +1,581 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Proverbs" num="19">
+		<marker class="begin-verse" mid="v20025001">
+		</marker>
+		<chapter num="25">
+			<heading
+				>
+				More Proverbs of Solomon
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				These also are 
+				<crossref let="m" cid="c20025001.1">
+				</crossref>
+				proverbs of Solomon which the men of Hezekiah king of Judah copied.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20025002">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				It is the glory of God to 
+				<crossref let="n" cid="c20025002.1">
+				</crossref>
+				conceal things,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but the glory of kings is to 
+				<crossref let="o" cid="c20025002.2">
+				</crossref>
+				search things out.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				As the heavens for height, and the earth for depth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so the heart of kings is 
+				<crossref let="p" cid="c20025003.1">
+				</crossref>
+				unsearchable.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Take away 
+				<crossref let="q" cid="c20025004.1">
+				</crossref>
+				the dross from the silver,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="r" cid="c20025004.2">
+				</crossref>
+				the smith has material for a vessel;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				take away 
+				<crossref let="s" cid="c20025005.1">
+				</crossref>
+				the wicked from the presence of the king,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and his 
+				<crossref let="t" cid="c20025005.2">
+				</crossref>
+				throne will be established in righteousness.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Do not put yourself forward in the king's presence
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or stand in the place of the great,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				for 
+				<crossref let="u" cid="c20025007.1">
+				</crossref>
+				it is better to be told, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come up here,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				than to be put lower in the presence of a noble.
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				What your eyes have seen
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025008">
+			</marker>
+			<verse num="8">
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c20025008.1">
+				</crossref>
+				do not hastily bring into court,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				for
+				<note nid="n20025008.1">
+				</note>
+				 what will you do in the end,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when your neighbor puts you to shame?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c20025009.1">
+				</crossref>
+				Argue your case with your neighbor himself,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and do not reveal another's secret,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				lest he who hears you bring shame upon you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your ill repute have no end.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20025011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c20025011.1">
+				</crossref>
+				A word fitly spoken
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is like apples of gold in a setting of silver.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Like 
+				<crossref let="z" cid="c20025012.1">
+				</crossref>
+				a gold ring or an ornament of gold
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is a wise reprover to 
+				<crossref let="a" cid="c20025012.2">
+				</crossref>
+				a listening ear.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				Like the cold of snow in the time of harvest
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is 
+				<crossref let="b" cid="c20025013.1">
+				</crossref>
+				a faithful messenger to those who send him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he refreshes the soul of his masters.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				Like 
+				<crossref let="c" cid="c20025014.1">
+				</crossref>
+				clouds and wind without rain
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is a man who 
+				<crossref let="d" cid="c20025014.2">
+				</crossref>
+				boasts of a gift he does not give.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20025015">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				With 
+				<crossref let="e" cid="c20025015.1">
+				</crossref>
+				patience a ruler may be persuaded,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a soft tongue will break a bone.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				If you have 
+				<crossref let="f" cid="c20025016.1">
+				</crossref>
+				found honey, eat 
+				<crossref let="g" cid="c20025016.2">
+				</crossref>
+				only enough for you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				lest you have your fill of it and vomit it.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				Let your foot be seldom in your neighbor's house,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				lest he have his fill of you and hate you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				A man who 
+				<crossref let="h" cid="c20025018.1">
+				</crossref>
+				bears false witness against his neighbor
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is like a war club, or 
+				<crossref let="i" cid="c20025018.2">
+				</crossref>
+				a sword, or a sharp arrow.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				Trusting in a treacherous man in time of trouble
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is like a bad tooth or a foot that slips.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				Whoever 
+				<crossref let="j" cid="c20025020.1">
+				</crossref>
+				sings songs to a heavy heart
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is like one who takes off a garment on a cold day,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and like vinegar on soda.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c20025021.1">
+				</crossref>
+				If your enemy is hungry, give him bread to eat,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and if he is thirsty, give him water to drink,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				for you will heap 
+				<crossref let="l" cid="c20025022.1">
+				</crossref>
+				burning coals on his head,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will reward you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				The north wind brings forth rain,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a backbiting tongue, angry looks.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c20025024.1">
+				</crossref>
+				It is better to live in a corner of the housetop
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				than in a house shared with a quarrelsome wife.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025025">
+			</marker>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				Like cold water to 
+				<crossref let="n" cid="c20025025.1">
+				</crossref>
+				a thirsty soul,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so is 
+				<crossref let="o" cid="c20025025.2">
+				</crossref>
+				good news from a far country.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				Like 
+				<crossref let="p" cid="c20025026.1">
+				</crossref>
+				a muddied spring or a polluted fountain
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is a righteous man who gives way before the wicked.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				It is 
+				<crossref let="q" cid="c20025027.1">
+				</crossref>
+				not good to eat much honey,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				nor is it glorious to 
+				<crossref let="r" cid="c20025027.2">
+				</crossref>
+				seek one's own glory.
+				<note nid="n20025027.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20025028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				A man 
+				<crossref let="s" cid="c20025028.1">
+				</crossref>
+				without self-control
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is like 
+				<crossref let="t" cid="c20025028.2">
+				</crossref>
+				a city broken into and left without walls.
+				<end-line class="br">
+				</end-line>
+			</verse>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

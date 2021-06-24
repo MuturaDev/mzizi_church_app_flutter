@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Genesis" num="0">
+		<marker class="begin-verse" mid="v01009001">
+		</marker>
+		<chapter num="9">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				And God blessed Noah and his sons and said to them, 
+				<crossref let="q" cid="c01009001.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Be fruitful and multiply and fill the earth.
+			</verse>
+			<marker class="begin-verse" mid="v01009002">
+			</marker>
+			<verse num="2">
+				<crossref let="r" cid="c01009002.1">
+				</crossref>
+				The fear of you and the dread of you shall be upon every beast of the earth and upon every bird of the heavens, upon everything that creeps on the ground and all the fish of the sea. Into your hand they are delivered.
+			</verse>
+			<marker class="begin-verse" mid="v01009003">
+			</marker>
+			<verse num="3">
+				<crossref let="s" cid="c01009003.1">
+				</crossref>
+				Every moving thing that lives shall be food for you. And 
+				<crossref let="t" cid="c01009003.2">
+				</crossref>
+				as I gave you the green plants, I give you everything.
+			</verse>
+			<marker class="begin-verse" mid="v01009004">
+			</marker>
+			<verse num="4">
+				But you shall not eat flesh with its 
+				<crossref let="u" cid="c01009004.1">
+				</crossref>
+				life, that is, its blood.
+			</verse>
+			<marker class="begin-verse" mid="v01009005">
+			</marker>
+			<verse num="5">
+				And for your lifeblood I will require a reckoning: 
+				<crossref let="v" cid="c01009005.1">
+				</crossref>
+				from every beast I will require it and 
+				<crossref let="w" cid="c01009005.2">
+				</crossref>
+				from man. From his fellow man I will require a reckoning for the life of man.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01009006">
+			</marker>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c01009006.1">
+				</crossref>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Whoever sheds the blood of man,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				by man shall his blood be shed,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c01009006.2">
+				</crossref>
+				for God made man in his own image.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v01009007">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="7">
+				And you,
+				<note nid="n01009007.1">
+				</note>
+				 be fruitful and multiply, teem on the earth and multiply in it.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01009008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				Then God said to Noah and to his sons with him,
+			</verse>
+			<marker class="begin-verse" mid="v01009009">
+			</marker>
+			<verse num="9">
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, 
+				<crossref let="z" cid="c01009009.1">
+				</crossref>
+				I establish my covenant with you and your offspring after you,
+			</verse>
+			<marker class="begin-verse" mid="v01009010">
+			</marker>
+			<verse num="10">
+				and with every living creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as came out of the ark; it is for every beast of the earth.
+			</verse>
+			<marker class="begin-verse" mid="v01009011">
+			</marker>
+			<verse num="11">
+				<crossref let="a" cid="c01009011.1">
+				</crossref>
+				I establish my covenant with you, that never again shall all flesh be cut off by the waters of the flood, and never again shall there be a flood to destroy the earth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01009012">
+			</marker>
+			<verse num="12">
+				And God said, 
+				<crossref let="b" cid="c01009012.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations:
+			</verse>
+			<marker class="begin-verse" mid="v01009013">
+			</marker>
+			<verse num="13">
+				I have set 
+				<crossref let="c" cid="c01009013.1">
+				</crossref>
+				my bow in the cloud, and it shall be a sign of the covenant between me and the earth.
+			</verse>
+			<marker class="begin-verse" mid="v01009014">
+			</marker>
+			<verse num="14">
+				When I bring clouds over the earth and the bow is seen in the clouds,
+			</verse>
+			<marker class="begin-verse" mid="v01009015">
+			</marker>
+			<verse num="15">
+				<crossref let="d" cid="c01009015.1">
+				</crossref>
+				I will remember my covenant that is between me and you and every living creature of all flesh. And the waters shall never again become a flood to destroy all flesh.
+			</verse>
+			<marker class="begin-verse" mid="v01009016">
+			</marker>
+			<verse num="16">
+				When the bow is in the clouds, I will see it and remember 
+				<crossref let="e" cid="c01009016.1">
+				</crossref>
+				the everlasting covenant between God and every living creature of all flesh that is on the earth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v01009017">
+			</marker>
+			<verse num="17">
+				God said to Noah, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is the sign of the covenant that I have established between me and all flesh that is on the earth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01009018">
+			</marker>
+			<heading
+				>
+				Noah's Descendants
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				The sons of Noah who went forth from the ark were 
+				<crossref let="f" cid="c01009018.1">
+				</crossref>
+				Shem, Ham, and Japheth. (Ham was the father of Canaan.)
+			</verse>
+			<marker class="begin-verse" mid="v01009019">
+			</marker>
+			<verse num="19">
+				These three were the sons of Noah, and 
+				<crossref let="g" cid="c01009019.1">
+				</crossref>
+				from these the people of the whole earth were dispersed.
+				<note nid="n01009019.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v01009020">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="20">
+				Noah began to be a man of the soil, and he planted a vineyard.
+				<note nid="n01009020.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v01009021">
+			</marker>
+			<verse num="21">
+				He drank of the wine and became drunk and lay uncovered in his tent.
+			</verse>
+			<marker class="begin-verse" mid="v01009022">
+			</marker>
+			<verse num="22">
+				And Ham, the father of Canaan, saw the nakedness of his father and told his two brothers outside.
+			</verse>
+			<marker class="begin-verse" mid="v01009023">
+			</marker>
+			<verse num="23">
+				Then Shem and Japheth took a garment, laid it on both their shoulders, and walked backward and covered the nakedness of their father. Their faces were turned backward, and they did not see their father's nakedness.
+			</verse>
+			<marker class="begin-verse" mid="v01009024">
+			</marker>
+			<verse num="24">
+				When Noah awoke from his wine 
+				<crossref let="h" cid="c01009024.1">
+				</crossref>
+				and knew what his youngest son had done to him,
+			</verse>
+			<marker class="begin-verse" mid="v01009025">
+			</marker>
+			<verse num="25">
+				he said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c01009025.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Cursed be Canaan;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c01009025.2">
+				</crossref>
+				a servant of servants shall he be to his brothers.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v01009026">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="26">
+				He also said,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Blessed be the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Shem;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and let Canaan be his servant.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v01009027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				May God enlarge Japheth,
+				<note nid="n01009027.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and let him dwell in the tents of Shem,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and let Canaan be his servant.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v01009028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				After the flood Noah lived 350 years.
+			</verse>
+			<marker class="begin-verse" mid="v01009029">
+			</marker>
+			<verse num="29">
+				All the days of Noah were 950 years, and he died.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

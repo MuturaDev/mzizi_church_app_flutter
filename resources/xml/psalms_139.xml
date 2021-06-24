@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19139001">
+		</marker>
+		<chapter num="139">
+			<heading
+				>
+				Search Me, O God, and Know My Heart
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, you have 
+				<crossref let="p" cid="c19139001.1">
+				</crossref>
+				searched me and known me!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				You 
+				<crossref let="q" cid="c19139002.1">
+				</crossref>
+				know when I sit down and when I rise up;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="r" cid="c19139002.2">
+				</crossref>
+				discern my thoughts from afar.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				You search out my path and my lying down
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and are acquainted with all my ways.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Even before a word is on my tongue,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				behold, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="s" cid="c19139004.1">
+				</crossref>
+				you know it altogether.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				You 
+				<crossref let="t" cid="c19139005.1">
+				</crossref>
+				hem me in, behind and before,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="u" cid="c19139005.2">
+				</crossref>
+				lay your hand upon me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c19139006.1">
+				</crossref>
+				Such knowledge is 
+				<crossref let="w" cid="c19139006.2">
+				</crossref>
+				too wonderful for me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				it is high; I cannot attain it.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19139007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19139007.1">
+				</crossref>
+				Where shall I go from your Spirit?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Or where 
+				<crossref let="y" cid="c19139007.2">
+				</crossref>
+				shall I flee from your presence?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c19139008.1">
+				</crossref>
+				If I ascend to heaven, you are there!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="a" cid="c19139008.2">
+				</crossref>
+				If I make my bed in Sheol, you are there!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				If I take the wings of the morning
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and dwell in the uttermost parts of the sea,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				even there your hand shall 
+				<crossref let="b" cid="c19139010.1">
+				</crossref>
+				lead me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your right hand shall hold me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				If I say, 
+				<crossref let="c" cid="c19139011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Surely the darkness shall cover me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the light about me be night,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c19139012.1">
+				</crossref>
+				even the darkness is not dark to you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the night is bright as the day,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for darkness is as light with you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19139013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				For you 
+				<crossref let="e" cid="c19139013.1">
+				</crossref>
+				formed my inward parts;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="f" cid="c19139013.2">
+				</crossref>
+				knitted me together in my mother's womb.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				I praise you, for I am fearfully and wonderfully made.
+				<note nid="n19139014.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c19139014.1">
+				</crossref>
+				Wonderful are your works;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my soul knows it very well.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="h" cid="c19139015.1">
+				</crossref>
+				My frame was not hidden from you,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				when I was being made in secret,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				intricately woven in 
+				<crossref let="i" cid="c19139015.2">
+				</crossref>
+				the depths of the earth.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Your eyes saw my unformed substance;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				in your 
+				<crossref let="j" cid="c19139016.1">
+				</crossref>
+				book were written, every one of them,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the days that were formed for me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when as yet there was none of them.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19139017">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				How precious to me are your 
+				<crossref let="k" cid="c19139017.1">
+				</crossref>
+				thoughts, O God!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				How vast is the sum of them!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19139018.1">
+				</crossref>
+				If I would count them, they are more than 
+				<crossref let="m" cid="c19139018.2">
+				</crossref>
+				the sand.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I awake, and I am still with you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19139019">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				Oh that you would 
+				<crossref let="n" cid="c19139019.1">
+				</crossref>
+				slay the wicked, O God!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<crossref let="o" cid="c19139019.2">
+				</crossref>
+				men of blood, 
+				<crossref let="p" cid="c19139019.3">
+				</crossref>
+				depart from me!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				They 
+				<crossref let="q" cid="c19139020.1">
+				</crossref>
+				speak against you with malicious intent;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your enemies 
+				<crossref let="r" cid="c19139020.2">
+				</crossref>
+				take your name in vain!
+				<note nid="n19139020.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19139021.1">
+				</crossref>
+				Do I not hate those who hate you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				And do I not 
+				<crossref let="t" cid="c19139021.2">
+				</crossref>
+				loathe those who 
+				<crossref let="u" cid="c19139021.3">
+				</crossref>
+				rise up against you?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				I hate them with complete hatred;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I count them my enemies.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19139023">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				Search me, O God, and know my heart!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="v" cid="c19139023.1">
+				</crossref>
+				Try me and know my thoughts!
+				<note nid="n19139023.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19139024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				And see if there be any grievous way in me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="w" cid="c19139024.1">
+				</crossref>
+				lead me in 
+				<crossref let="x" cid="c19139024.2">
+				</crossref>
+				the way everlasting!
+				<note nid="n19139024.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

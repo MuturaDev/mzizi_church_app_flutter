@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="James" num="59">
+		<marker class="begin-verse" mid="v59001001">
+		</marker>
+		<chapter num="1">
+			<heading
+				>
+				Greeting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="a" cid="c59001001.1">
+				</crossref>
+				James, a servant
+				<note nid="n59001001.1">
+				</note>
+				 of God and 
+				<crossref let="b" cid="c59001001.2">
+				</crossref>
+				of the Lord Jesus Christ,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				To 
+				<crossref let="c" cid="c59001001.3">
+				</crossref>
+				the twelve tribes in 
+				<crossref let="d" cid="c59001001.4">
+				</crossref>
+				the Dispersion:
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-paragraph
+					>
+				</begin-paragraph>
+				Greetings.
+
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v59001002">
+			</marker>
+			<heading
+				>
+				Testing of Your Faith
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="2">
+				<crossref let="e" cid="c59001002.1">
+				</crossref>
+				Count it all joy, my brothers,
+				<note nid="n59001002.1">
+				</note>
+				 when you meet trials 
+				<crossref let="f" cid="c59001002.2">
+				</crossref>
+				of various kinds,
+			</verse>
+			<marker class="begin-verse" mid="v59001003">
+			</marker>
+			<verse num="3">
+				for you know that 
+				<crossref let="g" cid="c59001003.1">
+				</crossref>
+				the testing of your faith 
+				<crossref let="h" cid="c59001003.2">
+				</crossref>
+				produces steadfastness.
+			</verse>
+			<marker class="begin-verse" mid="v59001004">
+			</marker>
+			<verse num="4">
+				And let steadfastness have its full effect, that you may be 
+				<crossref let="i" cid="c59001004.1">
+				</crossref>
+				perfect and complete, lacking in nothing.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v59001005">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				<crossref let="j" cid="c59001005.1">
+				</crossref>
+				If any of you lacks wisdom, 
+				<crossref let="k" cid="c59001005.2">
+				</crossref>
+				let him ask God, 
+				<crossref let="l" cid="c59001005.3">
+				</crossref>
+				who gives generously to all without reproach, and it will be given him.
+			</verse>
+			<marker class="begin-verse" mid="v59001006">
+			</marker>
+			<verse num="6">
+				But 
+				<crossref let="m" cid="c59001006.1">
+				</crossref>
+				let him ask in faith, 
+				<crossref let="n" cid="c59001006.2">
+				</crossref>
+				with no doubting, for the one who doubts is like 
+				<crossref let="o" cid="c59001006.3">
+				</crossref>
+				a wave of the sea that is driven and tossed by the wind.
+			</verse>
+			<marker class="begin-verse" mid="v59001007">
+			</marker>
+			<verse num="7">
+				For that person must not suppose that he will receive anything from the Lord;
+			</verse>
+			<marker class="begin-verse" mid="v59001008">
+			</marker>
+			<verse num="8">
+				<crossref let="p" cid="c59001008.1">
+				</crossref>
+				he is a double-minded man, 
+				<crossref let="q" cid="c59001008.2">
+				</crossref>
+				unstable in all his ways.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v59001009">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="9">
+				Let the lowly brother boast in his exaltation,
+			</verse>
+			<marker class="begin-verse" mid="v59001010">
+			</marker>
+			<verse num="10">
+				and 
+				<crossref let="r" cid="c59001010.1">
+				</crossref>
+				the rich in his humiliation, because 
+				<crossref let="s" cid="c59001010.2">
+				</crossref>
+				like a flower of the grass
+				<note nid="n59001010.1">
+				</note>
+				 he will pass away.
+			</verse>
+			<marker class="begin-verse" mid="v59001011">
+			</marker>
+			<verse num="11">
+				For the sun rises with its scorching heat and 
+				<crossref let="t" cid="c59001011.1">
+				</crossref>
+				withers the grass; its flower falls, and its beauty perishes. So also will the rich man fade away in the midst of his pursuits.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v59001012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				<crossref let="u" cid="c59001012.1">
+				</crossref>
+				Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive 
+				<crossref let="v" cid="c59001012.2">
+				</crossref>
+				the crown of life, 
+				<crossref let="w" cid="c59001012.3">
+				</crossref>
+				which God has promised to those who love him.
+			</verse>
+			<marker class="begin-verse" mid="v59001013">
+			</marker>
+			<verse num="13">
+				Let no one say when he is tempted, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am being tempted by God,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 for God cannot be tempted with evil, and he himself tempts no one.
+			</verse>
+			<marker class="begin-verse" mid="v59001014">
+			</marker>
+			<verse num="14">
+				But each person is tempted when he is lured and enticed by his own desire.
+			</verse>
+			<marker class="begin-verse" mid="v59001015">
+			</marker>
+			<verse num="15">
+				Then desire 
+				<crossref let="x" cid="c59001015.1">
+				</crossref>
+				when it has conceived gives birth to sin, and 
+				<crossref let="y" cid="c59001015.2">
+				</crossref>
+				sin when it is fully grown brings forth death.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v59001016">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				Do not be deceived, my beloved brothers.
+			</verse>
+			<marker class="begin-verse" mid="v59001017">
+			</marker>
+			<verse num="17">
+				<crossref let="z" cid="c59001017.1">
+				</crossref>
+				Every good gift and every perfect gift is from above, coming down from 
+				<crossref let="a" cid="c59001017.2">
+				</crossref>
+				the Father of lights 
+				<crossref let="b" cid="c59001017.3">
+				</crossref>
+				with whom there is no variation or shadow due to change.
+				<note nid="n59001017.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v59001018">
+			</marker>
+			<verse num="18">
+				<crossref let="c" cid="c59001018.1">
+				</crossref>
+				Of his own will he 
+				<crossref let="d" cid="c59001018.2">
+				</crossref>
+				brought us forth by the word of truth, 
+				<crossref let="e" cid="c59001018.3">
+				</crossref>
+				that we should be a kind of 
+				<crossref let="f" cid="c59001018.4">
+				</crossref>
+				firstfruits of his creatures.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v59001019">
+			</marker>
+			<heading
+				>
+				Hearing and Doing the Word
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				<crossref let="g" cid="c59001019.1">
+				</crossref>
+				Know this, my beloved brothers: let every person 
+				<crossref let="h" cid="c59001019.2">
+				</crossref>
+				be quick to hear, 
+				<crossref let="i" cid="c59001019.3">
+				</crossref>
+				slow to speak, 
+				<crossref let="j" cid="c59001019.4">
+				</crossref>
+				slow to anger;
+			</verse>
+			<marker class="begin-verse" mid="v59001020">
+			</marker>
+			<verse num="20">
+				for the anger of man does not produce the righteousness of God.
+			</verse>
+			<marker class="begin-verse" mid="v59001021">
+			</marker>
+			<verse num="21">
+				Therefore 
+				<crossref let="k" cid="c59001021.1">
+				</crossref>
+				put away all filthiness and rampant wickedness and receive with 
+				<crossref let="l" cid="c59001021.2">
+				</crossref>
+				meekness the implanted word, 
+				<crossref let="m" cid="c59001021.3">
+				</crossref>
+				which is able to save your souls.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v59001022">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="22">
+				But be 
+				<crossref let="n" cid="c59001022.1">
+				</crossref>
+				doers of the word, and not hearers only, deceiving yourselves.
+			</verse>
+			<marker class="begin-verse" mid="v59001023">
+			</marker>
+			<verse num="23">
+				For if anyone is a hearer of the word and not a doer, he is like a man who looks intently at his natural face in a mirror.
+			</verse>
+			<marker class="begin-verse" mid="v59001024">
+			</marker>
+			<verse num="24">
+				For he looks at himself and goes away and at once forgets what he was like.
+			</verse>
+			<marker class="begin-verse" mid="v59001025">
+			</marker>
+			<verse num="25">
+				But the one who looks into the perfect law, 
+				<crossref let="o" cid="c59001025.1">
+				</crossref>
+				the law of liberty, and perseveres, being no hearer who forgets but a doer who acts, 
+				<crossref let="p" cid="c59001025.2">
+				</crossref>
+				he will be blessed in his doing.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v59001026">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="26">
+				If anyone thinks he is religious 
+				<crossref let="q" cid="c59001026.1">
+				</crossref>
+				and does not bridle his tongue but deceives his heart, this person's 
+				<crossref let="r" cid="c59001026.2">
+				</crossref>
+				religion is worthless.
+			</verse>
+			<marker class="begin-verse" mid="v59001027">
+			</marker>
+			<verse num="27">
+				Religion that is pure and undefiled before God, the Father, is this: 
+				<crossref let="s" cid="c59001027.1">
+				</crossref>
+				to visit 
+				<crossref let="t" cid="c59001027.2">
+				</crossref>
+				orphans and widows in their affliction, and 
+				<crossref let="u" cid="c59001027.3">
+				</crossref>
+				to keep oneself 
+				<crossref let="v" cid="c59001027.4">
+				</crossref>
+				unstained from the world.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,706 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09017001">
+		</marker>
+		<chapter num="17">
+			<heading
+				>
+				David and Goliath
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Now the Philistines 
+				<crossref let="v" cid="c09017001.1">
+				</crossref>
+				gathered their armies for battle. And they were gathered at 
+				<crossref let="w" cid="c09017001.2">
+				</crossref>
+				Socoh, which belongs to Judah, and encamped between Socoh and 
+				<crossref let="x" cid="c09017001.3">
+				</crossref>
+				Azekah, in 
+				<crossref let="y" cid="c09017001.4">
+				</crossref>
+				Ephes-dammim.
+			</verse>
+			<marker class="begin-verse" mid="v09017002">
+			</marker>
+			<verse num="2">
+				And Saul and the men of Israel were gathered, and encamped in 
+				<crossref let="z" cid="c09017002.1">
+				</crossref>
+				the Valley of Elah, and drew up in line of battle against the Philistines.
+			</verse>
+			<marker class="begin-verse" mid="v09017003">
+			</marker>
+			<verse num="3">
+				And the Philistines stood on the mountain on the one side, and Israel stood on the mountain on the other side, with a valley between them.
+			</verse>
+			<marker class="begin-verse" mid="v09017004">
+			</marker>
+			<verse num="4">
+				And there came out from the camp of the Philistines a champion named 
+				<crossref let="a" cid="c09017004.1">
+				</crossref>
+				Goliath of 
+				<crossref let="b" cid="c09017004.2">
+				</crossref>
+				Gath, whose height was six
+				<note nid="n09017004.1">
+				</note>
+				 cubits and a span.
+			</verse>
+			<marker class="begin-verse" mid="v09017005">
+			</marker>
+			<verse num="5">
+				He had a helmet of bronze on his head, and he was armed with a coat of mail, and the weight of the coat was five thousand shekels
+				<note nid="n09017005.1">
+				</note>
+				 of bronze.
+			</verse>
+			<marker class="begin-verse" mid="v09017006">
+			</marker>
+			<verse num="6">
+				And he had bronze armor on his legs, and a 
+				<crossref let="c" cid="c09017006.1">
+				</crossref>
+				javelin of bronze slung between his shoulders.
+			</verse>
+			<marker class="begin-verse" mid="v09017007">
+			</marker>
+			<verse num="7">
+				The shaft of his spear was like a weaver's beam, and his spear's head weighed six hundred shekels of iron. 
+				<crossref let="d" cid="c09017007.1">
+				</crossref>
+				And his shield-bearer went before him.
+			</verse>
+			<marker class="begin-verse" mid="v09017008">
+			</marker>
+			<verse num="8">
+				He stood and shouted to the ranks of Israel, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have you come out to draw up for battle? Am I not a Philistine, and 
+				<crossref let="e" cid="c09017008.1">
+				</crossref>
+				are you not servants of Saul? Choose a man for yourselves, and let him come down to me.
+			</verse>
+			<marker class="begin-verse" mid="v09017009">
+			</marker>
+			<verse num="9">
+				If he is able to fight with me and kill me, then we will be your servants. But if I prevail against him and kill him, then you shall be our servants 
+				<crossref let="f" cid="c09017009.1">
+				</crossref>
+				and serve us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09017010">
+			</marker>
+			<verse num="10">
+				And the Philistine said, 
+				<crossref let="g" cid="c09017010.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I defy the ranks of Israel this day. Give me a man, that we may fight together.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09017011">
+			</marker>
+			<verse num="11">
+				When Saul and all Israel heard these words of the Philistine, they were dismayed and greatly afraid.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09017012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				Now David was 
+				<crossref let="h" cid="c09017012.1">
+				</crossref>
+				the son of an 
+				<crossref let="i" cid="c09017012.2">
+				</crossref>
+				Ephrathite of Bethlehem in Judah, 
+				<crossref let="j" cid="c09017012.3">
+				</crossref>
+				named Jesse, 
+				<crossref let="k" cid="c09017012.4">
+				</crossref>
+				who had eight sons. In the days of Saul the man was already old and advanced in years.
+				<note nid="n09017012.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v09017013">
+			</marker>
+			<verse num="13">
+				The three oldest sons of Jesse had followed Saul to the battle. And 
+				<crossref let="l" cid="c09017013.1">
+				</crossref>
+				the names of his three sons who went to the battle were Eliab the firstborn, and next to him Abinadab, and the third Shammah.
+			</verse>
+			<marker class="begin-verse" mid="v09017014">
+			</marker>
+			<verse num="14">
+				<crossref let="m" cid="c09017014.1">
+				</crossref>
+				David was the youngest. The three eldest followed Saul,
+			</verse>
+			<marker class="begin-verse" mid="v09017015">
+			</marker>
+			<verse num="15">
+				but David went back and forth from Saul 
+				<crossref let="n" cid="c09017015.1">
+				</crossref>
+				to feed his father's sheep at Bethlehem.
+			</verse>
+			<marker class="begin-verse" mid="v09017016">
+			</marker>
+			<verse num="16">
+				For forty days the Philistine came forward and took his stand, morning and evening.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09017017">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				And Jesse said to David his son, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Take for your brothers an ephah
+				<note nid="n09017017.1">
+				</note>
+				 of this parched grain, and these ten loaves, and carry them quickly to the camp to your brothers.
+			</verse>
+			<marker class="begin-verse" mid="v09017018">
+			</marker>
+			<verse num="18">
+				<crossref let="o" cid="c09017018.1">
+				</crossref>
+				Also take these ten cheeses to the commander of their thousand. 
+				<crossref let="p" cid="c09017018.2">
+				</crossref>
+				See if your brothers are well, and bring some token from them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09017019">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="19">
+				Now Saul and they and all the men of Israel were in the Valley of Elah, fighting with the Philistines.
+			</verse>
+			<marker class="begin-verse" mid="v09017020">
+			</marker>
+			<verse num="20">
+				And David rose early in the morning and left the sheep with a keeper and took the provisions and went, as Jesse had commanded him. And he came to 
+				<crossref let="q" cid="c09017020.1">
+				</crossref>
+				the encampment as the host was going out to the battle line, shouting the war cry.
+			</verse>
+			<marker class="begin-verse" mid="v09017021">
+			</marker>
+			<verse num="21">
+				And Israel and the Philistines drew up for battle, army against army.
+			</verse>
+			<marker class="begin-verse" mid="v09017022">
+			</marker>
+			<verse num="22">
+				And David left the 
+				<crossref let="r" cid="c09017022.1">
+				</crossref>
+				things in charge of the keeper of the 
+				<crossref let="r" cid="c09017022.2">
+				</crossref>
+				baggage and ran to the ranks and went and greeted his brothers.
+			</verse>
+			<marker class="begin-verse" mid="v09017023">
+			</marker>
+			<verse num="23">
+				As he talked with them, behold, 
+				<crossref let="s" cid="c09017023.1">
+				</crossref>
+				the champion, the Philistine of Gath, Goliath by name, came up out of the ranks of the Philistines and spoke 
+				<crossref let="t" cid="c09017023.2">
+				</crossref>
+				the same words as before. And David heard him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09017024">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="24">
+				All the men of Israel, when they saw the man, fled from him and were much afraid.
+			</verse>
+			<marker class="begin-verse" mid="v09017025">
+			</marker>
+			<verse num="25">
+				And the men of Israel said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Have you seen this man who has come up? Surely he has come up to 
+				<crossref let="u" cid="c09017025.1">
+				</crossref>
+				defy Israel. And the king will enrich the man who kills him with great riches 
+				<crossref let="v" cid="c09017025.2">
+				</crossref>
+				and will give him his daughter and make his father's house free in Israel.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09017026">
+			</marker>
+			<verse num="26">
+				And David said to the men who stood by him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What shall be done for the man who kills this Philistine and takes away 
+				<crossref let="w" cid="c09017026.1">
+				</crossref>
+				the reproach from Israel? For who is this 
+				<crossref let="x" cid="c09017026.2">
+				</crossref>
+				uncircumcised Philistine, that he should 
+				<crossref let="u" cid="c09017026.3">
+				</crossref>
+				defy the armies of 
+				<crossref let="y" cid="c09017026.4">
+				</crossref>
+				the living God?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09017027">
+			</marker>
+			<verse num="27">
+				And the people answered him in the same way, 
+				<crossref let="z" cid="c09017027.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				So shall it be done to the man who kills him.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09017028">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="28">
+				Now Eliab his eldest brother heard when he spoke to the men. And Eliab's anger was kindled against David, and he said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why have you come down? And with whom have you left those few sheep in the wilderness? I know your presumption and the evil of your heart, for you have come down to see the battle.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09017029">
+			</marker>
+			<verse num="29">
+				And David said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What have I done now? Was it not but a word?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09017030">
+			</marker>
+			<verse num="30">
+				And he turned away from him toward another, and spoke 
+				<crossref let="b" cid="c09017030.1">
+				</crossref>
+				in the same way, and the people answered him again as before.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09017031">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="31">
+				When the words that David spoke were heard, they repeated them before Saul, and he sent for him.
+			</verse>
+			<marker class="begin-verse" mid="v09017032">
+			</marker>
+			<verse num="32">
+				And David said to Saul, 
+				<crossref let="c" cid="c09017032.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let no man's heart fail because of him. 
+				<crossref let="d" cid="c09017032.2">
+				</crossref>
+				Your servant will go and fight with this Philistine.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09017033">
+			</marker>
+			<verse num="33">
+				And Saul said to David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are not able to go against this Philistine to fight with him, for you are but a youth, and he has been a man of war from his youth.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09017034">
+			</marker>
+			<verse num="34">
+				But David said to Saul, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Your servant used to keep sheep for his father. And when there came a lion, or a bear, and took a lamb from the flock,
+			</verse>
+			<marker class="begin-verse" mid="v09017035">
+			</marker>
+			<verse num="35">
+				I went after him and struck him and delivered it out of his mouth. And if he arose against me, I caught him by his beard and struck him and killed him.
+			</verse>
+			<marker class="begin-verse" mid="v09017036">
+			</marker>
+			<verse num="36">
+				Your servant has struck down both lions and bears, and this uncircumcised Philistine shall be like one of them, 
+				<crossref let="e" cid="c09017036.1">
+				</crossref>
+				for he has defied the armies of the living God.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09017037">
+			</marker>
+			<verse num="37">
+				And David said, 
+				<crossref let="f" cid="c09017037.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 who delivered me from the paw of the lion and from the paw of the bear will deliver me from the hand of this Philistine.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Saul said to David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Go, 
+				<crossref let="g" cid="c09017037.2">
+				</crossref>
+				and the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 be with you!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09017038">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="38">
+				Then Saul clothed David with his armor. He put a helmet of bronze on his head and clothed him with a coat of mail,
+			</verse>
+			<marker class="begin-verse" mid="v09017039">
+			</marker>
+			<verse num="39">
+				and David strapped his sword over his armor. And he tried in vain to go, for he had not tested them. Then David said to Saul, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I cannot go with these, for I have not tested them.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 So David put them off.
+			</verse>
+			<marker class="begin-verse" mid="v09017040">
+			</marker>
+			<verse num="40">
+				Then he took his staff in his hand and chose five smooth stones from the brook and put them in his shepherd's pouch. His sling was in his hand, and he approached the Philistine.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09017041">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="41">
+				And the Philistine moved forward and came near to David, 
+				<crossref let="h" cid="c09017041.1">
+				</crossref>
+				with his shield-bearer in front of him.
+			</verse>
+			<marker class="begin-verse" mid="v09017042">
+			</marker>
+			<verse num="42">
+				And when the Philistine looked and saw David, he disdained him, for he was but a youth, 
+				<crossref let="i" cid="c09017042.1">
+				</crossref>
+				ruddy and handsome in appearance.
+			</verse>
+			<marker class="begin-verse" mid="v09017043">
+			</marker>
+			<verse num="43">
+				And the Philistine said to David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Am I 
+				<crossref let="j" cid="c09017043.1">
+				</crossref>
+				a dog, that you come to me with sticks?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And the Philistine cursed David by his gods.
+			</verse>
+			<marker class="begin-verse" mid="v09017044">
+			</marker>
+			<verse num="44">
+				The Philistine said to David, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come to me, and I will give your flesh 
+				<crossref let="k" cid="c09017044.1">
+				</crossref>
+				to the birds of the air and to the beasts of the field.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09017045">
+			</marker>
+			<verse num="45">
+				Then David said to the Philistine, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You come to me with a sword and with a spear and with 
+				<crossref let="l" cid="c09017045.1">
+				</crossref>
+				a javelin, but I come to you in the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 of hosts, the God of the armies of Israel, 
+				<crossref let="e" cid="c09017045.2">
+				</crossref>
+				whom you have defied.
+			</verse>
+			<marker class="begin-verse" mid="v09017046">
+			</marker>
+			<verse num="46">
+				This day the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will deliver you into my hand, and I will strike you down and cut off your head. 
+				<crossref let="m" cid="c09017046.1">
+				</crossref>
+				And I will give the dead bodies of the host of the Philistines this day 
+				<crossref let="n" cid="c09017046.2">
+				</crossref>
+				to the birds of the air and to the wild beasts of the earth, 
+				<crossref let="o" cid="c09017046.3">
+				</crossref>
+				that all the earth may know that there is a God in Israel,
+			</verse>
+			<marker class="begin-verse" mid="v09017047">
+			</marker>
+			<verse num="47">
+				and that all this assembly may know that 
+				<crossref let="p" cid="c09017047.1">
+				</crossref>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 saves not with sword and spear. 
+				<crossref let="q" cid="c09017047.2">
+				</crossref>
+				For the battle is the 
+				<span class="divine-name">
+					Lord
+				</span>
+				's, and he will give you into our hand.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09017048">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="48">
+				When the Philistine arose and came and drew near to meet David, David ran quickly toward the battle line to meet the Philistine.
+			</verse>
+			<marker class="begin-verse" mid="v09017049">
+			</marker>
+			<verse num="49">
+				And David put his hand in his bag and took out a stone and slung it and struck the Philistine on his forehead. The stone sank into his forehead, and he fell on his face to the ground.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09017050">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="50">
+				So David prevailed over the Philistine with a sling and with a stone, and struck the Philistine and killed him. There was no sword in the hand of David.
+			</verse>
+			<marker class="begin-verse" mid="v09017051">
+			</marker>
+			<verse num="51">
+				Then David ran and stood over the Philistine 
+				<crossref let="r" cid="c09017051.1">
+				</crossref>
+				and took his sword and drew it out of its sheath and killed him and cut off his head with it. When the Philistines saw that their champion was dead, 
+				<crossref let="s" cid="c09017051.2">
+				</crossref>
+				they fled.
+			</verse>
+			<marker class="begin-verse" mid="v09017052">
+			</marker>
+			<verse num="52">
+				And the men of Israel and Judah rose with a shout and pursued the Philistines as far as Gath
+				<note nid="n09017052.1">
+				</note>
+				 and the gates of 
+				<crossref let="t" cid="c09017052.1">
+				</crossref>
+				Ekron, so that the wounded Philistines fell on the way from 
+				<crossref let="u" cid="c09017052.2">
+				</crossref>
+				Shaaraim as far as 
+				<crossref let="v" cid="c09017052.3">
+				</crossref>
+				Gath and Ekron.
+			</verse>
+			<marker class="begin-verse" mid="v09017053">
+			</marker>
+			<verse num="53">
+				And the people of Israel came back from chasing the Philistines, and they plundered their camp.
+			</verse>
+			<marker class="begin-verse" mid="v09017054">
+			</marker>
+			<verse num="54">
+				And David took 
+				<crossref let="w" cid="c09017054.1">
+				</crossref>
+				the head of the Philistine 
+				<crossref let="x" cid="c09017054.2">
+				</crossref>
+				and brought it to Jerusalem, but he put his armor in his tent.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09017055">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="55">
+				As soon as Saul saw David go out against the Philistine, he said to Abner, 
+				<crossref let="y" cid="c09017055.1">
+				</crossref>
+				the commander of the army, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Abner, 
+				<crossref let="z" cid="c09017055.2">
+				</crossref>
+				whose son is this youth?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And Abner said, 
+				<crossref let="a" cid="c09017055.3">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				As your soul lives, O king, I do not know.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09017056">
+			</marker>
+			<verse num="56">
+				And the king said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Inquire whose son the boy is.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v09017057">
+			</marker>
+			<verse num="57">
+				And as soon as David returned from the striking down of the Philistine, Abner took him, and brought him before Saul 
+				<crossref let="b" cid="c09017057.1">
+				</crossref>
+				with the head of the Philistine in his hand.
+			</verse>
+			<marker class="begin-verse" mid="v09017058">
+			</marker>
+			<verse num="58">
+				And Saul said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whose son are you, young man?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 And David answered, 
+				<crossref let="c" cid="c09017058.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I am the son of your servant Jesse the Bethlehemite.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

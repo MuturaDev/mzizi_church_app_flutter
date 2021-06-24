@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19148001">
+		</marker>
+		<chapter num="148">
+			<heading
+				>
+				Praise the Name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19148001.1">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="s" cid="c19148001.2">
+				</crossref>
+				from the heavens;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				praise him 
+				<crossref let="t" cid="c19148001.3">
+				</crossref>
+				in the heights!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19148002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Praise him, all his angels;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				praise him, all his 
+				<crossref let="u" cid="c19148002.1">
+				</crossref>
+				hosts!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19148003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Praise him, sun and moon,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				praise him, all you shining stars!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19148004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Praise him, you 
+				<crossref let="v" cid="c19148004.1">
+				</crossref>
+				highest heavens,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you 
+				<crossref let="w" cid="c19148004.2">
+				</crossref>
+				waters above the heavens!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19148005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19148005.1">
+				</crossref>
+				Let them praise the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				For 
+				<crossref let="y" cid="c19148005.2">
+				</crossref>
+				he commanded and they were created.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19148006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				And he 
+				<crossref let="z" cid="c19148006.1">
+				</crossref>
+				established them forever and ever;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he gave 
+				<crossref let="a" cid="c19148006.2">
+				</crossref>
+				a decree, and it shall not 
+				<crossref let="b" cid="c19148006.3">
+				</crossref>
+				pass away.
+				<note nid="n19148006.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19148007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				<crossref let="c" cid="c19148007.1">
+				</crossref>
+				from the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="d" cid="c19148007.2">
+				</crossref>
+				great sea creatures and all deeps,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19148008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c19148008.1">
+				</crossref>
+				fire and hail, 
+				<crossref let="f" cid="c19148008.2">
+				</crossref>
+				snow and mist,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="g" cid="c19148008.3">
+				</crossref>
+				stormy wind 
+				<crossref let="h" cid="c19148008.4">
+				</crossref>
+				fulfilling his word!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19148009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c19148009.1">
+				</crossref>
+				Mountains and all hills,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="j" cid="c19148009.2">
+				</crossref>
+				fruit trees and all 
+				<crossref let="k" cid="c19148009.3">
+				</crossref>
+				cedars!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19148010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19148010.1">
+				</crossref>
+				Beasts and all livestock,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				creeping things and 
+				<crossref let="m" cid="c19148010.2">
+				</crossref>
+				flying birds!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19148011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Kings of the earth and 
+				<crossref let="n" cid="c19148011.1">
+				</crossref>
+				all peoples,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				princes and all rulers of the earth!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19148012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				Young men and maidens together,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				old men and children!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19148013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c19148013.1">
+				</crossref>
+				Let them praise the name of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for 
+				<crossref let="p" cid="c19148013.2">
+				</crossref>
+				his name alone is exalted;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c19148013.3">
+				</crossref>
+				his majesty is above earth and heaven.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19148014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				He has 
+				<crossref let="r" cid="c19148014.1">
+				</crossref>
+				raised up a horn for his people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c19148014.2">
+				</crossref>
+				praise for all his saints,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for the people of Israel who are 
+				<crossref let="t" cid="c19148014.3">
+				</crossref>
+				near to him.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19148014.4">
+				</crossref>
+				Praise the 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

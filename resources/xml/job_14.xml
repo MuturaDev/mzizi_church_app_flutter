@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Job" num="17">
+		<marker class="begin-verse" mid="v18014001">
+		</marker>
+		<chapter num="14">
+			<heading
+				>
+				Job Continues: Death Comes Soon to All
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				Man who is 
+				<crossref let="k" cid="c18014001.1">
+				</crossref>
+				born of a woman
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				is 
+				<crossref let="l" cid="c18014001.2">
+				</crossref>
+				few of days and 
+				<crossref let="m" cid="c18014001.3">
+				</crossref>
+				full of trouble.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				He comes out like 
+				<crossref let="n" cid="c18014002.1">
+				</crossref>
+				a flower and 
+				<crossref let="o" cid="c18014002.2">
+				</crossref>
+				withers;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he flees like 
+				<crossref let="p" cid="c18014002.3">
+				</crossref>
+				a shadow and continues not.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				And do you 
+				<crossref let="q" cid="c18014003.1">
+				</crossref>
+				open your eyes on such a one
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="r" cid="c18014003.2">
+				</crossref>
+				bring me into judgment with you?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Who can bring 
+				<crossref let="s" cid="c18014004.1">
+				</crossref>
+				a clean thing out of an unclean?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				There is not one.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Since his 
+				<crossref let="t" cid="c18014005.1">
+				</crossref>
+				days are determined,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="u" cid="c18014005.2">
+				</crossref>
+				the number of his months is with you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you have appointed his limits that he cannot pass,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c18014006.1">
+				</crossref>
+				look away from him and leave him alone,
+				<note nid="n18014006.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that he may enjoy, like 
+				<crossref let="w" cid="c18014006.2">
+				</crossref>
+				a hired hand, his day.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18014007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				For there is hope for a tree,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				if it be cut down, that it will sprout again,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and that its shoots will not cease.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Though its root grow old in the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="x" cid="c18014008.1">
+				</crossref>
+				its stump die in the soil,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				yet at the scent of water it will bud
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and put out 
+				<crossref let="y" cid="c18014009.1">
+				</crossref>
+				branches like a young plant.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				But a man dies and is laid low;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				man breathes his last, and 
+				<crossref let="z" cid="c18014010.1">
+				</crossref>
+				where is he?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c18014011.1">
+				</crossref>
+				As waters fail from a lake
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and a river wastes away and dries up,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				so a man lies down and rises not again;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				till 
+				<crossref let="b" cid="c18014012.1">
+				</crossref>
+				the heavens are no more he will not awake
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or be 
+				<crossref let="c" cid="c18014012.2">
+				</crossref>
+				roused out of his sleep.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				Oh that you would 
+				<crossref let="d" cid="c18014013.1">
+				</crossref>
+				hide me in 
+				<crossref let="e" cid="c18014013.2">
+				</crossref>
+				Sheol,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that you would 
+				<crossref let="d" cid="c18014013.3">
+				</crossref>
+				conceal me 
+				<crossref let="f" cid="c18014013.4">
+				</crossref>
+				until your wrath be past,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that you would appoint me a set time, and remember me!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				If a man dies, shall he live again?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				All the days of my 
+				<crossref let="g" cid="c18014014.1">
+				</crossref>
+				service I would 
+				<crossref let="h" cid="c18014014.2">
+				</crossref>
+				wait,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				till my renewal
+				<note nid="n18014014.1">
+				</note>
+				 should come.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				You would 
+				<crossref let="i" cid="c18014015.1">
+				</crossref>
+				call, and I would answer you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you would long for the 
+				<crossref let="j" cid="c18014015.2">
+				</crossref>
+				work of your hands.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				For then you would 
+				<crossref let="k" cid="c18014016.1">
+				</crossref>
+				number my steps;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you would not keep 
+				<crossref let="l" cid="c18014016.2">
+				</crossref>
+				watch over my sin;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				my transgression would be 
+				<crossref let="m" cid="c18014017.1">
+				</crossref>
+				sealed up in a bag,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you would cover over my iniquity.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v18014018">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<q class="continue-double" qid="" from="" to="">
+				</q>
+				But the mountain falls and 
+				<crossref let="n" cid="c18014018.1">
+				</crossref>
+				crumbles away,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="o" cid="c18014018.2">
+				</crossref>
+				the rock is removed from its place;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				the waters wear away the stones;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the torrents wash away the soil of the earth;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so you destroy the hope of man.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				You prevail forever against him, and he passes;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you change his countenance, and send him away.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014021">
+			</marker>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				His sons come to honor, and he 
+				<crossref let="p" cid="c18014021.1">
+				</crossref>
+				does not know it;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they are brought low, and he perceives it not.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v18014022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				He feels only the pain of his own body,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he mourns only for himself.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

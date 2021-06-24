@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19143001">
+		</marker>
+		<chapter num="143">
+			<heading
+				>
+				My Soul Thirsts for You
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Hear my prayer, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c19143001.1">
+				</crossref>
+				give ear to my pleas for mercy!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				In your 
+				<crossref let="d" cid="c19143001.2">
+				</crossref>
+				faithfulness answer me, in your 
+				<crossref let="d" cid="c19143001.3">
+				</crossref>
+				righteousness!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19143002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c19143002.1">
+				</crossref>
+				Enter not into judgment with your servant,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for no one living is righteous 
+				<crossref let="f" cid="c19143002.2">
+				</crossref>
+				before you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19143003">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				For the enemy has pursued my soul;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="g" cid="c19143003.1">
+				</crossref>
+				he has crushed my life to the ground;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="h" cid="c19143003.2">
+				</crossref>
+				he has made me sit in darkness like those long dead.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19143004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Therefore my spirit 
+				<crossref let="i" cid="c19143004.1">
+				</crossref>
+				faints within me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my heart within me is appalled.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19143005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="j" cid="c19143005.1">
+				</crossref>
+				I remember the days of old;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c19143005.2">
+				</crossref>
+				I meditate on all that you have done;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I ponder the work of your hands.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19143006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19143006.1">
+				</crossref>
+				I stretch out my hands to you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c19143006.2">
+				</crossref>
+				my soul thirsts for you like 
+				<crossref let="n" cid="c19143006.3">
+				</crossref>
+				a parched land. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19143007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c19143007.1">
+				</crossref>
+				Answer me quickly, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="p" cid="c19143007.2">
+				</crossref>
+				My spirit fails!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c19143007.3">
+				</crossref>
+				Hide not your face from me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="r" cid="c19143007.4">
+				</crossref>
+				lest I be like those who go down to the pit.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19143008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c19143008.1">
+				</crossref>
+				Let me hear in the morning of your steadfast love,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for in you I 
+				<crossref let="t" cid="c19143008.2">
+				</crossref>
+				trust.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c19143008.3">
+				</crossref>
+				Make me know the way I should go,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="v" cid="c19143008.4">
+				</crossref>
+				for to you I lift up my soul.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19143009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c19143009.1">
+				</crossref>
+				Deliver me from my enemies, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I have fled to you for refuge!
+				<note nid="n19143009.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19143010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="x" cid="c19143010.1">
+				</crossref>
+				Teach me to do your will,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for you are my God!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c19143010.2">
+				</crossref>
+				Let your good Spirit 
+				<crossref let="z" cid="c19143010.3">
+				</crossref>
+				lead me
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				on 
+				<crossref let="a" cid="c19143010.4">
+				</crossref>
+				level ground!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19143011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c19143011.1">
+				</crossref>
+				For your name's sake, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="c" cid="c19143011.2">
+				</crossref>
+				preserve my life!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				In your righteousness 
+				<crossref let="d" cid="c19143011.3">
+				</crossref>
+				bring my soul out of trouble!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19143012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				And in your steadfast love you will 
+				<crossref let="e" cid="c19143012.1">
+				</crossref>
+				cut off my enemies,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you will destroy all the adversaries of my soul,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				for I am your 
+				<crossref let="f" cid="c19143012.2">
+				</crossref>
+				servant.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Luke" num="41">
+		<marker class="begin-verse" mid="v42005001">
+		</marker>
+		<chapter num="5">
+			<heading
+				>
+				Jesus Calls the First Disciples
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				On one occasion, while the crowd was pressing in on him to hear the word of God, he was standing by 
+				<crossref let="u" cid="c42005001.1">
+				</crossref>
+				the lake of Gennesaret,
+			</verse>
+			<marker class="begin-verse" mid="v42005002">
+			</marker>
+			<verse num="2">
+				<crossref let="v" cid="c42005002.1">
+				</crossref>
+				and he saw two boats by the lake, but the fishermen had gone out of them and were 
+				<crossref let="w" cid="c42005002.2">
+				</crossref>
+				washing their nets.
+			</verse>
+			<marker class="begin-verse" mid="v42005003">
+			</marker>
+			<verse num="3">
+				Getting into one of the boats, which was Simon's, he asked him to put out a little from the land. And 
+				<crossref let="x" cid="c42005003.1">
+				</crossref>
+				he sat down and taught the people from the boat.
+			</verse>
+			<marker class="begin-verse" mid="v42005004">
+			</marker>
+			<verse num="4">
+				And when he had finished speaking, he said to Simon, 
+				<woc
+					>
+					<crossref let="y" cid="c42005004.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Put out into the deep and let down your nets for a catch.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005005">
+			</marker>
+			<verse num="5">
+				And Simon answered, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Master, 
+				<crossref let="z" cid="c42005005.1">
+				</crossref>
+				we toiled all night and took nothing! But at your word I will let down the nets.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42005006">
+			</marker>
+			<verse num="6">
+				And when they had done this, 
+				<crossref let="a" cid="c42005006.1">
+				</crossref>
+				they enclosed a large number of fish, and 
+				<crossref let="a" cid="c42005006.2">
+				</crossref>
+				their nets were breaking.
+			</verse>
+			<marker class="begin-verse" mid="v42005007">
+			</marker>
+			<verse num="7">
+				They signaled to their partners in the other boat to come and help them. 
+				<crossref let="b" cid="c42005007.1">
+				</crossref>
+				And they came and filled both the boats, so that they began to sink.
+			</verse>
+			<marker class="begin-verse" mid="v42005008">
+			</marker>
+			<verse num="8">
+				But when Simon Peter saw it, he fell down at Jesus' knees, saying, 
+				<crossref let="c" cid="c42005008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Depart from me, for 
+				<crossref let="d" cid="c42005008.2">
+				</crossref>
+				I am a sinful man, O Lord.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42005009">
+			</marker>
+			<verse num="9">
+				For he and all who were with him were astonished at the catch of fish that they had taken,
+			</verse>
+			<marker class="begin-verse" mid="v42005010">
+			</marker>
+			<verse num="10">
+				and so also were James and John, sons of Zebedee, who were partners with Simon. And Jesus said to Simon, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Do not be afraid; from now on you will be catching men.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005011">
+			</marker>
+			<verse num="11">
+				And when they had brought their boats to land, 
+				<crossref let="e" cid="c42005011.1">
+				</crossref>
+				they left everything and followed him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42005012">
+			</marker>
+			<heading
+				>
+				Jesus Cleanses a Leper
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12">
+				While he was in one of the cities, 
+				<crossref let="f" cid="c42005012.1">
+				</crossref>
+				<crossref cid="t42005012.1">
+				</crossref>
+				there came a man full of leprosy.
+				<note nid="n42005012.1">
+				</note>
+				 And when he saw Jesus, he 
+				<crossref let="g" cid="c42005012.2">
+				</crossref>
+				fell on his face and begged him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, 
+				<crossref let="h" cid="c42005012.3">
+				</crossref>
+				if you will, you can make me clean.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42005013">
+			</marker>
+			<verse num="13">
+				And Jesus
+				<note nid="n42005013.1">
+				</note>
+				 stretched out his hand and touched him, saying, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I will; be clean.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And immediately the leprosy left him.
+			</verse>
+			<marker class="begin-verse" mid="v42005014">
+			</marker>
+			<verse num="14">
+				And he charged him 
+				<crossref let="i" cid="c42005014.1">
+				</crossref>
+				to tell no one, but 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					go and show 
+					<crossref let="j" cid="c42005014.2">
+					</crossref>
+					yourself to the priest, and 
+					<crossref let="k" cid="c42005014.3">
+					</crossref>
+					make an offering for your cleansing, as Moses commanded, 
+					<crossref let="l" cid="c42005014.4">
+					</crossref>
+					for a proof to them.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005015">
+			</marker>
+			<verse num="15">
+				<crossref let="m" cid="c42005015.1">
+				</crossref>
+				But now even more the report about him went abroad, and great crowds gathered to hear him and to be healed of their infirmities.
+			</verse>
+			<marker class="begin-verse" mid="v42005016">
+			</marker>
+			<verse num="16">
+				But 
+				<crossref let="n" cid="c42005016.1">
+				</crossref>
+				he would withdraw to desolate places and 
+				<crossref let="n" cid="c42005016.2">
+				</crossref>
+				pray.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42005017">
+			</marker>
+			<heading
+				>
+				Jesus Heals a Paralytic
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="17">
+				On one of those days, as he was teaching, Pharisees and 
+				<crossref let="o" cid="c42005017.1">
+				</crossref>
+				teachers of the law were sitting there, who had come from every village of Galilee and Judea and from Jerusalem. And 
+				<crossref let="p" cid="c42005017.2">
+				</crossref>
+				the power of the Lord was with him to heal.
+				<note nid="n42005017.1">
+				</note>
+			</verse>
+			<marker class="begin-verse" mid="v42005018">
+			</marker>
+			<verse num="18">
+				<crossref let="q" cid="c42005018.1">
+				</crossref>
+				<crossref cid="t42005018.1">
+				</crossref>
+				And behold, some men were bringing 
+				<crossref let="r" cid="c42005018.2">
+				</crossref>
+				on a bed a man who was paralyzed, and they were seeking to bring him in and lay him before Jesus,
+			</verse>
+			<marker class="begin-verse" mid="v42005019">
+			</marker>
+			<verse num="19">
+				but finding no way to bring him in, because of the crowd, they went up on 
+				<crossref let="s" cid="c42005019.1">
+				</crossref>
+				the roof and let him down with his bed 
+				<crossref let="t" cid="c42005019.2">
+				</crossref>
+				through the tiles into the midst before Jesus.
+			</verse>
+			<marker class="begin-verse" mid="v42005020">
+			</marker>
+			<verse num="20">
+				And 
+				<crossref let="u" cid="c42005020.1">
+				</crossref>
+				when he saw their faith, he said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Man, 
+					<crossref let="v" cid="c42005020.2">
+					</crossref>
+					your sins are forgiven you.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005021">
+			</marker>
+			<verse num="21">
+				And the scribes and the Pharisees began to question, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Who is this who speaks 
+				<crossref let="w" cid="c42005021.1">
+				</crossref>
+				blasphemies? 
+				<crossref let="x" cid="c42005021.2">
+				</crossref>
+				Who can forgive sins but God alone?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42005022">
+			</marker>
+			<verse num="22">
+				When Jesus 
+				<crossref let="y" cid="c42005022.1">
+				</crossref>
+				perceived their thoughts, he answered them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Why do you question in your hearts?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005023">
+			</marker>
+			<verse num="23" class="woc">
+				<woc
+					>
+					Which is easier, to say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Your sins are forgiven you,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 or to say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Rise and walk
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					But that you may know that 
+					<crossref let="z" cid="c42005024.1">
+					</crossref>
+					the Son of Man has authority on earth to forgive sins
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				ùhe said to the man who was paralyzedù
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I say to you, rise, pick up your bed and go home.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005025">
+			</marker>
+			<verse num="25">
+				And immediately he rose up before them and picked up what he had been lying on and went home, 
+				<crossref let="a" cid="c42005025.1">
+				</crossref>
+				glorifying God.
+			</verse>
+			<marker class="begin-verse" mid="v42005026">
+			</marker>
+			<verse num="26">
+				And amazement seized them all, and they 
+				<crossref let="a" cid="c42005026.1">
+				</crossref>
+				glorified God and were filled 
+				<crossref let="a" cid="c42005026.2">
+				</crossref>
+				with awe, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				We have seen extraordinary things today.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42005027">
+			</marker>
+			<heading
+				>
+				Jesus Calls Levi
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="27">
+				<crossref let="b" cid="c42005027.1">
+				</crossref>
+				<crossref cid="t42005027.1">
+				</crossref>
+				After this he went out and saw 
+				<crossref let="c" cid="c42005027.2">
+				</crossref>
+				a tax collector named 
+				<crossref let="d" cid="c42005027.3">
+				</crossref>
+				Levi, sitting at the tax booth. And he said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Follow me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005028">
+			</marker>
+			<verse num="28">
+				And 
+				<crossref let="e" cid="c42005028.1">
+				</crossref>
+				leaving everything, he rose and followed him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42005029">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="29">
+				And Levi made him a great feast in his house, and there was a large company 
+				<crossref let="f" cid="c42005029.1">
+				</crossref>
+				of tax collectors and others reclining at table with them.
+			</verse>
+			<marker class="begin-verse" mid="v42005030">
+			</marker>
+			<verse num="30">
+				And the Pharisees and 
+				<crossref let="g" cid="c42005030.1">
+				</crossref>
+				their scribes grumbled at his disciples, saying, 
+				<crossref let="h" cid="c42005030.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why do you eat and drink with tax collectors and sinners?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42005031">
+			</marker>
+			<verse num="31">
+				And Jesus answered them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Those who are well have no need of a physician, but those who are sick.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005032">
+			</marker>
+			<verse num="32" class="woc">
+				<woc
+					>
+					<crossref let="i" cid="c42005032.1">
+					</crossref>
+					I have not come to call the righteous 
+					<crossref let="j" cid="c42005032.2">
+					</crossref>
+					but sinners 
+					<crossref let="k" cid="c42005032.3">
+					</crossref>
+					to repentance.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v42005033">
+			</marker>
+			<heading
+				>
+				A Question About Fasting
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="33">
+				And they said to him, 
+				<crossref let="l" cid="c42005033.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The disciples of John 
+				<crossref let="m" cid="c42005033.2">
+				</crossref>
+				fast often and 
+				<crossref let="m" cid="c42005033.3">
+				</crossref>
+				offer prayers, 
+				<crossref let="n" cid="c42005033.4">
+				</crossref>
+				and so do the disciples of the Pharisees, but yours eat and drink.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v42005034">
+			</marker>
+			<verse num="34">
+				And Jesus said to them, 
+				<woc
+					>
+					<crossref let="o" cid="c42005034.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Can you make wedding guests fast while the bridegroom is with them?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005035">
+			</marker>
+			<verse num="35" class="woc">
+				<woc
+					>
+					<crossref let="p" cid="c42005035.1">
+					</crossref>
+					The days will come when the bridegroom is taken away from them, and 
+					<crossref let="q" cid="c42005035.2">
+					</crossref>
+					then they will fast in those days.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005036">
+			</marker>
+			<verse num="36">
+				He also told them a parable: 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					No one tears a piece from a new garment and puts it on an old garment. If he does, he will tear the new, and the piece from the new will not match the old.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005037">
+			</marker>
+			<verse num="37" class="woc">
+				<woc
+					>
+					And no one puts new wine into old 
+					<crossref let="r" cid="c42005037.1">
+					</crossref>
+					wineskins. If he does, the new wine will burst the skins and it will be spilled, and the skins will be destroyed.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005038">
+			</marker>
+			<verse num="38" class="woc">
+				<woc
+					>
+					But new wine must be put into fresh wineskins.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v42005039">
+			</marker>
+			<verse num="39" class="woc">
+				<woc
+					>
+					And no one after drinking old wine desires new, for he says, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					The old is good.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+					<note nid="n42005039.1">
+					</note>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

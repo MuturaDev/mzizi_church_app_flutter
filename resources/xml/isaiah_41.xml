@@ -1,0 +1,973 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Isaiah" num="22">
+		<marker class="begin-verse" mid="v23041001">
+		</marker>
+		<chapter num="41">
+			<heading
+				>
+				Fear Not, For I Am with You
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c23041001.1">
+				</crossref>
+				Listen to me in silence,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c23041001.2">
+				</crossref>
+				O coastlands;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let the peoples renew their strength;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				let them approach, then let them speak;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let us together draw near for judgment.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23041002">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c23041002.1">
+				</crossref>
+				Who stirred up one from the east
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				whom victory meets at every 
+				<crossref let="q" cid="c23041002.2">
+				</crossref>
+				step?
+				<note nid="n23041002.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c23041002.3">
+				</crossref>
+				He gives up nations before him,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				so that he tramples kings underfoot;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				he makes them like dust with his sword,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="s" cid="c23041002.4">
+				</crossref>
+				like driven stubble with his bow.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				He pursues them and passes on safely,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				by paths his feet have not trod.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c23041004.1">
+				</crossref>
+				Who has performed and done this,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				calling the generations from the beginning?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c23041004.2">
+				</crossref>
+				I, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the first,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and with the last; I am he.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23041005">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c23041005.1">
+				</crossref>
+				The coastlands have seen and are afraid;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the ends of the earth tremble;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they have drawn near and come.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Everyone helps his neighbor
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and says to his brother, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Be strong!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c23041007.1">
+				</crossref>
+				The craftsman strengthens the goldsmith,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he who smooths with the hammer him who strikes the anvil,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				saying of the soldering, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				It is good
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and they strengthen it with nails 
+				<crossref let="x" cid="c23041007.2">
+				</crossref>
+				so that it cannot be moved.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23041008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				But you, Israel, 
+				<crossref let="y" cid="c23041008.1">
+				</crossref>
+				my servant,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Jacob, 
+				<crossref let="z" cid="c23041008.2">
+				</crossref>
+				whom I have chosen,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the offspring of Abraham, 
+				<crossref let="a" cid="c23041008.3">
+				</crossref>
+				my friend;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				you whom I took from the ends of the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and called 
+				<crossref let="b" cid="c23041009.1">
+				</crossref>
+				from its farthest corners,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				saying to you, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You are 
+				<crossref let="y" cid="c23041009.2">
+				</crossref>
+				my servant,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="z" cid="c23041009.3">
+				</crossref>
+				I have chosen you and not cast you off
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				fear not, for I am with you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				be not dismayed, for I am your God;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I will strengthen you, I will help you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I will uphold you with 
+				<crossref let="c" cid="c23041010.1">
+				</crossref>
+				my righteous right hand.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23041011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c23041011.1">
+				</crossref>
+				Behold, all who are incensed against you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall be put to shame and confounded;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				those who strive against you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall be as nothing and shall perish.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c23041012.1">
+				</crossref>
+				You shall seek those who contend with you,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but you shall not find them;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c23041012.2">
+				</crossref>
+				those who war against you
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				shall be as nothing at all.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				For I, the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 your God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				hold your right hand;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				it is I who say to you, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Fear not,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I am the one who helps you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23041014">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				Fear not, you 
+				<crossref let="g" cid="c23041014.1">
+				</crossref>
+				worm Jacob,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you men of Israel!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I am the one who helps you, declares the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your 
+				<crossref let="h" cid="c23041014.2">
+				</crossref>
+				Redeemer is the Holy One of Israel.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="i" cid="c23041015.1">
+				</crossref>
+				Behold, I make of you a threshing sledge,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				new, sharp, and having teeth;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				you shall thresh 
+				<crossref let="j" cid="c23041015.2">
+				</crossref>
+				the mountains and crush them,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you shall make the hills like chaff;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="k" cid="c23041016.1">
+				</crossref>
+				you shall winnow them, and 
+				<crossref let="l" cid="c23041016.2">
+				</crossref>
+				the wind shall carry them away,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the tempest shall scatter them.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="m" cid="c23041016.3">
+				</crossref>
+				And you shall rejoice in the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in the Holy One of Israel you shall glory.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23041017">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c23041017.1">
+				</crossref>
+				When the poor and needy seek water,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and there is none,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and their tongue is parched with thirst,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 will answer them;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I the God of Israel will not forsake them.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="o" cid="c23041018.1">
+				</crossref>
+				I will open rivers on the bare heights,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and fountains in the midst of the valleys.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c23041018.2">
+				</crossref>
+				I will make the wilderness a pool of water,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the dry land springs of water.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="q" cid="c23041019.1">
+				</crossref>
+				I will put in the wilderness the cedar,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the acacia, the myrtle, and the olive.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I will set in the desert 
+				<crossref let="r" cid="c23041019.2">
+				</crossref>
+				the cypress,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the plane and the pine together,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				that they may see and know,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				may consider and understand together,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				that 
+				<crossref let="s" cid="c23041020.1">
+				</crossref>
+				the hand of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 has done this,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the Holy One of Israel has created it.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v23041021">
+			</marker>
+			<heading
+				>
+				The Futility of Idols
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="21">
+				<begin-line
+					>
+				</begin-line>
+				Set forth your case, says the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				bring your proofs, says the King of Jacob.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041022">
+			</marker>
+			<verse num="22">
+				<begin-line
+					>
+				</begin-line>
+				Let them bring them, and 
+				<crossref let="t" cid="c23041022.1">
+				</crossref>
+				tell us
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				what is to happen.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Tell us the former things, what they are,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that we may consider them,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				that we may know their outcome;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				or declare to us the things to come.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041023">
+			</marker>
+			<verse num="23">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c23041023.1">
+				</crossref>
+				Tell us what is to come hereafter,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that we may know that you are gods;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="u" cid="c23041023.2">
+				</crossref>
+				do good, or do harm,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that we may be dismayed and terrified.
+				<note nid="n23041023.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041024">
+			</marker>
+			<verse num="24">
+				<begin-line
+					>
+				</begin-line>
+				Behold, 
+				<crossref let="v" cid="c23041024.1">
+				</crossref>
+				you are nothing,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your work is less than nothing;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				an abomination is he who chooses you.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v23041025">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="25">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="w" cid="c23041025.1">
+				</crossref>
+				I stirred up one from the north, and he has come,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="x" cid="c23041025.2">
+				</crossref>
+				from the rising of the sun, 
+				<crossref let="y" cid="c23041025.3">
+				</crossref>
+				and he shall call upon my name;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				he shall trample on rulers as on mortar,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				as the potter treads clay.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041026">
+			</marker>
+			<verse num="26">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c23041026.1">
+				</crossref>
+				Who declared it from the beginning, that we might know,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and beforehand, that we might say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He is right
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				?
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				There was none who declared it, none who proclaimed,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				none who heard your words.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041027">
+			</marker>
+			<verse num="27">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c23041027.1">
+				</crossref>
+				I was the first to say
+				<note nid="n23041027.1">
+				</note>
+				 to Zion, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Behold, here they are!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="b" cid="c23041027.2">
+				</crossref>
+				I give to Jerusalem a herald of good news.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041028">
+			</marker>
+			<verse num="28">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c23041028.1">
+				</crossref>
+				But when I look, there is no one;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				among these there is no counselor
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who, when I ask, gives an answer.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v23041029">
+			</marker>
+			<verse num="29">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="d" cid="c23041029.1">
+				</crossref>
+				Behold, they are all a delusion;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				their works are nothing;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				their metal images are empty wind.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

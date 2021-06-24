@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Romans" num="44">
+		<marker class="begin-verse" mid="v45010001">
+		</marker>
+		<chapter num="10">
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				Brothers,
+				<note nid="n45010001.1">
+				</note>
+				 my heart's desire and prayer to God for them is that they may be saved.
+			</verse>
+			<marker class="begin-verse" mid="v45010002">
+			</marker>
+			<verse num="2">
+				For I bear them witness that 
+				<crossref let="b" cid="c45010002.1">
+				</crossref>
+				they have a zeal for God, 
+				<crossref let="c" cid="c45010002.2">
+				</crossref>
+				but not according to knowledge.
+			</verse>
+			<marker class="begin-verse" mid="v45010003">
+			</marker>
+			<verse num="3">
+				For, being ignorant of 
+				<crossref let="d" cid="c45010003.1">
+				</crossref>
+				the righteousness of God, and seeking to establish their own, they did not submit to God's righteousness.
+			</verse>
+			<marker class="begin-verse" mid="v45010004">
+			</marker>
+			<verse num="4">
+				For 
+				<crossref let="e" cid="c45010004.1">
+				</crossref>
+				Christ is the end of the law for righteousness to everyone who believes.
+				<note nid="n45010004.1">
+				</note>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45010005">
+			</marker>
+			<heading
+				>
+				The Message of Salvation to All
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="5">
+				For 
+				<crossref let="f" cid="c45010005.1">
+				</crossref>
+				Moses writes about the righteousness that is based on the law, that 
+				<crossref let="g" cid="c45010005.2">
+				</crossref>
+				the person who does the commandments shall live by them.
+			</verse>
+			<marker class="begin-verse" mid="v45010006">
+			</marker>
+			<verse num="6">
+				But 
+				<crossref let="h" cid="c45010006.1">
+				</crossref>
+				the righteousness based on faith says, 
+				<crossref let="i" cid="c45010006.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not say in your heart, 
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Who will ascend into heaven?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 (that is, to bring Christ down)
+			</verse>
+			<marker class="begin-verse" mid="v45010007">
+			</marker>
+			<verse num="7">
+				or 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				Who will descend into the 
+				<crossref let="j" cid="c45010007.1">
+				</crossref>
+				abyss?
+				<q class="end-single" qid="" from="" to="">
+				</q>
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 (that is, 
+				<crossref let="k" cid="c45010007.2">
+				</crossref>
+				to bring Christ up from the dead).
+			</verse>
+			<marker class="begin-verse" mid="v45010008">
+			</marker>
+			<verse num="8">
+				But what does it say? 
+				<crossref let="l" cid="c45010008.1">
+				</crossref>
+				<crossref cid="t45010008.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				The word is near you, in your mouth and in your heart
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 (that is, the word of faith that we proclaim);
+			</verse>
+			<marker class="begin-verse" mid="v45010009">
+			</marker>
+			<verse num="9">
+				because, if 
+				<crossref let="m" cid="c45010009.1">
+				</crossref>
+				you confess with your mouth that Jesus is Lord and 
+				<crossref let="n" cid="c45010009.2">
+				</crossref>
+				believe in your heart 
+				<crossref let="o" cid="c45010009.3">
+				</crossref>
+				that God raised him from the dead, you will be saved.
+			</verse>
+			<marker class="begin-verse" mid="v45010010">
+			</marker>
+			<verse num="10">
+				For with the heart one believes and is justified, and with the mouth one confesses and is saved.
+			</verse>
+			<marker class="begin-verse" mid="v45010011">
+			</marker>
+			<verse num="11">
+				For the Scripture says, 
+				<crossref let="p" cid="c45010011.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Everyone who believes in him will not be put to shame.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v45010012">
+			</marker>
+			<verse num="12">
+				<crossref let="q" cid="c45010012.1">
+				</crossref>
+				For there is no distinction between Jew and Greek; 
+				<crossref let="r" cid="c45010012.2">
+				</crossref>
+				for the same Lord is Lord of all, 
+				<crossref let="s" cid="c45010012.3">
+				</crossref>
+				bestowing his riches on all who call on him.
+			</verse>
+			<marker class="begin-verse" mid="v45010013">
+			</marker>
+			<verse num="13">
+				For 
+				<crossref let="t" cid="c45010013.1">
+				</crossref>
+				<crossref cid="t45010013.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				everyone who calls on the name of the Lord will be saved.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45010014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				How then will they call on him in whom they have not believed? And how are they to believe in him 
+				<crossref let="u" cid="c45010014.1">
+				</crossref>
+				of whom they have never heard?
+				<note nid="n45010014.1">
+				</note>
+				 And how are they to hear 
+				<crossref let="v" cid="c45010014.2">
+				</crossref>
+				without someone preaching?
+			</verse>
+			<marker class="begin-verse" mid="v45010015">
+			</marker>
+			<verse num="15">
+				And how are they to preach unless they are sent? As it is written, 
+				<crossref let="w" cid="c45010015.1">
+				</crossref>
+				<crossref cid="t45010015.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How beautiful are the feet of those who preach the good news!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v45010016">
+			</marker>
+			<verse num="16">
+				But 
+				<crossref let="x" cid="c45010016.1">
+				</crossref>
+				they have not all obeyed the gospel. For Isaiah says, 
+				<crossref let="y" cid="c45010016.2">
+				</crossref>
+				<crossref cid="t45010016.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, who has believed what he has heard from us?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v45010017">
+			</marker>
+			<verse num="17">
+				So 
+				<crossref let="z" cid="c45010017.1">
+				</crossref>
+				faith comes from hearing, and hearing through the word of Christ.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v45010018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18">
+				But I ask, have they not heard? Indeed they have, for
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c45010018.1">
+				</crossref>
+				<crossref cid="t45010018.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Their voice has gone out 
+				<crossref let="b" cid="c45010018.2">
+				</crossref>
+				to all the earth,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and their words to the ends of the world.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v45010019">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="19">
+				But I ask, did Israel not understand? First Moses says,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c45010019.1">
+				</crossref>
+				<crossref cid="t45010019.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will 
+				<crossref let="d" cid="c45010019.2">
+				</crossref>
+				make you jealous of those who are not a nation;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with a 
+				<crossref let="e" cid="c45010019.3">
+				</crossref>
+				foolish nation I will make you angry.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v45010020">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="20">
+				Then Isaiah is so bold as to say,
+
+				<end-paragraph
+					>
+				</end-paragraph>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="f" cid="c45010020.1">
+				</crossref>
+				<crossref cid="t45010020.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I have been found by those who did not seek me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I have shown myself to those who did not ask for me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v45010021">
+			</marker>
+			<begin-paragraph class="same-paragraph">
+			</begin-paragraph>
+			<verse num="21">
+				But of Israel he says, 
+				<crossref let="g" cid="c45010021.1">
+				</crossref>
+				<crossref cid="t45010021.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				All day long I have held out my hands to a disobedient and contrary people.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

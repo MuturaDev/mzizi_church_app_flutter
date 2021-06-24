@@ -1,0 +1,604 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Song of Solomon" num="21">
+		<marker class="begin-verse" mid="v22004001">
+		</marker>
+		<chapter num="4">
+			<heading
+				>
+				Solomon Admires His Bride's Beauty
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<subheading class="speaker">
+				He
+			</subheading>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				Behold, 
+				<crossref let="m" cid="c22004001.1">
+				</crossref>
+				you are beautiful, my love,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				behold, you are beautiful!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c22004001.2">
+				</crossref>
+				Your eyes are doves
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c22004001.3">
+				</crossref>
+				behind your veil.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c22004001.4">
+				</crossref>
+				Your hair is like a flock of goats
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				leaping down 
+				<crossref let="q" cid="c22004001.5">
+				</crossref>
+				the slopes of Gilead.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22004002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				Your 
+				<crossref let="r" cid="c22004002.1">
+				</crossref>
+				teeth are like a flock of shorn ewes
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that have come up from the washing,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				all of which bear twins,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and not one among them has lost its young.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22004003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				Your lips are like 
+				<crossref let="s" cid="c22004003.1">
+				</crossref>
+				a scarlet thread,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and your mouth is 
+				<crossref let="t" cid="c22004003.2">
+				</crossref>
+				lovely.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Your 
+				<crossref let="u" cid="c22004003.3">
+				</crossref>
+				cheeks are like halves of a pomegranate
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c22004003.4">
+				</crossref>
+				behind your veil.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22004004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Your 
+				<crossref let="v" cid="c22004004.1">
+				</crossref>
+				neck is like the tower of David,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				built in 
+				<crossref let="w" cid="c22004004.2">
+				</crossref>
+				rows of stone;
+				<note nid="n22004004.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				on it 
+				<crossref let="x" cid="c22004004.3">
+				</crossref>
+				hang a thousand shields,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				all of 
+				<crossref let="y" cid="c22004004.4">
+				</crossref>
+				them shields of warriors.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22004005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				Your 
+				<crossref let="z" cid="c22004005.1">
+				</crossref>
+				two breasts are like two 
+				<crossref let="a" cid="c22004005.2">
+				</crossref>
+				fawns,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				twins of a gazelle,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that 
+				<crossref let="b" cid="c22004005.3">
+				</crossref>
+				graze among the lilies.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22004006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c22004006.1">
+				</crossref>
+				Until the day breathes
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the shadows flee,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				I will go away to the mountain of 
+				<crossref let="d" cid="c22004006.2">
+				</crossref>
+				myrrh
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and the hill of 
+				<crossref let="d" cid="c22004006.3">
+				</crossref>
+				frankincense.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22004007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c22004007.1">
+				</crossref>
+				You are altogether beautiful, my love;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				there is no 
+				<crossref let="f" cid="c22004007.2">
+				</crossref>
+				flaw in you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22004008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="g" cid="c22004008.1">
+				</crossref>
+				Come with me from 
+				<crossref let="h" cid="c22004008.2">
+				</crossref>
+				Lebanon, my 
+				<crossref let="i" cid="c22004008.3">
+				</crossref>
+				bride;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				come with me from 
+				<crossref let="h" cid="c22004008.4">
+				</crossref>
+				Lebanon.
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Depart
+				<note nid="n22004008.1">
+				</note>
+				 from the peak of Amana,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from the peak of 
+				<crossref let="j" cid="c22004008.5">
+				</crossref>
+				Senir and 
+				<crossref let="k" cid="c22004008.6">
+				</crossref>
+				Hermon,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				from the dens of lions,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from the mountains of leopards.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v22004009">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				You have captivated my heart, my 
+				<crossref let="l" cid="c22004009.1">
+				</crossref>
+				sister, my bride;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have captivated my heart with one glance of your eyes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with one 
+				<crossref let="m" cid="c22004009.2">
+				</crossref>
+				jewel of your necklace.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22004010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				How beautiful is your love, my 
+				<crossref let="l" cid="c22004010.1">
+				</crossref>
+				sister, my bride!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				How much 
+				<crossref let="n" cid="c22004010.2">
+				</crossref>
+				better is your love than wine,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="o" cid="c22004010.3">
+				</crossref>
+				the fragrance of your oils than any spice!
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22004011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				Your 
+				<crossref let="p" cid="c22004011.1">
+				</crossref>
+				lips drip nectar, my bride;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="q" cid="c22004011.2">
+				</crossref>
+				honey and milk are under your tongue;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the fragrance of your garments is 
+				<crossref let="r" cid="c22004011.3">
+				</crossref>
+				like the fragrance of 
+				<crossref let="h" cid="c22004011.4">
+				</crossref>
+				Lebanon.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22004012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				A garden locked is my 
+				<crossref let="l" cid="c22004012.1">
+				</crossref>
+				sister, my bride,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				a spring locked, 
+				<crossref let="s" cid="c22004012.2">
+				</crossref>
+				a fountain 
+				<crossref let="t" cid="c22004012.3">
+				</crossref>
+				sealed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22004013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				Your shoots are 
+				<crossref let="u" cid="c22004013.1">
+				</crossref>
+				an orchard of pomegranates
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with all 
+				<crossref let="v" cid="c22004013.2">
+				</crossref>
+				choicest fruits,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="w" cid="c22004013.3">
+				</crossref>
+				henna with 
+				<crossref let="x" cid="c22004013.4">
+				</crossref>
+				nard,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22004014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				nard and saffron, 
+				<crossref let="y" cid="c22004014.1">
+				</crossref>
+				calamus and 
+				<crossref let="y" cid="c22004014.2">
+				</crossref>
+				cinnamon,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with all trees of 
+				<crossref let="z" cid="c22004014.3">
+				</crossref>
+				frankincense,
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c22004014.4">
+				</crossref>
+				myrrh and 
+				<crossref let="b" cid="c22004014.5">
+				</crossref>
+				aloes,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				with all 
+				<crossref let="y" cid="c22004014.6">
+				</crossref>
+				choice spicesù
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v22004015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				a garden fountain, a well of 
+				<crossref let="c" cid="c22004015.1">
+				</crossref>
+				living water,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and flowing streams from 
+				<crossref let="h" cid="c22004015.2">
+				</crossref>
+				Lebanon.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v22004016">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				Awake, O north wind,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and come, O south wind!
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Blow upon my 
+				<crossref let="d" cid="c22004016.1">
+				</crossref>
+				garden,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let its spices flow.
+				<end-line
+					>
+				</end-line>
+				<end-paragraph
+					>
+				</end-paragraph>
+				<end-block-indent
+					>
+				</end-block-indent>
+				<heading
+					>
+					Together in the Garden of Love
+				</heading>
+				<begin-block-indent
+					>
+				</begin-block-indent>
+				<subheading class="speaker">
+					She
+				</subheading>
+				<begin-paragraph class="line-group">
+				</begin-paragraph>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c22004016.2">
+				</crossref>
+				Let my beloved come to his 
+				<crossref let="f" cid="c22004016.3">
+				</crossref>
+				garden,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and eat its 
+				<crossref let="v" cid="c22004016.4">
+				</crossref>
+				choicest fruits.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

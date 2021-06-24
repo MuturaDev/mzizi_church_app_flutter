@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Matthew" num="39">
+		<marker class="begin-verse" mid="v40028001">
+		</marker>
+		<chapter num="28">
+			<heading
+				>
+				The Resurrection
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="m" cid="c40028001.1">
+				</crossref>
+				<crossref cid="t40028001.1">
+				</crossref>
+				Now after the Sabbath, toward the dawn of the first day of the week, Mary Magdalene and 
+				<crossref let="n" cid="c40028001.2">
+				</crossref>
+				the other Mary went to see the tomb.
+			</verse>
+			<marker class="begin-verse" mid="v40028002">
+			</marker>
+			<verse num="2">
+				And behold, there was a great earthquake, for 
+				<crossref let="o" cid="c40028002.1">
+				</crossref>
+				an angel of the Lord descended from heaven and came and rolled back the stone and sat on it.
+			</verse>
+			<marker class="begin-verse" mid="v40028003">
+			</marker>
+			<verse num="3">
+				<crossref let="p" cid="c40028003.1">
+				</crossref>
+				His appearance was like lightning, and 
+				<crossref let="q" cid="c40028003.2">
+				</crossref>
+				his clothing white as snow.
+			</verse>
+			<marker class="begin-verse" mid="v40028004">
+			</marker>
+			<verse num="4">
+				And for fear of him the guards trembled and 
+				<crossref let="r" cid="c40028004.1">
+				</crossref>
+				became like dead men.
+			</verse>
+			<marker class="begin-verse" mid="v40028005">
+			</marker>
+			<verse num="5">
+				But the angel said to the women, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Do not be afraid, for I know that you seek Jesus who was crucified.
+			</verse>
+			<marker class="begin-verse" mid="v40028006">
+			</marker>
+			<verse num="6">
+				He is not here, for he has risen, 
+				<crossref let="s" cid="c40028006.1">
+				</crossref>
+				as he said. Come, see the place where he
+				<note nid="n40028006.1">
+				</note>
+				 lay.
+			</verse>
+			<marker class="begin-verse" mid="v40028007">
+			</marker>
+			<verse num="7">
+				Then go quickly and tell his disciples that he has risen from the dead, and behold, 
+				<crossref let="t" cid="c40028007.1">
+				</crossref>
+				he is going before you to Galilee; there you will see him. See, I have told you.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40028008">
+			</marker>
+			<verse num="8">
+				So they departed quickly from the tomb 
+				<crossref let="u" cid="c40028008.1">
+				</crossref>
+				with fear and great joy, and ran to tell his disciples.
+			</verse>
+			<marker class="begin-verse" mid="v40028009">
+			</marker>
+			<verse num="9">
+				And behold, Jesus 
+				<crossref let="v" cid="c40028009.1">
+				</crossref>
+				met them and said, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Greetings!
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+				 And they came up and 
+				<crossref let="w" cid="c40028009.2">
+				</crossref>
+				took hold of his feet and 
+				<crossref let="x" cid="c40028009.3">
+				</crossref>
+				worshiped him.
+			</verse>
+			<marker class="begin-verse" mid="v40028010">
+			</marker>
+			<verse num="10">
+				Then Jesus said to them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Do not be afraid; 
+					<crossref let="y" cid="c40028010.1">
+					</crossref>
+					go and tell 
+					<crossref let="z" cid="c40028010.2">
+					</crossref>
+					my brothers to go to Galilee, and there they will see me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40028011">
+			</marker>
+			<heading
+				>
+				The Report of the Guard
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="11">
+				While they were going, behold, some of 
+				<crossref let="a" cid="c40028011.1">
+				</crossref>
+				the guard went into the city and told the chief priests all that had taken place.
+			</verse>
+			<marker class="begin-verse" mid="v40028012">
+			</marker>
+			<verse num="12">
+				And when they had assembled with the elders and taken counsel, they gave a sufficient sum of money to the soldiers
+			</verse>
+			<marker class="begin-verse" mid="v40028013">
+			</marker>
+			<verse num="13">
+				and said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Tell people, 
+				<crossref let="b" cid="c40028013.1">
+				</crossref>
+				<q class="begin-single" qid="" from="" to="">
+				</q>
+				His disciples came by night and stole him away while we were asleep.
+				<q class="end-single" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40028014">
+			</marker>
+			<verse num="14">
+				And if this comes to 
+				<crossref let="c" cid="c40028014.1">
+				</crossref>
+				the governor's ears, we will 
+				<crossref let="d" cid="c40028014.2">
+				</crossref>
+				satisfy him and keep you out of trouble.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v40028015">
+			</marker>
+			<verse num="15">
+				So they took the money and did as they were directed. And this story has been spread among the Jews 
+				<crossref let="e" cid="c40028015.1">
+				</crossref>
+				to this day.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v40028016">
+			</marker>
+			<heading
+				>
+				The Great Commission
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="16">
+				Now the eleven disciples 
+				<crossref let="f" cid="c40028016.1">
+				</crossref>
+				went to Galilee, to the mountain to which Jesus had directed them.
+			</verse>
+			<marker class="begin-verse" mid="v40028017">
+			</marker>
+			<verse num="17">
+				And when they saw him they 
+				<crossref let="g" cid="c40028017.1">
+				</crossref>
+				worshiped him, but some doubted.
+			</verse>
+			<marker class="begin-verse" mid="v40028018">
+			</marker>
+			<verse num="18">
+				And Jesus came and said to them, 
+				<woc
+					>
+					<crossref let="h" cid="c40028018.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					All authority 
+					<crossref let="i" cid="c40028018.2">
+					</crossref>
+					in heaven and on earth has been given to me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40028019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					<crossref let="j" cid="c40028019.1">
+					</crossref>
+					Go therefore and 
+					<crossref let="k" cid="c40028019.2">
+					</crossref>
+					make disciples of 
+					<crossref let="l" cid="c40028019.3">
+					</crossref>
+					all nations, 
+					<crossref let="j" cid="c40028019.4">
+					</crossref>
+					baptizing them 
+					<crossref let="m" cid="c40028019.5">
+					</crossref>
+					in
+					<note nid="n40028019.1">
+					</note>
+					<crossref let="n" cid="c40028019.6">
+					</crossref>
+					the name of the Father and of the Son and of the Holy Spirit,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v40028020">
+			</marker>
+			<verse num="20" class="woc">
+				<woc
+					>
+					teaching them 
+					<crossref let="o" cid="c40028020.1">
+					</crossref>
+					to observe all that 
+					<crossref let="p" cid="c40028020.2">
+					</crossref>
+					I have commanded you. And behold, 
+					<crossref let="q" cid="c40028020.3">
+					</crossref>
+					I am with you always, to 
+					<crossref let="r" cid="c40028020.4">
+					</crossref>
+					the end of the age.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

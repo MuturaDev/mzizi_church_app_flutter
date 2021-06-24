@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19041001">
+		</marker>
+		<chapter num="41">
+			<heading
+				>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, Be Gracious to Me
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster. A Psalm of David.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c19041001.1">
+				</crossref>
+				Blessed is the one who considers the poor!
+				<note nid="n19041001.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c19041001.2">
+				</crossref>
+				In the day of trouble the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 delivers him;
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19041002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 protects him and keeps him alive;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he is called blessed in the land;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you 
+				<crossref let="g" cid="c19041002.1">
+				</crossref>
+				do not give him up to the will of his enemies.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19041003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				The 
+				<span class="divine-name">
+					Lord
+				</span>
+				 sustains him on his sickbed;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in his illness you restore him to full health.
+				<note nid="n19041003.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19041004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				As for me, I said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, 
+				<crossref let="h" cid="c19041004.1">
+				</crossref>
+				be gracious to me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="i" cid="c19041004.2">
+				</crossref>
+				heal me,
+				<note nid="n19041004.1">
+				</note>
+				 for I have sinned against you!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19041005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				My enemies say of me in malice,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				When will he die, and his name perish?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19041006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				And when one comes to see me, 
+				<crossref let="j" cid="c19041006.1">
+				</crossref>
+				he utters empty words,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				while his heart gathers iniquity;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when he goes out, he tells it abroad.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19041007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				All who hate me whisper together about me;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				they imagine the worst for me.
+				<note nid="n19041007.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19041008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				They say, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				A deadly thing is poured out
+				<note nid="n19041008.1">
+				</note>
+				 on him;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				he will not rise again from where he lies.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19041009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Even my 
+				<crossref let="k" cid="c19041009.1">
+				</crossref>
+				close friend in whom I trusted,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who 
+				<crossref let="l" cid="c19041009.2">
+				</crossref>
+				ate my bread, has lifted his heel against me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19041010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				But you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, be gracious to me,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and raise me up, that I may repay them!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19041011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				By this I know that 
+				<crossref let="m" cid="c19041011.1">
+				</crossref>
+				you delight in me:
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my enemy will not shout in triumph over me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19041012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				But 
+				<crossref let="n" cid="c19041012.1">
+				</crossref>
+				you have upheld me because of 
+				<crossref let="o" cid="c19041012.2">
+				</crossref>
+				my integrity,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="p" cid="c19041012.3">
+				</crossref>
+				set me in your presence 
+				<crossref let="q" cid="c19041012.4">
+				</crossref>
+				forever.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19041013">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="r" cid="c19041013.1">
+				</crossref>
+				Blessed be the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, the God of Israel,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from everlasting to everlasting!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="psalm-doxology">
+				</begin-line>
+				Amen and Amen.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

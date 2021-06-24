@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Proverbs" num="19">
+		<marker class="begin-verse" mid="v20009001">
+		</marker>
+		<chapter num="9">
+			<heading
+				>
+				The Way of Wisdom
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="v" cid="c20009001.1">
+				</crossref>
+				Wisdom has built her house;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she has hewn her 
+				<crossref let="w" cid="c20009001.2">
+				</crossref>
+				seven 
+				<crossref let="x" cid="c20009001.3">
+				</crossref>
+				pillars.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				She has 
+				<crossref let="y" cid="c20009002.1">
+				</crossref>
+				slaughtered her beasts; she has 
+				<crossref let="z" cid="c20009002.2">
+				</crossref>
+				mixed her wine;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she has also 
+				<crossref let="a" cid="c20009002.3">
+				</crossref>
+				set her table.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				She has 
+				<crossref let="b" cid="c20009003.1">
+				</crossref>
+				sent out her young women to 
+				<crossref let="c" cid="c20009003.2">
+				</crossref>
+				call
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				from 
+				<crossref let="d" cid="c20009003.3">
+				</crossref>
+				the highest places in the town,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009004">
+			</marker>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="e" cid="c20009004.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whoever is simple, let him turn in here!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="f" cid="c20009004.2">
+				</crossref>
+				To him who lacks sense she says,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Come, 
+				<crossref let="g" cid="c20009005.1">
+				</crossref>
+				eat of my bread
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="h" cid="c20009005.2">
+				</crossref>
+				drink of 
+				<crossref let="z" cid="c20009005.3">
+				</crossref>
+				the wine I have mixed.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				Leave 
+				<crossref let="i" cid="c20009006.1">
+				</crossref>
+				your simple ways,
+				<note nid="n20009006.1">
+				</note>
+				 and 
+				<crossref let="j" cid="c20009006.2">
+				</crossref>
+				live,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="k" cid="c20009006.3">
+				</crossref>
+				and walk in the way of insight.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v20009007">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				Whoever corrects a scoffer gets himself abuse,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and he who reproves a wicked man incurs injury.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c20009008.1">
+				</crossref>
+				Do not reprove a scoffer, or he will hate you;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="m" cid="c20009008.2">
+				</crossref>
+				reprove a wise man, and he will love you.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				Give instruction
+				<note nid="n20009009.1">
+				</note>
+				 to a wise man, and he will be 
+				<crossref let="n" cid="c20009009.1">
+				</crossref>
+				still wiser;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				teach a righteous man, and he will 
+				<crossref let="o" cid="c20009009.2">
+				</crossref>
+				increase in learning.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="p" cid="c20009010.1">
+				</crossref>
+				The fear of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				 is the beginning of wisdom,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="q" cid="c20009010.2">
+				</crossref>
+				the knowledge of the Holy One is insight.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009011">
+			</marker>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				For by me 
+				<crossref let="r" cid="c20009011.1">
+				</crossref>
+				your days will be multiplied,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and years will be added to your life.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="s" cid="c20009012.1">
+				</crossref>
+				If you are wise, you are wise for yourself;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				if you scoff, you alone will bear it.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+			<marker class="begin-verse" mid="v20009013">
+			</marker>
+			<heading
+				>
+				The Way of Folly
+			</heading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="t" cid="c20009013.1">
+				</crossref>
+				The woman Folly is 
+				<crossref let="u" cid="c20009013.2">
+				</crossref>
+				loud;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she is seductive
+				<note nid="n20009013.1">
+				</note>
+				 and 
+				<crossref let="v" cid="c20009013.3">
+				</crossref>
+				knows nothing.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				She sits at the door of her house;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				she takes a seat on 
+				<crossref let="w" cid="c20009014.1">
+				</crossref>
+				the highest places of the town,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				calling to those who pass by,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				who are 
+				<crossref let="x" cid="c20009015.1">
+				</crossref>
+				going straight on their way,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009016">
+			</marker>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="y" cid="c20009016.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Whoever is simple, let him turn in here!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				And to him who lacks sense she says,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="z" cid="c20009017.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Stolen water is sweet,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="a" cid="c20009017.2">
+				</crossref>
+				bread eaten in secret is pleasant.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v20009018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				But he does not know 
+				<crossref let="b" cid="c20009018.1">
+				</crossref>
+				that the dead
+				<note nid="n20009018.1">
+				</note>
+				 are there,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				that her guests are in the depths of Sheol.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

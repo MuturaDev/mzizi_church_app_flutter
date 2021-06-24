@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19030001">
+		</marker>
+		<chapter num="30">
+			<heading
+				>
+				Joy Comes with the Morning
+			</heading>
+			<subheading class="psalm-title">
+				A Psalm of David. A song at the dedication of 
+				<crossref let="r" cid="c19030001.1">
+				</crossref>
+				the temple.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				I will 
+				<crossref let="s" cid="c19030001.2">
+				</crossref>
+				extol you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, for you have drawn me up
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and have not let my foes 
+				<crossref let="t" cid="c19030001.3">
+				</crossref>
+				rejoice over me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19030002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				 my God, I 
+				<crossref let="u" cid="c19030002.1">
+				</crossref>
+				cried to you for help,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and you have 
+				<crossref let="v" cid="c19030002.2">
+				</crossref>
+				healed me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19030003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, you have brought up my soul from 
+				<crossref let="w" cid="c19030003.1">
+				</crossref>
+				Sheol;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you restored me to life from among those who 
+				<crossref let="x" cid="c19030003.2">
+				</crossref>
+				go down to the pit.
+				<note nid="n19030003.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19030004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				Sing praises to the 
+				<span class="divine-name">
+					Lord
+				</span>
+				, O you 
+				<crossref let="y" cid="c19030004.1">
+				</crossref>
+				his saints,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="z" cid="c19030004.2">
+				</crossref>
+				give thanks to his holy name.
+				<note nid="n19030004.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19030005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="a" cid="c19030005.1">
+				</crossref>
+				For his anger is but for a moment,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="b" cid="c19030005.2">
+				</crossref>
+				his favor is for a lifetime.
+				<note nid="n19030005.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="c" cid="c19030005.3">
+				</crossref>
+				Weeping may tarry for the night,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				but 
+				<crossref let="d" cid="c19030005.4">
+				</crossref>
+				joy comes with the morning.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19030006">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				As for me, I said in my 
+				<crossref let="e" cid="c19030006.1">
+				</crossref>
+				prosperity,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I shall never be 
+				<crossref let="f" cid="c19030006.2">
+				</crossref>
+				moved.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19030007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				By your favor, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you made my 
+				<crossref let="g" cid="c19030007.1">
+				</crossref>
+				mountain stand strong;
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				you 
+				<crossref let="h" cid="c19030007.2">
+				</crossref>
+				hid your face;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I was 
+				<crossref let="i" cid="c19030007.3">
+				</crossref>
+				dismayed.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19030008">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				To you, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, I cry,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and 
+				<crossref let="j" cid="c19030008.1">
+				</crossref>
+				to the Lord I plead for mercy:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19030009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				What profit is there in my death,
+				<note nid="n19030009.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				if I go down to the pit?
+				<note nid="n19030009.2">
+				</note>
+				<end-line class="br">
+				</end-line>
+				<begin-line
+					>
+				</begin-line>
+				Will 
+				<crossref let="k" cid="c19030009.1">
+				</crossref>
+				the dust praise you?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Will it tell of your faithfulness?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19030010">
+			</marker>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="l" cid="c19030010.1">
+				</crossref>
+				Hear, O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, and be merciful to me!
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				, be my helper!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19030011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				You have turned for me my mourning into 
+				<crossref let="m" cid="c19030011.1">
+				</crossref>
+				dancing;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have loosed my sackcloth
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and clothed me with gladness,
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19030012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				that my 
+				<crossref let="n" cid="c19030012.1">
+				</crossref>
+				glory may sing your praise and not be silent.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				O 
+				<span class="divine-name">
+					Lord
+				</span>
+				 my God, I will give thanks to you forever!
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

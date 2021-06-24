@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Timothy" num="53">
+		<marker class="begin-verse" mid="v54002001">
+		</marker>
+		<chapter num="2">
+			<heading
+				>
+				Pray for All People
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for all people,
+			</verse>
+			<marker class="begin-verse" mid="v54002002">
+			</marker>
+			<verse num="2">
+				<crossref let="v" cid="c54002002.1">
+				</crossref>
+				for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and 
+				<crossref let="w" cid="c54002002.2">
+				</crossref>
+				dignified in every way.
+			</verse>
+			<marker class="begin-verse" mid="v54002003">
+			</marker>
+			<verse num="3">
+				This is good, and 
+				<crossref let="x" cid="c54002003.1">
+				</crossref>
+				it is pleasing in the sight of 
+				<crossref let="y" cid="c54002003.2">
+				</crossref>
+				God our Savior,
+			</verse>
+			<marker class="begin-verse" mid="v54002004">
+			</marker>
+			<verse num="4">
+				who desires 
+				<crossref let="z" cid="c54002004.1">
+				</crossref>
+				all people to be saved and 
+				<crossref let="a" cid="c54002004.2">
+				</crossref>
+				to come to 
+				<crossref let="b" cid="c54002004.3">
+				</crossref>
+				the knowledge of the truth.
+			</verse>
+			<marker class="begin-verse" mid="v54002005">
+			</marker>
+			<verse num="5">
+				For 
+				<crossref let="c" cid="c54002005.1">
+				</crossref>
+				there is one God, and there is one mediator between God and men, the man
+				<note nid="n54002005.1">
+				</note>
+				 Christ Jesus,
+			</verse>
+			<marker class="begin-verse" mid="v54002006">
+			</marker>
+			<verse num="6">
+				<crossref let="d" cid="c54002006.1">
+				</crossref>
+				who gave himself as a ransom for all, which is 
+				<crossref let="e" cid="c54002006.2">
+				</crossref>
+				the testimony given 
+				<crossref let="f" cid="c54002006.3">
+				</crossref>
+				at the proper time.
+			</verse>
+			<marker class="begin-verse" mid="v54002007">
+			</marker>
+			<verse num="7">
+				<crossref let="g" cid="c54002007.1">
+				</crossref>
+				For this I was appointed a preacher and an apostle (
+				<crossref let="h" cid="c54002007.2">
+				</crossref>
+				I am telling the truth, I am not lying), 
+				<crossref let="i" cid="c54002007.3">
+				</crossref>
+				a teacher of the Gentiles in faith and truth.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v54002008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				I desire then that 
+				<crossref let="j" cid="c54002008.1">
+				</crossref>
+				in every place the men should pray, 
+				<crossref let="k" cid="c54002008.2">
+				</crossref>
+				lifting 
+				<crossref let="l" cid="c54002008.3">
+				</crossref>
+				holy hands without anger or quarreling;
+			</verse>
+			<marker class="begin-verse" mid="v54002009">
+			</marker>
+			<verse num="9">
+				likewise also 
+				<crossref let="m" cid="c54002009.1">
+				</crossref>
+				that women should adorn themselves in respectable apparel, with modesty and self-control, not with braided hair and gold or pearls or costly attire,
+			</verse>
+			<marker class="begin-verse" mid="v54002010">
+			</marker>
+			<verse num="10">
+				<crossref let="n" cid="c54002010.1">
+				</crossref>
+				but with what is proper for women who profess godlinessùwith good works.
+			</verse>
+			<marker class="begin-verse" mid="v54002011">
+			</marker>
+			<verse num="11">
+				Let a woman learn quietly 
+				<crossref let="o" cid="c54002011.1">
+				</crossref>
+				with all submissiveness.
+			</verse>
+			<marker class="begin-verse" mid="v54002012">
+			</marker>
+			<verse num="12">
+				<crossref let="p" cid="c54002012.1">
+				</crossref>
+				I do not permit a woman to teach or to exercise authority over a man; rather, she is to remain quiet.
+			</verse>
+			<marker class="begin-verse" mid="v54002013">
+			</marker>
+			<verse num="13">
+				<crossref let="q" cid="c54002013.1">
+				</crossref>
+				For Adam was formed first, 
+				<crossref let="r" cid="c54002013.2">
+				</crossref>
+				then Eve;
+			</verse>
+			<marker class="begin-verse" mid="v54002014">
+			</marker>
+			<verse num="14">
+				and Adam was not deceived, but 
+				<crossref let="s" cid="c54002014.1">
+				</crossref>
+				the woman was deceived and became a transgressor.
+			</verse>
+			<marker class="begin-verse" mid="v54002015">
+			</marker>
+			<verse num="15">
+				Yet she will be saved through 
+				<crossref let="t" cid="c54002015.1">
+				</crossref>
+				childbearingùif they continue in 
+				<crossref let="u" cid="c54002015.2">
+				</crossref>
+				faith and love and holiness, with self-control.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

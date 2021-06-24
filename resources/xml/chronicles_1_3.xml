@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Chronicles" num="12">
+		<marker class="begin-verse" mid="v13003001">
+		</marker>
+		<chapter num="3">
+			<heading
+				>
+				Descendants of David
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="n" cid="c13003001.1">
+				</crossref>
+				These are the sons of David who were born to him in Hebron: the firstborn, Amnon, by Ahinoam the Jezreelite; the second, 
+				<crossref let="o" cid="c13003001.2">
+				</crossref>
+				Daniel, by Abigail the Carmelite,
+			</verse>
+			<marker class="begin-verse" mid="v13003002">
+			</marker>
+			<verse num="2">
+				the third, Absalom, whose mother was Maacah, the daughter of Talmai, king of Geshur; the fourth, Adonijah, whose mother was Haggith;
+			</verse>
+			<marker class="begin-verse" mid="v13003003">
+			</marker>
+			<verse num="3">
+				the fifth, Shephatiah, by Abital; the sixth, Ithream, by his wife Eglah;
+			</verse>
+			<marker class="begin-verse" mid="v13003004">
+			</marker>
+			<verse num="4">
+				six were born to him in Hebron, 
+				<crossref let="p" cid="c13003004.1">
+				</crossref>
+				where he reigned for seven years and six months. 
+				<crossref let="q" cid="c13003004.2">
+				</crossref>
+				And he reigned thirty-three years in Jerusalem.
+			</verse>
+			<marker class="begin-verse" mid="v13003005">
+			</marker>
+			<verse num="5">
+				<crossref let="r" cid="c13003005.1">
+				</crossref>
+				These were born to him in Jerusalem: 
+				<crossref let="s" cid="c13003005.2">
+				</crossref>
+				Shimea, Shobab, Nathan and 
+				<crossref let="t" cid="c13003005.3">
+				</crossref>
+				Solomon, four by 
+				<crossref let="u" cid="c13003005.4">
+				</crossref>
+				Bath-shua, the daughter of 
+				<crossref let="u" cid="c13003005.5">
+				</crossref>
+				Ammiel;
+			</verse>
+			<marker class="begin-verse" mid="v13003006">
+			</marker>
+			<verse num="6">
+				then Ibhar, 
+				<crossref let="v" cid="c13003006.1">
+				</crossref>
+				Elishama, Eliphelet,
+			</verse>
+			<marker class="begin-verse" mid="v13003007">
+			</marker>
+			<verse num="7">
+				Nogah, Nepheg, Japhia,
+			</verse>
+			<marker class="begin-verse" mid="v13003008">
+			</marker>
+			<verse num="8">
+				Elishama, 
+				<crossref let="w" cid="c13003008.1">
+				</crossref>
+				Eliada, and Eliphelet, nine.
+			</verse>
+			<marker class="begin-verse" mid="v13003009">
+			</marker>
+			<verse num="9">
+				All these were David's sons, besides the sons of the concubines, 
+				<crossref let="x" cid="c13003009.1">
+				</crossref>
+				and Tamar was their sister.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v13003010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				The son of Solomon was 
+				<crossref let="y" cid="c13003010.1">
+				</crossref>
+				Rehoboam, 
+				<crossref let="z" cid="c13003010.2">
+				</crossref>
+				Abijah his son, 
+				<crossref let="a" cid="c13003010.3">
+				</crossref>
+				Asa his son, 
+				<crossref let="b" cid="c13003010.4">
+				</crossref>
+				Jehoshaphat his son,
+			</verse>
+			<marker class="begin-verse" mid="v13003011">
+			</marker>
+			<verse num="11">
+				<crossref let="c" cid="c13003011.1">
+				</crossref>
+				Joram his son, 
+				<crossref let="d" cid="c13003011.2">
+				</crossref>
+				Ahaziah his son, 
+				<crossref let="e" cid="c13003011.3">
+				</crossref>
+				Joash his son,
+			</verse>
+			<marker class="begin-verse" mid="v13003012">
+			</marker>
+			<verse num="12">
+				<crossref let="f" cid="c13003012.1">
+				</crossref>
+				Amaziah his son, 
+				<crossref let="g" cid="c13003012.2">
+				</crossref>
+				Azariah his son, 
+				<crossref let="h" cid="c13003012.3">
+				</crossref>
+				Jotham his son,
+			</verse>
+			<marker class="begin-verse" mid="v13003013">
+			</marker>
+			<verse num="13">
+				<crossref let="i" cid="c13003013.1">
+				</crossref>
+				Ahaz his son, 
+				<crossref let="j" cid="c13003013.2">
+				</crossref>
+				Hezekiah his son, 
+				<crossref let="k" cid="c13003013.3">
+				</crossref>
+				Manasseh his son,
+			</verse>
+			<marker class="begin-verse" mid="v13003014">
+			</marker>
+			<verse num="14">
+				<crossref let="l" cid="c13003014.1">
+				</crossref>
+				Amon his son, 
+				<crossref let="m" cid="c13003014.2">
+				</crossref>
+				Josiah his son.
+			</verse>
+			<marker class="begin-verse" mid="v13003015">
+			</marker>
+			<verse num="15">
+				The sons of Josiah: 
+				<crossref let="n" cid="c13003015.1">
+				</crossref>
+				Johanan the firstborn, the second 
+				<crossref let="o" cid="c13003015.2">
+				</crossref>
+				Jehoiakim, the third 
+				<crossref let="p" cid="c13003015.3">
+				</crossref>
+				Zedekiah, the fourth Shallum.
+			</verse>
+			<marker class="begin-verse" mid="v13003016">
+			</marker>
+			<verse num="16">
+				The descendants of 
+				<crossref let="q" cid="c13003016.1">
+				</crossref>
+				Jehoiakim: 
+				<crossref let="r" cid="c13003016.2">
+				</crossref>
+				Jeconiah his son, 
+				<crossref let="s" cid="c13003016.3">
+				</crossref>
+				Zedekiah his son;
+			</verse>
+			<marker class="begin-verse" mid="v13003017">
+			</marker>
+			<verse num="17">
+				and the sons of Jeconiah, the 
+				<crossref let="t" cid="c13003017.1">
+				</crossref>
+				captive: 
+				<crossref let="u" cid="c13003017.2">
+				</crossref>
+				Shealtiel his son,
+			</verse>
+			<marker class="begin-verse" mid="v13003018">
+			</marker>
+			<verse num="18">
+				Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama and Nedabiah;
+			</verse>
+			<marker class="begin-verse" mid="v13003019">
+			</marker>
+			<verse num="19">
+				and the sons of Pedaiah: 
+				<crossref let="v" cid="c13003019.1">
+				</crossref>
+				Zerubbabel and Shimei; and the sons of 
+				<crossref let="v" cid="c13003019.2">
+				</crossref>
+				Zerubbabel: Meshullam and Hananiah, and Shelomith was their sister;
+			</verse>
+			<marker class="begin-verse" mid="v13003020">
+			</marker>
+			<verse num="20">
+				and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-hesed, five.
+			</verse>
+			<marker class="begin-verse" mid="v13003021">
+			</marker>
+			<verse num="21">
+				The sons of Hananiah: Pelatiah and Jeshaiah, his son
+				<note nid="n13003021.1">
+				</note>
+				 Rephaiah, his son Arnan, his son Obadiah, his son Shecaniah.
+			</verse>
+			<marker class="begin-verse" mid="v13003022">
+			</marker>
+			<verse num="22">
+				The son
+				<note nid="n13003022.1">
+				</note>
+				 of Shecaniah: 
+				<crossref let="w" cid="c13003022.1">
+				</crossref>
+				Shemaiah. And the sons of Shemaiah: 
+				<crossref let="x" cid="c13003022.2">
+				</crossref>
+				Hattush, Igal, Bariah, Neariah, and Shaphat, six.
+			</verse>
+			<marker class="begin-verse" mid="v13003023">
+			</marker>
+			<verse num="23">
+				The sons of Neariah: Elioenai, Hizkiah, and Azrikam, three.
+			</verse>
+			<marker class="begin-verse" mid="v13003024">
+			</marker>
+			<verse num="24">
+				The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

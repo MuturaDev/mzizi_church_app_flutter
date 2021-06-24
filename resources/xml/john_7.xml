@@ -1,0 +1,806 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="John" num="42">
+		<marker class="begin-verse" mid="v43007001">
+		</marker>
+		<chapter num="7">
+			<heading
+				>
+				Jesus at the Feast of Booths
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				After this Jesus went about in Galilee. He would not go about in Judea, because 
+				<crossref let="p" cid="c43007001.1">
+				</crossref>
+				the Jews
+				<note nid="n43007001.1">
+				</note>
+				 were seeking to kill him.
+			</verse>
+			<marker class="begin-verse" mid="v43007002">
+			</marker>
+			<verse num="2">
+				Now 
+				<crossref let="q" cid="c43007002.1">
+				</crossref>
+				the Jews' Feast of 
+				<crossref let="r" cid="c43007002.2">
+				</crossref>
+				Booths was at hand.
+			</verse>
+			<marker class="begin-verse" mid="v43007003">
+			</marker>
+			<verse num="3">
+				<crossref let="s" cid="c43007003.1">
+				</crossref>
+				So his brothers
+				<note nid="n43007003.1">
+				</note>
+				 said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Leave here and go to Judea, that your disciples also may see the works you are doing.
+			</verse>
+			<marker class="begin-verse" mid="v43007004">
+			</marker>
+			<verse num="4">
+				For no one works in secret if he seeks to be known openly. If you do these things, 
+				<crossref let="t" cid="c43007004.1">
+				</crossref>
+				show yourself to the world.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43007005">
+			</marker>
+			<verse num="5">
+				<crossref let="u" cid="c43007005.1">
+				</crossref>
+				For not even 
+				<crossref let="v" cid="c43007005.2">
+				</crossref>
+				his brothers believed in him.
+			</verse>
+			<marker class="begin-verse" mid="v43007006">
+			</marker>
+			<verse num="6">
+				Jesus said to them, 
+				<woc
+					>
+					<crossref let="w" cid="c43007006.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					My time has not yet come, but your time is always here.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007007">
+			</marker>
+			<verse num="7" class="woc">
+				<woc
+					>
+					The world cannot hate you, but 
+					<crossref let="x" cid="c43007007.1">
+					</crossref>
+					it hates me because I testify about it that 
+					<crossref let="y" cid="c43007007.2">
+					</crossref>
+					its works are evil.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007008">
+			</marker>
+			<verse num="8" class="woc">
+				<woc
+					>
+					You go up to the feast. I am not
+					<note nid="n43007008.1">
+					</note>
+					 going up to this feast, for 
+					<crossref let="z" cid="c43007008.1">
+					</crossref>
+					my time has not yet fully come.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007009">
+			</marker>
+			<verse num="9">
+				After saying this, he remained in Galilee.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43007010">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="10">
+				But after 
+				<crossref let="a" cid="c43007010.1">
+				</crossref>
+				his brothers had gone up to the feast, then he also went up, not publicly but in private.
+			</verse>
+			<marker class="begin-verse" mid="v43007011">
+			</marker>
+			<verse num="11">
+				<crossref let="b" cid="c43007011.1">
+				</crossref>
+				The Jews 
+				<crossref let="c" cid="c43007011.2">
+				</crossref>
+				were looking for him at the feast, and saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where is he?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43007012">
+			</marker>
+			<verse num="12">
+				And there was much 
+				<crossref let="d" cid="c43007012.1">
+				</crossref>
+				muttering about him among the people. 
+				<crossref let="e" cid="c43007012.2">
+				</crossref>
+				While some said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				He is a good man,
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 others said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No, 
+				<crossref let="f" cid="c43007012.3">
+				</crossref>
+				he is leading the people astray.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43007013">
+			</marker>
+			<verse num="13">
+				Yet 
+				<crossref let="g" cid="c43007013.1">
+				</crossref>
+				for fear of the Jews no one spoke openly of him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43007014">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="14">
+				About the middle of the feast Jesus went up 
+				<crossref let="h" cid="c43007014.1">
+				</crossref>
+				into the temple and began teaching.
+			</verse>
+			<marker class="begin-verse" mid="v43007015">
+			</marker>
+			<verse num="15">
+				The Jews therefore 
+				<crossref let="i" cid="c43007015.1">
+				</crossref>
+				marveled, saying, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				How is it that this man has learning,
+				<note nid="n43007015.1">
+				</note>
+				 when he has never studied?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43007016">
+			</marker>
+			<verse num="16">
+				So Jesus answered them, 
+				<woc
+					>
+					<crossref let="j" cid="c43007016.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					My teaching is not mine, but his 
+					<crossref let="k" cid="c43007016.2">
+					</crossref>
+					who sent me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007017">
+			</marker>
+			<verse num="17" class="woc">
+				<woc
+					>
+					<crossref let="l" cid="c43007017.1">
+					</crossref>
+					If anyone's will is to do God's
+					<note nid="n43007017.1">
+					</note>
+					 will, 
+					<crossref let="m" cid="c43007017.2">
+					</crossref>
+					he will know whether the teaching is from God or whether I 
+					<crossref let="n" cid="c43007017.3">
+					</crossref>
+					am speaking on my own authority.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007018">
+			</marker>
+			<verse num="18" class="woc">
+				<woc
+					>
+					The one who speaks on his own authority 
+					<crossref let="o" cid="c43007018.1">
+					</crossref>
+					seeks his own glory; but the one who seeks the glory of him who sent him is true, and in him there is no falsehood.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					<crossref let="p" cid="c43007019.1">
+					</crossref>
+					Has not Moses given you the law? Yet none of you keeps the law. 
+					<crossref let="q" cid="c43007019.2">
+					</crossref>
+					Why do you seek to kill me?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007020">
+			</marker>
+			<verse num="20">
+				The crowd answered, 
+				<crossref let="r" cid="c43007020.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				You have a demon! Who is seeking to kill you?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43007021">
+			</marker>
+			<verse num="21">
+				Jesus answered them, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I did 
+					<crossref let="s" cid="c43007021.1">
+					</crossref>
+					one work, and you all marvel at it.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007022">
+			</marker>
+			<verse num="22" class="woc">
+				<woc
+					>
+					<crossref let="t" cid="c43007022.1">
+					</crossref>
+					Moses gave you circumcision (not that it is from Moses, but 
+					<crossref let="u" cid="c43007022.2">
+					</crossref>
+					from the fathers), and you circumcise a man on the Sabbath.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007023">
+			</marker>
+			<verse num="23" class="woc">
+				<woc
+					>
+					If on the Sabbath a man receives circumcision, so that the law of Moses may not be broken, 
+					<crossref let="v" cid="c43007023.1">
+					</crossref>
+					are you angry with me because on the Sabbath I made a man's whole body well?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					<crossref let="w" cid="c43007024.1">
+					</crossref>
+					Do not judge by appearances, but judge with right judgment.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43007025">
+			</marker>
+			<heading
+				>
+				Can This Be the Christ?
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25">
+				Some of the people of Jerusalem therefore said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is not this the man whom 
+				<crossref let="x" cid="c43007025.1">
+				</crossref>
+				they seek to kill?
+			</verse>
+			<marker class="begin-verse" mid="v43007026">
+			</marker>
+			<verse num="26">
+				And here he is, 
+				<crossref let="y" cid="c43007026.1">
+				</crossref>
+				speaking openly, and they say nothing to him! Can it be that 
+				<crossref let="z" cid="c43007026.2">
+				</crossref>
+				the authorities really know that this is the Christ?
+			</verse>
+			<marker class="begin-verse" mid="v43007027">
+			</marker>
+			<verse num="27">
+				But 
+				<crossref let="a" cid="c43007027.1">
+				</crossref>
+				we know 
+				<crossref let="b" cid="c43007027.2">
+				</crossref>
+				where this man comes from, and when the Christ appears, 
+				<crossref let="c" cid="c43007027.3">
+				</crossref>
+				no one will know where he comes from.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43007028">
+			</marker>
+			<verse num="28">
+				So Jesus proclaimed, 
+				<crossref let="d" cid="c43007028.1">
+				</crossref>
+				as he taught in the temple, 
+				<woc
+					>
+					<crossref let="a" cid="c43007028.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					You know me, and you know where I come from? But 
+					<crossref let="e" cid="c43007028.3">
+					</crossref>
+					I have not come of my own accord. 
+					<crossref let="f" cid="c43007028.4">
+					</crossref>
+					He who sent me is true, 
+					<crossref let="g" cid="c43007028.5">
+					</crossref>
+					and him you do not know.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007029">
+			</marker>
+			<verse num="29" class="woc">
+				<woc
+					>
+					<crossref let="h" cid="c43007029.1">
+					</crossref>
+					I know him, for I come 
+					<crossref let="i" cid="c43007029.2">
+					</crossref>
+					from him, and 
+					<crossref let="j" cid="c43007029.3">
+					</crossref>
+					he sent me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007030">
+			</marker>
+			<verse num="30">
+				<crossref let="k" cid="c43007030.1">
+				</crossref>
+				So they were seeking to arrest him, but 
+				<crossref let="l" cid="c43007030.2">
+				</crossref>
+				no one laid a hand on him, 
+				<crossref let="m" cid="c43007030.3">
+				</crossref>
+				because his hour had not yet come.
+			</verse>
+			<marker class="begin-verse" mid="v43007031">
+			</marker>
+			<verse num="31">
+				Yet 
+				<crossref let="n" cid="c43007031.1">
+				</crossref>
+				many of the people believed in him. They said, 
+				<crossref let="o" cid="c43007031.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				When the Christ appears, will he do more signs than this man has done?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43007032">
+			</marker>
+			<heading
+				>
+				Officers Sent to Arrest Jesus
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="32">
+				The Pharisees heard the crowd 
+				<crossref let="p" cid="c43007032.1">
+				</crossref>
+				muttering these things about him, and the chief priests and Pharisees sent 
+				<crossref let="q" cid="c43007032.2">
+				</crossref>
+				officers to arrest him.
+			</verse>
+			<marker class="begin-verse" mid="v43007033">
+			</marker>
+			<verse num="33">
+				Jesus then said, 
+				<woc
+					>
+					<crossref let="r" cid="c43007033.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I will be with you a little longer, and then 
+					<crossref let="s" cid="c43007033.2">
+					</crossref>
+					I am going to him who sent me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007034">
+			</marker>
+			<verse num="34" class="woc">
+				<woc
+					>
+					<crossref let="t" cid="c43007034.1">
+					</crossref>
+					You will seek me and you will not find me. Where I am you cannot come.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007035">
+			</marker>
+			<verse num="35">
+				The Jews said to one another, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Where does this man intend to go that we will not find him? 
+				<crossref let="u" cid="c43007035.1">
+				</crossref>
+				Does he intend to go to 
+				<crossref let="v" cid="c43007035.2">
+				</crossref>
+				the Dispersion among 
+				<crossref let="w" cid="c43007035.3">
+				</crossref>
+				the Greeks and teach the Greeks?
+			</verse>
+			<marker class="begin-verse" mid="v43007036">
+			</marker>
+			<verse num="36">
+				What does he mean by saying, 
+				<woc
+					>
+					<crossref let="x" cid="c43007036.1">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					You will seek me and you will not find me,
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+				 and, 
+				<woc
+					>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Where I am you cannot come
+					<q class="end-single" qid="" from="" to="">
+					</q>
+				</woc>
+				?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43007037">
+			</marker>
+			<heading
+				>
+				Rivers of Living Water
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="37">
+				<crossref let="y" cid="c43007037.1">
+				</crossref>
+				On the last day of the feast, the great day, Jesus stood up and cried out, 
+				<woc
+					>
+					<crossref let="z" cid="c43007037.2">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If anyone thirsts, let him 
+					<crossref let="a" cid="c43007037.3">
+					</crossref>
+					come to me and drink.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007038">
+			</marker>
+			<verse num="38" class="woc">
+				<woc
+					>
+					Whoever believes in me, 
+					<crossref let="b" cid="c43007038.1">
+					</crossref>
+					as
+					<note nid="n43007038.1">
+					</note>
+					 the Scripture has said, 
+					<crossref let="c" cid="c43007038.2">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Out of his heart will flow rivers of 
+					<crossref let="d" cid="c43007038.3">
+					</crossref>
+					living water.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43007039">
+			</marker>
+			<verse num="39">
+				Now 
+				<crossref let="e" cid="c43007039.1">
+				</crossref>
+				this he said about the Spirit, 
+				<crossref let="f" cid="c43007039.2">
+				</crossref>
+				whom those who believed in him were to receive, 
+				<crossref let="g" cid="c43007039.3">
+				</crossref>
+				for as yet the Spirit had not been 
+				<crossref let="h" cid="c43007039.4">
+				</crossref>
+				given, 
+				<crossref let="i" cid="c43007039.5">
+				</crossref>
+				because Jesus was not yet glorified.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43007040">
+			</marker>
+			<heading
+				>
+				Division Among the People
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="40">
+				When they heard these words, 
+				<crossref let="j" cid="c43007040.1">
+				</crossref>
+				some of the people said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This really is 
+				<crossref let="k" cid="c43007040.2">
+				</crossref>
+				the Prophet.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43007041">
+			</marker>
+			<verse num="41">
+				Others said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				This is 
+				<crossref let="l" cid="c43007041.1">
+				</crossref>
+				the Christ.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But some said, 
+				<crossref let="m" cid="c43007041.2">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Is the Christ to come from Galilee?
+			</verse>
+			<marker class="begin-verse" mid="v43007042">
+			</marker>
+			<verse num="42">
+				Has not the Scripture said that the Christ comes 
+				<crossref let="n" cid="c43007042.1">
+				</crossref>
+				from the offspring of David, and comes 
+				<crossref let="o" cid="c43007042.2">
+				</crossref>
+				from Bethlehem, the village 
+				<crossref let="p" cid="c43007042.3">
+				</crossref>
+				where David was?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43007043">
+			</marker>
+			<verse num="43">
+				So there was 
+				<crossref let="q" cid="c43007043.1">
+				</crossref>
+				a division among the people over him.
+			</verse>
+			<marker class="begin-verse" mid="v43007044">
+			</marker>
+			<verse num="44">
+				<crossref let="r" cid="c43007044.1">
+				</crossref>
+				Some of them wanted to arrest him, but no one laid hands on him.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43007045">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="45">
+				<crossref let="s" cid="c43007045.1">
+				</crossref>
+				The officers then came to the chief priests and Pharisees, who said to them, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Why did you not bring him?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43007046">
+			</marker>
+			<verse num="46">
+				The officers answered, 
+				<crossref let="t" cid="c43007046.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				No one ever spoke like this man!
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43007047">
+			</marker>
+			<verse num="47">
+				The Pharisees answered them, 
+				<crossref let="u" cid="c43007047.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Have you also been deceived?
+			</verse>
+			<marker class="begin-verse" mid="v43007048">
+			</marker>
+			<verse num="48">
+				<crossref let="v" cid="c43007048.1">
+				</crossref>
+				Have any of the authorities or the Pharisees believed in him?
+			</verse>
+			<marker class="begin-verse" mid="v43007049">
+			</marker>
+			<verse num="49">
+				But this crowd that does not know the law is accursed.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43007050">
+			</marker>
+			<verse num="50">
+				<crossref let="w" cid="c43007050.1">
+				</crossref>
+				Nicodemus, who had gone to him before, and who was one of them, said to them,
+			</verse>
+			<marker class="begin-verse" mid="v43007051">
+			</marker>
+			<verse num="51">
+				<crossref let="x" cid="c43007051.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Does our law judge a man without first 
+				<crossref let="y" cid="c43007051.2">
+				</crossref>
+				giving him a hearing and learning what he does?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43007052">
+			</marker>
+			<verse num="52">
+				They replied, 
+				<crossref let="z" cid="c43007052.1">
+				</crossref>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Are you from Galilee too? Search and see that 
+				<crossref let="a" cid="c43007052.2">
+				</crossref>
+				no prophet arises from Galilee.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43007053">
+			</marker>
+			<subheading class="textual-note">
+				[The earliest manuscripts do not include 7:538:11.]
+				<note nid="n43007053.1">
+				</note>
+			</subheading>
+			<heading
+				>
+				The Woman Caught in Adultery
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="53">
+				[[They went each to his own house,
+			</verse>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

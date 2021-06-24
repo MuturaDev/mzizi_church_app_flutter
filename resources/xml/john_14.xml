@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="John" num="42">
+		<marker class="begin-verse" mid="v43014001">
+		</marker>
+		<chapter num="14">
+			<heading
+				>
+				I Am the Way, and the Truth, and the Life
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1" class="woc">
+				<woc
+					>
+					<crossref let="d" cid="c43014001.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Let not your hearts be troubled. 
+					<crossref let="e" cid="c43014001.2">
+					</crossref>
+					Believe in God;
+					<note nid="n43014001.1">
+					</note>
+					 believe also in me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014002">
+			</marker>
+			<verse num="2" class="woc">
+				<woc
+					>
+					In 
+					<crossref let="f" cid="c43014002.1">
+					</crossref>
+					my Father's house are many rooms. If it were not so, would I have told you that 
+					<crossref let="g" cid="c43014002.2">
+					</crossref>
+					I go to prepare a place for you?
+					<note nid="n43014002.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014003">
+			</marker>
+			<verse num="3" class="woc">
+				<woc
+					>
+					And if I go and prepare a place for you, I will come again and will take you 
+					<crossref let="h" cid="c43014003.1">
+					</crossref>
+					to myself, that 
+					<crossref let="i" cid="c43014003.2">
+					</crossref>
+					where I am you may be also.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014004">
+			</marker>
+			<verse num="4" class="woc">
+				<woc
+					>
+					And you know the way to where I am going.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+					<note nid="n43014004.1">
+					</note>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014005">
+			</marker>
+			<verse num="5">
+				<crossref let="j" cid="c43014005.1">
+				</crossref>
+				Thomas said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, 
+				<crossref let="k" cid="c43014005.2">
+				</crossref>
+				we do not know where you are going. How can we know the way?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43014006">
+			</marker>
+			<verse num="6">
+				Jesus said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					I am 
+					<crossref let="l" cid="c43014006.1">
+					</crossref>
+					the way, and 
+					<crossref let="m" cid="c43014006.2">
+					</crossref>
+					the truth, and 
+					<crossref let="n" cid="c43014006.3">
+					</crossref>
+					the life. No one comes to the Father except through me.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014007">
+			</marker>
+			<verse num="7" class="woc">
+				<woc
+					>
+					<crossref let="o" cid="c43014007.1">
+					</crossref>
+					If you had known me, you would have 
+					<crossref let="p" cid="c43014007.2">
+					</crossref>
+					known my Father also.
+					<note nid="n43014007.1">
+					</note>
+					 From now on you do know him and 
+					<crossref let="q" cid="c43014007.3">
+					</crossref>
+					have seen him.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43014008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				<crossref let="r" cid="c43014008.1">
+				</crossref>
+				Philip said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, 
+				<crossref let="s" cid="c43014008.2">
+				</crossref>
+				show us the Father, and it is enough for us.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43014009">
+			</marker>
+			<verse num="9">
+				Jesus said to him, 
+				<woc
+					>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Have I been with you so long, and you still do not know me, Philip? 
+					<crossref let="t" cid="c43014009.1">
+					</crossref>
+					Whoever has seen me has seen the Father. How can you say, 
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					Show us the Father
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					?
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014010">
+			</marker>
+			<verse num="10" class="woc">
+				<woc
+					>
+					Do you not believe that 
+					<crossref let="u" cid="c43014010.1">
+					</crossref>
+					I am in the Father and the Father is in me? The words that I say to you 
+					<crossref let="v" cid="c43014010.2">
+					</crossref>
+					I do not speak on my own authority, but the Father who dwells in me does his works.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014011">
+			</marker>
+			<verse num="11" class="woc">
+				<woc
+					>
+					Believe me that 
+					<crossref let="u" cid="c43014011.1">
+					</crossref>
+					I am in the Father and the Father is in me, or else 
+					<crossref let="w" cid="c43014011.2">
+					</crossref>
+					believe on account of the works themselves.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43014012">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="12" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					Truly, truly, I say to you, 
+					<crossref let="x" cid="c43014012.1">
+					</crossref>
+					whoever believes in me will also do the works that I do; and greater works than these will he do, because I 
+					<crossref let="y" cid="c43014012.2">
+					</crossref>
+					am going to the Father.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014013">
+			</marker>
+			<verse num="13" class="woc">
+				<woc
+					>
+					<crossref let="z" cid="c43014013.1">
+					</crossref>
+					Whatever you ask in my name, this I will do, that 
+					<crossref let="a" cid="c43014013.2">
+					</crossref>
+					the Father may be glorified in the Son.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014014">
+			</marker>
+			<verse num="14" class="woc">
+				<woc
+					>
+					<crossref let="z" cid="c43014014.1">
+					</crossref>
+					If you ask me
+					<note nid="n43014014.1">
+					</note>
+					 anything in my name, I will do it.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43014015">
+			</marker>
+			<heading
+				>
+				Jesus Promises the Holy Spirit
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="15" class="woc">
+				<woc
+					>
+					<crossref let="b" cid="c43014015.1">
+					</crossref>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					If you love me, you will 
+					<crossref let="c" cid="c43014015.2">
+					</crossref>
+					keep my commandments.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014016">
+			</marker>
+			<verse num="16" class="woc">
+				<woc
+					>
+					And I will ask the Father, and he will give you another 
+					<crossref let="d" cid="c43014016.1">
+					</crossref>
+					Helper,
+					<note nid="n43014016.1">
+					</note>
+					 to be with you forever,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014017">
+			</marker>
+			<verse num="17" class="woc">
+				<woc
+					>
+					even 
+					<crossref let="e" cid="c43014017.1">
+					</crossref>
+					the Spirit of truth, 
+					<crossref let="f" cid="c43014017.2">
+					</crossref>
+					whom the world cannot receive, because it neither sees him nor knows him. You know him, for he dwells with you and 
+					<crossref let="g" cid="c43014017.3">
+					</crossref>
+					will be in you.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43014018">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="18" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					I will not leave you as orphans; 
+					<crossref let="h" cid="c43014018.1">
+					</crossref>
+					I will come to you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014019">
+			</marker>
+			<verse num="19" class="woc">
+				<woc
+					>
+					<crossref let="i" cid="c43014019.1">
+					</crossref>
+					Yet a little while and the world will see me no more, but 
+					<crossref let="j" cid="c43014019.2">
+					</crossref>
+					you will see me. 
+					<crossref let="k" cid="c43014019.3">
+					</crossref>
+					Because I live, you also will live.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014020">
+			</marker>
+			<verse num="20" class="woc">
+				<woc
+					>
+					<crossref let="l" cid="c43014020.1">
+					</crossref>
+					In that day you will know that 
+					<crossref let="m" cid="c43014020.2">
+					</crossref>
+					I am in my Father, and 
+					<crossref let="n" cid="c43014020.3">
+					</crossref>
+					you in me, and 
+					<crossref let="o" cid="c43014020.4">
+					</crossref>
+					I in you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014021">
+			</marker>
+			<verse num="21" class="woc">
+				<woc
+					>
+					<crossref let="p" cid="c43014021.1">
+					</crossref>
+					Whoever has my commandments and 
+					<crossref let="q" cid="c43014021.2">
+					</crossref>
+					keeps them, he it is who loves me. And 
+					<crossref let="r" cid="c43014021.3">
+					</crossref>
+					he who loves me 
+					<crossref let="s" cid="c43014021.4">
+					</crossref>
+					will be loved by my Father, and I will love him and 
+					<crossref let="t" cid="c43014021.5">
+					</crossref>
+					manifest myself to him.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014022">
+			</marker>
+			<verse num="22">
+				<crossref let="u" cid="c43014022.1">
+				</crossref>
+				Judas (not Iscariot) said to him, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Lord, how is it 
+				<crossref let="v" cid="c43014022.2">
+				</crossref>
+				that you will manifest yourself to us, and not to the world?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+			</verse>
+			<marker class="begin-verse" mid="v43014023">
+			</marker>
+			<verse num="23">
+				Jesus answered him, 
+				<woc
+					>
+					<crossref let="w" cid="c43014023.1">
+					</crossref>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					If anyone loves me, he will keep my word, and my Father will love him, and 
+					<crossref let="x" cid="c43014023.2">
+					</crossref>
+					we will come to him and 
+					<crossref let="y" cid="c43014023.3">
+					</crossref>
+					make our home with him.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014024">
+			</marker>
+			<verse num="24" class="woc">
+				<woc
+					>
+					Whoever does not love me does not keep my words. And 
+					<crossref let="z" cid="c43014024.1">
+					</crossref>
+					the word that you hear is not mine but the Father's who sent me.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v43014025">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="25" class="woc">
+				<woc
+					>
+					<q class="continue-double" qid="" from="" to="">
+					</q>
+					These things I have spoken to you while I am still with you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014026">
+			</marker>
+			<verse num="26" class="woc">
+				<woc
+					>
+					But the 
+					<crossref let="a" cid="c43014026.1">
+					</crossref>
+					Helper, the Holy Spirit, 
+					<crossref let="b" cid="c43014026.2">
+					</crossref>
+					whom the Father will send in my name, 
+					<crossref let="c" cid="c43014026.3">
+					</crossref>
+					he will teach you all things and 
+					<crossref let="d" cid="c43014026.4">
+					</crossref>
+					bring to your remembrance all that I have said to you.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014027">
+			</marker>
+			<verse num="27" class="woc">
+				<woc
+					>
+					<crossref let="e" cid="c43014027.1">
+					</crossref>
+					Peace I leave with you; 
+					<crossref let="f" cid="c43014027.2">
+					</crossref>
+					my peace I give to you. Not as the world gives do I give to you. 
+					<crossref let="g" cid="c43014027.3">
+					</crossref>
+					Let not your hearts be troubled, neither 
+					<crossref let="h" cid="c43014027.4">
+					</crossref>
+					let them be afraid.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014028">
+			</marker>
+			<verse num="28" class="woc">
+				<woc
+					>
+					<crossref let="i" cid="c43014028.1">
+					</crossref>
+					You heard me say to you, 
+					<crossref let="j" cid="c43014028.2">
+					</crossref>
+					<q class="begin-single" qid="" from="" to="">
+					</q>
+					I am going away, and I will come to you.
+					<q class="end-single" qid="" from="" to="">
+					</q>
+					 If you loved me, you would have rejoiced, because I 
+					<crossref let="k" cid="c43014028.3">
+					</crossref>
+					am going to the Father, for 
+					<crossref let="l" cid="c43014028.4">
+					</crossref>
+					the Father is greater than I.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014029">
+			</marker>
+			<verse num="29" class="woc">
+				<woc
+					>
+					And 
+					<crossref let="m" cid="c43014029.1">
+					</crossref>
+					now I have told you before it takes place, so that when it does take place you may believe.
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014030">
+			</marker>
+			<verse num="30" class="woc">
+				<woc
+					>
+					I will no longer talk much with you, for 
+					<crossref let="n" cid="c43014030.1">
+					</crossref>
+					the ruler of this world is coming. 
+					<crossref let="o" cid="c43014030.2">
+					</crossref>
+					He has no claim on me,
+				</woc>
+			</verse>
+			<marker class="begin-verse" mid="v43014031">
+			</marker>
+			<verse num="31" class="woc">
+				<woc
+					>
+					but I do 
+					<crossref let="p" cid="c43014031.1">
+					</crossref>
+					as the Father has commanded me, 
+					<crossref let="q" cid="c43014031.2">
+					</crossref>
+					so that the world may know that I love the Father. Rise, let us go from here.
+				</woc>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

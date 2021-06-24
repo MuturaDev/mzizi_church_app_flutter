@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="1 Samuel" num="8">
+		<marker class="begin-verse" mid="v09031001">
+		</marker>
+		<chapter num="31">
+			<heading
+				>
+				The Death of Saul
+			</heading>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="1">
+				<crossref let="u" cid="c09031001.1">
+				</crossref>
+				Now the Philistines fought against Israel, and the men of Israel fled before the Philistines and fell slain 
+				<crossref let="v" cid="c09031001.2">
+				</crossref>
+				on Mount Gilboa.
+			</verse>
+			<marker class="begin-verse" mid="v09031002">
+			</marker>
+			<verse num="2">
+				And the Philistines overtook Saul and his sons, and the Philistines struck down 
+				<crossref let="w" cid="c09031002.1">
+				</crossref>
+				Jonathan and 
+				<crossref let="x" cid="c09031002.2">
+				</crossref>
+				Abinadab and Malchi-shua, the sons of Saul.
+			</verse>
+			<marker class="begin-verse" mid="v09031003">
+			</marker>
+			<verse num="3">
+				<crossref let="y" cid="c09031003.1">
+				</crossref>
+				The battle pressed hard against Saul, and the archers found him, and he was badly wounded by the archers.
+			</verse>
+			<marker class="begin-verse" mid="v09031004">
+			</marker>
+			<verse num="4">
+				<crossref let="z" cid="c09031004.1">
+				</crossref>
+				Then Saul said to his armor-bearer, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Draw your sword, and thrust me through with it, lest these 
+				<crossref let="a" cid="c09031004.2">
+				</crossref>
+				uncircumcised come and thrust me through, and mistreat me.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				 But his armor-bearer would not, 
+				<crossref let="b" cid="c09031004.3">
+				</crossref>
+				for he feared greatly. Therefore Saul took his own sword 
+				<crossref let="c" cid="c09031004.4">
+				</crossref>
+				and fell upon it.
+			</verse>
+			<marker class="begin-verse" mid="v09031005">
+			</marker>
+			<verse num="5">
+				And when his armor-bearer saw that Saul was dead, he also fell upon his sword and died with him.
+			</verse>
+			<marker class="begin-verse" mid="v09031006">
+			</marker>
+			<verse num="6">
+				Thus Saul died, and his three sons, and his armor-bearer, and all his men, on the same day together.
+			</verse>
+			<marker class="begin-verse" mid="v09031007">
+			</marker>
+			<verse num="7">
+				And when the men of Israel who were on the other side of the valley and those beyond the Jordan saw that the men of Israel had fled and that Saul and his sons were dead, they abandoned their cities and fled. And the Philistines came and lived in them.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v09031008">
+			</marker>
+			<begin-paragraph
+				>
+			</begin-paragraph>
+			<verse num="8">
+				The next day, when the Philistines came to strip the slain, they found Saul and his three sons fallen on Mount Gilboa.
+			</verse>
+			<marker class="begin-verse" mid="v09031009">
+			</marker>
+			<verse num="9">
+				So they cut off his head and stripped off his armor and sent messengers throughout the land of the Philistines, 
+				<crossref let="d" cid="c09031009.1">
+				</crossref>
+				to carry the good news 
+				<crossref let="e" cid="c09031009.2">
+				</crossref>
+				to the house of their idols and to the people.
+			</verse>
+			<marker class="begin-verse" mid="v09031010">
+			</marker>
+			<verse num="10">
+				<crossref let="f" cid="c09031010.1">
+				</crossref>
+				They put his armor in the temple of 
+				<crossref let="g" cid="c09031010.2">
+				</crossref>
+				Ashtaroth, and they fastened his body to the wall of 
+				<crossref let="h" cid="c09031010.3">
+				</crossref>
+				Beth-shan.
+			</verse>
+			<marker class="begin-verse" mid="v09031011">
+			</marker>
+			<verse num="11">
+				<crossref let="i" cid="c09031011.1">
+				</crossref>
+				But when the inhabitants of Jabesh-gilead heard what the Philistines had done to Saul,
+			</verse>
+			<marker class="begin-verse" mid="v09031012">
+			</marker>
+			<verse num="12">
+				<crossref let="j" cid="c09031012.1">
+				</crossref>
+				all the valiant men arose and went all night and took the body of Saul and the bodies of his sons from the wall of Beth-shan, and they came to Jabesh 
+				<crossref let="k" cid="c09031012.2">
+				</crossref>
+				and burned them there.
+			</verse>
+			<marker class="begin-verse" mid="v09031013">
+			</marker>
+			<verse num="13">
+				And they took their bones 
+				<crossref let="l" cid="c09031013.1">
+				</crossref>
+				and buried them under 
+				<crossref let="m" cid="c09031013.2">
+				</crossref>
+				the tamarisk tree in Jabesh and 
+				<crossref let="n" cid="c09031013.3">
+				</crossref>
+				fasted seven days.
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

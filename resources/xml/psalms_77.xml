@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19077001">
+		</marker>
+		<chapter num="77">
+			<heading
+				>
+				In the Day of Trouble I Seek the Lord
+			</heading>
+			<subheading class="psalm-title">
+				To the choirmaster: according to 
+				<crossref let="y" cid="c19077001.1">
+				</crossref>
+				Jeduthun. A Psalm of 
+				<crossref let="z" cid="c19077001.2">
+				</crossref>
+				Asaph.
+			</subheading>
+			<begin-block-indent
+				>
+			</begin-block-indent>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="1">
+				<begin-line
+					>
+				</begin-line>
+				I 
+				<crossref let="a" cid="c19077001.3">
+				</crossref>
+				cry aloud to God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				aloud to God, and he will hear me.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077002">
+			</marker>
+			<verse num="2">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c19077002.1">
+				</crossref>
+				In the day of my trouble I seek the Lord;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				in 
+				<crossref let="c" cid="c19077002.2">
+				</crossref>
+				the night my 
+				<crossref let="d" cid="c19077002.3">
+				</crossref>
+				hand is stretched out without wearying;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				my soul 
+				<crossref let="e" cid="c19077002.4">
+				</crossref>
+				refuses to be comforted.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077003">
+			</marker>
+			<verse num="3">
+				<begin-line
+					>
+				</begin-line>
+				When I remember God, I 
+				<crossref let="f" cid="c19077003.1">
+				</crossref>
+				moan;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when I meditate, my spirit faints. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19077004">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="4">
+				<begin-line
+					>
+				</begin-line>
+				You hold my eyelids open;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				I am so 
+				<crossref let="g" cid="c19077004.1">
+				</crossref>
+				troubled that I cannot speak.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077005">
+			</marker>
+			<verse num="5">
+				<begin-line
+					>
+				</begin-line>
+				I consider 
+				<crossref let="h" cid="c19077005.1">
+				</crossref>
+				the days of old,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the years long ago.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077006">
+			</marker>
+			<verse num="6">
+				<begin-line
+					>
+				</begin-line>
+				I said,
+				<note nid="n19077006.1">
+				</note>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Let me remember my 
+				<crossref let="i" cid="c19077006.1">
+				</crossref>
+				song in the night;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				let me 
+				<crossref let="j" cid="c19077006.2">
+				</crossref>
+				meditate in my heart.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Then my spirit made a diligent search:
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077007">
+			</marker>
+			<verse num="7">
+				<begin-line
+					>
+				</begin-line>
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				Will the Lord 
+				<crossref let="k" cid="c19077007.1">
+				</crossref>
+				spurn forever,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and never again 
+				<crossref let="l" cid="c19077007.2">
+				</crossref>
+				be favorable?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077008">
+			</marker>
+			<verse num="8">
+				<begin-line
+					>
+				</begin-line>
+				Has his steadfast love forever ceased?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				Are his 
+				<crossref let="m" cid="c19077008.1">
+				</crossref>
+				promises at an end for all time?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077009">
+			</marker>
+			<verse num="9">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="n" cid="c19077009.1">
+				</crossref>
+				Has God forgotten to be gracious?
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="o" cid="c19077009.2">
+				</crossref>
+				Has he in anger shut up his compassion?
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19077010">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="10">
+				<begin-line
+					>
+				</begin-line>
+				Then I said, 
+				<q class="begin-double" qid="" from="" to="">
+				</q>
+				I will appeal to this,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				to the years of the 
+				<crossref let="p" cid="c19077010.1">
+				</crossref>
+				right hand of the Most High.
+				<q class="end-double" qid="" from="" to="">
+				</q>
+				<note nid="n19077010.1">
+				</note>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19077011">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="11">
+				<begin-line
+					>
+				</begin-line>
+				I will remember the deeds of the 
+				<span class="divine-name">
+					Lord
+				</span>
+				;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				yes, I will 
+				<crossref let="q" cid="c19077011.1">
+				</crossref>
+				remember your wonders of old.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077012">
+			</marker>
+			<verse num="12">
+				<begin-line
+					>
+				</begin-line>
+				I will ponder all your 
+				<crossref let="r" cid="c19077012.1">
+				</crossref>
+				work,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				and meditate on your 
+				<crossref let="s" cid="c19077012.2">
+				</crossref>
+				mighty deeds.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077013">
+			</marker>
+			<verse num="13">
+				<begin-line
+					>
+				</begin-line>
+				Your way, O God, is 
+				<crossref let="t" cid="c19077013.1">
+				</crossref>
+				holy.
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="u" cid="c19077013.2">
+				</crossref>
+				What god is great like our God?
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077014">
+			</marker>
+			<verse num="14">
+				<begin-line
+					>
+				</begin-line>
+				You are the God who 
+				<crossref let="v" cid="c19077014.1">
+				</crossref>
+				works wonders;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				you have 
+				<crossref let="w" cid="c19077014.2">
+				</crossref>
+				made known your might among the peoples.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077015">
+			</marker>
+			<verse num="15">
+				<begin-line
+					>
+				</begin-line>
+				You 
+				<crossref let="x" cid="c19077015.1">
+				</crossref>
+				with your arm redeemed your people,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the children of Jacob and Joseph. 
+				<selah
+					>
+					Selah
+				</selah>
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<marker class="begin-verse" mid="v19077016">
+			</marker>
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<verse num="16">
+				<begin-line
+					>
+				</begin-line>
+				When 
+				<crossref let="y" cid="c19077016.1">
+				</crossref>
+				the waters saw you, O God,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				when the waters saw you, they were afraid;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				indeed, the deep trembled.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077017">
+			</marker>
+			<verse num="17">
+				<begin-line
+					>
+				</begin-line>
+				The clouds poured out water;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the skies 
+				<crossref let="z" cid="c19077017.1">
+				</crossref>
+				gave forth thunder;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your 
+				<crossref let="a" cid="c19077017.2">
+				</crossref>
+				arrows flashed on every side.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077018">
+			</marker>
+			<verse num="18">
+				<begin-line
+					>
+				</begin-line>
+				<crossref let="b" cid="c19077018.1">
+				</crossref>
+				The crash of your thunder was in the whirlwind;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				<crossref let="c" cid="c19077018.2">
+				</crossref>
+				your lightnings lighted up the world;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				the earth 
+				<crossref let="d" cid="c19077018.3">
+				</crossref>
+				trembled and shook.
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077019">
+			</marker>
+			<verse num="19">
+				<begin-line
+					>
+				</begin-line>
+				Your 
+				<crossref let="e" cid="c19077019.1">
+				</crossref>
+				way was through the sea,
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				your path through the great waters;
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				yet your footprints 
+				<crossref let="f" cid="c19077019.2">
+				</crossref>
+				were unseen.
+				<note nid="n19077019.1">
+				</note>
+				<end-line class="br">
+				</end-line>
+			</verse>
+			<marker class="begin-verse" mid="v19077020">
+			</marker>
+			<verse num="20">
+				<begin-line
+					>
+				</begin-line>
+				You 
+				<crossref let="g" cid="c19077020.1">
+				</crossref>
+				led your people like a flock
+				<end-line class="br">
+				</end-line>
+				<begin-line class="indent">
+				</begin-line>
+				by the hand of Moses and Aaron.
+				<end-line
+					>
+				</end-line>
+			</verse>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+
