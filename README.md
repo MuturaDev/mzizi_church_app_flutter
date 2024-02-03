@@ -83,6 +83,11 @@ Mzizi CMS relies on the following dependencies:
 
 List any additional dependencies and their versions in this section.
 
+Web System
+------------
+
+      'https://cedibut.com/school-church-erp/'
+
 Deployed on Playstore
 ------------
 
