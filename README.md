@@ -52,6 +52,10 @@ Features
 -   Members can use the mobile app to chat with church staff for inquiries.
 -   Streamline communication between members and the church.
 
+### 6\. Integrated Bible Feature:
+-   Access the Bible directly within the mobile app.
+-   Read and search for verses, enhancing members' spiritual engagement.
+
 Getting Started
 ---------------
 
