@@ -788,7 +788,7 @@ class ApiController {
           : "/PortalWebServices/StudentInfo.asmx/PortalAppSavePortalApplications";
       try {
         var uriResponse = await client.post(
-            responseSetting.GlobalSettingValue + url,
+            Uri.parse(responseSetting.GlobalSettingValue + url),
             body: payload.toJson());
 
         if (uriResponse.statusCode == 200) {
@@ -848,7 +848,7 @@ class ApiController {
           : "/PortalWebServices/StudentInfo.asmx/PortalAppGetPortalPhotoGallery";
       try {
         var uriResponse = await client.post(
-            responseSetting.GlobalSettingValue + url,
+            Uri.parse(responseSetting.GlobalSettingValue + url),
             body: {"OrganizationID": request[0].OrganizationID});
         body = json
             .decode(uriResponse.body.toString().replaceAll('{"d":null}', ""));
