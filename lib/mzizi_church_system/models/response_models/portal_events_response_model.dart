@@ -1,22 +1,17 @@
-import 'package:floor/floor.dart';
 
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_events_response_model.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalEvents{
-
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  String EventsTitle;
-  String Venue;
-  String StartDate;
-  String EndDate;
-  String StartTime;
-  String EndTime;
-  String Description;
+  int? id;
+  String? EventsTitle;
+  String? Venue;
+  String? StartDate;
+  String? EndDate;
+  String? StartTime;
+  String? EndTime;
+  String? Description;
 
   PortalEvents(
     this.id,

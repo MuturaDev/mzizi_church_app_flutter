@@ -1,15 +1,14 @@
 import 'package:mzizichurchsystem/mzizi_bible/Feature/InheritedBlocs.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/ChapterElements/Verse.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/foundation.dart';
 import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
 
 class SearchResults extends StatelessWidget {
-  const SearchResults({Key key, @required this.results, this.controller})
+  const SearchResults({Key? key, required this.results, this.controller})
       : super(key: key);
 
   final UnmodifiableListView<Verse> results;
-  final ScrollController controller;
+  final ScrollController? controller;
 
   @override
   Widget build(BuildContext context) {
@@ -29,14 +28,14 @@ class SearchResults extends StatelessWidget {
             child: ListTile(
               title: Text(verse.text),
               subtitle: Text(
-                  "${verse.chapter.book.name} ${verse.chapter.number}:${verse.number}"),
+                  "${verse.chapter!.book!.name} ${verse.chapter!.number}:${verse.number}"),
               onTap: () async {
                 InheritedBlocs.of(context)
                     .bibleBloc
                     .currentPopupChapterReference
                     .add(
                       ChapterReference(
-                        chapter: verse.chapter,
+                        chapter: verse.chapter!,
                         verseNumber: verse.number,
                       ),
                     );

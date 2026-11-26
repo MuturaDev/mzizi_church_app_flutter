@@ -4,7 +4,6 @@ import 'package:bubble/bubble.dart';
 import 'package:enhanced_future_builder/enhanced_future_builder.dart';
 import 'package:flutter/material.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/authenticate_user_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/portal_notification_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_notification_message.dart';
@@ -16,7 +15,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart'
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
 
 class PortalNotificationPage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
   PortalNotificationPage({this.onMenuPressedHere});
   @override
   _PortalNotificationPageState createState() => _PortalNotificationPageState();
@@ -24,8 +23,8 @@ class PortalNotificationPage extends KFDrawerContent {
 
 class _PortalNotificationPageState extends State<PortalNotificationPage> {
   bool _readOrNotRead = true;
-  String _notificaitonText;
-  String _notificationDate;
+  late String _notificaitonText;
+  late String _notificationDate;
   bool _tapOrNot = true;
 
   Future<dynamic> _optionToFetchOnline() async {
@@ -33,13 +32,13 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
       if (await UtilityFunctions.checkConnection()) {
         await new PortalNotificationDAO().deletePortalNotification(
             await new PortalNotificationDAO().getPortalNotification());
-        Student student = await AuthenticateUserDAO().getStudent();
+        Student? student = await AuthenticateUserDAO().getStudent();
         // Student student = new Student("1391", "1000");
         if (student != null) {
           List<PortalNotification> notificationList =
               await new PortalNotificationDAO().getLastNotification();
 
-          List<PortalNotificationMessage> notificationMessageList = new List();
+          List<PortalNotificationMessage> notificationMessageList = [];
           if (notificationList.isNotEmpty) {
             for (PortalNotification notification in notificationList) {
               PortalNotificationRequest notificationRequest =
@@ -71,21 +70,21 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
                           msgIsEvents: false,
                           msgIsResults: false);
 
-                  if (notificationMessage.Msg.contains("Results") ||
-                      notificationMessage.Msg.contains("term") ||
-                      notificationMessage.Msg.contains('results')) {
+                  if (notificationMessage.Msg!.contains("Results") ||
+                      notificationMessage.Msg!.contains("term") ||
+                      notificationMessage.Msg!.contains('results')) {
                     notificationMessage.msgIsResults = true;
-                  } else if (notificationMessage.Msg.contains("receipt") ||
-                      notificationMessage.Msg.contains("transaction") ||
-                      notificationMessage.Msg.contains("Receipt") ||
-                      notificationMessage.Msg.contains("Transaction")) {
+                  } else if (notificationMessage.Msg!.contains("receipt") ||
+                      notificationMessage.Msg!.contains("transaction") ||
+                      notificationMessage.Msg!.contains("Receipt") ||
+                      notificationMessage.Msg!.contains("Transaction")) {
                     notificationMessage.msgIsTransaction = true;
-                  } else if (notificationMessage.Msg.contains("event") ||
-                      notificationMessage.Msg.contains("Event")) {
+                  } else if (notificationMessage.Msg!.contains("event") ||
+                      notificationMessage.Msg!.contains("Event")) {
                     notificationMessage.msgIsEvents = true;
                   }
-                  if (notificationMessage.Msg.contains("chat") ||
-                      notificationMessage.Msg.contains("Chat")) {
+                  if (notificationMessage.Msg!.contains("chat") ||
+                      notificationMessage.Msg!.contains("Chat")) {
                     notificationMessage.msgIsChat = true;
                   }
 
@@ -95,7 +94,7 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
 
               //add the new notification for new notifications
               //TODO: Sending read notification should be sent later when the workmanager is working
-              // List<AppNotificationCount> appnotifCountList = new List();
+              // List<AppNotificationCount> appnotifCountList = [];
               // for (PortalNotification notification in notifications) {
               //   AppNotificationCount notificationCount =
               //       new AppNotificationCount(notification.MsgID);
@@ -129,21 +128,21 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
                         msgIsEvents: false,
                         msgIsResults: false);
 
-                if (notificationMessage.Msg.contains("Results") ||
-                    notificationMessage.Msg.contains("term") ||
-                    notificationMessage.Msg.contains('results')) {
+                if (notificationMessage.Msg!.contains("Results") ||
+                    notificationMessage.Msg!.contains("term") ||
+                    notificationMessage.Msg!.contains('results')) {
                   notificationMessage.msgIsResults = true;
-                } else if (notificationMessage.Msg.contains("receipt") ||
-                    notificationMessage.Msg.contains("transaction") ||
-                    notificationMessage.Msg.contains("Receipt") ||
-                    notificationMessage.Msg.contains("Transaction")) {
+                } else if (notificationMessage.Msg!.contains("receipt") ||
+                    notificationMessage.Msg!.contains("transaction") ||
+                    notificationMessage.Msg!.contains("Receipt") ||
+                    notificationMessage.Msg!.contains("Transaction")) {
                   notificationMessage.msgIsTransaction = true;
-                } else if (notificationMessage.Msg.contains("event") ||
-                    notificationMessage.Msg.contains("Event")) {
+                } else if (notificationMessage.Msg!.contains("event") ||
+                    notificationMessage.Msg!.contains("Event")) {
                   notificationMessage.msgIsEvents = true;
                 }
-                if (notificationMessage.Msg.contains("chat") ||
-                    notificationMessage.Msg.contains("Chat")) {
+                if (notificationMessage.Msg!.contains("chat") ||
+                    notificationMessage.Msg!.contains("Chat")) {
                   notificationMessage.msgIsChat = true;
                 }
 
@@ -172,7 +171,7 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
   Future<List<PortalNotificationMessage>> showNewNotifications(
     List<PortalNotification> notificationList,
   ) async {
-    List<PortalNotificationMessage> notificationMessageList = new List();
+    List<PortalNotificationMessage> notificationMessageList = [];
 
     for (PortalNotification notif in notificationList) {
       PortalNotificationMessage notificationMessage =
@@ -183,21 +182,21 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
               msgIsEvents: false,
               msgIsResults: false);
 
-      if (notificationMessage.Msg.contains("Results") ||
-          notificationMessage.Msg.contains("term") ||
-          notificationMessage.Msg.contains('results')) {
+      if (notificationMessage.Msg!.contains("Results") ||
+          notificationMessage.Msg!.contains("term") ||
+          notificationMessage.Msg!.contains('results')) {
         notificationMessage.msgIsResults = true;
-      } else if (notificationMessage.Msg.contains("receipt") ||
-          notificationMessage.Msg.contains("transaction") ||
-          notificationMessage.Msg.contains("Receipt") ||
-          notificationMessage.Msg.contains("Transaction")) {
+      } else if (notificationMessage.Msg!.contains("receipt") ||
+          notificationMessage.Msg!.contains("transaction") ||
+          notificationMessage.Msg!.contains("Receipt") ||
+          notificationMessage.Msg!.contains("Transaction")) {
         notificationMessage.msgIsTransaction = true;
-      } else if (notificationMessage.Msg.contains("event") ||
-          notificationMessage.Msg.contains("Event")) {
+      } else if (notificationMessage.Msg!.contains("event") ||
+          notificationMessage.Msg!.contains("Event")) {
         notificationMessage.msgIsEvents = true;
       }
-      if (notificationMessage.Msg.contains("chat") ||
-          notificationMessage.Msg.contains("Chat")) {
+      if (notificationMessage.Msg!.contains("chat") ||
+          notificationMessage.Msg!.contains("Chat")) {
         notificationMessage.msgIsChat = true;
       }
 
@@ -209,9 +208,10 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
 
   final _controller = ScrollController();
 
-  Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() async {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
+    return false;
   }
 
   @override
@@ -324,13 +324,13 @@ class _PortalNotificationPageState extends State<PortalNotificationPage> {
 Widget _buildListViewItemWidget(
   PortalNotificationMessage notification,
 ) {
-  bool _tapOrNot = notification.msgIsChat ||
-          notification.msgIsEvents ||
-          notification.msgIsResults ||
-          notification.msgIsTransaction
+  bool _tapOrNot = notification.msgIsChat! ||
+          notification.msgIsEvents! ||
+          notification.msgIsResults! ||
+          notification.msgIsTransaction!
       ? true
       : false;
-  bool _readOrNotRead = notification.isRead;
+  bool _readOrNotRead = notification.isRead!;
 
   return Container(
     margin: EdgeInsets.only(top: 0.0, bottom: 5.0),
@@ -402,7 +402,7 @@ Widget _bubbleWidget(
               width: double.infinity,
               margin: EdgeInsets.only(bottom: 20.0),
               child: Text(
-                notification.Msg,
+                notification.Msg ?? '',
                 // CustomStrings
                 //     .exampleText /*,overflow: TextOverflow.visible,textAlign: TextAlign.left*/,
                 style: TextStyle(
@@ -418,7 +418,7 @@ Widget _bubbleWidget(
               child: Container(
                   child: Row(
                 children: <Widget>[
-                  _dateWidget(notification.DateSent, _readOrNotRead),
+                  _dateWidget(notification.DateSent ?? '', _readOrNotRead),
                   _readOrNotReadWidget(_readOrNotRead)
                 ],
               )),

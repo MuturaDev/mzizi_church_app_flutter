@@ -3,9 +3,9 @@ import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_na
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
 
 class Dashboard extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
 
-  Dashboard({this.onMenuPressedHere, Key key});
+  Dashboard({required this.onMenuPressedHere, Key? key});
 
   @override
   _DashboardState createState() => _DashboardState();
@@ -381,9 +381,9 @@ class _DashboardState extends State<Dashboard> {
 }
 
 class CommunicationModel {
-  IconData icon;
-  String title;
-  List<String> subTitle;
+  late IconData icon;
+  late String title;
+  late List<String> subTitle;
 
   CommunicationModel(IconData icon, String title, List<String> subTitle) {
     this.icon = icon;

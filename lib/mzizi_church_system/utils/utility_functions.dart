@@ -3,7 +3,6 @@ import 'dart:io';
 //import 'package:connectivity/connectivity.dart';
 //import 'package:flutter_money_formatter/flutter_money_formatter.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_money_formatter/flutter_money_formatter.dart';
 
 import 'package:intl/intl.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system/flavour_config.dart';
@@ -17,7 +16,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/tabs/playstore_feature_upd
 class UtilityFunctions {
   //The test to actually see if there is a connection
   //https://stackoverflow.com/questions/49648022/check-whether-there-is-an-internet-connection-available-on-flutter-app
-  static Future<bool> checkConnection({BuildContext context = null}) async {
+  static Future<bool> checkConnection({BuildContext? context}) async {
     //CHECK INTERNET CONNECTION
     bool hasConnection;
     try {
@@ -67,7 +66,7 @@ class UtilityFunctions {
         MziziAppVersion version =
             await ApiController.sendRequestForMziziAppVersion(request);
 
-        if (version.ForceUpdate) {
+        if (version.ForceUpdate!) {
           Navigator.pushReplacement(
               context,
               MaterialPageRoute(
@@ -104,17 +103,9 @@ class UtilityFunctions {
   }
 
   static String formatToCurrencyWithMoneyFormatterPUB(String n) {
-    FlutterMoneyFormatter fmf = new FlutterMoneyFormatter(
-        amount: double.parse(n),
-        settings: MoneyFormatterSettings(
-            symbol: 'Ksh ',
-            thousandSeparator: ',',
-            decimalSeparator: '.',
-            symbolAndNumberSeparator: ' ',
-            fractionDigits: 2,
-            compactFormatType: CompactFormatType.short));
-
-    return fmf.output.symbolOnLeft.toString();
+    // Same output as flutter_money_formatter's symbolOnLeft: "Ksh  1,234.56".
+    return NumberFormat.currency(locale: 'en_US', symbol: 'Ksh  ', decimalDigits: 2)
+        .format(double.parse(n));
   }
 
   static String getVideoIDFromYoutubeUrl(String url) {
@@ -125,14 +116,14 @@ class UtilityFunctions {
   static dynamic filterChurchServicesByDateAndServiceType(DateTime _dateTime,
       String selectedServiceType, List<PortalChurchServices> responseList) {
     //Filter with date
-    List<PortalChurchServices> filterListWithDate = new List();
+    List<PortalChurchServices> filterListWithDate = [];
     //https://stackoverflow.com/questions/16126579/how-do-i-format-a-date-with-dart
     final DateFormat formatter = DateFormat('yyyy-MM-dd');
     final String selectedChurchDate = formatter.format(_dateTime);
 
     for (var service in responseList) {
       final String churchDate =
-          _getFormatedChurchDate(service.ChurchServiceDate);
+          _getFormatedChurchDate(service.ChurchServiceDate ?? '');
       if (churchDate == selectedChurchDate) {
         filterListWithDate.add(service);
       }
@@ -140,7 +131,7 @@ class UtilityFunctions {
 
     //Filter with service type
 
-    List<PortalChurchServices> filterListWithServiceType = new List();
+    List<PortalChurchServices> filterListWithServiceType = [];
     // if (selectedServiceType == "-1") {
     for (var service in filterListWithDate) {
       if (service.ServiceType == selectedServiceType) {
@@ -170,7 +161,7 @@ class UtilityFunctions {
     var spliteDate = dateToSplite.split(" ");
     var dateParts = spliteDate[0].split("/"); //0=month, 1=day, 2=year
 
-    DateTime date; //2020-09-6
+    DateTime? date; //2020-09-6
     try {
       //2020-08-30
       var month =
@@ -181,6 +172,6 @@ class UtilityFunctions {
     } catch (e) {
       // return responseList;
     }
-    return formatter.format(date);
+    return formatter.format(date!);
   }
 }

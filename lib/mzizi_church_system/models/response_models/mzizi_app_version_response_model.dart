@@ -1,17 +1,12 @@
 
 
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'mzizi_app_version_response_model.g.dart';
-
-@entity
 @JsonSerializable()
 class MziziAppVersion{
-
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  bool ForceUpdate;
+  int? id;
+  bool? ForceUpdate;
 
   MziziAppVersion(
     this.id,

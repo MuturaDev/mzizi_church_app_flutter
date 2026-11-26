@@ -1,9 +1,10 @@
 import 'dart:io';
 
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_phoenix/flutter_phoenix.dart';
+import 'package:flutter_quill/flutter_quill.dart' show FlutterQuillLocalizations;
 import 'package:global_configuration/global_configuration.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Feature/InheritedBlocs.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Feature/Navigation/navigation_bloc.dart';
@@ -14,31 +15,8 @@ import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/MultiPartXmlBi
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/ReferenceProvider.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Search/XmlBibleProvider.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Project/Designs/DarkDesign.dart';
-import 'package:mzizichurchsystem/mzizi_bible/main_bible.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/example_screens/date_picker_example.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/example_screens/date_time_picker_example.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/example_screens/drop_down_example.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/example_screens/main_advance.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/example_screens/main_example.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/example_screens/main_gallery.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/example_screens/main_lite.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/example_screens/time-picker_screen.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/welcome_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/example_screens/youtube_video_example.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system/flavour_config.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/screens/Screen.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/screens/dashboard_screen.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/auth_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/check_in_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/give_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/more_announcements_details_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/photo_full_screen_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/playstore_feature_update.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_application_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_chat_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_photo_gallery_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_video_gallery_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/sermon_series_tab.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/class_builder.dart';
 
 
@@ -124,6 +102,13 @@ class MyApp extends StatelessWidget {
       searchBloc: SearchBloc(XmlBibleProvider()),
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
+        // Required by the flutter_quill note editor.
+        localizationsDelegates: const [
+          GlobalMaterialLocalizations.delegate,
+          GlobalCupertinoLocalizations.delegate,
+          GlobalWidgetsLocalizations.delegate,
+          FlutterQuillLocalizations.delegate,
+        ],
         debugShowMaterialGrid: false,
         showSemanticsDebugger: false,
         theme: Designs.getDarkTheme(),
@@ -167,59 +152,6 @@ class MyApp extends StatelessWidget {
         //home:MyApp2(),
         //home:TimePickerScreen()
       ),
-    );
-  }
-}
-
-//LEFT DRAWER NAVIGATION EXAMPLE
-
-//BOTTOM NAVIGATION EXAMPLE
-class ExampleScreens extends StatefulWidget {
-  @override
-  _ExampleScreensState createState() => _ExampleScreensState();
-}
-
-class _ExampleScreensState extends State<ExampleScreens> {
-  @override
-  Widget build(BuildContext context) {
-    return SafeArea(
-      child: Scaffold(
-          body: Container(
-        child: Center(
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            children: <Widget>[
-              FlatButton(
-                  onPressed: () {
-                    Navigator.push(context,
-                        MaterialPageRoute(builder: (context) => TabPage()));
-                  },
-                  child: Text("Main_advance")),
-              SizedBox(height: 10),
-              FlatButton(
-                  onPressed: () {
-                    // Navigator.push(context,
-                    //     MaterialPageRoute(builder: (context) => MyHomePage()));
-                  },
-                  child: Text("Main_gallery")),
-              SizedBox(height: 10),
-              FlatButton(
-                  onPressed: () {
-                    Navigator.push(context,
-                        MaterialPageRoute(builder: (context) => MyHomePage2()));
-                  },
-                  child: Text("Main_lite")),
-              SizedBox(height: 10),
-              FlatButton(
-                  onPressed: () {
-                    Navigator.push(context,
-                        MaterialPageRoute(builder: (context) => Example()));
-                  },
-                  child: Text("Main")),
-            ],
-          ),
-        ),
-      )),
     );
   }
 }

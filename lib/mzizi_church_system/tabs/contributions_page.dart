@@ -1,7 +1,5 @@
 import 'dart:async';
-import 'dart:io';
 
-import 'package:dropdownfield/dropdownfield.dart';
 import 'package:enhanced_future_builder/enhanced_future_builder.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
@@ -10,18 +8,16 @@ import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/home_recent_tr
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/progress_button.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/authenticate_user_dao.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/example_screens/login_page_example.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_student_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/make_a_pledge_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/charge_type_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_widgets.dart';
-import 'package:sweetalert/sweetalert.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/sweet_alert.dart';
 
 class PortalContributionsPage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
 
   PortalContributionsPage({this.onMenuPressedHere});
 
@@ -33,7 +29,7 @@ class PortalContributionsPage extends KFDrawerContent {
 TextEditingController amountController = new TextEditingController();
 var selectedChargeType = "";
 final _formKey = GlobalKey<FormState>();
-List<PortalChargeTypeResponseModel> responseList;
+late List<PortalChargeTypeResponseModel> responseList;
 
 class _PortalContributionsPageState extends State<PortalContributionsPage> {
   static TextEditingController getAmountController() {
@@ -55,9 +51,10 @@ class _PortalContributionsPageState extends State<PortalContributionsPage> {
     amountController.dispose();
   }
 
-  Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() async {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
+    return false;
   }
 
   @override
@@ -153,7 +150,7 @@ class _PortalContributionsPageState extends State<PortalContributionsPage> {
                                               responseList = data;
                                               if (selectedChargeType.isEmpty) {
                                                 selectedChargeType =
-                                                    responseList[0].ID;
+                                                    responseList[0].ID ?? '';
                                               }
 
                                               return Container(
@@ -172,10 +169,10 @@ class _PortalContributionsPageState extends State<PortalContributionsPage> {
                                                       color: Colors.grey,
                                                     ),
                                                     onChanged:
-                                                        (String newValue) {
+                                                        (String? newValue) {
                                                       setState(() {
                                                         selectedChargeType =
-                                                            newValue;
+                                                            newValue!;
                                                       });
                                                     },
                                                     items: responseList.map<
@@ -187,7 +184,7 @@ class _PortalContributionsPageState extends State<PortalContributionsPage> {
                                                           String>(
                                                         value: value.ID,
                                                         child: Text(
-                                                          value.ChargeTypeName,
+                                                          value.ChargeTypeName ?? '',
                                                           style: TextStyle(
                                                               fontSize: 15),
                                                         ),
@@ -223,7 +220,7 @@ class _PortalContributionsPageState extends State<PortalContributionsPage> {
                                   keyboardType: TextInputType.number,
                                   style: TextStyle(
                                       fontSize: 15, color: Colors.black),
-                                  autovalidate: false,
+                                  autovalidateMode: AutovalidateMode.disabled,
                                   validator: (dynamic value) {
                                     if (value.isEmpty) {
                                       return 'Please provide a value for ' +
@@ -263,7 +260,7 @@ class _PortalContributionsPageState extends State<PortalContributionsPage> {
                   shape: BoxShape.circle,
                 ),
                 child: Icon(
-                  FontAwesomeIcons.heart,
+                  FontAwesomeIcons.heart.data,
                   color: Color(0xFF487890),
                   size: 50,
                 ),
@@ -347,12 +344,12 @@ class _LoginProgressButtonState extends State<LoginProgressButton> {
 
         for (PortalChargeTypeResponseModel chargeType in responseList) {
           if (chargeType.ID == chargeTypeID) {
-            chargeTypeName = chargeType.ChargeTypeName;
+            chargeTypeName = chargeType.ChargeTypeName ?? '';
             break;
           }
         }
 
-        Student student = await AuthenticateUserDAO().getStudent();
+        Student student = (await AuthenticateUserDAO().getStudent())!;
         final dynamic auth = await AuthenticateUserDAO().getUser();
 
         PortalMakeAPledge payload = new PortalMakeAPledge(
@@ -371,7 +368,7 @@ class _LoginProgressButtonState extends State<LoginProgressButton> {
         if (response["StatusCode"] == "200") {
           setState(() {
             amountController.text = '';
-            selectedChargeType = responseList[0].ID;
+            selectedChargeType = responseList[0].ID ?? '';
             SweetAlert.show(context,
                 title: "Successful",
                 subtitle: response["Message"],
@@ -419,7 +416,7 @@ class _LoginProgressButtonState extends State<LoginProgressButton> {
         final snackBar = SnackBar(content: Text('' + above));
 
         // Find the Scaffold in the widget tree and use it to show a SnackBar.
-        Scaffold.of(context).showSnackBar(snackBar);
+        ScaffoldMessenger.of(context).showSnackBar(snackBar);
       }
     } else {
       Fluttertoast.showToast(

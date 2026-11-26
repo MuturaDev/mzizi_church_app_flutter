@@ -1,20 +1,15 @@
 
 
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_global_settings_request_model.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalGlobalSettings{
-
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  String SettingName;
-  String OrganizationID;
-  String AppCode;
-  String SettingValue;
+  int? id;
+  String? SettingName;
+  String? OrganizationID;
+  String? AppCode;
+  String? SettingValue;
   
   
   PortalGlobalSettings(

@@ -1,31 +1,23 @@
 import 'dart:async';
-import 'dart:io';
 
 import 'package:enhanced_future_builder/enhanced_future_builder.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
-import 'package:flutter_cupertino_date_picker/flutter_cupertino_date_picker.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:intl/intl.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/progress_button.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/authenticate_user_dao.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/dummy_json_test/dummy_json.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/login_page_example.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_student_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/self_enroll_application_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_church_services_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/service_types_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_widgets.dart';
-import 'package:sweetalert/sweetalert.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/sweet_alert.dart';
 
 class PortalApplications extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
   PortalApplications({this.onMenuPressedHere});
   @override
   _PortalApplicationsState createState() => _PortalApplicationsState();
@@ -44,7 +36,7 @@ String serviceCapcity = "0%";
 dynamic servicesList;
 
 //DATE PICKER
-DateTime _dateTime;
+late DateTime _dateTime;
 
 class _PortalApplicationsState extends State<PortalApplications> {
   static TextEditingController getDateBookedController() {
@@ -97,13 +89,13 @@ class _PortalApplicationsState extends State<PortalApplications> {
   }
 
   void handleButton(context) async {
-    DateTime chosenDate = await showDatePicker(
+    DateTime? chosenDate = (await showDatePicker(
       context: context,
       firstDate: DateTime(DateTime.now().year),
       lastDate: DateTime(2100),
       initialDate: defineInitialDate(),
       selectableDayPredicate: defineSelectable,
-      builder: (BuildContext context, Widget child) {
+      builder: (BuildContext context, Widget? child) {
         return Theme(
           data: ThemeData.light().copyWith(
               // buttonTheme: ButtonThemeData(
@@ -112,13 +104,12 @@ class _PortalApplicationsState extends State<PortalApplications> {
               colorScheme: ColorScheme.light(primary: const Color(0xFF487890)),
               // primarySwatch: Color(0xFF487890),//OK/Cancel button text color
               primaryColor: const Color(0xFF487890), //Head background
-              accentColor: const Color(0xFF487890) //selection color
               //dialogBackgroundColor: Colors.white,//Background color
               ),
-          child: child,
+          child: child!,
         );
       },
-    );
+    ));
 
     if (chosenDate != null) {
       setState(() {
@@ -150,9 +141,10 @@ class _PortalApplicationsState extends State<PortalApplications> {
     ageController.dispose();
   }
 
-  Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() async {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
+    return false;
   }
 
   @override
@@ -303,11 +295,11 @@ class _PortalApplicationsState extends State<PortalApplications> {
     //     churchServiceList[1].ServiceDescription.split('-')[1];
 
     if (selectedChurchService.isEmpty) {
-      selectedChurchService = churchServiceList[0].ID;
+      selectedChurchService = churchServiceList[0].ID ?? '';
     }
 
     if (selectedServiceType.isEmpty) {
-      selectedServiceType = serviceTypeList[0].ID;
+      selectedServiceType = serviceTypeList[0].ID ?? '';
     }
 
     if (churchServiceList.length <= 0) {
@@ -385,7 +377,7 @@ class _PortalApplicationsState extends State<PortalApplications> {
             enabled: true,
             //keyboardType: keyboardType,
             style: TextStyle(fontSize: 15, color: Colors.black),
-            autovalidate: false,
+            autovalidateMode: AutovalidateMode.disabled,
             validator: (dynamic value) {
               if (value.isEmpty) {
                 return 'Please provide a value for ' + "Age" + '';
@@ -427,9 +419,9 @@ class _PortalApplicationsState extends State<PortalApplications> {
                           height: 2,
                           color: Colors.grey,
                         ),
-                        onChanged: (String newValue) {
+                        onChanged: (String? newValue) {
                           setState(() {
-                            selectedServiceType = newValue;
+                            selectedServiceType = newValue!;
                           });
                         },
                         items: serviceTypeList.map<DropdownMenuItem<String>>(
@@ -437,7 +429,7 @@ class _PortalApplicationsState extends State<PortalApplications> {
                           return DropdownMenuItem<String>(
                             value: value.ID,
                             child: Text(
-                              value.Name,
+                              value.Name ?? '',
                               style:
                                   TextStyle(fontSize: 15, color: Colors.black),
                             ),
@@ -476,16 +468,16 @@ class _PortalApplicationsState extends State<PortalApplications> {
                           height: 2,
                           color: Colors.grey,
                         ),
-                        onChanged: (String newValue) {
+                        onChanged: (String? newValue) {
                           setState(() {
-                            selectedChurchService = newValue;
+                            selectedChurchService = newValue!;
                             _showCapacityInstru = true;
 
                             for (var obj in churchServiceList) {
                               if (obj.ID == newValue) {
                                 //double.parse(obj.Capacity)
-                                if (obj.Capacity.isEmpty) obj.Capacity = "0";
-                                serviceCapcity = obj.Capacity + '%';
+                                if (obj.Capacity!.isEmpty) obj.Capacity = "0";
+                                serviceCapcity = obj.Capacity! + '%';
                                 break;
                               }
                             }
@@ -496,11 +488,11 @@ class _PortalApplicationsState extends State<PortalApplications> {
                           return DropdownMenuItem<String>(
                             value: value.ID,
                             child: Text(
-                              value.ServiceDescription.contains('-')
-                                  ? value.ServiceDescription.split('-')[0] +
+                              (value.ServiceDescription!.contains('-')
+                                  ? value.ServiceDescription!.split('-')[0] +
                                       '\n-' +
-                                      value.ServiceDescription.split('-')[1]
-                                  : value.ServiceDescription,
+                                      value.ServiceDescription!.split('-')[1]
+                                  : value.ServiceDescription) ?? '',
                               style:
                                   TextStyle(fontSize: 15, color: Colors.black),
                             ),
@@ -523,7 +515,7 @@ class _PortalApplicationsState extends State<PortalApplications> {
             enabled: true,
             //keyboardType: keyboardType,
             style: TextStyle(fontSize: 15, color: Colors.black),
-            autovalidate: false,
+            autovalidateMode: AutovalidateMode.disabled,
             validator: (dynamic value) {
               if (value.isEmpty) {
                 return 'Please provide a value for ' +
@@ -630,12 +622,12 @@ class _LoginProgressButtonState extends State<LoginProgressButton> {
 
         for (PortalChurchServices service in servicesList) {
           if (service.ID == selectChurchService) {
-            startTime = service.StartTime;
+            startTime = service.StartTime ?? '';
             break;
           }
         }
 
-        //Student student = await AuthenticateUserDAO().getStudent();
+        //Student? student = await AuthenticateUserDAO().getStudent();
         final dynamic auth = await AuthenticateUserDAO().getUser();
 
         final DateFormat formatter = DateFormat('yyyy-MM-dd');
@@ -682,7 +674,7 @@ class _LoginProgressButtonState extends State<LoginProgressButton> {
         final snackBar = SnackBar(content: Text('' + above));
 
         // Find the Scaffold in the widget tree and use it to show a SnackBar.
-        Scaffold.of(context).showSnackBar(snackBar);
+        ScaffoldMessenger.of(context).showSnackBar(snackBar);
       }
     } else {
       Fluttertoast.showToast(

@@ -7,25 +7,25 @@ part of 'portal_recent_transaction_response.dart';
 // **************************************************************************
 
 PortalRecentTransaction _$PortalRecentTransactionFromJson(
-    Map<String, dynamic> json) {
-  return PortalRecentTransaction(
-      json['id'] as int,
-      json['RefNo'] as String,
-      json['TranType'] as String,
-      json['TranDate'] as String,
-      json['TranAmount'] as String,
-      json['BalAmount'] as String,
-      json['TransType'] as String);
-}
+  Map<String, dynamic> json,
+) => PortalRecentTransaction(
+  (json['id'] as num?)?.toInt(),
+  json['RefNo'] as String?,
+  json['TranType'] as String?,
+  json['TranDate'] as String?,
+  json['TranAmount'] as String?,
+  json['BalAmount'] as String?,
+  json['TransType'] as String?,
+);
 
 Map<String, dynamic> _$PortalRecentTransactionToJson(
-        PortalRecentTransaction instance) =>
-    <String, dynamic>{
-      'id': instance.id,
-      'RefNo': instance.RefNo,
-      'TranType': instance.TranType,
-      'TranDate': instance.TranDate,
-      'TranAmount': instance.TranAmount,
-      'BalAmount': instance.BalAmount,
-      'TransType': instance.TransType
-    };
+  PortalRecentTransaction instance,
+) => <String, dynamic>{
+  'id': instance.id,
+  'RefNo': instance.RefNo,
+  'TranType': instance.TranType,
+  'TranDate': instance.TranDate,
+  'TranAmount': instance.TranAmount,
+  'BalAmount': instance.BalAmount,
+  'TransType': instance.TransType,
+};

@@ -1,18 +1,12 @@
 
 
-import 'dart:io';
 
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'app_notification_count.g.dart';
-
-@entity
 @JsonSerializable()
 class AppNotificationCount{
-
-  @primaryKey
-  int MsgID;
+  int? MsgID;
   
   AppNotificationCount(
     this.MsgID,

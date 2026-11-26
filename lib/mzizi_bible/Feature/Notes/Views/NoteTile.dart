@@ -6,8 +6,8 @@ import 'NoteTaker.dart';
 
 class NoteTile extends StatefulWidget {
   const NoteTile({
-    Key key,
-    @required this.note,
+    Key? key,
+    required this.note,
   }) : super(key: key);
 
   final Note note;
@@ -18,47 +18,25 @@ class NoteTile extends StatefulWidget {
 
 class _NoteTileState extends State<NoteTile> {
   var _selected = false;
-  final _slideKey = GlobalKey();
-  final SlidableController slidableController = SlidableController();
 
   @override
   Widget build(BuildContext context) {
-    var lastUpdated = widget.note.lastUpdated.toLocal();
-    //return Container();
-     return Slidable.builder(
-      key: _slideKey,
-      controller: slidableController,
-      actionPane: SlidableScrollActionPane(),
-   //  delegate: SlidableDrawerDelegate(),
-      actionExtentRatio: 0.25,
-      dismissal: SlidableDismissal(
-        child: SlidableDrawerDismissal(),
-        onWillDismiss: (actionType) {
-          return showDialog<bool>(
-            context: context,
-            builder: (context) {
-              return AlertDialog(
-                title: Text('Delete'),
-                content: Text('Item will be deleted'),
-                actions: <Widget>[
-                  FlatButton(
-                    child: Text('Cancel'),
-                    onPressed: () {
-                      Navigator.of(context).pop(false);
-                      //Slidable.of(context).close();
-                    },
-                  ),
-                  FlatButton(
-                    child: Text('Ok'),
-                    onPressed: () {
-                      Navigator.of(context).pop(true);
-                    },
-                  ),
-                ],
-              );
-            },
-          );
-        },
+    var lastUpdated = (widget.note.lastUpdated ?? DateTime.now()).toLocal();
+    return Slidable(
+      key: ValueKey(widget.note.id),
+      endActionPane: ActionPane(
+        motion: const ScrollMotion(),
+        extentRatio: 0.25,
+        children: [
+          // Note deletion was never implemented (the notes bloc has no delete).
+          SlidableAction(
+            onPressed: (_) {},
+            backgroundColor: Colors.redAccent.shade700,
+            foregroundColor: Colors.white,
+            icon: Icons.delete,
+            label: 'Delete',
+          ),
+        ],
       ),
       child: ListTile(
         selected: _selected,
@@ -68,29 +46,18 @@ class _NoteTileState extends State<NoteTile> {
           });
         },
         onTap: () => Navigator.of(context).push(
-              MaterialPageRoute(
-                builder: (context) {
-                  return NotePage(
-                    note: widget.note,
-                  );
-                },
-              ),
-            ),
-        title: Text(widget.note.title),
+          MaterialPageRoute(
+            builder: (context) {
+              return NotePage(
+                note: widget.note,
+              );
+            },
+          ),
+        ),
+        title: Text(widget.note.title ?? ''),
         subtitle:
             Text("${lastUpdated.month}/${lastUpdated.day}/${lastUpdated.year}"),
       ),
-      secondaryActionDelegate: SlideActionBuilderDelegate(
-          actionCount: 1,
-          builder: (context, index, animation, mode) {
-            return IconSlideAction(
-              caption: 'Delete',
-              color: Colors.redAccent.shade700,
-              icon: Icons.delete,
-              onTap: () => {},
-            );
-          }),
     );
-  
   }
 }

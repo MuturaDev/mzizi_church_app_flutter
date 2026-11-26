@@ -4,13 +4,13 @@ import 'package:flutter/services.dart';
 import 'package:global_configuration/global_configuration.dart';
 
 class ReferenceProvider implements IReferenceProvider {
-  GlobalConfiguration _cfg;
+  late GlobalConfiguration _cfg;
 
   ReferenceProvider() {
     _cfg = GlobalConfiguration();
   }
 
-  Future<ChapterReference> getReferenceFromId(
+  Future<ChapterReference?> getReferenceFromId(
       String referencePath, String referenceId) async {
     var bookNumber = referenceId.substring(1, 3);
     var chapterNumber = referenceId.substring(3, 6);
@@ -46,7 +46,8 @@ class ReferenceProvider implements IReferenceProvider {
 
     print(userLines);
     //print(referenceLines.join(" "));
+    return null; // Not implemented yet.
   }
 
-  Future init() {}
+  Future init() async {}
 }

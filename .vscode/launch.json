@@ -11,8 +11,7 @@
             "program": "lib/main.dart",
             "args": [
                 "--flavor",
-                "mzizicms",
-                "--no-sound-null-safety"
+                "mzizicms"
             ]
         },
         {
@@ -23,7 +22,6 @@
             "args": [
                 "--flavor",
                 "mzizicms",
-                "--no-sound-null-safety",
                 "--dart-define=MOCK_API=true"
             ]
         },

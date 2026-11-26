@@ -1,17 +1,8 @@
 import 'package:mzizichurchsystem/mzizi_bible/Feature/InheritedBlocs.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Feature/Navigation/navigation_feature.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Feature/Notes/notes_feature.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Feature/Reader/reader_feature.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Feature/Search/search_feature.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Feature/Settings/settings_feature.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/ReferenceProvider.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Foundation/foundation.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Project/Designs/DarkDesign.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Project/Pages/NotesPage.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Project/Pages/ReaderPage.dart';
 import 'package:flutter/material.dart';
-import 'package:global_configuration/global_configuration.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system/flavour_config.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/screens/Screen.dart';
 
 import 'Project/Pages/HistoryPage.dart';
@@ -43,14 +34,14 @@ class MainBible extends StatelessWidget {
 }
 
 class MainBibleHomePage extends StatefulWidget {
-  MainBibleHomePage({Key key}) : super(key: key);
+  MainBibleHomePage({Key? key}) : super(key: key);
 
   @override
   _MainBibleHomePageState createState() => _MainBibleHomePageState();
 }
 
 class _MainBibleHomePageState extends State<MainBibleHomePage> {
-  Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() async {
     Navigator.pushReplacement(
         context,
         MaterialPageRoute(
@@ -85,6 +76,7 @@ class _MainBibleHomePageState extends State<MainBibleHomePage> {
     //       ),
     //     ) ??
     //     false;
+    return false;
   }
 
   @override

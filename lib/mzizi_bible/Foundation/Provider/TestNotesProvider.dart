@@ -1,18 +1,17 @@
 import 'dart:async';
-import 'package:mzizichurchsystem/mzizi_bible/Feature/Notes/notes_bloc.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/Note.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/INotesProvider.dart';
-import 'package:zefyr/zefyr.dart';
+import 'package:flutter_quill/flutter_quill.dart';
 //import 'package:notus/notus.dart';
 
 class TestNotesProvider extends INotesProvider {
-  List<Note> _notes = List<Note>();
+  List<Note> _notes = <Note>[];
   @override
   Future<List<Note>> getNotes() {
     var completer = Completer<List<Note>>();
     _notes.add(
       Note(
-          doc: NotusDocument(),
+          doc: Document(),
           //doc: "",
           id: 0,
           lastUpdated: DateTime.now().subtract(Duration(days: 2)),

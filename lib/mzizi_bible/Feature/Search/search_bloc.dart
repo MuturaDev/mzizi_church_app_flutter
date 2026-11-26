@@ -6,7 +6,7 @@ import 'package:rxdart/rxdart.dart';
 import 'dart:collection';
 
 class SearchBloc {
-  ISearchProvider _searchProvider;
+  late ISearchProvider _searchProvider;
 
   Sink<SearchQuery> get searchTerm => _searchTermController.sink;
   final _searchTermController = StreamController<SearchQuery>();

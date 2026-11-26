@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 import 'HistoryAppBar.dart';
 
 class HistoryIndex extends StatelessWidget {
-  const HistoryIndex({Key key}) : super(key: key);
+  const HistoryIndex({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -21,9 +21,9 @@ class HistoryIndex extends StatelessWidget {
             builder: (BuildContext context,
                 AsyncSnapshot<List<ChapterReference>> snapshot) {
               return ListView.builder(
-                itemCount: snapshot.data.length,
+                itemCount: snapshot.data!.length,
                 itemBuilder: (context, index) {
-                  var reference = snapshot.data[index];
+                  var reference = snapshot.data![index];
                   return ListTile(
                     onTap: () async {
                       InheritedBlocs.of(context)
@@ -55,9 +55,9 @@ class HistoryIndex extends StatelessWidget {
                       });
                     },
                     title: Text(
-                        "${reference.chapter.book.name} ${reference.chapter.number}:${reference.verseNumber}"),
+                        "${reference.chapter.book!.name} ${reference.chapter.number}:${reference.verseNumber}"),
                     subtitle: Text(
-                      "${reference.chapter.elements.whereType<Verse>().toList()[reference.verseNumber].text}",
+                      "${reference.chapter.elements!.whereType<Verse>().toList()[reference.verseNumber].text}",
                       maxLines: 1,
                       overflow: TextOverflow.ellipsis,
                     ),

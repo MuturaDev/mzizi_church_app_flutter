@@ -2,16 +2,13 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/Book.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/Chapter.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/ChapterElements/CrossReferenceElement.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/ChapterReference.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/CrossReference.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/CrossReference.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/CrossReferenceElements/ICrossReferenceElement.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/CrossReferenceElements/PlainTextReferenceElement.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/CrossReferenceElements/VerseReferenceElement.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/IBibleProvider.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/IReferenceProvider.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:rxdart/rxdart.dart';
 import 'dart:collection';
@@ -19,9 +16,9 @@ import 'dart:collection';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class BibleBloc {
-  IBibleProvider _importer;
-  IReferenceProvider _referenceProvider;
-  List<Book> _books;
+  late IBibleProvider _importer;
+  late IReferenceProvider _referenceProvider;
+  late List<Book> _books;
 
   final String membershipKey = 'david.anderson.bibleapp';
 
@@ -35,14 +32,14 @@ class BibleBloc {
   Stream<ChapterReference> get chapterReference => _currentChapter.stream;
   final _currentChapter = BehaviorSubject<ChapterReference>();
 
-  Sink<ChapterReference> get currentPopupChapterReference =>
+  Sink<ChapterReference?> get currentPopupChapterReference =>
       _currentPopupChapterController.sink;
-  final _currentPopupChapterController = StreamController<ChapterReference>();
+  final _currentPopupChapterController = StreamController<ChapterReference?>();
 
-  Stream<ChapterReference> get popupChapterReference => _popupChapter.stream;
-  final _popupChapter = BehaviorSubject<ChapterReference>();
+  Stream<ChapterReference?> get popupChapterReference => _popupChapter.stream;
+  final _popupChapter = BehaviorSubject<ChapterReference?>();
 
-  BehaviorSubject<List<ChapterReference>> get chapterHistory =>
+  ValueStream<List<ChapterReference>> get chapterHistory =>
       _chapterHistory.stream;
   final _chapterHistory = BehaviorSubject<List<ChapterReference>>();
 
@@ -71,7 +68,7 @@ class BibleBloc {
   }
   Future _goToChapter(ChapterReference currentChapter) async {
     var chapter = await _importer.getChapter(
-        currentChapter.chapter.book.name, currentChapter.chapter.number);
+        currentChapter.chapter.book!.name, currentChapter.chapter.number);
     currentChapter.chapter.elements = chapter.elements;
     await _updatePreviousChapter(currentChapter.chapter);
 
@@ -79,7 +76,7 @@ class BibleBloc {
 
     _currentChapter.add(currentChapter);
 
-    var updatedHistory = _chapterHistory.value ?? List<ChapterReference>();
+    var updatedHistory = _chapterHistory.valueOrNull ?? <ChapterReference>[];
     updatedHistory.add(currentChapter);
     _chapterHistory.add(updatedHistory);
     _saveHistoryToFile();
@@ -93,12 +90,12 @@ class BibleBloc {
 
   Future<Chapter> _getNextChapter(Chapter currentChapter) async {
     Chapter nextChapter;
-    if (currentChapter.number != currentChapter.book.chapters.length) {
+    if (currentChapter.number != currentChapter.book!.chapters!.length) {
       nextChapter = await _importer.getChapter(
-          currentChapter.book.name, currentChapter.number + 1);
+          currentChapter.book!.name, currentChapter.number + 1);
     } else {
-      var nextBook = _books.indexOf(currentChapter.book) != (_books.length - 1)
-          ? _books[_books.indexOf(currentChapter.book) + 1]
+      var nextBook = _books.indexOf(currentChapter.book!) != (_books.length - 1)
+          ? _books[_books.indexOf(currentChapter.book!) + 1]
           : _books.first;
       nextChapter = await _importer.getChapter(nextBook.name, 1);
     }
@@ -114,13 +111,13 @@ class BibleBloc {
     Chapter prevChapter;
     if (currentChapter.number != 1) {
       prevChapter = await _importer.getChapter(
-          currentChapter.book.name, currentChapter.number - 1);
+          currentChapter.book!.name, currentChapter.number - 1);
     } else {
-      var prevBook = _books.indexOf(currentChapter.book) != 0
-          ? _books[_books.indexOf(currentChapter.book) - 1]
+      var prevBook = _books.indexOf(currentChapter.book!) != 0
+          ? _books[_books.indexOf(currentChapter.book!) - 1]
           : _books.last;
       prevChapter =
-          await _importer.getChapter(prevBook.name, prevBook.chapters.length);
+          await _importer.getChapter(prevBook.name, prevBook.chapters!.length);
     }
     return prevChapter;
   }
@@ -165,15 +162,15 @@ class BibleBloc {
     SharedPreferences sp = await SharedPreferences.getInstance();
     var currentChapter = _currentChapter.value;
     sp.setString(membershipKey,
-        "${currentChapter.chapter.book.name}_${currentChapter.chapter.number}_${currentChapter.verseNumber}");
+        "${currentChapter.chapter.book!.name}_${currentChapter.chapter.number}_${currentChapter.verseNumber}");
   }
 
-  Future _updatePopupChapter(ChapterReference popupReference) async {
+  Future _updatePopupChapter(ChapterReference? popupReference) async {
     if (popupReference == null) {
       _popupChapter.add(popupReference);
     } else {
       var chapter = await _importer.getChapter(
-          popupReference.chapter.book.name, popupReference.chapter.number);
+          popupReference.chapter.book!.name, popupReference.chapter.number);
       _popupChapter.add(ChapterReference(
         chapter: chapter,
         verseNumber: popupReference.verseNumber,
@@ -191,7 +188,7 @@ class BibleBloc {
   }
 
   Future _saveHistoryToFile() async {
-    var history = _chapterHistory.value;
+    var history = _chapterHistory.valueOrNull ?? <ChapterReference>[];
     SharedPreferences sp = await SharedPreferences.getInstance();
     var historyJson = jsonEncode(history.map((e) => e.toJson()).toList());
     sp.setString((membershipKey + "-history"), historyJson);
@@ -208,7 +205,7 @@ class BibleBloc {
   }
 
   clearHistory() {
-    _chapterHistory.add(List<ChapterReference>());
+    _chapterHistory.add(<ChapterReference>[]);
   }
 
   void addChapterReferenceFromId(String referenceId) async {
@@ -219,10 +216,10 @@ class BibleBloc {
     var chapter = _books
         .firstWhere((book) => book.number == int.parse(bookNumber))
         .chapters
-        .firstWhere((chapter) => chapter.number == int.parse(chapterNumber));
+        !.firstWhere((chapter) => chapter.number == int.parse(chapterNumber));
     //var chapter = _importer.getChapterByBookNumber(int.parse(bookNumber), int.parse(chapterNumber));
     var fileData =
-        await rootBundle.loadString(chapter.referenceName, cache: true);
+        await rootBundle.loadString(chapter.referenceName ?? '', cache: true);
     var fileLines = fileData.split("\r\n");
     fileLines.forEach((f) => f.trim());
     var referenceLine = fileLines.firstWhere((line) =>
@@ -241,7 +238,7 @@ class BibleBloc {
         .toList();
 
     CrossReference reference = CrossReference(
-      elements: List<ICrossReferenceElement>(),
+      elements: <ICrossReferenceElement>[],
       id: referenceId,
     );
     var userLines = "";

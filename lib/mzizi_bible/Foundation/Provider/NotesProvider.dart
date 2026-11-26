@@ -4,14 +4,14 @@ import 'dart:io';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/Note.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/INotesProvider.dart';
 import 'package:intl/intl.dart';
-import 'package:notus/notus.dart';
+import 'package:flutter_quill/flutter_quill.dart';
 import 'package:path/path.dart';
 import 'package:path_provider/path_provider.dart';
 
 class NotesProvider extends INotesProvider {
   @override
   Future<List<Note>> getNotes() async {
-    List<Note> notes = List<Note>();
+    List<Note> notes = <Note>[];
     final directory = await getApplicationDocumentsDirectory();
     Directory notesDir = Directory('${directory.path}/notes/');
     var exists = notesDir.existsSync();
@@ -21,6 +21,7 @@ class NotesProvider extends INotesProvider {
     for (File file in await notesDir
         .list(recursive: false)
         .where((f) => f is File)
+        .cast<File>()
         .toList()) {
       try {
         var contents = file.readAsStringSync();
@@ -28,7 +29,7 @@ class NotesProvider extends INotesProvider {
           continue;
         }
         var json = jsonDecode(contents);
-        var doc = NotusDocument.fromJson(json);
+        var doc = Document.fromJson(json);
         //var doc = "";
         var noteName = basename(file.path).split('.')[0];
         var id = noteName.split('_')[0];
@@ -53,14 +54,14 @@ class NotesProvider extends INotesProvider {
     final directory = await getApplicationDocumentsDirectory();
     for (var note in notes) {
       var formatter = DateFormat('yyyy-MM-dd');
-      String formatted = formatter.format(note.lastUpdated);
+      String formatted = formatter.format(note.lastUpdated!);
       var file = File(
           '${directory.path}/notes/${note.id}_${note.title}_$formatted.txt');
-      var existingPath = await _getFilePathWithId(note.id);
+      var existingPath = await _getFilePathWithId(note.id!);
       if (existingPath.isEmpty) {
         file = await file.create(recursive: true);
         // file.writeAsString(jsonEncode(note.doc.toJson()));
-      } else if (!existingPath.contains(note.title) ||
+      } else if (!existingPath.contains(note.title ?? '') ||
           !existingPath.contains(formatted)) {
         File existingFile = File(existingPath);
         existingFile.deleteSync();

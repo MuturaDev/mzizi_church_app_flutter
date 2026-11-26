@@ -1,23 +1,18 @@
 
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_authentication_response_model.g.dart';
-
-@entity
 @JsonSerializable()
 class AuthenticationUserResponse{
+   int? id;
+   String? UserID;
+   String? UserType;
+   String? SchoolID;
+   String? OrganizationID;
 
-   @PrimaryKey(autoGenerate: true)
-   int id;
-   String UserID;
-   String UserType;
-   String SchoolID;
-   String OrganizationID;
-
-   String AppCode;
-   String Username;
-   String Password;
+   String? AppCode;
+   String? Username;
+   String? Password;
 
 
 

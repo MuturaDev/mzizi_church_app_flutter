@@ -1,17 +1,12 @@
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_student_visualization_average_response.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalStudentVisualizationAverage {
-
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  String Period;
-  String AverageScore;
-  String MeanGrade;
+  int? id;
+  String? Period;
+  String? AverageScore;
+  String? MeanGrade;
 
   PortalStudentVisualizationAverage(
     this.id,

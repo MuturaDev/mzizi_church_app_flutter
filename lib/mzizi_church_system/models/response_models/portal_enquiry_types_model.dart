@@ -4,8 +4,8 @@ part 'portal_enquiry_types_model.g.dart';
 
 @JsonSerializable()
 class PortalEnquiryTypes {
-  String ID;
-  String Name;
+  String? ID;
+  String? Name;
 
   PortalEnquiryTypes(
     this.ID,

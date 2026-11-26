@@ -6,24 +6,23 @@ part of 'portal_parent_chat_message_model.dart';
 // JsonSerializableGenerator
 // **************************************************************************
 
-PortalChatUser _$PortalChatUserFromJson(Map<String, dynamic> json) {
-  return PortalChatUser(isSender: json['isSender'] as bool);
-}
+PortalChatUser _$PortalChatUserFromJson(Map<String, dynamic> json) =>
+    PortalChatUser(isSender: json['isSender'] as bool?);
 
 Map<String, dynamic> _$PortalChatUserToJson(PortalChatUser instance) =>
     <String, dynamic>{'isSender': instance.isSender};
 
-PortalChatMessage _$PortalChatMessageFromJson(Map<String, dynamic> json) {
-  return PortalChatMessage(
-      json['message'] as String,
+PortalChatMessage _$PortalChatMessageFromJson(Map<String, dynamic> json) =>
+    PortalChatMessage(
+      json['message'] as String?,
       json['sender'] == null
           ? null
           : PortalChatUser.fromJson(json['sender'] as Map<String, dynamic>),
-      json['createdAt'] as String,
-      json['showLoading'] as bool,
-      json['showCanceled'] as bool,
-      json['showSuccess'] as bool);
-}
+      json['createdAt'] as String?,
+      json['showLoading'] as bool?,
+      json['showCanceled'] as bool?,
+      json['showSuccess'] as bool?,
+    );
 
 Map<String, dynamic> _$PortalChatMessageToJson(PortalChatMessage instance) =>
     <String, dynamic>{
@@ -32,5 +31,5 @@ Map<String, dynamic> _$PortalChatMessageToJson(PortalChatMessage instance) =>
       'createdAt': instance.createdAt,
       'showLoading': instance.showLoading,
       'showCanceled': instance.showCanceled,
-      'showSuccess': instance.showSuccess
+      'showSuccess': instance.showSuccess,
     };

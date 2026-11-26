@@ -4,39 +4,42 @@ class Designs {
   static ThemeData darkTheme = getDarkTheme();
 
   static TextTheme darkTextTheme =
-      TextTheme(body2: TextStyle(color: Colors.white70, fontSize: 18.0));
+      const TextTheme(bodyLarge: TextStyle(color: Colors.white70, fontSize: 18.0));
 
   static ThemeData defaultTheme = ThemeData(
+    useMaterial3: false,
     primarySwatch: Colors.grey,
     primaryColor: Colors.grey.shade100,
   );
 
   static ThemeData getDarkTheme() {
-    ThemeData darkTheme = ThemeData.light(); //whole text
+    // Material 2, to keep the look the app had on Flutter 3.0.
+    ThemeData darkTheme = ThemeData.light(useMaterial3: false); //whole text
     return darkTheme.copyWith(
-      primaryColor: Color(0xFF487890),
-      textSelectionColor: Colors.green,
-      textSelectionHandleColor: Colors.white,
+      primaryColor: const Color(0xFF487890),
+      textSelectionTheme: const TextSelectionThemeData(
+        selectionColor: Colors.green,
+        selectionHandleColor: Colors.white,
+      ),
       textTheme: darkTheme.textTheme.copyWith(
-        body2: darkTheme.textTheme.body2.copyWith(
+        bodyLarge: darkTheme.textTheme.bodyLarge!.copyWith(
           //scripture text
           color: Colors.black,
           fontSize: 18.0,
           fontWeight: FontWeight.w300,
         ),
-        display1: darkTheme.textTheme.display1.copyWith(
+        headlineMedium: darkTheme.textTheme.headlineMedium!.copyWith(
           //
           color: Colors.black,
           fontSize: 22.0,
         ),
-        title: darkTheme.textTheme.title.copyWith(
+        titleLarge: darkTheme.textTheme.titleLarge!.copyWith(
           color: darkTheme.primaryColor,
         ),
       ),
       iconTheme: darkTheme.iconTheme
           .copyWith(color: Colors.black), //Dashboard, bottom navigation icons
-      buttonColor: Colors.blue.shade900,
-      accentColor: Colors.blue.shade900,
+      colorScheme: darkTheme.colorScheme.copyWith(secondary: Colors.blue.shade900),
     );
   }
 }

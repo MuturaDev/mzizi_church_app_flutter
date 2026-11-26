@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 class WordsOfChrist extends IChapterElement {
   final String text;
-  WordsOfChrist({this.text}) : super();
+  WordsOfChrist({required this.text}) : super();
 
   @override
   List<Text> toTextWidget(BuildContext context) {
@@ -24,14 +24,14 @@ class WordsOfChrist extends IChapterElement {
       children: [],
     );
     if (text.length == 1 && text.contains(RegExp("[.!?\\-]"))) {
-      span.children.add(TextSpan(
+      span.children!.add(TextSpan(
         text: '''${this.text.trim()}''',
-        style: Theme.of(context).textTheme.body2,
+        style: Theme.of(context).textTheme.bodyLarge,
       ));
     } else {
-      span.children.add(TextSpan(
+      span.children!.add(TextSpan(
         text: ''' ${this.text.trim()}''',
-        style: Theme.of(context).textTheme.body2,
+        style: Theme.of(context).textTheme.bodyLarge,
       ));
     }
 

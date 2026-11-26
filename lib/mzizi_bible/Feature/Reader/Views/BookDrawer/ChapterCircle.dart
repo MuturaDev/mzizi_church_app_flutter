@@ -4,10 +4,10 @@ import 'package:flutter/material.dart';
 
 class ChapterCircle extends StatelessWidget {
   const ChapterCircle({
-    Key key,
-    @required this.context,
-    @required this.chapter,
-    @required this.book,
+    Key? key,
+    required this.context,
+    required this.chapter,
+    required this.book,
   }) : super(key: key);
 
   final BuildContext context;
@@ -16,14 +16,17 @@ class ChapterCircle extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return RaisedButton(
+    return ElevatedButton(
+      style: ElevatedButton.styleFrom(
+        shape: CircleBorder(),
+        padding: EdgeInsets.all(8.0),
+        elevation: 0.0,
+        backgroundColor: Theme.of(context).colorScheme.surface,
+      ),
       child: Text(
         chapter.number.toString(),
-        style: Theme.of(context).textTheme.display1,
+        style: Theme.of(context).textTheme.headlineMedium,
       ),
-      shape: CircleBorder(),
-      padding: EdgeInsets.all(8.0),
-      elevation: 0.0,
       onPressed: () {
         InheritedBlocs.of(context)
             .bibleBloc

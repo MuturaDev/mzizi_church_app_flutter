@@ -111,15 +111,23 @@ For any questions or inquiries, please contact [Mutura Dev] at [jamesmuturadev@g
 Thank you for using Mzizi Church System! May it contribute to the smooth management and engagement within your church community. Happy managing!
 
 
-## Building and running (Flutter 3.0)
+## Building and running (Flutter 3.47)
 
-The app is pinned to Flutter 3.0.0 via fvm (`.fvmrc`). Its Dart code predates
-null safety, so every run/build needs `--no-sound-null-safety`, plus a flavor
-(`mzizicms`, `bwmc`, `dcik` or `jcc`):
+The app targets Flutter 3.47 / Dart 3.13 (`.fvmrc`) with sound null safety.
+Every run/build needs a flavor (`mzizicms`, `bwmc`, `dcik` or `jcc`). Android
+builds need JDK 17 or newer.
 
 ```sh
-fvm flutter pub get
-fvm flutter run --flavor mzizicms --no-sound-null-safety
+flutter pub get
+flutter run --flavor mzizicms
+flutter build apk --flavor mzizicms        # release APK
+```
+
+Models (`*.g.dart`) and the Retrofit API client are generated. After editing a
+model or `lib/mzizi_church_system/retrofit/api.dart`, regenerate them with:
+
+```sh
+dart run build_runner build
 ```
 
 `bash tool/build_check.sh` runs pub get, analyze and a debug APK build and
@@ -131,7 +139,7 @@ Add `--dart-define=MOCK_API=true` (or pick the "mzizicms (mock API, offline)"
 launch configuration in VS Code):
 
 ```sh
-fvm flutter run --flavor mzizicms --no-sound-null-safety --dart-define=MOCK_API=true
+flutter run --flavor mzizicms --dart-define=MOCK_API=true
 ```
 
 Any username, password and church code log you in. Every API call is answered

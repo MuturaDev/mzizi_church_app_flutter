@@ -1,13 +1,13 @@
 class PortalNotificationMessage {
-  int MsgID;
-  String Msg;
-  String DateSent;
+  int? MsgID;
+  String? Msg;
+  String? DateSent;
 
-  bool isRead;
-  bool msgIsTransaction;
-  bool msgIsEvents;
-  bool msgIsResults;
-  bool msgIsChat;
+  bool? isRead;
+  bool? msgIsTransaction;
+  bool? msgIsEvents;
+  bool? msgIsResults;
+  bool? msgIsChat;
 
   PortalNotificationMessage(
     this.MsgID,

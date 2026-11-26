@@ -8,21 +8,22 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/por
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
-import 'package:sweetalert/sweetalert.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/sweet_alert.dart';
 
-Map<String, ListOnboardingRequest> selfEnrollPayload;
+late Map<String, ListOnboardingRequest> selfEnrollPayload;
 
 class SelfEnrollPage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
   SelfEnrollPage({this.onMenuPressedHere});
   @override
   _SelfEnrollPageState createState() => _SelfEnrollPageState();
 }
 
 class _SelfEnrollPageState extends State<SelfEnrollPage> {
-  Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() async {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
+    return false;
   }
 
   @override
@@ -187,7 +188,7 @@ class _LoginProgressButtonState extends State<LoginProgressButton> {
           if (selfEnrollPayload.length > 0) {
             if (await UtilityFunctions.checkConnection()) {
               try {
-                List<ListOnboardingRequest> payload = new List();
+                List<ListOnboardingRequest> payload = [];
                 selfEnrollPayload.forEach((key, value) async {
                   payload.add(value);
                 });
@@ -289,7 +290,7 @@ class _SelfEnrollItemWidgetState extends State<SelfEnrollItemWidget> {
 
 //selfEnrollPayload.putIfAbsent(requestPayload.ListOnBoardingID, () => requestPayload);
             selfEnrollPayload.update(
-                requestPayload.ListOnBoardingID, (value) => requestPayload,
+                requestPayload.ListOnBoardingID ?? '', (value) => requestPayload,
                 ifAbsent: () => requestPayload);
 
             // if (selfEnrollPayload.length <= 0) {
@@ -372,7 +373,7 @@ class _SelfEnrollItemWidgetState extends State<SelfEnrollItemWidget> {
                         color: Colors.black),
                   ),
                   SizedBox(height: 5),
-                  Text(widget.response.Description,
+                  Text(widget.response.Description ?? '',
                       textAlign: TextAlign.center,
                       style: TextStyle(fontSize: 13.0, color: Colors.grey))
                 ],
@@ -385,10 +386,10 @@ class _SelfEnrollItemWidgetState extends State<SelfEnrollItemWidget> {
   Widget _rowItem(
       {String leftLabel = '',
       String centerLabel = ':',
-      String rightLabel,
+      String? rightLabel,
       bool header = false,
       bool divider = false,
-      String receiptOrInvoice}) {
+      String? receiptOrInvoice}) {
     //RECEIPT = 2 OR INVOICE = 0
     bool isReceiptOrInvoice =
         receiptOrInvoice == '2' ? true : receiptOrInvoice == '0' ? false : true;
@@ -418,7 +419,7 @@ class _SelfEnrollItemWidgetState extends State<SelfEnrollItemWidget> {
                       child: Container(
                         // width: 200.0,
                         child: Text(
-                          rightLabel,
+                          rightLabel ?? '',
                           textAlign: TextAlign.center,
                           style: TextStyle(
                               fontWeight: FontWeight.bold,
@@ -456,7 +457,7 @@ class _SelfEnrollItemWidgetState extends State<SelfEnrollItemWidget> {
                     //   style: TextStyle(fontSize: 13.0, color: Colors.black87),
                     // ),
                     Text(
-                      rightLabel,
+                      rightLabel ?? '',
                       textAlign: TextAlign.center,
                       style: TextStyle(fontSize: 13.0, color: Colors.grey),
                     )

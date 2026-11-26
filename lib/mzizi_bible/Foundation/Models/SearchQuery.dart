@@ -2,5 +2,5 @@ class SearchQuery {
   final String queryText;
   final String book;
 
-  SearchQuery({this.queryText, this.book});
+  SearchQuery({required this.queryText, required this.book});
 }

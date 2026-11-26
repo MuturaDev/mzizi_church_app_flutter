@@ -6,17 +6,16 @@ part of 'portal_events_response_model.dart';
 // JsonSerializableGenerator
 // **************************************************************************
 
-PortalEvents _$PortalEventsFromJson(Map<String, dynamic> json) {
-  return PortalEvents(
-      json['id'] as int,
-      json['EventsTitle'] as String,
-      json['Venue'] as String,
-      json['StartDate'] as String,
-      json['EndDate'] as String,
-      json['StartTime'] as String,
-      json['EndTime'] as String,
-      json['Description'] as String);
-}
+PortalEvents _$PortalEventsFromJson(Map<String, dynamic> json) => PortalEvents(
+  (json['id'] as num?)?.toInt(),
+  json['EventsTitle'] as String?,
+  json['Venue'] as String?,
+  json['StartDate'] as String?,
+  json['EndDate'] as String?,
+  json['StartTime'] as String?,
+  json['EndTime'] as String?,
+  json['Description'] as String?,
+);
 
 Map<String, dynamic> _$PortalEventsToJson(PortalEvents instance) =>
     <String, dynamic>{
@@ -27,5 +26,5 @@ Map<String, dynamic> _$PortalEventsToJson(PortalEvents instance) =>
       'EndDate': instance.EndDate,
       'StartTime': instance.StartTime,
       'EndTime': instance.EndTime,
-      'Description': instance.Description
+      'Description': instance.Description,
     };

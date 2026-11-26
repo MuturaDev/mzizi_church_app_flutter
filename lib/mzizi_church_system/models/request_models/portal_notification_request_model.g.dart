@@ -7,15 +7,17 @@ part of 'portal_notification_request_model.dart';
 // **************************************************************************
 
 PortalNotificationRequest _$PortalNotificationRequestFromJson(
-    Map<String, dynamic> json) {
-  return PortalNotificationRequest(json['StudentID'] as String,
-      json['AppCode'] as String, json['MsgID'] as String);
-}
+  Map<String, dynamic> json,
+) => PortalNotificationRequest(
+  json['StudentID'] as String?,
+  json['AppCode'] as String?,
+  json['MsgID'] as String?,
+);
 
 Map<String, dynamic> _$PortalNotificationRequestToJson(
-        PortalNotificationRequest instance) =>
-    <String, dynamic>{
-      'StudentID': instance.StudentID,
-      'AppCode': instance.AppCode,
-      'MsgID': instance.MsgID
-    };
+  PortalNotificationRequest instance,
+) => <String, dynamic>{
+  'StudentID': instance.StudentID,
+  'AppCode': instance.AppCode,
+  'MsgID': instance.MsgID,
+};

@@ -6,34 +6,25 @@ import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/authenticate_user_dao.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/dao/portal_contacts_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/portal_parent_chat_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/database/app_database.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/database/database_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system/flavour_config.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_parent_chat_message_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_student_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_parent_chat_request_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_contacts_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_enquiry_types_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_parent_chat_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/enhanced_stream_builder.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_widgets.dart';
 
-import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:line_icons/line_icons.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
 
-ParentChatResponseDBDao daopass;
+ParentChatResponseDBDao? daopass;
 
 class WhenNotDone extends StatefulWidget {
-  VoidCallback onMenuPressedHere;
-  ParentChatResponseDBDao dao;
+  VoidCallback? onMenuPressedHere;
+  ParentChatResponseDBDao? dao;
 
   WhenNotDone(this.dao);
 
@@ -54,7 +45,7 @@ class _WhenNotDoneState extends State<WhenNotDone> {
     else
       return Container(
           child: EnhancedStreamBuilder(
-        stream: widget.dao.getParentChatResponseStream(),
+        stream: widget.dao!.getParentChatResponseStream(),
         rememberStreamResult: false,
         whenNotDone: Center(
           child: Container(
@@ -88,7 +79,7 @@ Future<List<ParentChatResponse>> _optionToFetchFromApi(
   //This is for testing, dont undo
   // await dao.deleteParentChatResponse();
 
-  List<ParentChatResponse> returnChats = new List<ParentChatResponse>();
+  List<ParentChatResponse> returnChats = <ParentChatResponse>[];
 
   if (message.isEmpty && sending) {
     Fluttertoast.showToast(
@@ -108,14 +99,14 @@ Future<List<ParentChatResponse>> _optionToFetchFromApi(
       }
 
       if (message.isNotEmpty) {
-        List<ParentChatResponse> chatList = new List();
+        List<ParentChatResponse> chatList = [];
         ParentChatResponse chat = new ParentChatResponse(
             null, message, "now", "You", false, false, true);
         chatList.add(chat);
 
         await dao.insertPortalParentChat(chatList);
       }
-      Student student = await AuthenticateUserDAO().getStudent();
+      Student? student = await AuthenticateUserDAO().getStudent();
       //Student student = new Student("23309", "1000");
 
       if (student != null) {
@@ -162,7 +153,7 @@ Future<List<ParentChatResponse>> _optionToFetchFromApi(
     } else {
       //use resend frag to prevent from two messages appearing for resend
       if (sending && message.isNotEmpty && !resend) {
-        List<ParentChatResponse> chatList = new List();
+        List<ParentChatResponse> chatList = [];
         ParentChatResponse chat = new ParentChatResponse(
             null, message, "now", "You", false, true, false);
         chatList.add(chat);
@@ -186,7 +177,7 @@ Future<List<ParentChatResponse>> _optionToFetchFromApi(
 }
 
 class PortalChatPage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
 
   PortalChatPage({this.onMenuPressedHere});
 
@@ -196,7 +187,7 @@ class PortalChatPage extends KFDrawerContent {
 
 class _PortalChatPageState extends State<PortalChatPage> {
   final textFormEditorController = new TextEditingController();
-  ParentChatResponseDBDao dao;
+  ParentChatResponseDBDao? dao;
   @override
   void initState() {
     // _optionToFetchFromApi();
@@ -219,9 +210,10 @@ class _PortalChatPageState extends State<PortalChatPage> {
     super.dispose();
   }
 
-  Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() async {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
+    return false;
   }
 
   @override
@@ -260,7 +252,7 @@ class _PortalChatPageState extends State<PortalChatPage> {
             //   SpringButton(
             //     SpringButtonType.OnlyScale,
             //     Container(
-            //       child: Icon(LineIcons.paper_plane),
+            //       child: Icon(LineIcons.paperPlane),
             //     ),
             //     onTapDown: (_) {},
             //   ),
@@ -452,7 +444,7 @@ class _PortalChatPageState extends State<PortalChatPage> {
                               whenDone: (dynamic data) {
                                 if (data == null) {
                                   List<PortalEnquiryTypes> responseList =
-                                      new List();
+                                      [];
                                   PortalEnquiryTypes response =
                                       new PortalEnquiryTypes(
                                           "0", "General Enquiry");
@@ -461,7 +453,7 @@ class _PortalChatPageState extends State<PortalChatPage> {
                                 } else {
                                   if (data.length <= 0) {
                                     List<PortalEnquiryTypes> responseList =
-                                        new List();
+                                        [];
                                     PortalEnquiryTypes response =
                                         new PortalEnquiryTypes(
                                             "0", "General Enquiry");
@@ -558,17 +550,17 @@ class _PopupDropDownState extends State<PopupDropDown> {
     double top = offset.dy;
 
 //https://github.com/flutter/flutter/issues/12931
-    String selected = await showMenu<String>(
+    String selected = (await showMenu<String>(
       context: context,
       position: RelativeRect.fromLTRB(
           left, MediaQuery.of(context).size.height - 280, 0, 0),
       items: widget.enquiryTypes.map((PortalEnquiryTypes popupRoute) {
         return new PopupMenuItem<String>(
-          child: new Text(popupRoute.Name),
+          child: new Text(popupRoute.Name ?? ''),
           value: popupRoute.ID,
         );
       }).toList(),
-      elevation: 5.0,
+      elevation: 5.0,) ?? ''
     );
 
     // Fluttertoast.showToast(
@@ -583,7 +575,7 @@ class _PopupDropDownState extends State<PopupDropDown> {
     widget.parent.setState(() {
       for (PortalEnquiryTypes map in widget.enquiryTypes) {
         if (map.ID == selected) {
-          enquiryTypeHead = map.Name;
+          enquiryTypeHead = map.Name ?? '';
           break;
         }
       }
@@ -635,7 +627,7 @@ Widget messageSent(
     PortalChatMessage message, bool _readOrNotRead, bool showNip, state) {
   Widget bubbleWidget = Container(
     width: double.infinity,
-    margin: EdgeInsets.only(left: 30.0, top: message.showCanceled ? 15.0 : 0.0),
+    margin: EdgeInsets.only(left: 30.0, top: message.showCanceled! ? 15.0 : 0.0),
     child: Container(
       child: Bubble(
           margin: BubbleEdges.only(top: 10),
@@ -648,7 +640,7 @@ Widget messageSent(
                 //width: double.infinity,
                 margin: EdgeInsets.only(bottom: 20.0),
                 child: Text(
-                  message.message,
+                  message.message ?? '',
                   // CustomStrings
                   //     .exampleText /*,overflow: TextOverflow.visible,textAlign: TextAlign.left*/,
                   style: TextStyle(
@@ -664,9 +656,9 @@ Widget messageSent(
                 child: Container(
                     child: Row(
                   children: <Widget>[
-                    _dateWidget(message.createdAt, _readOrNotRead),
-                    _sending_NotSent_Sent_Widget(message.showLoading,
-                        message.showCanceled, message.showSuccess),
+                    _dateWidget(message.createdAt ?? '', _readOrNotRead),
+                    _sending_NotSent_Sent_Widget(message.showLoading!,
+                        message.showCanceled!, message.showSuccess!),
                   ],
                 )),
               )
@@ -686,7 +678,7 @@ Widget messageSent(
             child: Stack(
               children: <Widget>[
                 _tapToSendWidget(
-                  message.showCanceled,
+                  message.showCanceled!,
                 ),
                 //This is the image
                 //showNip ? _receivedFromIconWidget() : Container(),
@@ -703,7 +695,7 @@ Widget messageSent(
 
                         _optionToFetchFromApi(
                             enquiryType: enquityTypeID,
-                            message: message.message,
+                            message: message.message ?? '',
                             sending: true,
                             resend: true);
                       });
@@ -730,7 +722,7 @@ Widget replySent(PortalChatMessage message, bool _readOrNotRead, bool showNip) {
               //width: double.infinity,
               margin: EdgeInsets.only(bottom: 20.0),
               child: Text(
-                message.message,
+                message.message ?? '',
                 // CustomStrings
                 //     .exampleText /*,overflow: TextOverflow.visible,textAlign: TextAlign.left*/,
                 style: TextStyle(
@@ -746,7 +738,7 @@ Widget replySent(PortalChatMessage message, bool _readOrNotRead, bool showNip) {
               child: Container(
                   child: Row(
                 children: <Widget>[
-                  _dateWidget(message.createdAt, _readOrNotRead),
+                  _dateWidget(message.createdAt ?? '', _readOrNotRead),
                   _readOrNotReadWidget(_readOrNotRead)
                 ],
               )),
@@ -771,7 +763,7 @@ Widget replySentWithIcon(
               width: double.infinity,
               margin: EdgeInsets.only(bottom: 20.0),
               child: Text(
-                message.message,
+                message.message ?? '',
                 // CustomStrings
                 //     .exampleText /*,overflow: TextOverflow.visible,textAlign: TextAlign.left*/,
                 style: TextStyle(
@@ -787,7 +779,7 @@ Widget replySentWithIcon(
               child: Container(
                   child: Row(
                 children: <Widget>[
-                  _dateWidget(message.createdAt, _readOrNotRead),
+                  _dateWidget(message.createdAt ?? '', _readOrNotRead),
                   _readOrNotReadWidget(_readOrNotRead)
                 ],
               )),
@@ -930,11 +922,11 @@ final _controller = ScrollController();
 
 Widget _chats(
     dynamic data, BuildContext context, VoidCallback onRefresh, state) {
-  List<PortalChatMessage> _chatMessageList = new List();
+  List<PortalChatMessage> _chatMessageList = [];
 
   for (ParentChatResponse chatResponse in data) {
     PortalChatUser user = new PortalChatUser(isSender: false);
-    if (chatResponse.Actor.contains("You")) {
+    if (chatResponse.Actor!.contains("You")) {
       user = new PortalChatUser(isSender: true);
     }
 
@@ -961,7 +953,7 @@ Widget _chats(
       : _chatMessageList.length <= 0
           ? _noContentWidget(context)
           : RefreshIndicator(
-              onRefresh: onRefresh,
+              onRefresh: () async => onRefresh(),
               child: Scrollbar(
                 child: ListView.builder(
                   reverse: false,
@@ -969,12 +961,12 @@ Widget _chats(
                   controller: _controller,
                   itemCount: _chatMessageList.length,
                   itemBuilder: (BuildContext context, int index) {
-                    if (_chatMessageList[index].sender.isSender) {
+                    if (_chatMessageList[index].sender!.isSender!) {
                       bool showNip = false;
                       if (index == 0)
                         showNip = true;
-                      else if (_chatMessageList[index - 1].sender.isSender ==
-                          _chatMessageList[index].sender.isSender)
+                      else if (_chatMessageList[index - 1].sender!.isSender ==
+                          _chatMessageList[index].sender!.isSender)
                         showNip = false;
                       else
                         showNip = true;
@@ -984,8 +976,8 @@ Widget _chats(
                       bool showNip = false;
                       if (index == 0)
                         showNip = true;
-                      else if (_chatMessageList[index - 1].sender.isSender ==
-                          _chatMessageList[index].sender.isSender)
+                      else if (_chatMessageList[index - 1].sender!.isSender ==
+                          _chatMessageList[index].sender!.isSender)
                         showNip = false;
                       else
                         showNip = true;

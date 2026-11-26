@@ -6,16 +6,16 @@ part of 'portal_parent_chat_response_model.dart';
 // JsonSerializableGenerator
 // **************************************************************************
 
-ParentChatResponse _$ParentChatResponseFromJson(Map<String, dynamic> json) {
-  return ParentChatResponse(
-      json['id'] as int,
-      json['Msg'] as String,
-      json['DatePosted'] as String,
-      json['Actor'] as String,
-      json['sent'] as bool,
-      json['notSent'] as bool,
-      json['sending'] as bool);
-}
+ParentChatResponse _$ParentChatResponseFromJson(Map<String, dynamic> json) =>
+    ParentChatResponse(
+      (json['id'] as num?)?.toInt(),
+      json['Msg'] as String?,
+      json['DatePosted'] as String?,
+      json['Actor'] as String?,
+      json['sent'] as bool?,
+      json['notSent'] as bool?,
+      json['sending'] as bool?,
+    );
 
 Map<String, dynamic> _$ParentChatResponseToJson(ParentChatResponse instance) =>
     <String, dynamic>{
@@ -25,5 +25,5 @@ Map<String, dynamic> _$ParentChatResponseToJson(ParentChatResponse instance) =>
       'Actor': instance.Actor,
       'sent': instance.sent,
       'notSent': instance.notSent,
-      'sending': instance.sending
+      'sending': instance.sending,
     };

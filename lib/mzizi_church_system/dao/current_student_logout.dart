@@ -1,4 +1,3 @@
-import 'package:floor/floor.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/database/app_database.dart';
 
 import 'package:shared_preferences/shared_preferences.dart';
@@ -6,7 +5,6 @@ import 'package:shared_preferences/shared_preferences.dart';
 class Logout {
   Logout();
 
-  @transaction
   Future<void> logout({bool exceptAuthUser = false}) async {
     final db =
         await $FloorAppDatabase.databaseBuilder("app_database.db").build();

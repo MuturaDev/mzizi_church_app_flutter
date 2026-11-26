@@ -1,19 +1,14 @@
 
 
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_notification_response_model.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalNotification{
-
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  int MsgID;
-  String Msg;
-  String DateSent;
+  int? id;
+  int? MsgID;
+  String? Msg;
+  String? DateSent;
 
   PortalNotification(
     this.id,

@@ -5,16 +5,16 @@ import 'package:flutter/material.dart';
 
 class Reader extends StatelessWidget {
   final ChapterReference chapterReference;
-  final Chapter previousChapter;
-  final Chapter nextChapter;
+  final Chapter? previousChapter;
+  final Chapter? nextChapter;
   final ScrollController controller;
   final bool canSwipeToNextChapter;
   final bool showReferences;
 
   const Reader({
-    Key key,
-    this.chapterReference,
-    this.controller,
+    Key? key,
+    required this.chapterReference,
+    required this.controller,
     this.canSwipeToNextChapter = true,
     this.previousChapter,
     this.nextChapter,
@@ -25,16 +25,16 @@ class Reader extends StatelessWidget {
     return this.canSwipeToNextChapter
         ? DismissableChapterViewer(
             shouldHaveBackgrounds: true,
-            book: chapterReference.chapter.book,
-            nextChapter: nextChapter,
-            previousChapter: previousChapter,
+            book: chapterReference.chapter.book!,
+            nextChapter: nextChapter!,
+            previousChapter: previousChapter!,
             chapter: chapterReference.chapter,
             showVerseNumbers: true,
             scrollToVerseMethod: _scrollToVerse,
             showReferences: this.showReferences,
           )
         : VerseText(
-            book: chapterReference.chapter.book,
+            book: chapterReference.chapter.book!,
             chapter: chapterReference.chapter,
             scrollToVerseMethod: _scrollToVerse,
             showReferences: this.showReferences,
@@ -63,7 +63,7 @@ class Reader extends StatelessWidget {
     var scrollPosition = controller.position;
     if (scrollPosition.viewportDimension < scrollPosition.maxScrollExtent) {
       var verses =
-          _flattenList(chapterReference.chapter.elements).whereType<Verse>();
+          _flattenList(chapterReference.chapter.elements!).whereType<Verse>();
 
       var scrollPercentage =
           _getScrollOffset(verses.length, chapterReference.verseNumber);

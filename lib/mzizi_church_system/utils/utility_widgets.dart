@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import 'package:flutter/gestures.dart';
-import 'package:flutter/material.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system/flavour_config.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -9,7 +8,7 @@ class HighlightAndCopyText extends StatelessWidget {
   final String textToHighLight;
   final TextStyle style;
 
-  HighlightAndCopyText(this.textToHighLight, {this.style});
+  HighlightAndCopyText(this.textToHighLight, {required this.style});
 
   @override
   Widget build(BuildContext context) {
@@ -24,7 +23,7 @@ class HighlightAndCopyText extends StatelessWidget {
 }
 
 class LinkTextSpan extends TextSpan {
-  LinkTextSpan({TextStyle style, String url, String text})
+  LinkTextSpan({required TextStyle style, required String url, required String text})
       : super(
             style: style,
             text: text ?? url,
@@ -37,15 +36,15 @@ class LinkTextSpan extends TextSpan {
 class CustomTextFormField extends StatelessWidget {
   String initialValue;
   String labelText;
-  TextEditingController controller;
+  TextEditingController? controller;
   TextInputType keyboardType;
   bool enabled;
-  VoidCallback onTap;
-  String text;
+  VoidCallback? onTap;
+  String? text;
 
   CustomTextFormField(
       {this.initialValue = '',
-      this.labelText,
+      required this.labelText,
       this.controller,
       this.enabled = true,
       this.text,
@@ -64,7 +63,7 @@ class CustomTextFormField extends StatelessWidget {
           enabled: true,
           keyboardType: keyboardType,
           style: TextStyle(fontSize: 14, color: Colors.black),
-          autovalidate: false,
+          autovalidateMode: AutovalidateMode.disabled,
           validator: (dynamic value) {
             if (value.isEmpty) {
               return 'Please provide a value for ' + labelText + '';
@@ -92,8 +91,8 @@ class AnimateImage extends StatefulWidget {
 
 class _AnimateImageState extends State<AnimateImage>
     with SingleTickerProviderStateMixin {
-  AnimationController _animationController;
-  Animation<double> _animation;
+  late AnimationController _animationController;
+  late Animation<double> _animation;
   @override
   void initState() {
     super.initState();

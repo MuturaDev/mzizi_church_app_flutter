@@ -4,9 +4,9 @@ import 'package:mzizichurchsystem/mzizi_church_system/example_screens/login_page
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/widdgets/bazierContainer.dart';
 
 class SignUpPage extends StatefulWidget {
-  SignUpPage({Key key, this.title}) : super(key: key);
+  SignUpPage({Key? key, this.title}) : super(key: key);
 
-  final String title;
+  final String? title;
 
   @override
   _SignUpPageState createState() => _SignUpPageState();
@@ -122,7 +122,7 @@ class _SignUpPageState extends State<SignUpPage> {
       text: TextSpan(
           text: 'd',
           style: GoogleFonts.portLligatSans(
-            textStyle: Theme.of(context).textTheme.display1,
+            textStyle: Theme.of(context).textTheme.headlineMedium,
             fontSize: 30,
             fontWeight: FontWeight.w700,
             color: Color(0xFF487890),

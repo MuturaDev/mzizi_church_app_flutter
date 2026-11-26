@@ -5,7 +5,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_na
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
 
 class CheckInpage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
   CheckInpage({this.onMenuPressedHere});
 
   @override
@@ -47,7 +47,7 @@ class _CheckInpageState extends State<CheckInpage> {
             SpringButton(
               SpringButtonType.OnlyScale,
               Container(
-                child: Icon(LineIcons.paper_plane),
+                child: Icon(LineIcons.paperPlane),
               ),
               onTapDown: (_) {},
             ),

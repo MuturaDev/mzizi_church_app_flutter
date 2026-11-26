@@ -2,36 +2,30 @@ import 'package:flutter/material.dart';
 import 'package:flutter_phoenix/flutter_phoenix.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/login_progress_button.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/progress_button.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/authenticate_user_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/signup_example.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/example_screens/welcome_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/widdgets/bazierContainer.dart';
 import 'dart:async';
-import 'package:flutter/material.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/progress_button.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system/flavour_config.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_student_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/authenicate_user_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_authentication_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/screens/Screen.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
-import 'package:sweetalert/sweetalert.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/sweet_alert.dart';
 
-TextEditingController usernameTextEditorController;
-TextEditingController passwordTextEditorController;
-TextEditingController churchCodeTextEditorController;
+late TextEditingController usernameTextEditorController;
+late TextEditingController passwordTextEditorController;
+late TextEditingController churchCodeTextEditorController;
 
 final formKey = GlobalKey<FormState>();
 var isValid = false;
 
 class LoginPage extends StatefulWidget {
-  LoginPage({Key key, this.title}) : super(key: key);
+  LoginPage({Key? key, this.title}) : super(key: key);
 
-  final String title;
+  final String? title;
 
   @override
   _LoginPageState createState() => _LoginPageState();
@@ -81,7 +75,7 @@ class _LoginPageState extends State<LoginPage> {
   //             },
   //             controller: controller,
   //             keyboardType: TextInputType.number,
-  //             autovalidate: false,
+  //             autovalidateMode: AutovalidateMode.disabled,
   //             obscureText: false,
   //             decoration: InputDecoration(
   //                 border: InputBorder.none,
@@ -110,8 +104,8 @@ class _LoginPageState extends State<LoginPage> {
               ? PasswordWidget(controller)
               : TextFormField(
                   validator: (value) {
-                    isValid = value.isEmpty ? false : true;
-                    return value.isEmpty ? 'Field cannot be left empty.' : null;
+                    isValid = value!.isEmpty ? false : true;
+                    return value!.isEmpty ? 'Field cannot be left empty.' : null;
                   },
                   controller: controller,
                   keyboardType: title == "Username"
@@ -121,7 +115,7 @@ class _LoginPageState extends State<LoginPage> {
                           : title == "Church Code"
                               ? TextInputType.number
                               : TextInputType.number,
-                  autovalidate: false,
+                  autovalidateMode: AutovalidateMode.disabled,
                   obscureText: isPassword,
                   decoration: InputDecoration(
                       border: InputBorder.none,
@@ -262,7 +256,7 @@ class _LoginPageState extends State<LoginPage> {
                       ? 'Jubilee Christian '
                       : FlavourConfig.isMzizicms() ? 'Mzizi' : 'Mzizi',
           style: GoogleFonts.portLligatSans(
-            textStyle: Theme.of(context).textTheme.display1,
+            textStyle: Theme.of(context).textTheme.headlineMedium,
             fontSize: 30,
             fontWeight: FontWeight.w700,
             color: Color(0xFF487890),
@@ -412,7 +406,7 @@ class _LoginProgressButtonState extends State<LoginProgressButton> {
     String password = passwordTextEditorController.text;
     String churchCode = churchCodeTextEditorController.text;
 
-    if (formKey.currentState.validate()) {
+    if (formKey.currentState!.validate()) {
       AutheticateUser autheticateUser =
           new AutheticateUser(churchCode, username, password);
 
@@ -717,6 +711,7 @@ Future<List<dynamic>> fetchDataFromApi() async {
   }
 
   //TODO:use the data to fetch from all apis
+  return [];
 }
 
 void showAlertDialog(
@@ -784,11 +779,11 @@ class _PasswordWidgetState extends State<PasswordWidget> {
   Widget build(BuildContext context) {
     return TextFormField(
         validator: (value) {
-          isValid = value.isEmpty ? false : true;
-          return value.isEmpty ? 'Field cannot be left empty.' : null;
+          isValid = value!.isEmpty ? false : true;
+          return value!.isEmpty ? 'Field cannot be left empty.' : null;
         },
         controller: widget.controller,
-        autovalidate: false,
+        autovalidateMode: AutovalidateMode.disabled,
         obscureText: _passwordVisible,
         decoration: InputDecoration(
             suffixIcon: IconButton(

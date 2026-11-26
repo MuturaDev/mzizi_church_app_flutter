@@ -1,13 +1,12 @@
 import 'package:mzizichurchsystem/mzizi_bible/Feature/Reader/reader_feature.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Feature/Search/search_feature.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Feature/Settings/Views/SettingPopupMenu.dart';
 import 'package:flutter/material.dart';
 
 class BibleReaderAppBar extends StatelessWidget {
   final String title;
   const BibleReaderAppBar({
-    Key key,
-    this.title,
+    Key? key,
+    required this.title,
   }) : super(key: key);
 
   @override

@@ -4,14 +4,14 @@ part 'self_enroll_application_request_model.g.dart';
 
 @JsonSerializable()
 class PortalSelfEnrollApplication {
-  String FormatedDateBooked;
-  String StartTime;
-  String Age;
-  String ChurchServiceID;
-  String OrganizationID;
-  String DateBooked;
-  String StudentID;
-  String AppCode;
+  String? FormatedDateBooked;
+  String? StartTime;
+  String? Age;
+  String? ChurchServiceID;
+  String? OrganizationID;
+  String? DateBooked;
+  String? StudentID;
+  String? AppCode;
   
 
   PortalSelfEnrollApplication(

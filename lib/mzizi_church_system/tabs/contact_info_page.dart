@@ -10,14 +10,9 @@ import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart'
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_widgets.dart';
 
-import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:line_icons/line_icons.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
 
 class PortalContactInfoPage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
   PortalContactInfoPage({this.onMenuPressedHere});
 
   @override
@@ -30,7 +25,7 @@ class _CheckInpageState extends State<PortalContactInfoPage> {
 
     try {
       if (await UtilityFunctions.checkConnection()) {
-        Student student = await AuthenticateUserDAO().getStudent();
+        Student? student = await AuthenticateUserDAO().getStudent();
         //Student student = new Student("23309", "1000");
         if (student != null) {
           final dynamic transactions =
@@ -52,9 +47,10 @@ class _CheckInpageState extends State<PortalContactInfoPage> {
     }
   }
 
-  Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() async {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
+    return false;
   }
 
   @override
@@ -93,7 +89,7 @@ class _CheckInpageState extends State<PortalContactInfoPage> {
             //   SpringButton(
             //     SpringButtonType.OnlyScale,
             //     Container(
-            //       child: Icon(LineIcons.paper_plane),
+            //       child: Icon(LineIcons.paperPlane),
             //     ),
             //     onTapDown: (_) {},
             //   ),
@@ -172,13 +168,13 @@ class _CheckInpageState extends State<PortalContactInfoPage> {
                                                                 int index) {
                                                           return _buildListViewItemWidget(
                                                               leftLabel:
-                                                                  _contactList[
+                                                                  (_contactList[
                                                                           index]
-                                                                      .SettingName,
+                                                                      .SettingName) ?? '',
                                                               rightLabel:
-                                                                  _contactList[
+                                                                  (_contactList[
                                                                           index]
-                                                                      .SettingValue);
+                                                                      .SettingValue) ?? '');
                                                         },
                                                       ),
                                                       onRefresh: () async {
@@ -218,7 +214,7 @@ class _CheckInpageState extends State<PortalContactInfoPage> {
     );
   }
 
-  Widget _buildListViewItemWidget({String leftLabel, String rightLabel}) {
+  Widget _buildListViewItemWidget({required String leftLabel, required String rightLabel}) {
     return Container(
       margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 5.0),
       child: CustomTextFormField(

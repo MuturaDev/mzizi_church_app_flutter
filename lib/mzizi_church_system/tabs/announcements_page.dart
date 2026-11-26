@@ -5,7 +5,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_na
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
 
 class AnnouncementDetailsPage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
 
   AnnouncementDetailsPage({this.onMenuPressedHere});
 

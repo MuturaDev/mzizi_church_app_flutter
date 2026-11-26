@@ -2,24 +2,16 @@ import 'package:enhanced_future_builder/enhanced_future_builder.dart';
 import 'package:flutter/material.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/authenticate_user_dao.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/dao/portal_contacts_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/portal_detailed_transaction_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_student_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_contacts_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_fee_transaction_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_widgets.dart';
 
-import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:line_icons/line_icons.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
 
 class PortalDetailedTransactionsPage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
   PortalDetailedTransactionsPage({this.onMenuPressedHere});
 
   @override
@@ -32,7 +24,7 @@ class _PortalDetailedTransactionsPageState
   Future<dynamic> _optionToFetchOnline() async {
     PortalDetailedTransactionDAO dao = new PortalDetailedTransactionDAO();
     if (await UtilityFunctions.checkConnection()) {
-      Student student = await AuthenticateUserDAO().getStudent();
+      Student? student = await AuthenticateUserDAO().getStudent();
       //Student student = new Student("23309", "1000");
       if (student != null) {
         try {
@@ -60,9 +52,10 @@ class _PortalDetailedTransactionsPageState
     }
   }
 
-  Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() async {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
+    return false;
   }
 
   @override
@@ -101,7 +94,7 @@ class _PortalDetailedTransactionsPageState
             //   SpringButton(
             //     SpringButtonType.OnlyScale,
             //     Container(
-            //       child: Icon(LineIcons.paper_plane),
+            //       child: Icon(LineIcons.paperPlane),
             //     ),
             //     onTapDown: (_) {},
             //   ),
@@ -226,7 +219,7 @@ class _PortalDetailedTransactionsPageState
             leftLabel: 'Receipt Date',
             //rightLabel: transaction.DatePosted,
             rightLabel: UtilityFunctions.formatDate(
-                transaction.DatePosted.replaceAll(new RegExp(r'12:00:00'), '')
+                transaction.DatePosted!.replaceAll(new RegExp(r'12:00:00'), '')
                     .replaceAll(new RegExp(r'AM'), '')
                     .trim()),
           ),
@@ -240,7 +233,7 @@ class _PortalDetailedTransactionsPageState
           _rowItem(
             leftLabel: 'Amount',
             rightLabel: UtilityFunctions.formatToCurrencyWithMoneyFormatterPUB(
-                transaction.TranAmount),
+                transaction.TranAmount ?? ''),
           ),
           SizedBox(
             height: 10.0,
@@ -248,7 +241,7 @@ class _PortalDetailedTransactionsPageState
           _rowItem(
             leftLabel: 'Running Balance',
             rightLabel: UtilityFunctions.formatToCurrencyWithMoneyFormatterPUB(
-                transaction.BalAmount),
+                transaction.BalAmount ?? ''),
           ),
           SizedBox(
             height: 10.0,
@@ -261,10 +254,10 @@ class _PortalDetailedTransactionsPageState
   Widget _rowItem(
       {String leftLabel = '',
       String centerLabel = ':',
-      String rightLabel,
+      String? rightLabel,
       bool header = false,
       bool divider = false,
-      String receiptOrInvoice}) {
+      String? receiptOrInvoice}) {
     //RECEIPT = 2 OR INVOICE = 0
     bool isReceiptOrInvoice =
         receiptOrInvoice == '2' ? true : receiptOrInvoice == '0' ? false : true;
@@ -294,7 +287,7 @@ class _PortalDetailedTransactionsPageState
                       child: Container(
                         // width: 200.0,
                         child: Text(
-                          rightLabel,
+                          rightLabel ?? '',
                           textAlign: TextAlign.center,
                           style: TextStyle(
                               fontWeight: FontWeight.bold,
@@ -332,7 +325,7 @@ class _PortalDetailedTransactionsPageState
                     //   style: TextStyle(fontSize: 13.0, color: Colors.black87),
                     // ),
                     Text(
-                      rightLabel,
+                      rightLabel ?? '',
                       textAlign: TextAlign.center,
                       style: TextStyle(fontSize: 13.0, color: Colors.grey),
                     )

@@ -7,11 +7,11 @@ part 'portal_parent_chat_request_model.g.dart';
 @JsonSerializable()
 class PortalParentChatRequest {
 
-  String studentID;
-  String Msg;
-  String staffID;
-  String appCode;
- String enquiryTypeID;
+  String? studentID;
+  String? Msg;
+  String? staffID;
+  String? appCode;
+ String? enquiryTypeID;
 
   PortalParentChatRequest(
     this.studentID,

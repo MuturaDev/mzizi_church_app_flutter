@@ -13,7 +13,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.da
 class HomeRecentPledgeContributions extends StatelessWidget {
   bool showTopSection;
 
-  HomeRecentPledgeContributions({Key key, this.showTopSection = true})
+  HomeRecentPledgeContributions({Key? key, this.showTopSection = true})
       : super(key: key);
 
   Future<dynamic> _optionToFetchOnline() async {
@@ -21,7 +21,7 @@ class HomeRecentPledgeContributions extends StatelessWidget {
 
     try {
       if (await UtilityFunctions.checkConnection()) {
-        Student student = await AuthenticateUserDAO().getStudent();
+        Student? student = await AuthenticateUserDAO().getStudent();
         //Student student = new Student("23309", "1000");
         if (student != null) {
           final dynamic transactions =
@@ -46,26 +46,26 @@ class HomeRecentPledgeContributions extends StatelessWidget {
 
   Widget recentPledgesAndContributionsListViewItemWidget(
       List<PortalRecentTransaction> portalRecentTransactionList) {
-    List<DataRow> rows = new List();
+    List<DataRow> rows = [];
 
     for (int row = 0; row < portalRecentTransactionList.length; row++) {
       PortalRecentTransaction response = portalRecentTransactionList[row];
       DataRow dataRow = new DataRow(cells: [
         DataCell(
-          Text(UtilityFunctions.formatDate(response.TranDate),
+          Text(UtilityFunctions.formatDate(response.TranDate ?? ''),
               style: TextStyle(
                   fontSize: 10,
                   color: Colors.black,
                   fontWeight: FontWeight.bold)),
         ),
-        DataCell(Text(response.RefNo,
+        DataCell(Text(response.RefNo ?? '',
             style: TextStyle(
                 fontSize: 10,
                 color: Colors.black,
                 fontWeight: FontWeight.bold))),
         DataCell(Text(
             UtilityFunctions.formatToCurrencyWithMoneyFormatterPUB(
-                response.TranAmount),
+                response.TranAmount ?? ''),
             style: TextStyle(
                 fontSize: 10,
                 color: Colors.black,
@@ -73,7 +73,7 @@ class HomeRecentPledgeContributions extends StatelessWidget {
         DataCell(Container(
           child: Text(
               UtilityFunctions.formatToCurrencyWithMoneyFormatterPUB(
-                  response.BalAmount),
+                  response.BalAmount ?? ''),
               style: TextStyle(
                   fontSize: 10,
                   color: Colors.black,
@@ -142,7 +142,7 @@ class HomeRecentPledgeContributions extends StatelessWidget {
                       Row(
                         mainAxisAlignment: MainAxisAlignment.start,
                         children: <Widget>[
-                          Icon(FontAwesomeIcons.clipboardList,
+                          Icon(FontAwesomeIcons.clipboardList.data,
                               color: Color(0xFF487890)),
                           SizedBox(height: 5),
                           Text("Recent Pledges & Contributions",

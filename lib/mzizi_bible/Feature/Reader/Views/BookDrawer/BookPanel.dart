@@ -5,7 +5,7 @@ import 'BookChapterIcons.dart';
 
 class BookPanel extends StatelessWidget {
   final Book book;
-  const BookPanel({Key key, @required this.book}) : super(key: key);
+  const BookPanel({Key? key, required this.book}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -16,7 +16,7 @@ class BookPanel extends StatelessWidget {
         child: Text(
           book.name,
           textAlign: TextAlign.left,
-          style: Theme.of(context).textTheme.display1,
+          style: Theme.of(context).textTheme.headlineMedium,
         ),
       ),
       children: <Widget>[

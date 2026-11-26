@@ -1,15 +1,15 @@
 class PortalMemberProfileModel {
-  String StudentFullName;
-  String InstituteName;
-  String GroupName;
-  String StudentPhoneNo;
-  String Email;
-  String RegistrationNumer;
-  String SchoolName;
-  String CourseCode;
-  String LevelName;
-  String Nationality;
-  String NationalID;
+  String? StudentFullName;
+  String? InstituteName;
+  String? GroupName;
+  String? StudentPhoneNo;
+  String? Email;
+  String? RegistrationNumer;
+  String? SchoolName;
+  String? CourseCode;
+  String? LevelName;
+  String? Nationality;
+  String? NationalID;
 
   PortalMemberProfileModel(
       {this.StudentFullName,

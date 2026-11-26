@@ -1,16 +1,12 @@
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_to_do_list_response.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalToDoList {
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  String DiaryEntryTypeID;
-  String DiaryEntryType;
-  String DiaryEntriesCount;
+  int? id;
+  String? DiaryEntryTypeID;
+  String? DiaryEntryType;
+  String? DiaryEntriesCount;
 
   PortalToDoList(
     this.id,

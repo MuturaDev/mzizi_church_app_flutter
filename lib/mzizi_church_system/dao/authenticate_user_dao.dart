@@ -37,10 +37,10 @@ class AuthenticateUserDAO {
     }
   }
 
-  Future<Student> getStudent() async {
+  Future<Student?> getStudent() async {
     AuthenticateUserDAO dao = new AuthenticateUserDAO();
 
-    Student student;
+    Student? student;
 
     List<AuthenticationUserResponse> studentDetails = await dao.getUser();
 

@@ -1,10 +1,6 @@
-import 'package:add_thumbnail/add_thumbnail.dart';
 import 'package:enhanced_future_builder/enhanced_future_builder.dart';
 import 'package:flutter/material.dart';
-import 'package:fluttertoast/fluttertoast.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/progress_button.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/example_screens/login_page_example.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_video_gallery_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
@@ -12,7 +8,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.da
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class PortalVideoGalleryPage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
   PortalVideoGalleryPage({this.onMenuPressedHere});
   @override
   _PortalVideoGalleryPageState createState() => _PortalVideoGalleryPageState();
@@ -22,12 +18,12 @@ class _PortalVideoGalleryPageState extends State<PortalVideoGalleryPage> {
   @override
   static String selectedvideo = "";
 
-  List<MediaInfo> mediaList = [];
   //List<String> urlList = ["https://www.youtube.com/watch?v=uv54ec8Pg1k"];
 
-  Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() async {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
+    return false;
   }
 
   @override
@@ -105,17 +101,15 @@ class _PortalVideoGalleryPageState extends State<PortalVideoGalleryPage> {
   //       )
   //       .toList();
 
-  Widget body(final List<PortalVideoGalleryResponseModel> responseList) {
+  Widget body(List<PortalVideoGalleryResponseModel> responseList) {
     if (selectedvideo.isEmpty && responseList.isNotEmpty) {
       selectedvideo =
-          UtilityFunctions.getVideoIDFromYoutubeUrl(responseList[0].VideoLink);
+          UtilityFunctions.getVideoIDFromYoutubeUrl(responseList[0].VideoLink ?? '');
     }
 
-    YoutubePlayerController _youtubeController = YoutubePlayerController(
-        initialVideoId: selectedvideo,
-        flags: YoutubePlayerFlags(
-          autoPlay: false,
-        ));
+    YoutubePlayerController _youtubeController =
+        YoutubePlayerController.fromVideoId(
+            videoId: selectedvideo, autoPlay: false);
 
     return Container(
       child: Stack(
@@ -135,15 +129,6 @@ class _PortalVideoGalleryPageState extends State<PortalVideoGalleryPage> {
                     child: YoutubePlayer(
                       key: ObjectKey(_youtubeController),
                       controller: _youtubeController,
-                      actionsPadding: EdgeInsets.only(left: 16.0),
-                      bottomActions: [
-                        CurrentPosition(),
-                        SizedBox(width: 10.0),
-                        ProgressBar(isExpanded: true),
-                        SizedBox(width: 10.0),
-                        RemainingDuration(),
-                        // FullScreenButton(),
-                      ],
                     ),
                   )),
             ),
@@ -166,12 +151,12 @@ class _PortalVideoGalleryPageState extends State<PortalVideoGalleryPage> {
     );
   }
 
-  Widget listItemWidget(final PortalVideoGalleryResponseModel response) {
+  Widget listItemWidget(PortalVideoGalleryResponseModel response) {
     return GestureDetector(
       onTap: () {
         setState(() {
           selectedvideo =
-              UtilityFunctions.getVideoIDFromYoutubeUrl(response.VideoLink);
+              UtilityFunctions.getVideoIDFromYoutubeUrl(response.VideoLink ?? '');
         });
       },
       child: Card(
@@ -192,14 +177,14 @@ class _PortalVideoGalleryPageState extends State<PortalVideoGalleryPage> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: <Widget>[
                         Text(
-                          response.Name,
+                          response.Name ?? '',
                           style: TextStyle(
                               fontWeight: FontWeight.bold, fontSize: 15),
                         ),
                         SizedBox(height: 10),
                         Expanded(
                           child: Text(
-                            response.Body,
+                            response.Body ?? '',
                             style: TextStyle(
                               fontSize: 13,
                             ),
@@ -211,19 +196,18 @@ class _PortalVideoGalleryPageState extends State<PortalVideoGalleryPage> {
                   margin: EdgeInsets.only(top: 5),
                   height: 150,
                   width: 130,
-                  child: MediaListView(
-                    //titleTextStyle: TextStyle(color: Colors.white),
-                    // titleTextBackGroundColor: Colors.grey,
-                    overlayChild: Icon(Icons.save, color: Colors.transparent),
-                    urls: [
-                      "https://www.youtube.com/watch?v=" +
+                  // YouTube thumbnail (replaces the abandoned add_thumbnail package).
+                  child: ClipRRect(
+                    borderRadius: BorderRadius.circular(4),
+                    child: Image.network(
+                      "https://img.youtube.com/vi/" +
                           UtilityFunctions.getVideoIDFromYoutubeUrl(
-                              response.VideoLink)
-                    ],
-                    mediaList: mediaList,
-                    onPressed: (url) {
-                      //print(url);
-                    },
+                              response.VideoLink ?? '') +
+                          "/hqdefault.jpg",
+                      fit: BoxFit.cover,
+                      errorBuilder: (context, error, stack) =>
+                          const Icon(Icons.ondemand_video, size: 48),
+                    ),
                   ),
                 )
               ],

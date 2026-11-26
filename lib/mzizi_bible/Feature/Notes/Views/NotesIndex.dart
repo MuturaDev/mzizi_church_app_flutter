@@ -19,7 +19,7 @@ class NotesIndex extends StatelessWidget {
             builder: (context, snapshot) {
               var notes = snapshot.data;
               return ListView.builder(
-                itemCount: notes.length,
+                itemCount: notes!.length,
                 itemBuilder: (context, index) {
                   var note = notes[index];
                   return NoteTile(note: note);

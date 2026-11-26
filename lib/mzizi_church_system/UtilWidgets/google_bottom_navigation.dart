@@ -4,48 +4,48 @@ import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system
 
 class GNav extends StatefulWidget {
   GNav({
-    Key key,
-    this.tabs,
+    Key? key,
+    required this.tabs,
     this.selectedIndex = 0,
-    this.onTabChange,
-    this.gap,
-    this.padding,
-    this.activeColor,
+    required this.onTabChange,
+    required this.gap,
+    required this.padding,
+    required this.activeColor,
     this.color,
     this.backgroundColor,
-    this.tabBackgroundColor,
-    this.iconSize,
+    required this.tabBackgroundColor,
+    required this.iconSize,
     this.textStyle,
     this.curve,
     this.tabMargin,
     this.debug,
-    this.duration,
+    required this.duration,
     this.tabBackgroundGradient,
   });
 
   final List<GButton> tabs;
-  final int selectedIndex;
+  late final int selectedIndex;
   final Function onTabChange;
   final double gap;
   final double iconSize;
   final Color activeColor;
-  final Color backgroundColor;
+  final Color? backgroundColor;
   final Color tabBackgroundColor;
-  final Color color;
+  final Color? color;
   final EdgeInsetsGeometry padding;
-  final EdgeInsetsGeometry tabMargin;
-  final TextStyle textStyle;
+  final EdgeInsetsGeometry? tabMargin;
+  final TextStyle? textStyle;
   final Duration duration;
-  final Curve curve;
-  final bool debug;
-  final Gradient tabBackgroundGradient;
+  final Curve? curve;
+  final bool? debug;
+  final Gradient? tabBackgroundGradient;
 
   @override
   _GNavState createState() => _GNavState();
 }
 
 class _GNavState extends State<GNav> {
-  int selectedIndex;
+  late int selectedIndex;
   bool clickable = true;
 
   @override
@@ -129,7 +129,7 @@ class _GNavState extends State<GNav> {
                               ? 'Jubilee Christian '
                               : FlavourConfig.isMzizicms() ? 'Mzizi' : 'Mzizi',
                   style: GoogleFonts.portLligatSans(
-                    textStyle: Theme.of(context).textTheme.display1,
+                    textStyle: Theme.of(context).textTheme.headlineMedium,
                     fontSize: 14.5,
                     fontWeight: FontWeight.w700,
                     color: Color(0xFF487890),
@@ -157,32 +157,32 @@ class _GNavState extends State<GNav> {
 }
 
 class GButton extends StatefulWidget {
-  final bool active;
-  final bool debug;
-  final double gap;
-  final Color iconColor;
-  final Color iconActiveColor;
-  final Color textColor;
-  final EdgeInsetsGeometry padding;
-  final EdgeInsetsGeometry margin;
-  final TextStyle textStyle;
-  final double iconSize;
-  final Function onPressed;
+  final bool? active;
+  final bool? debug;
+  final double? gap;
+  final Color? iconColor;
+  final Color? iconActiveColor;
+  final Color? textColor;
+  final EdgeInsetsGeometry? padding;
+  final EdgeInsetsGeometry? margin;
+  final TextStyle? textStyle;
+  final double? iconSize;
+  final Function? onPressed;
   final String text;
   final IconData icon;
   final Color backgroundColor;
-  final Duration duration;
-  final Curve curve;
-  final Gradient backgroundGradient;
+  final Duration? duration;
+  final Curve? curve;
+  final Gradient? backgroundGradient;
 
   GButton({
-    Key key,
+    Key? key,
     this.active,
-    this.backgroundColor,
-    this.icon,
+    required this.backgroundColor,
+    required this.icon,
     this.iconColor,
     this.iconActiveColor,
-    this.text,
+    required this.text,
     this.textColor,
     this.padding,
     this.margin,
@@ -204,21 +204,21 @@ class _GButtonState extends State<GButton> {
   @override
   Widget build(BuildContext context) {
     return Button(
-      debug: widget.debug,
-      duration: widget.duration,
-      iconSize: widget.iconSize,
-      active: widget.active,
+      debug: widget.debug ?? false,
+      duration: widget.duration ?? const Duration(milliseconds: 500),
+      iconSize: widget.iconSize ?? 24,
+      active: widget.active ?? false,
       onPressed: () {
-        widget.onPressed();
+        widget.onPressed?.call();
       },
-      padding: widget.padding,
-      margin: widget.margin,
-      gap: widget.gap,
+      padding: widget.padding ?? EdgeInsets.zero,
+      margin: widget.margin ?? EdgeInsets.zero,
+      gap: widget.gap ?? 0,
       color: widget.backgroundColor,
       gradient: widget.backgroundGradient,
-      curve: widget.curve,
+      curve: widget.curve ?? Curves.easeInCubic,
       icon: Icon(widget.icon,
-          color: widget.active ? widget.iconActiveColor : widget.iconColor,
+          color: (widget.active ?? false) ? widget.iconActiveColor : widget.iconColor,
           size: widget.iconSize),
       text: Text(
         widget.text,
@@ -231,19 +231,19 @@ class _GButtonState extends State<GButton> {
 
 class Button extends StatefulWidget {
   Button({
-    Key key,
-    this.icon,
-    this.iconSize,
-    this.text,
+    Key? key,
+    required this.icon,
+    required this.iconSize,
+    required this.text,
     this.gap = 0,
-    this.color,
-    this.onPressed,
-    this.duration,
-    this.curve,
+    required this.color,
+    required this.onPressed,
+    required this.duration,
+    required this.curve,
     this.padding = const EdgeInsets.all(25),
     this.margin = const EdgeInsets.all(0),
     this.active = false,
-    this.debug,
+    required this.debug,
     this.gradient,
   }) : super(key: key);
 
@@ -259,17 +259,17 @@ class Button extends StatefulWidget {
   final EdgeInsetsGeometry margin;
   final Duration duration;
   final Curve curve;
-  final Gradient gradient;
+  final Gradient? gradient;
 
   @override
   _ButtonState createState() => _ButtonState();
 }
 
 class _ButtonState extends State<Button> with TickerProviderStateMixin {
-  bool _expanded;
+  late bool _expanded;
 
-  AnimationController expandController;
-  Animation<double> animation;
+  late AnimationController expandController;
+  late Animation<double> animation;
 
   @override
   void initState() {
@@ -314,7 +314,7 @@ class _ButtonState extends State<Button> with TickerProviderStateMixin {
         padding: widget.margin,
         child: AnimatedContainer(
           // padding: EdgeInsets.symmetric(horizontal: 5),
-          padding: widget.padding,
+          padding: widget.padding ?? EdgeInsets.zero,
           // curve: Curves.easeOutQuad,
           duration: Duration(
               milliseconds:
@@ -328,7 +328,7 @@ class _ButtonState extends State<Button> with TickerProviderStateMixin {
               Radius.circular(100),
             ),
           ),
-          child: Stack(overflow: Overflow.visible, children: <Widget>[
+          child: Stack(clipBehavior: Clip.none, children: <Widget>[
             Row(
               children: <Widget>[
                 Container(

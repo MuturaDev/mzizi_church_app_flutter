@@ -6,15 +6,15 @@ part of 'portal_siblings_response_model.dart';
 // JsonSerializableGenerator
 // **************************************************************************
 
-PortalSiblings _$PortalSiblingsFromJson(Map<String, dynamic> json) {
-  return PortalSiblings(
-      json['id'] as int,
-      json['StudentID'] as String,
-      json['RegistrationNumber'] as String,
-      json['StudentFullName'] as String,
-      json['CourseName'] as String,
-      json['StudentStatus'] as String);
-}
+PortalSiblings _$PortalSiblingsFromJson(Map<String, dynamic> json) =>
+    PortalSiblings(
+      (json['id'] as num?)?.toInt(),
+      json['StudentID'] as String?,
+      json['RegistrationNumber'] as String?,
+      json['StudentFullName'] as String?,
+      json['CourseName'] as String?,
+      json['StudentStatus'] as String?,
+    );
 
 Map<String, dynamic> _$PortalSiblingsToJson(PortalSiblings instance) =>
     <String, dynamic>{
@@ -23,5 +23,5 @@ Map<String, dynamic> _$PortalSiblingsToJson(PortalSiblings instance) =>
       'RegistrationNumber': instance.RegistrationNumber,
       'StudentFullName': instance.StudentFullName,
       'CourseName': instance.CourseName,
-      'StudentStatus': instance.StudentStatus
+      'StudentStatus': instance.StudentStatus,
     };

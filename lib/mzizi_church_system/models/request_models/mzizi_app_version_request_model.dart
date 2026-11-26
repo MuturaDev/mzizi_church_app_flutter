@@ -8,9 +8,9 @@ part 'mzizi_app_version_request_model.g.dart';
 @JsonSerializable()
 class MziziAppVersionRequest{
 
-  String VersionName;
-  String VersionCode;
-  String AppFlavor;
+  String? VersionName;
+  String? VersionCode;
+  String? AppFlavor;
 
   MziziAppVersionRequest(
     this.VersionName,

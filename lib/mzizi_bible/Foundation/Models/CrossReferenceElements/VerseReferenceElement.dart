@@ -1,15 +1,13 @@
 import 'package:mzizichurchsystem/mzizi_bible/Feature/InheritedBlocs.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/CrossReferenceElements/ICrossReferenceElement.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter/src/painting/inline_span.dart';
 
 class VerseReferenceElement extends ICrossReferenceElement {
   String startingVerseId;
   String endingVerseId;
 
-  VerseReferenceElement({text, this.startingVerseId, this.endingVerseId})
+  VerseReferenceElement({text, required this.startingVerseId, required this.endingVerseId})
       : super(text: text);
 
   @override
@@ -26,7 +24,7 @@ class VerseReferenceElement extends ICrossReferenceElement {
               },
               child: Text(
                 '''${this.text}''',
-                style: Theme.of(context).textTheme.body2.copyWith(
+                style: Theme.of(context).textTheme.bodyLarge!.copyWith(
                       color: Colors.blue,
                     ),
               ),

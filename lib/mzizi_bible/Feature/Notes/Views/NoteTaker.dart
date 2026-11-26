@@ -1,92 +1,66 @@
-import 'dart:convert';
+import 'dart:async';
 
+import 'package:flutter/material.dart';
+import 'package:flutter_quill/flutter_quill.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Feature/Navigation/navigation_feature.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/foundation.dart';
-import 'package:flutter/material.dart';
-import 'package:quill_delta/quill_delta.dart';
-import 'package:zefyr/zefyr.dart';
-import 'package:zefyr/zefyr.dart';
-import 'package:zefyr/zefyr.dart';
-import 'package:zefyr/zefyr.dart';
 
 import '../../InheritedBlocs.dart';
 
+/// Rich-text note editor (flutter_quill; previously zefyr).
 class NotePage extends StatefulWidget {
   final Note note;
 
-  const NotePage({Key key, this.note}) : super(key: key);
+  const NotePage({super.key, required this.note});
+
   @override
-  NotePageState createState() => NotePageState(note: note);
+  NotePageState createState() => NotePageState();
 }
 
 class NotePageState extends State<NotePage> {
-  final Note note;
-   ZefyrController _controller;
-  FocusNode _focusNode;
+  late final QuillController _controller;
+  late final FocusNode _focusNode;
+  StreamSubscription<DocChange>? _changes;
 
-  NotePageState({this.note});
-  Delta originalDelta;
+  Note get note => widget.note;
+
   @override
   void initState() {
     super.initState();
-     _controller = ZefyrController(note.doc);
-    _focusNode = FocusNode();
-    originalDelta = _controller.document.toDelta();
-    _controller.addListener(
-      () {
-        var delta = _controller.document.toDelta();
-        if (delta != originalDelta &&
-            _controller.lastChangeSource == ChangeSource.local) {
-          originalDelta = delta;
-          note.lastUpdated = DateTime.now();
-          var json = delta.toJson();
-          String text = jsonEncode(json);
-          //var rule =  ResolveInlineFormatRule();
-          if (getVerseIndex(text) > -1) {
-             int index = getVerseIndex(text);
-            var preVerse = text.replaceAll("John 2:1-3",
-                " \"}, {\"insert\":\"John 2:1-3\",\"attributes\": {\"a\":\"https://bible.com\"}}, {\"insert\":\"");
-            var post = jsonDecode(preVerse);
-            var doc = NotusDocument.fromJson(post);
-           // var Delta = Delta.fromJson(post); 
-            var change = _controller.document.format(
-                getVerseIndex(text),
-                getVerseLength(text),
-                NotusAttribute.link.fromString("https://bible.com"));
-             _controller.formatText(getVerseIndex(text), getVerseLength(text),
-                NotusAttribute.link.fromString("https://bible.com")); 
-                
-            _controller.compose(change);
-          }
-          InheritedBlocs.of(context).notesBloc.addUpdateNote.add(note); 
-        }
-      },
+    _controller = QuillController(
+      document: note.doc,
+      selection: const TextSelection.collapsed(offset: 0),
     );
+    _focusNode = FocusNode();
+    _changes = _controller.changes.listen((change) {
+      if (change.source != ChangeSource.local) return;
+      note.lastUpdated = DateTime.now();
+      InheritedBlocs.of(context).notesBloc.addUpdateNote.add(note);
+    });
+  }
+
+  @override
+  void dispose() {
+    _changes?.cancel();
+    _controller.dispose();
+    _focusNode.dispose();
+    super.dispose();
   }
 
   @override
   Widget build(BuildContext context) {
-       final theme = ZefyrThemeData(
-     // textColor: Colors.white70,
-      //cursorColor: Colors.blue,
-      toolbarTheme: ToolbarTheme.fallback(context).copyWith(
-        color: Colors.grey.shade800,
-        toggleColor: Colors.grey.shade900,
-        iconColor: Colors.white,
-        disabledIconColor: Colors.grey.shade500,
-      ),
-    ); 
     return Scaffold(
       appBar: AppBar(
-        title: Text(note.title),
+        title: Text(note.title ?? ''),
         actions: <Widget>[
           IconButton(
-            icon: Icon(Icons.view_agenda),
+            icon: const Icon(Icons.view_agenda),
             onPressed: () async {
               ChapterReference reference = await InheritedBlocs.of(context)
                   .bibleBloc
                   .chapterReference
                   .first;
+              if (!context.mounted) return;
               InheritedBlocs.of(context)
                   .bibleBloc
                   .currentPopupChapterReference
@@ -94,6 +68,7 @@ class NotePageState extends State<NotePage> {
               InheritedBlocs.of(context)
                   .showReferenceInBottomSheet(context)
                   .then((shouldReturnToReader) {
+                if (!context.mounted) return;
                 Navigator.of(context).pop();
                 InheritedBlocs.of(context)
                     .navigationBloc
@@ -106,25 +81,18 @@ class NotePageState extends State<NotePage> {
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
-        child: 
-         ZefyrScaffold(
-          child: ZefyrTheme(
-            data: theme,
-            child: ZefyrEditor(
-              controller: _controller,
-              focusNode: _focusNode,
+        child: Column(
+          children: [
+            QuillSimpleToolbar(controller: _controller),
+            Expanded(
+              child: QuillEditor.basic(
+                controller: _controller,
+                focusNode: _focusNode,
+              ),
             ),
-          ),
-        ), 
+          ],
+        ),
       ),
     );
-  }
-
-  int getVerseIndex(String text) {
-    return text.indexOf("John 2:1-3");
-  }
-
-  int getVerseLength(String text) {
-    return ("John 2:1-3").length;
   }
 }

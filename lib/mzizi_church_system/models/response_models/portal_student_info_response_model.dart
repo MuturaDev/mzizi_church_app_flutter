@@ -1,37 +1,32 @@
 
 
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_student_info_response_model.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalStudentInfo{
-
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  String StudentFullName;
-  String RegistrationNumber;
-  String Email;
-  String StudentPhoneNo;
-  String DOB;
-  String DateOfAdmission;
-  String TwoNames;
-  String Balance;
-  String MeanGrade;
-  String MeanScore;
-  String Attendance;
-  String Events;
-  String PhotoUrl;
-  String CopyrightYear;
-  String ClassStream;
-  String SchoolName;
-  String SchoolMotto;
-  String BillingBalance;
-  String PortalAccount;
-  String PortalPaybill;
-  String OrganizationID;
+  int? id;
+  String? StudentFullName;
+  String? RegistrationNumber;
+  String? Email;
+  String? StudentPhoneNo;
+  String? DOB;
+  String? DateOfAdmission;
+  String? TwoNames;
+  String? Balance;
+  String? MeanGrade;
+  String? MeanScore;
+  String? Attendance;
+  String? Events;
+  String? PhotoUrl;
+  String? CopyrightYear;
+  String? ClassStream;
+  String? SchoolName;
+  String? SchoolMotto;
+  String? BillingBalance;
+  String? PortalAccount;
+  String? PortalPaybill;
+  String? OrganizationID;
 
 
   PortalStudentInfo(

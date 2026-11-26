@@ -9,22 +9,22 @@ class DismissableChapterViewer extends StatelessWidget {
   final Chapter previousChapter;
   final Chapter nextChapter;
   final Book book;
-  final int verseNumber;
+  final int? verseNumber;
   final bool shouldHaveBackgrounds;
   final bool showVerseNumbers;
   final Function scrollToVerseMethod;
   final bool showReferences;
 
   DismissableChapterViewer({
-    this.chapter,
-    this.book,
-    this.shouldHaveBackgrounds,
-    this.showVerseNumbers,
+    required this.chapter,
+    required this.book,
+    required this.shouldHaveBackgrounds,
+    required this.showVerseNumbers,
     this.verseNumber,
-    this.scrollToVerseMethod,
-    this.previousChapter,
-    this.nextChapter,
-    this.showReferences,
+    required this.scrollToVerseMethod,
+    required this.previousChapter,
+    required this.nextChapter,
+    required this.showReferences,
   });
 
   Widget build(BuildContext context) {

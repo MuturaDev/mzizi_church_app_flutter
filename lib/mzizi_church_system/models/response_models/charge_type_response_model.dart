@@ -1,4 +1,3 @@
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'charge_type_response_model.g.dart';
@@ -6,8 +5,8 @@ part 'charge_type_response_model.g.dart';
 @JsonSerializable()
 class PortalChargeTypeResponseModel {
 
-  String ID;
-  String ChargeTypeName;
+  String? ID;
+  String? ChargeTypeName;
 
   PortalChargeTypeResponseModel(
     this.ID,

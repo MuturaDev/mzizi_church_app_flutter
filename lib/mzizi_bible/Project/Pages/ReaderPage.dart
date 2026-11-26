@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 
 class ReaderPage extends StatefulWidget {
   const ReaderPage({
-    Key key,
+    Key? key,
   }) : super(key: key);
 
   @override
@@ -15,7 +15,7 @@ class ReaderPage extends StatefulWidget {
 
 class _ReaderPageState extends State<ReaderPage> {
   ScrollController controller = ScrollController();
-  bool hasScrolled;
+  late bool hasScrolled;
 
   @override
   void initState() {
@@ -44,12 +44,12 @@ class _ReaderPageState extends State<ReaderPage> {
                     slivers: <Widget>[
                       BibleReaderAppBar(
                           title:
-                              "${chapterReference.data.chapter.book.name} ${chapterReference.data.chapter.number}"),
+                              "${chapterReference.data!.chapter.book!.name} ${chapterReference.data!.chapter.number}"),
                       SliverToBoxAdapter(
                         child: Reader(
                           nextChapter: nextChapter.data,
                           previousChapter: prevChapter.data,
-                          chapterReference: chapterReference.data,
+                          chapterReference: chapterReference.data!,
                           controller: controller,
                         ),
                       ),

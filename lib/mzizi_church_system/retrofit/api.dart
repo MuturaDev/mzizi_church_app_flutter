@@ -1,9 +1,7 @@
 import 'package:dio/dio.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_global_settings_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/charge_type_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/global_setting_response.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/mzizi_app_version_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_app_get_portal_photo_gallery.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_authentication_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_church_services_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_contacts_response_model.dart';

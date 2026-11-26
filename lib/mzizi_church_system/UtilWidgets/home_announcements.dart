@@ -1,6 +1,5 @@
 import 'package:enhanced_future_builder/enhanced_future_builder.dart';
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/authenticate_user_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/portal_todo_list_dao.dart';
@@ -16,7 +15,7 @@ class HomeAnnouncements extends StatelessWidget {
 
     try {
       if (await UtilityFunctions.checkConnection()) {
-        Student student = await AuthenticateUserDAO().getStudent();
+        Student? student = await AuthenticateUserDAO().getStudent();
         // Student student = new Student("23309", "1000");
         if (student != null) {
           final dynamic transactions =
@@ -140,7 +139,7 @@ class HomeAnnouncements extends StatelessWidget {
           color: Color(0xFF487890),
         ),
         padding: EdgeInsets.all(10.0),
-        child: Text(portalToDo.DiaryEntryType,
+        child: Text(portalToDo.DiaryEntryType ?? '',
             style: TextStyle(fontSize: 15, color: Colors.white)),
       ),
     );

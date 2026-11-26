@@ -7,15 +7,17 @@ part of 'mzizi_app_version_request_model.dart';
 // **************************************************************************
 
 MziziAppVersionRequest _$MziziAppVersionRequestFromJson(
-    Map<String, dynamic> json) {
-  return MziziAppVersionRequest(json['VersionName'] as String,
-      json['VersionCode'] as String, json['AppFlavor'] as String);
-}
+  Map<String, dynamic> json,
+) => MziziAppVersionRequest(
+  json['VersionName'] as String?,
+  json['VersionCode'] as String?,
+  json['AppFlavor'] as String?,
+);
 
 Map<String, dynamic> _$MziziAppVersionRequestToJson(
-        MziziAppVersionRequest instance) =>
-    <String, dynamic>{
-      'VersionName': instance.VersionName,
-      'VersionCode': instance.VersionCode,
-      'AppFlavor': instance.AppFlavor
-    };
+  MziziAppVersionRequest instance,
+) => <String, dynamic>{
+  'VersionName': instance.VersionName,
+  'VersionCode': instance.VersionCode,
+  'AppFlavor': instance.AppFlavor,
+};

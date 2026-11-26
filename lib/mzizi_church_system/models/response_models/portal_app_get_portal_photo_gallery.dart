@@ -1,10 +1,10 @@
 class PortalPhotoGallery {
-  String albumID;
-  String albumName;
-  String albumDescription;
-  String albumType;
-  String albumPhotoCount;
-  List<Albumphotos> albumphotos;
+  String? albumID;
+  String? albumName;
+  String? albumDescription;
+  String? albumType;
+  String? albumPhotoCount;
+  List<Albumphotos>? albumphotos;
 
   PortalPhotoGallery(
       {this.albumID,
@@ -21,9 +21,9 @@ class PortalPhotoGallery {
     albumType = json['AlbumType'];
     albumPhotoCount = json['AlbumPhotoCount'];
     if (json['Albumphotos'] != null) {
-      albumphotos = new List<Albumphotos>();
+      albumphotos = <Albumphotos>[];
       json['Albumphotos'].forEach((v) {
-        albumphotos.add(new Albumphotos.fromJson(v));
+        albumphotos!.add(new Albumphotos.fromJson(v));
       });
     }
   }
@@ -36,17 +36,17 @@ class PortalPhotoGallery {
     data['AlbumType'] = this.albumType;
     data['AlbumPhotoCount'] = this.albumPhotoCount;
     if (this.albumphotos != null) {
-      data['Albumphotos'] = this.albumphotos.map((v) => v.toJson()).toList();
+      data['Albumphotos'] = this.albumphotos!.map((v) => v.toJson()).toList();
     }
     return data;
   }
 }
 
 class Albumphotos {
-  String imageID;
-  String imageLink;
-  Null imageHeight;
-  Null imageWidth;
+  String? imageID;
+  String? imageLink;
+  dynamic imageHeight;
+  dynamic imageWidth;
 
   Albumphotos(
       {this.imageID, this.imageLink, this.imageHeight, this.imageWidth});

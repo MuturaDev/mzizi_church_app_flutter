@@ -3,7 +3,7 @@ import 'IChapterElement.dart';
 
 class DivineName extends IChapterElement {
   final String text;
-  DivineName({this.text}) : super();
+  DivineName({required this.text}) : super();
 
   @override
   List<Text> toTextWidget(BuildContext context) {
@@ -24,7 +24,7 @@ class DivineName extends IChapterElement {
       children: [
         TextSpan(
           text: '''${this.text}''',
-          style: Theme.of(context).textTheme.body2,
+          style: Theme.of(context).textTheme.bodyLarge,
         )
       ],
     );

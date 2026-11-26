@@ -1,13 +1,10 @@
-import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:line_icons/line_icons.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
-import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class SermonSeriesPage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
   SermonSeriesPage({this.onMenuPressedHere});
   @override
   _SermonSeriesPageState createState() => _SermonSeriesPageState();
@@ -127,7 +124,7 @@ class _SermonSeriesPageState extends State<SermonSeriesPage> {
   }
 
   List<Widget> listOfVideoWidget() {
-    List<Widget> returnList = new List();
+    List<Widget> returnList = [];
 
     final List<String> _videosList = [
       // 'https://imagizer.imageshack.com/img922/1959/IaIQx8.jpg',
@@ -163,7 +160,7 @@ class _SermonSeriesPageState extends State<SermonSeriesPage> {
     //Blur image
     //https://medium.com/fluttervn/how-to-make-blur-effect-in-flutter-using-backdropfilter-imagefilter-559ffd8ab73
 
-    List<VideoList> videoListDetails = new List();
+    List<VideoList> videoListDetails = [];
     VideoList videoDetails1 = new VideoList(
       '5 Sermons',
     );

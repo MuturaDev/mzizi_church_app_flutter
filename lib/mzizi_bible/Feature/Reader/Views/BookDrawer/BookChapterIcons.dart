@@ -5,9 +5,9 @@ import 'ChapterCircle.dart';
 
 class BookChapterCirclesList extends StatelessWidget {
   const BookChapterCirclesList({
-    Key key,
-    @required this.context,
-    @required this.book,
+    Key? key,
+    required this.context,
+    required this.book,
   }) : super(key: key);
 
   final BuildContext context;
@@ -19,7 +19,7 @@ class BookChapterCirclesList extends StatelessWidget {
       spacing: -25.0,
       runSpacing: 10.0,
       children: book.chapters
-          .map(
+          !.map(
             (chap) => ChapterCircle(
                   book: book,
                   chapter: chap,

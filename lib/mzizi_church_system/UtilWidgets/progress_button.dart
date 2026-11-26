@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 /// A button that animates between state changes.
 /// Progress state is just a small circle with a progress indicator inside
@@ -14,13 +13,13 @@ class ProgressButton extends StatefulWidget {
   final bool myColor;
 
   ProgressButton(
-      {Key key,
-      @required this.buttonState,
-      @required this.onPressed,
+      {Key? key,
+      required this.buttonState,
+      required this.onPressed,
       this.myColor = false,
-      this.child,
-      this.backgroundColor,
-      this.progressColor})
+      required this.child,
+      required this.backgroundColor,
+      required this.progressColor})
       : super(key: key);
 
   @override
@@ -31,11 +30,11 @@ enum ButtonState { inProgress, error, normal }
 
 class _ProgressButtonState extends State<ProgressButton>
     with TickerProviderStateMixin {
-  AnimationController _errorAnimationController;
-  AnimationController _progressAnimationController;
-  Animation<Offset> _errorAnimation;
-  Animation<BorderRadius> _borderAnimation;
-  Animation<double> _widthAnimation;
+  late AnimationController _errorAnimationController;
+  late AnimationController _progressAnimationController;
+  late Animation<Offset> _errorAnimation;
+  late Animation<BorderRadius?> _borderAnimation;
+  late Animation<double> _widthAnimation;
 
   double get buttonWidth => _widthAnimation.value ?? 0;
   BorderRadius get borderRadius =>
@@ -142,7 +141,7 @@ class _ProgressButtonState extends State<ProgressButton>
       curve: Curves.linear,
     ));
 
-    Widget buttonContent;
+    Widget buttonContent = const SizedBox.shrink();
 
     if (widget.buttonState != ButtonState.inProgress) {
       buttonContent = child;

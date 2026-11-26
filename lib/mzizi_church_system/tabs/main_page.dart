@@ -1,4 +1,3 @@
-import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
@@ -6,7 +5,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.
 
 class MainPage extends KFDrawerContent {
   MainPage({
-    Key key,
+    Key? key,
   });
 
   @override
@@ -388,9 +387,9 @@ class _MainPageState extends State<MainPage> {
 
 
 class CommunicationModel{
-  IconData icon;
-  String title;
-  List<String> subTitle;
+  late IconData icon;
+  late String title;
+  late List<String> subTitle;
 
    CommunicationModel(IconData icon, String title, List<String> subTitle){
      this.icon = icon;

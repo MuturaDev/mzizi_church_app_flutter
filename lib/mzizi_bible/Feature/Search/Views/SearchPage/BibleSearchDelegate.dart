@@ -3,12 +3,11 @@ import 'package:mzizichurchsystem/mzizi_bible/Feature/InheritedBlocs.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Feature/Navigation/Views/AppBar/BibleBottomNavigationBar.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:queries/collections.dart';
 
 import 'SearchFilter.dart';
 import 'SearchResults.dart';
 
-class BibleSearchDelegate extends SearchDelegate<Chapter> {
+class BibleSearchDelegate extends SearchDelegate<Chapter?> {
   @override
   List<Widget> buildActions(BuildContext context) {
     return [
@@ -41,7 +40,7 @@ class BibleSearchDelegate extends SearchDelegate<Chapter> {
     );
   }
 
-  Widget searchResultsBody({BuildContext context}) {
+  Widget searchResultsBody({required BuildContext context}) {
     if (query.length < 3) {
       return Column(
         mainAxisAlignment: MainAxisAlignment.center,
@@ -52,8 +51,8 @@ class BibleSearchDelegate extends SearchDelegate<Chapter> {
               textScaleFactor: 1.2,
               style: Theme.of(context)
                   .textTheme
-                  .subhead
-                  .copyWith(color: Colors.red.shade300),
+                  .titleMedium
+                  !.copyWith(color: Colors.red.shade300),
             ),
           ),
           //BibleBottomNavigationBar(),
@@ -79,11 +78,11 @@ class BibleSearchDelegate extends SearchDelegate<Chapter> {
           initialData: UnmodifiableListView([]),
           builder: (BuildContext context,
               AsyncSnapshot<UnmodifiableListView<Verse>> snapshot) {
-            if (!snapshot.hasData || snapshot.data.length == 0) {
+            if (!snapshot.hasData || snapshot.data!.length == 0) {
               return Container();
             }
-            final books = Collection(snapshot.data)
-                .select((verse) => verse.chapter.book)
+            final books = snapshot.data!
+                .map((verse) => verse.chapter!.book)
                 .toList();
             return Padding(
               padding: const EdgeInsets.fromLTRB(17.0, 0.0, 17.0, 0.0),
@@ -95,7 +94,7 @@ class BibleSearchDelegate extends SearchDelegate<Chapter> {
           stream: InheritedBlocs.of(context).searchBloc.searchResults,
           builder: (BuildContext context,
               AsyncSnapshot<UnmodifiableListView<Verse>> snapshot) {
-            if (!snapshot.hasData || snapshot.data.length == 0) {
+            if (!snapshot.hasData || snapshot.data!.length == 0) {
               return Row();
             }
             return Padding(
@@ -104,18 +103,18 @@ class BibleSearchDelegate extends SearchDelegate<Chapter> {
                 mainAxisAlignment: MainAxisAlignment.end,
                 children: <Widget>[
                   Text(
-                    "${snapshot.data.length} Results",
-                    style: Theme.of(context).textTheme.body1,
+                    "${snapshot.data!.length} Results",
+                    style: Theme.of(context).textTheme.bodyMedium,
                   ),
-                  Collection(snapshot.data)
-                              .select((v) => v.chapter.book)
-                              .distinct()
-                              .count() >
+                  snapshot.data!
+                              .map((v) => v.chapter!.book)
+                              .toSet()
+                              .length >
                           1
                       ? Text("")
                       : Text(
-                          " in ${Collection(snapshot.data).select((v) => v.chapter.book).distinct().toList().first.name}",
-                          style: Theme.of(context).textTheme.body1,
+                          " in ${snapshot.data!.first.chapter!.book!.name}",
+                          style: Theme.of(context).textTheme.bodyMedium,
                         ),
                 ],
               ),
@@ -123,27 +122,27 @@ class BibleSearchDelegate extends SearchDelegate<Chapter> {
           }, initialData: null,
         ),
         Divider(),
-        StreamBuilder(
+        StreamBuilder<UnmodifiableListView<Verse>>(
           stream: InheritedBlocs.of(context).searchBloc.searchResults,
           builder:
               (context, AsyncSnapshot<UnmodifiableListView<Verse>> snapshot) {
             if (!snapshot.hasData) {
               return LoadingColumn();
-            } else if (snapshot.data.length == 0) {
+            } else if (snapshot.data!.length == 0) {
               return Column(
                 children: <Widget>[
                   Text(
                     "No Results Found.",
                     style: Theme.of(context)
                         .textTheme
-                        .subhead
-                        .copyWith(color: Colors.red.shade300),
+                        .titleMedium
+                        !.copyWith(color: Colors.red.shade300),
                   ),
                 ],
               );
             } else {
               final results = snapshot.data;
-              return SearchResults(results: results);
+              return SearchResults(results: results!);
             }
           }, initialData: null,
         ),

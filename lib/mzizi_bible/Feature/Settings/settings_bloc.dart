@@ -38,10 +38,10 @@ class SettingsBloc {
       settings["Immersive Reading Mode"] = shouldBeImmersive;
       _settingsItems.add(settings);
       if (shouldBeImmersive) {
-        SystemChrome.setEnabledSystemUIOverlays([]);
+        SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: []);
       } else {
-        SystemChrome.setEnabledSystemUIOverlays(
-            [SystemUiOverlay.bottom, SystemUiOverlay.top]);
+        SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual,
+            overlays: [SystemUiOverlay.bottom, SystemUiOverlay.top]);
       }
     });
     _settingsItems.add(settings);

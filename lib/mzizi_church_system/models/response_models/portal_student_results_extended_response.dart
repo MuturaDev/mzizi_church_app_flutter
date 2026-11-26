@@ -1,21 +1,16 @@
 
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_student_results_extended_response.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalStudentResultsExtended {
-
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  String ExamPeriod;
-  String AvgScore;
-  String MeanGrade;
-  String ExamRemarks;
-  String DownloadLink;
-  String FileURL;
+  int? id;
+  String? ExamPeriod;
+  String? AvgScore;
+  String? MeanGrade;
+  String? ExamRemarks;
+  String? DownloadLink;
+  String? FileURL;
 
   PortalStudentResultsExtended(
     this.id,

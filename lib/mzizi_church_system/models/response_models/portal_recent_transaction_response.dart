@@ -1,22 +1,17 @@
 
 
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_recent_transaction_response.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalRecentTransaction {
-
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  String RefNo;
-  String TranType;
-  String TranDate;
-  String TranAmount;
-  String BalAmount;
-  String TransType;
+  int? id;
+  String? RefNo;
+  String? TranType;
+  String? TranDate;
+  String? TranAmount;
+  String? BalAmount;
+  String? TransType;
 
   PortalRecentTransaction(
     this.id,

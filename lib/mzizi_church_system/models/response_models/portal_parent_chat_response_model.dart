@@ -1,23 +1,18 @@
 
 
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_parent_chat_response_model.g.dart';
-
-@entity
 @JsonSerializable()
 class ParentChatResponse {
+  int? id;
+  String? Msg;
+  String? DatePosted;
+  String? Actor;
 
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  String Msg;
-  String DatePosted;
-  String Actor;
-
-  bool sent;
-  bool notSent;
-  bool sending;
+  bool? sent;
+  bool? notSent;
+  bool? sending;
 
 
   ParentChatResponse(

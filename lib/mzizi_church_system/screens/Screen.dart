@@ -1,13 +1,7 @@
 import 'package:enhanced_future_builder/enhanced_future_builder.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:line_icons/line_icons.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Feature/Reader/bible_bloc.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Feature/Settings/settings_bloc.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/MultiPartXmlBibleProvider.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/ReferenceProvider.dart';
-import 'package:mzizichurchsystem/mzizi_bible/main_bible.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/authenticate_user_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/current_student_logout.dart';
@@ -17,22 +11,19 @@ import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_student_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_contacts_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/screens/dashboard_screen.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/auth_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/utils/class_builder.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
 
 class Screen extends StatefulWidget {
   int selectionIndex = 0;
   dynamic messagepass;
-  Screen({this.selectionIndex, this.messagepass});
+  Screen({required this.selectionIndex, this.messagepass});
   @override
   _ScreenState createState() => _ScreenState();
 }
 
 class _ScreenState extends State<Screen> with TickerProviderStateMixin {
-  KFDrawerController _drawerController;
+  late KFDrawerController _drawerController;
 
   @override
   void initState() {
@@ -57,7 +48,7 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
             'Upcoming Events',
             style: TextStyle(color: Colors.white),
           ),
-          icon: Icon(LineIcons.calendar_o, color: Colors.white),
+          icon: Icon(LineIcons.calendar, color: Colors.white),
           page: RouteController.routeMethod(18, controller: Controller.Screen),
         ),
         KFDrawerItem.initWithPage(
@@ -73,7 +64,7 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
             'Video Gallery',
             style: TextStyle(color: Colors.white),
           ),
-          icon: Icon(LineIcons.video_camera, color: Colors.white),
+          icon: Icon(LineIcons.video, color: Colors.white),
           page: RouteController.routeMethod(16, //1,
               controller: Controller.Screen),
         ),
@@ -82,7 +73,7 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
             'Photo Gallery',
             style: TextStyle(color: Colors.white),
           ),
-          icon: Icon(LineIcons.photo, color: Colors.white),
+          icon: Icon(LineIcons.image, color: Colors.white),
           page: RouteController.routeMethod(15, controller: Controller.Screen),
         ),
         KFDrawerItem.initWithPage(
@@ -90,7 +81,7 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
             'Church Service Booking',
             style: TextStyle(color: Colors.white),
           ),
-          icon: Icon(FontAwesomeIcons.church, color: Colors.white, size: 20),
+          icon: Icon(FontAwesomeIcons.church.data, color: Colors.white, size: 20),
           page: RouteController.routeMethod(12, controller: Controller.Screen),
         ),
         KFDrawerItem.initWithPage(
@@ -100,7 +91,7 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
             style: TextStyle(color: Colors.white),
           ),
           icon:
-              Icon(FontAwesomeIcons.registered, color: Colors.white, size: 18),
+              Icon(FontAwesomeIcons.registered.data, color: Colors.white, size: 18),
         ),
         // KFDrawerItem.initWithPage(
         //   text: Text(
@@ -124,7 +115,7 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
         return contactList;
       } else {
         if (await UtilityFunctions.checkConnection()) {
-          Student student = await AuthenticateUserDAO().getStudent();
+          Student? student = await AuthenticateUserDAO().getStudent();
           //Student student = new Student("23309", "1000");
           if (student != null) {
             final dynamic transactions =
@@ -203,7 +194,7 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
                             : Container(
                                 width: 200,
                                 //padding: EdgeInsets.only(left: 20, right: 20),
-                                child: Text(contactList[0].SettingValue,
+                                child: Text(contactList[0].SettingValue ?? '',
                                     textAlign: TextAlign.center,
                                     style: TextStyle(
                                         fontSize: 12,
@@ -225,7 +216,7 @@ class _ScreenState extends State<Screen> with TickerProviderStateMixin {
               style: TextStyle(color: Colors.white),
             ),
             icon: Icon(
-              FontAwesomeIcons.powerOff,
+              FontAwesomeIcons.powerOff.data,
               color: Colors.white,
               size: 20,
             ),

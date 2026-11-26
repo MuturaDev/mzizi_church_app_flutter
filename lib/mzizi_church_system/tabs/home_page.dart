@@ -1,12 +1,5 @@
-import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:line_icons/line_icons.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Feature/Reader/bible_bloc.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Feature/Settings/settings_bloc.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/MultiPartXmlBibleProvider.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/ReferenceProvider.dart';
 import 'package:mzizichurchsystem/mzizi_bible/main_bible.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/home_announcements.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/home_carousell.dart';
@@ -14,13 +7,10 @@ import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/home_recent_tr
 
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/screens/Screen.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/screens/dashboard_screen.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/webview/church_website_webview.dart';
 
 class HomePage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
 
   HomePage({this.onMenuPressedHere});
 
@@ -29,8 +19,8 @@ class HomePage extends KFDrawerContent {
 }
 
 class _HomePageState extends State<HomePage> {
-  Future<bool> _onBackPressed() {
-    return showDialog(
+  Future<bool> _onBackPressed() async {
+    return (await showDialog<bool>(
           context: context,
           builder: (context) => new AlertDialog(
             title: new Text('Are you sure?'),
@@ -47,7 +37,7 @@ class _HomePageState extends State<HomePage> {
               ),
             ],
           ),
-        ) ??
+        )) ??
         false;
   }
 

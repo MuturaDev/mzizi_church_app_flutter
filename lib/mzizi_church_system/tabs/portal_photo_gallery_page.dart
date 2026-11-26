@@ -1,24 +1,22 @@
 import 'package:enhanced_future_builder/enhanced_future_builder.dart';
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:line_icons/line_icons.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_app_get_portal_photo_gallery.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
-import 'package:transparent_image/transparent_image.dart';
 
 class PortalPhotoGalleryPage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
   PortalPhotoGalleryPage({this.onMenuPressedHere});
   @override
   _PortalPhotoGalleryPageState createState() => _PortalPhotoGalleryPageState();
 }
 
 class _PortalPhotoGalleryPageState extends State<PortalPhotoGalleryPage> {
-  Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() async {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
+    return false;
   }
 
   @override
@@ -133,7 +131,7 @@ class _PortalPhotoGalleryPageState extends State<PortalPhotoGalleryPage> {
                   child: FadeInImage.assetNetwork(
                     placeholder:
                         'assets/images/member_app_assets/Curve-Loading.gif',
-                    image: response.albumphotos[0].imageLink,
+                    image: response.albumphotos![0].imageLink ?? '',
                     fit: BoxFit.fill,
                   ),
                   // )
@@ -158,7 +156,7 @@ class _PortalPhotoGalleryPageState extends State<PortalPhotoGalleryPage> {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: <Widget>[
                             Flexible(
-                              child: Text(response.albumName,
+                              child: Text(response.albumName ?? '',
                                   style: TextStyle(
                                       color: Colors.white, fontSize: 14)),
                             ),
@@ -170,7 +168,7 @@ class _PortalPhotoGalleryPageState extends State<PortalPhotoGalleryPage> {
                             )
                           ],
                         ),
-                        Text(response.albumPhotoCount + " photos",
+                        Text(response.albumPhotoCount! + " photos",
                             style:
                                 TextStyle(fontSize: 12, color: Colors.white)),
                       ],

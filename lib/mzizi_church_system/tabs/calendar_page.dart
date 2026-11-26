@@ -5,7 +5,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_na
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
 
 class CalendarPage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
 
   CalendarPage({this.onMenuPressedHere});
 
@@ -532,9 +532,9 @@ class _CalendarPageState extends State<CalendarPage> {
 }
 
 class CommunicationModel {
-  IconData icon;
-  String title;
-  List<String> subTitle;
+  late IconData icon;
+  late String title;
+  late List<String> subTitle;
 
   CommunicationModel(IconData icon, String title, List<String> subTitle) {
     this.icon = icon;
@@ -544,11 +544,11 @@ class CommunicationModel {
 }
 
 class WeekDayEventModel {
-  String day;
-  String noOfThisSpecificEvent;
-  Image image;
-  String title;
-  List<String> subTitle;
+  late String day;
+  late String noOfThisSpecificEvent;
+  late Image image;
+  late String title;
+  late List<String> subTitle;
 
   WeekDayEventModel(String day, String noOfThisSpecificEvent, Image image,
       String title, List<String> subTitle) {

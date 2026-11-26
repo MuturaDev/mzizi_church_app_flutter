@@ -1,13 +1,11 @@
-import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:line_icons/line_icons.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
-import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class SettingsPage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
   SettingsPage({this.onMenuPressedHere});
   @override
   _SettingsPageState createState() => _SettingsPageState();
@@ -121,7 +119,7 @@ class _SettingsPageState extends State<SettingsPage> {
   }
 
   List<Widget> listOfVideoWidget() {
-    List<Widget> returnList = new List();
+    List<Widget> returnList = [];
 
     final List<String> _videosList = [
       'https://imagizer.imageshack.com/img922/1959/IaIQx8.jpg',
@@ -132,7 +130,7 @@ class _SettingsPageState extends State<SettingsPage> {
     //Blur image
     //https://medium.com/fluttervn/how-to-make-blur-effect-in-flutter-using-backdropfilter-imagefilter-559ffd8ab73
 
-    List<VideoDetails> videoListDetails = new List();
+    List<VideoDetails> videoListDetails = [];
     VideoDetails videoDetails1 = new VideoDetails('A Life Free of Sin',
         ['LAST SUNDAY', 'by', 'PASTOR RANDY'], true, true);
     videoListDetails.add(videoDetails1);
@@ -260,7 +258,7 @@ class _SettingsPageState extends State<SettingsPage> {
                                       Container(
                                           padding: EdgeInsets.only(top: 25),
                                           child: Icon(
-                                            LineIcons.thumbs_o_up,
+                                            LineIcons.thumbsUp,
                                             color: Colors.grey,
                                             size: 30,
                                           )),

@@ -1,6 +1,6 @@
 class PortalGlobalSettingResponse {
-  String GlobalSettingValue;
-  String GlobalSettingName;
+  String? GlobalSettingValue;
+  String? GlobalSettingName;
 
   PortalGlobalSettingResponse(
       {this.GlobalSettingValue, this.GlobalSettingName});

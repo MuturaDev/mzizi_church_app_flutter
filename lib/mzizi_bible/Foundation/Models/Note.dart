@@ -1,10 +1,10 @@
-import 'package:zefyr/zefyr.dart';
+import 'package:flutter_quill/flutter_quill.dart';
 
 class Note {
-  String title;
-  DateTime lastUpdated;
-  final int id;
- // String doc;
-  NotusDocument doc;
-  Note({this.id, this.title, this.doc, this.lastUpdated});
+  String? title;
+  DateTime? lastUpdated;
+  final int? id;
+  Document doc;
+  Note({this.id, this.title, Document? doc, this.lastUpdated})
+      : doc = doc ?? Document();
 }

@@ -1,15 +1,12 @@
 import '../Chapter.dart';
 import 'package:flutter/material.dart';
-import 'IChapterElement.dart';
 
 abstract class IChapterElement {
-  int id;
-  Chapter chapter;
-  List<IChapterElement> elements;
+  int? id;
+  Chapter? chapter;
+  List<IChapterElement> elements = <IChapterElement>[];
 
-  IChapterElement({this.chapter, this.id}) {
-    elements = List<IChapterElement>();
-  }
+  IChapterElement({this.chapter, this.id});
 
   List<Text> toTextWidget(BuildContext context);
 

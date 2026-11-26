@@ -5,7 +5,7 @@ class EmptyElement extends IChapterElement {
   @override
   List<Text> toTextWidget(BuildContext context) {
     if (this.elements.length > 0) {
-      var span = List<Text>();
+      var span = <Text>[];
       for (var verseElement in this.elements) {
         span.addAll(verseElement.toTextWidget(context));
       }
@@ -22,11 +22,11 @@ class EmptyElement extends IChapterElement {
     var span = TextSpan(children: []);
     if (this.elements.length > 0) {
       for (var verseElement in this.elements) {
-        span.children.add(verseElement.toTextSpanWidget(context));
+        span.children!.add(verseElement.toTextSpanWidget(context));
       }
       return span;
     } else {
-      span.children.add(
+      span.children!.add(
         TextSpan(text: ""),
       );
       return span;

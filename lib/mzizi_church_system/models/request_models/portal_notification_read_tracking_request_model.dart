@@ -1,19 +1,14 @@
 
 
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_notification_read_tracking_request_model.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalNotificationReadTracking{
-
-    @PrimaryKey(autoGenerate: true)
-    int id;
-    String StudentID;
-    String DateOpened;
-    String AppCode;
+    int? id;
+    String? StudentID;
+    String? DateOpened;
+    String? AppCode;
 
   PortalNotificationReadTracking(
     this.id,

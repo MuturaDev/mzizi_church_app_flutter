@@ -9,11 +9,11 @@ part 'portal_student_class_attendance_request_model.g.dart';
 //TODO: change this to PortalStudentClassAttendanceRequest
 class PortalStudentClassRequest{
 
-  String StudentID;
-  String YearID;
-  String TermID;
-  String OrganizationID;
-  String AppCode;
+  String? StudentID;
+  String? YearID;
+  String? TermID;
+  String? OrganizationID;
+  String? AppCode;
 
   PortalStudentClassRequest(
     this.StudentID,

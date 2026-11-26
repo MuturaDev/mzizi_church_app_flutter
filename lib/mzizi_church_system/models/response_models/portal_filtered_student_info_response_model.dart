@@ -1,20 +1,15 @@
 
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_filtered_student_info_response_model.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalFilteredStudentInfo{
-
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  String Balance;
-  String BillingBalance;
-  String PortalAccount;
-  String PortalPaybill;
-  String OrganizationID;
+  int? id;
+  String? Balance;
+  String? BillingBalance;
+  String? PortalAccount;
+  String? PortalPaybill;
+  String? OrganizationID;
 
   PortalFilteredStudentInfo(
     this.id,

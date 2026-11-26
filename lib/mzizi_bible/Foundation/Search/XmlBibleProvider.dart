@@ -7,10 +7,10 @@ import 'package:global_configuration/global_configuration.dart';
 import 'package:xml/xml.dart' as xml;
 
 class XmlBibleProvider extends ISearchProvider {
-  xml.XmlDocument xmlDocument;
-  GlobalConfiguration _cfg;
+  late xml.XmlDocument xmlDocument;
+  late GlobalConfiguration _cfg;
 
-  List<Book> _searchableBooks;
+  late List<Book> _searchableBooks;
 
   XmlBibleProvider() {
     _cfg = GlobalConfiguration();
@@ -22,13 +22,13 @@ class XmlBibleProvider extends ISearchProvider {
 
   Future loadDocument(String path) async {
     var fileData = await rootBundle.loadString(path);
-    xmlDocument = xml.parse(fileData);
+    xmlDocument = xml.XmlDocument.parse(fileData);
     _searchableBooks = await getAllBooks();
   }
 
   Future<List<Book>> getAllBooks() async {
     var xmlBooks = xmlDocument.findAllElements("b");
-    var books = List<Book>();
+    var books = <Book>[];
     for (var item in xmlBooks) {
       var book = _convertBookFromXml(item);
       books.add(book);
@@ -38,7 +38,7 @@ class XmlBibleProvider extends ISearchProvider {
 
   Book _convertBookFromXml(xml.XmlElement item) {
     var book = Book(
-      name: item.getAttribute("n"),
+      name: item.getAttribute("n") ?? '',
     );
     book.chapters = _getChapters(item, book);
     return book;
@@ -52,15 +52,15 @@ class XmlBibleProvider extends ISearchProvider {
   }
 
   Future<Chapter> getChapter(String bookName, int chapterNumber) async {
-    return this._getBook(bookName).chapters[chapterNumber - 1];
+    return this._getBook(bookName).chapters![chapterNumber - 1];
   }
 
   List<Chapter> _getChapters(xml.XmlElement xmlBook, Book book) {
     var xmlChapters = xmlBook.findAllElements("c");
-    List<Chapter> chapters = List<Chapter>();
+    List<Chapter> chapters = <Chapter>[];
     for (var item in xmlChapters) {
       var chapter = Chapter(
-        number: int.parse(item.getAttribute("n")),
+        number: int.parse(item.getAttribute("n") ?? ''),
         book: book,
       );
 
@@ -74,10 +74,10 @@ class XmlBibleProvider extends ISearchProvider {
 
   List<Verse> _getVerses(xml.XmlElement xmlChapter, Chapter chapter) {
     var xmlVerses = xmlChapter.findAllElements("v");
-    List<Verse> verses = List<Verse>();
+    List<Verse> verses = <Verse>[];
     for (var item in xmlVerses) {
       var verse = Verse(
-        number: int.parse(item.getAttribute("n")),
+        number: int.parse(item.getAttribute("n") ?? ''),
         text: item.text,
         chapter: chapter,
       );
@@ -93,9 +93,9 @@ class XmlBibleProvider extends ISearchProvider {
             .any((book) => book.toLowerCase() == b.name.toLowerCase()))
         : this._searchableBooks;
 
-    var chapters = books.expand((book) => book.chapters);
+    var chapters = books.expand((book) => book.chapters ?? <Chapter>[]);
 
-    var verses = chapters.expand((c) => c.elements.whereType<Verse>());
+    var verses = chapters.expand((c) => (c.elements ?? []).whereType<Verse>());
     verses = verses.where((verse) =>
         _contains(searchTerm.toLowerCase(), verse.text.toLowerCase()));
     if (verses.contains(" ") && !searchTerm.contains(" ")) {

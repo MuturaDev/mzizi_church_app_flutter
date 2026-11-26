@@ -11,11 +11,11 @@ class EnhancedStreamBuilder extends StatefulWidget {
   /// Whether or not the future result should be stored.
   final bool rememberStreamResult;
   /// Widget to display when connected to an asynchronous computation.
-  final Widget whenActive;
+  final Widget? whenActive;
   /// Widget to display when connected to an asynchronous computation and awaiting interaction.
-  final Widget whenWaiting;
+  final Widget? whenWaiting;
   /// Widget to display when not connected to n asynchronous computation.
-  final Widget whenNone;
+  final Widget? whenNone;
   /// Widget to display when the asynchronous computation is not done yet.
   final Widget whenNotDone;
   /// Function to call when the asynchronous computation is done.
@@ -23,15 +23,15 @@ class EnhancedStreamBuilder extends StatefulWidget {
   /// The data that will be used until a non-null [future] has completed.
   ///
   /// See [FutureBuilder] for more info
-  final Stream<List<ParentChatResponse>> initialData;
+  final Stream<List<ParentChatResponse>>? initialData;
 
    const EnhancedStreamBuilder({
-    Key key, 
-    @required this.stream,
-    @required this.rememberStreamResult,
-    @required this.whenDone,
+    Key? key, 
+    required this.stream,
+    required this.rememberStreamResult,
+    required this.whenDone,
     this.whenActive,
-    this.whenNotDone,
+    required this.whenNotDone,
     this.whenNone,
     this.whenWaiting,
     this.initialData
@@ -48,7 +48,7 @@ class EnhancedStreamBuilder extends StatefulWidget {
 
 class _EnhancedStreamBuilderState extends State<EnhancedStreamBuilder> {
 
-  Stream<List<ParentChatResponse>> _cachedFuture;
+  late Stream<List<ParentChatResponse>> _cachedFuture;
 
   @override 
   void initState() {
@@ -62,17 +62,17 @@ class _EnhancedStreamBuilderState extends State<EnhancedStreamBuilder> {
       stream: this.widget.rememberStreamResult ? _cachedFuture : this.widget.stream,
       //initialData: this.widget.initialData,
       builder: (BuildContext context, AsyncSnapshot<dynamic> snapshot) {
-        Widget returnWidget;
+        Widget returnWidget = const SizedBox.shrink();
         if (this.widget.whenActive != null && snapshot.connectionState == ConnectionState.active) {
-          returnWidget = this.widget.whenActive;
+          returnWidget = this.widget.whenActive!;
         }
         
         if (this.widget.whenNone != null && snapshot.connectionState == ConnectionState.none) {
-          returnWidget =  this.widget.whenNone;
+          returnWidget =  this.widget.whenNone!;
         }
         
         if (this.widget.whenWaiting != null && snapshot.connectionState == ConnectionState.waiting) {
-          returnWidget =  this.widget.whenWaiting;
+          returnWidget =  this.widget.whenWaiting!;
         }
 
         //changed from done

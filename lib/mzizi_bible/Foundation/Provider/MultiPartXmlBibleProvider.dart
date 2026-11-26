@@ -17,11 +17,11 @@ import 'package:global_configuration/global_configuration.dart';
 import 'package:xml/xml.dart' as xml;
 
 class MultiPartXmlBibleProvider extends IBibleProvider {
-  xml.XmlDocument _booksDirectory;
-  GlobalConfiguration _cfg;
+  late xml.XmlDocument _booksDirectory;
+  late GlobalConfiguration _cfg;
   RegExp _multipleSpaces = RegExp("[\n\t\r]*");
 
-  List<Book> _books;
+  late List<Book> _books;
 
   MultiPartXmlBibleProvider() {
     _cfg = GlobalConfiguration();
@@ -37,7 +37,7 @@ class MultiPartXmlBibleProvider extends IBibleProvider {
   @override
   Future<List<Book>> getAllBooks() async {
     var xmlBooks = _booksDirectory.findAllElements("book");
-    _books = List<Book>();
+    _books = <Book>[];
     for (var item in xmlBooks) {
       var book = _convertBookFromXml(item);
       _books.add(book);
@@ -47,22 +47,22 @@ class MultiPartXmlBibleProvider extends IBibleProvider {
 
   Book _convertBookFromXml(xml.XmlElement item) {
     var book = Book(
-        name: item.getAttribute("title"),
+        name: item.getAttribute("title") ?? '',
         chapters: _getChapters(item),
-        number: int.parse(item.getAttribute("number")));
-    book.chapters.forEach((c) => c.book = book);
+        number: int.parse(item.getAttribute("number") ?? ''));
+    book.chapters!.forEach((c) => c.book = book);
     return book;
   }
 
   List<Chapter> _getChapters(xml.XmlElement xmlBook) {
     var xmlChapters = xmlBook.findAllElements("chapter");
-    List<Chapter> chapters = List<Chapter>();
+    List<Chapter> chapters = <Chapter>[];
 
     for (var item in xmlChapters) {
       var chapter = Chapter(
-        number: int.parse(item.getAttribute("number")),
+        number: int.parse(item.getAttribute("number") ?? ''),
         referenceName: (_cfg.getString("bibleReferencePath") +
-            item.getAttribute("referenceName") +
+            (item.getAttribute("referenceName") ?? '') +
             ".txt"),
       );
       chapters.add(chapter);
@@ -84,7 +84,7 @@ class MultiPartXmlBibleProvider extends IBibleProvider {
     convertChapterFromXml.book = _books
         .firstWhere((b) => b.name.toLowerCase() == bookName.toLowerCase());
     convertChapterFromXml.elements
-        .forEach((e) => e.chapter = convertChapterFromXml);
+        !.forEach((e) => e.chapter = convertChapterFromXml);
     convertChapterFromXml.referenceName = referencePath;
 
     return convertChapterFromXml;
@@ -100,7 +100,7 @@ class MultiPartXmlBibleProvider extends IBibleProvider {
   Chapter _convertChapterFromXml(xml.XmlElement item) {
     var chapterElement = item.findElements("chapter").first;
     var chapter =
-        Chapter(number: int.parse(chapterElement.getAttribute("num")));
+        Chapter(number: int.parse(chapterElement.getAttribute("num") ?? ''));
     List<IChapterElement> elements = _getChatperElements(item);
     //elements.removeWhere((e) => e is EmptyElement);
 
@@ -118,7 +118,7 @@ class MultiPartXmlBibleProvider extends IBibleProvider {
   }
 
   List<IChapterElement> _getChatperElements(xml.XmlElement node) {
-    List<IChapterElement> elements = List<IChapterElement>();
+    List<IChapterElement> elements = <IChapterElement>[];
     if (node.children.length == 0) {
       return elements;
     }
@@ -131,7 +131,7 @@ class MultiPartXmlBibleProvider extends IBibleProvider {
       var convertedElement = _convertXmlToChapterElement(child);
       if (child.children.length > 0 &&
           (convertedElement is Heading || convertedElement is EmptyElement)) {
-        convertedElement.elements.addAll(_getChatperElements(child));
+        convertedElement.elements.addAll(_getChatperElements(child as xml.XmlElement));
       }
       elements.add(convertedElement);
     }
@@ -173,8 +173,8 @@ class MultiPartXmlBibleProvider extends IBibleProvider {
       return DivineName(text: " ${aNode.text.trim()}");
     } else if (aNode.name.local == "crossref") {
       return CrossReferenceElement(
-          letter: node.getAttribute("let"),
-          referenceId: node.getAttribute("cid"));
+          letter: node.getAttribute("let") ?? '',
+          referenceId: node.getAttribute("cid") ?? '');
     } else {
       return EmptyElement();
     }
@@ -210,7 +210,7 @@ class MultiPartXmlBibleProvider extends IBibleProvider {
 
   Verse _convertVerse(xml.XmlElement node, xml.XmlElement aNode) {
     var verse = Verse(
-      number: int.parse(node.getAttribute("num")),
+      number: int.parse(node.getAttribute("num") ?? ''),
       text: aNode.text.replaceAll(_multipleSpaces, ""),
     );
     for (var item in node.children) {
@@ -224,13 +224,13 @@ class MultiPartXmlBibleProvider extends IBibleProvider {
     var punctuation = RegExp("[.!?\\-]");
     if (node.previousSibling != null &&
         node.previousSibling is xml.XmlElement &&
-        (node.previousSibling.attributes
+        (node.previousSibling!.attributes
                 .any((a) => a.value == "begin-double") ||
-            node.previousSibling.attributes
+            node.previousSibling!.attributes
                 .any((a) => a.value == "end-double") ||
-            node.previousSibling.attributes
+            node.previousSibling!.attributes
                 .any((a) => a.value == "begin-single") ||
-            node.previousSibling.attributes
+            node.previousSibling!.attributes
                 .any((a) => a.value == "end-single"))) {
       return ChapterText(
           text: '''${node.text.replaceAll(_multipleSpaces, "").trim()}''');
@@ -263,12 +263,12 @@ class MultiPartXmlBibleProvider extends IBibleProvider {
           "${bookName.toLowerCase().replaceAll(" ", "_")}_$chapterNumber");
     }
 
-    return chapterResourceName.getAttribute("resourceName") + ".xml";
+    return chapterResourceName.getAttribute("resourceName")! + ".xml";
   }
 
   Future<xml.XmlDocument> loadDocument(String path) async {
     var fileData = await rootBundle.loadString(path, cache: false);
-    return xml.parse(fileData);
+    return xml.XmlDocument.parse(fileData);
   }
 
   String _getChapterReferencePath(String bookName, int chapterNumber) {
@@ -286,15 +286,15 @@ class MultiPartXmlBibleProvider extends IBibleProvider {
           "${bookName.toLowerCase().replaceAll(" ", "_")}_$chapterNumber");
     }
 
-    return chapterResourceName.getAttribute("referenceName") + ".txt";
+    return chapterResourceName.getAttribute("referenceName")! + ".txt";
   }
 
   String _getBookNameByNumber(int bookNumber) {
     var books = _booksDirectory.findAllElements("book");
     var bookName = books
         .firstWhere((xml.XmlElement x) =>
-            int.parse(x.getAttribute("number")) == bookNumber)
+            int.parse(x.getAttribute("number") ?? '') == bookNumber)
         .getAttribute("title");
-    return bookName;
+    return bookName ?? '';
   }
 }

@@ -6,9 +6,9 @@ part 'authenicate_user_request_model.g.dart';
 @JsonSerializable()
  class AutheticateUser{
    
-   String AppCode;
-   String Username;
-   String Password;
+   String? AppCode;
+   String? Username;
+   String? Password;
 
    AutheticateUser(this.AppCode, this.Username, this.Password);
   

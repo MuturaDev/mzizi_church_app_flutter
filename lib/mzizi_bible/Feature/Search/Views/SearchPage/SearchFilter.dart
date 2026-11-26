@@ -1,13 +1,12 @@
 import 'package:mzizichurchsystem/mzizi_bible/Feature/InheritedBlocs.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:queries/collections.dart';
 
 class SearchFilter extends StatelessWidget {
   const SearchFilter({
-    Key key,
-    @required this.query,
-    @required this.books,
+    Key? key,
+    required this.query,
+    required this.books,
   }) : super(key: key);
 
   final String query;
@@ -15,11 +14,11 @@ class SearchFilter extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    var filterItems = Collection(books);
+    final List<Book> filterItems = books.cast<Book>();
     Map<Book, int> filterMap = Map();
 
-    for (Book item in filterItems.distinct().toList()) {
-      var numberOfOccurrences = filterItems.count((b) => b.name == item.name);
+    for (Book item in filterItems.toSet()) {
+      var numberOfOccurrences = filterItems.where((b) => b.name == item.name).length;
       filterMap[item] = numberOfOccurrences;
     }
     /*    for (int i = 0; i < list.Count; i++)
@@ -31,8 +30,7 @@ class SearchFilter extends StatelessWidget {
 } */
 
     var filters = filterItems
-        .distinct()
-        .toList()
+        .toSet()
         .map(
           (b) => DropdownMenuItem(
                 child: Text("${b.name} (${filterMap[b]})"),
@@ -54,7 +52,7 @@ class SearchFilter extends StatelessWidget {
         InheritedBlocs.of(context)
             .searchBloc
             .searchTerm
-            .add(SearchQuery(queryText: query, book: value));
+            .add(SearchQuery(queryText: query, book: value ?? ''));
       },
       items: filters,
     );

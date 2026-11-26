@@ -6,7 +6,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.da
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 
 class PortalEventsScreen extends KFDrawerContent {
-  final VoidCallback onMenuPressedHere;
+  final VoidCallback? onMenuPressedHere;
 
   PortalEventsScreen({this.onMenuPressedHere});
 
@@ -15,9 +15,10 @@ class PortalEventsScreen extends KFDrawerContent {
 }
 
 class _PortalEventsScreenState extends State<PortalEventsScreen> {
-  Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() async {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
+    return false;
   }
   @override
   Widget build(BuildContext context) {
@@ -155,7 +156,7 @@ class _PortalEventsScreenState extends State<PortalEventsScreen> {
   Widget _rowItem(
       {bool hasColumn = false,
       bool hasBothColumns = false,
-      Map map,
+      required Map map,
       bool isTitle = false}) {
     TextStyle headerStyle = new TextStyle(
       fontSize: 14.0,
@@ -265,7 +266,8 @@ class _PortalEventsScreenState extends State<PortalEventsScreen> {
         ),
       );
     }
-  }
+      return const SizedBox.shrink();
+}
 
   Widget _noContentWidget(BuildContext context) => Center(
         child: Text(

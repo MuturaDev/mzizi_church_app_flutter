@@ -7,12 +7,12 @@ part 'portal_list_onboarding_request_model.g.dart';
 @JsonSerializable()
 class ListOnboardingRequest {
 
-  String StudentID;
-  String ListOnBoardingID;
-  String IsChecked;
-  String AppCode;
-  String Method;
-  String MembershipCharge;
+  String? StudentID;
+  String? ListOnBoardingID;
+  String? IsChecked;
+  String? AppCode;
+  String? Method;
+  String? MembershipCharge;
 
   ListOnboardingRequest(
     this.StudentID,

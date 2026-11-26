@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/Note.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/INotesProvider.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/NotesProvider.dart';
-import 'package:queries/collections.dart';
+import 'dart:math' as math;
 import 'package:rxdart/rxdart.dart';
 
 class NotesBloc {
@@ -12,7 +12,7 @@ class NotesBloc {
   final _addNoteController = StreamController<Note>();
 
   Stream<List<Note>> get savedNotes => _notes.stream;
-  final _notes = BehaviorSubject<List<Note>>.seeded(List<Note>());
+  final _notes = BehaviorSubject<List<Note>>.seeded(<Note>[]);
 
   Stream<int> get highestNoteId => _highestNoteId.stream;
   final _highestNoteId = BehaviorSubject<int>.seeded(0);
@@ -43,7 +43,7 @@ class NotesBloc {
       _notes.add(newNotes);
     } else {
       var newNotes = currentNotes.toList();
-      var highestId = Collection(newNotes).max$1((n) => n.id).toInt();
+      var highestId = newNotes.map((n) => n.id!).reduce(math.max);
       var newNoteWithId = Note(
         doc: newNote.doc,
         lastUpdated: newNote.lastUpdated,
@@ -65,7 +65,7 @@ class NotesBloc {
   Future loadInitialNotes() async {
     var notes = await _notesProvider.getNotes();
     if (notes.length > 0) {
-      var highestId = Collection<Note>(notes).max$1((Note n) => n.id).toInt();
+      var highestId = notes.map((Note n) => n.id!).reduce(math.max);
       _highestNoteId.add(highestId);
     }
     _notes.add(notes);
@@ -73,7 +73,7 @@ class NotesBloc {
 
   void _setHighestId() {
     if (_notes.value.length > 0) {
-      var highestId = Collection(_notes.value).max$1((n) => n.id).toInt();
+      var highestId = _notes.value.map((n) => n.id!).reduce(math.max);
       _highestNoteId.add(highestId);
     }
   }

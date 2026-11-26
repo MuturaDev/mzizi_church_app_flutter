@@ -1,6 +1,6 @@
 class ServiceTypesModel {
-  String ID;
-  String Name;
+  String? ID;
+  String? Name;
 
   ServiceTypesModel({this.ID, this.Name});
 

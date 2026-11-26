@@ -8,15 +8,14 @@ import 'package:mzizichurchsystem/mzizi_church_system/example_screens/login_page
 import 'package:mzizichurchsystem/mzizi_church_system/example_screens/signup_example.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system/flavour_config.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_authentication_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/screens/Screen.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_widgets.dart';
 
 class WelcomePage extends StatefulWidget {
-  WelcomePage({Key key, this.title}) : super(key: key);
+  WelcomePage({Key? key, this.title}) : super(key: key);
 
-  final String title;
+  final String? title;
 
   @override
   _WelcomePageState createState() => _WelcomePageState();
@@ -118,7 +117,7 @@ class _WelcomePageState extends State<WelcomePage> {
                       ? 'Jubilee Christian '
                       : FlavourConfig.isMzizicms() ? 'Mzizi' : 'Mzizi',
           style: GoogleFonts.portLligatSans(
-            textStyle: Theme.of(context).textTheme.display1,
+            textStyle: Theme.of(context).textTheme.headlineMedium,
             fontSize: 30,
             fontWeight: FontWeight.w700,
             color: Colors.white,

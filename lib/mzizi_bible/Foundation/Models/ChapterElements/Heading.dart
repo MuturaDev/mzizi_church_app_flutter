@@ -4,14 +4,14 @@ import 'IChapterElement.dart';
 class Heading extends IChapterElement {
   final String text;
 
-  Heading({this.text}) : super();
+  Heading({required this.text}) : super();
 
   @override
   List<Text> toTextWidget(BuildContext context) {
     return [
       Text(
         this.text + '''\n''',
-        style: Theme.of(context).textTheme.subtitle,
+        style: Theme.of(context).textTheme.titleSmall,
       ),
     ];
   }
@@ -22,7 +22,7 @@ class Heading extends IChapterElement {
       children: [
         TextSpan(
           text: "\n\r" + this.text + "\n\r",
-          style: Theme.of(context).textTheme.display1.copyWith(
+          style: Theme.of(context).textTheme.headlineMedium!.copyWith(
                 fontWeight: FontWeight.w400,
                 fontSize: 18.0,
               ),

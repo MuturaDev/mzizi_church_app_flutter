@@ -1,23 +1,17 @@
 
-import 'package:floor/floor.dart';
-import 'package:flutter/material.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_fee_transaction_response_model.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalDetailedTransaction{
-
-   @PrimaryKey(autoGenerate: true)
-   int id; 
-   String RefNo;
-   String TranAmount;
-   String BalAmount;
-   String CurrentAmount;
-   String TranType;
-   String TransType;
-   String DatePosted;
+   int? id;
+   String? RefNo;
+   String? TranAmount;
+   String? BalAmount;
+   String? CurrentAmount;
+   String? TranType;
+   String? TransType;
+   String? DatePosted;
 
   PortalDetailedTransaction(
     this.id,

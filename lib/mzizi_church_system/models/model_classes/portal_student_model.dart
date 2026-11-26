@@ -4,9 +4,9 @@ part 'portal_student_model.g.dart';
 
 @JsonSerializable()
 class Student {
-  String StudentID;
-  String AppCode;
-  String OrganizationID;
+  String? StudentID;
+  String? AppCode;
+  String? OrganizationID;
 
   Student(
     this.StudentID,

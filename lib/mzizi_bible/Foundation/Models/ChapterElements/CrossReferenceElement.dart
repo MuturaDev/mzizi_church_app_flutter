@@ -1,5 +1,4 @@
 import 'package:mzizichurchsystem/mzizi_bible/Feature/InheritedBlocs.dart';
-import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'IChapterElement.dart';
@@ -7,7 +6,7 @@ import 'IChapterElement.dart';
 class CrossReferenceElement extends IChapterElement {
   final String letter;
   final String referenceId;
-  CrossReferenceElement({this.letter, this.referenceId}) : super();
+  CrossReferenceElement({required this.letter, required this.referenceId}) : super();
 
   @override
   List<Text> toTextWidget(BuildContext context) {
@@ -37,7 +36,7 @@ class CrossReferenceElement extends IChapterElement {
               },
               child: Text(
                 '''${this.letter}''',
-                style: Theme.of(context).textTheme.caption.copyWith(
+                style: Theme.of(context).textTheme.bodySmall!.copyWith(
                       color: Colors.blue,
                     ),
               ),

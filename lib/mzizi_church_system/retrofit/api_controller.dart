@@ -1,9 +1,6 @@
 import 'dart:async';
 import 'dart:convert';
-import 'dart:io';
-import 'package:http/http.dart' as http;
 import 'package:dio/dio.dart';
-import 'package:intl/intl.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dao/authenticate_user_dao.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/dummy_json_test/dummy_json.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/portal_notification_message.dart';
@@ -11,12 +8,10 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/porta
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/authenicate_user_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/make_a_pledge_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/mzizi_app_version_request_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_global_settings_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_list_onboarding_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_notification_read_tracking_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_notification_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_parent_chat_request_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/portal_student_class_attendance_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/self_enroll_application_request_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/charge_type_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/global_setting_response.dart';
@@ -31,7 +26,6 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/por
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_fee_transaction_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_filtered_student_info_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_list_onboarding_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_member_profile_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_notification_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_parent_chat_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_progress_report_response_model.dart';
@@ -47,7 +41,6 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/por
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_video_gallery_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/service_types_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api.dart';
-import 'package:retrofit/retrofit.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/mock/mock_api.dart';
 
 class ApiController {
@@ -60,14 +53,14 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<AuthenticationUserResponse> authUserList = new List();
+    final List<AuthenticationUserResponse> authUserList = [];
 
     await _client
         .apiGetAuthenticationUserResponse(user.toJson())
         .then((response) {
       authUserList.add(response);
     }).catchError((Object ob) {
-      return authUserList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return authUserList;
     // }catch(e){
@@ -82,14 +75,14 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalDetailedTransaction> authUserList = new List();
+    final List<PortalDetailedTransaction> authUserList = [];
 
     await _client
         .apiGetPortalDetailedTransactions(student.toJson())
         .then((response) {
       authUserList.addAll(response);
     }).catchError((Object obj) {
-      return authUserList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return authUserList;
     // }catch(e){
@@ -104,12 +97,12 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalFilteredStudentInfo> authUserList = new List();
+    final List<PortalFilteredStudentInfo> authUserList = [];
 
     await _client.apiGetFilteredStudentInfo(student.toJson()).then((response) {
       authUserList.add(response);
     }).catchError((Object obj) {
-      return authUserList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return authUserList;
     // }catch(e){
@@ -123,12 +116,12 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalSyncMyAccount> authUserList = new List();
+    final List<PortalSyncMyAccount> authUserList = [];
 
     await _client.apiGetSyncMyAccount(student.toJson()).then((response) {
       authUserList.add(response);
     }).catchError((Object obj) {
-      return authUserList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return authUserList;
     // }catch(e){
@@ -153,7 +146,8 @@ class ApiController {
       }).catchError((Object obj) {
         throw (obj);
       });
-    } catch (obj) {
+    } catch (e) {
+      final dynamic obj = e;
       var statusCode = obj.response.statusCode.toString();
       var message = obj.message.toString();
       return {"StatusCode": statusCode, "Message": message};
@@ -169,7 +163,7 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<String> authUserList = new List();
+    final List<String> authUserList = [];
 
     await _client
         .apiGetPortalNotificationsReadTracking(
@@ -177,7 +171,7 @@ class ApiController {
         .then((response) {
       authUserList.add(response);
     }).catchError((Object obj) {
-      return authUserList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return authUserList;
     // }catch(e){
@@ -192,13 +186,11 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-     MziziAppVersion authUserList;
+    MziziAppVersion? authUserList;
 
-    await _client.apiGetMziziAppVersion(version.toJson()).then((response) {
-      authUserList = response;
-    }).catchError((Object obj) {
-      return authUserList;
-    });
+    try {
+      authUserList = await _client.apiGetMziziAppVersion(version.toJson());
+    } catch (_) {}
     return authUserList;
     // }catch(e){
     //   throw(e);
@@ -211,12 +203,12 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalContacts> authUserList = new List();
+    final List<PortalContacts> authUserList = [];
 
     await _client.apiGetPortalContacts(student.toJson()).then((response) {
       authUserList.addAll(response);
     }).catchError((Object obj) {
-      return authUserList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return authUserList;
     // }catch(e){
@@ -225,19 +217,19 @@ class ApiController {
   }
 
   static Future<dynamic> sendRequestForPortalEvents() async {
-    Student request = await AuthenticateUserDAO().getStudent();
+    Student request = (await AuthenticateUserDAO().getStudent())!;
 
     final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalEvents> authUserList = new List();
+    final List<PortalEvents> authUserList = [];
 
     try {
       await _client.apiGetPortalEvents(request.toJson()).then((response) {
         authUserList.addAll(response);
       }).catchError((Object obj) {
-        return authUserList;
+        // Swallow the error; the caller gets whatever was collected so far.
       });
     } catch (e) {
       return authUserList;
@@ -249,7 +241,7 @@ class ApiController {
   }
 
   // static dynamic _getDummyEvents() {
-  //   final List<PortalEvents> responseList = new List();
+  //   final List<PortalEvents> responseList = [];
   //   for (Map<String, dynamic> outerMap in events) {
   //     var eventObj = PortalEvents.fromJson(outerMap);
   //     responseList.add(eventObj);
@@ -265,14 +257,14 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalNotification> authUserList = new List();
+    final List<PortalNotification> authUserList = [];
 
     await _client
         .apiGetPortalNotifications(notification.toJson())
         .then((response) {
       authUserList.addAll(response);
     }).catchError((Object obj) {
-      return authUserList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return authUserList;
     // }catch(e){
@@ -286,12 +278,12 @@ class ApiController {
       dio.options.headers["Content-Type"] = "application/json";
       final _client = RestClient(dio);
 
-      final List<PortalSiblings> authUserList = new List();
+      final List<PortalSiblings> authUserList = [];
 
       await _client.apiGetPortalSiblings(student.toJson()).then((response) {
         authUserList.addAll(response);
       }).catchError((Object obj) {
-        return authUserList;
+        // Swallow the error; the caller gets whatever was collected so far.
       });
       return authUserList;
     } catch (e) {
@@ -306,14 +298,14 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalStudentDetailedResults> authUserList = new List();
+    final List<PortalStudentDetailedResults> authUserList = [];
 
     await _client
         .apiGetPortalStudentDetailedResults(student.toJson())
         .then((response) {
       authUserList.addAll(response);
     }).catchError((Object obj) {
-      return authUserList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return authUserList;
     // }catch(e){
@@ -328,12 +320,12 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalStudentInfo> authUserList = new List();
+    final List<PortalStudentInfo> authUserList = [];
 
     await _client.apiGetPortalStudentInfo(student.toJson()).then((response) {
       authUserList.add(response);
     }).catchError((Object obj) {
-      return authUserList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return authUserList;
     // }catch(e){
@@ -348,14 +340,14 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalProgressReport> authUserList = new List();
+    final List<PortalProgressReport> authUserList = [];
 
     await _client
         .apiGetPortalGetProgressReport(student.toJson())
         .then((response) {
       authUserList.addAll(response);
     }).catchError((Object obj) {
-      return authUserList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return authUserList;
     // }catch(e){
@@ -370,7 +362,7 @@ class ApiController {
   //   dio.options.headers["Content-Type"] = "application/json";
   //   final _client = RestClient(dio);
 
-  //   final List<PortalStudentClassAttendance> authUserList = new List();
+  //   final List<PortalStudentClassAttendance> authUserList = [];
 
   //   await _client
   //       .apiGetPortalParentStudentAttendance(attendance.toJson())
@@ -392,12 +384,12 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<ParentChatResponse> authUserList = new List();
+    final List<ParentChatResponse> authUserList = [];
 
     await _client.apiGetPortalParentsChat(request.toJson()).then((response) {
       authUserList.addAll(response);
     }).catchError((Object obj) {
-      return authUserList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return authUserList;
     // }catch(e){
@@ -406,35 +398,35 @@ class ApiController {
   }
 
   static Future<dynamic> sendRequestForPortalToDoList(
-      final Student request) async {
+      Student request) async {
     final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalToDoList> responseList = new List();
+    final List<PortalToDoList> responseList = [];
 
     await _client.apiGetPortalToDoList(request.toJson()).then((response) {
       responseList.addAll(response);
     }).catchError((Object obj) {
-      return responseList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return responseList;
   }
 
   static Future<dynamic> sendRequestForPortalDetailedToDoList() async {
-    Student request = await AuthenticateUserDAO().getStudent();
+    Student request = (await AuthenticateUserDAO().getStudent())!;
     final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalDetailedTodoList> responseList = new List();
+    final List<PortalDetailedTodoList> responseList = [];
     try {
       await _client
           .apiGetPortalDetailedToDoList(request.toJson())
           .then((response) {
         responseList.addAll(response);
       }).catchError((Object obj) {
-        return responseList;
+        // Swallow the error; the caller gets whatever was collected so far.
       });
     } catch (e) {
       return responseList;
@@ -443,73 +435,73 @@ class ApiController {
   }
 
   static Future<dynamic> sendRequestForPortalRecentTransaction(
-      final Student request) async {
+      Student request) async {
     final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalRecentTransaction> responseList = new List();
+    final List<PortalRecentTransaction> responseList = [];
 
     await _client
         .apiGetPortalRecentTransactions(request.toJson())
         .then((response) {
       responseList.addAll(response);
     }).catchError((Object obj) {
-      return responseList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return responseList;
   }
 
   static Future<dynamic> sendRequestForPortalStudentVisualization(
-      final Student request) async {
+      Student request) async {
     final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalStudentVisualization> responseList = new List();
+    final List<PortalStudentVisualization> responseList = [];
 
     await _client
         .apiGetPortalStudentVisualization(request.toJson())
         .then((response) {
       responseList.addAll(response);
     }).catchError((Object obj) {
-      return responseList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return responseList;
   }
 
   static Future<dynamic> sendRequestForPortalStudentVisualizationAverage(
-      final Student request) async {
+      Student request) async {
     final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalStudentVisualizationAverage> responseList = new List();
+    final List<PortalStudentVisualizationAverage> responseList = [];
 
     await _client
         .apiGetPortalStudentVisualizationAverage(request.toJson())
         .then((response) {
       responseList.addAll(response);
     }).catchError((Object obj) {
-      return responseList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     return responseList;
   }
 
   static Future<dynamic> sendRequestForPortalStudentResultsExtended(
-      final Student request) async {
+      Student request) async {
     final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalStudentResultsExtended> responseList = new List();
+    final List<PortalStudentResultsExtended> responseList = [];
     // try {
     await _client
         .apiGetPortalStudentResultsExtended(request.toJson())
         .then((response) {
       responseList.addAll(response);
     }).catchError((Object obj) {
-      return responseList;
+      // Swallow the error; the caller gets whatever was collected so far.
     });
     // } catch (e) {
     //   return responseList;
@@ -518,19 +510,19 @@ class ApiController {
   }
 
   static Future<dynamic> sendRequestForPortalSMSHistory() async {
-    Student request = await AuthenticateUserDAO().getStudent();
+    Student request = (await AuthenticateUserDAO().getStudent())!;
     final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalNotification> responseList = new List();
-    List<PortalNotificationMessage> notificationMessageList = new List();
+    final List<PortalNotification> responseList = [];
+    List<PortalNotificationMessage> notificationMessageList = [];
 
     try {
       await _client.apiGetPortalSMSHistory(request.toJson()).then((response) {
         responseList.addAll(response);
       }).catchError((Object obj) {
-        return responseList;
+        // Swallow the error; the caller gets whatever was collected so far.
       });
 
       for (PortalNotification notif in responseList) {
@@ -544,21 +536,21 @@ class ApiController {
 
         //sleep(const Duration(seconds: 5));
 
-        if (notificationMessage.Msg.contains("Results") ||
-            notificationMessage.Msg.contains("term") ||
-            notificationMessage.Msg.contains('results')) {
+        if (notificationMessage.Msg!.contains("Results") ||
+            notificationMessage.Msg!.contains("term") ||
+            notificationMessage.Msg!.contains('results')) {
           notificationMessage.msgIsResults = true;
-        } else if (notificationMessage.Msg.contains("receipt") ||
-            notificationMessage.Msg.contains("transaction") ||
-            notificationMessage.Msg.contains("Receipt") ||
-            notificationMessage.Msg.contains("Transaction")) {
+        } else if (notificationMessage.Msg!.contains("receipt") ||
+            notificationMessage.Msg!.contains("transaction") ||
+            notificationMessage.Msg!.contains("Receipt") ||
+            notificationMessage.Msg!.contains("Transaction")) {
           notificationMessage.msgIsTransaction = true;
-        } else if (notificationMessage.Msg.contains("event") ||
-            notificationMessage.Msg.contains("Event")) {
+        } else if (notificationMessage.Msg!.contains("event") ||
+            notificationMessage.Msg!.contains("Event")) {
           notificationMessage.msgIsEvents = true;
         }
-        if (notificationMessage.Msg.contains("chat") ||
-            notificationMessage.Msg.contains("Chat")) {
+        if (notificationMessage.Msg!.contains("chat") ||
+            notificationMessage.Msg!.contains("Chat")) {
           notificationMessage.msgIsChat = true;
         }
 
@@ -572,7 +564,7 @@ class ApiController {
   }
 
   // static dynamic _getDummySMSHistory() {
-  //   final List<PortalNotification> responseList = new List();
+  //   final List<PortalNotification> responseList = [];
   //   for (Map<String, dynamic> outerMap in smsHistory) {
   //     var smss = PortalNotification.fromJson(outerMap);
   //     responseList.add(smss);
@@ -591,7 +583,7 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalChargeTypeResponseModel> responseList = new List();
+    final List<PortalChargeTypeResponseModel> responseList = [];
     PortalChargeTypeResponseModel select =
         new PortalChargeTypeResponseModel("-1", "Pledge for");
     responseList.add(select);
@@ -599,7 +591,7 @@ class ApiController {
       await _client.apiGetPortalChargeTypes(request.toJson()).then((response) {
         responseList.addAll(response);
       }).catchError((Object obj) {
-        return responseList;
+        // Swallow the error; the caller gets whatever was collected so far.
       });
     } catch (e) {
       return responseList;
@@ -612,7 +604,7 @@ class ApiController {
   }
 
   // static dynamic _getDummyChargeTypes() {
-  //   final List<PortalChargeTypeResponseModel> responseList = new List();
+  //   final List<PortalChargeTypeResponseModel> responseList = [];
   //   for (Map<String, dynamic> outerMap in chargeType) {
   //     var charge = PortalChargeTypeResponseModel.fromJson(outerMap);
   //     responseList.add(charge);
@@ -622,12 +614,12 @@ class ApiController {
   // }
 
   static Future<dynamic> sendRequestForPortalChurchServices() async {
-    Student request = await AuthenticateUserDAO().getStudent();
+    Student request = (await AuthenticateUserDAO().getStudent())!;
     final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalChurchServices> responseList = new List();
+    final List<PortalChurchServices> responseList = [];
 
     try {
       await _client
@@ -635,7 +627,7 @@ class ApiController {
           .then((response) {
         responseList.addAll(response);
       }).catchError((Object obj) {
-        return responseList;
+        // Swallow the error; the caller gets whatever was collected so far.
       });
     } catch (e) {
       return responseList;
@@ -646,7 +638,7 @@ class ApiController {
   }
 
   // static dynamic _getDummyChurchServices() {
-  //   final List<PortalChurchServices> responseList = new List();
+  //   final List<PortalChurchServices> responseList = [];
 
   //   for (Map<String, dynamic> outerMap in churchServices) {
   //     var services = PortalChurchServices.fromJson(outerMap);
@@ -657,7 +649,7 @@ class ApiController {
   // }
 
   static Future<dynamic> sendRequestForPortalServiceTypes() async {
-    Student request = await AuthenticateUserDAO().getStudent();
+    Student request = (await AuthenticateUserDAO().getStudent())!;
     //TODO: SHOULD BE REMOVED
     // request.AppCode = "1003";
 
@@ -665,7 +657,7 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<ServiceTypesModel> responseList = new List();
+    final List<ServiceTypesModel> responseList = [];
     ServiceTypesModel model =
         new ServiceTypesModel(ID: "-1", Name: "Select Service Type");
     responseList.add(model);
@@ -674,7 +666,7 @@ class ApiController {
       await _client.apiGetPortalServiceTypes(request.toJson()).then((response) {
         responseList.addAll(response);
       }).catchError((Object obj) {
-        return responseList;
+        // Swallow the error; the caller gets whatever was collected so far.
       });
     } catch (e) {
       return responseList;
@@ -687,7 +679,7 @@ class ApiController {
   }
 
   // static dynamic _getDummyServiceType() {
-  //   final List<ServiceTypesModel> responseList = new List();
+  //   final List<ServiceTypesModel> responseList = [];
   //   ServiceTypesModel serviceType =
   //       new ServiceTypesModel(ID: "-1", Name: "Select Service Type");
   //   responseList.add(serviceType);
@@ -700,19 +692,19 @@ class ApiController {
   // }
 
   static Future<dynamic> sendReqeustForPortalVideoGallery() async {
-    Student request = await AuthenticateUserDAO().getStudent();
+    Student request = (await AuthenticateUserDAO().getStudent())!;
 
     final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    final List<PortalVideoGalleryResponseModel> responseList = new List();
+    final List<PortalVideoGalleryResponseModel> responseList = [];
 
     try {
       await _client.apiGetPortalVideoGallery(request.toJson()).then((response) {
         responseList.addAll(response);
       }).catchError((Object obj) {
-        return responseList;
+        // Swallow the error; the caller gets whatever was collected so far.
       });
     } catch (e) {
       return responseList;
@@ -722,7 +714,7 @@ class ApiController {
   }
 
   static Future<dynamic> sendRequestForPortalMemberProfile() async {
-    Student request = await AuthenticateUserDAO().getStudent();
+    Student request = (await AuthenticateUserDAO().getStudent())!;
 
     final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
@@ -736,7 +728,7 @@ class ApiController {
           .then((response) {
         responseObj = response;
       }).catchError((Object obj) {
-        return responseObj;
+        // Swallow the error; the caller gets whatever was collected so far.
       });
     } catch (e) {
       return responseObj;
@@ -748,7 +740,7 @@ class ApiController {
   }
 
   // static dynamic _getDummyProfileMemberProfile() {
-  //   //final List<PortalMemberProfile> responseList = new List();
+  //   //final List<PortalMemberProfile> responseList = [];
   //   var album;
   //   for (Map<String, dynamic> outerMap in profile) {
   //     album = PortalMemberProfileModel.fromJson(outerMap);
@@ -766,7 +758,7 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    PortalGlobalSettingResponse responseSetting;
+    PortalGlobalSettingResponse? responseSetting;
 
     var requestPayload = {
       "SettingName": "PORTAL_URL",
@@ -776,20 +768,19 @@ class ApiController {
 
     var responseBody;
     try {
-      await _client.apiGetPortalGlobalSettings(requestPayload).then((response) {
-        responseSetting = response;
-      }).catchError((Object obj) {
-        return responseSetting;
-      });
+      try {
+        responseSetting =
+            await _client.apiGetPortalGlobalSettings(requestPayload);
+      } catch (_) {}
 
       var client = MockApi.httpClient();
       dynamic body;
-      var url = responseSetting.GlobalSettingValue.endsWith("/")
+      var url = responseSetting!.GlobalSettingValue!.endsWith("/")
           ? "PortalWebServices/StudentInfo.asmx/PortalAppSavePortalApplications"
           : "/PortalWebServices/StudentInfo.asmx/PortalAppSavePortalApplications";
       try {
         var uriResponse = await client.post(
-            Uri.parse(responseSetting.GlobalSettingValue + url),
+            Uri.parse(responseSetting!.GlobalSettingValue! + url),
             body: payload.toJson());
 
         if (uriResponse.statusCode == 200) {
@@ -809,7 +800,8 @@ class ApiController {
       } finally {
         client.close();
       }
-    } catch (obj) {
+    } catch (e) {
+      final dynamic obj = e;
       var statusCode = obj.response.statusCode.toString();
       var message = obj.message.toString();
       return {"StatusCode": statusCode, "Message": message};
@@ -826,30 +818,29 @@ class ApiController {
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
-    PortalGlobalSettingResponse responseSetting;
+    PortalGlobalSettingResponse? responseSetting;
 
     var requestPayload = {
       "SettingName": "PORTAL_URL",
       "AppCode": request[0].AppCode,
       "OrganizationID": request[0].OrganizationID
     };
-    final List<PortalPhotoGallery> responseList = new List();
+    final List<PortalPhotoGallery> responseList = [];
 
     try {
-      await _client.apiGetPortalGlobalSettings(requestPayload).then((response) {
-        responseSetting = response;
-      }).catchError((Object obj) {
-        return responseSetting;
-      });
+      try {
+        responseSetting =
+            await _client.apiGetPortalGlobalSettings(requestPayload);
+      } catch (_) {}
 
       var client = MockApi.httpClient();
       dynamic body;
-      var url = responseSetting.GlobalSettingValue.endsWith("/")
+      var url = responseSetting!.GlobalSettingValue!.endsWith("/")
           ? "PortalWebServices/StudentInfo.asmx/PortalAppGetPortalPhotoGallery"
           : "/PortalWebServices/StudentInfo.asmx/PortalAppGetPortalPhotoGallery";
       try {
         var uriResponse = await client.post(
-            Uri.parse(responseSetting.GlobalSettingValue + url),
+            Uri.parse(responseSetting!.GlobalSettingValue! + url),
             body: {"OrganizationID": request[0].OrganizationID});
         body = json
             .decode(uriResponse.body.toString().replaceAll('{"d":null}', ""));
@@ -870,7 +861,7 @@ class ApiController {
   }
 
   // static dynamic _getDummyPhotoGallery() {
-  //   final List<PortalPhotoGallery> responseList = new List();
+  //   final List<PortalPhotoGallery> responseList = [];
   //   for (Map<String, dynamic> outerMap in photosAlbums) {
   //     var album = PortalPhotoGallery.fromJson(outerMap);
   //     responseList.add(album);
@@ -881,7 +872,7 @@ class ApiController {
 
 //TODO: REMOVE THIS IN PRODUCTION
   static Future<dynamic> sendRequestForPortalEnquiryTypes() async {
-    Student request = await AuthenticateUserDAO().getStudent();
+    Student request = (await AuthenticateUserDAO().getStudent())!;
 
     final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
@@ -893,7 +884,7 @@ class ApiController {
       await _client.apiGetPortalEnquiryTypes(request.toJson()).then((response) {
         responseObj = response;
       }).catchError((Object obj) {
-        return responseObj;
+        // Swallow the error; the caller gets whatever was collected so far.
       });
     } catch (e) {
       return responseObj;
@@ -902,8 +893,8 @@ class ApiController {
     return responseObj;
   }
 
-  static dynamic _getDummyEnquiryTypes(var responseObj) {
-    final List<PortalEnquiryTypes> responseList = new List();
+  static dynamic _getDummyEnquiryTypes(dynamic responseObj) {
+    final List<PortalEnquiryTypes> responseList = [];
     var response;
     for (Map<String, dynamic> outerMap in responseObj) {
       response = PortalEnquiryTypes.fromJson(outerMap);
@@ -914,11 +905,11 @@ class ApiController {
   }
 
   static Future<dynamic> sendRequestForPortalListOnboarding(
-      {String listOnBoardingID,
-      String isChecked,
+      {String? listOnBoardingID,
+      String? isChecked,
       String method = "GET",
-      String membershipCharge}) async {
-    Student student = await AuthenticateUserDAO().getStudent();
+      String? membershipCharge}) async {
+    Student student = (await AuthenticateUserDAO().getStudent())!;
 
     ListOnboardingRequest request = new ListOnboardingRequest(student.StudentID,
         listOnBoardingID, isChecked, student.AppCode, method, membershipCharge);
@@ -933,7 +924,7 @@ class ApiController {
       await _client.apiGetListOnboarding(request.toJson()).then((response) {
         responseObj = response;
       }).catchError((Object obj) {
-        return responseObj;
+        // Swallow the error; the caller gets whatever was collected so far.
       });
     } catch (ex) {
       return responseObj;
@@ -945,7 +936,7 @@ class ApiController {
   }
 
   static dynamic _getDummyListOnboardingList() {
-    final List<PortalListOnboardingResponseModel> responseList = new List();
+    final List<PortalListOnboardingResponseModel> responseList = [];
     var response;
     for (Map<String, dynamic> outerMap in listOnboardingList) {
       response = PortalListOnboardingResponseModel.fromJson(outerMap);
@@ -977,7 +968,7 @@ class ApiController {
       await _client.apiGetPortalDeviceFCMToken(requestmap).then((response) {
         responseObj = response;
       }).catchError((Object obj) {
-        return responseObj;
+        // Swallow the error; the caller gets whatever was collected so far.
       });
     } catch (ex) {
       return responseObj;

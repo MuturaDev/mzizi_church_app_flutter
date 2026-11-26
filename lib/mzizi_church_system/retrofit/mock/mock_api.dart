@@ -10,7 +10,7 @@ import 'package:http/testing.dart' as http_testing;
 ///
 /// Off by default. Turn it on with:
 ///
-///   flutter run --flavor mzizicms --no-sound-null-safety --dart-define=MOCK_API=true
+///   flutter run --flavor mzizicms --dart-define=MOCK_API=true
 ///
 /// Every request is answered from `assets/mock_api/<EndpointName>.json`
 /// (e.g. `POST /PortalEvents` -> `assets/mock_api/PortalEvents.json`).
@@ -48,7 +48,7 @@ class MockApi {
     });
   }
 
-  static Future<String> _fixtureText(String endpoint) async {
+  static Future<String?> _fixtureText(String endpoint) async {
     String text;
     try {
       text = await rootBundle.loadString('assets/mock_api/$endpoint.json');
@@ -56,7 +56,7 @@ class MockApi {
       return null;
     }
     return text.replaceAllMapped(RegExp(r'\{\{date([+-]\d+)?\}\}'), (m) {
-      final offset = m.group(1) == null ? 0 : int.parse(m.group(1));
+      final offset = m.group(1) == null ? 0 : int.parse(m.group(1) ?? '');
       final d = DateTime.now().add(Duration(days: offset));
       return '${d.month}/${d.day}/${d.year}';
     });
@@ -70,20 +70,23 @@ class MockApi {
 
 class _MockInterceptor extends Interceptor {
   @override
-  Future onRequest(RequestOptions options) async {
+  Future<void> onRequest(
+      RequestOptions options, RequestInterceptorHandler handler) async {
     await Future.delayed(MockApi.latency);
     final endpoint = options.path.split('/').where((s) => s.isNotEmpty).last;
     final data = await MockApi.fixture(endpoint);
     if (data == null) {
       // Unknown endpoint: fail the same way a server 404 would.
-      return DioError(
-        request: options,
-        response:
-            Response(statusCode: 404, data: 'Not mocked', request: options),
-        type: DioErrorType.RESPONSE,
+      handler.reject(DioException(
+        requestOptions: options,
+        response: Response(
+            statusCode: 404, data: 'Not mocked', requestOptions: options),
+        type: DioExceptionType.badResponse,
         error: 'MockApi: no fixture for $endpoint',
-      );
+      ));
+      return;
     }
-    return Response(data: data, statusCode: 200, request: options);
+    handler.resolve(
+        Response(data: data, statusCode: 200, requestOptions: options));
   }
 }

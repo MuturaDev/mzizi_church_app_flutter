@@ -19,11 +19,11 @@ class SettingsPopupMenu extends StatelessWidget {
     );
   }
 
-  List<PopupMenuEntry> _createPopupItems(
+  List<PopupMenuEntry<String>> _createPopupItems(
       BuildContext context, AsyncSnapshot<Map<String, bool>> snapshot) {
-    return snapshot.data.keys
+    return snapshot.data!.keys
         .map((key) => CheckedPopupMenuItem(
-              checked: snapshot.data[key],
+              checked: snapshot.data![key]!,
               child: Text(key),
               value: key,
             ))
@@ -36,12 +36,12 @@ class SettingsPopupMenu extends StatelessWidget {
       InheritedBlocs.of(context)
           .settingsBloc
           .shouldShowVerseNumbers
-          .add(!snapshot.data[value]);
+          .add(!snapshot.data![value]!);
     } else if (value == "Immersive Reading Mode") {
       InheritedBlocs.of(context)
           .settingsBloc
           .shouldBeImmersiveReadingMode
-          .add(!snapshot.data[value]);
+          .add(!snapshot.data![value]!);
     }
   }
 }

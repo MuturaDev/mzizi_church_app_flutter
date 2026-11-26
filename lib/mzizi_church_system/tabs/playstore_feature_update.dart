@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:launch_review/launch_review.dart';
+import 'dart:io';
+
+import 'package:url_launcher/url_launcher.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/flavor_mzizi_church_system/flavour_config.dart';
 
 class PlaystoreFeatureUpdate extends StatefulWidget {
@@ -76,24 +78,20 @@ class _PlaystoreFeatureUpdateState extends State<PlaystoreFeatureUpdate> {
                 ),
                 Padding(
                   padding: EdgeInsets.only(left: 10, right: 10),
-                  child: RaisedButton(
-                      elevation: 5,
-                      color: Colors.blue,
+                  child: ElevatedButton(
+                      style: ElevatedButton.styleFrom(
+                          elevation: 5, backgroundColor: Colors.blue),
                       onPressed: () {
                         //mobile.ultratude.com.mzizichurchsystem.bwmc
                         //mobile.ultratude.com.mzizichurchsystem.bwmc&hl=en
-                        LaunchReview.launch(
-                          androidAppId: "mobile.ultratude.com.mzizichurchsystem${FlavourConfig.isBwmc()
+                        final androidAppId = "mobile.ultratude.com.mzizichurchsystem${FlavourConfig.isBwmc()
                                 ? '.bwmc'
                                 : FlavourConfig.isDcik()
                                     ? '.dcik'
                                     : FlavourConfig.isJcc()
                                         ? '.jcc'
-                                        : FlavourConfig.isMzizicms()
-                                            ? ''
-                                            : ''}",
-                          iOSAppId: "585027354",
-                        );
+                                        : ''}";
+                        _openStore(androidAppId, "585027354");
                       },
                       child: Container(
                         width: MediaQuery.of(context).size.width,
@@ -118,5 +116,20 @@ class _PlaystoreFeatureUpdateState extends State<PlaystoreFeatureUpdate> {
             ),
           )),
     );
+  }
+}
+
+/// Opens the app's store listing (replaces the abandoned launch_review package).
+Future<void> _openStore(String androidAppId, String iOSAppId) async {
+  if (Platform.isIOS) {
+    await launchUrl(Uri.parse('https://apps.apple.com/app/id$iOSAppId'),
+        mode: LaunchMode.externalApplication);
+    return;
+  }
+  final market = Uri.parse('market://details?id=$androidAppId');
+  if (!await launchUrl(market, mode: LaunchMode.externalApplication)) {
+    await launchUrl(
+        Uri.parse('https://play.google.com/store/apps/details?id=$androidAppId'),
+        mode: LaunchMode.externalApplication);
   }
 }

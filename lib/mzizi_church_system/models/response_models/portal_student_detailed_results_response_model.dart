@@ -1,28 +1,23 @@
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_student_detailed_results_response_model.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalStudentDetailedResults{
-
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  String Subjects;
-  String Score;
-  String Grade;
-  String Remark;
-  String TotalMarks;
-  String MeanScore;
-  String MeanGrade;
-  String StreamPosition;
-  String OverallPosition;
-  String Period;
-  String TermName;
-  String CurrentYear;
-  String CTComments;
-  String HMComments;
+  int? id;
+  String? Subjects;
+  String? Score;
+  String? Grade;
+  String? Remark;
+  String? TotalMarks;
+  String? MeanScore;
+  String? MeanGrade;
+  String? StreamPosition;
+  String? OverallPosition;
+  String? Period;
+  String? TermName;
+  String? CurrentYear;
+  String? CTComments;
+  String? HMComments;
 
   PortalStudentDetailedResults(
     this.id,

@@ -7,16 +7,19 @@ part of 'portal_student_visualization_response.dart';
 // **************************************************************************
 
 PortalStudentVisualization _$PortalStudentVisualizationFromJson(
-    Map<String, dynamic> json) {
-  return PortalStudentVisualization(json['id'] as int, json['Period'] as String,
-      json['UnitName'] as String, json['AverageScore'] as String);
-}
+  Map<String, dynamic> json,
+) => PortalStudentVisualization(
+  (json['id'] as num?)?.toInt(),
+  json['Period'] as String?,
+  json['UnitName'] as String?,
+  json['AverageScore'] as String?,
+);
 
 Map<String, dynamic> _$PortalStudentVisualizationToJson(
-        PortalStudentVisualization instance) =>
-    <String, dynamic>{
-      'id': instance.id,
-      'Period': instance.Period,
-      'UnitName': instance.UnitName,
-      'AverageScore': instance.AverageScore
-    };
+  PortalStudentVisualization instance,
+) => <String, dynamic>{
+  'id': instance.id,
+  'Period': instance.Period,
+  'UnitName': instance.UnitName,
+  'AverageScore': instance.AverageScore,
+};

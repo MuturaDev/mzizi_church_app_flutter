@@ -6,9 +6,9 @@ part 'portal_notification_request_model.g.dart';
 @JsonSerializable()
 class PortalNotificationRequest{
 
-  String StudentID;
-  String AppCode;
-  String MsgID;
+  String? StudentID;
+  String? AppCode;
+  String? MsgID;
 
   PortalNotificationRequest(
     this.StudentID,

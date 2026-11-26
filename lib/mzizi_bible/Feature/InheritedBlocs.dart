@@ -6,18 +6,17 @@ import 'package:mzizichurchsystem/mzizi_bible/Feature/Settings/settings_feature.
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/CrossReference.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/Models/CrossReferenceElements/VerseReferenceElement.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/foundation.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class InheritedBlocs extends InheritedWidget {
   InheritedBlocs(
-      {Key key,
-      this.searchBloc,
-      this.bibleBloc,
-      this.settingsBloc,
-      this.notesBloc,
-      this.navigationBloc,
-      this.child})
+      {Key? key,
+      required this.searchBloc,
+      required this.bibleBloc,
+      required this.settingsBloc,
+      required this.notesBloc,
+      required this.navigationBloc,
+      required this.child})
       : super(key: key, child: child);
 
   final Widget child;
@@ -28,7 +27,7 @@ class InheritedBlocs extends InheritedWidget {
   final SearchBloc searchBloc;
 
   static InheritedBlocs of(BuildContext context) {
-    return context.dependOnInheritedWidgetOfExactType<InheritedBlocs>();
+    return context.dependOnInheritedWidgetOfExactType<InheritedBlocs>()!;
   }
 
   @override
@@ -36,7 +35,7 @@ class InheritedBlocs extends InheritedWidget {
     return true;
   }
 
-  Future<bool> showReferenceInBottomSheet(BuildContext context) {
+  Future<bool?> showReferenceInBottomSheet(BuildContext context) {
     ScrollController _controller = ScrollController();
     return showModalBottomSheet<bool>(
         context: context,
@@ -47,7 +46,7 @@ class InheritedBlocs extends InheritedWidget {
               child: CustomScrollView(
                 controller: _controller,
                 slivers: <Widget>[
-                  StreamBuilder<ChapterReference>(
+                  StreamBuilder<ChapterReference?>(
                     stream: InheritedBlocs.of(context)
                         .bibleBloc
                         .popupChapterReference,
@@ -63,7 +62,7 @@ class InheritedBlocs extends InheritedWidget {
                                     .bibleBloc
                                     .currentChapterReference
                                     .add(
-                                      popUpReference.data,
+                                      popUpReference.data!,
                                     );
                                 Navigator.of(context).pop(true);
                               },
@@ -80,7 +79,7 @@ class InheritedBlocs extends InheritedWidget {
                     initialData: null,
                   ),
                   SliverToBoxAdapter(
-                    child: StreamBuilder<ChapterReference>(
+                    child: StreamBuilder<ChapterReference?>(
                       stream: InheritedBlocs.of(context)
                           .bibleBloc
                           .popupChapterReference,
@@ -89,7 +88,7 @@ class InheritedBlocs extends InheritedWidget {
                           return Reader(
                             canSwipeToNextChapter: false,
                             controller: _controller,
-                            chapterReference: reference.data,
+                            chapterReference: reference.data!,
                             showReferences: false,
                           );
                         } else {
@@ -120,14 +119,14 @@ class InheritedBlocs extends InheritedWidget {
           return Container(
             child: Text.rich(
               reference.toInlineSpan(context),
-              style: Theme.of(context).textTheme.body2,
+              style: Theme.of(context).textTheme.bodyLarge,
             ),
           );
         },
       ),
     );
 
-    Scaffold.of(context).showSnackBar(snackBar);
+    ScaffoldMessenger.of(context).showSnackBar(snackBar);
   }
 
   openVerseReferenceInSheet(

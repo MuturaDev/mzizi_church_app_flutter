@@ -3,39 +3,19 @@ import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 import 'package:line_icons/line_icons.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Feature/Reader/bible_bloc.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Feature/Settings/settings_bloc.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/MultiPartXmlBibleProvider.dart';
-import 'package:mzizichurchsystem/mzizi_bible/Foundation/Provider/ReferenceProvider.dart';
-import 'package:mzizichurchsystem/mzizi_bible/main_bible.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/google_bottom_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/database/app_database.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/announcements_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/auth_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/calendar_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/check_in_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/contact_info_page.dart';
 
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/dashboard.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/detailed_transactions_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/events_tap.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/home_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/main_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/notifications_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/portal_chat_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/sermon_series_tab.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/settings_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_functions.dart';
 
 class DashboardScreen extends KFDrawerContent {
   int selectedIndex = 0;
-  VoidCallback passOnMenuPressed;
+  VoidCallback? passOnMenuPressed;
   dynamic messagepass;
 
   DashboardScreen(
-      {this.selectedIndex, this.passOnMenuPressed, this.messagepass});
+      {required this.selectedIndex, this.passOnMenuPressed, this.messagepass});
 
   @override
   _DashboardScreenState createState() => _DashboardScreenState();
@@ -116,7 +96,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                   //backgroundColor: Colors.red,
                   padding: EdgeInsets.symmetric(horizontal: 20, vertical: 5),
                   duration: Duration(milliseconds: 100),
-                  tabBackgroundColor: Colors.grey[800],
+                  tabBackgroundColor: Colors.grey[800]!,
                   tabs: [
                     GButton(
                       icon: Icons.home,
@@ -124,7 +104,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                       backgroundColor: Color(0xFF487890),
                     ),
                     GButton(
-                      icon: FontAwesomeIcons.comments,
+                      icon: FontAwesomeIcons.comments.data,
                       iconSize: 20,
                       text: 'Chat (request service)',
                       backgroundColor: Color(0xFF487890),
@@ -135,7 +115,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                       backgroundColor: Color(0xFF487890),
                     ),
                     GButton(
-                      icon: FontAwesomeIcons.moneyBillAlt,
+                      icon: FontAwesomeIcons.moneyBillAlt.data,
                       iconSize: 20,
                       text: 'My Contributions',
                       backgroundColor: Color(0xFF487890),

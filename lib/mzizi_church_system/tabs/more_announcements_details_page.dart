@@ -7,7 +7,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart'
 import 'package:mzizichurchsystem/mzizi_church_system/utils/utility_widgets.dart';
 
 class PortalMoreAnnouncementsDetails extends KFDrawerContent {
-  final VoidCallback onMenuPressedHere;
+  final VoidCallback? onMenuPressedHere;
 
   PortalMoreAnnouncementsDetails({this.onMenuPressedHere});
 
@@ -18,9 +18,10 @@ class PortalMoreAnnouncementsDetails extends KFDrawerContent {
 
 class _PortalMoreAnnouncementsDetailsState
     extends State<PortalMoreAnnouncementsDetails> {
-  Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() async {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
+    return false;
   }
 
   @override
@@ -108,7 +109,7 @@ class _PortalMoreAnnouncementsDetailsState
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
                 Text(
-                  ': ' + response.Name,
+                  ': ' + (response.Name ?? ''),
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 20,
@@ -126,7 +127,7 @@ class _PortalMoreAnnouncementsDetailsState
                           height: 20,
                         ),
                         Text(
-                          response.Body,
+                          response.Body ?? '',
                           style: TextStyle(color: Colors.black),
                         ),
                         SizedBox(
@@ -139,7 +140,7 @@ class _PortalMoreAnnouncementsDetailsState
                                 children: <Widget>[
                                   new RichText(
                                     text: new LinkTextSpan(
-                                        url: response.DocPath,
+                                        url: response.DocPath ?? '',
                                         text: 'Open Attachment',
                                         style: TextStyle(
                                             color: Colors.blue,

@@ -1,20 +1,19 @@
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'make_a_pledge_request_model.g.dart';
 
 @JsonSerializable()
 class PortalMakeAPledge {
-  String StudentID;
-  String FeeName;
-  String Amount;
-  String TermID;
-  String YearFor;
-  String DrCr;
+  String? StudentID;
+  String? FeeName;
+  String? Amount;
+  String? TermID;
+  String? YearFor;
+  String? DrCr;
   //String StaffID;
-  String PostQb;
-  String CustomFeeRemarks;
-  String ChurchCode;
+  String? PostQb;
+  String? CustomFeeRemarks;
+  String? ChurchCode;
 
   PortalMakeAPledge(
     this.StudentID,

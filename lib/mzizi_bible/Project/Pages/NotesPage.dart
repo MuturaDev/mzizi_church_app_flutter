@@ -3,7 +3,7 @@ import 'package:mzizichurchsystem/mzizi_bible/Feature/Navigation/navigation_feat
 import 'package:mzizichurchsystem/mzizi_bible/Feature/Notes/notes_feature.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Foundation/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:zefyr/zefyr.dart';
+import 'package:flutter_quill/flutter_quill.dart';
 //import 'package:notus/notus.dart';
 
 class NotesPage extends StatelessWidget {
@@ -35,7 +35,7 @@ class NotesPage extends StatelessWidget {
           children: <Widget>[
             Form(
               key: _formKey,
-              autovalidate: false,
+              autovalidateMode: AutovalidateMode.disabled,
               child: Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Column(
@@ -47,16 +47,16 @@ class NotesPage extends StatelessWidget {
                         hintText: "Title",
                       ),
                       validator: (value) {
-                        if (value.isEmpty) {
+                        if (value!.isEmpty) {
                           return 'Please enter some text';
                         }
                       },
                     ),
-                    RaisedButton(
+                    ElevatedButton(
                       onPressed: () {
                         // Validate will return true if the form is valid, or false if
                         // the form is invalid.
-                        if (_formKey.currentState.validate()) {
+                        if (_formKey.currentState!.validate()) {
                           Navigator.pop(context, _controller.text);
                         }
                       },
@@ -82,7 +82,7 @@ class NotesPage extends StatelessWidget {
                 id: id,
                 title: text,
                 lastUpdated: DateTime.now(),
-                doc: NotusDocument(),
+                doc: Document(),
                 // doc: ""
               ),
             );

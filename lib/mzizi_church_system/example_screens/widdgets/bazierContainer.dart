@@ -6,7 +6,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/example_screens/widdgets/c
 
 
 class BezierContainer extends StatelessWidget {
-  const BezierContainer({Key key}) : super(key: key);
+  const BezierContainer({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

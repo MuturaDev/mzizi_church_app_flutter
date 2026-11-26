@@ -1,8 +1,6 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_app_get_portal_photo_gallery.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 
@@ -27,7 +25,7 @@ class _PhotoFullScreenState extends State<PhotoFullScreen> {
   @override
   Widget build(BuildContext context) {
     final List<Widget> imageSliders = widget.messagepass.albumphotos
-        .map((item) => Container(
+        !.map((item) => Container(
               child: Container(
                 margin: EdgeInsets.all(0.0),
                 child: ClipRRect(
@@ -35,7 +33,7 @@ class _PhotoFullScreenState extends State<PhotoFullScreen> {
                     child: Stack(
                       children: <Widget>[
                         Image.network(
-                          item.imageLink,
+                          item.imageLink ?? '',
                           fit: BoxFit.fill,
                           width: double.infinity,
                           height: MediaQuery.of(context).size.height / 2 - 50,
@@ -79,10 +77,11 @@ class _PhotoFullScreenState extends State<PhotoFullScreen> {
             ))
         .toList();
 
-    Future<bool> _onBackPressed() {
+    Future<bool> _onBackPressed() async {
       RouteController.routeMethod(0,
           controller: Controller.Navigator, context: context);
-    }
+      return false;
+  }
 
     return Container(
       child: WillPopScope(
@@ -164,10 +163,10 @@ class _PhotoFullScreenState extends State<PhotoFullScreen> {
                                                 MainAxisAlignment.center,
                                             children: widget
                                                 .messagepass.albumphotos
-                                                .map((url) {
+                                                !.map((url) {
                                               int index = widget
                                                   .messagepass.albumphotos
-                                                  .indexOf(url);
+                                                  !.indexOf(url);
                                               return Container(
                                                 width: 8.0,
                                                 height: 8.0,
@@ -199,7 +198,7 @@ class _PhotoFullScreenState extends State<PhotoFullScreen> {
                               width: double.infinity,
                               height: 30,
                               child: Center(
-                                child: Text(widget.messagepass.albumName,
+                                child: Text(widget.messagepass.albumName ?? '',
                                     style: TextStyle(
                                         fontSize: 20,
                                         fontWeight: FontWeight.bold,

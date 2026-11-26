@@ -1,5 +1,5 @@
-# iOS 11 is the minimum supported by Flutter 3.0 and the upgraded plugins.
-platform :ios, '11.0'
+# iOS 15 is the minimum supported by current Flutter.
+platform :ios, '15.0'
 
 # CocoaPods analytics sends network stats synchronously affecting flutter build latency.
 ENV['COCOAPODS_DISABLE_STATS'] = 'true'

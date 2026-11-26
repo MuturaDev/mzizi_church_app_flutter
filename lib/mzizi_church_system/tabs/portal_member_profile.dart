@@ -1,13 +1,12 @@
 import 'package:enhanced_future_builder/enhanced_future_builder.dart';
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_member_profile_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/utils/routes_changer.dart';
 
 class PortalMemberProfile extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
 
   PortalMemberProfile({this.onMenuPressedHere});
 
@@ -16,9 +15,10 @@ class PortalMemberProfile extends KFDrawerContent {
 }
 
 class _PortalMemberProfileState extends State<PortalMemberProfile> {
-  Future<bool> _onBackPressed() {
+  Future<bool> _onBackPressed() async {
     RouteController.routeMethod(0,
         controller: Controller.Navigator, context: context);
+    return false;
   }
 
   @override
@@ -117,7 +117,7 @@ class _PortalMemberProfileState extends State<PortalMemberProfile> {
                             TextFormField(
                                 enabled: false,
                                 initialValue: response.StudentFullName,
-                                autovalidate: false,
+                                autovalidateMode: AutovalidateMode.disabled,
                                 validator: (dynamic value) {
                                   if (value.isEmpty) {
                                     return 'Please input the amount';
@@ -137,7 +137,7 @@ class _PortalMemberProfileState extends State<PortalMemberProfile> {
                             TextFormField(
                                 enabled: false,
                                 initialValue: response.SchoolName,
-                                autovalidate: false,
+                                autovalidateMode: AutovalidateMode.disabled,
                                 validator: (dynamic value) {
                                   if (value.isEmpty) {
                                     return 'Please input the amount';
@@ -157,7 +157,7 @@ class _PortalMemberProfileState extends State<PortalMemberProfile> {
                             TextFormField(
                                 enabled: false,
                                 initialValue: response.GroupName,
-                                autovalidate: false,
+                                autovalidateMode: AutovalidateMode.disabled,
                                 validator: (dynamic value) {
                                   if (value.isEmpty) {
                                     return 'Please input the amount';
@@ -177,7 +177,7 @@ class _PortalMemberProfileState extends State<PortalMemberProfile> {
                             TextFormField(
                                 enabled: false,
                                 initialValue: response.StudentPhoneNo,
-                                autovalidate: false,
+                                autovalidateMode: AutovalidateMode.disabled,
                                 validator: (dynamic value) {
                                   if (value.isEmpty) {
                                     return 'Please input the amount';

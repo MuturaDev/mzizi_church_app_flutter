@@ -6,12 +6,12 @@ part 'portal_list_onboarding_response_model.g.dart';
 @JsonSerializable()
 class PortalListOnboardingResponseModel {
 
-  String ID;
-  String Title;
-  String Description;
-  String ExpiryDate;
-  String IsChecked;
-  String AmountCharged;
+  String? ID;
+  String? Title;
+  String? Description;
+  String? ExpiryDate;
+  String? IsChecked;
+  String? AmountCharged;
 
   PortalListOnboardingResponseModel(
     this.ID,

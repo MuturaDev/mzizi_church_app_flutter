@@ -4,7 +4,7 @@ part 'portal_parent_chat_message_model.g.dart';
 
 @JsonSerializable()
 class PortalChatUser { 
-  bool isSender;
+  bool? isSender;
   PortalChatUser({
     this.isSender,
   });
@@ -19,12 +19,12 @@ class PortalChatUser {
 
 @JsonSerializable()
 class PortalChatMessage {
-  String message;
-  PortalChatUser sender;
-  String createdAt;
-  bool showLoading;
-  bool showCanceled;
-  bool showSuccess;
+  String? message;
+  PortalChatUser? sender;
+  String? createdAt;
+  bool? showLoading;
+  bool? showCanceled;
+  bool? showSuccess;
 
   PortalChatMessage(
     this.message,

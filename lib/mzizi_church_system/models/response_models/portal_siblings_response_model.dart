@@ -1,21 +1,16 @@
 
 
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_siblings_response_model.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalSiblings{
-
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  String StudentID;
-  String RegistrationNumber;
-  String StudentFullName;
-  String CourseName;
-  String StudentStatus;
+  int? id;
+  String? StudentID;
+  String? RegistrationNumber;
+  String? StudentFullName;
+  String? CourseName;
+  String? StudentStatus;
 
   PortalSiblings(
     this.id,

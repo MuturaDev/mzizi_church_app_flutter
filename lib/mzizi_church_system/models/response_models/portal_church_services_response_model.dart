@@ -1,19 +1,18 @@
-import 'package:floor/floor.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_church_services_response_model.g.dart';
 
 @JsonSerializable()
 class PortalChurchServices {
-  String ID;
-  String ServiceDescription;
-  String StartTime;
-  String EndTime;
-  String Capacity;
-  String ServiceType;
-  String Description;
-  String Name;
-  String ChurchServiceDate;
+  String? ID;
+  String? ServiceDescription;
+  String? StartTime;
+  String? EndTime;
+  String? Capacity;
+  String? ServiceType;
+  String? Description;
+  String? Name;
+  String? ChurchServiceDate;
 
   PortalChurchServices(
     this.ID,

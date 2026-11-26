@@ -7,19 +7,19 @@ part of 'portal_notification_read_tracking_request_model.dart';
 // **************************************************************************
 
 PortalNotificationReadTracking _$PortalNotificationReadTrackingFromJson(
-    Map<String, dynamic> json) {
-  return PortalNotificationReadTracking(
-      json['id'] as int,
-      json['StudentID'] as String,
-      json['DateOpened'] as String,
-      json['AppCode'] as String);
-}
+  Map<String, dynamic> json,
+) => PortalNotificationReadTracking(
+  (json['id'] as num?)?.toInt(),
+  json['StudentID'] as String?,
+  json['DateOpened'] as String?,
+  json['AppCode'] as String?,
+);
 
 Map<String, dynamic> _$PortalNotificationReadTrackingToJson(
-        PortalNotificationReadTracking instance) =>
-    <String, dynamic>{
-      'id': instance.id,
-      'StudentID': instance.StudentID,
-      'DateOpened': instance.DateOpened,
-      'AppCode': instance.AppCode
-    };
+  PortalNotificationReadTracking instance,
+) => <String, dynamic>{
+  'id': instance.id,
+  'StudentID': instance.StudentID,
+  'DateOpened': instance.DateOpened,
+  'AppCode': instance.AppCode,
+};

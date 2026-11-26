@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/screens/Screen.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/announcements_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/auth_page.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/tabs/calendar_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/check_in_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/contact_info_page.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/contributions_page.dart';
@@ -31,8 +29,8 @@ class RouteController {
 
   static dynamic routeMethod(int selection,
       {Controller controller = Controller.DashboardScreen,
-      VoidCallback onMenuPressed,
-      BuildContext context,
+      VoidCallback? onMenuPressed,
+      BuildContext? context,
       dynamic messagepass}) {
     ClassBuilder.registerClasses(
         routePage: selection, messagepass: messagepass);
@@ -49,7 +47,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -68,7 +66,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -87,7 +85,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -106,7 +104,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -126,7 +124,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -145,7 +143,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -176,7 +174,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -215,7 +213,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -234,7 +232,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -253,7 +251,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -273,7 +271,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -293,7 +291,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -312,7 +310,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -342,7 +340,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -361,7 +359,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -384,7 +382,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator) //olderRoute
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -404,7 +402,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -432,7 +430,7 @@ class RouteController {
         //}
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,
@@ -452,7 +450,7 @@ class RouteController {
           );
         else if (controller == Controller.Navigator)
           Navigator.push(
-              context,
+              context!,
               MaterialPageRoute(
                   builder: (context) => Screen(
                         selectionIndex: selection,

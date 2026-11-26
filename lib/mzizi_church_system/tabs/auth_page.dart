@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/left_drawer_navigation.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/UtilWidgets/spring_button.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class AuthPage extends KFDrawerContent {
-  VoidCallback onMenuPressedHere;
+  VoidCallback? onMenuPressedHere;
   AuthPage({this.onMenuPressedHere});
 
   @override
@@ -32,7 +31,7 @@ class _AuthPageState extends State<AuthPage> {
   }
 
   List<Widget> listOfVideoWidget() {
-    List<Widget> returnList = new List();
+    List<Widget> returnList = [];
 
     final List<YoutubePlayerController> _controllers = [
       // 'Sw6BQynR36Q',
@@ -41,11 +40,9 @@ class _AuthPageState extends State<AuthPage> {
       'Sw6BQynR36Q',
     ]
         .map<YoutubePlayerController>(
-          (videoId) => YoutubePlayerController(
-            initialVideoId: videoId,
-            flags: YoutubePlayerFlags(
-              autoPlay: false,
-            ),
+          (videoId) => YoutubePlayerController.fromVideoId(
+            videoId: videoId,
+            autoPlay: false,
           ),
         )
         .toList();
@@ -54,15 +51,6 @@ class _AuthPageState extends State<AuthPage> {
       returnList.add(YoutubePlayer(
         key: ObjectKey(_controllers[index]),
         controller: _controllers[index],
-        actionsPadding: EdgeInsets.only(left: 16.0),
-        bottomActions: [
-          CurrentPosition(),
-          SizedBox(width: 10.0),
-          ProgressBar(isExpanded: true),
-          SizedBox(width: 10.0),
-          RemainingDuration(),
-          FullScreenButton(),
-        ],
       ));
     }
 

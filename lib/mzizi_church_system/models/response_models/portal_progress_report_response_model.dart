@@ -1,27 +1,22 @@
-import 'package:floor/floor.dart';
 
 import 'package:json_annotation/json_annotation.dart';
 
 part 'portal_progress_report_response_model.g.dart';
-
-@entity
 @JsonSerializable()
 class PortalProgressReport{
-
-  @PrimaryKey(autoGenerate: true)
-  int id;
-  String StudentFullName;
-  String YearID;
-  String TermName;
-  String ExamTypeDesc;
-  String CourseName;
-  String LevelName;
-  String Activity;
-  String LearningArea;
-  String Remarks;
-  String ScoreDescription;
-  String ClassTeacherComment;
-  String HeadTeacherComment;
+  int? id;
+  String? StudentFullName;
+  String? YearID;
+  String? TermName;
+  String? ExamTypeDesc;
+  String? CourseName;
+  String? LevelName;
+  String? Activity;
+  String? LearningArea;
+  String? Remarks;
+  String? ScoreDescription;
+  String? ClassTeacherComment;
+  String? HeadTeacherComment;
 
   PortalProgressReport(
     this.id,

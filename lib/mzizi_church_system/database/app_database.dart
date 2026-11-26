@@ -1,94 +1,125 @@
-
-
 import 'dart:async';
- import 'package:floor/floor.dart';
- import 'package:sqflite/sqflite.dart' as sqflite;
-import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/app_notification_count.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/mzizi_app_version_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_authentication_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_contacts_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_detailed_todo_list_response.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_events_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_fee_transaction_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_filtered_student_info_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_notification_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_parent_chat_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_progress_report_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_recent_transaction_response.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_siblings_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_student_detailed_results_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_student_info_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_student_results_extended_response.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_student_visualization_average_response.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_student_visualization_response.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_sync_myaccount_response_model.dart';
-import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_to_do_list_response.dart';
-import 'database_dao.dart';
-import 'dart:async';
+
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart' as sqflite;
 
+import 'database_dao.dart';
 
+export 'database_dao.dart';
 
-part 'app_database.g.dart';
+/// Local SQLite cache.
+///
+/// This replaces the floor-generated database (floor's code generator is no
+/// longer compatible with current Dart tooling). The file name, schema version
+/// and `CREATE TABLE` statements are identical to what floor generated, so
+/// databases created by earlier app versions open unchanged.
+class AppDatabase {
+  AppDatabase._(this.database);
 
-@Database(version: 1, entities: [
+  static const int schemaVersion = 1;
 
-                                AuthenticationUserResponse,
-                                 MziziAppVersion,                            
-                                 PortalContacts,
-                                 PortalEvents,
-                                 PortalDetailedTransaction,
-                                 PortalFilteredStudentInfo,
-                                 PortalNotification,
-                                 PortalProgressReport,
-                                 PortalSiblings,
-                                
-                                 PortalStudentDetailedResults,
-                                 PortalStudentInfo,
-                                 PortalSyncMyAccount,
-                                 AppNotificationCount,
-                                 ParentChatResponse,
+  static const List<String> _createStatements = [
+      'CREATE TABLE IF NOT EXISTS `AuthenticationUserResponse` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `UserID` TEXT, `UserType` TEXT, `SchoolID` TEXT, `OrganizationID` TEXT, `AppCode` TEXT, `Username` TEXT, `Password` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `MziziAppVersion` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `ForceUpdate` INTEGER)',
+      'CREATE TABLE IF NOT EXISTS `PortalContacts` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `SettingName` TEXT, `SettingValue` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalEvents` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `EventsTitle` TEXT, `Venue` TEXT, `StartDate` TEXT, `EndDate` TEXT, `StartTime` TEXT, `EndTime` TEXT, `Description` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalDetailedTransaction` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `RefNo` TEXT, `TranAmount` TEXT, `BalAmount` TEXT, `CurrentAmount` TEXT, `TranType` TEXT, `TransType` TEXT, `DatePosted` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalFilteredStudentInfo` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `Balance` TEXT, `BillingBalance` TEXT, `PortalAccount` TEXT, `PortalPaybill` TEXT, `OrganizationID` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalNotification` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `MsgID` INTEGER, `Msg` TEXT, `DateSent` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalProgressReport` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `StudentFullName` TEXT, `YearID` TEXT, `TermName` TEXT, `ExamTypeDesc` TEXT, `CourseName` TEXT, `LevelName` TEXT, `Activity` TEXT, `LearningArea` TEXT, `Remarks` TEXT, `ScoreDescription` TEXT, `ClassTeacherComment` TEXT, `HeadTeacherComment` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalSiblings` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `StudentID` TEXT, `RegistrationNumber` TEXT, `StudentFullName` TEXT, `CourseName` TEXT, `StudentStatus` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalStudentDetailedResults` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `Subjects` TEXT, `Score` TEXT, `Grade` TEXT, `Remark` TEXT, `TotalMarks` TEXT, `MeanScore` TEXT, `MeanGrade` TEXT, `StreamPosition` TEXT, `OverallPosition` TEXT, `Period` TEXT, `TermName` TEXT, `CurrentYear` TEXT, `CTComments` TEXT, `HMComments` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalStudentInfo` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `StudentFullName` TEXT, `RegistrationNumber` TEXT, `Email` TEXT, `StudentPhoneNo` TEXT, `DOB` TEXT, `DateOfAdmission` TEXT, `TwoNames` TEXT, `Balance` TEXT, `MeanGrade` TEXT, `MeanScore` TEXT, `Attendance` TEXT, `Events` TEXT, `PhotoUrl` TEXT, `CopyrightYear` TEXT, `ClassStream` TEXT, `SchoolName` TEXT, `SchoolMotto` TEXT, `BillingBalance` TEXT, `PortalAccount` TEXT, `PortalPaybill` TEXT, `OrganizationID` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalSyncMyAccount` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `BillingBalance` TEXT, `OrganizationID` TEXT, `PaybillNo` TEXT, `PortalAccount` TEXT, `Balance` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `AppNotificationCount` (`MsgID` INTEGER, PRIMARY KEY (`MsgID`))',
+      'CREATE TABLE IF NOT EXISTS `ParentChatResponse` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `Msg` TEXT, `DatePosted` TEXT, `Actor` TEXT, `sent` INTEGER, `notSent` INTEGER, `sending` INTEGER)',
+      'CREATE TABLE IF NOT EXISTS `PortalRecentTransaction` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `RefNo` TEXT, `TranType` TEXT, `TranDate` TEXT, `TranAmount` TEXT, `BalAmount` TEXT, `TransType` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalStudentVisualization` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `Period` TEXT, `UnitName` TEXT, `AverageScore` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalStudentVisualizationAverage` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `Period` TEXT, `AverageScore` TEXT, `MeanGrade` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalToDoList` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `DiaryEntryTypeID` TEXT, `DiaryEntryType` TEXT, `DiaryEntriesCount` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalDetailedTodoList` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `Name` TEXT, `ToDoAge` TEXT, `DueDate` TEXT, `DocPath` TEXT, `Body` TEXT, `UnitName` TEXT, `TeacherMemoID` TEXT, `IsFeedbackRequired` TEXT, `IsDocPathAvailable` TEXT, `IsVideoLinkAvailable` TEXT, `IsDocPathExtraAvailable` TEXT, `IsAudioLinkAvailable` TEXT, `DocPathExtra` TEXT, `VideoLink` TEXT, `AudioLink` TEXT, `TimeOffSet` TEXT, `PublishDate` TEXT, `StartTime` TEXT, `EndTime` TEXT, `SubmitStatus` TEXT)',
+      'CREATE TABLE IF NOT EXISTS `PortalStudentResultsExtended` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `ExamPeriod` TEXT, `AvgScore` TEXT, `MeanGrade` TEXT, `ExamRemarks` TEXT, `DownloadLink` TEXT, `FileURL` TEXT)',
+  ];
 
-  
-                                 PortalRecentTransaction,
-                                 PortalStudentVisualization,
-                                 PortalStudentVisualizationAverage,
-                                 PortalToDoList,
-                                 PortalDetailedTodoList,
-                                 PortalStudentResultsExtended
-                                 
+  final sqflite.Database database;
 
+  final Map<String, StreamController<void>> _changes = {};
 
-])
-abstract class AppDatabase extends FloorDatabase {
-  //v1
-  AuthenticationUserResponseDBDao get getAuthenticationUserResponseDBDao;
-  MziziAppVersionDBDao get getMziziAppVersionDBDao;
-  PortalContactsDBDao get getPortalContactsDBDao;
-  PortalDetailedTransactionDBDao get getPortalDetailedTransactionDBDao;
-  PortalFilteredStudentInfoDBDao get getPortalFilteredStudentInfoDBDao;
-  PortalNotificationDBDao get getPortalNotificationDBDao;
-  PortalProgressReportDBDao get getPortalProgressReportDBDao;
-  PortalSiblingsDBDao get getPortalSiblingsDBDao;
-  
-  PortalStudentDetailedResultsDBDao get getPortalPortalStudentDetailedResultsDBDao;
-  PortalStudentInfoDBDao get getPortalStudentInfoDBDao;
-  PortalSyncMyAccountDBDao get getPortalSyncMyAccountDBDao;
-  PortalEventsDBDao get getPortalEventsDBDao;
-  AppNotificationCountDBDao getAppNotificationCountDBDao;
-  ParentChatResponseDBDao getParentChatResponseDBDao;
+  /// Emits whenever [table] is written to through this class.
+  Stream<void> changes(String table) => _controller(table).stream;
 
-  //v2
-  PortalRecentTransactionsDBDao getPortalRecentTransactionsDBDao;
-  PortalTodoListDBDao getPortalTodoListDBDao;
-  PortalDetailedTodoListDBDao getPortalDetailedTodoListDBDao;
-  PortalStudentVisualizationDBDao getPortalStudentVisualizationDBDao;
-  PortalStudentVisualizationAverageDBDao getPortalStudentVisualizationAverageDBDao;
-  PortalStudentResultsExtendedDBDao getPortalStudentResultsExtendedDBDao;
+  StreamController<void> _controller(String table) =>
+      _changes.putIfAbsent(table, () => StreamController<void>.broadcast());
 
+  void notifyChanged(String table) => _controller(table).add(null);
+
+  static final Map<String, Future<AppDatabase>> _open = {};
+
+  /// Opens (once per process) and returns the database named [name].
+  static Future<AppDatabase> open(String name) =>
+      _open.putIfAbsent(name, () async {
+        final path = join(await sqflite.getDatabasesPath(), name);
+        final db = await sqflite.openDatabase(
+          path,
+          version: schemaVersion,
+          onConfigure: (db) => db.execute('PRAGMA foreign_keys = ON'),
+          onCreate: (db, version) async {
+            for (final sql in _createStatements) {
+              await db.execute(sql);
+            }
+          },
+        );
+        return AppDatabase._(db);
+      });
+
+  AuthenticationUserResponseDBDao get getAuthenticationUserResponseDBDao =>
+      AuthenticationUserResponseDBDao(this);
+  MziziAppVersionDBDao get getMziziAppVersionDBDao => MziziAppVersionDBDao(this);
+  PortalContactsDBDao get getPortalContactsDBDao => PortalContactsDBDao(this);
+  PortalDetailedTransactionDBDao get getPortalDetailedTransactionDBDao =>
+      PortalDetailedTransactionDBDao(this);
+  PortalFilteredStudentInfoDBDao get getPortalFilteredStudentInfoDBDao =>
+      PortalFilteredStudentInfoDBDao(this);
+  PortalNotificationDBDao get getPortalNotificationDBDao =>
+      PortalNotificationDBDao(this);
+  PortalProgressReportDBDao get getPortalProgressReportDBDao =>
+      PortalProgressReportDBDao(this);
+  PortalSiblingsDBDao get getPortalSiblingsDBDao => PortalSiblingsDBDao(this);
+  PortalStudentDetailedResultsDBDao
+      get getPortalPortalStudentDetailedResultsDBDao =>
+          PortalStudentDetailedResultsDBDao(this);
+  PortalStudentInfoDBDao get getPortalStudentInfoDBDao =>
+      PortalStudentInfoDBDao(this);
+  PortalSyncMyAccountDBDao get getPortalSyncMyAccountDBDao =>
+      PortalSyncMyAccountDBDao(this);
+  PortalEventsDBDao get getPortalEventsDBDao => PortalEventsDBDao(this);
+  AppNotificationCountDBDao get getAppNotificationCountDBDao =>
+      AppNotificationCountDBDao(this);
+  ParentChatResponseDBDao get getParentChatResponseDBDao =>
+      ParentChatResponseDBDao(this);
+  PortalRecentTransactionsDBDao get getPortalRecentTransactionsDBDao =>
+      PortalRecentTransactionsDBDao(this);
+  PortalTodoListDBDao get getPortalTodoListDBDao => PortalTodoListDBDao(this);
+  PortalDetailedTodoListDBDao get getPortalDetailedTodoListDBDao =>
+      PortalDetailedTodoListDBDao(this);
+  PortalStudentVisualizationDBDao get getPortalStudentVisualizationDBDao =>
+      PortalStudentVisualizationDBDao(this);
+  PortalStudentVisualizationAverageDBDao
+      get getPortalStudentVisualizationAverageDBDao =>
+          PortalStudentVisualizationAverageDBDao(this);
+  PortalStudentResultsExtendedDBDao get getPortalStudentResultsExtendedDBDao =>
+      PortalStudentResultsExtendedDBDao(this);
 }
 
+/// Kept so existing call sites (`$FloorAppDatabase.databaseBuilder(name).build()`)
+/// work unchanged. [build] returns a shared, already-open instance.
+class $FloorAppDatabase {
+  static AppDatabaseBuilder databaseBuilder(String name) =>
+      AppDatabaseBuilder._(name);
+}
 
-
-
+class AppDatabaseBuilder {
+  AppDatabaseBuilder._(this.name);
+  final String name;
+  Future<AppDatabase> build() => AppDatabase.open(name);
+}

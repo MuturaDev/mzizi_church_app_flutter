@@ -3,12 +3,11 @@ import 'IChapterElement.dart';
 import 'package:flutter/material.dart';
 
 class Verse extends IChapterElement {
-  int id;
   final String text;
   final int number;
-  Chapter chapter;
+  Chapter? chapter;
 
-  Verse({this.number, this.text, this.chapter}) : super(chapter: chapter);
+  Verse({required this.number, required this.text, this.chapter}) : super(chapter: chapter);
 
   @override
   List<Text> toTextWidget(BuildContext context) {
@@ -34,7 +33,7 @@ class Verse extends IChapterElement {
     ]);
 
     for (var verseElement in this.elements) {
-      span.children.add(verseElement.toTextSpanWidget(context));
+      span.children!.add(verseElement.toTextSpanWidget(context));
     }
     return span;
   }

@@ -5,10 +5,10 @@ part 'portal_video_gallery_response_model.g.dart';
 
 @JsonSerializable()
 class PortalVideoGalleryResponseModel {
-  String Name;
-  String Body;
-  String VideoLink;
-  String DueDate;
+  String? Name;
+  String? Body;
+  String? VideoLink;
+  String? DueDate;
 
   PortalVideoGalleryResponseModel(
     this.Name,

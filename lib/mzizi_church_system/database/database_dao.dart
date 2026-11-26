@@ -1,4 +1,5 @@
-import 'package:floor/floor.dart';
+import 'package:sqflite/sqflite.dart';
+
 import 'package:mzizichurchsystem/mzizi_church_system/models/model_classes/app_notification_count.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/mzizi_app_version_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_authentication_response_model.dart';
@@ -19,407 +20,452 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/por
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_student_visualization_response.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_sync_myaccount_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_to_do_list_response.dart';
+import 'app_database.dart';
 
+/// Shared row <-> model mapping for the cache tables. Column names are the
+/// model's JSON keys (as they were under floor); booleans are stored as 0/1.
+class EntityDao<T> {
+  EntityDao(this.db, this.table, this.fromJson, this.toJson,
+      {this.boolColumns = const {}});
 
-@dao
-abstract class AuthenticationUserResponseDBDao {
-  @Query('SELECT * FROM AuthenticationUserResponse')
-  Future<List<AuthenticationUserResponse>> getAuthenticationUserResponse();
+  final AppDatabase db;
+  final String table;
+  final T Function(Map<String, dynamic>) fromJson;
+  final Map<String, dynamic> Function(T) toJson;
+  final Set<String> boolColumns;
 
-  @insert
-  Future<List<int>> insertAuthenticationUserResponse(
-      List<AuthenticationUserResponse> response);
+  T _fromRow(Map<String, Object?> row) {
+    final map = Map<String, dynamic>.of(row);
+    for (final c in boolColumns) {
+      if (map[c] is int) map[c] = map[c] != 0;
+    }
+    return fromJson(map);
+  }
 
-  @update
-  Future<int> updateAuthenticationUserResponse(
-      List<AuthenticationUserResponse> response);
+  Map<String, Object?> _toRow(T item) {
+    final map = Map<String, Object?>.of(toJson(item));
+    if (map['id'] == null) map.remove('id');
+    for (final c in boolColumns) {
+      final v = map[c];
+      if (v is bool) map[c] = v ? 1 : 0;
+    }
+    return map;
+  }
 
-  @delete
-  Future<int> deleteAuthenticationUserResponse(
-      List<AuthenticationUserResponse> deleteResponses);
+  Future<List<T>> query(String sql, [List<Object?>? args]) async =>
+      (await db.database.rawQuery(sql, args)).map(_fromRow).toList();
 
-  @Query('DELETE FROM AuthenticationUserResponse')
-  Future<void> deleteAllAuthenticationUserResponse();
+  Stream<List<T>> watch(String sql, [List<Object?>? args]) async* {
+    yield await query(sql, args);
+    await for (final _ in db.changes(table)) {
+      yield await query(sql, args);
+    }
+  }
+
+  Future<List<int>> insertAll(List<T> items) async {
+    final ids = await db.database.transaction((txn) async {
+      final out = <int>[];
+      for (final item in items) {
+        out.add(await txn.insert(table, _toRow(item),
+            conflictAlgorithm: ConflictAlgorithm.abort));
+      }
+      return out;
+    });
+    db.notifyChanged(table);
+    return ids;
+  }
+
+  Future<int> updateAll(List<T> items) async {
+    var count = 0;
+    await db.database.transaction((txn) async {
+      for (final item in items) {
+        final row = _toRow(item);
+        count += await txn.update(table, row,
+            where: 'id = ?',
+            whereArgs: [row['id']],
+            conflictAlgorithm: ConflictAlgorithm.abort);
+      }
+    });
+    db.notifyChanged(table);
+    return count;
+  }
+
+  /// Deletes rows by primary key, like floor's `@delete`.
+  Future<int> deleteAll(List<T> items) async {
+    var count = 0;
+    await db.database.transaction((txn) async {
+      for (final item in items) {
+        count += await txn
+            .delete(table, where: 'id = ?', whereArgs: [_toRow(item)['id']]);
+      }
+    });
+    db.notifyChanged(table);
+    return count;
+  }
+
+  Future<void> execute(String sql, [List<Object?>? args]) async {
+    await db.database.rawDelete(sql, args);
+    db.notifyChanged(table);
+  }
 }
 
-@dao
-abstract class MziziAppVersionDBDao {
-  @Query('SELECT * FROM MziziAppVersion')
-  Future<List<MziziAppVersion>> getMziziAppVersionResponse();
+class AuthenticationUserResponseDBDao {
+  AuthenticationUserResponseDBDao(AppDatabase db)
+      : _e = EntityDao<AuthenticationUserResponse>(db, 'AuthenticationUserResponse', AuthenticationUserResponse.fromJson, (e) => e.toJson());
 
-  @insert
-  Future<List<int>> insertMziziAppVersionResponse(
-      List<MziziAppVersion> response);
+  final EntityDao<AuthenticationUserResponse> _e;
 
-  @delete
-  Future<int> deleteMziziAppVersionResponse(List<MziziAppVersion> response);
+  Future<List<AuthenticationUserResponse>> getAuthenticationUserResponse() =>
+      _e.query('SELECT * FROM AuthenticationUserResponse');
 
-  @Query('DELETE FROM MziziAppVersion')
-  Future<void> deleteAllMziziAppVersion();
+  Future<List<int>> insertAuthenticationUserResponse(List<AuthenticationUserResponse> response) => _e.insertAll(response);
+
+  Future<int> updateAuthenticationUserResponse(List<AuthenticationUserResponse> response) => _e.updateAll(response);
+
+  Future<int> deleteAuthenticationUserResponse(List<AuthenticationUserResponse> deleteResponses) => _e.deleteAll(deleteResponses);
+
+  Future<void> deleteAllAuthenticationUserResponse() =>
+      _e.execute('DELETE FROM AuthenticationUserResponse');
 }
 
-@dao
-abstract class PortalContactsDBDao {
-  @Query('SELECT * FROM PortalContacts')
-  Future<List<PortalContacts>> getPortalContactsResponse();
+class MziziAppVersionDBDao {
+  MziziAppVersionDBDao(AppDatabase db)
+      : _e = EntityDao<MziziAppVersion>(db, 'MziziAppVersion', MziziAppVersion.fromJson, (e) => e.toJson(),
+            boolColumns: {'ForceUpdate'});
 
-  @insert
-  Future<List<int>> insertPortalContactsResponse(List<PortalContacts> response);
+  final EntityDao<MziziAppVersion> _e;
 
-  @delete
-  Future<int> deletePortalContactsResponse(List<PortalContacts> response);
+  Future<List<MziziAppVersion>> getMziziAppVersionResponse() =>
+      _e.query('SELECT * FROM MziziAppVersion');
 
-  @Query('DELETE FROM PortalContacts')
-  Future<void> deleteAllPortalContacts();
+  Future<List<int>> insertMziziAppVersionResponse(List<MziziAppVersion> response) => _e.insertAll(response);
+
+  Future<int> deleteMziziAppVersionResponse(List<MziziAppVersion> response) => _e.deleteAll(response);
+
+  Future<void> deleteAllMziziAppVersion() =>
+      _e.execute('DELETE FROM MziziAppVersion');
 }
 
-@dao
-abstract class PortalDetailedTransactionDBDao {
-  @Query('SELECT * FROM PortalDetailedTransaction')
-  Future<List<PortalDetailedTransaction>> getPortalDetailedTransaction();
+class PortalContactsDBDao {
+  PortalContactsDBDao(AppDatabase db)
+      : _e = EntityDao<PortalContacts>(db, 'PortalContacts', PortalContacts.fromJson, (e) => e.toJson());
 
-  @insert
-  Future<List<int>> insertPortalDetailedTransactionResponse(
-      List<PortalDetailedTransaction> response);
+  final EntityDao<PortalContacts> _e;
 
-  @delete
-  Future<int> deletePortalDetailedTransactionResponse(
-      List<PortalDetailedTransaction> response);
+  Future<List<PortalContacts>> getPortalContactsResponse() =>
+      _e.query('SELECT * FROM PortalContacts');
 
-  @Query('DELETE FROM PortalDetailedTransaction')
-  Future<void> deleteAllPortalDetailedTransaction();
+  Future<List<int>> insertPortalContactsResponse(List<PortalContacts> response) => _e.insertAll(response);
+
+  Future<int> deletePortalContactsResponse(List<PortalContacts> response) => _e.deleteAll(response);
+
+  Future<void> deleteAllPortalContacts() =>
+      _e.execute('DELETE FROM PortalContacts');
 }
 
-@dao
-abstract class PortalFilteredStudentInfoDBDao {
-  @Query('SELECT * FROM PortalFilteredStudentInfo')
-  Future<List<PortalFilteredStudentInfo>>
-      getPortalFilteredStudentInfoResponse();
+class PortalDetailedTransactionDBDao {
+  PortalDetailedTransactionDBDao(AppDatabase db)
+      : _e = EntityDao<PortalDetailedTransaction>(db, 'PortalDetailedTransaction', PortalDetailedTransaction.fromJson, (e) => e.toJson());
 
-  @insert
-  Future<List<int>> insertPortalFilteredStudentInfoResponse(
-      List<PortalFilteredStudentInfo> response);
+  final EntityDao<PortalDetailedTransaction> _e;
 
-  @delete
-  Future<int> deletePortalFilteredStudentInfoResponse(
-      List<PortalFilteredStudentInfo> response);
+  Future<List<PortalDetailedTransaction>> getPortalDetailedTransaction() =>
+      _e.query('SELECT * FROM PortalDetailedTransaction');
 
-  @Query('DELETE FROM PortalFilteredStudentInfo')
-  Future<void> deleteAllPortalFilteredStudentInfo();
+  Future<List<int>> insertPortalDetailedTransactionResponse(List<PortalDetailedTransaction> response) => _e.insertAll(response);
+
+  Future<int> deletePortalDetailedTransactionResponse(List<PortalDetailedTransaction> response) => _e.deleteAll(response);
+
+  Future<void> deleteAllPortalDetailedTransaction() =>
+      _e.execute('DELETE FROM PortalDetailedTransaction');
 }
 
-@dao
-abstract class PortalNotificationDBDao {
-  @Query('SELECT * FROM PortalNotification')
-  Future<List<PortalNotification>> getPortalNotificationResponse();
+class PortalFilteredStudentInfoDBDao {
+  PortalFilteredStudentInfoDBDao(AppDatabase db)
+      : _e = EntityDao<PortalFilteredStudentInfo>(db, 'PortalFilteredStudentInfo', PortalFilteredStudentInfo.fromJson, (e) => e.toJson());
 
-  @Query('SELECT * FROM PortalNotification ORDER BY id DESC LIMIT 1')
-  Future<List<PortalNotification>> getLastNotificationResponse();
+  final EntityDao<PortalFilteredStudentInfo> _e;
 
-  @insert
-  Future<List<int>> insertPortalNotificationResponse(
-      List<PortalNotification> response);
+  Future<List<PortalFilteredStudentInfo>> getPortalFilteredStudentInfoResponse() =>
+      _e.query('SELECT * FROM PortalFilteredStudentInfo');
 
-  @delete
-  Future<int> deletePortalNotificationResponse(
-      List<PortalNotification> response);
+  Future<List<int>> insertPortalFilteredStudentInfoResponse(List<PortalFilteredStudentInfo> response) => _e.insertAll(response);
 
-  @Query('DELETE FROM PortalNotification')
-  Future<void> deleteAllPortalNotification();
+  Future<int> deletePortalFilteredStudentInfoResponse(List<PortalFilteredStudentInfo> response) => _e.deleteAll(response);
+
+  Future<void> deleteAllPortalFilteredStudentInfo() =>
+      _e.execute('DELETE FROM PortalFilteredStudentInfo');
 }
 
-@dao
-abstract class PortalProgressReportDBDao {
-  @Query('SELECT * FROM PortalProgressReport')
-  Future<List<PortalProgressReport>> getPortalProgressReportResponse();
+class PortalNotificationDBDao {
+  PortalNotificationDBDao(AppDatabase db)
+      : _e = EntityDao<PortalNotification>(db, 'PortalNotification', PortalNotification.fromJson, (e) => e.toJson());
 
-  //dont leave spaces between the sqp arguments, raises errors if done, it should be :examType not : examType
-  //FIXME: This was was fixed by the next line
-  // @Query('SELECT  Activity, CourseName, LevelName FROM PortalProgressReport WHERE ExamTypeDesc = :examType AND YearID = :yearFor AND TermName = :termName')
-  // Future<List<PortalProgressReport>> getActivitiesSelectedYearTermExamType(String examType, String termName, String yearFor);
+  final EntityDao<PortalNotification> _e;
 
-  @Query(
-      'SELECT DISTINCT Activity, CourseName, LevelName FROM PortalProgressReport WHERE ExamTypeDesc = :examType AND YearID = :yearFor AND TermName = :termName') //
-  Future<List<PortalProgressReport>> getActivitiesSelectedYearTermExamType(
-      String examType,
-      String yearFor,
-      String termName); //, String termName, String yearFor
+  Future<List<PortalNotification>> getPortalNotificationResponse() =>
+      _e.query('SELECT * FROM PortalNotification');
 
-  @Query(
-      'SELECT DISTINCT LearningArea, ScoreDescription, Remarks FROM PortalProgressReport WHERE  Activity = :activity AND ExamTypeDesc = :examType AND YearID = :yearFor AND TermName = :termName') // AND AND YearID = :yearFor AND TermName = :termName
-  Future<List<PortalProgressReport>>
-      getPortalProgressReportSelectedYearTermExamType(
-          String activity,
-          String examType,
-          String yearFor,
-          String termName); // , String termName, String yearFor,
+  Future<List<PortalNotification>> getLastNotificationResponse() =>
+      _e.query('SELECT * FROM PortalNotification ORDER BY id DESC LIMIT 1');
 
-  @Query(
-      'SELECT DISTINCT HeadTeacherComment FROM PortalProgressReport WHERE ExamTypeDesc = :examType AND YearID = :yearFor AND TermName = :termName')
-  Future<List<PortalProgressReport>> getHeadTeacherComment(
-      String examType, String termName, String yearFor);
+  Future<List<int>> insertPortalNotificationResponse(List<PortalNotification> response) => _e.insertAll(response);
 
-  @Query(
-      'SELECT DISTINCT ClassTeacherComment FROM PortalProgressReport WHERE ExamTypeDesc = :examType AND YearID = :yearFor AND TermName = :termName')
-  Future<List<PortalProgressReport>> getGradeFacilitatorComment(
-      String examType, String termName, String yearFor);
+  Future<int> deletePortalNotificationResponse(List<PortalNotification> response) => _e.deleteAll(response);
 
-  @Query('SELECT DISTINCT YearID FROM PortalProgressReport')
-  Future<List<PortalProgressReport>> getDistictYears();
-
-  @Query('SELECT DISTINCT TermName FROM PortalProgressReport')
-  Future<List<PortalProgressReport>> getDistictTerms();
-
-  @Query('SELECT DISTINCT ExamTypeDesc  FROM PortalProgressReport')
-  Future<List<PortalProgressReport>> getDistictExamType();
-
-  @insert
-  Future<List<int>> insertPortalProgressReportResponse(
-      List<PortalProgressReport> response);
-
-  @delete
-  Future<int> deletePortalProgressReportResponse(
-      List<PortalProgressReport> response);
-
-  @Query('DELETE FROM PortalProgressReport')
-  Future<void> deleteAllPortalProgressReportResponse();
+  Future<void> deleteAllPortalNotification() =>
+      _e.execute('DELETE FROM PortalNotification');
 }
 
-@dao
-abstract class PortalSiblingsDBDao {
-  @Query('SELECT DISTINCT StudentID,RegistrationNumber, StudentFullName,CourseName,StudentStatus FROM PortalSiblings')
-  Future<List<PortalSiblings>> getPortalSiblingsoResponse();
+class PortalProgressReportDBDao {
+  PortalProgressReportDBDao(AppDatabase db)
+      : _e = EntityDao<PortalProgressReport>(db, 'PortalProgressReport', PortalProgressReport.fromJson, (e) => e.toJson());
 
-  @insert
-  Future<List<int>> insertPortalSiblingsResponse(List<PortalSiblings> response);
+  final EntityDao<PortalProgressReport> _e;
 
-  @Query('DELETE FROM PortalSiblings')
-  Future<void> deleteAllPortalPortalSiblings();
+  Future<List<PortalProgressReport>> getPortalProgressReportResponse() =>
+      _e.query('SELECT * FROM PortalProgressReport');
 
-  @delete
-  Future<int> deletePortalSiblingsResponse(List<PortalSiblings> response);
+  Future<List<PortalProgressReport>> getActivitiesSelectedYearTermExamType(String examType, String yearFor, String termName) =>
+      _e.query('SELECT DISTINCT Activity, CourseName, LevelName FROM PortalProgressReport WHERE ExamTypeDesc = ? AND YearID = ? AND TermName = ?', [examType, yearFor, termName]);
+
+  Future<List<PortalProgressReport>> getPortalProgressReportSelectedYearTermExamType(String activity, String examType, String yearFor, String termName) =>
+      _e.query('SELECT DISTINCT LearningArea, ScoreDescription, Remarks FROM PortalProgressReport WHERE  Activity = ? AND ExamTypeDesc = ? AND YearID = ? AND TermName = ?', [activity, examType, yearFor, termName]);
+
+  Future<List<PortalProgressReport>> getHeadTeacherComment(String examType, String termName, String yearFor) =>
+      _e.query('SELECT DISTINCT HeadTeacherComment FROM PortalProgressReport WHERE ExamTypeDesc = ? AND YearID = ? AND TermName = ?', [examType, yearFor, termName]);
+
+  Future<List<PortalProgressReport>> getGradeFacilitatorComment(String examType, String termName, String yearFor) =>
+      _e.query('SELECT DISTINCT ClassTeacherComment FROM PortalProgressReport WHERE ExamTypeDesc = ? AND YearID = ? AND TermName = ?', [examType, yearFor, termName]);
+
+  Future<List<PortalProgressReport>> getDistictYears() =>
+      _e.query('SELECT DISTINCT YearID FROM PortalProgressReport');
+
+  Future<List<PortalProgressReport>> getDistictTerms() =>
+      _e.query('SELECT DISTINCT TermName FROM PortalProgressReport');
+
+  Future<List<PortalProgressReport>> getDistictExamType() =>
+      _e.query('SELECT DISTINCT ExamTypeDesc  FROM PortalProgressReport');
+
+  Future<List<int>> insertPortalProgressReportResponse(List<PortalProgressReport> response) => _e.insertAll(response);
+
+  Future<int> deletePortalProgressReportResponse(List<PortalProgressReport> response) => _e.deleteAll(response);
+
+  Future<void> deleteAllPortalProgressReportResponse() =>
+      _e.execute('DELETE FROM PortalProgressReport');
 }
 
-// @dao
-// abstract class PortalStudentClassAttendanceDBDao {
-//   @Query('SELECT * FROM PortalStudentClassAttendance')
-//   Future<List<PortalStudentClassAttendance>>
-//       getPortalStudentClassAttendanceResponse();
+class PortalSiblingsDBDao {
+  PortalSiblingsDBDao(AppDatabase db)
+      : _e = EntityDao<PortalSiblings>(db, 'PortalSiblings', PortalSiblings.fromJson, (e) => e.toJson());
 
-//   @Query(
-//       'SELECT * FROM PortalStudentClassAttendance WHERE  TermFor = :term  AND YearFor = :year')
-//   Future<List<PortalStudentClassAttendance>>
-//       getPortalStudentClassAttendanceForSelectedTermYear(
-//           String term, String year);
+  final EntityDao<PortalSiblings> _e;
 
-//   @insert
-//   Future<List<int>> insertPortalStudentClassAttendanceResponse(
-//       List<PortalStudentClassAttendance> response);
+  Future<List<PortalSiblings>> getPortalSiblingsoResponse() =>
+      _e.query('SELECT DISTINCT StudentID,RegistrationNumber, StudentFullName,CourseName,StudentStatus FROM PortalSiblings');
 
-//   @Query('SELECT DISTINCT YearFor FROM PortalStudentClassAttendance')
-//   Future<List<PortalStudentClassAttendance>> getDistictYears();
+  Future<List<int>> insertPortalSiblingsResponse(List<PortalSiblings> response) => _e.insertAll(response);
 
-//   @Query('SELECT DISTINCT TermFor FROM PortalStudentClassAttendance')
-//   Future<List<PortalStudentClassAttendance>> getDistictTerms();
+  Future<void> deleteAllPortalPortalSiblings() =>
+      _e.execute('DELETE FROM PortalSiblings');
 
-//   @Query('DELETE FROM PortalStudentClassAttendance')
-//   Future<void> deleteAllStudentClassAttendance();
-
-//   @delete
-//   Future<int> deletePortalStudentClassAttendanceResponse(
-//       List<PortalStudentClassAttendance> response);
-// }
-
-@dao
-abstract class PortalStudentDetailedResultsDBDao {
-  @Query('SELECT * FROM PortalStudentDetailedResults')
-  Future<List<PortalStudentDetailedResults>>
-      getPortalStudentDetailedResultsResponse();
-
-  @Query('SELECT DISTINCT CurrentYear FROM PortalStudentDetailedResults')
-  Future<List<PortalStudentDetailedResults>> getDistinctYears();
-
-  @insert
-  Future<List<int>> insertPortalStudentDetailedResultsResponse(
-      List<PortalStudentDetailedResults> response);
-
-  @delete
-  Future<int> deletePortalStudentDetailedResultsResponse(
-      List<PortalStudentDetailedResults> response);
-
-  @Query('DELETE FROM PortalStudentDetailedResults')
-  Future<void> deleteAllPortalStudentDetailedResults();
+  Future<int> deletePortalSiblingsResponse(List<PortalSiblings> response) => _e.deleteAll(response);
 }
 
-@dao
-abstract class PortalStudentInfoDBDao {
-  @Query('SELECT * FROM PortalStudentInfo')
-  Future<List<PortalStudentInfo>> getPortalStudentInfoResponse();
+class PortalStudentDetailedResultsDBDao {
+  PortalStudentDetailedResultsDBDao(AppDatabase db)
+      : _e = EntityDao<PortalStudentDetailedResults>(db, 'PortalStudentDetailedResults', PortalStudentDetailedResults.fromJson, (e) => e.toJson());
 
-  @insert
-  Future<List<int>> insertPortalStudentInfoResponse(
-      List<PortalStudentInfo> response);
+  final EntityDao<PortalStudentDetailedResults> _e;
 
-  @delete
-  Future<int> deletePortalStudentInfoResponse(List<PortalStudentInfo> response);
+  Future<List<PortalStudentDetailedResults>> getPortalStudentDetailedResultsResponse() =>
+      _e.query('SELECT * FROM PortalStudentDetailedResults');
 
-  @Query('DELETE FROM PortalStudentInfo')
-  Future<void> deleteAllPortalStudentInfo();
+  Future<List<PortalStudentDetailedResults>> getDistinctYears() =>
+      _e.query('SELECT DISTINCT CurrentYear FROM PortalStudentDetailedResults');
+
+  Future<List<int>> insertPortalStudentDetailedResultsResponse(List<PortalStudentDetailedResults> response) => _e.insertAll(response);
+
+  Future<int> deletePortalStudentDetailedResultsResponse(List<PortalStudentDetailedResults> response) => _e.deleteAll(response);
+
+  Future<void> deleteAllPortalStudentDetailedResults() =>
+      _e.execute('DELETE FROM PortalStudentDetailedResults');
 }
 
-@dao
-abstract class PortalSyncMyAccountDBDao {
-  @Query('SELECT * FROM PortalSyncMyAccount')
-  Future<List<PortalSyncMyAccount>> getPortalSyncMyAccountResponse();
+class PortalStudentInfoDBDao {
+  PortalStudentInfoDBDao(AppDatabase db)
+      : _e = EntityDao<PortalStudentInfo>(db, 'PortalStudentInfo', PortalStudentInfo.fromJson, (e) => e.toJson());
 
-  @insert
-  Future<List<int>> insertPortalSyncMyAccountResponse(
-      List<PortalSyncMyAccount> response);
+  final EntityDao<PortalStudentInfo> _e;
 
+  Future<List<PortalStudentInfo>> getPortalStudentInfoResponse() =>
+      _e.query('SELECT * FROM PortalStudentInfo');
 
-  @Query('DELETE FROM PortalSyncMyAccount')
-  Future<void> deleteAllPortalSyncMyAccount();
+  Future<List<int>> insertPortalStudentInfoResponse(List<PortalStudentInfo> response) => _e.insertAll(response);
+
+  Future<int> deletePortalStudentInfoResponse(List<PortalStudentInfo> response) => _e.deleteAll(response);
+
+  Future<void> deleteAllPortalStudentInfo() =>
+      _e.execute('DELETE FROM PortalStudentInfo');
 }
 
-@dao
-abstract class PortalEventsDBDao {
-  @Query('SELECT * FROM PortalEvents')
-  Future<List<PortalEvents>> getPortalEventsResponse();
+class PortalSyncMyAccountDBDao {
+  PortalSyncMyAccountDBDao(AppDatabase db)
+      : _e = EntityDao<PortalSyncMyAccount>(db, 'PortalSyncMyAccount', PortalSyncMyAccount.fromJson, (e) => e.toJson());
 
-  @insert
-  Future<List<int>> insertPortalEventsResponse(List<PortalEvents> response);
+  final EntityDao<PortalSyncMyAccount> _e;
 
-  @delete
-  Future<int> deletePortalEventsResponse(List<PortalEvents> response);
+  Future<List<PortalSyncMyAccount>> getPortalSyncMyAccountResponse() =>
+      _e.query('SELECT * FROM PortalSyncMyAccount');
 
-  @Query('DELETE FROM PortalEvents')
-  Future<void> deleteAllPortalEvents();
+  Future<List<int>> insertPortalSyncMyAccountResponse(List<PortalSyncMyAccount> response) => _e.insertAll(response);
+
+  Future<void> deleteAllPortalSyncMyAccount() =>
+      _e.execute('DELETE FROM PortalSyncMyAccount');
 }
 
-@dao
-abstract class AppNotificationCountDBDao {
-  @Query('SELECT * FROM AppNotificationCount')
-  Future<List<AppNotificationCount>> getAppNotificationCountResponse();
+class PortalEventsDBDao {
+  PortalEventsDBDao(AppDatabase db)
+      : _e = EntityDao<PortalEvents>(db, 'PortalEvents', PortalEvents.fromJson, (e) => e.toJson());
 
-  //find out why this aint working
-  // @Query('SELECT COUNT(MsgID) FROM AppNotificationCount')
-  // Future<int> getAppNotificationCount();
+  final EntityDao<PortalEvents> _e;
 
-  @insert
-  Future<List<int>> insertAppNotificationCountResponse(
-      List<AppNotificationCount> response);
+  Future<List<PortalEvents>> getPortalEventsResponse() =>
+      _e.query('SELECT * FROM PortalEvents');
 
-  @delete
-  Future<int> deleteAppNotificationCountResponse(
-      List<AppNotificationCount> response);
+  Future<List<int>> insertPortalEventsResponse(List<PortalEvents> response) => _e.insertAll(response);
 
-  @Query('DELETE FROM AppNotificationCount')
-  Future<void> deleteAllAppNotificationCount();
+  Future<int> deletePortalEventsResponse(List<PortalEvents> response) => _e.deleteAll(response);
+
+  Future<void> deleteAllPortalEvents() =>
+      _e.execute('DELETE FROM PortalEvents');
 }
 
+class AppNotificationCountDBDao {
+  AppNotificationCountDBDao(AppDatabase db)
+      : _e = EntityDao<AppNotificationCount>(db, 'AppNotificationCount', AppNotificationCount.fromJson, (e) => e.toJson());
 
-@dao
-abstract class ParentChatResponseDBDao{
-  @Query('SELECT DISTINCT Msg, DatePosted, Actor, sent,notSent, sending FROM ParentChatResponse')
-  Future<List<ParentChatResponse>> getParentChatResponse();
+  final EntityDao<AppNotificationCount> _e;
 
-  @Query('SELECT DISTINCT Msg, DatePosted, Actor, sent,notSent, sending FROM ParentChatResponse')
-  Stream<List<ParentChatResponse>> getParentChatResponseStream();
+  Future<List<AppNotificationCount>> getAppNotificationCountResponse() =>
+      _e.query('SELECT * FROM AppNotificationCount');
 
-  @insert
-  Future<List<int>> insertParentChatResponse(
-    List<ParentChatResponse> response
-  );
+  Future<List<int>> insertAppNotificationCountResponse(List<AppNotificationCount> response) => _e.insertAll(response);
 
-  @Query('DELETE FROM ParentChatResponse WHERE Msg = :message')
-Future<void> deleteOneParentChatResponse(String message);
+  Future<int> deleteAppNotificationCountResponse(List<AppNotificationCount> response) => _e.deleteAll(response);
 
-  @Query('DELETE FROM ParentChatResponse')
-  Future<void> deleteParentChatResponse();
+  Future<void> deleteAllAppNotificationCount() =>
+      _e.execute('DELETE FROM AppNotificationCount');
 }
 
+class ParentChatResponseDBDao {
+  ParentChatResponseDBDao(AppDatabase db)
+      : _e = EntityDao<ParentChatResponse>(db, 'ParentChatResponse', ParentChatResponse.fromJson, (e) => e.toJson(),
+            boolColumns: {'sent', 'notSent', 'sending'});
 
-@dao
-abstract class PortalRecentTransactionsDBDao{
-  @Query('SELECT * FROM PortalRecentTransaction')
-  Future<List<PortalRecentTransaction>> getPortalRecentTransactions();
+  final EntityDao<ParentChatResponse> _e;
 
-  @insert
-  Future<List<int>> insertPortalRecentTransactions(List<PortalRecentTransaction> response);
+  Future<List<ParentChatResponse>> getParentChatResponse() =>
+      _e.query('SELECT DISTINCT Msg, DatePosted, Actor, sent,notSent, sending FROM ParentChatResponse');
 
-  @Query('DELETE FROM PortalRecentTransaction')
-  Future<void> deletePortalRecentTransactions();
+  Stream<List<ParentChatResponse>> getParentChatResponseStream() =>
+      _e.watch('SELECT DISTINCT Msg, DatePosted, Actor, sent,notSent, sending FROM ParentChatResponse');
+
+  Future<List<int>> insertParentChatResponse(List<ParentChatResponse> response) => _e.insertAll(response);
+
+  Future<void> deleteOneParentChatResponse(String message) =>
+      _e.execute('DELETE FROM ParentChatResponse WHERE Msg = ?', [message]);
+
+  Future<void> deleteParentChatResponse() =>
+      _e.execute('DELETE FROM ParentChatResponse');
 }
 
-@dao
-abstract class PortalTodoListDBDao{
-  @Query('SELECT * FROM PortalToDoList')
-  Future<List<PortalToDoList>> getPortalTodoLists();
+class PortalRecentTransactionsDBDao {
+  PortalRecentTransactionsDBDao(AppDatabase db)
+      : _e = EntityDao<PortalRecentTransaction>(db, 'PortalRecentTransaction', PortalRecentTransaction.fromJson, (e) => e.toJson());
 
-  @insert
-  Future<List<int>> insertPortalTodoLists(List<PortalToDoList> response);
+  final EntityDao<PortalRecentTransaction> _e;
 
-  @Query('DELETE FROM PortalToDoList')
-  Future<void> deletePortalToDoLists();
-  
+  Future<List<PortalRecentTransaction>> getPortalRecentTransactions() =>
+      _e.query('SELECT * FROM PortalRecentTransaction');
+
+  Future<List<int>> insertPortalRecentTransactions(List<PortalRecentTransaction> response) => _e.insertAll(response);
+
+  Future<void> deletePortalRecentTransactions() =>
+      _e.execute('DELETE FROM PortalRecentTransaction');
 }
 
-@dao
-abstract class PortalDetailedTodoListDBDao{
-  @Query('SELECT * FROM PortalDetailedTodoList')
-  Future<List<PortalDetailedTodoList>> getPortalDetailedTodoList();
+class PortalTodoListDBDao {
+  PortalTodoListDBDao(AppDatabase db)
+      : _e = EntityDao<PortalToDoList>(db, 'PortalToDoList', PortalToDoList.fromJson, (e) => e.toJson());
 
-  @insert
-  Future<List<int>> insertPortalDetailedTodoLists(List<PortalDetailedTodoList> response);
+  final EntityDao<PortalToDoList> _e;
 
-  @Query('DELETE FROM PortalDetailedTodoList')
-  Future<void> deletePortalDetailedTodoList();
-  
+  Future<List<PortalToDoList>> getPortalTodoLists() =>
+      _e.query('SELECT * FROM PortalToDoList');
+
+  Future<List<int>> insertPortalTodoLists(List<PortalToDoList> response) => _e.insertAll(response);
+
+  Future<void> deletePortalToDoLists() =>
+      _e.execute('DELETE FROM PortalToDoList');
 }
 
+class PortalDetailedTodoListDBDao {
+  PortalDetailedTodoListDBDao(AppDatabase db)
+      : _e = EntityDao<PortalDetailedTodoList>(db, 'PortalDetailedTodoList', PortalDetailedTodoList.fromJson, (e) => e.toJson());
 
-@dao
-abstract class PortalStudentVisualizationDBDao{
-  @Query('SELECT * FROM PortalStudentVisualization')
-  Future<List<PortalStudentVisualization>> getPortalStudentVisualization();
+  final EntityDao<PortalDetailedTodoList> _e;
 
-  @insert
-  Future<List<int>> insertPortalStudentVisualization(List<PortalStudentVisualization> response);
+  Future<List<PortalDetailedTodoList>> getPortalDetailedTodoList() =>
+      _e.query('SELECT * FROM PortalDetailedTodoList');
 
-  @Query('DELETE FROM PortalStudentVisualization')
-  Future<void> deletePortalStudentVisualization();
-  
+  Future<List<int>> insertPortalDetailedTodoLists(List<PortalDetailedTodoList> response) => _e.insertAll(response);
+
+  Future<void> deletePortalDetailedTodoList() =>
+      _e.execute('DELETE FROM PortalDetailedTodoList');
 }
 
-@dao
-abstract class PortalStudentVisualizationAverageDBDao{
-  @Query('SELECT * FROM PortalStudentVisualizationAverage')
-  Future<List<PortalStudentVisualizationAverage>> getPortalStudentVisualizationAverage();
+class PortalStudentVisualizationDBDao {
+  PortalStudentVisualizationDBDao(AppDatabase db)
+      : _e = EntityDao<PortalStudentVisualization>(db, 'PortalStudentVisualization', PortalStudentVisualization.fromJson, (e) => e.toJson());
 
-  @insert
-  Future<List<int>> insertPortalStudentVisualizationAverage(List<PortalStudentVisualizationAverage> response);
+  final EntityDao<PortalStudentVisualization> _e;
 
-  @Query('DELETE FROM PortalStudentVisualizationAverage')
-  Future<void> deletePortalStudentVisualizationAverage();
-  
+  Future<List<PortalStudentVisualization>> getPortalStudentVisualization() =>
+      _e.query('SELECT * FROM PortalStudentVisualization');
+
+  Future<List<int>> insertPortalStudentVisualization(List<PortalStudentVisualization> response) => _e.insertAll(response);
+
+  Future<void> deletePortalStudentVisualization() =>
+      _e.execute('DELETE FROM PortalStudentVisualization');
 }
 
+class PortalStudentVisualizationAverageDBDao {
+  PortalStudentVisualizationAverageDBDao(AppDatabase db)
+      : _e = EntityDao<PortalStudentVisualizationAverage>(db, 'PortalStudentVisualizationAverage', PortalStudentVisualizationAverage.fromJson, (e) => e.toJson());
 
-@dao
-abstract class PortalStudentResultsExtendedDBDao{
-  @Query('SELECT * FROM PortalStudentResultsExtended')
-  Future<List<PortalStudentResultsExtended>> getPortalStudentResultsExtended();
+  final EntityDao<PortalStudentVisualizationAverage> _e;
 
-  @insert
-  Future<List<int>> insertPortalStudentResultsExtended(List<PortalStudentResultsExtended> response);
+  Future<List<PortalStudentVisualizationAverage>> getPortalStudentVisualizationAverage() =>
+      _e.query('SELECT * FROM PortalStudentVisualizationAverage');
 
-  @Query('DELETE FROM PortalStudentResultsExtended')
-  Future<void> deletePortalStudentResultsExtended();
-  
+  Future<List<int>> insertPortalStudentVisualizationAverage(List<PortalStudentVisualizationAverage> response) => _e.insertAll(response);
+
+  Future<void> deletePortalStudentVisualizationAverage() =>
+      _e.execute('DELETE FROM PortalStudentVisualizationAverage');
 }
 
+class PortalStudentResultsExtendedDBDao {
+  PortalStudentResultsExtendedDBDao(AppDatabase db)
+      : _e = EntityDao<PortalStudentResultsExtended>(db, 'PortalStudentResultsExtended', PortalStudentResultsExtended.fromJson, (e) => e.toJson());
 
+  final EntityDao<PortalStudentResultsExtended> _e;
 
+  Future<List<PortalStudentResultsExtended>> getPortalStudentResultsExtended() =>
+      _e.query('SELECT * FROM PortalStudentResultsExtended');
 
+  Future<List<int>> insertPortalStudentResultsExtended(List<PortalStudentResultsExtended> response) => _e.insertAll(response);
 
-
+  Future<void> deletePortalStudentResultsExtended() =>
+      _e.execute('DELETE FROM PortalStudentResultsExtended');
+}

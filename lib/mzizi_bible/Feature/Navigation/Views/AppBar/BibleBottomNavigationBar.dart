@@ -1,17 +1,15 @@
-import 'package:flutter_phoenix/flutter_phoenix.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Feature/InheritedBlocs.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Feature/Reader/reader_feature.dart';
 import 'package:mzizichurchsystem/mzizi_bible/Feature/Search/search_feature.dart';
 import 'package:flutter/material.dart';
-import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/screens/Screen.dart';
 
 import '../../AppPages.dart';
 
 class BibleBottomNavigationBar extends StatelessWidget {
   BibleBottomNavigationBar({
-    Key key,
-    BuildContext context,
+    Key? key,
+    required BuildContext context,
   }) : super(key: key);
 
   @override
@@ -20,7 +18,7 @@ class BibleBottomNavigationBar extends StatelessWidget {
         stream: InheritedBlocs.of(context).navigationBloc.currentPage,
         initialData: AppPage.readerPage,
         builder: (context, snapshot) {
-          int lastPage = snapshot.data.index;
+          int lastPage = snapshot.data!.index;
           return Theme(
             data: Theme.of(context).copyWith(
               // sets the background color of the `BottomNavigationBar`
@@ -29,7 +27,7 @@ class BibleBottomNavigationBar extends StatelessWidget {
             child: BottomNavigationBar(
               //fixedColor: Colors.white,
              selectedItemColor: Colors.white,
-              currentIndex: snapshot.data.index,
+              currentIndex: snapshot.data!.index,
               onTap: (index) {
                 if (index == AppPage.readerPage.index) {
                   if (lastPage == index) {
@@ -87,23 +85,23 @@ class BibleBottomNavigationBar extends StatelessWidget {
               },
               items: [
                 BottomNavigationBarItem(
-                  title: Text("Bible"),
+                  label: "Bible",
                   icon: Icon(Icons.library_books),
                 ),
                 BottomNavigationBarItem(
-                  title: Text("Notes"),
-                  icon: Icon(MdiIcons.notebook),
+                  label: "Notes",
+                  icon: Icon(Icons.menu_book),
                 ),
                 BottomNavigationBarItem(
-                  title: Text("Search"),
+                  label: "Search",
                   icon: Icon(Icons.search),
                 ),
                 BottomNavigationBarItem(
-                  title: Text("History"),
+                  label: "History",
                   icon: Icon(Icons.history),
                 ),
                 BottomNavigationBarItem(
-                  title: Text("Home"),
+                  label: "Home",
                   icon: Icon(Icons.home),
                 ),
               ],
