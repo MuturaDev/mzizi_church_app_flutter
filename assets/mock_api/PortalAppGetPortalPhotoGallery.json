@@ -1,0 +1,101 @@
+[
+  {
+    "AlbumID": "1",
+    "AlbumName": "Easter Sunday",
+    "AlbumDescription": "Easter celebration service.",
+    "AlbumType": "Photo",
+    "AlbumPhotoCount": "4",
+    "Albumphotos": [
+      {
+        "ImageID": "11",
+        "ImageLink": "https://picsum.photos/seed/mzizi-1-1/800/500",
+        "ImageHeight": "500",
+        "ImageWidth": "800"
+      },
+      {
+        "ImageID": "12",
+        "ImageLink": "https://picsum.photos/seed/mzizi-1-2/800/500",
+        "ImageHeight": "500",
+        "ImageWidth": "800"
+      },
+      {
+        "ImageID": "13",
+        "ImageLink": "https://picsum.photos/seed/mzizi-1-3/800/500",
+        "ImageHeight": "500",
+        "ImageWidth": "800"
+      },
+      {
+        "ImageID": "14",
+        "ImageLink": "https://picsum.photos/seed/mzizi-1-4/800/500",
+        "ImageHeight": "500",
+        "ImageWidth": "800"
+      }
+    ]
+  },
+  {
+    "AlbumID": "2",
+    "AlbumName": "Youth Camp",
+    "AlbumDescription": "Annual youth camp in Naivasha.",
+    "AlbumType": "Photo",
+    "AlbumPhotoCount": "5",
+    "Albumphotos": [
+      {
+        "ImageID": "21",
+        "ImageLink": "https://picsum.photos/seed/mzizi-2-1/800/500",
+        "ImageHeight": "500",
+        "ImageWidth": "800"
+      },
+      {
+        "ImageID": "22",
+        "ImageLink": "https://picsum.photos/seed/mzizi-2-2/800/500",
+        "ImageHeight": "500",
+        "ImageWidth": "800"
+      },
+      {
+        "ImageID": "23",
+        "ImageLink": "https://picsum.photos/seed/mzizi-2-3/800/500",
+        "ImageHeight": "500",
+        "ImageWidth": "800"
+      },
+      {
+        "ImageID": "24",
+        "ImageLink": "https://picsum.photos/seed/mzizi-2-4/800/500",
+        "ImageHeight": "500",
+        "ImageWidth": "800"
+      },
+      {
+        "ImageID": "25",
+        "ImageLink": "https://picsum.photos/seed/mzizi-2-5/800/500",
+        "ImageHeight": "500",
+        "ImageWidth": "800"
+      }
+    ]
+  },
+  {
+    "AlbumID": "3",
+    "AlbumName": "Community Outreach",
+    "AlbumDescription": "Medical camp and food drive.",
+    "AlbumType": "Photo",
+    "AlbumPhotoCount": "3",
+    "Albumphotos": [
+      {
+        "ImageID": "31",
+        "ImageLink": "https://picsum.photos/seed/mzizi-3-1/800/500",
+        "ImageHeight": "500",
+        "ImageWidth": "800"
+      },
+      {
+        "ImageID": "32",
+        "ImageLink": "https://picsum.photos/seed/mzizi-3-2/800/500",
+        "ImageHeight": "500",
+        "ImageWidth": "800"
+      },
+      {
+        "ImageID": "33",
+        "ImageLink": "https://picsum.photos/seed/mzizi-3-3/800/500",
+        "ImageHeight": "500",
+        "ImageWidth": "800"
+      }
+    ]
+  }
+]

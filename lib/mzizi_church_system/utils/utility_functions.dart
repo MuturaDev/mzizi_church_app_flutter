@@ -11,6 +11,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/request_models/mziz
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/mzizi_app_version_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/portal_church_services_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api_controller.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/retrofit/mock/mock_api.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/tabs/playstore_feature_update.dart';
 
 class UtilityFunctions {
@@ -29,6 +30,9 @@ class UtilityFunctions {
     } on SocketException catch (_) {
       hasConnection = false;
     }
+
+    // The offline mock API needs no internet connection.
+    if (MockApi.enabled) hasConnection = true;
 
     //CHECK THE VERSION OF THE APP
     try {

@@ -95,6 +95,8 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
    - assets/cfg/
+   # Sample API responses used only with --dart-define=MOCK_API=true
+   - assets/mock_api/
   #- resources/BibleDb.db
    - resources/esv.xml
    - resources/xml/

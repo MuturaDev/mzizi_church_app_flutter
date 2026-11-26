@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "EventsTitle": "Youth Conference",
+    "Venue": "Main Sanctuary",
+    "StartDate": "{{date+3}}",
+    "EndDate": "{{date+5}}",
+    "StartTime": "9:00 AM",
+    "EndTime": "4:00 PM",
+    "Description": "Two days of worship, teaching and fellowship for young adults."
+  },
+  {
+    "id": null,
+    "EventsTitle": "Christmas Carols Night",
+    "Venue": "Church Grounds",
+    "StartDate": "{{date+26}}",
+    "EndDate": "{{date+26}}",
+    "StartTime": "6:00 PM",
+    "EndTime": "9:00 PM",
+    "Description": "An evening of carols, candles and family. Bring a friend."
+  },
+  {
+    "id": null,
+    "EventsTitle": "Men's Breakfast",
+    "Venue": "Fellowship Hall",
+    "StartDate": "{{date+10}}",
+    "EndDate": "{{date+10}}",
+    "StartTime": "7:00 AM",
+    "EndTime": "9:30 AM",
+    "Description": "Monthly breakfast and devotion for the men's fellowship."
+  },
+  {
+    "id": null,
+    "EventsTitle": "Community Medical Camp",
+    "Venue": "Kibera Outreach Centre",
+    "StartDate": "{{date+17}}",
+    "EndDate": "{{date+17}}",
+    "StartTime": "8:00 AM",
+    "EndTime": "3:00 PM",
+    "Description": "Free health screening run with volunteer doctors and nurses."
+  }
+]

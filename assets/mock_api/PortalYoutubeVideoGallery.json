@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Sunday Sermon",
+    "Body": "Last Sunday's message.",
+    "VideoLink": "https://www.youtube.com/embed/7oIAs-0G4mw?enablejsapi=1&autoplay=1&fs=0?loop=0&modestbranding=1&rel=0",
+    "DueDate": "{{date-3}}"
+  },
+  {
+    "Name": "Worship Highlights",
+    "Body": "Praise and worship session.",
+    "VideoLink": "https://www.youtube.com/embed/uv54ec8Pg1k?enablejsapi=1&autoplay=1&fs=0?loop=0&modestbranding=1&rel=0",
+    "DueDate": "{{date-10}}"
+  }
+]

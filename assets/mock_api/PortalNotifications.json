@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "MsgID": 1,
+    "Msg": "Receipt: Ksh 1,000.00 received for Tithe. Thank you for giving.",
+    "DateSent": "{{date-1}}"
+  },
+  {
+    "id": null,
+    "MsgID": 2,
+    "Msg": "Reminder: Youth Conference event starts this Saturday at 9:00 AM.",
+    "DateSent": "{{date-2}}"
+  },
+  {
+    "id": null,
+    "MsgID": 3,
+    "Msg": "Your booking for the Sunday 2nd Service is confirmed.",
+    "DateSent": "{{date-4}}"
+  },
+  {
+    "id": null,
+    "MsgID": 4,
+    "Msg": "New chat message from the Pastoral Care team.",
+    "DateSent": "{{date-6}}"
+  },
+  {
+    "id": null,
+    "MsgID": 5,
+    "Msg": "Transaction: Ksh 500.00 Building Fund contribution received.",
+    "DateSent": "{{date-9}}"
+  }
+]

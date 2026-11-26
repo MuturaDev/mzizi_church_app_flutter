@@ -1,0 +1,29 @@
+[
+  {
+    "id": null,
+    "RefNo": "QK7H2LM9",
+    "TranType": "Tithe",
+    "TranDate": "{{date-1}}",
+    "TranAmount": "1000.00",
+    "BalAmount": "2500.00",
+    "TransType": "Tithe"
+  },
+  {
+    "id": null,
+    "RefNo": "QK2J8PX1",
+    "TranType": "Building Fund",
+    "TranDate": "{{date-9}}",
+    "TranAmount": "500.00",
+    "BalAmount": "3500.00",
+    "TransType": "Building Fund"
+  },
+  {
+    "id": null,
+    "RefNo": "QJ9D4TR6",
+    "TranType": "Offering",
+    "TranDate": "{{date-16}}",
+    "TranAmount": "2000.00",
+    "BalAmount": "4000.00",
+    "TransType": "Offering"
+  }
+]

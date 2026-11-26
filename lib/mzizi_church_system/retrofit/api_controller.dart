@@ -48,6 +48,7 @@ import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/por
 import 'package:mzizichurchsystem/mzizi_church_system/models/response_models/service_types_response_model.dart';
 import 'package:mzizichurchsystem/mzizi_church_system/retrofit/api.dart';
 import 'package:retrofit/retrofit.dart';
+import 'package:mzizichurchsystem/mzizi_church_system/retrofit/mock/mock_api.dart';
 
 class ApiController {
 //check for errors and display them kwa ui
@@ -55,7 +56,7 @@ class ApiController {
   static Future<dynamic> sendRequestToAuthenticateUser(
       AutheticateUser user) async {
     //try{
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -77,7 +78,7 @@ class ApiController {
   static Future<dynamic> sendRequestForPortalDetailedTransactions(
       Student student) async {
     //try{
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -99,7 +100,7 @@ class ApiController {
   static Future<dynamic> sendRequestForFIlteredStudentInfo(
       Student student) async {
     //try{
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -118,7 +119,7 @@ class ApiController {
 
   static Future<dynamic> sendRequestForSyncMyAccount(Student student) async {
     //try{
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -137,7 +138,7 @@ class ApiController {
 
   static Future<dynamic> sendRequestForContributions(
       PortalMakeAPledge payload) async {
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -164,7 +165,7 @@ class ApiController {
   static Future<dynamic> sendRequestForPortalNotificationsReadTracking(
       PortalNotificationReadTracking notificationReadTracking) async {
     //try{
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -187,7 +188,7 @@ class ApiController {
   static Future<dynamic> sendRequestForMziziAppVersion(
       MziziAppVersionRequest version) async {
     //try{
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -206,7 +207,7 @@ class ApiController {
 
   static Future<dynamic> sendRequestForPortalContacts(Student student) async {
     //try{
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -226,7 +227,7 @@ class ApiController {
   static Future<dynamic> sendRequestForPortalEvents() async {
     Student request = await AuthenticateUserDAO().getStudent();
 
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -260,7 +261,7 @@ class ApiController {
   static Future<dynamic> sendRequestForPortalNotifications(
       PortalNotificationRequest notification) async {
     //try{
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -281,7 +282,7 @@ class ApiController {
 
   static Future<dynamic> sendRequestForPortalSiblings(Student student) async {
     try {
-      final Dio dio = Dio(); // Provide a dio instance
+      final Dio dio = MockApi.dio(); // Provide a dio instance
       dio.options.headers["Content-Type"] = "application/json";
       final _client = RestClient(dio);
 
@@ -301,7 +302,7 @@ class ApiController {
   static Future<dynamic> sendRequestForPortalStudentDetailesResults(
       Student student) async {
     //try{
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -323,7 +324,7 @@ class ApiController {
   static Future<dynamic> sendRequestForportalStudentInfo(
       Student student) async {
     //try{
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -343,7 +344,7 @@ class ApiController {
   static Future<dynamic> sendRequestForPortalGetProgressReport(
       Student student) async {
     //try{
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -365,7 +366,7 @@ class ApiController {
   // static Future<dynamic> sendRequestForPortalStudentAttendance(
   //     PortalStudentClassRequest attendance) async {
   //   //try{
-  //   final Dio dio = Dio(); // Provide a dio instance
+  //   final Dio dio = MockApi.dio(); // Provide a dio instance
   //   dio.options.headers["Content-Type"] = "application/json";
   //   final _client = RestClient(dio);
 
@@ -387,7 +388,7 @@ class ApiController {
   static Future<dynamic> sendRequestForPortalParentChats(
       PortalParentChatRequest request) async {
     //try{
-    final Dio dio = Dio(); // Provide a dio instance
+    final Dio dio = MockApi.dio(); // Provide a dio instance
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -406,7 +407,7 @@ class ApiController {
 
   static Future<dynamic> sendRequestForPortalToDoList(
       final Student request) async {
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -422,7 +423,7 @@ class ApiController {
 
   static Future<dynamic> sendRequestForPortalDetailedToDoList() async {
     Student request = await AuthenticateUserDAO().getStudent();
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -443,7 +444,7 @@ class ApiController {
 
   static Future<dynamic> sendRequestForPortalRecentTransaction(
       final Student request) async {
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -461,7 +462,7 @@ class ApiController {
 
   static Future<dynamic> sendRequestForPortalStudentVisualization(
       final Student request) async {
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -479,7 +480,7 @@ class ApiController {
 
   static Future<dynamic> sendRequestForPortalStudentVisualizationAverage(
       final Student request) async {
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -497,7 +498,7 @@ class ApiController {
 
   static Future<dynamic> sendRequestForPortalStudentResultsExtended(
       final Student request) async {
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -518,7 +519,7 @@ class ApiController {
 
   static Future<dynamic> sendRequestForPortalSMSHistory() async {
     Student request = await AuthenticateUserDAO().getStudent();
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -586,7 +587,7 @@ class ApiController {
     Student request = new Student(list[0].UserID, list[0].AppCode);
     request.OrganizationID = (list[0].OrganizationID);
 
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -622,7 +623,7 @@ class ApiController {
 
   static Future<dynamic> sendRequestForPortalChurchServices() async {
     Student request = await AuthenticateUserDAO().getStudent();
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -660,7 +661,7 @@ class ApiController {
     //TODO: SHOULD BE REMOVED
     // request.AppCode = "1003";
 
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -701,7 +702,7 @@ class ApiController {
   static Future<dynamic> sendReqeustForPortalVideoGallery() async {
     Student request = await AuthenticateUserDAO().getStudent();
 
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -723,7 +724,7 @@ class ApiController {
   static Future<dynamic> sendRequestForPortalMemberProfile() async {
     Student request = await AuthenticateUserDAO().getStudent();
 
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -761,7 +762,7 @@ class ApiController {
       PortalSelfEnrollApplication payload) async {
     final dynamic request = await AuthenticateUserDAO().getUser();
 
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -781,7 +782,7 @@ class ApiController {
         return responseSetting;
       });
 
-      var client = http.Client();
+      var client = MockApi.httpClient();
       dynamic body;
       var url = responseSetting.GlobalSettingValue.endsWith("/")
           ? "PortalWebServices/StudentInfo.asmx/PortalAppSavePortalApplications"
@@ -821,7 +822,7 @@ class ApiController {
   static Future<dynamic> sendRequestForPortalPortalPhotoGallery() async {
     final dynamic request = await AuthenticateUserDAO().getUser();
 
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -841,7 +842,7 @@ class ApiController {
         return responseSetting;
       });
 
-      var client = http.Client();
+      var client = MockApi.httpClient();
       dynamic body;
       var url = responseSetting.GlobalSettingValue.endsWith("/")
           ? "PortalWebServices/StudentInfo.asmx/PortalAppGetPortalPhotoGallery"
@@ -882,7 +883,7 @@ class ApiController {
   static Future<dynamic> sendRequestForPortalEnquiryTypes() async {
     Student request = await AuthenticateUserDAO().getStudent();
 
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -922,7 +923,7 @@ class ApiController {
     ListOnboardingRequest request = new ListOnboardingRequest(student.StudentID,
         listOnBoardingID, isChecked, student.AppCode, method, membershipCharge);
 
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 
@@ -966,7 +967,7 @@ class ApiController {
       "AppCode": request[0].AppCode
     };
 
-    final Dio dio = Dio();
+    final Dio dio = MockApi.dio();
     dio.options.headers["Content-Type"] = "application/json";
     final _client = RestClient(dio);
 

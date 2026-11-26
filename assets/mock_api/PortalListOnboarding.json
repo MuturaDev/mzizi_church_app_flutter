@@ -1,0 +1,18 @@
+[
+  {
+    "ID": "1",
+    "Title": "Membership Class",
+    "Description": "Four-week class for new members.",
+    "ExpiryDate": "{{date+30}}",
+    "IsChecked": "0",
+    "AmountCharged": "0"
+  },
+  {
+    "ID": "2",
+    "Title": "Baptism",
+    "Description": "Register for the next baptism Sunday.",
+    "ExpiryDate": "{{date+45}}",
+    "IsChecked": "0",
+    "AmountCharged": "0"
+  }
+]

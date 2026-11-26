@@ -1,0 +1,68 @@
+[
+  {
+    "ID": "1",
+    "ServiceDescription": "1st Service (English)",
+    "StartTime": "7:30 AM",
+    "EndTime": "9:00 AM",
+    "Capacity": "300",
+    "ServiceType": "1",
+    "Description": "1st Service (English)",
+    "Name": "1st Service (English)",
+    "ChurchServiceDate": "{{date+0}} 12:00:00 AM"
+  },
+  {
+    "ID": "2",
+    "ServiceDescription": "2nd Service (English)",
+    "StartTime": "9:30 AM",
+    "EndTime": "11:00 AM",
+    "Capacity": "300",
+    "ServiceType": "1",
+    "Description": "2nd Service (English)",
+    "Name": "2nd Service (English)",
+    "ChurchServiceDate": "{{date+0}} 12:00:00 AM"
+  },
+  {
+    "ID": "3",
+    "ServiceDescription": "3rd Service (Kiswahili)",
+    "StartTime": "11:30 AM",
+    "EndTime": "1:00 PM",
+    "Capacity": "250",
+    "ServiceType": "1",
+    "Description": "3rd Service (Kiswahili)",
+    "Name": "3rd Service (Kiswahili)",
+    "ChurchServiceDate": "{{date+0}} 12:00:00 AM"
+  },
+  {
+    "ID": "4",
+    "ServiceDescription": "1st Service (English)",
+    "StartTime": "7:30 AM",
+    "EndTime": "9:00 AM",
+    "Capacity": "300",
+    "ServiceType": "1",
+    "Description": "1st Service (English)",
+    "Name": "1st Service (English)",
+    "ChurchServiceDate": "{{date+7}} 12:00:00 AM"
+  },
+  {
+    "ID": "5",
+    "ServiceDescription": "2nd Service (English)",
+    "StartTime": "9:30 AM",
+    "EndTime": "11:00 AM",
+    "Capacity": "300",
+    "ServiceType": "1",
+    "Description": "2nd Service (English)",
+    "Name": "2nd Service (English)",
+    "ChurchServiceDate": "{{date+7}} 12:00:00 AM"
+  },
+  {
+    "ID": "6",
+    "ServiceDescription": "Midweek Prayer",
+    "StartTime": "6:00 PM",
+    "EndTime": "7:30 PM",
+    "Capacity": "150",
+    "ServiceType": "2",
+    "Description": "Midweek Prayer",
+    "Name": "Midweek Prayer",
+    "ChurchServiceDate": "{{date+3}} 12:00:00 AM"
+  }
+]

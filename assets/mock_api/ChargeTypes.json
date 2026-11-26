@@ -1,0 +1,22 @@
+[
+  {
+    "ID": "1",
+    "ChargeTypeName": "Tithe"
+  },
+  {
+    "ID": "2",
+    "ChargeTypeName": "Offering"
+  },
+  {
+    "ID": "3",
+    "ChargeTypeName": "Building Fund"
+  },
+  {
+    "ID": "4",
+    "ChargeTypeName": "Missions"
+  },
+  {
+    "ID": "5",
+    "ChargeTypeName": "Thanksgiving"
+  }
+]

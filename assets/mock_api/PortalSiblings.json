@@ -1,0 +1,18 @@
+[
+  {
+    "id": null,
+    "StudentID": "20481",
+    "RegistrationNumber": "M-20481",
+    "StudentFullName": "Grace Wanjiku Kamau",
+    "CourseName": "Youth Ministry",
+    "StudentStatus": "Active"
+  },
+  {
+    "id": null,
+    "StudentID": "20482",
+    "RegistrationNumber": "M-20482",
+    "StudentFullName": "Daniel Kamau Njoroge",
+    "CourseName": "Men's Fellowship",
+    "StudentStatus": "Active"
+  }
+]

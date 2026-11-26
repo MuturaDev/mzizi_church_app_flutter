@@ -1,0 +1,14 @@
+[
+  {
+    "id": null,
+    "DiaryEntryTypeID": "1",
+    "DiaryEntryType": "Bible Study",
+    "DiaryEntriesCount": "2"
+  },
+  {
+    "id": null,
+    "DiaryEntryTypeID": "2",
+    "DiaryEntryType": "Announcements",
+    "DiaryEntriesCount": "1"
+  }
+]

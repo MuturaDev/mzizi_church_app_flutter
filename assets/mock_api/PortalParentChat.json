@@ -1,0 +1,29 @@
+[
+  {
+    "id": null,
+    "Msg": "Hello Pastor, I would like to book a counselling session.",
+    "DatePosted": "{{date-3}}",
+    "Actor": "Parent",
+    "sent": true,
+    "notSent": false,
+    "sending": false
+  },
+  {
+    "id": null,
+    "Msg": "Hello Grace, sure. Thursday at 4 PM works. See you then.",
+    "DatePosted": "{{date-3}}",
+    "Actor": "School",
+    "sent": true,
+    "notSent": false,
+    "sending": false
+  },
+  {
+    "id": null,
+    "Msg": "Thank you, I'll be there.",
+    "DatePosted": "{{date-2}}",
+    "Actor": "Parent",
+    "sent": true,
+    "notSent": false,
+    "sending": false
+  }
+]

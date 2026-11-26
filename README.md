@@ -109,3 +109,32 @@ Contact
 For any questions or inquiries, please contact [Mutura Dev] at [jamesmuturadev@gmail.com].
 
 Thank you for using Mzizi Church System! May it contribute to the smooth management and engagement within your church community. Happy managing!
+
+
+## Building and running (Flutter 3.0)
+
+The app is pinned to Flutter 3.0.0 via fvm (`.fvmrc`). Its Dart code predates
+null safety, so every run/build needs `--no-sound-null-safety`, plus a flavor
+(`mzizicms`, `bwmc`, `dcik` or `jcc`):
+
+```sh
+fvm flutter pub get
+fvm flutter run --flavor mzizicms --no-sound-null-safety
+```
+
+`bash tool/build_check.sh` runs pub get, analyze and a debug APK build and
+writes the logs to `build_logs/`.
+
+### Using the app without the backend (mock API)
+
+Add `--dart-define=MOCK_API=true` (or pick the "mzizicms (mock API, offline)"
+launch configuration in VS Code):
+
+```sh
+fvm flutter run --flavor mzizicms --no-sound-null-safety --dart-define=MOCK_API=true
+```
+
+Any username, password and church code log you in. Every API call is answered
+from `assets/mock_api/<Endpoint>.json` (sample data); edit those files, or
+`tool/make_mock_fixtures.py` and re-run it, to change what the app shows.
+Without the flag the app talks to the real API as before.

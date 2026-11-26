@@ -1,0 +1,27 @@
+[
+  {
+    "id": null,
+    "SettingName": "PHONE",
+    "SettingValue": "0700 000 111"
+  },
+  {
+    "id": null,
+    "SettingName": "EMAIL",
+    "SettingValue": "info@example.org"
+  },
+  {
+    "id": null,
+    "SettingName": "ADDRESS",
+    "SettingValue": "P.O. Box 12345-00100, Nairobi"
+  },
+  {
+    "id": null,
+    "SettingName": "WEBSITE",
+    "SettingValue": "https://church.mzizi.co.ke"
+  },
+  {
+    "id": null,
+    "SettingName": "LOCATION",
+    "SettingValue": "Ngong Road, Nairobi"
+  }
+]
